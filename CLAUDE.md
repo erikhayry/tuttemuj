@@ -13,7 +13,7 @@ An app where a person walking around Nykarleby can ask "what happened here?" (or
 ## Crawling
 
 - The site owner is OK with **polite** crawling: one request at a time, a delay of several seconds between requests, and an honest User-Agent.
-- About 50 URLs per night. We do not need the whole site before launch.
+- About 250 URLs per night. We do not need the whole site before launch.
 
 ## Data analysis
 
