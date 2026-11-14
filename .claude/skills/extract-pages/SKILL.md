@@ -33,7 +33,7 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
   - Give `birthYear`/`deathYear` only when the page states them.
   - `roles` covers things like occupation and title ("rådman", "skeppsbyggare").
   - Put spelling variants in `alternateNames`.
-- `places`: streets, buildings, farms, districts, landmarks, waters and villages.
+- `places`: streets, buildings, farms, districts, landmarks, waters, islands (incl. holmar, skär, ören) and villages.
   - Pick the closest `kind`.
   - `address`: copy it as written (old addresses are valuable). Add today's address in the `description` only if the page gives it.
   - Places that are tied to a physical spot in Nykarleby are the most important, since the app answers "what happened here?".
