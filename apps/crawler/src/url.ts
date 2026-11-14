@@ -29,6 +29,23 @@ export function normalizeUrl(href: string, base: string = SOURCE_ORIGIN): Source
   return `${SOURCE_ORIGIN}${path}`;
 }
 
+const IMAGE_EXT = /\.(jpe?g|png|gif|webp)$/i;
+
+/** Like normalizeUrl, but for image files on the site. */
+export function normalizeImageUrl(src: string, base: string): SourceUrl | undefined {
+  let url: URL;
+  try {
+    url = new URL(src.trim(), base);
+  } catch {
+    return undefined;
+  }
+  if (!/^https?:$/.test(url.protocol) || !SITE_HOSTS.has(url.hostname.toLowerCase())) {
+    return undefined;
+  }
+  const path = url.pathname.replace(/\/{2,}/g, "/");
+  return IMAGE_EXT.test(path) ? `${SOURCE_ORIGIN}${path}` : undefined;
+}
+
 /** Lower number = crawled earlier. Place-related sections first, for "what happened here?". */
 const PRIORITIES: Array<[RegExp, number]> = [
   [/^\/sidor\/texter\/(hus|gatunamn|vandring|brunnar)\//i, 0],

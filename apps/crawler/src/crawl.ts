@@ -52,10 +52,11 @@ export async function runCrawl(deps: CrawlDeps): Promise<CrawlRun> {
         status: "fetched",
         httpStatus: result.status,
         contentHash: sha256(page.text),
+        images: page.images,
         ...(result.lastModified ? { lastModified: result.lastModified } : {}),
       });
       run.fetched++;
-      log(`✓ ${entry.url} (+${page.links.length} links)`);
+      log(`✓ ${entry.url} (+${page.links.length} links, ${page.images.length} images)`);
     } else if (result.kind === "gone") {
       frontier.update({ ...base, status: "gone", httpStatus: result.status });
       run.gone++;

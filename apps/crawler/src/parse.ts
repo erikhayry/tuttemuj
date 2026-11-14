@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto";
-import type { SourceUrl } from "@tuttemuj/schema";
+import type { ImageRef, SourceUrl } from "@tuttemuj/schema";
 import * as cheerio from "cheerio";
+import { findImages } from "./images.ts";
 import { normalizeUrl } from "./url.ts";
 
 export type ParsedPage = {
@@ -8,6 +9,8 @@ export type ParsedPage = {
   /** Visible text, whitespace-collapsed. Used for hashing and extraction; never committed. */
   text: string;
   links: SourceUrl[];
+  /** Large images on the page (references only). */
+  images: ImageRef[];
 };
 
 export function parsePage(html: string, pageUrl: SourceUrl): ParsedPage {
@@ -19,11 +22,13 @@ export function parsePage(html: string, pageUrl: SourceUrl): ParsedPage {
     if (url && url !== pageUrl) links.add(url);
   });
 
+  const images = findImages($, pageUrl);
+
   $("script, style, noscript").remove();
   const text = $("body").text().replace(/\s+/g, " ").trim();
   const title = $("title").first().text().replace(/\s+/g, " ").trim();
 
-  return { title, text, links: [...links].sort() };
+  return { title, text, links: [...links].sort(), images };
 }
 
 export const sha256 = (value: string): string => createHash("sha256").update(value).digest("hex");

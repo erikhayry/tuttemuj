@@ -7,6 +7,7 @@
     "typecheck": "tsc -p .",
     "seed": "tsx src/cli/seed.ts",
     "crawl": "tsx src/cli/crawl.ts",
+    "images:backfill": "tsx src/cli/images-backfill.ts",
     "extract:next": "tsx src/cli/extract-next.ts",
     "extract:save": "tsx src/cli/extract-save.ts"
   },

@@ -8,6 +8,18 @@ export const SourceUrl = z
   .describe("Normalized absolute URL on nykarlebyvyer.nu");
 export type SourceUrl = z.infer<typeof SourceUrl>;
 
+/** A large image on a source page. Only a reference: images are never downloaded or rehosted. */
+export const ImageRef = z.object({
+  url: SourceUrl,
+  /** Size as declared by the page's <img width height>. */
+  width: z.int().positive(),
+  height: z.int().positive(),
+  alt: z.string().optional(),
+  /** Larger version, when the image is wrapped in <a href="...jpg">. */
+  fullUrl: SourceUrl.optional(),
+});
+export type ImageRef = z.infer<typeof ImageRef>;
+
 export const FrontierStatus = z.enum(["pending", "fetched", "failed", "gone"]);
 export type FrontierStatus = z.infer<typeof FrontierStatus>;
 
@@ -23,6 +35,8 @@ export const FrontierEntry = z.object({
   /** sha256 of the decoded page content, used for change detection. */
   contentHash: z.string().optional(),
   lastModified: z.string().optional(),
+  /** Large images found on the page (small icons, arrows etc. are filtered out). */
+  images: z.array(ImageRef).optional(),
   error: z.string().optional(),
 });
 export type FrontierEntry = z.infer<typeof FrontierEntry>;
