@@ -26,3 +26,16 @@ export const FrontierEntry = z.object({
   error: z.string().optional(),
 });
 export type FrontierEntry = z.infer<typeof FrontierEntry>;
+
+/** Summary of one crawl run (data/runs.jsonl). */
+export const CrawlRun = z.object({
+  startedAt: z.iso.datetime(),
+  finishedAt: z.iso.datetime(),
+  attempted: z.int().nonnegative(),
+  fetched: z.int().nonnegative(),
+  gone: z.int().nonnegative(),
+  failed: z.int().nonnegative(),
+  discovered: z.int().nonnegative(),
+  pendingAfter: z.int().nonnegative(),
+});
+export type CrawlRun = z.infer<typeof CrawlRun>;
