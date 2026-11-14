@@ -10,6 +10,7 @@ import {
 import { z } from "zod";
 import type { PageCache } from "../cache.ts";
 import type { Frontier } from "../frontier.ts";
+import type { Gazetteer } from "../gazetteer/geocode.ts";
 import { parsePage } from "../parse.ts";
 import type { extractionPaths } from "./paths.ts";
 
@@ -79,8 +80,13 @@ export type SaveResult = {
   invalid: Array<{ url: string; error: string }>;
 };
 
-/** Validate drafts for the current batch, stamp bookkeeping fields and write them to data/pages. */
-export async function saveDrafts(opts: { paths: Paths; now?: Date }): Promise<SaveResult> {
+/** Validate drafts for the current batch, stamp bookkeeping fields, geocode and write them to data/pages. */
+export async function saveDrafts(opts: {
+  paths: Paths;
+  now?: Date;
+  /** When given, places get coordinates from the gazetteer. */
+  gazetteer?: Gazetteer;
+}): Promise<SaveResult> {
   const { paths } = opts;
   const now = (opts.now ?? new Date()).toISOString();
   const tasks = z.array(ExtractionTask).parse((await readJson(paths.batch)) ?? []);
@@ -113,7 +119,7 @@ export async function saveDrafts(opts: { paths: Paths; now?: Date }): Promise<Sa
       extractionVersion: EXTRACTION_VERSION,
       extractedAt: now,
     });
-    await writeJson(paths.page(task.sourceUrl), page);
+    await writeJson(paths.page(task.sourceUrl), opts.gazetteer?.geocodePage(page) ?? page);
     await rm(task.draftPath);
     result.saved.push(task.sourceUrl);
   }

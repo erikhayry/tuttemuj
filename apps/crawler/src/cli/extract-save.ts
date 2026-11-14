@@ -1,9 +1,15 @@
 import { loadConfig } from "../config.ts";
 import { saveDrafts } from "../extract/extract.ts";
 import { extractionPaths } from "../extract/paths.ts";
+import { loadGazetteer } from "../gazetteer/load.ts";
 
 const config = loadConfig();
-const result = await saveDrafts({ paths: extractionPaths(config.DATA_DIR, config.CACHE_DIR) });
+const gazetteer = await loadGazetteer(config.DATA_DIR);
+if (!gazetteer) console.warn("No data/gazetteer.json; places are saved without coordinates.");
+const result = await saveDrafts({
+  paths: extractionPaths(config.DATA_DIR, config.CACHE_DIR),
+  ...(gazetteer ? { gazetteer } : {}),
+});
 
 for (const url of result.saved) console.log(`✓ ${url}`);
 for (const url of result.missing) console.log(`… ${url} (no draft yet)`);

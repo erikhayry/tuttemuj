@@ -1,4 +1,6 @@
 import { z } from "zod";
+import { PlaceGeo } from "./gazetteer.ts";
+import { PlaceKind } from "./place-kind.ts";
 import { SourceUrl } from "./source.ts";
 
 /** A date as precise as the source allows, e.g. "ca 1850", "maj 1918". */
@@ -22,18 +24,6 @@ export const PersonMention = z.object({
 });
 export type PersonMention = z.infer<typeof PersonMention>;
 
-export const PlaceKind = z.enum([
-  "street",
-  "building",
-  "farm",
-  "district",
-  "landmark",
-  "waterbody",
-  "island",
-  "village",
-  "other",
-]);
-
 export const PlaceMention = z.object({
   name: z.string().min(1),
   kind: PlaceKind,
@@ -41,8 +31,13 @@ export const PlaceMention = z.object({
   /** Address as written in the source (may be historical). */
   address: z.string().optional(),
   description: z.string().optional(),
+  /** Added by geocoding against data/gazetteer.json, never by the analyst. */
+  geo: PlaceGeo.optional(),
 });
 export type PlaceMention = z.infer<typeof PlaceMention>;
+
+/** What the analyst writes for a place: everything except the geocoded location. */
+export const PlaceMentionDraft = PlaceMention.omit({ geo: true });
 
 export const EventMention = z.object({
   title: z.string().min(1),
@@ -83,7 +78,7 @@ export const PageExtractionDraft = PageExtraction.omit({
   contentHash: true,
   extractionVersion: true,
   extractedAt: true,
-});
+}).extend({ places: z.array(PlaceMentionDraft).default([]) });
 export type PageExtractionDraft = z.infer<typeof PageExtractionDraft>;
 
 /** One page handed out for analysis (.cache/extract/batch.json). */
