@@ -5,7 +5,13 @@
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
-export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+# launchd starts jobs with a minimal PATH; add the usual Node/pnpm install locations.
+export PNPM_HOME="${PNPM_HOME:-$HOME/Library/pnpm}"
+export PATH="$PNPM_HOME/bin:$PNPM_HOME:$HOME/.local/share/pnpm:/opt/homebrew/bin:/usr/local/bin:$PATH"
+if ! command -v pnpm >/dev/null; then
+  echo "pnpm not found on PATH ($PATH)" >&2
+  exit 1
+fi
 
 branch="$(git rev-parse --abbrev-ref HEAD)"
 if [[ "$branch" != "main" ]]; then
