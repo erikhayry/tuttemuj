@@ -35,14 +35,18 @@ export class Frontier {
     this.entries.set(entry.url, FrontierEntry.parse(entry));
   }
 
-  /** Next pending URLs: highest-priority section first, then fewest attempts, then URL. */
-  next(limit: number): FrontierEntry[] {
+  /** Entries with a status: highest-priority section first, then fewest attempts, then URL. */
+  byPriority(status: FrontierEntry["status"]): FrontierEntry[] {
     return [...this.entries.values()]
-      .filter((e) => e.status === "pending")
+      .filter((e) => e.status === status)
       .map((e) => ({ e, p: crawlPriority(e.url) }))
       .sort((a, b) => a.p - b.p || a.e.attempts - b.e.attempts || a.e.url.localeCompare(b.e.url))
-      .slice(0, limit)
       .map(({ e }) => e);
+  }
+
+  /** Next pending URLs to crawl. */
+  next(limit: number): FrontierEntry[] {
+    return this.byPriority("pending").slice(0, limit);
   }
 
   count(status?: FrontierEntry["status"]): number {

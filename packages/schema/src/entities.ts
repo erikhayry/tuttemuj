@@ -70,3 +70,27 @@ export const PageExtraction = z.object({
   extractedAt: z.iso.datetime(),
 });
 export type PageExtraction = z.infer<typeof PageExtraction>;
+
+/** Bump when the extraction instructions or schema change, so pages get re-analysed. */
+export const EXTRACTION_VERSION = 1;
+
+/**
+ * What the analyst (Claude Code, run manually) writes for one page.
+ * Bookkeeping fields (hash, version, timestamp) are stamped by `extract:save`.
+ */
+export const PageExtractionDraft = PageExtraction.omit({
+  contentHash: true,
+  extractionVersion: true,
+  extractedAt: true,
+});
+export type PageExtractionDraft = z.infer<typeof PageExtractionDraft>;
+
+/** One page handed out for analysis (.cache/extract/batch.json). */
+export const ExtractionTask = z.object({
+  sourceUrl: SourceUrl,
+  title: z.string(),
+  contentHash: z.string(),
+  textPath: z.string(),
+  draftPath: z.string(),
+});
+export type ExtractionTask = z.infer<typeof ExtractionTask>;

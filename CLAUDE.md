@@ -15,6 +15,10 @@ An app where a person walking around Nykarleby can ask "what happened here?" (or
 - The site owner is OK with **polite** crawling: one request at a time, a delay of several seconds between requests, and an honest User-Agent.
 - About 50 URLs per night. We do not need the whole site before launch.
 
+## Data analysis
+
+The analysis runs manually in Claude Code with the `/extract-pages` skill, on the user's subscription. No Anthropic API key is used. The nightly job only fetches pages.
+
 ## Conventions
 
 - A TypeScript pnpm monorepo: `apps/*` are runnable apps, `packages/*` are shared libraries.

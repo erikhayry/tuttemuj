@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/00karta.htm",
+  "title": "Stadsplan",
+  "summary": "Klickbar stadskarta över Nykarleby som leder vidare till sajtens artikelserier om enskilda platser och byggnader. Kartan kommer från Nordisk familjebok 1914 och visar även de kvarter som tillkom genom stadsplanen 1912.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "stadsplanering"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelns hus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny stadsplan med nya kvarter i norr och öster",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "stadsplanen 1912"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kartan publiceras i artikeln Nykarleby i Nordisk familjebok",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "Nordisk familjebok 1914"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "87fa99841b9a95dfc745dea2ac39643a1f2e233283473ebe1e221a1d269c0df7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T22:45:59.250Z"
+}
