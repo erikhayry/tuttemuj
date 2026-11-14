@@ -95,7 +95,15 @@
     {
       "name": "Kyrkogatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Borgargatan",

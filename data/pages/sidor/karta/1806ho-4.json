@@ -22,7 +22,15 @@
     {
       "name": "Källbacken",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Storgatan",

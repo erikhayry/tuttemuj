@@ -34,7 +34,15 @@
     {
       "name": "Källbackgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Tullgatan",

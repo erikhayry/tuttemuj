@@ -78,7 +78,15 @@
     {
       "name": "Torsön",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Soklothällan",
@@ -162,7 +170,15 @@
       "kind": "waterbody",
       "alternateNames": [
         "Torsö fjärden"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Lodösundet",

@@ -41,7 +41,15 @@
     {
       "name": "Munsala",
       "kind": "village",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Hummelholmen",

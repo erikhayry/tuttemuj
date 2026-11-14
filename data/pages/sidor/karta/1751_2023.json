@@ -21,12 +21,28 @@
     {
       "name": "Topeliusesplanaden",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Bankgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Liljedahls affärshus",

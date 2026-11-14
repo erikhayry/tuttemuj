@@ -49,7 +49,15 @@
       "alternateNames": [
         "Kyrkan"
       ],
-      "description": "Från 1708, muromgärdad med stigluckor."
+      "description": "Från 1708, muromgärdad med stigluckor.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Klockstapeln",
@@ -103,7 +111,15 @@
       "name": "Mellangatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Från öster om tomt 51 fram till Östra gatan."
+      "description": "Från öster om tomt 51 fram till Östra gatan.",
+      "geo": {
+        "lat": 63.5256472,
+        "lng": 22.5228374,
+        "match": "name",
+        "gazetteerName": "mellangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Östra gatan",

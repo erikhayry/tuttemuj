@@ -87,7 +87,15 @@
       "name": "Långörn",
       "kind": "island",
       "alternateNames": [],
-      "description": "Tidig villabosättning."
+      "description": "Tidig villabosättning.",
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Sjöhaga",

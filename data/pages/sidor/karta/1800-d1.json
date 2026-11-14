@@ -26,7 +26,15 @@
     {
       "name": "Jeansborg",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Juthbacka",
@@ -62,7 +70,15 @@
     {
       "name": "Jakobstadsvägen",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     }
   ],
   "events": [],

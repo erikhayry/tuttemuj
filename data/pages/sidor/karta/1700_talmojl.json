@@ -23,7 +23,15 @@
       "kind": "island",
       "alternateNames": [
         "Björkskär"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Furuskärshällarna",
@@ -33,7 +41,15 @@
     {
       "name": "Torsön",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Hästskär",
@@ -71,7 +87,15 @@
     {
       "name": "Bådan",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Stor Alörn",
@@ -108,7 +132,15 @@
     {
       "name": "Långörn",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Larsholmarna",

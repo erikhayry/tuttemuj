@@ -40,34 +40,82 @@
     {
       "name": "Bankgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Juthasvägen",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Karleborgsgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Häggbloms",
       "kind": "building",
       "alternateNames": [],
-      "address": "Karleborgsgatan 6"
+      "address": "Karleborgsgatan 6",
+      "geo": {
+        "lat": 63.52082290000001,
+        "lng": 22.5342941,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Topeliusesplanaden",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Torghallen",
       "kind": "building",
       "alternateNames": [],
-      "address": "Topeliusesplanaden 6"
+      "address": "Topeliusesplanaden 6",
+      "geo": {
+        "lat": 63.5215507,
+        "lng": 22.5298476,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
     }
   ],
   "events": [

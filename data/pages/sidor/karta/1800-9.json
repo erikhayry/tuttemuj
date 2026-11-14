@@ -42,12 +42,28 @@
     {
       "name": "Mickelsbacka",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5069048,
+        "lng": 22.5419179,
+        "match": "name",
+        "gazetteerName": "mickelsbacka",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Sorvist",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49449620000001,
+        "lng": 22.6505617,
+        "match": "name",
+        "gazetteerName": "sorvist",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Torp",

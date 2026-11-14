@@ -89,7 +89,15 @@
       "name": "Kyrkan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Låg nästan exakt där den gamla kyrkan stått; nya tomter söder och sydost om den."
+      "description": "Låg nästan exakt där den gamla kyrkan stått; nya tomter söder och sydost om den.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Stadsstaketet",
@@ -129,7 +137,15 @@
       "name": "Källbacken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Endast delvis bebyggd 1750."
+      "description": "Endast delvis bebyggd 1750.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Torget",
