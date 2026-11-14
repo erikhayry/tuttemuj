@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800jutb.htm",
+  "title": "Jutbacka av Thure Heikel 1900",
+  "summary": "Thure Heikels karta från 1900 över en del av Jutbacka vid Nykarleby älv, som visar Juthbacka kvarn tvärs över fåran, bron, Saarela, Koski bryggeri och Värnamogården.",
+  "topics": [
+    "karta",
+    "kvarn",
+    "bryggeri",
+    "älven"
+  ],
+  "people": [
+    {
+      "name": "Thure Heikel",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Upprättade kartan."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll och kommenterade kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jutbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "name": "Juthbacka kvarn",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggd tvärs över älvfåran."
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Nykarleby elf"
+      ]
+    },
+    {
+      "name": "Saarela",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Koski bryggeri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Karaktärsbyggnaden flyttades senare."
+    },
+    {
+      "name": "Värnamogården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Nygårds h[emma]ns egor"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Thure Heikel daterar kartan över Jutbacka",
+      "date": {
+        "year": 1900,
+        "month": 4,
+        "day": 9,
+        "circa": false,
+        "text": "den 9 april 1900"
+      },
+      "people": [
+        "Thure Heikel"
+      ],
+      "places": [
+        "Jutbacka"
+      ]
+    }
+  ],
+  "contentHash": "058c67c484bf86b2090c792d7e8324550877b3b9db4c23ee52afc30d8f5bd589",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

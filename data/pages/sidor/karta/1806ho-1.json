@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-1.htm",
+  "title": "Norrtull, detalj ur Holms karta 1806",
+  "summary": "Detalj av Holms stadskarta från 1806 över Norrtull, med Storgatan, Källbackgatan och Tullgatan. Här låg tullporten och tullhuset – det som i dag är Nykarleby museum.",
+  "topics": [
+    "stadsplan",
+    "tull",
+    "museum",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [
+        "Abraham H. Holm",
+        "Holm"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Norrtull",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Storgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullporten",
+      "kind": "landmark",
+      "alternateNames": [
+        "Tullport"
+      ]
+    },
+    {
+      "name": "Tullhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Tullhus"
+      ],
+      "description": "Nuvarande Nykarleby museum."
+    },
+    {
+      "name": "Stadsbäcken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Mynnade ungefär vid Grev Tottgatans tänkta förlängning mot älven."
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Holms stadskarta",
+      "date": {
+        "year": 1806,
+        "circa": false,
+        "text": "1806"
+      },
+      "people": [
+        "Abrah. H. Holm"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "782ecff5a9393442ddb171d87530d5ced7505e8ba951c19d6b92cd17726d0906",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

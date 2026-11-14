@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-0.htm",
+  "title": "Charta öfver Nykarleby Stad av Abrah. H. Holm 1806",
+  "summary": "Stadskarta över Nykarleby, ursprungligen upprättad av Wislander och renoverad av Abraham H. Holm 1806. Ovanligt nog anger den måtten på tomterna, men bara de officiella byggnaderna är inritade. Kartan kan ses i åtta delförstoringar.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "tomter",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [
+        "Abraham H. Holm",
+        "Holm"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Gullic Wislander",
+      "alternateNames": [],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ],
+      "description": "Skrev Stadsplan och bebyggelse och Gårdsägare 1810—1858."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Wislander upprättar stadskartan",
+      "date": {
+        "year": 1740,
+        "circa": false,
+        "text": "Uprättad år 1740"
+      },
+      "people": [
+        "Gullic Wislander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Abrah. H. Holm renoverar stadskartan",
+      "date": {
+        "year": 1806,
+        "circa": false,
+        "text": "år 1806 Renowerad"
+      },
+      "people": [
+        "Abrah. H. Holm"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "contentHash": "dbfe776bb33d9ccc0396d3f5f6e14bd6ba0a88f46a8819d0f02764bc23a6caae",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

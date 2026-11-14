@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800-0.htm",
+  "title": "Plan över Nykarleby av okänd, 1800-talet",
+  "summary": "En okänd karta över Nykarleby med omgivning från Krigsarkivet i Stockholm, troligen ritad 1885–1898 eftersom de nya infarterna finns men inte järnvägen. Enligt arkivet gjordes den för att ryska trupper låg vid staden; kartan är uppdelad i nio delområden.",
+  "topics": [
+    "karta",
+    "1800-talet",
+    "ryska trupper",
+    "krigsarkivet"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ],
+      "description": "Kartan ingår i hans Nykarleby stads historia del II (1980)."
+    },
+    {
+      "name": "Bertil Olofsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Svarade för Krigsarkivet."
+    },
+    {
+      "name": "Björn Gäfvert",
+      "alternateNames": [],
+      "roles": [
+        "kartchef"
+      ],
+      "description": "Kartchef vid Krigsarkivet."
+    },
+    {
+      "name": "Vilhelm Nyby",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Infarten från Jeppo",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Infarten från Kovjoki",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Okänd karta över Nykarleby ritas, troligen för ryska trupper",
+      "date": {
+        "year": 1885,
+        "circa": true,
+        "text": "förmodligen från perioden 1885–1898"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "5ebc7b447d047691f6bc490e81c57f9fdc8437818ee339c22e3831435da32a10",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

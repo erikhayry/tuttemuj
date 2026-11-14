@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1651cc-0.htm",
+  "title": "Claes Claessons regleringsplan över Nykarleby 1651",
+  "summary": "Claes Claessons stadsplan från 1651 föreslog en reglering av Nykarleby som aldrig blev av. Sidan tolkar kartans förklaringar – kyrkan, skolan, prästgården, borgmästarens och postmästarens gårdar – och de handskrivna noteringarna om älven, berget och prästgårdens marker.",
+  "topics": [
+    "kartor",
+    "stadsplan",
+    "1600-talet",
+    "gårdar"
+  ],
+  "people": [
+    {
+      "name": "Claes Claesson",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Tysk Peer",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gårdsägare."
+    },
+    {
+      "name": "Kort Bockmöller",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gårdsägare."
+    },
+    {
+      "name": "Carl Nilsson",
+      "alternateNames": [
+        "Carol Nilsson"
+      ],
+      "roles": [
+        "befallningsman"
+      ]
+    },
+    {
+      "name": "Josef Jacobsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans gård var tidigare borgmästarens säte."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotot av kartan ingår i hans material i stadens arkiv."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrckian"
+      ]
+    },
+    {
+      "name": "Skolan",
+      "kind": "building",
+      "alternateNames": [
+        "Scholan"
+      ]
+    },
+    {
+      "name": "Prästgården",
+      "kind": "farm",
+      "alternateNames": [
+        "Prestegården"
+      ]
+    },
+    {
+      "name": "Tysk Peers gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kort Bockmöllers gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Carl Nilssons gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Befallningsmannens gård."
+    },
+    {
+      "name": "Borgmästarens gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Josef Jacobssons gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Fordom borgmästarens säte."
+    },
+    {
+      "name": "Postmästarens gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Wederquarn",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Väderkvarn i kartans övre högra hörn, ungefär där museet finns i dag."
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Nye Carleby Elf"
+      ]
+    },
+    {
+      "name": "Prästgårdens beteshage",
+      "kind": "other",
+      "alternateNames": [
+        "Prestegårdz Betes Haga"
+      ]
+    },
+    {
+      "name": "Åvik",
+      "kind": "other",
+      "alternateNames": [
+        "Åwijk"
+      ],
+      "description": "Vid östra åstranden; vattnet gick långt upp om våren."
+    },
+    {
+      "name": "Sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": [
+        "Bergh"
+      ]
+    },
+    {
+      "name": "Prästgårdens åker",
+      "kind": "other",
+      "alternateNames": [
+        "Prestegårdz Åker"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Claes Claesson upprättar en regleringsplan för Nykarleby, som inte genomförs",
+      "date": {
+        "year": 1651,
+        "circa": false,
+        "text": "Anno 1651"
+      },
+      "people": [
+        "Claes Claesson"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "d699b0eef003f18b2f77b7f176d5ece0038494e806f3132fa17851be0d945534",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:04:37.919Z"
+}

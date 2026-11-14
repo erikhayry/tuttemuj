@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1816ro-d.htm",
+  "title": "Detalj ur Rosenkampffs plan över Nykarleby 1816",
+  "summary": "Detalj av Rosenkampffs plan från 1816 kring kyrkan och rådhuset, där Scholhuset utgör rådhusets södra flygel. Även den senare så kallade Stenhustomten och sockenstugan syns.",
+  "topics": [
+    "stadsplan",
+    "skola",
+    "rådhus",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl von Rosenkampff",
+      "alternateNames": [
+        "Rosenkampff"
+      ],
+      "roles": [
+        "ingenjörlöjtnant"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stenhustomten",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Scholhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Rådhusets södra flygel, byggd 1729; skolan byggdes ut 1852."
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Scholhuset byggs som rådhusets södra flygel",
+      "date": {
+        "year": 1729,
+        "circa": false,
+        "text": "byggd 1729"
+      },
+      "people": [],
+      "places": [
+        "Scholhuset"
+      ]
+    },
+    {
+      "title": "Skolan byggs ut",
+      "date": {
+        "year": 1852,
+        "circa": false,
+        "text": "1852"
+      },
+      "people": [],
+      "places": [
+        "Scholhuset"
+      ]
+    },
+    {
+      "title": "Rosenkampffs plan över Nykarleby",
+      "date": {
+        "year": 1816,
+        "circa": false,
+        "text": "1816"
+      },
+      "people": [
+        "Carl von Rosenkampff"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "0bd670a9a381160d661fc4fad7e43ec88dc21222199a7ef22d5b6ec661d0c8d3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

@@ -1,0 +1,162 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1649clae.htm",
+  "title": "Claes Claessons karta över Nykarleby 1649",
+  "summary": "Lantmätaren Claes Claessons karta från 1649 visar Nykarlebys rådhus, kyrka, skola och flera namngivna gårdar i den unga staden. Sidan förklarar också att Olaf Bures ursprungliga plan var så regelbunden att Claesson bara behövde räta ut huvudgatan.",
+  "topics": [
+    "kartor",
+    "stadsplan",
+    "1600-talet",
+    "gårdar"
+  ],
+  "people": [
+    {
+      "name": "Claes Claesson",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Olaf Bure",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav staden dess regelbundna grundstruktur vid grundandet."
+    },
+    {
+      "name": "Josef Jacobsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gårdsägare i Nykarleby 1649."
+    },
+    {
+      "name": "Kort Bockmöller",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gårdsägare i Nykarleby 1649."
+    },
+    {
+      "name": "Carol Nilsson",
+      "alternateNames": [
+        "Carl Nilsson"
+      ],
+      "roles": [],
+      "description": "Gårdsägare i Nykarleby 1649."
+    },
+    {
+      "name": "Tysk Peer",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gårdsägare i Nykarleby 1649."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Höll föredrag vid stadens 350-årsjubileum 1970."
+    },
+    {
+      "name": "Henrik Lilius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Författare till Trästaden i Finland (1985)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Josef Jacobssons gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kort Bockmöllers gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Carol Nilssons gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Tysk Peers gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Länsmansgården",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Postmästargården",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Skolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby grundas",
+      "date": {
+        "year": 1620,
+        "circa": false,
+        "text": "founded in 1620"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Claes Claesson kartlägger Nykarleby",
+      "date": {
+        "year": 1649,
+        "circa": false,
+        "text": "1649"
+      },
+      "people": [
+        "Claes Claesson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Erik Bircks föredrag vid stadens 350-årsjubileum",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 23,
+        "circa": false,
+        "text": "23. 8. 1970"
+      },
+      "people": [
+        "Erik Birck"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "507052b931de99721bd8b8d4327dd9fc77884f1ccc5f160d7aa782bf2ac0ccb0",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:04:37.919Z"
+}

@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800-1.htm",
+  "title": "Plan över Nykarleby, Laxön",
+  "summary": "Delkarta över Laxön i Nykarlebys skärgård ur en okänd karta från 1800-talet, med öar och grund som Lamalot, Tornskär och Äggskär. Här fanns fiskaren Jarl Blomqvists ”huvudkvarter” och ett minnesmärke över jägaretappstationen.",
+  "topics": [
+    "skärgård",
+    "karta",
+    "fiske",
+    "jägarrörelsen"
+  ],
+  "people": [
+    {
+      "name": "Jarl Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ],
+      "description": "Hade sitt ”huvudkvarter” på Laxön."
+    }
+  ],
+  "places": [
+    {
+      "name": "Laxön",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Ö i skärgården med minnesmärke över jägaretappstationen."
+    },
+    {
+      "name": "Lamalot",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fiskeläge."
+    },
+    {
+      "name": "Minnesmärket över jägaretappstationen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "På Laxön."
+    },
+    {
+      "name": "Hummelholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Lillbådan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Storstensbådan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Storträsket",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stortr."
+      ]
+    },
+    {
+      "name": "Tankarholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Tankarh."
+      ]
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Äggskär",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "contentHash": "61ec0cbbe246de89cde66b3ec4c7a661a779dfd7d3ed03626f1f7f0339374bc0",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

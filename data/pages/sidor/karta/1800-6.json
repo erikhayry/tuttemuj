@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800-6.htm",
+  "title": "Plan över Nykarleby, Soklot",
+  "summary": "Delkarta över byn Soklot ur en okänd 1800-talskarta med gårdsnamn och träsk. Under Stora ofreden sänktes kyrkklockorna ned i Karviken, och 2013 gick en häst genom isen på Storträsk.",
+  "topics": [
+    "by",
+    "karta",
+    "stora ofreden",
+    "gårdar"
+  ],
+  "people": [
+    {
+      "name": "Thure Sandvik",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Fjalar Zittra",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Karviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Kyrkklockorna sänktes ned här under Stora ofreden."
+    },
+    {
+      "name": "Storträsk",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Mellan Storberget och Långberget."
+    },
+    {
+      "name": "Storberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Långberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kackurdunt",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Digerträsk",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Tornberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Björn",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Frost",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Gästgifvar",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Hintz",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Mikkilä",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Nisula",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Rank",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Smeds",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Torp",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Wik",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkklockorna sänks ned i Karviken under Stora ofreden",
+      "people": [],
+      "places": [
+        "Karviken"
+      ],
+      "description": "Under Stora ofreden (årtal anges inte på sidan)."
+    },
+    {
+      "title": "Häst går genom isen på Storträsk",
+      "date": {
+        "year": 2013,
+        "circa": false,
+        "text": "2013"
+      },
+      "people": [],
+      "places": [
+        "Storträsk"
+      ]
+    }
+  ],
+  "contentHash": "560a4b4888c7a4514a290f7bcd97113032b19b7e2e0f694d016a737459c2b63d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

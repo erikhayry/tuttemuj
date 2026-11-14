@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800-8.htm",
+  "title": "Plan över Nykarleby, Kyrkoby",
+  "summary": "Delkarta över Nykarleby Kyrkoby ur en okänd 1800-talskarta med gårdar som Juthas, Juthbacka och Drakabacka. Här sågs en varg 1891, och enligt en berättelse begravdes en munk på Munkgrund.",
+  "topics": [
+    "by",
+    "karta",
+    "gårdar",
+    "varg"
+  ],
+  "people": [
+    {
+      "name": "Rudolf Olson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Gånge Rolf",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lindskog",
+      "alternateNames": [],
+      "roles": [
+        "seminarielektor"
+      ],
+      "description": "Bodde en tid på Vipplustig."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Stenisträsk",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stenis träsk"
+      ]
+    },
+    {
+      "name": "Munkgrund",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "En munk ska enligt en berättelse ha begravts här."
+    },
+    {
+      "name": "Vipplustig",
+      "kind": "farm",
+      "alternateNames": [
+        "Wipplusti"
+      ]
+    },
+    {
+      "name": "Juthas",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Drakabacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Bonäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Loilax",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Loilaxviken",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Loilax viken"
+      ]
+    },
+    {
+      "name": "Mickelsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Varg ses vid Stenis träsk",
+      "date": {
+        "year": 1891,
+        "circa": false,
+        "text": "År 1891"
+      },
+      "people": [],
+      "places": [
+        "Stenisträsk"
+      ]
+    }
+  ],
+  "contentHash": "c1ba7680ea64461ea15147d2bd87039a66c9e2900eaec706449eec1a45128417",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

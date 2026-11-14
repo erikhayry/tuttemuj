@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-7.htm",
+  "title": "Kyrkan, Scholan och den gamla Storbron – detalj ur Holms karta 1806",
+  "summary": "Ett unikt utsnitt av Holms karta från 1806 där flera byggnader står kvar än i dag: kyrkan, klockstapeln, Södra tullhuset (Döbelns hus), Scholan och Reckhardtska-Heikelska-Kivinenska gården. Kartan visar också den gamla Storbron som ryssarna brände midsommaren 1808.",
+  "topics": [
+    "kyrka",
+    "skola",
+    "broar",
+    "1808–09 års krig",
+    "stadsplan"
+  ],
+  "people": [
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [
+        "Abraham H. Holm",
+        "Holm"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Lars Pettersson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Alfred Huldén",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan"
+      ],
+      "description": "Från 1708, muromgärdad med stigluckor."
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Från 1702."
+    },
+    {
+      "name": "Södra tullhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Döbelns hus"
+      ]
+    },
+    {
+      "name": "Scholan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Från 1729."
+    },
+    {
+      "name": "Reckhardtska-Heikelska-Kivinenska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fanns i början på 1780-talet."
+    },
+    {
+      "name": "Gamla Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Storbron"
+      ],
+      "description": "Hade endast en kista med en utbyggnad."
+    },
+    {
+      "name": "Skolgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrktorget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Mellangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Från öster om tomt 51 fram till Östra gatan."
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Vägen till prästgården",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Klockstapeln byggs",
+      "date": {
+        "year": 1702,
+        "circa": false,
+        "text": "1702"
+      },
+      "people": [],
+      "places": [
+        "Klockstapeln"
+      ]
+    },
+    {
+      "title": "Kyrkan byggs",
+      "date": {
+        "year": 1708,
+        "circa": false,
+        "text": "1708"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Scholan byggs",
+      "date": {
+        "year": 1729,
+        "circa": false,
+        "text": "1729"
+      },
+      "people": [],
+      "places": [
+        "Scholan"
+      ]
+    },
+    {
+      "title": "Ryssarna bränner Storbron",
+      "date": {
+        "year": 1808,
+        "month": 6,
+        "circa": false,
+        "text": "midsommaren 1808"
+      },
+      "people": [],
+      "places": [
+        "Gamla Storbron"
+      ]
+    },
+    {
+      "title": "Holms stadskarta",
+      "date": {
+        "year": 1806,
+        "circa": false,
+        "text": "1806"
+      },
+      "people": [
+        "Abrah. H. Holm"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "41a2a4c37c13b5cd3ef72b4e0173747f620c3cebf4b0810527af3be125369883",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

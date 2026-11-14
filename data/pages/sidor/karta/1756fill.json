@@ -1,0 +1,207 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1756fill.htm",
+  "title": "Fillmers renovering av Wislanders karta över torget i Nykarleby 1756",
+  "summary": "Detaljkarta över Nykarleby torg med omgivande gårdar, ursprungligen ritad av Wislander 1750 och renoverad av Fillmer 1756. Teckenförklaringen visar rådhuset, skampålen och vilka rådmän och handelsmän som ägde byggnaderna runt torget.",
+  "topics": [
+    "karta",
+    "torget",
+    "rådmän",
+    "handelsmän",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Gullic Wislander",
+      "alternateNames": [
+        "Wislander"
+      ],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "M. G. Fillmer",
+      "alternateNames": [
+        "Fillmer"
+      ],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "Neuman",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Ägde byggnad och gårdstomt vid torget."
+    },
+    {
+      "name": "Malm",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Ägde byggnad och gårdstomt vid torget."
+    },
+    {
+      "name": "Bong",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Ägde byggnad och gårdstomter vid torget."
+    },
+    {
+      "name": "Munstrin",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Ägde byggnad med mältbastu vid torget."
+    },
+    {
+      "name": "Boman",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Ägde tomt vid torget."
+    },
+    {
+      "name": "Collin",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Ägde byggnad med trappa vid torget."
+    },
+    {
+      "name": "Rydman",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Ägde byggnad vid torget."
+    },
+    {
+      "name": "Lithovius",
+      "alternateNames": [
+        "Lithovi"
+      ],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Ägde byggnad vid torget."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotot av kartan finns i hans material i stadsarkivet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Nykarleby stads torg, med landsvägen rakt över torget."
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Med rådhustrappa vid torget."
+    },
+    {
+      "name": "Skampålen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Afstraffnings pålan"
+      ],
+      "description": "Bestraffningspåle vid torget."
+    },
+    {
+      "name": "Rådman Neumans byggning",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Handelsman Malms byggning",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådman Bongs byggning",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Handelsman Munstrins byggning",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Med mältbastu."
+    },
+    {
+      "name": "Rådman Collins byggning",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådman Rydmans byggning",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådman Lithovius byggning",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Färgarens gårdstomt",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Landsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gick mitt över torget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Wislander ritar kartan över torget",
+      "date": {
+        "year": 1750,
+        "circa": false,
+        "text": "åhr 1750"
+      },
+      "people": [
+        "Gullic Wislander"
+      ],
+      "places": [
+        "Torget"
+      ]
+    },
+    {
+      "title": "Fillmer renoverar kartan",
+      "date": {
+        "year": 1756,
+        "circa": false,
+        "text": "åhr 1756"
+      },
+      "people": [
+        "M. G. Fillmer"
+      ],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "contentHash": "b9fc6f27e204433301f4fd9ed14b42b6f779e1f0cc9603cf21a4b6200741caaf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

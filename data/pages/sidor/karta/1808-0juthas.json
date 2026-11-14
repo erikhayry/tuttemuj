@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1808-0juthas.html",
+  "title": "Karta över striden vid Jutas den 13 september 1808",
+  "summary": "Karta över striden vid Jutas den 13 september 1808 ur Generalstabens verk om Sveriges krig 1808–1809. Drabbningen kallas vanligen Slaget vid Jutas; läs mer i Bengt Kummels Döbeln vid Jutas.",
+  "topics": [
+    "1808–09 års krig",
+    "slag",
+    "karta",
+    "döbeln"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    },
+    {
+      "name": "Bengt Kummel",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Döbeln",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Jutas",
+      "kind": "other",
+      "alternateNames": [
+        "Juthas"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Jutas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "den 13 september 1808"
+      },
+      "people": [
+        "Döbeln"
+      ],
+      "places": [
+        "Jutas"
+      ]
+    }
+  ],
+  "contentHash": "5a7c5d8d865dd5d2d95d36e996c3b9f3c411f013ef46d70e17be8d438b777d81",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

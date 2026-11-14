@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800-d1.htm",
+  "title": "Plan över Nykarleby, Centrum",
+  "summary": "Specialkarta över centrala Nykarleby ur en okänd 1800-talskarta, med hemmanen Högbacka, Jeansborg, Juthbacka, Kuddnäs, Nygård och Smedsbacka samt gamla Kovjokivägens anslutning till Jakobstadsvägen.",
+  "topics": [
+    "karta",
+    "hemman",
+    "vägar",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Rudolf Olson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Här ansluter gamla Kovjokivägen till Jakobstadsvägen."
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Mossahagan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla Kovjokivägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "contentHash": "b0d7001d4c016b9fea5371157f11c69c00fd94969f01db2a0702699fac552005",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

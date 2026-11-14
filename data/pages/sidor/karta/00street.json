@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/00street.html",
+  "title": "Google Street View i Nykarleby",
+  "summary": "Ett gemensamt projekt där läsare beskriver vad och vem som syns på Google Street View-bilderna från Nykarleby, som fotograferades hösten 2009. Sidan listar noteringar per gata och husnummer.",
+  "topics": [
+    "google street view",
+    "gator",
+    "fotografi",
+    "2000-talet"
+  ],
+  "people": [
+    {
+      "name": "Majvor Grönroos",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Syns möjligen på promenad på Bankgatan i Street View."
+    },
+    {
+      "name": "Naser Alozoun",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Noterad vid Juthasvägen 1 i Street View."
+    },
+    {
+      "name": "Henrik Häggblom",
+      "alternateNames": [
+        "Heikki Häggblom"
+      ],
+      "roles": [],
+      "description": "Syns möjligen lasta sitt släp vid Karleborgsgatan 6."
+    },
+    {
+      "name": "Jens Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Syns möjligen på trottoaren vid Torghallen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Häggbloms",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Karleborgsgatan 6"
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Torghallen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 6"
+    }
+  ],
+  "events": [
+    {
+      "title": "Google Street View fotograferar Nykarlebys in- och genomfartsvägar",
+      "date": {
+        "year": 2009,
+        "circa": false,
+        "text": "Hösten 2009"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Street View-bilderna från Nykarleby publiceras",
+      "date": {
+        "year": 2010,
+        "month": 2,
+        "circa": false,
+        "text": "i början av februari 2010"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "096b76ea173b8e9c6db07d9112df2836fefaec67e7b3b590a1696d056700e252",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:04:37.919Z"
+}

@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-3.htm",
+  "title": "Nybron, detalj ur Holms karta 1806",
+  "summary": "Detalj av Holms stadskarta från 1806 kring Nybron, med Ågatan, Rådhusgatan, Nybrogatan, en vattengång ned till åstranden och hängbron.",
+  "topics": [
+    "stadsplan",
+    "broar",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [
+        "Abraham H. Holm",
+        "Holm"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev Platsen vid Nybron."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ågatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybrogatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Vattengången",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Från Rådhusgatan mellan tomterna 28 och 29 till åstranden."
+    },
+    {
+      "name": "Hängbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Holms stadskarta",
+      "date": {
+        "year": 1806,
+        "circa": false,
+        "text": "1806"
+      },
+      "people": [
+        "Abrah. H. Holm"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "368d3f893b02aa2d964a25dd1990adfedf5276283670733efce4e2878d2ecc0b",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

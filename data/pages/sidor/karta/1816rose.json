@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1816rose.htm",
+  "title": "Plan över Nykarleby av Carl von Rosenkampff 1816",
+  "summary": "Ingenjörlöjtnant Carl von Rosenkampffs plan över Nykarleby stad från 1816, i färg från Finlands riksarkiv. Kartan, med norr åt vänster, kan delförstoras och ingår i Erik Bircks stadshistoria.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "brandförsäkring",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl von Rosenkampff",
+      "alternateNames": [
+        "Rosenkampff"
+      ],
+      "roles": [
+        "ingenjörlöjtnant"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Rosenkampffs plan över Nykarleby",
+      "date": {
+        "year": 1816,
+        "circa": false,
+        "text": "1816"
+      },
+      "people": [
+        "Carl von Rosenkampff"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kartan ankommer till brandförsäkringsdirektören",
+      "date": {
+        "year": 1816,
+        "month": 10,
+        "day": 23,
+        "circa": false,
+        "text": "den 23 october 1816"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "b91967585a7908bd3861de0edc2c8edd98196a9e8f0c6b2d2d159643fcb0f53d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

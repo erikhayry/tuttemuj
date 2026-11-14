@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-5.htm",
+  "title": "Torget, detalj ur Holms karta 1806",
+  "summary": "Detalj av Holms stadskarta från 1806 kring torget, som då var en liten öppen plats på ungefär 1 700 m² med rådhuset på östra sidan och landsvägen mellan Jakobstad och Vasa rakt över. Torget låg nästan helt där den senare apotekstomten finns.",
+  "topics": [
+    "torget",
+    "stadsplan",
+    "rådhus",
+    "apotek",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [
+        "Abraham H. Holm",
+        "Holm"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Ca 36x47 m (1692 m²); jämte Kyrkotorget stadens enda öppna plats. Täckte nästan helt den senare apotekstomten."
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid torgets östra sida."
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg nedanför rådhuset."
+    },
+    {
+      "name": "Apotekstomten",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lilla Ågatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Ågatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Storgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgargatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Landsvägen Jakobstad–Vasa",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gick tvärs över torget från östra till västra hörnet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Holms stadskarta",
+      "date": {
+        "year": 1806,
+        "circa": false,
+        "text": "1806"
+      },
+      "people": [
+        "Abrah. H. Holm"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "ada48a8f149c4b90fac5927b9eeca771c64a5d447b3eff5257e9b8db77df9f6e",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

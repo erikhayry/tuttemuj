@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/18000624.htm",
+  "title": "Karta över striden vid Nykarleby den 24 juni 1808",
+  "summary": "Krigskarta över striden vid Nykarleby den 24 juni 1808 under Finska kriget, där svenska trupper är markerade med blått och ryska med rött. Läs mer i C-B J. Petanders text om slaget.",
+  "topics": [
+    "1808–09 års krig",
+    "karta",
+    "slag"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    },
+    {
+      "name": "C-B J. Petander",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev Slaget vid Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Striden vid Nykarleby",
+      "date": {
+        "year": 1808,
+        "month": 6,
+        "day": 24,
+        "circa": false,
+        "text": "den 24 juni 1808"
+      },
+      "description": "Mellan svenska och ryska trupper.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "contentHash": "d4416640798f0de5847b009570da4afbda313c563dd8aff424e5ae4ccb6ce7a8",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

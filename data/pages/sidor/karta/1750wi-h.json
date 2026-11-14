@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1750wi-h.htm",
+  "title": "Förstoring av Wislanders stadsplan 1750",
+  "summary": "Förstorad del av lantmätare Wislanders stadsplan över Nykarleby från 1750, med kartans teckenförklaring över kyrkan, rådhuset, tullportarna, torgen och fiskeplatserna.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Gullic Wislander",
+      "alternateNames": [
+        "Wislander"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotografiet av kartan finns i hans samling i stadsarkivet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Norra och Södra tullporten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Tullportar markerade på Wislanders stadsplan 1750."
+    },
+    {
+      "name": "Nykarleby stads och sockens kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Ny=Carleby Stads och Socken kÿrkia"
+      ]
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Pedagogin",
+      "kind": "building",
+      "alternateNames": [
+        "Pedagogi"
+      ],
+      "description": "Skola markerad på kartan 1750."
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": [
+        "Sockne stugan"
+      ]
+    },
+    {
+      "name": "Norra och Södra tullstugorna",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": [
+        "Kÿrkiotorget"
+      ]
+    },
+    {
+      "name": "Tobaksplantagen",
+      "kind": "other",
+      "alternateNames": [
+        "Tobacks Plantagen"
+      ]
+    },
+    {
+      "name": "Kållandet",
+      "kind": "other",
+      "alternateNames": [
+        "Kålland"
+      ]
+    },
+    {
+      "name": "Kyrkovallen",
+      "kind": "other",
+      "alternateNames": [
+        "Kÿrkio Wallen"
+      ]
+    },
+    {
+      "name": "Brandåbacka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Brandt åbacka"
+      ]
+    },
+    {
+      "name": "Laxfisket",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Lax Fiske"
+      ]
+    },
+    {
+      "name": "Sikfisket",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Sik Fiske"
+      ]
+    },
+    {
+      "name": "Nejonögonfisket",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Nejon ögonfiske"
+      ]
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [
+        "Klockstapel"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Wislander ritar stadsplanen över Nykarleby",
+      "date": {
+        "year": 1750,
+        "circa": false,
+        "text": "1750"
+      },
+      "people": [
+        "Gullic Wislander"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "31f91e4ce36023216bcd0b4de6b44bd1dec96012d6c4994dcf4e668ebe25c42a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

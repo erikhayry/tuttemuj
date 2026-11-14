@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/18411991.htm",
+  "title": "150 år – stadsplanen 1841 jämförd med 1990-talet",
+  "summary": "Jämförelse mellan Nykarlebys utsträckning enligt Gyldéns stadsplan 1841 och stadens adresskarta från 1990-talet. Den gamla staden förstördes i stadsbranden 1858.",
+  "topics": [
+    "stadsplan",
+    "jämförelse",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "Gyldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Upprättade stadsplanen 1841."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gyldéns stadsplan",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [
+        "Gyldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsbranden förstör den gamla staden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "stadsbranden 1858"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "contentHash": "98d8260fbdcad3fe8b3ed36811e10c28b06e813ccc49d98c8bf7fd79f14c441d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

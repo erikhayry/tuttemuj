@@ -1,0 +1,178 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1800-5.htm",
+  "title": "Plan över Nykarleby, Andrasjön",
+  "summary": "Delkarta över Andrasjön och Långön-området ur en okänd 1800-talskarta, med länkar till berättelser om Brudholmarna, villabosättningen på Långörn och Wichmanns Sjöhaga. Skeppet Villa Nova sökte nödhamn här 1775.",
+  "topics": [
+    "skärgård",
+    "karta",
+    "villor",
+    "sjöfart"
+  ],
+  "people": [
+    {
+      "name": "Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Familjen besökte Rödklubben 1881."
+    },
+    {
+      "name": "Fjalar Zittra",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Paavo Hauta-aho",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde villan Sjöhaga på Bådan."
+    },
+    {
+      "name": "Georg Högbom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Pimplade i Kråkskärssundet i mitten av 1930-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Rödklubben",
+      "kind": "other",
+      "alternateNames": [
+        "Rödklubb."
+      ]
+    },
+    {
+      "name": "Bonäsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Norrfjärden"
+      ]
+    },
+    {
+      "name": "Brudholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brudholmarne"
+      ]
+    },
+    {
+      "name": "Långön",
+      "kind": "island",
+      "alternateNames": [
+        "Långöyn"
+      ]
+    },
+    {
+      "name": "Långörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Tidig villabosättning."
+    },
+    {
+      "name": "Sjöhaga",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Wichmanns villa på östra sidan av Bådan."
+    },
+    {
+      "name": "Kråkskärssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Björkskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Larsholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Villa Nova söker nödhamn innanför Björkskär",
+      "date": {
+        "year": 1775,
+        "circa": false,
+        "text": "1775"
+      },
+      "people": [],
+      "places": [
+        "Björkskär"
+      ]
+    },
+    {
+      "title": "Familjen Lybeck besöker Rödklubben",
+      "date": {
+        "year": 1881,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 1881"
+      },
+      "people": [
+        "Lybeck"
+      ],
+      "places": [
+        "Rödklubben"
+      ]
+    },
+    {
+      "title": "Tumlare siktas på Bonäsfjärden",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "1916"
+      },
+      "people": [],
+      "places": [
+        "Bonäsfjärden"
+      ]
+    },
+    {
+      "title": "Georg Högbom pimplar i Kråkskärssundet",
+      "date": {
+        "year": 1935,
+        "circa": true,
+        "text": "i mitten av 1930-talet"
+      },
+      "people": [
+        "Georg Högbom"
+      ],
+      "places": [
+        "Kråkskärssundet"
+      ]
+    }
+  ],
+  "contentHash": "90cb735bbc3d98e1ecf47227797f4c1f92ec419d402709f49d3221e048bc6a7c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1701char.htm",
+  "title": "Olof Rudbeck d.y. 1701",
+  "summary": "En kuriös karta ur Olof Rudbeck d.y:s Nora Samolad från 1701, där Östersjön ritats upp och ner i form av färjkarlen Charon. Den finns med på sidan eftersom den ger en egen variant av stadsnamnet: Ny Karby.",
+  "topics": [
+    "kartor",
+    "stadsnamnet",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Olof Rudbeck d.y.",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev resebeskrivningen Nora Samolad (1701)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": [
+        "Ny Karby"
+      ],
+      "description": "Kartan placerar Ny Karby mellan Wasa och Jacobstad."
+    },
+    {
+      "name": "Östersjön",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Finska viken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Bottniska viken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Olof Rudbeck d.y. ger ut Nora Samolad med Charon-kartan",
+      "date": {
+        "year": 1701,
+        "circa": false,
+        "text": "1701"
+      },
+      "people": [
+        "Olof Rudbeck d.y."
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "8866976bfc20999f3c67e4e3afb4569ada40801316506fda4b68746282d96e56",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:04:37.919Z"
+}

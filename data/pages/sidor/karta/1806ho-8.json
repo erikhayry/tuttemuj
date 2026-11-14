@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-8.htm",
+  "title": "Repslagarebanan, detalj ur Holms karta 1806",
+  "summary": "Detalj av Holms karta från 1806 som visar repslagarbanan, kålland, kyrkoherdebolets åker och ett torp ungefär där barnhemmet ligger i dag.",
+  "topics": [
+    "stadsplan",
+    "hantverk",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [
+        "Abraham H. Holm",
+        "Holm"
+      ],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev om repslagare Sjoman."
+    }
+  ],
+  "places": [
+    {
+      "name": "Repslagarbanan",
+      "kind": "street",
+      "alternateNames": [
+        "Repslagare bana"
+      ]
+    },
+    {
+      "name": "Kållandet",
+      "kind": "other",
+      "alternateNames": [
+        "Kål-land"
+      ]
+    },
+    {
+      "name": "Kyrkoherdebolets åker",
+      "kind": "other",
+      "alternateNames": [
+        "Kyrkoherde Bohlets åker"
+      ]
+    },
+    {
+      "name": "Torpet",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Ungefär där barnhemmet finns i dag."
+    },
+    {
+      "name": "Barnhemmet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Holms stadskarta",
+      "date": {
+        "year": 1806,
+        "circa": false,
+        "text": "1806"
+      },
+      "people": [
+        "Abrah. H. Holm"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "19ac8361413ff3ea5b001a09b318fbeea5f8fc9a71847be3d762846df26edc06",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:19:35.071Z"
+}

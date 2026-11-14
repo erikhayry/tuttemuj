@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1539omd.htm",
+  "title": "Carta marina 1539 – Österbotten",
+  "summary": "En detalj ur Olaus Magnus Carta marina från 1539 som visar Österbotten, med de gamla latinska ortnamnen tolkade till dagens namn. Sidan påpekar var Leppo by, Nykarlebys föregångare, borde ha legat på kartan.",
+  "topics": [
+    "kartor",
+    "carta marina",
+    "ortnamn",
+    "1500-talet"
+  ],
+  "people": [
+    {
+      "name": "Olaus Magnus",
+      "alternateNames": [],
+      "roles": [
+        "kartograf"
+      ],
+      "description": "Upphovsman till Carta marina 1539."
+    }
+  ],
+  "places": [
+    {
+      "name": "Leppo by",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Föregångare till Nykarleby; skulle ha legat mellan Pedersöre och Vörå om den markerats rätt på kartan."
+    },
+    {
+      "name": "Österbotten",
+      "kind": "other",
+      "alternateNames": [
+        "Botnia Orientalis"
+      ]
+    },
+    {
+      "name": "Karleby",
+      "kind": "other",
+      "alternateNames": [
+        "Karlabi"
+      ]
+    },
+    {
+      "name": "Pedersöre",
+      "kind": "other",
+      "alternateNames": [
+        "Psore"
+      ]
+    },
+    {
+      "name": "Vörå",
+      "kind": "other",
+      "alternateNames": [
+        "Vero"
+      ]
+    },
+    {
+      "name": "Storkyro",
+      "kind": "other",
+      "alternateNames": [
+        "Tomola vesi",
+        "Kyro"
+      ]
+    },
+    {
+      "name": "Mustasaari",
+      "kind": "other",
+      "alternateNames": [
+        "Mostesar",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Korsholm",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Räfsö",
+      "kind": "other",
+      "alternateNames": [
+        "Refze"
+      ]
+    },
+    {
+      "name": "Närpes",
+      "kind": "other",
+      "alternateNames": [
+        "Nerpis"
+      ],
+      "description": "Kartan anger att man byggde skepp här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Olaus Magnus Carta marina utges",
+      "date": {
+        "year": 1539,
+        "circa": false,
+        "text": "1539"
+      },
+      "people": [
+        "Olaus Magnus"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "5b793c39b0b631e229684346b306d4dccfd4697b930e98c10838dd6df0038aae",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-14T23:04:37.919Z"
+}
