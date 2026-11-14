@@ -1,0 +1,18 @@
+{
+  "name": "@tuttemuj/crawler",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p .",
+    "seed": "tsx src/cli/seed.ts",
+    "crawl": "tsx src/cli/crawl.ts",
+    "extract:next": "tsx src/cli/extract-next.ts",
+    "extract:save": "tsx src/cli/extract-save.ts"
+  },
+  "dependencies": {
+    "@tuttemuj/schema": "workspace:*",
+    "cheerio": "^1.2.0",
+    "zod": "^4.6.7"
+  }
+}
