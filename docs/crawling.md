@@ -44,6 +44,8 @@ Every night at 03:15, `scripts/nightly.sh` does the following:
 
 The log is written to `.cache/nightly.log`.
 
+To run the same job now, use `/crawl` in Claude Code (`.claude/skills/crawl/SKILL.md`), or run `launchctl kickstart gui/$(id -u)/tuttemuj.crawl`.
+
 ## Analysis (manual, with Claude Code)
 
 The nightly job only fetches pages. You run the analysis yourself in Claude Code, which uses your subscription and needs no API key:
