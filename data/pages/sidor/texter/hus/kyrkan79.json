@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkan79.htm",
+  "title": "Kyrkan och Holmströms magasin 1979",
+  "summary": "Signe Sjelvgrens målning av kyrkan och Holmströms magasin, och ett porträtt av henne som lärare, poet och frimodig pensionär som arbetade på kibbutz och sjöng på Lisebergs stora scen.",
+  "topics": [
+    "kyrka",
+    "konst",
+    "lärare"
+  ],
+  "people": [
+    {
+      "name": "Signe Sjelvgren",
+      "alternateNames": [],
+      "birthYear": 1912,
+      "deathYear": 1991,
+      "roles": [
+        "lärare",
+        "konstnär",
+        "poet"
+      ]
+    },
+    {
+      "name": "Ellen Fogel",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Tua",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströms magasin",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala skola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Signe Sjelvgren målar tavlan",
+      "date": {
+        "year": 1997,
+        "circa": false,
+        "text": "1997"
+      },
+      "people": [
+        "Signe Sjelvgren"
+      ],
+      "places": []
+    },
+    {
+      "title": "Signe Sjelvgren skriver dikten Tack!",
+      "date": {
+        "year": 1975,
+        "month": 3,
+        "day": 27,
+        "circa": false,
+        "text": "27.3.1975"
+      },
+      "people": [
+        "Signe Sjelvgren"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "de2bd53e0468beaf02b1f9344b0a2e2e107ff6b39cbd83ff924806f9541b60b4",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

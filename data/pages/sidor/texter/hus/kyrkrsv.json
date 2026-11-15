@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkrsv.htm",
+  "title": "Nykarleby kyrka i slutet på 1960-talet",
+  "summary": "Rafael Sjöbloms fotografi av kyrkan, troligen från 1968 eller 1969, med gråstenskällaren till vänster.",
+  "topics": [
+    "kyrka",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av kyrkan",
+      "date": {
+        "year": 1968,
+        "circa": true,
+        "text": "Troligen fotograferat 1968 eller 1969"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eca63ae3c35125fa1fe075d61881ca440ec99a752145298ce550740c48cb04b3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

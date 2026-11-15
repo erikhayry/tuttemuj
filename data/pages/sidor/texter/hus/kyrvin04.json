@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrvin04.htm",
+  "title": "Älvpanorama i vårvintertid 1984",
+  "summary": "Panorama längs älven i mars 1984 med byggnader som nästan alla fanns före stadsbranden 1858: kyrkan, klockstapeln, Södra tullhuset, Heikelska gården, stadskvarnen och bryggeriet.",
+  "topics": [
+    "älven",
+    "panorama",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra tullhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Döbelns gård"
+      ]
+    },
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bryggeriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Panoramafotografi längs älven",
+      "date": {
+        "year": 1984,
+        "month": 3,
+        "circa": false,
+        "text": "mars 1984"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Bryggeriet grundas",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "1864"
+      },
+      "people": [],
+      "places": [
+        "Bryggeriet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "20cd0982c431c498ee1d5019d663d6be9c8f174643a29fbdb0bacba847403c2f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

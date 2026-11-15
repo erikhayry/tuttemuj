@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkmala.htm",
+  "title": "Kyrkan målas 2007",
+  "summary": "Fotografi från juni 2007 när kyrkan och klockstapeln målades om, fasadbelysningen förnyades och tornuret servades; tidningen diskuterade om kyrkan var målad i Nykarlebygult.",
+  "topics": [
+    "kyrka",
+    "renovering"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Ole Lindvall",
+      "alternateNames": [],
+      "roles": [
+        "entreprenör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan och klockstapeln målas",
+      "date": {
+        "year": 2007,
+        "month": 4,
+        "circa": false,
+        "text": "i slutet av april"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan",
+        "Klockstapeln"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1cf5196304f007fa8d78faa687850704cfb959dfbdd2106f5217590b5487886a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

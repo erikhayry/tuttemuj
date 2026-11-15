@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kerrmaneb.htm",
+  "title": "Jakob Kerrmans gård",
+  "summary": "Den stiliga gården på Borgaregatan 3, tomt 46, med sällsynta pilastrar och originalpanel, byggd 1879 av sjökapten Jakob Kerrman. I den lilla gården intill bodde författaren Mirjam Tuominen, och på 1960-talet fanns Märtha damfrisering där.",
+  "topics": [
+    "hus",
+    "ägarlängd",
+    "författare"
+  ],
+  "people": [
+    {
+      "name": "Robert Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "viktualiehandlare"
+      ]
+    },
+    {
+      "name": "Jakob Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Josephine Bergh",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emma Knutar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alf Nikonen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mirjam Tuominen",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Tuva Korsström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kerrmans gård",
+      "kind": "building",
+      "alternateNames": [
+        "Nikonens",
+        "Tomt 46"
+      ],
+      "address": "Borgaregatan 3",
+      "geo": {
+        "lat": 63.52377,
+        "lng": 22.5295899,
+        "match": "address",
+        "gazetteerName": "borgaregatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mirjam Tuominens hem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Märtha damfrisering",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Robert Ahlqvist ropar in tomten",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "den 28 juli 1858"
+      },
+      "people": [
+        "Robert Ahlqvist"
+      ],
+      "places": [
+        "Kerrmans gård"
+      ]
+    },
+    {
+      "title": "Jakob Kerrman bygger huset",
+      "date": {
+        "year": 1879,
+        "circa": false,
+        "text": "1879"
+      },
+      "people": [
+        "Jakob Kerrman"
+      ],
+      "places": [
+        "Kerrmans gård"
+      ]
+    },
+    {
+      "title": "Gården säljs till Josephine Bergh",
+      "date": {
+        "year": 1881,
+        "circa": false,
+        "text": "1881"
+      },
+      "people": [
+        "Josephine Bergh"
+      ],
+      "places": []
+    },
+    {
+      "title": "Auktion",
+      "date": {
+        "year": 1929,
+        "circa": false,
+        "text": "1929"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografi av gården",
+      "date": {
+        "year": 1994,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 1994"
+      },
+      "people": [],
+      "places": [
+        "Kerrmans gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d3c3e4450561755144692acb20f98fb93479f477bfbdfefa1c0e79a592d80ad6",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

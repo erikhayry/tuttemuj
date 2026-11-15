@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkan2009.html",
+  "title": "Kyrkan julen 2009 av Leif Söderlund",
+  "summary": "Leif Söderlunds bild av kyrkan julen 2009, ur en adventskalender.",
+  "topics": [
+    "kyrka",
+    "jul",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan i jultid",
+      "date": {
+        "year": 2009,
+        "circa": false,
+        "text": "julen 2009"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9bc3eb4e45cb98e67dca6fa54ca77db629d0e29195704b49795ed3643800258c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

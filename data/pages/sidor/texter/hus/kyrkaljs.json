@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkaljs.htm",
+  "title": "Kyrkan i december 2002",
+  "summary": "Fotografi av kyrkan i december 2002.",
+  "topics": [
+    "kyrka",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars-Johan Sandvik",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av kyrkan",
+      "date": {
+        "year": 2002,
+        "month": 12,
+        "circa": false,
+        "text": "december 2002"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3ea71cddc0250140ee95318c3c54782e86289f4a148d19b3e51a590ba778ba15",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

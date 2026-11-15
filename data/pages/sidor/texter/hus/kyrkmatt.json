@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkmatt.htm",
+  "title": "Uppmätning av kyrkan och klockstapeln",
+  "summary": "Uppmätning från 2008 av kyrkan och klockstapeln: kyrktuppen sitter 38,68 m upp, klockstapeln är 30,03 m hög och kyrktornet lutar 1,7 grader mot sydsydväst.",
+  "topics": [
+    "kyrka",
+    "mätning"
+  ],
+  "people": [
+    {
+      "name": "Johan Nylund",
+      "alternateNames": [],
+      "roles": [
+        "mätningstekniker"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrktuppen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan och klockstapeln mäts upp",
+      "date": {
+        "year": 2008,
+        "month": 1,
+        "day": 29,
+        "circa": false,
+        "text": "29.1.2008"
+      },
+      "people": [
+        "Johan Nylund"
+      ],
+      "places": [
+        "Kyrkan",
+        "Klockstapeln"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c03a3495a022782a9f3890437e895a90e6e1439a64451f2b2c594aec7fa1194d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kajuta.html",
+  "title": "Titta in i min lilla kajuta – av Mats Blomqvist",
+  "summary": "Mats Blomqvist minns lekstugan på villan Nybo vid Andra sjön: en gammal, stenhård fartygskajuta med mässingsbeslag som fanns där när fadern köpte stället 1944. Med en barnvagnsratt och ritade instrument blev den ett skepp till fjärran länder – tills den blev maläten och hamnade i vedspisen 1969.",
+  "topics": [
+    "barndom",
+    "lek",
+    "villor",
+    "sjöfart",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Tomas Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Redare."
+    },
+    {
+      "name": "Fröknarna Nylund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kajutan på Nybo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gammal fartygskajuta som lekstuga på villan Nybo vid Andra sjön; huggen till ved 1969."
+    },
+    {
+      "name": "Villa Nybo",
+      "kind": "building",
+      "alternateNames": [
+        "Nybo"
+      ]
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [
+        "Långörn"
+      ],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Pappa Blomqvist köper Nybo",
+      "date": {
+        "year": 1944,
+        "circa": false,
+        "text": "1944"
+      },
+      "people": [],
+      "places": [
+        "Villa Nybo"
+      ]
+    },
+    {
+      "title": "Kajutan blir köksved",
+      "date": {
+        "year": 1969,
+        "circa": false,
+        "text": "till 1969"
+      },
+      "people": [],
+      "places": [
+        "Kajutan på Nybo"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "På villan Nybo står en gammal fartygskajuta, kanske från en av redare Nylunds skutor. Pojkarna gör en barnvagnshjulsratt och ritar instrument med färgkritor, och så seglar de till fjärran länder för att hämta dyrbara varor – medan myggen surrar och kajutan sakta blir maläten.",
+    "reason": "Barnens fantasilekar i en riktig skeppsdel ger en charmig berättelse med både verklighet och dröm.",
+    "characters": [
+      "Mats Blomqvist",
+      "Tomas Blomqvist"
+    ],
+    "places": [
+      "Kajutan på Nybo",
+      "Villa Nybo"
+    ]
+  },
+  "contentHash": "e67adcb35b6c7626fb24343dcc8b7d7c23bb136a9c6b1ae9f253501e25a67ccf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

@@ -1,0 +1,128 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/juthbabr.htm",
+  "title": "Juthbackabron byggs 1985–86",
+  "summary": "Fotografier av bygget av Juthbackabron som började i november 1985, då Kalle Anderssons hemgård flyttades hel på trailer till Kolonivägen och Juthbacka teaters läktare revs.",
+  "topics": [
+    "broar",
+    "flyttade hus",
+    "byggarbeten"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Kalle Andersson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Syynimaa",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bertel Widjeskog",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbackabron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kalle Anderssons hemgård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Flyttad hel till östra änden av Kolonivägen."
+    },
+    {
+      "name": "Kolonivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5191834,
+        "lng": 22.5378136,
+        "match": "name",
+        "gazetteerName": "kolonivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthbacka teater",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bygget av Juthbackabron påbörjas",
+      "date": {
+        "year": 1985,
+        "month": 11,
+        "circa": false,
+        "text": "november 1985"
+      },
+      "people": [],
+      "places": [
+        "Juthbackabron"
+      ]
+    },
+    {
+      "title": "Kalle Anderssons hemgård flyttas",
+      "date": {
+        "year": 1985,
+        "circa": false,
+        "text": "1985"
+      },
+      "people": [],
+      "places": [
+        "Kalle Anderssons hemgård"
+      ]
+    },
+    {
+      "title": "Juthbackabron gjuts",
+      "date": {
+        "year": 1986,
+        "circa": false,
+        "text": "våren 1986"
+      },
+      "people": [],
+      "places": [
+        "Juthbackabron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4e754ea2bd38a883bb38c999e78037aa8473edbcb3a790038d1a9c29813f2fe3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

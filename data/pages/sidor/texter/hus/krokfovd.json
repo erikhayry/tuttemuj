@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/krokfovd.htm",
+  "title": "Målningen På gott och ont vid Restaurang von Döbeln",
+  "summary": "Seminaristen C. G. Krokfors väggmålning På gott och ont, tre gånger tre meter, i trappuppgången till restaurang von Döbeln på Bankgatan 7 från 1959–60 – en surrealistisk dragkamp mellan kunskap och människans ondska. Den doldes i en elnisch vid en ombyggnad på 1990-talet.",
+  "topics": [
+    "konst",
+    "restaurang",
+    "väggmålning"
+  ],
+  "people": [
+    {
+      "name": "C. G. Krokfors",
+      "alternateNames": [
+        "Carl-Gustav Krokfors"
+      ],
+      "roles": [
+        "konstnär",
+        "seminarist",
+        "jazzmusiker"
+      ]
+    },
+    {
+      "name": "Annie Krokfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 7",
+      "geo": {
+        "lat": 63.5224808,
+        "lng": 22.5312825,
+        "match": "address",
+        "gazetteerName": "bankgatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Essobaren",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hade Krokfors verk Tauko."
+    }
+  ],
+  "events": [
+    {
+      "title": "Krokfors målar väggmålningen",
+      "date": {
+        "year": 1959,
+        "circa": true,
+        "text": "1959 eller 1960"
+      },
+      "people": [
+        "C. G. Krokfors"
+      ],
+      "places": [
+        "Restaurang von Döbeln"
+      ]
+    },
+    {
+      "title": "Målningen döljs vid ombyggnad",
+      "date": {
+        "year": 1995,
+        "circa": true,
+        "text": "i mitten på 1990-talet"
+      },
+      "people": [],
+      "places": [
+        "Restaurang von Döbeln"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3633f711e009343d37048d45ec8b87ad20df70962bbd6bac14c842c68121c19f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

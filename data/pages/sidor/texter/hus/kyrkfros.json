@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkfros.htm",
+  "title": "Kyrkan och klockstapeln från nordost",
+  "summary": "Fotografi av kyrkan och klockstapeln från stenhustomten, taget mellan 1889 och 1901.",
+  "topics": [
+    "kyrka",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stenhustomten",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av kyrkan från stenhustomten",
+      "date": {
+        "year": 1889,
+        "circa": true,
+        "text": "mellan 1889 ... och 1907"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "78dc80f7108d99115e66b0136eb1728674f7781b5b674a65a9b6587a7d38f76d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

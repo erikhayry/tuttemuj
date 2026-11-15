@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/knaperbo.html",
+  "title": "Knaperbo",
+  "summary": "Den lilla stugan Knaperbo mellan Seminariegatan 1 och Kärleksstigen, där Mauritz Siegfrids bodde i mitten av 1940-talet, och som kanske målades av Torsten Korsström.",
+  "topics": [
+    "hus",
+    "stugor"
+  ],
+  "people": [
+    {
+      "name": "Mauritz Siegfrids",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elna Siegfrids",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stella Ahlskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Torsten Korsström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Oskar Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabeth King",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Nybond",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Knaperbo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mellan Seminariegatan 1 och Kärleksstigen."
+    },
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan 1",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 1",
+      "geo": {
+        "lat": 63.5230543,
+        "lng": 22.5237741,
+        "match": "address",
+        "gazetteerName": "seminariegatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Swels hus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Mauritz Siegfrids bor i Knaperbo",
+      "date": {
+        "year": 1945,
+        "circa": true,
+        "text": "i mitten av 1940-talet"
+      },
+      "people": [
+        "Mauritz Siegfrids"
+      ],
+      "places": [
+        "Knaperbo"
+      ]
+    },
+    {
+      "title": "Elna och Mauritz framför Knaperbo",
+      "date": {
+        "year": 1948,
+        "circa": false,
+        "text": "1948"
+      },
+      "people": [
+        "Elna Siegfrids",
+        "Mauritz Siegfrids"
+      ],
+      "places": [
+        "Knaperbo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b14ed915fb43806c3b9598d35badc7475ad0a2a5e4a17ecf4e823747791bac18",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

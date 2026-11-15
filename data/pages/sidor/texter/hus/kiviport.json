@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kiviport.htm",
+  "title": "Heikelska gårdens port vintern 1953–54",
+  "summary": "Jorma Metsos bild från vintern 1953–54 vid Heikelska gårdens port, och minnet av ingenjören från Joupers som ordnade hans första sommarjobb på gjuteriet 1959.",
+  "topics": [
+    "portar",
+    "barndom",
+    "industri"
+  ],
+  "people": [
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Håkan",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Heikelska gårdens port",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Jouperfabriken",
+      "kind": "building",
+      "alternateNames": [
+        "Joupers gjuteri"
+      ]
+    },
+    {
+      "name": "Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Jorma på skidtur vid porten",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "vintern 1953-54"
+      },
+      "people": [],
+      "places": [
+        "Heikelska gårdens port"
+      ]
+    },
+    {
+      "title": "Sommarjobb på Joupers gjuteri",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "sommaren 59"
+      },
+      "people": [
+        "Jorma Metso"
+      ],
+      "places": [
+        "Jouperfabriken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "342d296b822e83c6c9a38f46021fcd5e3c09543026f53663408f62baf31de680",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

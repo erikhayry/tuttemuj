@@ -1,0 +1,166 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/levhemsb.htm",
+  "title": "Levhemsbackan 1965 eller 1966",
+  "summary": "Utsikt från ett vindsfönster vid Grev Tottgatan över Levhemsbackan, uppkallad efter samskolans elevhem i Synnerbergska gården, som var stadens bästa kälkbacke. Stenblocken Backlons bärji var barnens lek- och samlingsplats.",
+  "topics": [
+    "barndom",
+    "lek",
+    "källbacken",
+    "vinter"
+  ],
+  "people": [
+    {
+      "name": "K. J. Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Mia Ahlskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Ahlstrand",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Ingmar Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Östen Engström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joh. Fellman",
+      "alternateNames": [],
+      "roles": [
+        "urmakare"
+      ]
+    },
+    {
+      "name": "Kenneth Saarikoski",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig-Ole Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Eliel Backlund",
+      "alternateNames": [],
+      "roles": [
+        "seminarieverkmästare"
+      ]
+    },
+    {
+      "name": "Uno Dahlroth",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Levhemsbackan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Kälkbacke uppkallad efter samskolans elevhem."
+    },
+    {
+      "name": "Backlons bärji",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stenblock som var lek- och samlingsplats."
+    },
+    {
+      "name": "Ahlskogs gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Fellmans gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Synnerbergska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Samskolans elevhem",
+        "Synnerbergs"
+      ]
+    },
+    {
+      "name": "Gustav Adolfsgatan 39",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 39",
+      "geo": {
+        "lat": 63.5263082,
+        "lng": 22.5350963,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 39",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Mia Ahlskog köper gården",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "År 1937"
+      },
+      "people": [
+        "Mia Ahlskog",
+        "Johan Ahlstrand"
+      ],
+      "places": [
+        "Ahlskogs gård"
+      ]
+    },
+    {
+      "title": "Fotografi av Levhemsbackan",
+      "date": {
+        "year": 1965,
+        "circa": true,
+        "text": "1965 eller 1966"
+      },
+      "people": [],
+      "places": [
+        "Levhemsbackan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5bbb87158eeb2047ca34ccb7904946162649ee67aa3267bde4da9cacf8676881",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

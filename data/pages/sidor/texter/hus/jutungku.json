@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/jutungku.htm",
+  "title": "Juthas ungdomsförenings ungdomslokal",
+  "summary": "En f.d. medlem minns Juthas ungdomsförenings hus nära slagfältet, byggt 1910 på talko med material från bygdens bönder och i decennier en livlig samlingsplats för dans och fest. På 1930-talet förföll det, inventarierna försvann och huset såldes till vrakpris – bara grunden finns kvar.",
+  "topics": [
+    "föreningar",
+    "ungdom",
+    "dans",
+    "förfall"
+  ],
+  "people": [
+    {
+      "name": "Elis Fagerholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickade in fotografierna."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas ungdomsförenings ungdomslokal",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nära slagfältet och Döbelns monument; byggd 1910, grunden finns kvar."
+    },
+    {
+      "name": "Döbelnmonumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Slagfältet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bonskogsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49542,
+        "lng": 22.5004978,
+        "match": "name",
+        "gazetteerName": "bonskogsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthbacka teater",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ungdomslokalen byggs på talko",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "uppfördes 1910"
+      },
+      "people": [],
+      "places": [
+        "Juthas ungdomsförenings ungdomslokal"
+      ]
+    },
+    {
+      "title": "Bröllop i ungdomslokalen",
+      "date": {
+        "year": 1912,
+        "month": 8,
+        "circa": false,
+        "text": "i augusti 1912"
+      },
+      "people": [],
+      "places": [
+        "Juthas ungdomsförenings ungdomslokal"
+      ]
+    },
+    {
+      "title": "Verksamheten börjar domna bort",
+      "date": {
+        "year": 1935,
+        "circa": true,
+        "text": "Mot trettiotalets slut"
+      },
+      "people": [],
+      "places": [
+        "Juthas ungdomsförenings ungdomslokal"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Bygdens ungdomar bygger på talko ett eget föreningshus nära slagfältet vid Juthas 1910, och i årtionden fylls det av dans och fest. En gammal medlem återvänder på semester och ser vandaliseringen, golven som rivits upp och protokollen strödda över golvet – innan huset säljs för en spottstyver.",
+    "reason": "Uppgång och fall för en samlingsplats sedd genom en besviken veterans ögon.",
+    "characters": [],
+    "places": [
+      "Juthas ungdomsförenings ungdomslokal"
+    ]
+  },
+  "contentHash": "7c1f8ff7fdf2cb075b3d69fd5cb75d9dc790f21228d9f83fd4b945ec0ec2d847",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kuddnals.htm",
+  "title": "Målarminnen från Kuddnäs av Leif Söderlund",
+  "summary": "Leif Söderlund minns när han som ung målare renoverade Kuddnäs tillsammans med målarmästare Birger Ringvall och hans stränge far Hannes, som ilsket påpekade att penseln skulle hållas som av en målare och inte som när man mjölkar en ko. Det blev pappspänning, skvättmålning och en stege som halkade vid lusthuset.",
+  "topics": [
+    "minnen",
+    "hantverk",
+    "topelius",
+    "måleri"
+  ],
+  "people": [
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "målare",
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Birger Ringvall",
+      "alternateNames": [],
+      "roles": [
+        "målarmästare"
+      ]
+    },
+    {
+      "name": "Hannes Ringvall",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Lina Ringvall",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Lusthuset på Kuddnäs",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Kuddnäs",
+      "date": {
+        "year": 2010,
+        "month": 8,
+        "circa": false,
+        "text": "i augusti 2010"
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En ung målarlärling håller penseln med hela handen när skinnet på fingret nötts bort – och den andfådde gamle mästaren Hannes smyger sig på och fräser att han ska hålla penseln som en målare och inte som när man mjölkar en ko. Sedan bär det iväg till Kuddnäs, där stegen halkar på berget vid lusthuset.",
+    "reason": "Humor, dialekt och en sträng mästare ger en kort men levande lärlingsberättelse.",
+    "characters": [
+      "Leif Söderlund",
+      "Hannes Ringvall",
+      "Birger Ringvall"
+    ],
+    "places": [
+      "Kuddnäs",
+      "Lusthuset på Kuddnäs"
+    ]
+  },
+  "contentHash": "2975402e54df70d4779c27fb1cf05f187256e736bec7b9fe407e3bd6861265a9",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

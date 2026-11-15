@@ -1,0 +1,201 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kappas.htm",
+  "title": "F.d. KAP-PAS",
+  "summary": "Huset på Gustav Adolfsgatan 7 där konfektionsföretaget KAP-PAS sydde regnkappor av plast, och som John Jouper köpte i början av 1950-talet som bostad åt sina anställda. Karl Wenelius minns hur han och Ernst Jouper turades om att skyffla koks i pannan, hur vattnet måste hämtas i tunna och den första privata TV:n i staden.",
+  "topics": [
+    "hus",
+    "industri",
+    "konfektion",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Barbro Hjort",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hjalmar Lahtinen",
+      "alternateNames": [],
+      "roles": [
+        "skräddare"
+      ]
+    },
+    {
+      "name": "Bruno Lahtinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "John Jouper",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Lars Ingman",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Ernst Jouper",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Ragnar Forsström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Torkel Rajander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Saga Höglund",
+      "alternateNames": [
+        "Saga Mårtens"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Katri Lassus",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Georg Vendes",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna-Lisa Nordling",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Jouper",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "KAP-PAS",
+      "kind": "building",
+      "alternateNames": [
+        "Kappas",
+        "KAP-PAS-huset"
+      ],
+      "address": "Gustav Adolfsgatan 7",
+      "description": "På församlingshemmets nuvarande gårdsplan; revs i början av 1980-talet.",
+      "geo": {
+        "lat": 63.5209942,
+        "lng": 22.5325493,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Församlingshemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jouperfabriken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Joel Finnströms hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Torkel Rajanders hus vid Bankgatan."
+    }
+  ],
+  "events": [
+    {
+      "title": "KAP-PAS inleder verksamheten",
+      "date": {
+        "year": 1945,
+        "circa": true,
+        "text": "i slutet på 1940-talet (?)"
+      },
+      "people": [],
+      "places": [
+        "KAP-PAS"
+      ]
+    },
+    {
+      "title": "John Jouper köper huset och bygger om det till bostäder",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "I början av 1950-talet"
+      },
+      "people": [
+        "John Jouper"
+      ],
+      "places": [
+        "KAP-PAS"
+      ]
+    },
+    {
+      "title": "Fordringsägarna tar över Joupers fabriker",
+      "date": {
+        "year": 1960,
+        "month": 4,
+        "circa": false,
+        "text": "april 1960"
+      },
+      "people": [
+        "Ernst Jouper"
+      ],
+      "places": [
+        "Jouperfabriken"
+      ]
+    },
+    {
+      "title": "Huset rivs",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "i början på 1980-talet (?)"
+      },
+      "people": [],
+      "places": [
+        "KAP-PAS"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "45590757e710ca22a9507ed38f016e001fc2b1bd6731c72504a2583a77b66f65",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

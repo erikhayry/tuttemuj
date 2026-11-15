@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kotaskar.htm",
+  "title": "Kåtaskär",
+  "summary": "Holmen Kåtaskär söder om Frösön i Vexala, där Karl Fredrik Spolander byggde en villa med ekorrdekorationer kring sekelskiftet 1900. Villan såldes till lektor Iivari Koskimies och sedan till släkten Wangel, som ägt den sedan 1924.",
+  "topics": [
+    "villor",
+    "skärgård",
+    "sommarnöjen"
+  ],
+  "people": [
+    {
+      "name": "Karl Fredrik Spolander",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Böök",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Iivari Koskimies",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Linus Eliel Wangel",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Anna Wangel",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Magnus Wangel",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kotaskär",
+      "kind": "island",
+      "alternateNames": [
+        "Kåtaskär"
+      ]
+    },
+    {
+      "name": "Spolanders villa på Kåtaskär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frösön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Furuskärssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Spolander bygger villan på Kåtaskär",
+      "date": {
+        "year": 1900,
+        "circa": true,
+        "text": "omkring sekelskiftet"
+      },
+      "people": [
+        "Karl Fredrik Spolander"
+      ],
+      "places": [
+        "Spolanders villa på Kåtaskär"
+      ]
+    },
+    {
+      "title": "Koskimies säljer villan till Wangel",
+      "date": {
+        "year": 1917,
+        "circa": false,
+        "text": "1917"
+      },
+      "people": [
+        "Iivari Koskimies"
+      ],
+      "places": []
+    },
+    {
+      "title": "Villan säljs inom släkten Wangel",
+      "date": {
+        "year": 1924,
+        "circa": false,
+        "text": "år 1924"
+      },
+      "people": [
+        "Anna Wangel"
+      ],
+      "places": [
+        "Spolanders villa på Kåtaskär"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7a932813d3f58b76afcfb6b9c3cf962129db75077ce7678140065d589016e755",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

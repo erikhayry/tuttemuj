@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/karlebbr.htm",
+  "title": "Karleborg brinner den 8 april 1970",
+  "summary": "Fotografi av branden som totalförstörde Karleborg den 8 april 1970, taget från sydost med Fagerholms uthus i förgrunden.",
+  "topics": [
+    "brand",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Erik Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Brann den 8 april 1970."
+    },
+    {
+      "name": "Fagerholms uthus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Karleborg brinner ned",
+      "date": {
+        "year": 1970,
+        "month": 4,
+        "day": 8,
+        "circa": false,
+        "text": "den 8 april 1970"
+      },
+      "people": [],
+      "places": [
+        "Karleborg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c05ea2ac43bd750300512e905ec0fffb93ad1005760f090d7cf565c5b1b592cf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

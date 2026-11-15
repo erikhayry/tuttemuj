@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrktupp.htm",
+  "title": "Kyrktuppen på Nykarleby kyrka",
+  "summary": "Lars Pensar står bredvid den överraskande stora kyrktuppen under takrenoveringen 1992. Tuppen anskaffades från Stockholm 1709 och inspirerade troligen Topelius saga Kyrktuppen – och 1889 tjänade en ung man tio mark på att klättra upp och sätta sig på dess huvud.",
+  "topics": [
+    "kyrka",
+    "topelius",
+    "kuriosa"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Helge Hedman",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Tom Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl-Erik Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Veikko Markkula",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pettersson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrktuppen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Koppartupp från Stockholm 1709 på kyrktornet, senare förgylld."
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Barnhemmet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Koppartuppen anskaffas från Stockholm",
+      "date": {
+        "year": 1709,
+        "circa": false,
+        "text": "År 1709"
+      },
+      "people": [],
+      "places": [
+        "Kyrktuppen"
+      ]
+    },
+    {
+      "title": "Ung man klättrar upp och sätter sig på kyrktuppen för tio mark",
+      "date": {
+        "year": 1889,
+        "month": 6,
+        "circa": false,
+        "text": "22.06.1889"
+      },
+      "people": [],
+      "places": [
+        "Kyrktuppen"
+      ]
+    },
+    {
+      "title": "Lars Pensar fotograferas vid kyrktuppen",
+      "date": {
+        "year": 1992,
+        "month": 5,
+        "circa": false,
+        "text": "i maj 1992"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Kyrktuppen"
+      ]
+    },
+    {
+      "title": "Kyrkan grundrenoveras och får koppartak",
+      "date": {
+        "year": 1995,
+        "circa": false,
+        "text": "1995"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En sommardag 1889 erbjuder en av arbetarna på kyrktaket en ung man tio mark om han klättrar upp och sätter sig gränsle över kyrktuppen. Ynglingen tvekar inte – han sätter sig till och med på tuppens huvud och tjänar sin tia.",
+    "reason": "Ett svindlande och lustigt vågstycke högst uppe på stadens kyrka, med Topelius saga som klangbotten.",
+    "characters": [],
+    "places": [
+      "Kyrktuppen",
+      "Kyrkan"
+    ]
+  },
+  "contentHash": "fb225ba3b1c5637beef22c3ad10391a7ea20cc2dba2b5df5017026b2af7fdcce",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

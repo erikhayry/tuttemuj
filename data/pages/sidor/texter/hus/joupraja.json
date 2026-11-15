@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/joupraja.html",
+  "title": "F.d. John och Alma Joupers gård",
+  "summary": "Fotografi från början av 1980-talet av John och Alma Joupers gård på Joupersgatan.",
+  "topics": [
+    "hus",
+    "industri",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "John Jouper",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Alma Jouper",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "John och Alma Joupers gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Joupersgatan",
+      "geo": {
+        "lat": 63.517699,
+        "lng": 22.5263233,
+        "match": "address",
+        "gazetteerName": "joupersgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Joupersgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.517699,
+        "lng": 22.5263233,
+        "match": "name",
+        "gazetteerName": "joupersgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Joupers gård",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "1980-talets början"
+      },
+      "people": [],
+      "places": [
+        "John och Alma Joupers gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "985386fbdce7829ee3bae6b689320a9df99132d4054303bc33f6d8d9bcbc3868",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

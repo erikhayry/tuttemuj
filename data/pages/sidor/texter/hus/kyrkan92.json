@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkan92.html",
+  "title": "Kyrkan 1991 och 1992",
+  "summary": "Fotografier av omläggningen av kyrkans och klockstapelns tak med koppar 1991–92.",
+  "topics": [
+    "kyrka",
+    "renovering"
+  ],
+  "people": [
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Koppartaket läggs på klockstapeln och kyrkans östra del",
+      "date": {
+        "year": 1991,
+        "circa": false,
+        "text": "1991"
+      },
+      "people": [],
+      "places": [
+        "Klockstapeln",
+        "Kyrkan"
+      ]
+    },
+    {
+      "title": "Tornet får koppartak",
+      "date": {
+        "year": 1992,
+        "circa": false,
+        "text": "1992"
+      },
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "88d8e45577c8f239004d5134df2d868166e8149d63e0241cca50429ac1e16f3a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkog80.htm",
+  "title": "Kyrkogatan och Wahlbergs port 1980",
+  "summary": "Fotografi från våren 1980 av Wahlbergs port på Kyrkogatan 10, med mejeriets skorsten i fonden.",
+  "topics": [
+    "portar",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Wahlbergs port",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "Kyrkogatan 10",
+      "geo": {
+        "lat": 63.5234924,
+        "lng": 22.5277094,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mejeriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Wahlbergs port",
+      "date": {
+        "year": 1980,
+        "circa": false,
+        "text": "våren 1980"
+      },
+      "people": [],
+      "places": [
+        "Wahlbergs port"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e9292de90ec83bf9e96ef0561424cee7b6597b6a9019f52dc2c1498472d6060a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}

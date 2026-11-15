@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrkobyskola.html",
+  "title": "F.d. Kyrkoby skola 2017",
+  "summary": "Kyrkoby skola, timrad av virket från den förra prostgården och öppnad 1923, som var folkskola, finsk skola och arbetscentral innan den revs i oktober 2017.",
+  "topics": [
+    "skola",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Ture Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkoby skola",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkoby folkskola",
+        "Uudenkaarlepyyn suomalainen koulu"
+      ],
+      "address": "Joupersgatan 2",
+      "description": "Timrad 1923 av virke från förra prostgården på Jeansborgs mark; riven 2017.",
+      "geo": {
+        "lat": 63.5175827,
+        "lng": 22.5271513,
+        "match": "address",
+        "gazetteerName": "joupersgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Prostgården",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Nyboda arbetscentral",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkoby skola öppnar",
+      "date": {
+        "year": 1923,
+        "month": 8,
+        "day": 29,
+        "circa": false,
+        "text": "den 29 aug. 1923"
+      },
+      "people": [],
+      "places": [
+        "Kyrkoby skola"
+      ]
+    },
+    {
+      "title": "Skolan blir finsk skola",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "1964–1997"
+      },
+      "people": [],
+      "places": [
+        "Kyrkoby skola"
+      ]
+    },
+    {
+      "title": "Kyrkoby skola rivs",
+      "date": {
+        "year": 2017,
+        "month": 10,
+        "day": 6,
+        "circa": false,
+        "text": "den 6 oktober 2017"
+      },
+      "people": [],
+      "places": [
+        "Kyrkoby skola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "db5e43a2e38ab8fa7e6dc279fdbef03e63c4fdc770559881839f4580cdc85816",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:23:40.352Z"
+}
