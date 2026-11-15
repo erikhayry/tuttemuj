@@ -1,0 +1,35 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/sjukhuee.htm",
+  "title": "Sjukhuset (engelsk bildtext)",
+  "summary": "Engelsk bildtext ur bildserien 1910-1 om sjukhuset, byggt 1910 med plats för tio patienter.",
+  "topics": [
+    "sjukhus"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sjukhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sjukhuset byggs",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "built in 1910"
+      },
+      "people": [],
+      "places": [
+        "Sjukhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7be12a61fd9055915f852a168b6d25e546f5fb8abc486313eb37f27376f44028",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

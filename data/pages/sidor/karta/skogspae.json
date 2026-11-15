@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/skogspae.htm",
+  "title": "Skogsparken (engelsk bildtext)",
+  "summary": "Engelsk bildtext om Skogsparken, anlagd 1886 väster om seminariet för att lära seminaristerna skogsskötsel. Med gångar, dammar och paviljong var den en vacker plats – i dag syns knappt några spår.",
+  "topics": [
+    "park",
+    "seminariet",
+    "skogsskötsel"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Skogsparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Väster om seminariet; parken hade gångar, dammar och en paviljong."
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skogsparken anläggs",
+      "date": {
+        "year": 1886,
+        "circa": false,
+        "text": "established in 1886"
+      },
+      "people": [],
+      "places": [
+        "Skogsparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0c8c74a7099d8883fae314858294f170478e25c5d6a9ec3a313a11f59c0c9ba5",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

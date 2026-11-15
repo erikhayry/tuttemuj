@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/VYKORT/KA_JVNK.HTM",
+  "title": "Järnvägsstationerna",
+  "summary": "Kartutsnitt över järnvägsstationerna i Nykarleby och Kovjoki.",
+  "topics": [
+    "karta",
+    "vykort",
+    "järnvägen"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Järnvägsstationen",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby station"
+      ]
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "dce2818cf090c8a486757d0bc70e02d0457fd0c3456a819e30fab838b0dd7e65",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

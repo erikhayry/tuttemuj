@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/apoteebr.htm",
+  "title": "Ruinerna av hörnbyggnad",
+  "summary": "Fotografi av ruinerna efter mordbranden i en hörnbyggnad i december 1995.",
+  "topics": [
+    "brand",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hörnbyggnaden vid Apoteksbacken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Förstördes i en mordbrand i december 1995."
+    }
+  ],
+  "events": [
+    {
+      "title": "Mordbrand förstör hörnbyggnaden",
+      "date": {
+        "year": 1995,
+        "month": 12,
+        "circa": false,
+        "text": "december 1995"
+      },
+      "people": [],
+      "places": [
+        "Hörnbyggnaden vid Apoteksbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e711c7a923ce74908a928995e0f8e899f07bbde543a5a73b7fc4836844055660",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

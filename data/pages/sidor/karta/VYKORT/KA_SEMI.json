@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/VYKORT/KA_SEMI.HTM",
+  "title": "Seminarieområdet",
+  "summary": "Kartutsnitt över seminarieområdet med internatet, direktorsbostaden, verkstadsbyggnaden med Normalskolan på vinden, huvudbyggnaden och kosthållet på var sin sida om Seminariegatan.",
+  "topics": [
+    "karta",
+    "vykort",
+    "seminariet",
+    "skola"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminarieområdet",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Numera avstängd för genomfartstrafik.",
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariets internat",
+      "kind": "building",
+      "alternateNames": [
+        "Internatet"
+      ]
+    },
+    {
+      "name": "Seminariets direktorsbostad",
+      "kind": "building",
+      "alternateNames": [
+        "Direktorsbostaden"
+      ]
+    },
+    {
+      "name": "Seminariets verkstadsbyggnad",
+      "kind": "building",
+      "alternateNames": [
+        "Verkstadsbyggnaden"
+      ],
+      "description": "Normalskolan låg på vinden."
+    },
+    {
+      "name": "Seminariets huvudbyggnad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariets kosthåll",
+      "kind": "building",
+      "alternateNames": [
+        "Kosthållet"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "961dc124a973b45095ce81886e340b67197e205cb37cb9d65bf0e3f8304ce4b4",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/aman.htm",
+  "title": "Knutars gård 1975 och 1984",
+  "summary": "Fotografier av Knutars gård på Borgaregatan 3. Ett av husen var flyttat från Kubban, där det varit Topelius morbror Calamnius jaktstuga; på 1970-talet bodde skomakaren Herman Ohra-aho där med sin röda trehjuliga Messerschmitt.",
+  "topics": [
+    "hus",
+    "flyttade hus",
+    "topelius",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Calamnius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Topelius morbror."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Herman Ohra-aho",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Hilda Ohra-aho",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alf Nikonen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde gården 2004."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Bror Johansson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Tuva Korsström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Mirjam Tuominen",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i huset."
+    }
+  ],
+  "places": [
+    {
+      "name": "Knutars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 3",
+      "geo": {
+        "lat": 63.52377,
+        "lng": 22.5295899,
+        "match": "address",
+        "gazetteerName": "borgaregatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Calamnius jaktstuga",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Flyttad från Kubban till Borgaregatan 3; Topelius vistades där. Riven 1995."
+    },
+    {
+      "name": "Kubban",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Knutars gård",
+      "date": {
+        "year": 1975,
+        "circa": false,
+        "text": "1975"
+      },
+      "people": [],
+      "places": [
+        "Knutars gård"
+      ]
+    },
+    {
+      "title": "Fotografi av Knutars gård mot söder",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Knutars gård"
+      ]
+    },
+    {
+      "title": "Huset från Kubban rivs",
+      "date": {
+        "year": 1995,
+        "circa": false,
+        "text": "Huset revs 1995"
+      },
+      "people": [],
+      "places": [
+        "Calamnius jaktstuga"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En liten stuga där Topelius vistades flyttas från jaktmarkerna på Kubban in till staden, och på 1970-talet kör skomakaren Herman Ohra-aho fram till den i sin röda trehjuliga Messerschmitt – en skomakarbil.",
+    "reason": "Ett hus med två liv och en färgstark skomakare ger en lekfull berättelse.",
+    "characters": [
+      "Herman Ohra-aho",
+      "Calamnius"
+    ],
+    "places": [
+      "Calamnius jaktstuga",
+      "Kubban",
+      "Knutars gård"
+    ]
+  },
+  "contentHash": "a15f602490520bccaa4a13b3fe555e0817482116b814d3d173f69629da7bfa70",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

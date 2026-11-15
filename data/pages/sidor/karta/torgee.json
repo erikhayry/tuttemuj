@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/torgee.htm",
+  "title": "Torget (engelsk bildtext)",
+  "summary": "Engelsk bildtext om torget, vars hus byggdes strax efter den stora branden 1858 då nästan hela staden brann.",
+  "topics": [
+    "torget",
+    "stadsbranden 1858"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stora branden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "the great fire in 1858"
+      },
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac18a3a7e6d45cf6d69c88bfcc057e71aa7ea4e2ed31eae03b429664b7858326",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

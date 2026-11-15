@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gnkarta.htm",
+  "title": "Stadens adresskarta, klickbar",
+  "summary": "Klickbar adresskarta där man får gatunamnens förklaringar genom att klicka på gatorna; nya gator som Norrskenet, Stjärnfallet, Regnbågen och Frihemsvägen saknas.",
+  "topics": [
+    "gatunamn",
+    "karta"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Norrskenet",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Stjärnfallet",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5187588,
+        "lng": 22.4975108,
+        "match": "name",
+        "gazetteerName": "stjärnfallet",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Regnbågen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5194364,
+        "lng": 22.5056109,
+        "match": "name",
+        "gazetteerName": "regnbågen",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frihemsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51791670000001,
+        "lng": 22.5470782,
+        "match": "name",
+        "gazetteerName": "frihemsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2ac2b0c03f155ada5b8fa191220adfec939810e172e16aef1cf67368b41584eb",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

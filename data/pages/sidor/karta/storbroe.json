@@ -1,0 +1,35 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/storbroe.htm",
+  "title": "Storbron (engelsk bildtext)",
+  "summary": "Engelsk bildtext om Storbron, byggd 1815 och fortfarande i bruk efter några ombyggnader.",
+  "topics": [
+    "broar"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Storbron byggs",
+      "date": {
+        "year": 1815,
+        "circa": false,
+        "text": "built in 1815"
+      },
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "09c77004e084c00bef94ab7261d934f1c605d3a729ca257960bbbc860fe2ac74",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

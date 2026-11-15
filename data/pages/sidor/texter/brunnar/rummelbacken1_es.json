@@ -1,0 +1,189 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brunnar/rummelbacken1_es.html",
+  "title": "Tema: Mittersta Rummelbacksbrunnen",
+  "summary": "Fotografier och minnen kring pumpbrunnen mitt på Rummelbacken från 1950-talet till i dag – barn som fyller mjölkhinkar, en brunn i vinterskrud och 1972 hälsovårdsnämndens stängning sedan vattnet visat sig innehålla kolibakterier. Pumpen står i dag på en gårdsplan vid Remalskroken.",
+  "topics": [
+    "brunnar",
+    "vatten",
+    "minnen",
+    "1950-talet",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Sture Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henrik Häggblom",
+      "alternateNames": [
+        "Heiko Häggblom"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Bjarne Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Linnéa Sund",
+      "alternateNames": [
+        "Linnea Sund"
+      ],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Haglund",
+      "alternateNames": [
+        "Elisabet Sund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Jan Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna-Stina Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Liisa Häggblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunhild Hansén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Drev en matservering."
+    },
+    {
+      "name": "Anna-Lisa Lindfors",
+      "alternateNames": [
+        "Anna-Lisa"
+      ],
+      "roles": [],
+      "description": "Arbetade åt Gunhild Hansén."
+    },
+    {
+      "name": "Lars Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Regina",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Öppnade affär."
+    },
+    {
+      "name": "Börje",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mittersta Rummelbacksbrunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Rummelbacksbrunnen",
+        "pumpen vid Rummelbacken"
+      ]
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Remalskroken",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Pumpen finns i dag på en gårdsplan här.",
+      "geo": {
+        "lat": 63.5231827,
+        "lng": 22.5147169,
+        "match": "name",
+        "gazetteerName": "remalskroken",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gunhild Hanséns matservering",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Barn vid pumpbrunnen på Rummelbacken",
+      "date": {
+        "year": 1954,
+        "circa": true,
+        "text": "1954 eller -55"
+      },
+      "people": [
+        "Sture Sund",
+        "Henrik Häggblom",
+        "Bjarne Sund"
+      ],
+      "places": [
+        "Mittersta Rummelbacksbrunnen"
+      ]
+    },
+    {
+      "title": "Hälsovårdsnämnden stänger Rummelbacksbrunnen på grund av kolibakterier",
+      "date": {
+        "year": 1972,
+        "month": 5,
+        "circa": false,
+        "text": "maj 1972"
+      },
+      "description": "Ett tiotal hushåll fick söka dricksvatten på annat håll.",
+      "people": [],
+      "places": [
+        "Mittersta Rummelbacksbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "När hälsovårdsnämnden 1972 stänger pumpbrunnen på Rummelbacken på grund av kolibakterier får ett tiotal hushåll börja leta dricksvatten runt om i stan. Bilderna visar brunnen som kvarterets mötesplats, där barn fyllde mjölkhinkar på 1950-talet.",
+    "reason": "Brunnen som samlingspunkt och dess stängning ger en tydlig vändpunkt i ett vardagligt kvarter.",
+    "characters": [
+      "Liisa Häggblom",
+      "Linnéa Sund"
+    ],
+    "places": [
+      "Mittersta Rummelbacksbrunnen",
+      "Rummelbacken"
+    ]
+  },
+  "contentHash": "7e3cd92501307b117c2064ff1d397397eb7fbdd9dee2baadbb4da95781d1b35f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

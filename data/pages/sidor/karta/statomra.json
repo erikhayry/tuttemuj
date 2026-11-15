@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/statomra.htm",
+  "title": "Stationsområdet i Nykarleby",
+  "summary": "Detalj av Th. Heikels stadsplan från 1907 över stationsområdet, med stationshuset och lokstallet som senare blev brandstation. Stationsgatan, utskriven även på ryska, anlades aldrig.",
+  "topics": [
+    "järnvägen",
+    "stadsplan",
+    "brandstation"
+  ],
+  "people": [
+    {
+      "name": "Th. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade stationsområdet 1973."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stationsområdet",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Stationshuset",
+      "kind": "building",
+      "alternateNames": [
+        "Järnvägsstationen"
+      ]
+    },
+    {
+      "name": "Lokstallet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggdes senare om till brandstation."
+    },
+    {
+      "name": "Stationsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Blev aldrig anlagd."
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Heikels stadsplan",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "från 1907"
+      },
+      "people": [
+        "Th. Heikel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsplanen godkänns",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "godkänd 1912"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lars Pensar fotograferar stationsområdet",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Stationsområdet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ec4405ae047da99605aab66fea31b1aaa5589ab887d658c2fe9412c54f2cbd06",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

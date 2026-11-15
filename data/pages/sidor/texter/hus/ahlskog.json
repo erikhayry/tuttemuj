@@ -1,0 +1,141 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ahlskog.htm",
+  "title": "Ahlskogs 1965 eller 1966",
+  "summary": "Fotografi från mitten av 1960-talet över byggmästare K. J. Ahlskogs gård vid Grev Tottgatan, med gårdens senare ägare. På vindsvåningen i granngården inledde Piratos sin karriär.",
+  "topics": [
+    "hus",
+    "ägarlängd",
+    "fotografi",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "K. J. Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Sigrid Ahlskog",
+      "alternateNames": [
+        "Sigge Ahlskog"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Nils Solvin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ingmar Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Engström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Familjen äger gården sedan mitten av 1970-talet."
+    },
+    {
+      "name": "Stig-Ole Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ahlskogs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggmästare K. J. Ahlskogs gård vid korsningen Gustav Adolfsgatan–Grev Tottgatan."
+    },
+    {
+      "name": "Gustav Adolfsgatan 39",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 39",
+      "geo": {
+        "lat": 63.5263082,
+        "lng": 22.5350963,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 39",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Norra parkhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Under uppförande vid fotograferingen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Ahlskogs gård",
+      "date": {
+        "year": 1965,
+        "circa": true,
+        "text": "1965 eller 1966"
+      },
+      "people": [],
+      "places": [
+        "Ahlskogs gård"
+      ]
+    },
+    {
+      "title": "Ingmar Nylund köper gården och bygger nytt uthus",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "I början på 1970-talet"
+      },
+      "people": [
+        "Ingmar Nylund"
+      ],
+      "places": [
+        "Ahlskogs gård"
+      ]
+    },
+    {
+      "title": "Familjen Engström tar över gården",
+      "date": {
+        "year": 1975,
+        "circa": true,
+        "text": "Sedan mitten av 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "Ahlskogs gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "46c4331e8c3bd717b8abc893dc6a9128c261a6547baa2689dd8265a66a9463b6",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

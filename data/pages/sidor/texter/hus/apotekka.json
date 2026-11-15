@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/apotekka.htm",
+  "title": "Uthuset vid Apoteksbacken",
+  "summary": "Fotografi från 1930-talet eller senare av apotekskällaren i Apoteksbacken vid korsningen Kyrkogatan–Borgaregatan.",
+  "topics": [
+    "apotek",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apotekskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Apoteksbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Vid korsningen Kyrkogatan–Borgaregatan."
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av apotekskällaren",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "på 1930-talet eller senare"
+      },
+      "people": [],
+      "places": [
+        "Apotekskällaren"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "02a3ae6620cd95146318cbdd5810e6920dc310d8ac35077bb14acf9970e6afe3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

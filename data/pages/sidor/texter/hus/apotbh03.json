@@ -1,0 +1,124 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/apotbh03.htm",
+  "title": "Apotekets brunnshus 2003",
+  "summary": "Fotografi från 2003 av apotekets brunnshus vid Kyrkogatan 7, som på Marlene Sunds initiativ flyttades över Borgaregatan när ett nytt bostadshus byggdes på apotekstomten.",
+  "topics": [
+    "brunnar",
+    "apotek",
+    "flyttade hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Marlene Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tog initiativ till flytten."
+    },
+    {
+      "name": "Albert Braun",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Apotekets brunnshus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 7",
+      "description": "Flyttat till granntomten på andra sidan Borgaregatan 2002–03.",
+      "geo": {
+        "lat": 63.5237259,
+        "lng": 22.5282357,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Apotekstomten",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "Kyrkogatan 7",
+      "geo": {
+        "lat": 63.5237259,
+        "lng": 22.5282357,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nytt bostadshus byggs på apotekstomten och brunnshuset flyttas",
+      "date": {
+        "year": 2002,
+        "circa": false,
+        "text": "2002–03"
+      },
+      "people": [
+        "Marlene Sund"
+      ],
+      "places": [
+        "Apotekets brunnshus",
+        "Apotekstomten"
+      ]
+    },
+    {
+      "title": "Lars Pensar fotograferar brunnshuset",
+      "date": {
+        "year": 2003,
+        "month": 12,
+        "circa": false,
+        "text": "december 2003"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Apotekets brunnshus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3b89e528c49f2a4038507e3a45f7c8cf378290993922ce30333cd3cdc1745445",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}

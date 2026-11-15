@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/vername.htm",
+  "title": "Vernamo (engelsk bildtext)",
+  "summary": "Engelsk bildtext om villan Vernamo, byggd 1898, prästgård från 1926 och riven på 1980-talet.",
+  "topics": [
+    "prästgård",
+    "villor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Vernamo",
+      "kind": "building",
+      "alternateNames": [
+        "Värnamo",
+        "Värnamogården"
+      ],
+      "description": "Prästgård från 1926."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vernamo byggs",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "Built in 1898"
+      },
+      "people": [],
+      "places": [
+        "Vernamo"
+      ]
+    },
+    {
+      "title": "Vernamo blir prästgård",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "from 1926"
+      },
+      "people": [],
+      "places": [
+        "Vernamo"
+      ]
+    },
+    {
+      "title": "Vernamo rivs",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "in the 1980's"
+      },
+      "people": [],
+      "places": [
+        "Vernamo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "86c2e256a31da754aa47f90970c4ea60e33da9fb3c17422333e51742a93c250b",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:48:10.534Z"
+}
