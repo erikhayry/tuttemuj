@@ -51,6 +51,12 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
   - Put the original wording in `date.text`.
   - `people` and `places` reference names used in the lists above.
 
+- `comicCandidate`: **always set it**: `null`, or an object if the page tells a story that could become a comic. The user turns local stories into comics in another project.
+  - A candidate has people (named or not) and something happening to them: a conflict, a danger, a turning point, a vivid scene or a strong memory. Lists, map captions and plain facts are `null`.
+  - `potential`: `"high"` when the page itself carries the story (a scene, dialogue, a sequence of events, personal memories); `"medium"` when the page has a strong story seed but only a few lines of it.
+  - `pitch`: the story in your own words, in Swedish, 1–3 sentences. `reason`: why it works as a comic, in Swedish, one sentence.
+  - `characters` and `places` reference names used in `people` and `places`.
+
 ## Rules
 
 - Only include facts stated on the page. Don't add outside knowledge or guesses.

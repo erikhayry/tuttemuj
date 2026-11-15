@@ -52,6 +52,7 @@ describe("extraction batches", () => {
       title: "Hus A",
       summary: "Gården uppfördes 1850.",
       model: "claude-opus-5-5",
+      comicCandidate: null,
       events: [{ title: "Gården byggs", date: { year: 1850 }, people: ["Anders"] }],
     });
     const result = await saveDrafts({ paths, now: new Date("2026-11-15T00:00:00Z") });

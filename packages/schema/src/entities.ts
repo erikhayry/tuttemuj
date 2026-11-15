@@ -48,6 +48,18 @@ export const EventMention = z.object({
 });
 export type EventMention = z.infer<typeof EventMention>;
 
+/** A page whose story could be retold as a comic (used by a separate comics project). */
+export const ComicCandidate = z.object({
+  potential: z.enum(["medium", "high"]),
+  /** The story in our own words (Swedish, 1–3 sentences): who, what happens, what is at stake. */
+  pitch: z.string().min(1),
+  /** Why it works as a comic, e.g. a clear conflict, a vivid scene, a turning point (Swedish). */
+  reason: z.string().min(1),
+  characters: z.array(z.string()).default([]).describe("Names matching PersonMention.name"),
+  places: z.array(z.string()).default([]).describe("Names matching PlaceMention.name"),
+});
+export type ComicCandidate = z.infer<typeof ComicCandidate>;
+
 /**
  * Derived facts from one source page (data/pages/<id>.json).
  * Never contains the page text itself, only our own summary and extracted facts.
@@ -60,6 +72,8 @@ export const PageExtraction = z.object({
   people: z.array(PersonMention).default([]),
   places: z.array(PlaceMention).default([]),
   events: z.array(EventMention).default([]),
+  /** null = assessed, not a comic candidate. Missing = not assessed (older extractions). */
+  comicCandidate: ComicCandidate.nullable().optional(),
   contentHash: z.string(),
   extractionVersion: z.int().positive(),
   model: z.string(),
@@ -78,7 +92,11 @@ export const PageExtractionDraft = PageExtraction.omit({
   contentHash: true,
   extractionVersion: true,
   extractedAt: true,
-}).extend({ places: z.array(PlaceMentionDraft).default([]) });
+}).extend({
+  places: z.array(PlaceMentionDraft).default([]),
+  /** Required in drafts: the analyst always decides (null when not a candidate). */
+  comicCandidate: ComicCandidate.nullable(),
+});
 export type PageExtractionDraft = z.infer<typeof PageExtractionDraft>;
 
 /** One page handed out for analysis (.cache/extract/batch.json). */
