@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1905birck.htm",
+  "title": "Plankarta över Nykarleby stad 1905 av L. Birck",
+  "summary": "J. L. Bircks plankarta över Nykarleby från 1905, med en förteckning över stadens viktiga byggnader: kyrkan, rådhuset, posten, bankerna, våghuset, apoteket, gästgiveriet, tidningstryckeriet, seminariet och järnvägsstationen.",
+  "topics": [
+    "stadsplan",
+    "byggnader",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "L. Birck"
+      ],
+      "roles": [],
+      "description": "Ritade plankartan 1905."
+    },
+    {
+      "name": "Fritiof Liewendahl",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ritade en stadsplan 1895."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Bror Johansson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Postkontoret",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby bank",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Wasa bank",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Våghuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Telegrafkontoret",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullkammaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgmästarens och stadsfiskalens bostad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Telefoncentralen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gästgiveriet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tidningstryckeriet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariebyggnaderna",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Järnvägsstationen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Birck ritar plankartan över Nykarleby",
+      "date": {
+        "year": 1905,
+        "circa": false,
+        "text": "1905"
+      },
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Liewendahl ritar en stadsplan",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "1895"
+      },
+      "people": [
+        "Fritiof Liewendahl"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "43aed320295b575b005a241a902d0e2af5d7a0dfecd2cf24de3d1821d39906bf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

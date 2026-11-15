@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1877ra-0.htm",
+  "title": "Transsumt av Nykarleby stads plan 1877",
+  "summary": "En stadsplan från 1877 som ingår i ett besvär mot att bonden Johan Lithén fått tillstånd att sälja brännvin i staden. Kartan märker ut kyrkan, stadskällaren och stadens alla brännvins- och ölförsäljningsställen.",
+  "topics": [
+    "brännvin",
+    "krog",
+    "rättsfall",
+    "stadsplan",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "E. O. Söderström",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ],
+      "description": "Överklagade beslutet om brännvinsförsäljning."
+    },
+    {
+      "name": "Johan Lithén",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Fick tillstånd att sälja brännvin i staden."
+    },
+    {
+      "name": "Carl Carlberg",
+      "alternateNames": [],
+      "roles": [
+        "sjötullvaktmästare"
+      ]
+    },
+    {
+      "name": "J. F. Grenman",
+      "alternateNames": [],
+      "roles": [
+        "stadsfogde"
+      ]
+    },
+    {
+      "name": "Aug. Holländer",
+      "alternateNames": [],
+      "roles": [
+        "polisbetjänt"
+      ]
+    },
+    {
+      "name": "Gustaf Karsten",
+      "alternateNames": [],
+      "roles": [
+        "telegrafist"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanen och beskrivningen intygas",
+      "date": {
+        "year": 1877,
+        "month": 2,
+        "day": 19,
+        "circa": false,
+        "text": "den 19 Februari 1877"
+      },
+      "people": [
+        "Carl Carlberg",
+        "J. F. Grenman",
+        "Aug. Holländer",
+        "Gustaf Karsten"
+      ],
+      "places": []
+    },
+    {
+      "title": "Johan Lithén lämnar sin förklaring",
+      "date": {
+        "year": 1877,
+        "month": 2,
+        "day": 26,
+        "circa": false,
+        "text": "26.2.1877"
+      },
+      "people": [
+        "Johan Lithén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Guvernören i Vasa län ger Johan Lithén tillstånd att sälja brännvin",
+      "date": {
+        "year": 1877,
+        "month": 3,
+        "day": 10,
+        "circa": false,
+        "text": "10.3.1877"
+      },
+      "people": [
+        "Johan Lithén",
+        "E. O. Söderström"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "6fe71bd322d8e75c8cb68cd4df493080fce272aeb53cfda5eb9700ec6694404c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

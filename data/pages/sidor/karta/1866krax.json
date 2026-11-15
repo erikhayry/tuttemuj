@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1866krax.htm",
+  "title": "Plan över Nykarleby av K. J. Krank 1866, svartvit",
+  "summary": "Svartvit version av Kranks karta från 1866 över Brunnsholmarna och en del av staden, ur Erik Bircks stadshistoria.",
+  "topics": [
+    "karta",
+    "brunnsort",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "K. J. Krank",
+      "alternateNames": [
+        "Krank"
+      ],
+      "roles": [
+        "vice lantmätare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Krank mäter upp Brunnsholmarna och en del av staden",
+      "date": {
+        "year": 1866,
+        "circa": false,
+        "text": "Afmätte år 1866"
+      },
+      "people": [
+        "K. J. Krank"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    }
+  ],
+  "contentHash": "53083056472d9ee68ae89b6156392d69c121550c9c9767740391a9dc51e7eade",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

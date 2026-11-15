@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1842kj-5.htm",
+  "title": "Nybroforsen och Nybroviken i Kjellmans stadsplan 1842",
+  "summary": "Detalj av Kjellmans stadsplan från 1842 som visar Nybroforsen och Nybroviken.",
+  "topics": [
+    "stadsplan",
+    "älven",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [
+        "Kjellman"
+      ],
+      "roles": [
+        "lantmäterieauskultant"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kjellman renoverar stadsplanen och lägger in nya gårdstomter",
+      "date": {
+        "year": 1842,
+        "circa": false,
+        "text": "År 1842"
+      },
+      "people": [
+        "O. W. Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "d0bfbf8e7cc05f93d78263bedaf685ebc2e299b62796fb365b2e98ade70ff203",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:08:19.015Z"
+}

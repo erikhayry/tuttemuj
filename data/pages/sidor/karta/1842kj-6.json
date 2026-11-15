@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1842kj-6.htm",
+  "title": "Centrum i Kjellmans stadsplan 1842",
+  "summary": "Detalj av stadens centrum i Kjellmans stadsplan från 1842, där stadsbäcken skär snett genom kvarteren. I bäcken drunknade Christina Ericsdotter Yrjäs.",
+  "topics": [
+    "stadsplan",
+    "stadsbäcken",
+    "olycka",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [
+        "Kjellman"
+      ],
+      "roles": [
+        "lantmäterieauskultant"
+      ]
+    },
+    {
+      "name": "Christina Ericsdotter Yrjäs",
+      "alternateNames": [
+        "Christina Ericsdotter Ohls"
+      ],
+      "roles": [],
+      "description": "Drunknade i stadsbäcken."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsbäcken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Centrum",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kjellman renoverar stadsplanen och lägger in nya gårdstomter",
+      "date": {
+        "year": 1842,
+        "circa": false,
+        "text": "År 1842"
+      },
+      "people": [
+        "O. W. Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "100370f00464bd25ef202b0de1f86b7d70d413c57442808ac9865e1daecfda3a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:08:19.015Z"
+}

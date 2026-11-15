@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1943sp.html",
+  "title": "Stadsplan 1943",
+  "summary": "Stadsplanen över Nykarleby i kartboken SUOMI-Finland, tryckt 1943 mitt under fortsättningskriget. Mats Blomqvist pekar på kartans fadäser: den smalspåriga järnvägen som försvunnit långt tidigare är kvar, medan kraftverket saknas.",
+  "topics": [
+    "stadsplan",
+    "järnvägen",
+    "fortsättningskriget",
+    "1940-talet"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll och kommenterade kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hotellet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Posten",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Esplanadgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäsvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Den smalspåriga järnvägen",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kartboken SUOMI-Finland trycks",
+      "date": {
+        "year": 1943,
+        "circa": false,
+        "text": "tryckt 1943"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Staden får normalspårig järnväg",
+      "description": "Drygt sex år efter att kartboken trycktes 1943 (årtal anges inte).",
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "333c823cdc7468bf9a0f14c3fe453504bb86d9f81afa9e3b0f5b15eb5da6c106",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1884andrasjon.html",
+  "title": "Plankarta över Nykarleby stads hamn 1884",
+  "summary": "Karta över stadens hamn vid Andrasjön 1884 med magasinstomterna och deras innehavare – handlande, rådmän och konsul Häggblom – samt ångbåtsbryggan, packhusen och tullstugan. Ett av packhusen är dagens Tullmagasinet.",
+  "topics": [
+    "hamn",
+    "handel",
+    "sjöfart",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Pet Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. Nylund",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "A. Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Mat Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. W. Lundqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans änka innehade magasinstomter."
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    },
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Stadens hamn."
+    },
+    {
+      "name": "Nykarleby stads hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ångbåtsbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Packhusen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": [
+        "Packhus"
+      ],
+      "description": "Ett av packhusen på kartan 1884."
+    },
+    {
+      "name": "Tullstugan",
+      "kind": "building",
+      "alternateNames": [
+        "Tull Stugan"
+      ]
+    },
+    {
+      "name": "Magasinstomterna",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Udda nummer norr om vägen, jämna söder om."
+    }
+  ],
+  "events": [
+    {
+      "title": "Plankarta över stadens hamn",
+      "date": {
+        "year": 1884,
+        "circa": false,
+        "text": "1884"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby stads hamn"
+      ]
+    }
+  ],
+  "contentHash": "3809952ca9d6ef9e7fac35cf5a91cc948b9aebc97902c7743086f8e622151ee7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

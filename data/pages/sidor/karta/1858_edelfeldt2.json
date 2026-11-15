@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1858_edelfeldt2.html",
+  "title": "Edelfeldts stadsplan av år 1858",
+  "summary": "Albert Edelfeldts stadsplan för Nykarleby från 1858, gjord enligt 1856 års byggnadsordning med rutnätsplan, rikligt med trädplanteringar och varierade kvarter. Kartan är vriden så att norr är uppåt och har delvis ryska texter.",
+  "topics": [
+    "stadsplan",
+    "stadsbranden 1858",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Albert Edelfeldt",
+      "alternateNames": [
+        "Edelfelt",
+        "Albert Edelfeldf"
+      ],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Henrik Lilius",
+      "alternateNames": [],
+      "roles": [
+        "konsthistoriker"
+      ],
+      "description": "Skrev Trästaden i Finland (1985)."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Edelfeldt gör ny stadsplan för Nykarleby",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [
+        "Albert Edelfeldt"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Ny allmän byggnadsordning för städer",
+      "date": {
+        "year": 1856,
+        "circa": false,
+        "text": "1856"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "dec9ecceba52fab353af56beebab7d5eacf21501c9f522f0ef11f7db3333f480",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

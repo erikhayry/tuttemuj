@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1877ra-1.htm",
+  "title": "Transsumt av Nykarleby stads plan 1877 – detalj",
+  "summary": "Förstorad detalj av 1877 års plan där kyrkan, klockstapeln, stadskällaren, Kisors gård och stadens brännvins- och ölförsäljningsställen är utmärkta längs gator som Rådhusboulevarden och Östra Långgatan.",
+  "topics": [
+    "brännvin",
+    "krog",
+    "stadsplan",
+    "1800-talet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kisors gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Singsby brännvinsbolags partiförsäljning",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Brännvinsförsäljningsställe för Singsby brännvinsbolag."
+    },
+    {
+      "name": "Ågatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [
+        "Kyrko Gatan"
+      ],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": [
+        "Rådhus Boulevarden"
+      ]
+    },
+    {
+      "name": "Skolgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra Långgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra Tvärgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra Tvärgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Nykarleby Elf"
+      ]
+    },
+    {
+      "name": "Stortorget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanen intygas",
+      "date": {
+        "year": 1877,
+        "circa": false,
+        "text": "1877"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "7467e88bab97163f0b02d6e7e8e8cad270ab581957d3c6fc43b03310f3244b3a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

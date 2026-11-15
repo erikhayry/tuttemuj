@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1875lind.htm",
+  "title": "Detalj ur Lindhagens stadsplan 1875",
+  "summary": "Detalj av Lindhagens tryckta stadsplan från 1875, roterad med norr uppåt, med kyrkan vid älven, platser för rådhus och skolhus samt torget mellan Grev Tottgatan, Mathesiusgatan och Bangatan.",
+  "topics": [
+    "stadsplan",
+    "rådhus",
+    "skola",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Albert Lindhagen",
+      "alternateNames": [
+        "Lindhagen"
+      ],
+      "roles": [
+        "stadsplanerare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid älven.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Plats för rådhus",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Öster om esplanaden."
+    },
+    {
+      "name": "Plats för skolhus",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Väster om Gustav Adolfsgatan."
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lindhagen ger ut planritningar av finska städer",
+      "date": {
+        "year": 1875,
+        "circa": false,
+        "text": "år 1875"
+      },
+      "people": [
+        "Albert Lindhagen"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "ea6ee791afc69b29a719121f0f7df5745a2ee8192083d1041ccdc471582b5103",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1842kjsv.htm",
+  "title": "O. W. Kjellmans stadsplan 1842, svartvit",
+  "summary": "Svartvit version av Kjellmans stadsplan över Nykarleby från 1842, så som den återges i Erik Bircks stadshistoria, med länk till färgversionen.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [
+        "Kjellman"
+      ],
+      "roles": [
+        "lantmäterieauskultant"
+      ]
+    },
+    {
+      "name": "Gullic Wislander",
+      "alternateNames": [
+        "Gullic Wistlander"
+      ],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "M. G. Fillmer",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "O. B. Lagermarck",
+      "alternateNames": [],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Wislander mäter upp staden",
+      "date": {
+        "year": 1740,
+        "circa": false,
+        "text": "Afmät år 1740"
+      },
+      "people": [
+        "Gullic Wislander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fillmer renoverar kartan",
+      "date": {
+        "year": 1759,
+        "circa": false,
+        "text": "Renoverad år 1759"
+      },
+      "people": [
+        "M. G. Fillmer"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kjellman renoverar stadsplanen och lägger in nya gårdstomter",
+      "date": {
+        "year": 1842,
+        "circa": false,
+        "text": "År 1842"
+      },
+      "people": [
+        "O. W. Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "c37d9c9502594df047e49970a80155eb4bcbffe2d9334eec4a263c20c512c0fa",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

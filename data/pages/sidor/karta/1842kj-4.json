@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1842kj-4.htm",
+  "title": "Carlborgsgatan i Kjellmans stadsplan 1842",
+  "summary": "Detalj av Kjellmans stadsplan från 1842 kring Carlborgsgatan, där vägen till Högbacka hemman utgick från Nygatans norra ände.",
+  "topics": [
+    "stadsplan",
+    "gator",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [
+        "Kjellman"
+      ],
+      "roles": [
+        "lantmäterieauskultant"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Carlborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nygatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Vägen till Högbacka hemman",
+      "kind": "street",
+      "alternateNames": [
+        "Väg till Högbacka hemman"
+      ]
+    },
+    {
+      "name": "Högbacka hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Högbacka"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Kjellman renoverar stadsplanen och lägger in nya gårdstomter",
+      "date": {
+        "year": 1842,
+        "circa": false,
+        "text": "År 1842"
+      },
+      "people": [
+        "O. W. Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "f927b16da5a3c9f8f9b88c13e3c8e62d8da86f1eda998cf65991d48fc29d1ebd",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:08:19.015Z"
+}

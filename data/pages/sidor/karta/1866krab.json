@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1866krab.htm",
+  "title": "Brunnsholmarna, detalj ur Kranks plan 1866",
+  "summary": "Detalj av K. J. Kranks karta från 1866 över Brunnsholmarna, med surbrunnen, brunnshuset, kägelbanan, stadskvarnen och kvarndammen – spår av brunnsortstiden.",
+  "topics": [
+    "brunnsort",
+    "kvarn",
+    "karta",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "K. J. Krank",
+      "alternateNames": [
+        "Krank"
+      ],
+      "roles": [
+        "vice lantmätare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brunns Holmarne"
+      ]
+    },
+    {
+      "name": "Surbrunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Källa"
+      ],
+      "description": "Inritad i efterhand med blyerts."
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Stads qvarnen"
+      ]
+    },
+    {
+      "name": "Kvarndammen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Stenarna mellan norra udden och kvarnen."
+    },
+    {
+      "name": "Kägelbanan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Brunns holmen"
+      ]
+    },
+    {
+      "name": "Brunnshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Krank mäter upp Brunnsholmarna och en del av staden",
+      "date": {
+        "year": 1866,
+        "circa": false,
+        "text": "Afmätte år 1866"
+      },
+      "people": [
+        "K. J. Krank"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    }
+  ],
+  "contentHash": "14f9e6de3a1203edd0264b0e5742c9f2ef05a76e741e21b941ac1a75622cd83d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

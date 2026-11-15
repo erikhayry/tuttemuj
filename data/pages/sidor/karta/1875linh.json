@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1875linh.htm",
+  "title": "Lindhagens plan för Nykarleby 1875",
+  "summary": "Albert Lindhagens litograferade plan för Nykarleby, utgiven i Stockholm 1875 och baserad på stadsplanen som fastställdes 1858. Kartan ingick i en sällsynt serie planer över finska städer – enligt antikvariatet är det kanske det enda exemplaret i privat ägo.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Albert Lindhagen",
+      "alternateNames": [
+        "Lindhagen"
+      ],
+      "roles": [
+        "stadsplanerare"
+      ]
+    },
+    {
+      "name": "Jan Strang",
+      "alternateNames": [],
+      "roles": [
+        "antikvariatshandlare"
+      ],
+      "description": "Antiikki-Kirja i Helsingfors."
+    },
+    {
+      "name": "C. J. Thyselius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev förordet."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanen för Nykarleby fastställs",
+      "date": {
+        "year": 1858,
+        "month": 10,
+        "day": 8,
+        "circa": false,
+        "text": "fastställd 8/10 1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lindhagen ger ut planritningar av finska städer",
+      "date": {
+        "year": 1875,
+        "circa": false,
+        "text": "år 1875"
+      },
+      "people": [
+        "Albert Lindhagen"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "e33695f5f080bb2515e5de860f7969fe1267550a6e53e70aa584aaebed89be70",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

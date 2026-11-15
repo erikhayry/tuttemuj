@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1952tvgr.htm",
+  "title": "Stadsplan över Nykarleby i Två österbottniska grannstäder",
+  "summary": "Stadsplanen i turistboken Två österbottniska grannstäder, Jakobstad, Nykarleby, som visar planen som överdirektör Edelfeldt gjorde efter branden, senare omarbetad av Hilding Ekelund. Platsen för dagens ämbetshus kallas Plantering – under krigsåren odlades potatis och grönsaker på varje ledig markbit.",
+  "topics": [
+    "stadsplan",
+    "parker",
+    "krigsåren",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "A. Edelfeldt",
+      "alternateNames": [
+        "A. Edefeldt"
+      ],
+      "roles": [
+        "överdirektör"
+      ],
+      "description": "Albert Edelfeldts far; gjorde stadsplanen efter branden."
+    },
+    {
+      "name": "Hilding Ekelund",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ],
+      "description": "Omarbetade och utvidgade stadsplanen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Floraparken",
+        "Park"
+      ]
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Parken"
+      ]
+    },
+    {
+      "name": "Ämbetshustomten",
+      "kind": "other",
+      "alternateNames": [
+        "Plantering"
+      ],
+      "description": "Öster om torget."
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Turistfrämjandet i Jakobstad ger ut boken",
+      "date": {
+        "year": 1951,
+        "circa": false,
+        "text": "(1951)"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "a50ec127f1ad8c445034aa33c097129b7109aa0145d54897ec93ee5c7fe375a5",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

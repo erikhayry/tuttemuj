@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1858-0.htm",
+  "title": "Stor Alörn och Lill Alörn 1858",
+  "summary": "Utdrag ur Fillmers geometriska karta från 1750-talet över Kyrkobys donerade hemman, som visar öarna Stor och Lill Alörn. Uppmätningen gjordes på order av Ephraim Otto Runeberg, skaldens farbror; kartan renoverades 1848, bestyrktes 1858 och kopierades 1898.",
+  "topics": [
+    "karta",
+    "skärgård",
+    "1700-talet",
+    "runeberg"
+  ],
+  "people": [
+    {
+      "name": "M. G. Fillmer",
+      "alternateNames": [],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "Ephraim Otto Runeberg",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ],
+      "description": "Skaldens farbror; uppmätningen gjordes på hans order."
+    },
+    {
+      "name": "Jonas Pärikkö",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bestyrkte kopian 1898."
+    },
+    {
+      "name": "Dage Byggmästar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stor Alörn",
+      "kind": "island",
+      "alternateNames": [
+        "Stor Al Örn"
+      ]
+    },
+    {
+      "name": "Lill Alörn",
+      "kind": "island",
+      "alternateNames": [
+        "Lill Al Örn",
+        "Lillalörn"
+      ]
+    },
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fillmer mäter upp Kyrkobys donerade hemmans ägor",
+      "date": {
+        "year": 1753,
+        "circa": false,
+        "text": "År 1753, 54, 56, 57 och 1758"
+      },
+      "people": [
+        "M. G. Fillmer",
+        "Ephraim Otto Runeberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kartan renoveras",
+      "date": {
+        "year": 1848,
+        "circa": false,
+        "text": "Renoverad 1848"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Renovationen bestyrks av Överstyrelsen för lantmäteriet",
+      "date": {
+        "year": 1858,
+        "month": 9,
+        "day": 24,
+        "circa": false,
+        "text": "den 24 September 1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kartan kopieras vid Vasa läns lantmäterikontor",
+      "date": {
+        "year": 1898,
+        "month": 8,
+        "day": 27,
+        "circa": false,
+        "text": "den 27. Augusti 1898"
+      },
+      "people": [
+        "Jonas Pärikkö"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "f788895323999fd744b96c3838139c75e841a9d6196daf292b6d30af43e32d2f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

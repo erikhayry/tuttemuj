@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1866kran.htm",
+  "title": "Plan över Nykarleby av K. J. Krank 1866",
+  "summary": "K. J. Kranks karta från 1866, gjord för en planerad väg rakt till Brunnsholmarna som aldrig byggdes. Den ger en detaljerad bild av brunnsområdet och av byggnader som gamla kyrkan, Wahlbergs karaktärsbyggnad och Nygårds ölbryggeri.",
+  "topics": [
+    "brunnsort",
+    "vägar",
+    "karta",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "K. J. Krank",
+      "alternateNames": [
+        "Krank"
+      ],
+      "roles": [
+        "vice lantmätare"
+      ]
+    },
+    {
+      "name": "Th. Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "J. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brunns Holmarne"
+      ]
+    },
+    {
+      "name": "Surbrunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Källa"
+      ],
+      "description": "Inritad i efterhand med blyerts."
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Stads qvarnen"
+      ]
+    },
+    {
+      "name": "Kvarndammen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Stenarna mellan norra udden och kvarnen."
+    },
+    {
+      "name": "Kägelbanan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Brunns holmen"
+      ]
+    },
+    {
+      "name": "Brunnshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Den projekterade vägen till Brunnsholmarna",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Planerad väg som aldrig byggdes."
+    },
+    {
+      "name": "Gamla kyrkan",
+      "kind": "building",
+      "alternateNames": [
+        "Gammal Kyrka"
+      ]
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Promenadplatserna",
+      "kind": "landmark",
+      "alternateNames": [
+        "Promenade platser"
+      ]
+    },
+    {
+      "name": "Th. Wahlbergs karaktärsbyggnad",
+      "kind": "building",
+      "alternateNames": [
+        "Fabrikör Th. Wahlbergs karaktersbyggnad"
+      ]
+    },
+    {
+      "name": "Rådman J. Lybecks ria",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygårds ölbryggeri",
+      "kind": "building",
+      "alternateNames": [
+        "Nygårds Ölbryggeri"
+      ]
+    },
+    {
+      "name": "Fabrikör Engs åker",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Rajåkersvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Den planerade vägen skulle utgå härifrån.",
+      "geo": {
+        "lat": 63.5149339,
+        "lng": 22.5313058,
+        "match": "name",
+        "gazetteerName": "rajåkersvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Krank mäter upp Brunnsholmarna och en del av staden",
+      "date": {
+        "year": 1866,
+        "circa": false,
+        "text": "Afmätte år 1866"
+      },
+      "people": [
+        "K. J. Krank"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Planerad väg till Brunnsholmarna byggs aldrig",
+      "date": {
+        "year": 1866,
+        "circa": false,
+        "text": "1866"
+      },
+      "people": [],
+      "places": [
+        "Den projekterade vägen till Brunnsholmarna"
+      ]
+    }
+  ],
+  "contentHash": "db018f69d5b31a20f30b01c9cfbd71a5a4466dd925c3327f78b24442adf81175",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

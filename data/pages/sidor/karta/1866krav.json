@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1866krav.htm",
+  "title": "Projekterad väg, detalj ur Kranks plan 1866",
+  "summary": "Detalj av Kranks karta från 1866 som visar den planerade vägen till Brunnsholmarna, med brunnshuset, Wahlbergs karaktärsbyggnad, Lybecks ria och Nygårds ölbryggeri längs sträckningen.",
+  "topics": [
+    "vägar",
+    "brunnsort",
+    "karta",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "K. J. Krank",
+      "alternateNames": [
+        "Krank"
+      ],
+      "roles": [
+        "vice lantmätare"
+      ]
+    },
+    {
+      "name": "Th. Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "J. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Den projekterade vägen till Brunnsholmarna",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Planerad väg som aldrig byggdes."
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Th. Wahlbergs karaktärsbyggnad",
+      "kind": "building",
+      "alternateNames": [
+        "Fabrikör Th. Wahlbergs karaktersbyggnad"
+      ]
+    },
+    {
+      "name": "Rådman J. Lybecks ria",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygårds ölbryggeri",
+      "kind": "building",
+      "alternateNames": [
+        "Nygårds Ölbryggeri"
+      ]
+    },
+    {
+      "name": "Fabrikör Engs åker",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygårdsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Enligt denna sida utgick den planerade vägen härifrån.",
+      "geo": {
+        "lat": 63.5194967,
+        "lng": 22.5270853,
+        "match": "name",
+        "gazetteerName": "nygårdsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Krank mäter upp Brunnsholmarna och en del av staden",
+      "date": {
+        "year": 1866,
+        "circa": false,
+        "text": "Afmätte år 1866"
+      },
+      "people": [
+        "K. J. Krank"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    }
+  ],
+  "contentHash": "d8e6432e6ef518224c6569b63cf36b8660d863d59f08d7e99ac554f9708a61c7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

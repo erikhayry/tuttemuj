@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1842kj-9.htm",
+  "title": "Kyrkobacken i Kjellmans stadsplan 1842",
+  "summary": "Detalj av Kjellmans stadsplan från 1842 kring Kyrkobacken, med en brunn vid klockstapeln, Jufvasbacken och vägarna till stadens kvarn och kyrkoherdebolet.",
+  "topics": [
+    "stadsplan",
+    "kyrka",
+    "vägar",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [
+        "Kjellman"
+      ],
+      "roles": [
+        "lantmäterieauskultant"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkobacken",
+      "kind": "district",
+      "alternateNames": [
+        "Kyrckobacken"
+      ]
+    },
+    {
+      "name": "Brunnen vid klockstapeln",
+      "kind": "landmark",
+      "alternateNames": [
+        "Brunn"
+      ]
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jufvasbacken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Jufvas backen"
+      ],
+      "description": "Till höger om tomt 56 på kartan 1842."
+    },
+    {
+      "name": "Vägen till stadskvarnen",
+      "kind": "street",
+      "alternateNames": [
+        "Wäg till Stads Qvarn"
+      ]
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Stads Qvarn"
+      ]
+    },
+    {
+      "name": "Vägen till kyrkoherdebolet",
+      "kind": "street",
+      "alternateNames": [
+        "Wäg till Kyrkoherde bohl"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Kjellman renoverar stadsplanen och lägger in nya gårdstomter",
+      "date": {
+        "year": 1842,
+        "circa": false,
+        "text": "År 1842"
+      },
+      "people": [
+        "O. W. Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "42715822b50dc319b715e8affdd8202969fb6eb04e121334fbe1fec108014b87",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

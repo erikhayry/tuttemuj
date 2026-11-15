@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1948.html",
+  "title": "Stadsplan 1948",
+  "summary": "Den detaljerade stadsplanen från 1948 visar tomterna i Nystaden, stadens brunnar, kraftverksdammen, sportplanen och busstationens perronger vid esplanaden. De röda kvadraterna visade sig vara planerade punkthus.",
+  "topics": [
+    "stadsplan",
+    "brunnar",
+    "vatten och avlopp",
+    "1940-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sportplanen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Perronger vid korsningen esplanaden-Borgaregatan; senare på torget."
+    },
+    {
+      "name": "Stadsbastun",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanen över Nystaden",
+      "date": {
+        "year": 1948,
+        "circa": false,
+        "text": "1948"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadens första vatten- och avloppsledning dras från stadsbastun till busstationen",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "1953"
+      },
+      "people": [],
+      "places": [
+        "Stadsbastun",
+        "Busstationen"
+      ]
+    }
+  ],
+  "contentHash": "936aebead08eea3cc739f0039367745f28cc55ff49f40a2bafe069d3874ec018",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1841deta.htm",
+  "title": "Staden 1841",
+  "summary": "Detalj av Gyldéns stadsplan över Nykarleby från 1841, kompletterad med tomtnummer och med norr åt vänster. Samma karta används för förteckningen över gårdsägare 1810–58.",
+  "topics": [
+    "stadsplan",
+    "tomter",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Gyldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Upprättade stadsplanen 1841."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gyldéns stadsplan",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [
+        "Gyldén"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "c98ddd2fd54706d5eb8b91aa98008e2b21320442db81c81320363b191962335b",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:08:19.015Z"
+}

@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1900ra-4.htm",
+  "title": "Nystaden och älven, början av 1900-talet",
+  "summary": "Detalj av en stadsplan från början av 1900-talet över Nystaden längs älven, med Arbetaregatan, Badhusstigen, Jutasvägen och Döbelns gränd, Strandliden och kyrkan.",
+  "topics": [
+    "stadsplan",
+    "älven",
+    "gatunamn",
+    "1900-talet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Strandliden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Arbetaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52269310000001,
+        "lng": 22.5509382,
+        "match": "name",
+        "gazetteerName": "arbetaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bergstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5236124,
+        "lng": 22.52193,
+        "match": "name",
+        "gazetteerName": "bergstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jutasvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra Vattugränd",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelns gränd",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "contentHash": "e2de7eeddeecd3a5bd17f90ebe466ea1dd7b0b85732be9d04be42c67cbb2d894",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

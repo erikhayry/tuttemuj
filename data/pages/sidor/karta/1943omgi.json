@@ -1,0 +1,182 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1943omgi.htm",
+  "title": "Karta från 1947 byggd på 1943 års fotokarta",
+  "summary": "Karta från 1947 som visar hur lite av 1912 års stadsplan som hade förverkligats trettio år senare. Den har också märkligheter, som en järnväg som ritats ända fram till Jakobstadsvägen fast den aldrig gick mycket längre än stationen.",
+  "topics": [
+    "karta",
+    "stadsplan",
+    "järnvägen",
+    "1940-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nya Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Byggdes först på 1950-talet."
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Attosbäcken",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Sunds bäcken",
+        "Attos bäcken"
+      ]
+    },
+    {
+      "name": "Järnvägen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Stationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Saarelaholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Posten",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sjukhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotokarta över Nykarleby",
+      "date": {
+        "year": 1943,
+        "circa": false,
+        "text": "1943"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kartan ges ut",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "1947"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadsplanen stadfästs",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "1912"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nya Jakobstadsvägen byggs",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "på femtiotalet"
+      },
+      "people": [],
+      "places": [
+        "Nya Jakobstadsvägen"
+      ]
+    },
+    {
+      "title": "Källbackgatan förlängs väster om Attosbäcken",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "i början på 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "Källbackgatan",
+        "Attosbäcken"
+      ]
+    }
+  ],
+  "contentHash": "7fb723377345a76c942fa09e34c98d64adbda4bfefeb1493a352757d72765dc9",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

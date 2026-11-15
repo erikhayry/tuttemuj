@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1950alorn.htm",
+  "title": "Alörn och Djupsten 1950",
+  "summary": "Karta över Alörn och Djupsten, uppmätt 1945 och 1947 och utgiven 1950, med fyrtornet på Djupsten och platsen för Wichmanns villa Sjöhaga vid Bådaviken.",
+  "topics": [
+    "karta",
+    "skärgård",
+    "villor",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde villan Sjöhaga."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Fyrtornet på Djupsten",
+      "kind": "landmark",
+      "alternateNames": [
+        "Fyrtorn"
+      ],
+      "description": "På Djupstens nordöstra sida."
+    },
+    {
+      "name": "Bådan",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bådaviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Sjöhaga",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Wichmanns villa på Bådans nordöstra ände."
+    }
+  ],
+  "events": [
+    {
+      "title": "Mätningar för kartan",
+      "date": {
+        "year": 1945,
+        "circa": false,
+        "text": "1945 och 1947"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Mätningar för kartan",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "1945 och 1947"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kartan ges ut",
+      "date": {
+        "year": 1950,
+        "circa": false,
+        "text": "1950"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "306b7b6dfe5ef691f183a97902c2c3f9a4037fdea1fd302c52872e5467fadf95",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

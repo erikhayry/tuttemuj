@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1875-0.htm",
+  "title": "Omgivningar 1875 (eller 1775)",
+  "summary": "Karta över Nykarlebys omgivningar ur kartverkets samling, daterad 1875 men enligt Henrik Dumell troligen från 1775. Den är intressant för sina gamla ortnamn – Markusholmen kallas till exempel Långörsvattuungen.",
+  "topics": [
+    "karta",
+    "ortnamn",
+    "skärgård"
+  ],
+  "people": [
+    {
+      "name": "Henrik Dumell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Från Vexala; menar att kartan är från 1775."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll och kommenterade kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Långörsvattuungen"
+      ],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kartan över omgivningarna ritas",
+      "date": {
+        "year": 1875,
+        "circa": false,
+        "text": "1875 eller 1775"
+      },
+      "description": "Årtalet 1875 står på kartan, men det bör enligt Henrik Dumell vara 1775.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "780229eeb242560b907b736c4cf263b1c0cf3c85b04d8540e6c800827b75f75a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

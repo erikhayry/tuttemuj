@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/18751992.htm",
+  "title": "1858 års stadsplan jämförd med stadens utbredning i dag",
+  "summary": "Lindhagens version av Edelfeldts stadsplan från 1858 lagd på 1990-talets adresskarta. Den nya stad som byggdes efter branden sträckte sig ungefär från Grev Tottgatan till Bangatan och från Seminariegatan till Mathesiusgatan.",
+  "topics": [
+    "stadsplan",
+    "jämförelse",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "Albert Lindhagen",
+      "alternateNames": [
+        "Lindhagen"
+      ],
+      "roles": [
+        "stadsplanerare"
+      ]
+    },
+    {
+      "name": "Albert Edelfeldt",
+      "alternateNames": [
+        "Edelfelt"
+      ],
+      "roles": [
+        "arkitekt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Edelfeldts stadsplan",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [
+        "Albert Edelfeldt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lindhagen ger ut planritningar av finska städer",
+      "date": {
+        "year": 1875,
+        "circa": false,
+        "text": "år 1875"
+      },
+      "people": [
+        "Albert Lindhagen"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "c9ab2143cf23d3745e554198d4ce15385e11f735e8655698b9527f397aa8915c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

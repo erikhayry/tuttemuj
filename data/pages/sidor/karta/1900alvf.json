@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1900alvf.htm",
+  "title": "Karta och profil över Nykarleby stadsfors 1900 (förstoring)",
+  "summary": "Förstoring av kartan och profilen över stadsforsen i Nykarleby älv från 1900.",
+  "topics": [
+    "älven",
+    "forsen",
+    "karta"
+  ],
+  "people": [
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Tillhandahöll kartan; skrev Medströms i 80 år. Nykarleby Kraftverk 1926—2006."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby stadsfors",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Karta över stadsforsen upprättas",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "år 1900"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby stadsfors"
+      ]
+    }
+  ],
+  "contentHash": "a69cef1b735e1f4f0f03ce94741dbf110c3b7eafe246eeb674f5e3a5d89ef847",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

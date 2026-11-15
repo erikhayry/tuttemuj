@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1885bf16.htm",
+  "title": "Brandförsäkringsinstrument för Rådhuset 1885",
+  "summary": "Brandförsäkringshandlingen från 1885 för stadens gård nr 16 vid Södra Torggatan, med rådhus- och skolbyggnaden. Den beskriver husen, deras mått, värde och brandredskap i detalj och förklarar varför byggnaderna ligger snett mot tomtgränserna: de klarade sig i stadsbranden 1858.",
+  "topics": [
+    "rådhus",
+    "brandförsäkring",
+    "stadsbranden 1858",
+    "byggnader",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Sofia Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlandeänka"
+      ],
+      "description": "Ägde granntomten med en brunn."
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Undertecknade för drätselkammaren."
+    },
+    {
+      "name": "P. Aug. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "värderingsman"
+      ]
+    },
+    {
+      "name": "Kl. Henr. Ekroos",
+      "alternateNames": [],
+      "roles": [
+        "värderingsman"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "värderingsman"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll handlingen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Skol- och Rådhusbyggnad"
+      ],
+      "address": "gården N:o 16 i åttonde qvarteret och första stadsdelen, vid Södra torggatan",
+      "description": "Försäkrad redan 1844. Husen klarade sig i stadsbranden 1858; mellandelen mellan husen tillkom 1891."
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkoplan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Mitt emot tomten, planterad med lummiga lövträd."
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Av stock, på kyrkoplan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Skol- och rådhusbyggnaden brandförsäkras",
+      "date": {
+        "year": 1844,
+        "circa": false,
+        "text": "år 1844"
+      },
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Husen på gården klarar sig i stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "stadsbranden 1858"
+      },
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Drätselkammaren anmäler gården till brandförsäkring",
+      "date": {
+        "year": 1885,
+        "month": 3,
+        "day": 10,
+        "circa": false,
+        "text": "den 10 mars 1885"
+      },
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Byggnaderna besiktigas och värderas",
+      "date": {
+        "year": 1885,
+        "month": 3,
+        "day": 11,
+        "circa": false,
+        "text": "den 11 mars 1885"
+      },
+      "people": [
+        "P. Aug. Lybeck",
+        "Kl. Henr. Ekroos",
+        "Carl Nylund"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Städernas allmänna brandstodsbolag beviljar försäkringen",
+      "date": {
+        "year": 1885,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "den 18 Mars 1885"
+      },
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Mellandelen mellan rådhusets byggnader tillkommer",
+      "date": {
+        "year": 1891,
+        "circa": false,
+        "text": "1891"
+      },
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    }
+  ],
+  "contentHash": "92382b28ed84a57eb3f6f61ab864156c1e0f39a4f2101d74629370a4201be733",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

@@ -1,0 +1,215 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1902djup.htm",
+  "title": "Karta över Djupsten 1902 av M. Nordman",
+  "summary": "M. Nordmans karta från 1902 över villaområdet på Djupsten med villaägarna och stora planer på nya tomter, en gata tvärs över halvön och samlingsplatser. Vägen kom först 1979 – och följde då den gamla kärrvägen i stället.",
+  "topics": [
+    "villor",
+    "sommarnöjen",
+    "vägar",
+    "varv",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "M. Nordman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde kartan 1902."
+    },
+    {
+      "name": "J. Sch",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kopierade kartan 1905."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jan Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Äger kartan."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Ekroth",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 1 på Djupsten 1902."
+    },
+    {
+      "name": "Vahlberg",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 2 på Djupsten 1902."
+    },
+    {
+      "name": "Myntti",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 3 på Djupsten 1902."
+    },
+    {
+      "name": "Holmström",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 5 på Djupsten 1902."
+    },
+    {
+      "name": "Holmqvist",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 6 på Djupsten 1902."
+    },
+    {
+      "name": "Strängberg",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 8 på Djupsten 1902."
+    },
+    {
+      "name": "Lönneström",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 11 på Djupsten 1902."
+    },
+    {
+      "name": "Sundström",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 13 på Djupsten 1902."
+    },
+    {
+      "name": "Schalin",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 14 på Djupsten 1902."
+    },
+    {
+      "name": "Sarlin",
+      "alternateNames": [],
+      "roles": [
+        "villaägare"
+      ],
+      "description": "Villa nr 15 på Djupsten 1902."
+    }
+  ],
+  "places": [
+    {
+      "name": "Djupsten",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Villaområde på en halvö."
+    },
+    {
+      "name": "Djupstens varv",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ungefär vid den norra planerade samlingsplatsen."
+    },
+    {
+      "name": "Sundströms villa",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Villa nr 13, till salu våren 1917."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nordman gör kartan över Djupsten med planer på nya tomter och en gata",
+      "date": {
+        "year": 1902,
+        "circa": false,
+        "text": "År 1902"
+      },
+      "people": [
+        "M. Nordman"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Kartan kopieras",
+      "date": {
+        "year": 1905,
+        "circa": false,
+        "text": "1905"
+      },
+      "people": [
+        "J. Sch"
+      ],
+      "places": []
+    },
+    {
+      "title": "Villaköp på Djupsten",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "1912"
+      },
+      "people": [],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Sundströms villa till salu",
+      "date": {
+        "year": 1917,
+        "circa": false,
+        "text": "Våren 1917"
+      },
+      "people": [
+        "Sundström"
+      ],
+      "places": [
+        "Sundströms villa"
+      ]
+    },
+    {
+      "title": "Vägen över Djupsten byggs",
+      "date": {
+        "year": 1979,
+        "circa": false,
+        "text": "1979"
+      },
+      "description": "Följer den gamla kärrvägens dragning.",
+      "people": [],
+      "places": [
+        "Djupsten"
+      ]
+    }
+  ],
+  "contentHash": "d6a684d473da1e5e1f37c41e8b1a2e9d8df0b25b7d1b5d4d33c06ef8b3adbd25",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/417592.htm",
+  "title": "1841 och 1858 års stadsplaner jämförda med stadens utbredning i dag",
+  "summary": "Gyldéns stadsplan från 1841 och Lindhagens version av 1858 års plan lagda ovanpå 1990-talets adresskarta, så att man ser hur staden flyttade efter branden.",
+  "topics": [
+    "stadsplan",
+    "jämförelse",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "Gyldén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Albert Lindhagen",
+      "alternateNames": [
+        "Lindhagen"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Albert Edelfeldt",
+      "alternateNames": [
+        "Edelfeldt"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gyldéns stadsplan",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [
+        "Gyldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Edelfeldts stadsplan",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [
+        "Albert Edelfeldt"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "b9f83d5edb83744f8a3ca39168b9994a8b2411f1cfaec45253ee5f3504fb8f18",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}

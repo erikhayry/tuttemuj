@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1842kj-8.htm",
+  "title": "Storbron och kyrkan i Kjellmans stadsplan 1842",
+  "summary": "Detalj av Kjellmans stadsplan från 1842 kring Storbron och kyrkan, med kronomagasinet på Brostuguberget intill bron.",
+  "topics": [
+    "stadsplan",
+    "broar",
+    "kyrka",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [
+        "Kjellman"
+      ],
+      "roles": [
+        "lantmäterieauskultant"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kronomagasinet",
+      "kind": "building",
+      "alternateNames": [
+        "Kronomagazin"
+      ],
+      "description": "På Brostuguberget till vänster om Storbron."
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kjellman renoverar stadsplanen och lägger in nya gårdstomter",
+      "date": {
+        "year": 1842,
+        "circa": false,
+        "text": "År 1842"
+      },
+      "people": [
+        "O. W. Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "contentHash": "9089c5707784a34328c760cb143613d46bdca0b7103bd20fa660146411c8efee",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:08:19.015Z"
+}

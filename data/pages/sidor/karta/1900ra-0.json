@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1900ra-0.htm",
+  "title": "Plan av Nykarleby stad, okänd från början av 1900-talet",
+  "summary": "Anonym stadsplan för försäkringsärenden, byggd på Heikels plan från 1907 med stadsdelsgränser. Att järnvägen saknas men kraftverket och dammen är inritade i efterhand tyder på att den är från mellan 1916 och 1926.",
+  "topics": [
+    "stadsplan",
+    "försäkring",
+    "järnvägen",
+    "kraftverk",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "Heikel",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde stadsplanen 1907."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stationsområdet",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Dammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Järnvägen",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Heikels stadsplan",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "Heikels stadsplan av år 1907"
+      },
+      "people": [
+        "Heikel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Heikels stadsplan stadfästs",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "stadfäst 1912"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Järnvägen säljs",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "1916"
+      },
+      "people": [],
+      "places": [
+        "Järnvägen"
+      ]
+    }
+  ],
+  "contentHash": "129462254ef2dc75a014c86a55cad822bf2a61db64ae50686f919b5bab1b404c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:14:34.394Z"
+}
