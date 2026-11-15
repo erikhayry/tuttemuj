@@ -1,6 +1,6 @@
 # Crawling
 
-The site owner is OK with polite crawling. The crawler fetches **one page at a time**, waits **5 s** between requests, sends a User-Agent that identifies the project, and stops after **250 pages per run**.
+The site owner is OK with polite crawling. The crawler fetches **one page at a time**, waits **5 s** between requests, sends a User-Agent that identifies the project, and stops after **1000 pages per run**.
 
 ## Data
 

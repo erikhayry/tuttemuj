@@ -18,7 +18,7 @@ Answer "what happened here?" and other history questions for a person walking ar
 | Gazetteer names waiting for coordinates | 670 added by hand, 23 geocoder fallbacks, 1 outside the area |
 | Comic candidates | 37 |
 
-The crawl adds about 250 pages a night (about 30 more nights). Analysis is manual and slower. **Phase 2 does not wait for the crawl to finish.** It is built on what exists and loads new pages as they come.
+The crawl adds about 1000 pages a night (about 8 more nights). Analysis is manual and slower. **Phase 2 does not wait for the crawl to finish.** It is built on what exists and loads new pages as they come.
 
 **Timeline:** a couple more days of crawling and extraction, then the focus moves to coordinates (step 0, first item). The nightly crawl keeps running in the background.
 
