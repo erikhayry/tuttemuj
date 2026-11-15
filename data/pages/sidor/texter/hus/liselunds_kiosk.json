@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/liselunds_kiosk.html",
+  "title": "Liselunds glass- och mustkiosk",
+  "summary": "Liselunds glass- och mustkiosk som öppnade den 1 maj 2024 vid Topeliusparkens norra ände och Ljusparken, i en kiosk som tidigare använts vid Klobbskat.",
+  "topics": [
+    "kiosker",
+    "glass"
+  ],
+  "people": [
+    {
+      "name": "Johan Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wingren",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Familjen från Socklot som driver Liselund."
+    }
+  ],
+  "places": [
+    {
+      "name": "Liselunds kiosk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ljusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Liselunds kiosk öppnar",
+      "date": {
+        "year": 2024,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "den första maj"
+      },
+      "people": [],
+      "places": [
+        "Liselunds kiosk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "86e30bea381d8ac20879dec41dac3df80a2d228dcb3a18babf434c61d51736dd",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

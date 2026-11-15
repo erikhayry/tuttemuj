@@ -1,0 +1,141 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/nordlin2.htm",
+  "title": "F.d. Rikets sal 1975",
+  "summary": "Handelsman Joel Nordlings f.d. magasin vid Topeliusesplanaden 6, där möbelhandlare Åke Ekman tapetserade möbler och likkistor 1947–52 och Jehovas vittnen hade sin Rikets sal till 1974.",
+  "topics": [
+    "hus",
+    "handel",
+    "frikyrka"
+  ],
+  "people": [
+    {
+      "name": "Per Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Thomas Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Åke Ekman",
+      "alternateNames": [],
+      "roles": [
+        "möbelhandlare"
+      ]
+    },
+    {
+      "name": "Emil Vik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Nordling",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ellilä",
+      "alternateNames": [],
+      "roles": [
+        "möbelhandlare"
+      ]
+    },
+    {
+      "name": "Jarl Olson",
+      "alternateNames": [
+        "Lala"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Rikets sal",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Joel Nordlings f.d. magasin."
+    },
+    {
+      "name": "Nylundska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Andelskassans gård",
+        "Nordlings gård"
+      ],
+      "address": "Topeliusesplanaden 6",
+      "geo": {
+        "lat": 63.5215507,
+        "lng": 22.5298476,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nesslerska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nya Rikets sal",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "På Bangatan nära Frihemmet, byggd 1974."
+    }
+  ],
+  "events": [
+    {
+      "title": "Åke Ekman öppnar möbeltapetsering i magasinet",
+      "date": {
+        "year": 1947,
+        "circa": true,
+        "text": "Cirka 1947–48"
+      },
+      "people": [
+        "Åke Ekman"
+      ],
+      "places": [
+        "Rikets sal"
+      ]
+    },
+    {
+      "title": "Verksamheten upphör",
+      "date": {
+        "year": 1952,
+        "circa": false,
+        "text": "År 1952"
+      },
+      "people": [],
+      "places": [
+        "Rikets sal"
+      ]
+    },
+    {
+      "title": "Jehovas vittnen bygger ny Rikets sal",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "1974"
+      },
+      "people": [],
+      "places": [
+        "Nya Rikets sal"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bdb905abc956fb4a1d845b2eea9caf26465cc1afafe3f22c49ad32f0ddab7bc9",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

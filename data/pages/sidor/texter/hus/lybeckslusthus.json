@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/lybeckslusthus.html",
+  "title": "Lybecks lusthus",
+  "summary": "Wilhelm Karlssons målning från 1946 av det igenvuxna lusthuset vid Lybeckska gården, och Lars Pensars minne av när han satt i lusthuset medan tomten auktionerades ut kring 1950.",
+  "topics": [
+    "konst",
+    "lusthus",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Wilhelm Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sven Almqvist",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Mauritz Sigfrids",
+      "alternateNames": [
+        "Mauritz Siegfrids"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lybecks lusthus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybro Boulevarden",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Wilhelm Karlsson målar lusthuset",
+      "date": {
+        "year": 1946,
+        "circa": false,
+        "text": "år 1946"
+      },
+      "people": [
+        "Wilhelm Karlsson"
+      ],
+      "places": [
+        "Lybecks lusthus"
+      ]
+    },
+    {
+      "title": "Tomten auktioneras ut och köps av Sven Almqvist",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "i skiftet 1940- till 50-tal"
+      },
+      "people": [
+        "Sven Almqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b9984e3dc737518a4e0b9467a3504a742ca2b4bb7d801d918ba9f2d1c342ffc3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

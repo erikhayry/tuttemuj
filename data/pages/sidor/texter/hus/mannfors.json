@@ -1,0 +1,163 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/mannfors.htm",
+  "title": "Mannfors 1973",
+  "summary": "Gården på Badhusstigen 1 som tidigare stått vid Koski bryggeri på älvstranden och sedan Nordlunds, Mannfors och Siipilehto bodde i; Börje Haglund rev den 1974.",
+  "topics": [
+    "hus",
+    "flyttade hus",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Ida Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johannes Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Börje Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ulf Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elsa Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Sandström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Peter Karlberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ester Mannfors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Mannfors",
+      "kind": "building",
+      "alternateNames": [
+        "Nordlundska gården"
+      ],
+      "address": "Badhusstigen 1",
+      "description": "Huset stod tidigare vid Koski bryggeri på älvstranden; rivet 1974.",
+      "geo": {
+        "lat": 63.52143030000001,
+        "lng": 22.5220712,
+        "match": "address",
+        "gazetteerName": "badhusstigen 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Koski bryggeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Elsa Kronqvists hus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sandströms magasin vid Juthasvägen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Mannfors",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [],
+      "places": [
+        "Mannfors"
+      ]
+    },
+    {
+      "title": "Börje Haglund river gården",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "vårvintern 1974"
+      },
+      "people": [
+        "Börje Haglund"
+      ],
+      "places": [
+        "Mannfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "47fa01ac162db2c4a6347533d9ccb56a7de68fe335299332585eb57aca71baee",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

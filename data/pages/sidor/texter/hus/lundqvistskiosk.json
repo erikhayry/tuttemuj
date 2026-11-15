@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/lundqvistskiosk.html",
+  "title": "Lundqvists korvkiosk",
+  "summary": "Korvgubben Birger Lundqvists mobila kiosk på torgets nordöstra hörn, där han satt med fötterna värmda av primusköket under korvkastrullen och sålde knackkorv med sin hemliga senap till dans- och biopubliken. Lars Pensar fotograferade den bortglömda kiosken 2009 och skrev ett ode till den.",
+  "topics": [
+    "kiosker",
+    "korv",
+    "minnen",
+    "torget"
+  ],
+  "people": [
+    {
+      "name": "Birger Lundqvist",
+      "alternateNames": [],
+      "birthYear": 1903,
+      "deathYear": 1968,
+      "roles": [
+        "korvgubbe",
+        "glasstillverkare"
+      ]
+    },
+    {
+      "name": "Irene Lundqvist",
+      "alternateNames": [
+        "Irene Biskop"
+      ],
+      "birthYear": 1901,
+      "deathYear": 1968,
+      "roles": []
+    },
+    {
+      "name": "Greta Lundqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Göta Lundqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "H. Tuhkanen",
+      "alternateNames": [],
+      "roles": [
+        "korvmakare"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lundqvists korvkiosk",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mobil korvkiosk på torgets nordöstra hörn."
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Gulfs verkstad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi på gårdsplanen",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958"
+      },
+      "people": [
+        "Irene Lundqvist",
+        "Birger Lundqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lars Pensar fotograferar kiosken",
+      "date": {
+        "year": 2009,
+        "month": 2,
+        "circa": false,
+        "text": "februari 2009"
+      },
+      "people": [],
+      "places": [
+        "Lundqvists korvkiosk"
+      ]
+    },
+    {
+      "title": "Kiosken flyttas för fjärrvärmen",
+      "date": {
+        "year": 2008,
+        "month": 7,
+        "circa": false,
+        "text": "juli 2008"
+      },
+      "people": [],
+      "places": [
+        "Lundqvists korvkiosk"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Höstkvällar på torget sitter korvgubben Lundqvist i sin lilla mobila kiosk med en sjudande kastrull på primusköket och värmer fötterna medan han viker smörpappersstrutar. Hem från dansen och bion köar folket för knackkorv med hans hemliga senap – och på söndagar knuffar han kiosken på cykelhjul över den gropiga esplanaden.",
+    "reason": "En älskad figur, en tydlig miljö och sinnliga detaljer ger en varm kvällsscen.",
+    "characters": [
+      "Birger Lundqvist"
+    ],
+    "places": [
+      "Lundqvists korvkiosk",
+      "Torget"
+    ]
+  },
+  "contentHash": "71e1097642cb9faf9a6e3b1747d5def1a7efee72b75326d19cdaa0bd04e611ef",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

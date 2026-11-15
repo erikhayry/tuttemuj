@@ -1,0 +1,125 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ostervall.html",
+  "title": "Östervall",
+  "summary": "Åldringshemmet Östervall, byggt 1934 när landskommunen sålde Kuddnäs, och den ockragula fattiggården från 1909–10 intill som i folkmun blev dårhuset.",
+  "topics": [
+    "åldringshem",
+    "fattigvård",
+    "vård"
+  ],
+  "people": [
+    {
+      "name": "Evi Gunnars",
+      "alternateNames": [],
+      "roles": [
+        "föreståndare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Sourander",
+      "alternateNames": [],
+      "roles": [
+        "läkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Östervall",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Landskommunens åldringshem byggt 1934 när Kuddnäs blev museum; nu Yrkesträningsskolan."
+    },
+    {
+      "name": "Dårhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Fattiggården"
+      ],
+      "description": "Ockragul träbyggnad norr om Kuddnäs, byggd 1909–10 som fattiggård."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Yrkesträningsskolan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Landskommunen köper Kuddnäs",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "År 1900"
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Lån för att bygga fattiggården",
+      "date": {
+        "year": 1909,
+        "month": 4,
+        "circa": false,
+        "text": "i april 1909"
+      },
+      "people": [],
+      "places": [
+        "Dårhuset"
+      ]
+    },
+    {
+      "title": "Östervall byggs när Kuddnäs säljs",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "people": [],
+      "places": [
+        "Östervall",
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1f85ccc8feee10ce2a2de6515a3b995848460fb57d5cf07ed1baf5dd319942f2",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

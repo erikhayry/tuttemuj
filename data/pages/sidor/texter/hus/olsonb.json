@@ -1,0 +1,210 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/olsonb.htm",
+  "title": "Bertel Olsons gård på 1950-talet",
+  "summary": "Postiljonen Bertel Olsons hus på Grev Tottgatan 10, som från början var en höbärgningsstuga i Lippjärv och flyttades in till staden 1936. Senare hyrdes det av Källbackens kulturstuga som bostad för gästande kulturarbetare, och Bertels lilla Fiat 600 rymde sex personer på väg till Andrasjön.",
+  "topics": [
+    "hus",
+    "flyttade hus",
+    "post",
+    "kultur"
+  ],
+  "people": [
+    {
+      "name": "Bertel Olson",
+      "alternateNames": [],
+      "deathYear": 1993,
+      "roles": [
+        "postiljon",
+        "brandchef"
+      ]
+    },
+    {
+      "name": "Elsa Olson",
+      "alternateNames": [
+        "Elsa Ahlström"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Elisabeth Olson",
+      "alternateNames": [],
+      "deathYear": 1999,
+      "roles": []
+    },
+    {
+      "name": "Nestor Frilund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emil Grön",
+      "alternateNames": [],
+      "roles": [
+        "plåtslagare"
+      ]
+    },
+    {
+      "name": "Helge Solvin",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Bjarne Ågholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Ågholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Annika Ågholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fjalar Zittra",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bertel Olsons gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 10",
+      "description": "F.d. höbärgningsstuga i Lippjärv, flyttad till stan 1936."
+    },
+    {
+      "name": "Joel Nilssons gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Helge Solvins gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackens kulturstuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Hagalund",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stugan flyttas från Lippjärv till Grev Tottgatan",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "1936"
+      },
+      "people": [
+        "Nestor Frilund",
+        "Joel Ahlström"
+      ],
+      "places": [
+        "Bertel Olsons gård"
+      ]
+    },
+    {
+      "title": "Bertel och Elsa Olson köper huset",
+      "date": {
+        "year": 1938,
+        "circa": false,
+        "text": "År 1938"
+      },
+      "people": [
+        "Bertel Olson",
+        "Elsa Olson"
+      ],
+      "places": [
+        "Bertel Olsons gård"
+      ]
+    },
+    {
+      "title": "Bertel Olson blir brandchef",
+      "date": {
+        "year": 1939,
+        "circa": false,
+        "text": "1939"
+      },
+      "people": [
+        "Bertel Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Källbackens kulturstuga hyr huset",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "År 2004 och -05"
+      },
+      "people": [],
+      "places": [
+        "Bertel Olsons gård",
+        "Källbackens kulturstuga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "37bab00372211d11088cc45f18be9876416872e37de2d88e143eeccac5bada9a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

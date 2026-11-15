@@ -1,0 +1,170 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/lindfors.htm",
+  "title": "Lindfors",
+  "summary": "Leo Lindfors gula hus Bergelund vid Andrasjövägen, som han själv timrade av virke från tändsticksfabriken, och familjen med sex barn som spreds till Sverige och Kanada. Huset revs senast 1985 när Skogsvallen byggdes.",
+  "topics": [
+    "hus",
+    "familj",
+    "emigration",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Leo Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elin Lindfors",
+      "alternateNames": [
+        "Elin Asplund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Birger Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Roger Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ulla Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anita Lindfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Greta Åberg",
+      "alternateNames": [
+        "Greta Lindfors"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Gerda Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lindfors",
+      "kind": "building",
+      "alternateNames": [
+        "Bergelund"
+      ],
+      "address": "Andrasjövägen",
+      "description": "Leo Lindfors gula hus, timrat av virke från tändsticksfabriken; rivet senast 1985 när Skogsvallen byggdes.",
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "address",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skogsvallen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kärras",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjefoto vid Bergelund",
+      "date": {
+        "year": 1944,
+        "circa": true,
+        "text": "1944 eller -45"
+      },
+      "people": [
+        "Leo Lindfors",
+        "Elin Lindfors"
+      ],
+      "places": [
+        "Lindfors"
+      ]
+    },
+    {
+      "title": "Huset rivs när Skogsvallen byggs",
+      "date": {
+        "year": 1985,
+        "circa": false,
+        "text": "senast när Skogsvallen började byggas 1985"
+      },
+      "people": [],
+      "places": [
+        "Lindfors",
+        "Skogsvallen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b8b41dcdde77a3981dc6000d21be4ba99b5e191a64da42803431562d439e88fe",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

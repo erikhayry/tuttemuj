@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/marklune.htm",
+  "title": "Marklund juli 2005",
+  "summary": "Stugan på Gustav Adolfsgatan 27 vid Lybecksgatan, byggd 1856 av fiskaren Matts Boman, som klarade stadsbranden 1858 och flyttades hit från tomt 104; gården har haft många ägare och bebos nu sommartid.",
+  "topics": [
+    "hus",
+    "flyttade hus",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Matts Nyberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Axel Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "maskinmästare"
+      ]
+    },
+    {
+      "name": "Lydia Sundström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ellen Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "August Bergstén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hans Marklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ros-Maj Marklund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Marklunds stuga",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 68"
+      ],
+      "address": "Gustav Adolfsgatan 27",
+      "description": "Byggd 1856 av fiskaren Matts Boman på tomt 104; klarade stadsbranden och flyttades hit.",
+      "geo": {
+        "lat": 63.5243061,
+        "lng": 22.5341452,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 27",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Matts Boman bygger stugan",
+      "date": {
+        "year": 1856,
+        "circa": false,
+        "text": "uppfördes 1856"
+      },
+      "people": [
+        "Matts Boman"
+      ],
+      "places": [
+        "Marklunds stuga"
+      ]
+    },
+    {
+      "title": "Stugan klarar stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "stadsbranden 1858"
+      },
+      "people": [],
+      "places": [
+        "Marklunds stuga"
+      ]
+    },
+    {
+      "title": "Matts Boman köper tomt 68 och flyttar stugan",
+      "date": {
+        "year": 1861,
+        "month": 8,
+        "day": 15,
+        "circa": false,
+        "text": "den 15 augusti 1861"
+      },
+      "people": [
+        "Matts Boman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Axel Henriksson köper gården",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "people": [
+        "Axel Henriksson",
+        "Lydia Sundström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ellen Backman säljer till August Bergstén",
+      "date": {
+        "year": 1940,
+        "month": 3,
+        "circa": false,
+        "text": "i mars 1940"
+      },
+      "people": [
+        "Ellen Backman",
+        "August Bergstén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Edvin Marklund köper gården",
+      "date": {
+        "year": 1966,
+        "circa": false,
+        "text": "år 1966"
+      },
+      "people": [
+        "Edvin Marklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ec971f26327f1404774a8bcbdce1aa3fd823246d44c77ad7783e5303cac0ba68",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

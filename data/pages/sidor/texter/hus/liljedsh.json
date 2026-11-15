@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/liljedsh.htm",
+  "title": "Grävning för Liljedahls affärshus 1958",
+  "summary": "Fotografier av schaktningen 1958 för Liljedahls affärshus vid Topeliusesplanaden 9, där ben kom i dagen eftersom platsen varit gravgård; Martti Hauta-Aho körde lastbil och köpte teglet till bygget.",
+  "topics": [
+    "byggarbeten",
+    "begravningsplats",
+    "affärshus"
+  ],
+  "people": [
+    {
+      "name": "Erik Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Per Hauta-Aho",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Martti Hauta-Aho",
+      "alternateNames": [],
+      "roles": [
+        "lastbilschaufför"
+      ]
+    },
+    {
+      "name": "Stefan Hauta-Aho",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Artur Liljedahl",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Liljedahls affärshus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 9",
+      "geo": {
+        "lat": 63.5223737,
+        "lng": 22.5310791,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 9",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Finströms",
+      "kind": "building",
+      "alternateNames": [
+        "Finntröms"
+      ]
+    },
+    {
+      "name": "Skridskobanan på Liljedahls tomt",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Schaktning för Liljedahls affärshus; ben hittas",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958"
+      },
+      "people": [],
+      "places": [
+        "Liljedahls affärshus",
+        "Gamla begravningsplatsen"
+      ]
+    },
+    {
+      "title": "Nytt postkontor i huset",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "1959"
+      },
+      "people": [],
+      "places": [
+        "Liljedahls affärshus"
+      ]
+    },
+    {
+      "title": "Hotellet blir bostadshus",
+      "date": {
+        "year": 1995,
+        "circa": false,
+        "text": "1995"
+      },
+      "people": [],
+      "places": [
+        "Liljedahls affärshus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3f2b725796c8f45c9558f1e2d2c1f63a7c1b4a7e8bba52f96c87a53a5a0c22c8",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

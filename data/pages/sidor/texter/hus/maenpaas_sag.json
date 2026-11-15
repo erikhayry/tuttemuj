@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/maenpaas_sag.html",
+  "title": "Mäenpääs såg 1957",
+  "summary": "Mäenpääs lilla såg intill gamla stationshuset på 1950-talet, och Leif Söderlunds barndomsminnen från sågspånshögarna och brädstaplarna där barnen gömde sig och retades med frihemmets gamla, samlade videbark åt karderiet och jagade flygblad från dubbeldäckare.",
+  "topics": [
+    "såg",
+    "barndom",
+    "lek",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Mäenpää",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde sågen."
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Mäenpääs såg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Litet sågverk granne till gamla stationshuset och karderiet, upp mot Frihemmet."
+    },
+    {
+      "name": "Gamla stationshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lokstallet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggdes om till brandstation 1959."
+    },
+    {
+      "name": "Karderiet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Westerlunds såg",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av sågen",
+      "date": {
+        "year": 1957,
+        "circa": false,
+        "text": "1957"
+      },
+      "people": [],
+      "places": [
+        "Mäenpääs såg"
+      ]
+    },
+    {
+      "title": "Lokstallet byggs om till brandstation",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "två år senare"
+      },
+      "people": [],
+      "places": [
+        "Lokstallet"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Småungarna leker i Mäenpääs sågspånshögar och kryper in i brädstaplarnas håligheter för att ropa retsamheter åt de gamla på Frihemmet. Om våren samlar de videbark åt karderiet för några slantar, och när små dubbeldäckare flyger över staden och kastar flygblad blir det en vild jakt.",
+    "reason": "Lekfulla barndomsminnen med farliga lekplatser och överraskande inslag ger flera scener.",
+    "characters": [
+      "Leif Söderlund"
+    ],
+    "places": [
+      "Mäenpääs såg",
+      "Frihemmet",
+      "Karderiet"
+    ]
+  },
+  "contentHash": "46237c74b2790cba6dd299ac06eda0bd57da87811ffd5482a448a35c95d42542",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

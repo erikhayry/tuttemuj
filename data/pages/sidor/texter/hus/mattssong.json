@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/mattssong.html",
+  "title": "Gerda Mattssons stuga",
+  "summary": "Fotografierna av fotografen Gerda Mattssons två stugor på tomt 51 vid Karleborgsgatan, som ropades in av en hökaränka 1859 och senare byggdes ihop.",
+  "topics": [
+    "hus",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Gerda Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sofia Berg",
+      "alternateNames": [],
+      "roles": [
+        "hökaränka"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gerda Mattssons stuga",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 51",
+        "Kallvik"
+      ],
+      "address": "Karleborgsgatan",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sofia Berg ropar in tomt 51",
+      "date": {
+        "year": 1859,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "den 13 september 1859"
+      },
+      "people": [
+        "Sofia Berg"
+      ],
+      "places": [
+        "Gerda Mattssons stuga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "42f160c345206a70186fbdfd2fbf9b36bd40632576a8f8c8ed1972461c87f719",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

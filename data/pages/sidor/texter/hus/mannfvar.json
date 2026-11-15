@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/mannfvar.htm",
+  "title": "I Nordlunds vardagsrum",
+  "summary": "Interiörbild från Nordlunds vardagsrum kring 1960 med Ester Mannfors, hennes syster Linnea och Axel Winsten, och den gamla radion som skrapade vid åskväder.",
+  "topics": [
+    "interiörer",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Linnea Winsten",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ester Mannfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Axel Winsten",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Karlberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Mannfors",
+      "kind": "building",
+      "alternateNames": [
+        "Nordlundska gården"
+      ],
+      "address": "Badhusstigen 1",
+      "description": "Huset stod tidigare vid Koski bryggeri på älvstranden; rivet 1974.",
+      "geo": {
+        "lat": 63.52143030000001,
+        "lng": 22.5220712,
+        "match": "address",
+        "gazetteerName": "badhusstigen 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Interiörbild från Nordlunds",
+      "date": {
+        "year": 1960,
+        "circa": true,
+        "text": "slutet av 1950-talet eller tidigt 1960-tal"
+      },
+      "people": [],
+      "places": [
+        "Mannfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a3828d943099d615d45124f67556bf7ad17bd8b0d24a4a2b040c7cba70126baf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

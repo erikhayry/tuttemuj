@@ -1,0 +1,193 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/mannistoeb.htm",
+  "title": "Männistös",
+  "summary": "Emil Nylunds och sedan Ida Männistös gård vid Topeliusesplanaden 14–16, mellan Grundfeldtska gården och Häggbloms. Huset var unikt eftersom det inte stod i tomthörnet – den förste köparen Westlin byggde bara bagarstugan och hans ombud fick stå till svars i rådhusrätten 1874.",
+  "topics": [
+    "hus",
+    "rivna hus",
+    "rättsfall"
+  ],
+  "people": [
+    {
+      "name": "Emil Nylund",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Ida Männistö",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Arne Jungerstam",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Westlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Johansson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Männistös",
+      "kind": "building",
+      "alternateNames": [
+        "Emil Nylunds gård"
+      ],
+      "address": "Topeliusesplanaden 16",
+      "description": "Vid korsningen med Lybecksgatan; huset stod inte i tomthörnet. Rivet 1966–67.",
+      "geo": {
+        "lat": 63.52449429999999,
+        "lng": 22.5313488,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 16",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Häggbloms",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Westlins ombud står till svars för att mangården inte byggts",
+      "date": {
+        "year": 1874,
+        "month": 11,
+        "day": 16,
+        "circa": false,
+        "text": "den 16 nov. 1874"
+      },
+      "people": [
+        "Westlin"
+      ],
+      "places": [
+        "Männistös"
+      ]
+    },
+    {
+      "title": "Emil Nylund äger norra halvan av tomten",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "people": [
+        "Emil Nylund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ida Männistö tar över",
+      "date": {
+        "year": 1932,
+        "circa": false,
+        "text": "från 1932"
+      },
+      "people": [
+        "Ida Männistö"
+      ],
+      "places": []
+    },
+    {
+      "title": "Arne Jungerstam köper och river husen",
+      "date": {
+        "year": 1966,
+        "circa": false,
+        "text": "1966"
+      },
+      "people": [
+        "Arne Jungerstam"
+      ],
+      "places": [
+        "Männistös"
+      ]
+    },
+    {
+      "title": "Trevånings bostadshus byggs",
+      "date": {
+        "year": 1967,
+        "circa": false,
+        "text": "1967—68"
+      },
+      "people": [],
+      "places": [
+        "Männistös"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c85b75b430182688011bf9ba4164fe685aefc02f99ca5582f8fcc8c797c4fccd",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

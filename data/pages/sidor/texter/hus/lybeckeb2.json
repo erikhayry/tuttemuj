@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/lybeckeb2.htm",
+  "title": "Lybeckska gården",
+  "summary": "Lybeckska gården på Lybecksgatan 1, som rådman J. A. Lybeck byggde på tomt 63 och som sedan 1920-talet varit ålderdomshemmet De gamlas hem, i dag Florahemmet.",
+  "topics": [
+    "hus",
+    "åldringshem",
+    "ägarlängd"
+  ],
+  "people": [
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Carl Castrén",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "P. W. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": [
+        "De gamlas hem",
+        "Florahemmet",
+        "Tomt 63"
+      ],
+      "address": "Lybecksgatan 1",
+      "description": "Huvudbyggnaden på älvstranden; ålderdomshem från 1925/1932.",
+      "geo": {
+        "lat": 63.5249153,
+        "lng": 22.5291085,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Minnestavlan över Mikael och P. W. Lybeck",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "J. A. Lybeck ropar in tomt 63",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [
+        "J. A. Lybeck"
+      ],
+      "places": [
+        "Lybeckska gården"
+      ]
+    },
+    {
+      "title": "Arvingarna tar över",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "1895"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gården säljs till Carl Castrén",
+      "date": {
+        "year": 1924,
+        "circa": false,
+        "text": "1924"
+      },
+      "people": [
+        "Carl Castrén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Föreningen De gamlas hem köper gården",
+      "date": {
+        "year": 1925,
+        "circa": false,
+        "text": "1925 [1932]"
+      },
+      "people": [],
+      "places": [
+        "Lybeckska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8af98ecbccf398071b7ad7fa118f3da27deec787e1d989377d50a294dffc6e2c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

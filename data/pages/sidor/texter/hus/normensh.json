@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/normensh.html",
+  "title": "Normalskolan under olika tider",
+  "summary": "Bilder ur Normens samlingar från hösten 1948 till tiden före torgets ombyggnad 1999, publicerade när skolan tömdes på grund av mögel inför skolstarten 2014.",
+  "topics": [
+    "skola",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [
+        "Normalskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Normen fotograferas",
+      "date": {
+        "year": 1948,
+        "circa": false,
+        "text": "Hösten 1948"
+      },
+      "people": [],
+      "places": [
+        "Normen"
+      ]
+    },
+    {
+      "title": "Torget görs om",
+      "date": {
+        "year": 1999,
+        "circa": false,
+        "text": "1999"
+      },
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    },
+    {
+      "title": "Normen töms på grund av mögelskador",
+      "date": {
+        "year": 2014,
+        "circa": false,
+        "text": "inför skolstarten 2014"
+      },
+      "people": [],
+      "places": [
+        "Normen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1528f602c58e52933e312eca6b79eb60077c9e1deb700f8fe139d8cf655d6bd2",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

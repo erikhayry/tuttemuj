@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/nkbybyni.htm",
+  "title": "Nykarleby by night i slutet på 1960-talet",
+  "summary": "Kvällsbilder från slutet av 1960-talet med neonskyltarna på Astahuset, Andelsringen och Sparbankshuset – skoaffärer, blomsteraffären Asta, Udds Ram & Husgeråd, Sy-Tex, Haglunds bageri, Källar-Grillen och Halpa-Halli – och berättelsen om Andelsringens rivningsrea 1967.",
+  "topics": [
+    "handel",
+    "neonskyltar",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Slotte",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eila Asplund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Asplund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kurt Udd",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Greta Sundholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dan Nygren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Armas Pihlainen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hjördis Nordling",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carita Nygren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Monica Enqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Astahuset",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 10",
+      "description": "Byggt 1966.",
+      "geo": {
+        "lat": 63.5229453,
+        "lng": 22.5305088,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andelsringen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 5",
+      "description": "Byggt 1967.",
+      "geo": {
+        "lat": 63.52146810000001,
+        "lng": 22.5306678,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sparbankshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 11",
+      "geo": {
+        "lat": 63.5227604,
+        "lng": 22.531258,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Haglunds bageri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Källargrillen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Halpa-Halli",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torghallshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Astahuset byggs",
+      "date": {
+        "year": 1966,
+        "circa": false,
+        "text": "byggt 1966"
+      },
+      "people": [],
+      "places": [
+        "Astahuset"
+      ]
+    },
+    {
+      "title": "Andelsringen håller rivningsrea och flyttar",
+      "date": {
+        "year": 1967,
+        "month": 5,
+        "circa": false,
+        "text": "8. 5—11. 5"
+      },
+      "people": [],
+      "places": [
+        "Andelsringen"
+      ]
+    },
+    {
+      "title": "Nya Andelsringen invigs",
+      "date": {
+        "year": 1967,
+        "month": 11,
+        "day": 22,
+        "circa": false,
+        "text": "den 22 november"
+      },
+      "people": [],
+      "places": [
+        "Andelsringen"
+      ]
+    },
+    {
+      "title": "Biblioteket flyttar in i Sparbankshuset",
+      "date": {
+        "year": 1974,
+        "circa": true,
+        "text": "ca 1974"
+      },
+      "people": [],
+      "places": [
+        "Sparbankshuset"
+      ]
+    },
+    {
+      "title": "Staden köper Astahuset",
+      "date": {
+        "year": 2013,
+        "circa": false,
+        "text": "2013"
+      },
+      "people": [],
+      "places": [
+        "Astahuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fcef7cd4643e8199c4f2f2a17b916db6ddf52f79c1e009dbdedf348caccae9ee",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

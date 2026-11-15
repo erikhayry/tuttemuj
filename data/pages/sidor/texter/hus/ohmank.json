@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ohmank.html",
+  "title": "Konrad Öhman",
+  "summary": "Kaffekalas utanför seminarieverkmästare Konrad Öhmans hus på Bangatan 3 och utdrag ur olika källor om honom – finmekaniker, cykelhandlare och lärare i metallslöjd vid seminariet från 1911.",
+  "topics": [
+    "porträtt",
+    "hantverk",
+    "seminariet"
+  ],
+  "people": [
+    {
+      "name": "Konrad Öhman",
+      "alternateNames": [],
+      "birthYear": 1861,
+      "deathYear": 1936,
+      "roles": [
+        "seminarieverkmästare",
+        "finmekaniker"
+      ]
+    },
+    {
+      "name": "Edla Lovisa Öhman",
+      "alternateNames": [],
+      "birthYear": 1857,
+      "deathYear": 1934,
+      "roles": []
+    },
+    {
+      "name": "Kaj Österberg",
+      "alternateNames": [],
+      "roles": [
+        "postiljon"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fritz Öhman",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Konrad Öhmans gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bangatan 3",
+      "geo": {
+        "lat": 63.52083339999999,
+        "lng": 22.5282273,
+        "match": "address",
+        "gazetteerName": "bangatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Konrad Öhman driver velocipedaffär",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "1910"
+      },
+      "people": [
+        "Konrad Öhman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Konrad Öhman blir verkmästare i metallslöjd",
+      "date": {
+        "year": 1911,
+        "circa": false,
+        "text": "1911"
+      },
+      "people": [
+        "Konrad Öhman"
+      ],
+      "places": [
+        "Seminariet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ca7c8d95071fdca90ab5a8c711dfaf4d7d7968ea3a3441597d48d141148ecb61",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

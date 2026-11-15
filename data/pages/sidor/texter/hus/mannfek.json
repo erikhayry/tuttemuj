@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/mannfek.htm",
+  "title": "Elsa Kronqvist",
+  "summary": "Lärarinnan Elsa Kronqvist framför sitt hus kring 1960; huset blev mycket modernt efter renoveringen, och grannarna samlades där för att se kungabröllopet i Grekland på TV 1964.",
+  "topics": [
+    "porträtt",
+    "tv",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Elsa Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Peter Karlberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Elsa Kronqvists hus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Elsa Kronqvist renoverar sitt hus",
+      "date": {
+        "year": 1960,
+        "circa": true,
+        "text": "under 1960-talets första år"
+      },
+      "people": [
+        "Elsa Kronqvist"
+      ],
+      "places": [
+        "Elsa Kronqvists hus"
+      ]
+    },
+    {
+      "title": "Grannarna ser kungabröllopet på TV",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "1964"
+      },
+      "people": [],
+      "places": [
+        "Elsa Kronqvists hus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "98e53a86934bf2d59f1146e02c79c1e6d4af737fe759d709d015cd64fd0ff811",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

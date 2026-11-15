@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/nfb50apo.htm",
+  "title": "Nordiska Föreningsbankens grind",
+  "summary": "Nordiska Föreningsbankens gamla grind från Bankgatan 6, som Hugo Liljeström tog hand om; trappräcket i gjutjärn donerades till museet 1963.",
+  "topics": [
+    "bank",
+    "portar"
+  ],
+  "people": [
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Åke Björklund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nordiska Föreningsbankens grind",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "Bankgatan 6",
+      "geo": {
+        "lat": 63.5228929,
+        "lng": 22.5293227,
+        "match": "address",
+        "gazetteerName": "bankgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nordiska Föreningsbanken",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 6",
+      "geo": {
+        "lat": 63.5228929,
+        "lng": 22.5293227,
+        "match": "address",
+        "gazetteerName": "bankgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Trappräcket doneras till museet",
+      "date": {
+        "year": 1963,
+        "circa": false,
+        "text": "1963"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby museum"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fe85c6e2b4b889032f8d7684091065b23c25a6610fee389cc0ca8909899b1674",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

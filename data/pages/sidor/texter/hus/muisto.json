@@ -1,0 +1,181 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/muisto.html",
+  "title": "Muisto-minnen av Mano Forsman",
+  "summary": "Mano Forsman berättar om familjen von Essens villa Muisto vid Andra sjön, med dess stora glasveranda, och om morfaderns far Carl Jonathan von Essen, som drev ullspinneriet i Jeppo där Kiitola var knutpunkt för jägarrörelsen 1918. Villan brann ned, och på 1950-talet bodde familjen i tjänstefolkets stuga.",
+  "topics": [
+    "villor",
+    "jägarrörelsen",
+    "segling",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Carl Jonathan von Essen",
+      "alternateNames": [
+        "Jonathan von Essen"
+      ],
+      "roles": [],
+      "description": "Drev Jeppo Ullspinneri."
+    },
+    {
+      "name": "Aina von Essen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm von Essen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elsa von Essen",
+      "alternateNames": [
+        "Elsa Lingonblad"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Ulla von Essen Koskimies",
+      "alternateNames": [
+        "Ulla von Essen"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Mano Forsman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Charles von Essen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Reinhold von Essen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta von Essen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anne Marie Nordgren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lasse Nordgren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Villa Muisto",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Von Essens stora villa vid Andra sjön med glasveranda; brann ned."
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kiitola",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman i Jeppo; knutpunkt för Jeppo-etappen i jägarrörelsen."
+    },
+    {
+      "name": "Jeppo ullspinneri",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kaffestund på glasverandan",
+      "date": {
+        "year": 1915,
+        "circa": false,
+        "text": "sommaren 1915"
+      },
+      "people": [
+        "Carl Jonathan von Essen",
+        "Aina von Essen"
+      ],
+      "places": [
+        "Villa Muisto"
+      ]
+    },
+    {
+      "title": "Jägarrörelsen och Jeppo-etappen",
+      "date": {
+        "year": 1918,
+        "circa": false,
+        "text": "1918"
+      },
+      "people": [],
+      "places": [
+        "Kiitola"
+      ]
+    },
+    {
+      "title": "Villa Muisto brinner",
+      "date": {
+        "year": 1945,
+        "month": 8,
+        "day": 13,
+        "circa": false,
+        "text": "13/8"
+      },
+      "people": [],
+      "places": [
+        "Villa Muisto"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "På Kiitola i Jeppo är ullspinnerifamiljen von Essen hängivet engagerad i jägarrörelsen 1918, medan somrarna tillbringas på villan Muisto vid Andra sjön med kaffe på glasverandan och segling ända till Hangö – tills villan brinner ned och bara stenfoten blir kvar.",
+    "reason": "En familj mitt i en dramatisk historisk rörelse, med sommaridyll som kontrast och en brand som slut.",
+    "characters": [
+      "Carl Jonathan von Essen",
+      "Wilhelm von Essen"
+    ],
+    "places": [
+      "Villa Muisto",
+      "Kiitola"
+    ]
+  },
+  "contentHash": "0b7936a60f034aeed8fc14e289c405ed3bab33b7ada0b7bcd44aaea8477ccfc7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

@@ -1,0 +1,131 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/majnbona.htm",
+  "title": "Platsen för Majniemistugan i Bonäs",
+  "summary": "Platsen i Bonäs där Topelius sommarstuga Majniemi stod efter att J. A. Lybeck sålt den till bonden Jakob Forsbacka 1877, tills vårvintern 1896; Dan-Erik Forsbacka visade var den låg.",
+  "topics": [
+    "topelius",
+    "sommarstuga",
+    "flyttade hus"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jakob Forsbacka",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Dan-Erik Forsbacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topelius sommarstuga, flyttad till Bonäs lötet 1877."
+    },
+    {
+      "name": "Platsen för Majniemistugan i Bonäs",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Ca 100 m öster om Andrasjö–Bonäsvägen, på gränsen mellan Forsbackas och Asplunds marker."
+    },
+    {
+      "name": "Bonäs lötet",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.50741889999999,
+        "lng": 22.4570607,
+        "match": "name",
+        "gazetteerName": "bonäsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius säljer Majniemi och stugan flyttas till Bonäs",
+      "date": {
+        "year": 1877,
+        "circa": false,
+        "text": "1877"
+      },
+      "people": [
+        "Zacharias Topelius",
+        "J. A. Lybeck",
+        "Jakob Forsbacka"
+      ],
+      "places": [
+        "Majniemi",
+        "Platsen för Majniemistugan i Bonäs"
+      ]
+    },
+    {
+      "title": "Majniemi står kvar i Bonäs",
+      "date": {
+        "year": 1896,
+        "circa": false,
+        "text": "till vårvintern 1896"
+      },
+      "people": [],
+      "places": [
+        "Majniemi"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "340599c550e16bf4162d6553833f33e959d598ff7b60cbeaf20a3bd6de146239",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

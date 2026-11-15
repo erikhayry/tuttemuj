@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/nymana.htm",
+  "title": "Nymans nya och gamla gårdar",
+  "summary": "Mjölnaren Anders Nymans gårdar mellan Vernamo och Juthbackakroken omkring 1945, där han vid krigsslutet byggde ett vitt tvåvåningshus och rev det gamla röda.",
+  "topics": [
+    "hus",
+    "kvarn"
+  ],
+  "people": [
+    {
+      "name": "Anders Nyman",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Reinhold Nygren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Algot Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vendla Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hannes",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nymans gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mellan Vernamo och Juthbackakroken."
+    },
+    {
+      "name": "Vernamo",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbackakroken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Anders Nyman bygger nytt hus",
+      "date": {
+        "year": 1945,
+        "circa": true,
+        "text": "Vid krigsslutet"
+      },
+      "people": [
+        "Anders Nyman"
+      ],
+      "places": [
+        "Nymans gård"
+      ]
+    },
+    {
+      "title": "Anders Nyman tröskar",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "1981"
+      },
+      "people": [
+        "Anders Nyman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "aae5843010e788171330491e79e247fe5c7ed475537a601bb5a96fb4449ee9d4",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

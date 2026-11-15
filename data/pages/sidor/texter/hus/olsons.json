@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/olsons.htm",
+  "title": "Olsons i början av 1970-talet",
+  "summary": "Raoul och Helmi Olsons hus på Gustav Adolfsgatan 42 före, under och efter branden i början av 1970-talet, som startade i TV-apparaten. Grundmurarna blev barnens lekplats och skyddsrum i krigslekarna – och avslöjade att huset byggts under bristtider, med en cykelram som armering.",
+  "topics": [
+    "brand",
+    "barndom",
+    "lek",
+    "hus"
+  ],
+  "people": [
+    {
+      "name": "Raoul Olson",
+      "alternateNames": [],
+      "roles": [
+        "arbetsledare"
+      ]
+    },
+    {
+      "name": "Helmi Olson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Birger Olson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [
+        "forman"
+      ]
+    },
+    {
+      "name": "Aina Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Liljeström",
+      "alternateNames": [],
+      "roles": [
+        "linjemontör"
+      ]
+    },
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sigrid Sandvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gurli Björkqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Susanne Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Cecilia Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "John Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Per Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Olsons gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 42",
+      "description": "Byggd av Raoul och Helmi Olson; brann i början av 1970-talet efter en brand i TV:n. Nytt hus 1984.",
+      "geo": {
+        "lat": 63.52676830000001,
+        "lng": 22.5349051,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 42",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "John Fors gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Björkqvist på besök",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "sommaren 1970"
+      },
+      "people": [],
+      "places": [
+        "Olsons gård"
+      ]
+    },
+    {
+      "title": "Olsons gård brinner efter brand i TV:n",
+      "date": {
+        "year": 1971,
+        "circa": true,
+        "text": "början av 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "Olsons gård"
+      ]
+    },
+    {
+      "title": "Birger Olson bygger nytt hus på sockeln",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "people": [
+        "Birger Olson"
+      ],
+      "places": [
+        "Olsons gård"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En kväll i början av 1970-talet börjar TV:n brinna hos Olsons på Källbacken och huset brinner ut. Kvar blir grundmuren, som barnen gör till lekplats och skyddsrum i krigslekarna – tills någon öppnar huvudvattenkranen och källaren fylls med vatten.",
+    "reason": "En dramatisk brand följd av barnens fantasilekar i ruinen ger en berättelse med både allvar och humor.",
+    "characters": [
+      "Susanne Liljeström",
+      "Cecilia Liljeström"
+    ],
+    "places": [
+      "Olsons gård"
+    ]
+  },
+  "contentHash": "2217bba4a55153e3188e321ec104ca2476dee32659eed66fbac8f3b5da740d48",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

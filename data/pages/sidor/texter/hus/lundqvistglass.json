@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/lundqvistglass.html",
+  "title": "Lundqvists glass",
+  "summary": "Birger och Irene Lundqvist, som träffades på mejeriskolan i Lahtis, kom till Nykarleby 1934 och tillverkade glass, knäck och karameller i Björkvalls gård vid Borgaregatan. Glassen såldes från en glasskärra vid esplanaden, och glasskärnan finns kvar i släkten.",
+  "topics": [
+    "glass",
+    "handel",
+    "hantverk",
+    "1930-talet"
+  ],
+  "people": [
+    {
+      "name": "Birger Lundqvist",
+      "alternateNames": [],
+      "birthYear": 1903,
+      "deathYear": 1968,
+      "roles": [
+        "korvgubbe",
+        "glasstillverkare"
+      ]
+    },
+    {
+      "name": "Irene Lundqvist",
+      "alternateNames": [
+        "Irene Biskop"
+      ],
+      "birthYear": 1901,
+      "deathYear": 1968,
+      "roles": []
+    },
+    {
+      "name": "Göta Lundqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Björkvalls",
+      "kind": "building",
+      "alternateNames": [
+        "Björkvalls gård"
+      ],
+      "description": "I hörnet av Borgaregatan och Västra esplanadgatan."
+    },
+    {
+      "name": "Lundqvists glasskärra",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsbergs kiosk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lundqvists kommer till Nykarleby och börjar tillverka glass",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "people": [
+        "Birger Lundqvist",
+        "Irene Lundqvist"
+      ],
+      "places": [
+        "Björkvalls"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "da26d1048c663b429a6b41728a1f9c8db9777994a2a7535d6db6d91f37b8facc",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

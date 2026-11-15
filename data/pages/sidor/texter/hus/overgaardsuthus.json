@@ -1,0 +1,198 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/overgaardsuthus.html",
+  "title": "Seminariegatan 15",
+  "summary": "Solveig Sjöskog berättar om gården på Seminariegatan 15 där hennes far drev SOWO:s snickeri från 1946 och tillverkade fönster, dörrar, kälkar och dockskåp, innan han tillsammans med Sven Josef Nyman grundade plastfabriken Prevex. Husen revs och flyttades i omgångar, och uthuset brann 1982.",
+  "topics": [
+    "snickeri",
+    "industri",
+    "flyttade hus",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Rabbe Schauman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Bonäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Riissanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anni Riissanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Georg Tarvos",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helena Carissis",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Josef Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Petter Jacob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Kjell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan 15",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 15",
+      "description": "Med SOWO:s snickeri och Lilla byggningen.",
+      "geo": {
+        "lat": 63.52532549999999,
+        "lng": 22.5246437,
+        "match": "address",
+        "gazetteerName": "seminariegatan 15",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "SOWO:s snickeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lilla byggningen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs ca 1959–60 och blev byggmaterial till uthuset."
+    },
+    {
+      "name": "Prevex",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fabriksbyggnaden på Kampen där konstskolan är i dag."
+    },
+    {
+      "name": "Kampen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Kiloholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Snickeriet tas över",
+      "date": {
+        "year": 1946,
+        "circa": false,
+        "text": "1946"
+      },
+      "people": [],
+      "places": [
+        "SOWO:s snickeri"
+      ]
+    },
+    {
+      "title": "Snickeriet går i konkurs och familjen flyttar tillfälligt",
+      "date": {
+        "year": 1955,
+        "circa": false,
+        "text": "1955–56"
+      },
+      "people": [],
+      "places": [
+        "SOWO:s snickeri"
+      ]
+    },
+    {
+      "title": "Lilla byggningen rivs",
+      "date": {
+        "year": 1959,
+        "circa": true,
+        "text": "ca 1959–60"
+      },
+      "people": [],
+      "places": [
+        "Lilla byggningen"
+      ]
+    },
+    {
+      "title": "Stockflottningen upphör",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Uthuset brinner",
+      "date": {
+        "year": 1982,
+        "circa": false,
+        "text": "1982"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 15"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fbc724e8ed41fe6d812d008669f7d7e78f61a2ca77bea7e051d32bbf81b5157f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

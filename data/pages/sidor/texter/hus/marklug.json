@@ -1,0 +1,157 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/marklug.htm",
+  "title": "Frilunds eller Salemförsamlingens gård 1996",
+  "summary": "Fotografi från 1996 av gårdarna på Grev Tottgatan 13–17 mellan Mathesius- och Karleborgsgatan, där Hulda Ahlströms lilla gård på tomt 102 senare ärvdes av Salemförsamlingen och revs 1999.",
+  "topics": [
+    "hus",
+    "frikyrka",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Hulda Ahlström",
+      "alternateNames": [],
+      "deathYear": 1955,
+      "roles": []
+    },
+    {
+      "name": "Alfons Marklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Frilund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kjell Rudnäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikaela Rudnäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dagny Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. Sundqvist",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Gustaf Sandström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hulda Ahlströms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 102",
+        "Salemförsamlingens gård"
+      ],
+      "address": "Grev Tottgatan 13",
+      "description": "Riven 1999."
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hulda Ahlström dör",
+      "date": {
+        "year": 1955,
+        "circa": false,
+        "text": "1955"
+      },
+      "people": [
+        "Hulda Ahlström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fotografi av gårdarna",
+      "date": {
+        "year": 1996,
+        "month": 10,
+        "day": 13,
+        "circa": false,
+        "text": "den 13/10 1996"
+      },
+      "people": [],
+      "places": [
+        "Hulda Ahlströms gård"
+      ]
+    },
+    {
+      "title": "Gården rivs",
+      "date": {
+        "year": 1999,
+        "circa": false,
+        "text": "[1999]"
+      },
+      "people": [],
+      "places": [
+        "Hulda Ahlströms gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7abd2b6a4582854117b8fc6c3f6593b4e037d927270be639359f6fe39869ba0e",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ohmanr.htm",
+  "title": "Rosa Öhmans gård",
+  "summary": "Gården på Gustav Adolfsgatan 10 där systrarna Rosa Öhman och Senny Kjellberg drev handarbetsaffär; Adèle och Elof Broman köpte den 1962 och byggde nytt med stockarna från det gamla huset.",
+  "topics": [
+    "hus",
+    "återanvänt timmer"
+  ],
+  "people": [
+    {
+      "name": "Rosa Öhman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Senny Kjellberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Adèle Broman",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elof Broman",
+      "alternateNames": [],
+      "roles": [
+        "taxiägare"
+      ]
+    },
+    {
+      "name": "Vendla Öhman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Rosa Öhmans gård",
+      "kind": "building",
+      "alternateNames": [
+        "Bromans gård",
+        "Öhmans gård"
+      ],
+      "address": "Gustav Adolfsgatan 10",
+      "geo": {
+        "lat": 63.5211648,
+        "lng": 22.5322224,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Adèle och Elof Broman köper gården och bygger nytt",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "people": [
+        "Adèle Broman",
+        "Elof Broman"
+      ],
+      "places": [
+        "Rosa Öhmans gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4070985d2b34633c39ca15c59c025ff46cb548033f969ef398e983c66597bdff",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

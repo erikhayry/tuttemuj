@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/mannfver.htm",
+  "title": "På Nordlunds veranda 1926",
+  "summary": "Familjebild från 1926 på Nordlunds veranda med ett ovanligt räcke med utsågade stjärnor.",
+  "topics": [
+    "familj",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Erik Nordlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Nordlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ester Mannfors",
+      "alternateNames": [
+        "Ester Nordlund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Joel Mannfors",
+      "alternateNames": [],
+      "deathYear": 1934,
+      "roles": []
+    },
+    {
+      "name": "Jenny Svanbäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Börje Svanbäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Karlberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dorrit Karlberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henrik Karlberg",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mannfors",
+      "kind": "building",
+      "alternateNames": [
+        "Nordlundska gården"
+      ],
+      "address": "Badhusstigen 1",
+      "description": "Huset stod tidigare vid Koski bryggeri på älvstranden; rivet 1974.",
+      "geo": {
+        "lat": 63.52143030000001,
+        "lng": 22.5220712,
+        "match": "address",
+        "gazetteerName": "badhusstigen 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjebild på verandan",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "people": [],
+      "places": [
+        "Mannfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "043c2c7a591f4ba4d85ddea838e4de3fd9a46e9ef2c3215eeb4265be32ac75db",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

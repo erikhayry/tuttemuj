@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/nordeaslut.html",
+  "title": "Slutet på en epok 1898–2008",
+  "summary": "Den 26 september 2008 togs Nordeas skyltar ned från huset där bank drivits sedan 1898; kontoret flyttade till Ämbetshuset och stängde i december 2014.",
+  "topics": [
+    "bank"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Helsingfors Aktiebanks hus",
+      "kind": "building",
+      "alternateNames": [
+        "Nordea"
+      ],
+      "address": "Bankgatan 8",
+      "geo": {
+        "lat": 63.5227979,
+        "lng": 22.5301319,
+        "match": "address",
+        "gazetteerName": "bankgatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nordeas skyltar tas ned",
+      "date": {
+        "year": 2008,
+        "month": 9,
+        "day": 26,
+        "circa": false,
+        "text": "Fredagen den 26 september 2008"
+      },
+      "people": [],
+      "places": [
+        "Helsingfors Aktiebanks hus"
+      ]
+    },
+    {
+      "title": "Nordeakontoret stänger",
+      "date": {
+        "year": 2014,
+        "month": 12,
+        "circa": false,
+        "text": "i slutet på december 2014"
+      },
+      "people": [],
+      "places": [
+        "Ämbetshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b7d3c3d7c1b79d6b4373bdb9957e97d288c639eed971096491a0584f1b44ed9f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}

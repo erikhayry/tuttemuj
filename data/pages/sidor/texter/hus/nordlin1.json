@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/nordlin1.htm",
+  "title": "Andelskassans gård mars 1973",
+  "summary": "Fotografi från 1973 av Andelskassans gård på Topeliusesplanaden 6, där Elvi Bergfeldt startade sin affär i flygeln 1949; huset revs 1978. I finnstugan ska en herrklubb ha hållit till och ett mord ha begåtts 1873.",
+  "topics": [
+    "hus",
+    "handel",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elvi Bergfeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Torrkulla",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Rudnäs",
+      "alternateNames": [],
+      "roles": [
+        "urmakare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nylundska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Andelskassans gård",
+        "Nordlings gård"
+      ],
+      "address": "Topeliusesplanaden 6",
+      "geo": {
+        "lat": 63.5215507,
+        "lng": 22.5298476,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ett mord begås i finnstugan",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "1873"
+      },
+      "people": [],
+      "places": [
+        "Nylundska gården"
+      ]
+    },
+    {
+      "title": "Elvi Bergfeldt startar affär i flygeln",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "1949"
+      },
+      "people": [
+        "Elvi Bergfeldt"
+      ],
+      "places": [
+        "Nylundska gården"
+      ]
+    },
+    {
+      "title": "Huset rivs",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "1978"
+      },
+      "people": [],
+      "places": [
+        "Nylundska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "719dbcd69bd11090706c31327d822e531ddf1b118950cb426aa88dfab612df67",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:31:26.888Z"
+}
