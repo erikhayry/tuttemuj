@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/hoglundv.htm",
+  "title": "Venje Höglunds gård 1973",
+  "summary": "Gården på Gustav Adolfsgatan 23 vid Borgaregatan, tomt 50, fotograferad 1973 innan den revs. Jorma Metso minns den väl upptrampade stigen mellan Salem och barnhemmet, och att varmt vatten till vinterdop hämtades från mejeriet.",
+  "topics": [
+    "hus",
+    "rivna hus",
+    "frikyrka"
+  ],
+  "people": [
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Maria Rank",
+      "alternateNames": [],
+      "roles": [
+        "sjömansänka"
+      ]
+    },
+    {
+      "name": "Venje Höglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfa Strandén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Arbetade på posten."
+    },
+    {
+      "name": "Elisabeth Björkskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Björkskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Venje Höglunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 50"
+      ],
+      "address": "Gustav Adolfsgatan 23",
+      "geo": {
+        "lat": 63.52361929999999,
+        "lng": 22.5338431,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 23",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Salem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Barnhemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Mejeriet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Maria Rank ropar in tomt 50",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 13,
+        "circa": false,
+        "text": "den 13 juli 1858"
+      },
+      "people": [
+        "Maria Rank"
+      ],
+      "places": [
+        "Venje Höglunds gård"
+      ]
+    },
+    {
+      "title": "Gården fotograferas",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [
+        "Sven Bertlin"
+      ],
+      "places": [
+        "Venje Höglunds gård"
+      ]
+    },
+    {
+      "title": "Gården rivs",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "Revs 1974"
+      },
+      "people": [],
+      "places": [
+        "Venje Höglunds gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7479a9082c53abbd2a270d5f1ce3f4470cdeaa9f383bd4ae178d12ad9ccf87d3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

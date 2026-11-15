@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/hopptorn.htm",
+  "title": "Hopptornet vid Andrasjön",
+  "summary": "Bild av hopptornet vid Andrasjöns simanläggning som invigdes i augusti 1946; nioårige Magnus Hedenborg invigde den och fick därför lemonad och gris gratis.",
+  "topics": [
+    "simning",
+    "andrasjön",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Magnus Hedenborg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hopptornet vid Andrasjön",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Simhuset vid Andrasjön",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Spolades bort av orkanen 1959."
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Simanläggningen vid Andrasjön invigs",
+      "date": {
+        "year": 1946,
+        "month": 8,
+        "circa": false,
+        "text": "i augusti 1946"
+      },
+      "people": [
+        "Magnus Hedenborg"
+      ],
+      "places": [
+        "Hopptornet vid Andrasjön"
+      ]
+    },
+    {
+      "title": "Simhuset spolas bort av orkanen",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "1959"
+      },
+      "people": [],
+      "places": [
+        "Simhuset vid Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "När simanläggningen vid Andrasjön invigs i augusti 1946 dyker nioårige Magnus från trampolinen och till och med från högsta avsatsen – och när han sedan ska köpa rödlemonad och gris får han allt gratis, eftersom det var han som invigde siminrättningen.",
+    "reason": "En glad sommarscen med ett barn i centrum och en tydlig poäng.",
+    "characters": [
+      "Magnus Hedenborg"
+    ],
+    "places": [
+      "Hopptornet vid Andrasjön"
+    ]
+  },
+  "contentHash": "f5545fb9922f6dcbd198df17b65e0e7af6c2f7ea5f7e23a47cdb42d463a4f6d7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

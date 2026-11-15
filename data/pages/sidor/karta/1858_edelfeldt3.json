@@ -1,0 +1,198 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/1858_edelfeldt3.html",
+  "title": "Edelfelts stadsplan av år 1858 – noteringar",
+  "summary": "Noteringar till Albert Edelfelts stadsplan som reglerade Nykarleby efter branden 1858: vilka hemman som är utmärkta, att alla gator skulle trädplanteras, att texterna översatts till ryska och att stenhustomten och rådhustomten bebyggdes först många decennier senare.",
+  "topics": [
+    "stadsplan",
+    "stadsbranden 1858",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Albert Edelfelt",
+      "alternateNames": [
+        "Albert Edelfeldt"
+      ],
+      "roles": [
+        "länsarkitekt"
+      ]
+    },
+    {
+      "name": "J. Hellman",
+      "alternateNames": [],
+      "roles": [
+        "extra ingenjör"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedsbacka hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Smedsbacka"
+      ]
+    },
+    {
+      "name": "Nybacka hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Nybacka"
+      ]
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "farm",
+      "alternateNames": [
+        "Kyrkoherdebolet"
+      ],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [
+        "Stortorg"
+      ]
+    },
+    {
+      "name": "Vattenuppfordringsverket",
+      "kind": "building",
+      "alternateNames": [
+        "Wattenuppfordringsverket"
+      ],
+      "description": "Vid Borgaregatans västra ände."
+    },
+    {
+      "name": "Stenhustomten",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhustomten",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Redan 1858 fanns planer på att spränga bort det."
+    },
+    {
+      "name": "Gamla kyrkan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanen reglerad efter branden",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 12,
+        "circa": false,
+        "text": "Den 12 januari 1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Edelfelt ritar stadsplanen",
+      "date": {
+        "year": 1858,
+        "month": 5,
+        "circa": false,
+        "text": "i Maj 1858"
+      },
+      "people": [
+        "Albert Edelfelt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kejsaren fastställer stadsplanen",
+      "date": {
+        "year": 1858,
+        "month": 10,
+        "day": 8,
+        "circa": false,
+        "text": "den 27 sept./8 oktober 1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Överstyrelsen för lantmäteriet bestyrker planen",
+      "date": {
+        "year": 1858,
+        "month": 12,
+        "day": 1,
+        "circa": false,
+        "text": "den 1 December 1858"
+      },
+      "people": [
+        "J. Hellman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a45c5faed346d7cb9890b4e81bb02323030a1dada33205517a99501927e0cc48",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

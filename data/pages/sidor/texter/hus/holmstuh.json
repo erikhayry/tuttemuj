@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/holmstuh.htm",
+  "title": "Holmströms uthus på 1920-talet",
+  "summary": "Fotografi från 1920-talet av Holmströms uthus på Bankgatan 2 med hönshuset och stenkällaren, och Folke Holmströms berättelse om natten den 8 december 1987 då uthuset brann ned efter några småpojkars lek med eld – brandchefen trodde först att det var kyrkan som brann.",
+  "topics": [
+    "uthus",
+    "brand",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Edit Nylund",
+      "alternateNames": [
+        "Edit Ringvall"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Lisi Westerlund",
+      "alternateNames": [
+        "Lisi Marklund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jernström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Monika",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Folke Holmströms systerdotter; larmade om branden."
+    },
+    {
+      "name": "Rolf Backman",
+      "alternateNames": [],
+      "roles": [
+        "brandchef"
+      ]
+    },
+    {
+      "name": "Teuvo Kanerva",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Holmströms uthus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströms gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Pensars finnstuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkogatan 6",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 6",
+      "geo": {
+        "lat": 63.52252730000001,
+        "lng": 22.5272383,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Holmströms uthus brinner ned",
+      "date": {
+        "year": 1987,
+        "month": 12,
+        "day": 8,
+        "circa": false,
+        "text": "kl. 5 på natten den 8 december 1987"
+      },
+      "people": [
+        "Monika",
+        "Rolf Backman"
+      ],
+      "places": [
+        "Holmströms uthus"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Klockan fem en decembernatt 1987 väcks Monika av hunden och ser Holmströms uthus i lågor efter några pojkars lek med eld. Brandchefen tror på håll att kyrkan brinner, vattenposten är fastfrusen och brandmännen får hämta vatten ur älven.",
+    "reason": "En dramatisk nattscen med ett tydligt förlopp och flera aktörer.",
+    "characters": [
+      "Monika",
+      "Rolf Backman"
+    ],
+    "places": [
+      "Holmströms uthus",
+      "Kyrkan"
+    ]
+  },
+  "contentHash": "c4f90c35b6b711a6146778f115140903285febb3c4122c46253b82da4b1f912a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

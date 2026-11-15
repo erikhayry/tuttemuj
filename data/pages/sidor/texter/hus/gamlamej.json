@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gamlamej.htm",
+  "title": "Gamla mejeriet i Nykarleby",
+  "summary": "Fotografi av gamla mejeriet vid Hagagatan, Lillbacka, där Nykarleby Andelsmejeri drev mejeri från omkring 1910 till april 1938 och Lampinen sedan hade verkstad.",
+  "topics": [
+    "mejeri",
+    "industri",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lampinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mats Sandström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla mejeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Hagagatan, Lillbacka"
+    },
+    {
+      "name": "Hagagatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5180894,
+        "lng": 22.5365936,
+        "match": "name",
+        "gazetteerName": "hagagatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lillbacka",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Andelsmejeriet startar",
+      "date": {
+        "year": 1910,
+        "circa": true,
+        "text": "från omkring 1910"
+      },
+      "people": [],
+      "places": [
+        "Gamla mejeriet"
+      ]
+    },
+    {
+      "title": "Mejeriverksamheten upphör",
+      "date": {
+        "year": 1938,
+        "month": 4,
+        "circa": false,
+        "text": "april 1938"
+      },
+      "people": [],
+      "places": [
+        "Gamla mejeriet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bb7b5d5b81abecaa5e351cdd25fe6d7ce1b9451093afb7c5caf47afdfa2d1fb8",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/grone.html",
+  "title": "Joel Nilssons gård",
+  "summary": "Joel Nilssons gård vid Grev Tottgatan 14, där Handelslagets föreståndare och predikanten Smeds bodde på 1950-talet och som plåtslagaren Emil Grön och Döbeln-servitrisen Helga köpte 1967.",
+  "topics": [
+    "hus",
+    "ägarlängd"
+  ],
+  "people": [
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "kommissionär"
+      ]
+    },
+    {
+      "name": "Smeds",
+      "alternateNames": [],
+      "roles": [
+        "föreståndare",
+        "predikant"
+      ]
+    },
+    {
+      "name": "Lilian Smeds",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emil Grön",
+      "alternateNames": [],
+      "roles": [
+        "plåtslagare"
+      ]
+    },
+    {
+      "name": "Helga Grön",
+      "alternateNames": [],
+      "roles": [
+        "servitris"
+      ]
+    },
+    {
+      "name": "Stefan Ågholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Marianne",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Camilla Grön",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Joel Nilssons gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 14"
+    },
+    {
+      "name": "Gamla stationshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Emil och Helga Grön köper gården",
+      "date": {
+        "year": 1967,
+        "circa": false,
+        "text": "År 1967"
+      },
+      "people": [
+        "Emil Grön",
+        "Helga Grön"
+      ],
+      "places": [
+        "Joel Nilssons gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e8462465e621d2e8472444e722286c45e1ab074e929c09489e6581801ceaefe4",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

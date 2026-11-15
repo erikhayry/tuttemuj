@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gronhuhh.html",
+  "title": "Husen nordost om torget, våren 1973",
+  "summary": "Färglagt fotografi, troligen från våren 1973, av torgets nordöstra del med HAB, Grönhuset, rundkiosken, Torggrillen och Göran Gleisners livsmedelsaffär.",
+  "topics": [
+    "torget",
+    "handel",
+    "fotografi",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bjarne Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Meri Virtanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Göran Gleisner",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Grönhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "HAB",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Runda kiosken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torggrillen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gleisners livsmedelsaffär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bokhandeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av husen nordost om torget",
+      "date": {
+        "year": 1973,
+        "circa": true,
+        "text": "gissningsvis våren 1973"
+      },
+      "people": [],
+      "places": [
+        "Grönhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7f6ecc699a4642a8f414696024efd7049affd82011e8677d1efa3487cce90124",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

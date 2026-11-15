@@ -1,0 +1,3600 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gardskop.html",
+  "title": "Tema Gårdsköp i Österbottniska Posten 1884–1946",
+  "summary": "En sammanställning av omkring 230 tidningsnotiser om gårdsköp i Nykarleby från 1884 till 1946, ordnade efter tomtnummer och dagens adresser, med köpare, säljare och priser. Den visar hur nästan alla gårdar vid esplanaden bytte ägare en eller flera gånger, särskilt i haussen efter första världskriget.",
+  "topics": [
+    "gårdsköp",
+    "ägarlängd",
+    "tidningsnotiser",
+    "handel"
+  ],
+  "people": [
+    {
+      "name": "S. Myntti",
+      "alternateNames": [],
+      "roles": [
+        "telegrafchef"
+      ],
+      "description": "Förekommer ofta som köpare."
+    },
+    {
+      "name": "Axel Backlund",
+      "alternateNames": [],
+      "roles": [
+        "gårdsägare",
+        "formansman"
+      ],
+      "description": "Förekommer ofta som köpare."
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [
+        "Wold. Backman"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde stadsmodellen."
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Albert Lindhagen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Berith Grensjö",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Görel Ahlnäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Håkan Ahlnäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lena Sjöskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Boulevardsgatan",
+        "Rådhusboulevarden",
+        "Boulevardgatan",
+        "Stora Boulevarden",
+        "Östra Esplanadgatan",
+        "Västra Esplanadgatan",
+        "Vestra Esplanadgatan"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "En av få gårdar vid esplanaden som inte såldes under perioden."
+    },
+    {
+      "name": "Bankgatan 4",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 42"
+      ],
+      "address": "Bankgatan 4",
+      "geo": {
+        "lat": 63.5229781,
+        "lng": 22.5281705,
+        "match": "address",
+        "gazetteerName": "bankgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 5",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 20"
+      ],
+      "address": "Topeliusesplanaden 5",
+      "geo": {
+        "lat": 63.52146810000001,
+        "lng": 22.5306678,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 2",
+      "geo": {
+        "lat": 63.5214526,
+        "lng": 22.5266442,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 25",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 80"
+      ],
+      "address": "Topeliusesplanaden 25",
+      "geo": {
+        "lat": 63.52529850000001,
+        "lng": 22.5324888,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 29",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 96"
+      ],
+      "address": "Topeliusesplanaden 29",
+      "geo": {
+        "lat": 63.52499289999999,
+        "lng": 22.5329,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 29",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jakobstadsvägen 8",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Jakobstadsvägen 8"
+    },
+    {
+      "name": "Topeliusesplanaden 13",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 48S"
+      ],
+      "address": "Topeliusesplanaden 13",
+      "geo": {
+        "lat": 63.52311510000001,
+        "lng": 22.5314284,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 13",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 11",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 39"
+      ],
+      "address": "Topeliusesplanaden 11",
+      "geo": {
+        "lat": 63.5227604,
+        "lng": 22.531258,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 12",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 47"
+      ],
+      "address": "Topeliusesplanaden 12",
+      "geo": {
+        "lat": 63.523466,
+        "lng": 22.5307663,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan 1",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 17"
+      ],
+      "address": "Sollefteågatan 1",
+      "geo": {
+        "lat": 63.5221001,
+        "lng": 22.5262244,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariegatan 6",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 106"
+      ],
+      "address": "Seminariegatan 6"
+    },
+    {
+      "name": "Bankgatan 6",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 41"
+      ],
+      "address": "Bankgatan 6",
+      "geo": {
+        "lat": 63.5228929,
+        "lng": 22.5293227,
+        "match": "address",
+        "gazetteerName": "bankgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan 13",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 32V",
+        "Tomt 32"
+      ],
+      "address": "Gustav Adolfsgatan 13",
+      "geo": {
+        "lat": 63.52216430000001,
+        "lng": 22.5331467,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 13",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan 11",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 3"
+      ],
+      "address": "Bangatan 11"
+    },
+    {
+      "name": "Sollefteågatan 7",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 18"
+      ],
+      "address": "Sollefteågatan 7",
+      "geo": {
+        "lat": 63.5218149,
+        "lng": 22.5286893,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 32",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 81"
+      ],
+      "address": "Gustav Adolfsgatan 32",
+      "geo": {
+        "lat": 63.525279,
+        "lng": 22.5341853,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 32",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 9",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 22V"
+      ],
+      "address": "Gustav Adolfsgatan 9",
+      "geo": {
+        "lat": 63.5213446,
+        "lng": 22.5327225,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 9",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 15",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 48N"
+      ],
+      "address": "Topeliusesplanaden 15",
+      "geo": {
+        "lat": 63.52346979999999,
+        "lng": 22.5315985,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 15",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan 8",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 40"
+      ],
+      "address": "Bankgatan 8",
+      "geo": {
+        "lat": 63.5227979,
+        "lng": 22.5301319,
+        "match": "address",
+        "gazetteerName": "bankgatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 3",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 11"
+      ],
+      "address": "Topeliusesplanaden 3"
+    },
+    {
+      "name": "Karleborgsgatan 26",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 69S"
+      ],
+      "address": "Karleborgsgatan 26",
+      "geo": {
+        "lat": 63.5239329,
+        "lng": 22.5358161,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 26",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 2",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 1"
+      ],
+      "address": "Topeliusesplanaden 2",
+      "geo": {
+        "lat": 63.5201857,
+        "lng": 22.5292272,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 17",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 59"
+      ],
+      "address": "Topeliusesplanaden 17",
+      "geo": {
+        "lat": 63.5238156,
+        "lng": 22.5317698,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 17",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 27",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 68N"
+      ],
+      "address": "Gustav Adolfsgatan 27",
+      "geo": {
+        "lat": 63.5243061,
+        "lng": 22.5341452,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 27",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan 9",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 19"
+      ],
+      "address": "Sollefteågatan 9",
+      "geo": {
+        "lat": 63.52169910000001,
+        "lng": 22.5299288,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 9",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 14",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 26"
+      ],
+      "address": "Gustav Adolfsgatan 14"
+    },
+    {
+      "name": "Gustav Adolfsgatan 34",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 94V",
+        "Tomt 34Ö"
+      ],
+      "address": "Gustav Adolfsgatan 34",
+      "geo": {
+        "lat": 63.52561489999999,
+        "lng": 22.5343467,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 34",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 14",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 60",
+        "Tomt 60N",
+        "Tomt 60Ö"
+      ],
+      "address": "Topeliusesplanaden 14"
+    },
+    {
+      "name": "Jakobstadsvägen 1",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 203"
+      ],
+      "address": "Jakobstadsvägen 1"
+    },
+    {
+      "name": "Karleborgsgatan 5",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 35"
+      ],
+      "address": "Karleborgsgatan 5"
+    },
+    {
+      "name": "Gustav Adolfsgatan 18",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 38"
+      ],
+      "address": "Gustav Adolfsgatan 18",
+      "geo": {
+        "lat": 63.5226843,
+        "lng": 22.5329936,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 18",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 6",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 10"
+      ],
+      "address": "Gustav Adolfsgatan 6"
+    },
+    {
+      "name": "Sollefteågatan 17",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 22Ö"
+      ],
+      "address": "Sollefteågatan 17",
+      "geo": {
+        "lat": 63.5213696,
+        "lng": 22.5333763,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 17",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 21",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 50"
+      ],
+      "address": "Gustav Adolfsgatan 21",
+      "geo": {
+        "lat": 63.5233147,
+        "lng": 22.533704,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 21",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 43"
+      ],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan 7",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 45",
+        "Tomt 20"
+      ],
+      "address": "Kyrkogatan 7",
+      "geo": {
+        "lat": 63.5237259,
+        "lng": 22.5282357,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan 22",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 56"
+      ],
+      "address": "Karleborgsgatan 22"
+    },
+    {
+      "name": "Seminariegatan 15",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 117"
+      ],
+      "address": "Seminariegatan 15",
+      "geo": {
+        "lat": 63.52532549999999,
+        "lng": 22.5246437,
+        "match": "address",
+        "gazetteerName": "seminariegatan 15",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Norrtull",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan 5",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 64"
+      ],
+      "address": "Lybecksgatan 5",
+      "geo": {
+        "lat": 63.52476779999999,
+        "lng": 22.5305087,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan 26",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 116"
+      ],
+      "address": "Seminariegatan 26"
+    },
+    {
+      "name": "Seminariegatan 20",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 20"
+    },
+    {
+      "name": "Karleborgsgatan 8",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 89"
+      ],
+      "address": "Karleborgsgatan 8"
+    },
+    {
+      "name": "Borgaregatan 6",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 60"
+      ],
+      "address": "Borgaregatan 6",
+      "geo": {
+        "lat": 63.5238429,
+        "lng": 22.5306499,
+        "match": "address",
+        "gazetteerName": "borgaregatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan 14",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 52",
+        "Tomt 36",
+        "Tomt 33Ö"
+      ],
+      "address": "Karleborgsgatan 14"
+    },
+    {
+      "name": "Gustav Adolfsgatan 20",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 49"
+      ],
+      "address": "Gustav Adolfsgatan 20",
+      "geo": {
+        "lat": 63.52321939999999,
+        "lng": 22.5332481,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 20",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 27",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 95"
+      ],
+      "address": "Topeliusesplanaden 27"
+    },
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 15",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 37"
+      ],
+      "address": "Gustav Adolfsgatan 15",
+      "geo": {
+        "lat": 63.5225109,
+        "lng": 22.5333217,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 15",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan 1",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Karleborgsgatan 1",
+      "geo": {
+        "lat": 63.5198641,
+        "lng": 22.5342084,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 16",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 31"
+      ],
+      "address": "Gustav Adolfsgatan 16"
+    },
+    {
+      "name": "Karleborgsgatan 10",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 24"
+      ],
+      "address": "Karleborgsgatan 10"
+    },
+    {
+      "name": "Seminariegatan 24",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 24"
+    },
+    {
+      "name": "Borgaregatan 3",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 46"
+      ],
+      "address": "Borgaregatan 3",
+      "geo": {
+        "lat": 63.52377,
+        "lng": 22.5295899,
+        "match": "address",
+        "gazetteerName": "borgaregatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan 10",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 73"
+      ],
+      "address": "Lybecksgatan 10"
+    },
+    {
+      "name": "Lybecksgatan 1",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 63"
+      ],
+      "address": "Lybecksgatan 1",
+      "geo": {
+        "lat": 63.5249153,
+        "lng": 22.5291085,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan 12",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 38V"
+      ],
+      "address": "Bankgatan 12",
+      "geo": {
+        "lat": 63.52261249999999,
+        "lng": 22.5324447,
+        "match": "address",
+        "gazetteerName": "bankgatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 2",
+      "geo": {
+        "lat": 63.52004090000001,
+        "lng": 22.5316655,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan 4",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 76"
+      ],
+      "address": "Lybecksgatan 4"
+    },
+    {
+      "name": "Gustav Adolfsgatan 23",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 57"
+      ],
+      "address": "Gustav Adolfsgatan 23",
+      "geo": {
+        "lat": 63.52361929999999,
+        "lng": 22.5338431,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 23",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 37",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 98N"
+      ],
+      "address": "Gustav Adolfsgatan 37"
+    },
+    {
+      "name": "Seminariegatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 4",
+      "geo": {
+        "lat": 63.5225792,
+        "lng": 22.5235906,
+        "match": "address",
+        "gazetteerName": "seminariegatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan 16",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 24V"
+      ],
+      "address": "Sollefteågatan 16"
+    },
+    {
+      "name": "Gustav Adolfsgatan 3",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 4"
+      ],
+      "address": "Gustav Adolfsgatan 3",
+      "geo": {
+        "lat": 63.5203152,
+        "lng": 22.5322129,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mathesiusgatan 10",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 34Ö"
+      ],
+      "address": "Mathesiusgatan 10",
+      "geo": {
+        "lat": 63.5221841,
+        "lng": 22.5371269,
+        "match": "address",
+        "gazetteerName": "mathesiusgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nygårdsvägen 8",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Nygårdsvägen 8",
+      "description": "Ungefärlig adress."
+    },
+    {
+      "name": "Karlgrönfors",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan 14",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 34"
+      ],
+      "address": "Mathesiusgatan 14"
+    },
+    {
+      "name": "Sollefteågatan 18",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 24"
+      ],
+      "address": "Sollefteågatan 18",
+      "geo": {
+        "lat": 63.5214478,
+        "lng": 22.5344475,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 18",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 1",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 2"
+      ],
+      "address": "Topeliusesplanaden 1"
+    },
+    {
+      "name": "Juthasvägen 3",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 104"
+      ],
+      "address": "Juthasvägen 3",
+      "geo": {
+        "lat": 63.5220156,
+        "lng": 22.523206,
+        "match": "address",
+        "gazetteerName": "juthasvägen 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan 7",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 99"
+      ],
+      "address": "Grev Tottgatan 7"
+    },
+    {
+      "name": "Karleborgsgatan 17",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 74"
+      ],
+      "address": "Karleborgsgatan 17"
+    },
+    {
+      "name": "Karleborgsgatan 4",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 8"
+      ],
+      "address": "Karleborgsgatan 4"
+    },
+    {
+      "name": "Gustav Adolfsgatan 25",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 68S"
+      ],
+      "address": "Gustav Adolfsgatan 25",
+      "geo": {
+        "lat": 63.5239627,
+        "lng": 22.5339941,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 12",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 21"
+      ],
+      "address": "Gustav Adolfsgatan 12",
+      "geo": {
+        "lat": 63.52142790000001,
+        "lng": 22.5323524,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan 10",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 10"
+      ],
+      "address": "Bangatan 10"
+    },
+    {
+      "name": "Grev Tottgatan 14",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 14"
+    },
+    {
+      "name": "Gustav Adolfsgatan 39",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 39",
+      "geo": {
+        "lat": 63.5263082,
+        "lng": 22.5350963,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 39",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan 11",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 25"
+      ],
+      "address": "Sollefteågatan 11",
+      "geo": {
+        "lat": 63.52160910000001,
+        "lng": 22.5310537,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 36b",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 97N"
+      ],
+      "address": "Gustav Adolfsgatan 36b"
+    },
+    {
+      "name": "Kyrkogatan 10",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 44S"
+      ],
+      "address": "Kyrkogatan 10",
+      "geo": {
+        "lat": 63.5234924,
+        "lng": 22.5277094,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården Bankgatan 4 byter ägare",
+      "date": {
+        "year": 1884,
+        "month": 10,
+        "day": 16,
+        "circa": false,
+        "text": "Österbottniska Posten 16.10.1884"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 4"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 5 byter ägare",
+      "date": {
+        "year": 1885,
+        "month": 1,
+        "day": 2,
+        "circa": false,
+        "text": "Österbottniska Posten 02.01.1885"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 5"
+      ]
+    },
+    {
+      "title": "Gården Kyrkogatan 2 byter ägare",
+      "date": {
+        "year": 1885,
+        "month": 11,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.11.1885"
+      },
+      "people": [],
+      "places": [
+        "Kyrkogatan 2"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 25 byter ägare",
+      "date": {
+        "year": 1885,
+        "month": 12,
+        "day": 10,
+        "circa": false,
+        "text": "Österbottniska Posten 10.12.1885"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 25"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 29 byter ägare",
+      "date": {
+        "year": 1886,
+        "month": 1,
+        "day": 7,
+        "circa": false,
+        "text": "Österbottniska Posten 07.01.1886"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 29"
+      ]
+    },
+    {
+      "title": "Gården Jakobstadsvägen 8 byter ägare",
+      "date": {
+        "year": 1886,
+        "month": 7,
+        "day": 29,
+        "circa": false,
+        "text": "Österbottniska Posten 29.07.1886"
+      },
+      "people": [],
+      "places": [
+        "Jakobstadsvägen 8"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 13 byter ägare",
+      "date": {
+        "year": 1886,
+        "month": 10,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.10.1886"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 11 byter ägare",
+      "date": {
+        "year": 1887,
+        "month": 6,
+        "day": 9,
+        "circa": false,
+        "text": "Österbottniska Posten 09.06.1887"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 11"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 12 byter ägare",
+      "date": {
+        "year": 1889,
+        "month": 9,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.09.1889"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 12"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 1 byter ägare",
+      "date": {
+        "year": 1891,
+        "month": 4,
+        "day": 16,
+        "circa": false,
+        "text": "Österbottniska Posten 16.04.1891"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 1"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 1 byter ägare",
+      "date": {
+        "year": 1891,
+        "month": 11,
+        "day": 5,
+        "circa": false,
+        "text": "Österbottniska Posten 05.11.1891"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 1"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 6 byter ägare",
+      "date": {
+        "year": 1892,
+        "month": 1,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.01.1892"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 6"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 6 byter ägare",
+      "date": {
+        "year": 1892,
+        "month": 4,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.04.1892"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 6"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 13 byter ägare",
+      "date": {
+        "year": 1892,
+        "month": 11,
+        "day": 10,
+        "circa": false,
+        "text": "Österbottniska Posten 10.11.1892"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1893,
+        "month": 1,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.01.1893"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 29 byter ägare",
+      "date": {
+        "year": 1893,
+        "month": 2,
+        "day": 9,
+        "circa": false,
+        "text": "Österbottniska Posten 09.02.1893"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 29"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 13 byter ägare",
+      "date": {
+        "year": 1893,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "text": "Österbottniska Posten 18.05.1893"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 13"
+      ]
+    },
+    {
+      "title": "Gården Bangatan 11 byter ägare",
+      "date": {
+        "year": 1894,
+        "month": 1,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.01.1894"
+      },
+      "people": [],
+      "places": [
+        "Bangatan 11"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 13 byter ägare",
+      "date": {
+        "year": 1896,
+        "month": 2,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.02.1896"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "title": "Gården Bangatan 11 byter ägare",
+      "date": {
+        "year": 1896,
+        "month": 2,
+        "day": 29,
+        "circa": false,
+        "text": "Österbottniska Posten 29.02.1896"
+      },
+      "people": [],
+      "places": [
+        "Bangatan 11"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 13 byter ägare",
+      "date": {
+        "year": 1896,
+        "month": 4,
+        "day": 25,
+        "circa": false,
+        "text": "Österbottniska Posten 25.04.1896"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1896,
+        "month": 11,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.11.1896"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 32 byter ägare",
+      "date": {
+        "year": 1897,
+        "month": 8,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.08.1897"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 32"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 9 byter ägare",
+      "date": {
+        "year": 1897,
+        "month": 9,
+        "day": 18,
+        "circa": false,
+        "text": "Österbottniska Posten 18.09.1897"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 9"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 15 byter ägare",
+      "date": {
+        "year": 1898,
+        "month": 8,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.08.1898"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 15"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 32 byter ägare",
+      "date": {
+        "year": 1898,
+        "month": 9,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.09.1898"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 32"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 8 byter ägare",
+      "date": {
+        "year": 1898,
+        "month": 11,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.11.1898"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 8"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 5 byter ägare",
+      "date": {
+        "year": 1899,
+        "month": 1,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.01.1899"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 5"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 4 byter ägare",
+      "date": {
+        "year": 1900,
+        "month": 4,
+        "day": 12,
+        "circa": false,
+        "text": "Österbottniska Posten 12.04.1900"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 4"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 3 byter ägare",
+      "date": {
+        "year": 1901,
+        "month": 1,
+        "day": 25,
+        "circa": false,
+        "text": "Österbottniska Posten 25.01.1901"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 3"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 26 byter ägare",
+      "date": {
+        "year": 1901,
+        "month": 4,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.04.1901"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 26"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1902,
+        "month": 4,
+        "day": 18,
+        "circa": false,
+        "text": "Österbottniska Posten 18.04.1902"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 2 byter ägare",
+      "date": {
+        "year": 1902,
+        "month": 9,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.09.1902"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 2"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 6 byter ägare",
+      "date": {
+        "year": 1904,
+        "month": 1,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.01.1904"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 6"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 17 byter ägare",
+      "date": {
+        "year": 1904,
+        "month": 10,
+        "day": 28,
+        "circa": false,
+        "text": "Österbottniska Posten 28.10.1904"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 17"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 6 byter ägare",
+      "date": {
+        "year": 1904,
+        "month": 11,
+        "day": 11,
+        "circa": false,
+        "text": "Österbottniska Posten 11.11.1904"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 6"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 27 byter ägare",
+      "date": {
+        "year": 1905,
+        "month": 12,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.12.1905"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 27"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 9 byter ägare",
+      "date": {
+        "year": 1906,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "text": "Österbottniska Posten 07.09.1906"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 9"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 12 byter ägare",
+      "date": {
+        "year": 1906,
+        "month": 9,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.09.1906"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 12"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 15 byter ägare",
+      "date": {
+        "year": 1906,
+        "month": 9,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.09.1906"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 15"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 14 byter ägare",
+      "date": {
+        "year": 1906,
+        "month": 12,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.12.1906"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 14"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 34 byter ägare",
+      "date": {
+        "year": 1907,
+        "month": 2,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.02.1907"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 34"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 14 byter ägare",
+      "date": {
+        "year": 1907,
+        "month": 3,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.03.1907"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 14"
+      ]
+    },
+    {
+      "title": "Gården Jakobstadsvägen 1 byter ägare",
+      "date": {
+        "year": 1907,
+        "month": 4,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.04.1907"
+      },
+      "people": [],
+      "places": [
+        "Jakobstadsvägen 1"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 9 byter ägare",
+      "date": {
+        "year": 1907,
+        "month": 5,
+        "day": 31,
+        "circa": false,
+        "text": "Österbottniska Posten 31.05.1907"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 9"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 5 byter ägare",
+      "date": {
+        "year": 1907,
+        "month": 7,
+        "day": 12,
+        "circa": false,
+        "text": "Österbottniska Posten 12.07.1907"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 5"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 18 byter ägare",
+      "date": {
+        "year": 1908,
+        "month": 10,
+        "day": 2,
+        "circa": false,
+        "text": "Österbottniska Posten 02.10.1908"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 18"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 17 byter ägare",
+      "date": {
+        "year": 1908,
+        "month": 11,
+        "day": 27,
+        "circa": false,
+        "text": "Österbottniska Posten 27.11.1908"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 17"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1909,
+        "month": 1,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.01.1909"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 6 byter ägare",
+      "date": {
+        "year": 1909,
+        "month": 1,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.01.1909"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 6"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1909,
+        "month": 3,
+        "day": 27,
+        "circa": false,
+        "text": "Österbottniska Posten 27.03.1909"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 17 byter ägare",
+      "date": {
+        "year": 1909,
+        "month": 5,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.05.1909"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 17"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 21 byter ägare",
+      "date": {
+        "year": 1909,
+        "month": 5,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.05.1909"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 21"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 2 byter ägare",
+      "date": {
+        "year": 1909,
+        "month": 10,
+        "day": 29,
+        "circa": false,
+        "text": "Österbottniska Posten 29.10.1909"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 2"
+      ]
+    },
+    {
+      "title": "Gården Kyrkogatan 7 byter ägare",
+      "date": {
+        "year": 1910,
+        "month": 2,
+        "day": 11,
+        "circa": false,
+        "text": "Österbottniska Posten 11.02.1910"
+      },
+      "people": [],
+      "places": [
+        "Kyrkogatan 7"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1910,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "Österbottniska Posten 18.03.1910"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 11 byter ägare",
+      "date": {
+        "year": 1910,
+        "month": 4,
+        "day": 29,
+        "circa": false,
+        "text": "Österbottniska Posten 29.04.1910"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 11"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 29 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 2,
+        "day": 3,
+        "circa": false,
+        "text": "Österbottniska Posten 03.02.1911"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 29"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 9 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 2,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.02.1911"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 9"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 17 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 3,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.03.1911"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 17"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 5 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 5,
+        "day": 5,
+        "circa": false,
+        "text": "Österbottniska Posten 05.05.1911"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 5"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 22 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 5,
+        "day": 12,
+        "circa": false,
+        "text": "Österbottniska Posten 12.05.1911"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 22"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 5 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 6,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.06.1911"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 5"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.07.1911"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 15 byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 9,
+        "day": 15,
+        "circa": false,
+        "text": "Österbottniska Posten 15.09.1911"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 15"
+      ]
+    },
+    {
+      "title": "Gård i Norrtull byter ägare",
+      "date": {
+        "year": 1911,
+        "month": 12,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.12.1911"
+      },
+      "people": [],
+      "places": [
+        "Norrtull"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1912,
+        "month": 2,
+        "day": 2,
+        "circa": false,
+        "text": "Österbottniska Posten 02.02.1912"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 2 byter ägare",
+      "date": {
+        "year": 1912,
+        "month": 3,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.03.1912"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 2"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1912,
+        "month": 5,
+        "day": 24,
+        "circa": false,
+        "text": "Österbottniska Posten 24.05.1912"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 5 byter ägare",
+      "date": {
+        "year": 1912,
+        "month": 10,
+        "day": 25,
+        "circa": false,
+        "text": "Österbottniska Posten 25.10.1912"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 5"
+      ]
+    },
+    {
+      "title": "Gården Lybecksgatan 5 byter ägare",
+      "date": {
+        "year": 1913,
+        "month": 1,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.01.1913"
+      },
+      "people": [],
+      "places": [
+        "Lybecksgatan 5"
+      ]
+    },
+    {
+      "title": "Gård i Nygårds hemman byter ägare",
+      "date": {
+        "year": 1913,
+        "month": 1,
+        "day": 31,
+        "circa": false,
+        "text": "Österbottniska Posten 31.01.1913"
+      },
+      "people": [],
+      "places": [
+        "Nygårds hemman"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1913,
+        "month": 3,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.03.1913"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 26 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 2,
+        "day": 6,
+        "circa": false,
+        "text": "Österbottniska Posten 06.02.1914"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 26"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 20 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 2,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.02.1914"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 20"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 8 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 2,
+        "day": 27,
+        "circa": false,
+        "text": "Österbottniska Posten 27.02.1914"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 8"
+      ]
+    },
+    {
+      "title": "Gården Borgaregatan 6 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 3,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.03.1914"
+      },
+      "people": [],
+      "places": [
+        "Borgaregatan 6"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 14 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.03.1914"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 14"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 20 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 11,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.11.1914"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 20"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 12 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "text": "Österbottniska Posten 04.12.1914"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 12"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 6 byter ägare",
+      "date": {
+        "year": 1914,
+        "month": 12,
+        "day": 31,
+        "circa": false,
+        "text": "Österbottniska Posten 31.12.1914"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 6"
+      ]
+    },
+    {
+      "title": "Gård i Nygårds hemman byter ägare",
+      "date": {
+        "year": 1915,
+        "month": 7,
+        "day": 16,
+        "circa": false,
+        "text": "Österbottniska Posten 16.07.1915"
+      },
+      "people": [],
+      "places": [
+        "Nygårds hemman"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 20 byter ägare",
+      "date": {
+        "year": 1915,
+        "month": 8,
+        "day": 27,
+        "circa": false,
+        "text": "Österbottniska Posten 27.08.1915"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 20"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 27 byter ägare",
+      "date": {
+        "year": 1916,
+        "month": 11,
+        "day": 3,
+        "circa": false,
+        "text": "Österbottniska Posten 03.11.1916"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 27"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 29 byter ägare",
+      "date": {
+        "year": 1916,
+        "month": 12,
+        "day": 15,
+        "circa": false,
+        "text": "Österbottniska Posten 15.12.1916"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 29"
+      ]
+    },
+    {
+      "title": "Gården Lybecksgatan 5 byter ägare",
+      "date": {
+        "year": 1916,
+        "month": 12,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.12.1916"
+      },
+      "people": [],
+      "places": [
+        "Lybecksgatan 5"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 5 byter ägare",
+      "date": {
+        "year": 1917,
+        "month": 3,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.03.1917"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 5"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 20 byter ägare",
+      "date": {
+        "year": 1917,
+        "month": 5,
+        "day": 4,
+        "circa": false,
+        "text": "Österbottniska Posten 04.05.1917"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 20"
+      ]
+    },
+    {
+      "title": "Gård i Norrtull byter ägare",
+      "date": {
+        "year": 1917,
+        "month": 6,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.06.1917"
+      },
+      "people": [],
+      "places": [
+        "Norrtull"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 26 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 7,
+        "day": 5,
+        "circa": false,
+        "text": "Österbottniska Posten 05.07.1918"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 26"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 2 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 8,
+        "day": 10,
+        "circa": false,
+        "text": "Österbottniska Posten 10.08.1918"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 2"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 8,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.08.1918"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 41 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 9,
+        "day": 6,
+        "circa": false,
+        "text": "Österbottniska Posten 06.09.1918"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 41"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 15 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.09.1918"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 15"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 29 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 9,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.09.1918"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 29"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 18 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 9,
+        "day": 27,
+        "circa": false,
+        "text": "Österbottniska Posten 27.09.1918"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 18"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 1 byter ägare",
+      "date": {
+        "year": 1918,
+        "month": 10,
+        "day": 4,
+        "circa": false,
+        "text": "Österbottniska Posten 04.10.1918"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 1"
+      ]
+    },
+    {
+      "title": "Gården Jakobstadsvägen 1 byter ägare",
+      "date": {
+        "year": 1919,
+        "month": 2,
+        "day": 28,
+        "circa": false,
+        "text": "Österbottniska Posten 28.02.1919"
+      },
+      "people": [],
+      "places": [
+        "Jakobstadsvägen 1"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 29 byter ägare",
+      "date": {
+        "year": 1919,
+        "month": 3,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.03.1919"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 29"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1919,
+        "month": 9,
+        "day": 5,
+        "circa": false,
+        "text": "Österbottniska Posten 05.09.1919"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gården Kyrkogatan 7 byter ägare",
+      "date": {
+        "year": 1919,
+        "month": 9,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.09.1919"
+      },
+      "people": [],
+      "places": [
+        "Kyrkogatan 7"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 16 byter ägare",
+      "date": {
+        "year": 1919,
+        "month": 11,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.11.1919"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 16"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 15 byter ägare",
+      "date": {
+        "year": 1919,
+        "month": 12,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.12.1919"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 15"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 21 byter ägare",
+      "date": {
+        "year": 1920,
+        "month": 1,
+        "day": 3,
+        "circa": false,
+        "text": "Österbottniska Posten 03.01.1920"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 21"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 10 byter ägare",
+      "date": {
+        "year": 1920,
+        "month": 1,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.01.1920"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 10"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 14 byter ägare",
+      "date": {
+        "year": 1920,
+        "month": 2,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.02.1920"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 14"
+      ]
+    },
+    {
+      "title": "Gården Kyrkogatan 7 byter ägare",
+      "date": {
+        "year": 1920,
+        "month": 5,
+        "day": 15,
+        "circa": false,
+        "text": "Österbottniska Posten 15.05.1920"
+      },
+      "people": [],
+      "places": [
+        "Kyrkogatan 7"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 1 byter ägare",
+      "date": {
+        "year": 1920,
+        "month": 10,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.10.1920"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 1"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1920,
+        "month": 10,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.10.1920"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 14 byter ägare",
+      "date": {
+        "year": 1921,
+        "month": 9,
+        "day": 23,
+        "circa": false,
+        "text": "Österbottniska Posten 23.09.1921"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 14"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 24 byter ägare",
+      "date": {
+        "year": 1922,
+        "month": 9,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.09.1922"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 24"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 13 byter ägare",
+      "date": {
+        "year": 1922,
+        "month": 9,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.09.1922"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "title": "Gården Borgaregatan 3 byter ägare",
+      "date": {
+        "year": 1922,
+        "month": 11,
+        "day": 24,
+        "circa": false,
+        "text": "Österbottniska Posten 24.11.1922"
+      },
+      "people": [],
+      "places": [
+        "Borgaregatan 3"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 34 byter ägare",
+      "date": {
+        "year": 1923,
+        "month": 3,
+        "day": 23,
+        "circa": false,
+        "text": "Österbottniska Posten 23.03.1923"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 34"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 25 byter ägare",
+      "date": {
+        "year": 1923,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "text": "Österbottniska Posten 09.11.1923"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 25"
+      ]
+    },
+    {
+      "title": "Gården Lybecksgatan 10 byter ägare",
+      "date": {
+        "year": 1923,
+        "month": 12,
+        "day": 21,
+        "circa": false,
+        "text": "Österbottniska Posten 21.12.1923"
+      },
+      "people": [],
+      "places": [
+        "Lybecksgatan 10"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 25 byter ägare",
+      "date": {
+        "year": 1924,
+        "month": 2,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.02.1924"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 25"
+      ]
+    },
+    {
+      "title": "Gården Lybecksgatan 1 byter ägare",
+      "date": {
+        "year": 1924,
+        "month": 7,
+        "day": 11,
+        "circa": false,
+        "text": "Österbottniska Posten 11.07.1924"
+      },
+      "people": [],
+      "places": [
+        "Lybecksgatan 1"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 14 byter ägare",
+      "date": {
+        "year": 1925,
+        "month": 2,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.02.1925"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 14"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 13 byter ägare",
+      "date": {
+        "year": 1925,
+        "month": 5,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.05.1925"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "title": "Gården Jakobstadsvägen 8 byter ägare",
+      "date": {
+        "year": 1925,
+        "month": 10,
+        "day": 16,
+        "circa": false,
+        "text": "Österbottniska Posten 16.10.1925"
+      },
+      "people": [],
+      "places": [
+        "Jakobstadsvägen 8"
+      ]
+    },
+    {
+      "title": "Gården Jakobstadsvägen 1 byter ägare",
+      "date": {
+        "year": 1926,
+        "month": 1,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.01.1926"
+      },
+      "people": [],
+      "places": [
+        "Jakobstadsvägen 1"
+      ]
+    },
+    {
+      "title": "Gården Borgaregatan 3 byter ägare",
+      "date": {
+        "year": 1926,
+        "month": 2,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.02.1926"
+      },
+      "people": [],
+      "places": [
+        "Borgaregatan 3"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 15 byter ägare",
+      "date": {
+        "year": 1926,
+        "month": 7,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.07.1926"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 15"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1926,
+        "month": 10,
+        "day": 15,
+        "circa": false,
+        "text": "Österbottniska Posten 15.10.1926"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 12 byter ägare",
+      "date": {
+        "year": 1926,
+        "month": 10,
+        "day": 29,
+        "circa": false,
+        "text": "Österbottniska Posten 29.10.1926"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 12"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 2 byter ägare",
+      "date": {
+        "year": 1926,
+        "month": 11,
+        "day": 5,
+        "circa": false,
+        "text": "Österbottniska Posten 05.11.1926"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 2"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1927,
+        "month": 6,
+        "day": 3,
+        "circa": false,
+        "text": "Österbottniska Posten 03.06.1927"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Lybecksgatan 4 byter ägare",
+      "date": {
+        "year": 1927,
+        "month": 6,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.06.1927"
+      },
+      "people": [],
+      "places": [
+        "Lybecksgatan 4"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 23 byter ägare",
+      "date": {
+        "year": 1927,
+        "month": 10,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.10.1927"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 23"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1928,
+        "month": 3,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.03.1928"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 37 byter ägare",
+      "date": {
+        "year": 1928,
+        "month": 4,
+        "day": 5,
+        "circa": false,
+        "text": "Österbottniska Posten 05.04.1928"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 37"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 13 byter ägare",
+      "date": {
+        "year": 1928,
+        "month": 4,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.04.1928"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 13"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1928,
+        "month": 5,
+        "day": 4,
+        "circa": false,
+        "text": "Österbottniska Posten 04.05.1928"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1928,
+        "month": 5,
+        "day": 11,
+        "circa": false,
+        "text": "Österbottniska Posten 11.05.1928"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 4 byter ägare",
+      "date": {
+        "year": 1929,
+        "month": 5,
+        "day": 3,
+        "circa": false,
+        "text": "Österbottniska Posten 03.05.1929"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 4"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 34 byter ägare",
+      "date": {
+        "year": 1929,
+        "month": 7,
+        "day": 12,
+        "circa": false,
+        "text": "Österbottniska Posten 12.07.1929"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 34"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 16 byter ägare",
+      "date": {
+        "year": 1929,
+        "month": 8,
+        "day": 2,
+        "circa": false,
+        "text": "Österbottniska Posten 02.08.1929"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 16"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 3 byter ägare",
+      "date": {
+        "year": 1930,
+        "month": 1,
+        "day": 11,
+        "circa": false,
+        "text": "Österbottniska Posten 11.01.1930"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 3"
+      ]
+    },
+    {
+      "title": "Gården Mathesiusgatan 10 byter ägare",
+      "date": {
+        "year": 1930,
+        "month": 3,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.03.1930"
+      },
+      "people": [],
+      "places": [
+        "Mathesiusgatan 10"
+      ]
+    },
+    {
+      "title": "Gården Nygårdsvägen 8 byter ägare",
+      "date": {
+        "year": 1930,
+        "month": 10,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.10.1930"
+      },
+      "people": [],
+      "places": [
+        "Ung. Nygårdsvägen 8"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1931,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.05.1931"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gård i Karlgrönfors byter ägare",
+      "date": {
+        "year": 1931,
+        "month": 5,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.05.1931"
+      },
+      "people": [],
+      "places": [
+        "Karlgrönfors"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 14 byter ägare",
+      "date": {
+        "year": 1932,
+        "month": 4,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.04.1932"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 14"
+      ]
+    },
+    {
+      "title": "Gården Mathesiusgatan 14 byter ägare",
+      "date": {
+        "year": 1932,
+        "month": 8,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.08.1932"
+      },
+      "people": [],
+      "places": [
+        "Mathesiusgatan 14"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 18 byter ägare",
+      "date": {
+        "year": 1932,
+        "month": 9,
+        "day": 16,
+        "circa": false,
+        "text": "Österbottniska Posten 16.09.1932"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 18"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 1 byter ägare",
+      "date": {
+        "year": 1933,
+        "month": 6,
+        "day": 16,
+        "circa": false,
+        "text": "Österbottniska Posten 16.06.1933"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 1"
+      ]
+    },
+    {
+      "title": "Gården Juthasvägen 3 byter ägare",
+      "date": {
+        "year": 1934,
+        "month": 5,
+        "day": 4,
+        "circa": false,
+        "text": "Österbottniska Posten 04.05.1934"
+      },
+      "people": [],
+      "places": [
+        "Juthasvägen 3"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 27 byter ägare",
+      "date": {
+        "year": 1934,
+        "month": 5,
+        "day": 12,
+        "circa": false,
+        "text": "Österbottniska Posten 12.05.1934"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 27"
+      ]
+    },
+    {
+      "title": "Gården Grev Tottgatan 7 byter ägare",
+      "date": {
+        "year": 1934,
+        "month": 8,
+        "day": 31,
+        "circa": false,
+        "text": "Österbottniska Posten 31.08.1934"
+      },
+      "people": [],
+      "places": [
+        "Grev Tottgatan 7"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 17 byter ägare",
+      "date": {
+        "year": 1934,
+        "month": 11,
+        "day": 30,
+        "circa": false,
+        "text": "Österbottniska Posten 30.11.1934"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 17"
+      ]
+    },
+    {
+      "title": "Gården Karleborgsgatan 4 byter ägare",
+      "date": {
+        "year": 1937,
+        "month": 5,
+        "day": 28,
+        "circa": false,
+        "text": "Österbottniska Posten 28.05.1937"
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 4"
+      ]
+    },
+    {
+      "title": "Gården Jakobstadsvägen 1 byter ägare",
+      "date": {
+        "year": 1938,
+        "month": 2,
+        "day": 4,
+        "circa": false,
+        "text": "Österbottniska Posten 04.02.1938"
+      },
+      "people": [],
+      "places": [
+        "Jakobstadsvägen 1"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 15 byter ägare",
+      "date": {
+        "year": 1938,
+        "month": 4,
+        "day": 14,
+        "circa": false,
+        "text": "Österbottniska Posten 14.04.1938"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 15"
+      ]
+    },
+    {
+      "title": "Gård i Nygårds hemman byter ägare",
+      "date": {
+        "year": 1938,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "text": "Österbottniska Posten 15.07.1938"
+      },
+      "people": [],
+      "places": [
+        "Nygårds hemman"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 2 byter ägare",
+      "date": {
+        "year": 1938,
+        "month": 10,
+        "day": 28,
+        "circa": false,
+        "text": "Österbottniska Posten 28.10.1938"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 2"
+      ]
+    },
+    {
+      "title": "Gården Seminariegatan 6 byter ägare",
+      "date": {
+        "year": 1939,
+        "month": 2,
+        "day": 17,
+        "circa": false,
+        "text": "Österbottniska Posten 17.02.1939"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan 6"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 25 byter ägare",
+      "date": {
+        "year": 1939,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.05.1939"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 25"
+      ]
+    },
+    {
+      "title": "Gården Bankgatan 12 byter ägare",
+      "date": {
+        "year": 1939,
+        "month": 6,
+        "day": 23,
+        "circa": false,
+        "text": "Österbottniska Posten 23.06.1939"
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 12"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 27 byter ägare",
+      "date": {
+        "year": 1940,
+        "month": 4,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.04.1940"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 27"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 25 byter ägare",
+      "date": {
+        "year": 1940,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "Österbottniska Posten 13.09.1940"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 25"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 12 byter ägare",
+      "date": {
+        "year": 1940,
+        "month": 11,
+        "day": 8,
+        "circa": false,
+        "text": "Österbottniska Posten 08.11.1940"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 12"
+      ]
+    },
+    {
+      "title": "Gården Bangatan 10 byter ägare",
+      "date": {
+        "year": 1940,
+        "month": 11,
+        "day": 22,
+        "circa": false,
+        "text": "Österbottniska Posten 22.11.1940"
+      },
+      "people": [],
+      "places": [
+        "Bangatan 10"
+      ]
+    },
+    {
+      "title": "Gården Grev Tottgatan 14 byter ägare",
+      "date": {
+        "year": 1941,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20.06.1941"
+      },
+      "people": [],
+      "places": [
+        "Grev Tottgatan 14"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 39 byter ägare",
+      "date": {
+        "year": 1941,
+        "month": 7,
+        "day": 18,
+        "circa": false,
+        "text": "Österbottniska Posten 18.07.1941"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 39"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 37 byter ägare",
+      "date": {
+        "year": 1941,
+        "month": 9,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.09.1941"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 37"
+      ]
+    },
+    {
+      "title": "Gård i Nystaden byter ägare",
+      "date": {
+        "year": 1941,
+        "month": 11,
+        "day": 7,
+        "circa": false,
+        "text": "Österbottniska Posten 07.11.1941"
+      },
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 7 byter ägare",
+      "date": {
+        "year": 1942,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 01.05.1942"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 7"
+      ]
+    },
+    {
+      "title": "Gård i Nygårds hemman byter ägare",
+      "date": {
+        "year": 1942,
+        "month": 6,
+        "day": 26,
+        "circa": false,
+        "text": "Österbottniska Posten 26.06.1942"
+      },
+      "people": [],
+      "places": [
+        "Nygårds hemman"
+      ]
+    },
+    {
+      "title": "Gården Topeliusesplanaden 25 byter ägare",
+      "date": {
+        "year": 1943,
+        "month": 12,
+        "day": 3,
+        "circa": false,
+        "text": "Österbottniska Posten 03.12.1943"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 25"
+      ]
+    },
+    {
+      "title": "Gården Sollefteågatan 11 byter ägare",
+      "date": {
+        "year": 1945,
+        "month": 3,
+        "day": 9,
+        "circa": false,
+        "text": "Österbottniska Posten 09.03.1945"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan 11"
+      ]
+    },
+    {
+      "title": "Gården Gustav Adolfsgatan 36b byter ägare",
+      "date": {
+        "year": 1945,
+        "month": 4,
+        "day": 6,
+        "circa": false,
+        "text": "Österbottniska Posten 06.04.1945"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 36b"
+      ]
+    },
+    {
+      "title": "Gården Kyrkogatan 10 byter ägare",
+      "date": {
+        "year": 1946,
+        "month": 7,
+        "day": 19,
+        "circa": false,
+        "text": "Österbottniska Posten 19.07.1946"
+      },
+      "people": [],
+      "places": [
+        "Kyrkogatan 10"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f3b4c2a3f24d70b6bea97b9af2b006e0957c92f7bfe730509e8ce11f8264d3c6",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

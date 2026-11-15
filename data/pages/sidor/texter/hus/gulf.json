@@ -1,0 +1,215 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gulf.htm",
+  "title": "Glassbaren, Gulf och Alko",
+  "summary": "Huset på Topeliusesplanaden 17 vid Borgaregatan som byggdes 1962 på Sven Sundholms tomt med glassbar, Alko och Gulf-servicestation på gården. Alko låg kvar till 2005, och butikscheferna kallades av gymnasisterna Brännvins-Nisse och Lang-Vinetto.",
+  "topics": [
+    "alko",
+    "bensinstation",
+    "glassbar",
+    "handel",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Sven Sundholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde tomten och Gulf-stationen."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Margurite Lindholm",
+      "alternateNames": [
+        "Margurite Wikblom"
+      ],
+      "roles": [],
+      "description": "Frisör."
+    },
+    {
+      "name": "Julia Lindholm",
+      "alternateNames": [],
+      "roles": [
+        "frisör"
+      ]
+    },
+    {
+      "name": "Helena Lillrank",
+      "alternateNames": [
+        "Helena Riissanen"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Annikki Riissanen",
+      "alternateNames": [],
+      "roles": [
+        "expedit"
+      ]
+    },
+    {
+      "name": "Nils Österlund",
+      "alternateNames": [
+        "Brännvins-Nisse"
+      ],
+      "roles": [
+        "butikschef"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Glassbaren, Gulf och Alko",
+      "kind": "building",
+      "alternateNames": [
+        "Bostads Ab Östra esplanadgatan 15",
+        "Sundholms"
+      ],
+      "address": "Topeliusesplanaden 17",
+      "description": "Vid korsningen med Borgaregatan; byggt 1962.",
+      "geo": {
+        "lat": 63.5238156,
+        "lng": 22.5317698,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 17",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Glassbaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Alko",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundholms Gulf-servicestation",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ostro-Center",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Brännan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergfeldtska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Östra Esplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Bostads Ab Östra esplanadgatan 15 bildas och huset börjar byggas",
+      "date": {
+        "year": 1962,
+        "month": 7,
+        "day": 20,
+        "circa": false,
+        "text": "den 20 juli 1962"
+      },
+      "people": [],
+      "places": [
+        "Glassbaren, Gulf och Alko"
+      ]
+    },
+    {
+      "title": "Nykarleby bilservice i verkstaden",
+      "date": {
+        "year": 1978,
+        "circa": true,
+        "text": "från slutet på 1970- talet till 1985"
+      },
+      "people": [],
+      "places": [
+        "Sundholms Gulf-servicestation"
+      ]
+    },
+    {
+      "title": "Alko flyttar till Ostro-Center",
+      "date": {
+        "year": 2005,
+        "circa": false,
+        "text": "hösten 2005"
+      },
+      "people": [],
+      "places": [
+        "Alko",
+        "Ostro-Center"
+      ]
+    },
+    {
+      "title": "Borgaregatan grundrenoveras",
+      "date": {
+        "year": 2016,
+        "circa": false,
+        "text": "sommaren 2016"
+      },
+      "people": [],
+      "places": [
+        "Borgaregatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d5c03a98448c5dc806435bc0dc59d111a6a12ab4d6d700a4cf411e9e81600fcd",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

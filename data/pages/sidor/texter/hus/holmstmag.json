@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/holmstmag.htm",
+  "title": "Holmströms magasin 1972",
+  "summary": "Fotografi från 1972 av det sista av de många magasinen på älvstranden nordväst om kyrkan, uppfört av rådman Sundström och rivet vid dammhöjningen 1984, ungefär där ankaret står i dag.",
+  "topics": [
+    "magasin",
+    "älven",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Holmströms magasin",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nordväst om kyrkan på älvstranden, ungefär där ankaret finns i dag."
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ankaret",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Holmströms magasin rivs vid dammhöjningen",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "people": [],
+      "places": [
+        "Holmströms magasin"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ef8c26fd47cc939675be572e0cb2d9ee71fad8f0182951c368caa955349377c7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

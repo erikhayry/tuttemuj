@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gamlashe.htm",
+  "title": "De gamlas hems gårdsplan 1972",
+  "summary": "Fotografi från 1972 av gårdsplanen vid De gamlas hem på Lybecksgatan 1 med det robusta timrade uthuset, som revs 1973 för en tillbyggnad av åldringshemmet.",
+  "topics": [
+    "åldringshem",
+    "uthus",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Erik Kihlman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Lybecksgatan 1",
+      "geo": {
+        "lat": 63.5249153,
+        "lng": 22.5291085,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Uthuset och lillstugan rivs för en tillbyggnad",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [],
+      "places": [
+        "De gamlas hem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "30d1027b3226adadf15b946f4e92618642e6c42e4c9282b851b1a6efcda04481",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

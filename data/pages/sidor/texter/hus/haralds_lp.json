@@ -1,0 +1,180 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/haralds_lp.html",
+  "title": "Haralds såg och kvarn, en återblick av Lars Pensar",
+  "summary": "Lars Pensar blickar tillbaka på Haralds såg och kvarn vid älven söder om staden, där forsen utnyttjats i hundratals år. Anläggningen brann 1908 och byggdes upp igen av Anders Olin, ett kraftverk gav ström till flera kommuner fram till 1948, och efter en ny brand byggde bönderna ett andelslag.",
+  "topics": [
+    "kvarn",
+    "såg",
+    "kraftverk",
+    "industri"
+  ],
+  "people": [
+    {
+      "name": "Artur Mäenpää",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skötte kraftverket 1928–1948, sedan cykelreparatör."
+    },
+    {
+      "name": "Anders Olin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Forslund",
+      "alternateNames": [
+        "Kvänas Joel"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Östman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Thomas Östman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jukka Pirttinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erkki Erkinheimo",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Vilhelm Nyby",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Haralds såg och kvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Haralden"
+      ],
+      "description": "På östra sidan av älven några km söder om staden; kraftverk 1920-talet–1948."
+    },
+    {
+      "name": "Haraldsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Sågholmen"
+      ]
+    },
+    {
+      "name": "Haralds fors",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan 14",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 14",
+      "geo": {
+        "lat": 63.5224679,
+        "lng": 22.533274,
+        "match": "address",
+        "gazetteerName": "bankgatan 14",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lappovägen",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Haralds såg och kvarn brinner ned",
+      "date": {
+        "year": 1908,
+        "circa": false,
+        "text": "År 1908"
+      },
+      "people": [],
+      "places": [
+        "Haralds såg och kvarn"
+      ]
+    },
+    {
+      "title": "Kraftverket grundas",
+      "date": {
+        "year": 1920,
+        "circa": true,
+        "text": "på 1920-talet"
+      },
+      "people": [
+        "Jukka Pirttinen"
+      ],
+      "places": [
+        "Haralds såg och kvarn"
+      ]
+    },
+    {
+      "title": "Artur Mäenpää tar över driften",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "från 1928"
+      },
+      "people": [
+        "Artur Mäenpää"
+      ],
+      "places": []
+    },
+    {
+      "title": "Erkki Erkinheimo blir företagsledare",
+      "date": {
+        "year": 1939,
+        "circa": false,
+        "text": "År 1939"
+      },
+      "people": [
+        "Erkki Erkinheimo"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kraftverket upphör",
+      "date": {
+        "year": 1948,
+        "circa": false,
+        "text": "1948"
+      },
+      "people": [],
+      "places": [
+        "Haralds såg och kvarn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1e975886d38b0eeab8ed259dd86b86792aec979219860657e09db9754161528c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

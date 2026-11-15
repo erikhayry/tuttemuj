@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ga411910.htm",
+  "title": "Ahlström början av 1910-talet",
+  "summary": "Fotografi från början av 1910-talet av det nybyggda huset på Gustav Adolfsgatan 41 vid Fiskaregränd, med Hulda Ahlström och en vattensån.",
+  "topics": [
+    "hus",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Hulda Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Ågholm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "description": "Vid korsningen med Fiskaregränd; tidigare Gustav Adolfsgatan 29.",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fiskaregränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52688,
+        "lng": 22.5351826,
+        "match": "name",
+        "gazetteerName": "fiskaregränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av huset",
+      "date": {
+        "year": 1910,
+        "circa": true,
+        "text": "början av 1910-talet"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 41"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c8e77a39fd7b2e6a2ef7a4e8e986373f57d11b8619ab93ab7453094ec6559892",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

@@ -1,0 +1,209 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/grastens.htm",
+  "title": "Gråstenskällaren 1972",
+  "summary": "Einar Hedström reder ut myten om gråstenskällaren nedanför kyrkan: den är inte urgammal utan byggdes 1847 av rådmännen Sandström och Collander, och vägen ned till älven var till för vattenhämtning, inte färjan. Under kriget gjordes källaren om till skyddsrum, och 1984 dränktes den vid dammhöjningen.",
+  "topics": [
+    "källare",
+    "älven",
+    "skyddsrum",
+    "kriget"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Gustavsson",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Matts Sandström",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [
+        "Carl Josef Collander"
+      ],
+      "roles": [
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johannes Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Krister Nordström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Munsin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Underjordisk källare nedanför kyrkan vid Cederska backen; byggd 1847, skyddsrum under kriget, dränkt vid dammhöjningen 1984."
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Cederska backen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Klappbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Holmströms magasin",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundströms magasin",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sandström och Collander får bygga en underjordisk källare",
+      "date": {
+        "year": 1847,
+        "circa": false,
+        "text": "År 1847"
+      },
+      "people": [
+        "Matts Sandström",
+        "C. J. Collander"
+      ],
+      "places": [
+        "Gråstenskällaren"
+      ]
+    },
+    {
+      "title": "Körvägen ned till älven anläggs",
+      "date": {
+        "year": 1848,
+        "circa": false,
+        "text": "tidigast år 1848"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gråstenskällaren blir skyddsrum",
+      "date": {
+        "year": 1945,
+        "circa": true,
+        "text": "troligen 1945–46"
+      },
+      "people": [],
+      "places": [
+        "Gråstenskällaren"
+      ]
+    },
+    {
+      "title": "Källaren dränks vid dammhöjningen",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "people": [],
+      "places": [
+        "Gråstenskällaren"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "484b5b8c902f5efdfd4429f7e457836901281d85fdff9be87e5c90307625d68f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

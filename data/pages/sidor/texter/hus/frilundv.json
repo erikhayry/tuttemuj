@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/frilundv.html",
+  "title": "Frilunds 1970",
+  "summary": "Gården på Gustav Adolfsgatan där en brand bröt ut i takfyllningen den 18 mars 1970 – samma dag som Johan Frilunds far Valdemar dog i en hjärtinfarkt. Johan berättar också familjens emigranthistoria, med farfar som dog i minarsjuka efter gruvarbete i Sydafrika och syskon som spreds till Amerika, Kanada och Australien.",
+  "topics": [
+    "brand",
+    "emigration",
+    "släkt",
+    "hus"
+  ],
+  "people": [
+    {
+      "name": "Johan Frilund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Valdemar Frilund",
+      "alternateNames": [],
+      "deathYear": 1970,
+      "roles": [],
+      "description": "Född i Wisconsin; bodde elva år i Australien."
+    },
+    {
+      "name": "Anna-Lovisa Frilund",
+      "alternateNames": [
+        "Anna-Lovisa Slangar"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Henrik Frilund Ryss",
+      "alternateNames": [],
+      "deathYear": 1910,
+      "roles": [],
+      "description": "Dog i minarsjuka efter gruvarbete i Sydafrika."
+    },
+    {
+      "name": "Alma Frilund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lena Frilund",
+      "alternateNames": [
+        "Lena Larsson"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Laaksoharju",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Margite Enlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Frilunds",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 2",
+      "geo": {
+        "lat": 63.52004090000001,
+        "lng": 22.5316655,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ryss hemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "I Monå."
+    },
+    {
+      "name": "Knock",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman i Ytterjeppo."
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Henrik Frilund Ryss dör",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "från 1910"
+      },
+      "people": [
+        "Henrik Frilund Ryss"
+      ],
+      "places": []
+    },
+    {
+      "title": "Anna-Lovisa Frilund köper gården",
+      "date": {
+        "year": 1925,
+        "circa": false,
+        "text": "1925"
+      },
+      "people": [
+        "Anna-Lovisa Frilund"
+      ],
+      "places": [
+        "Frilunds"
+      ]
+    },
+    {
+      "title": "Gårdsbrand och Valdemar Frilunds död",
+      "date": {
+        "year": 1970,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "den 18 mars 1970"
+      },
+      "people": [
+        "Valdemar Frilund"
+      ],
+      "places": [
+        "Frilunds"
+      ]
+    },
+    {
+      "title": "Gården säljs till familjen Laaksoharju",
+      "date": {
+        "year": 1985,
+        "circa": false,
+        "text": "1985"
+      },
+      "people": [],
+      "places": [
+        "Frilunds"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Samma dag i mars 1970 som Valdemar Frilund dör av en hjärtinfarkt på väg till postlådan börjar det brinna i takfyllningen på familjens hus. Bakom huset finns en släktsaga om en farfar som dog efter gruvarbete i Sydafrika och barn som spreds över världen.",
+    "reason": "En dramatisk dag kopplad till en vidsträckt emigrantberättelse.",
+    "characters": [
+      "Valdemar Frilund",
+      "Johan Frilund"
+    ],
+    "places": [
+      "Frilunds"
+    ]
+  },
+  "contentHash": "a03cbc7dff427e7b57e84da44d41f0c90f5acd0b179d64a4ceb83e0c6927083d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

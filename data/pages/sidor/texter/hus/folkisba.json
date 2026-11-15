@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/folkisba.htm",
+  "title": "Folkhögskolans bastu och övriga byggnader 1930-talet",
+  "summary": "Gustav Nyströms målning, senast från 1941, av folkhögskolans tvättstuga och bastu nere vid älvstranden.",
+  "topics": [
+    "folkhögskola",
+    "bastu",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Gustav Nyström",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Johannes Nyströms son."
+    },
+    {
+      "name": "Johannes Nyström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Folkhögskolans bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tvättstuga och bastu vid älvstranden."
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Målningen av folkhögskolans bastu",
+      "date": {
+        "year": 1941,
+        "circa": true,
+        "text": "senast 1941"
+      },
+      "people": [
+        "Gustav Nyström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2e638cfae94a41d1222037d188a75d73a31a8ba566c998a9c1071eceb7cb7d53",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

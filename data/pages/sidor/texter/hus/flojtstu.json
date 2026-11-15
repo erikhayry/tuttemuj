@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/flojtstu.htm",
+  "title": "Flöjtanstugon vid Nålörn 1986",
+  "summary": "Den lilla stugan vid Nålörn där purilpitarna, pojkarna som rättade till propsarna vid flottningen, åt lunch och där ibland tjugo gubbar satt och diskuterade. Stugan flyttades till Andrasjön 1986 och är i dag bastu.",
+  "topics": [
+    "flottning",
+    "arbete",
+    "flyttade hus",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Kristina Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Börje Broman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Arbetade som purilpitar från tolv års ålder."
+    },
+    {
+      "name": "Peter Herler",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna-Maria von Schantz",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Filip von Schantz",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fjalar Zittra",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Flöjtanstugon",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Arbetarstuga vid Nålörn; flyttad till Andrasjön 1986 och nu bastu."
+    },
+    {
+      "name": "Nålörn",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lars Pensar vikarierar som purilpitar",
+      "date": {
+        "year": 1956,
+        "circa": true,
+        "text": "tror året var 1956"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Flöjtanstugon"
+      ]
+    },
+    {
+      "title": "Flöjtanstugon flyttas till Andrasjön",
+      "date": {
+        "year": 1986,
+        "circa": false,
+        "text": "1986"
+      },
+      "people": [],
+      "places": [
+        "Flöjtanstugon",
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "I en liten stuga vid Nålörn trängs upp till tjugo livligt diskuterande gubbar och unga purilpitar med sina medhavda luncher, våta efter dagens slit med propsknippena vid flottningen.",
+    "reason": "En trång, livlig arbetsmiljö med tydliga personer och ett försvunnet yrke.",
+    "characters": [
+      "Börje Broman",
+      "Lars Pensar"
+    ],
+    "places": [
+      "Flöjtanstugon",
+      "Nålörn"
+    ]
+  },
+  "contentHash": "9ea1894d1399a58207cc99331c669838cf12828a258cf3f3311abe0670fc253b",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

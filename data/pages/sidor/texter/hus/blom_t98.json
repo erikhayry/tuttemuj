@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/blom_t98.html",
+  "title": "Gården 98",
+  "summary": "Den förfallande gården på tomt 98 vid Grev Tottgatan, ropad in av en sjöman 1858 och obebodd i flera decennier innan den såldes 2025, med en gammal emaljskylt för GREF TOTTGATAN. Sidan försöker också reda ut var stadens första bibliotek och Fattigsmåbarnsskolan låg.",
+  "topics": [
+    "hus",
+    "ägarlängd",
+    "skola",
+    "bibliotek"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Flén",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Anna Gyllenberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Matts Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Blondina Rönnholm",
+      "alternateNames": [],
+      "roles": [
+        "kontrollassistent"
+      ]
+    },
+    {
+      "name": "Karl Blom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Marta Blom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Caisa Brunberg",
+      "alternateNames": [],
+      "roles": [
+        "skepparänka"
+      ]
+    },
+    {
+      "name": "Maria Brunberg",
+      "alternateNames": [],
+      "roles": [
+        "styrmansänka"
+      ]
+    },
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gården 98",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 98",
+        "Bloms"
+      ],
+      "description": "I sydöstra hörnet av korsningen Gustav Adolfsgatan–Grev Tottgatan."
+    },
+    {
+      "name": "Fattigsmåbarnsskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Backlunds skola"
+      ]
+    },
+    {
+      "name": "Gyllenbergska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Gård nr 101"
+      ]
+    },
+    {
+      "name": "Gård nr 53",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Gref Tottgatan"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Fredrik Flén ropar in tomten",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "den 28 juli 1858"
+      },
+      "people": [
+        "Fredrik Flén"
+      ],
+      "places": [
+        "Gården 98"
+      ]
+    },
+    {
+      "title": "Fattigsmåbarnsskolan börjar undervisa",
+      "date": {
+        "year": 1859,
+        "circa": false,
+        "text": "redan 1859"
+      },
+      "people": [],
+      "places": [
+        "Fattigsmåbarnsskolan"
+      ]
+    },
+    {
+      "title": "Karl och Marta Blom köper gården",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "kring 1970"
+      },
+      "people": [
+        "Karl Blom",
+        "Marta Blom"
+      ],
+      "places": [
+        "Gården 98"
+      ]
+    },
+    {
+      "title": "Gården säljs efter flera decennier obebodd",
+      "date": {
+        "year": 2025,
+        "circa": false,
+        "text": "2025"
+      },
+      "people": [],
+      "places": [
+        "Gården 98"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5e0801401f919b1b7234b1868d06257a504ab14d5dce965d1de6b9a3533e2f45",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

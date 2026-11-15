@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/hansensr.htm",
+  "title": "Hanséns café rivs",
+  "summary": "Fotografier från första hälften av 1980-talet av Hanséns café när det revs för att ge plats åt Jakobstadsnejdens telefon Ab:s central; skylten finns kvar hos Tommy Krokvik.",
+  "topics": [
+    "kafé",
+    "rivna hus",
+    "telefon"
+  ],
+  "people": [
+    {
+      "name": "Adèle Broman",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Tommy Krokvik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 8",
+      "description": "Kafé 1938–1977 med matservering i övre våningen; rivet 1980-talet för telefoncentralen.",
+      "geo": {
+        "lat": 63.5209018,
+        "lng": 22.5320923,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Telefoncentralen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Jakobstadsnejdens telefon Ab:s central."
+    },
+    {
+      "name": "Liljedahls affärshus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hanséns café rivs",
+      "date": {
+        "year": 1981,
+        "circa": true,
+        "text": "mellan våren 1981 och försommaren 1986"
+      },
+      "people": [],
+      "places": [
+        "Hanséns café"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3733b0130dad7af37d983f1f576705198eeb5cb08417d4fbb76480b7a93e3fa7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

@@ -1,0 +1,206 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gusta-ban.htm",
+  "title": "Gustav Adolfsgatan december 1974",
+  "summary": "Fotografi från december 1974 av Gustav Adolfsgatan vid Bangatan, där fotografen Rafael Sjöblom bodde och där Hanséns café med stadens sista Pajazzo-automat och Kappas låg. Det gamla församlingshemmet revs 1971 och stockarna blev ett egnahemshus på Nygård.",
+  "topics": [
+    "gator",
+    "rivna hus",
+    "återanvänt timmer",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Emil Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Drev järnaffär och glasmästeri."
+    },
+    {
+      "name": "Gunnar Mårtens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Veikko Markkula",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Lindvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Rev församlingshemmet."
+    },
+    {
+      "name": "Rolf Renvall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bjarne Sund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Ceder",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 4",
+      "geo": {
+        "lat": 63.5203521,
+        "lng": 22.5318198,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "KAP-PAS",
+      "kind": "building",
+      "alternateNames": [
+        "Kappas"
+      ]
+    },
+    {
+      "name": "Församlingshemmet",
+      "kind": "building",
+      "alternateNames": [
+        "Bönehuset"
+      ]
+    },
+    {
+      "name": "Emil Fors järnaffär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Blomströmska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Engs cementgjuteri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Nygård"
+      ]
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gamla församlingshemmet rivs och nytt byggs",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "1971"
+      },
+      "people": [
+        "Nils Lindvall"
+      ],
+      "places": [
+        "Församlingshemmet"
+      ]
+    },
+    {
+      "title": "Fotografi av Gustav Adolfsgatan",
+      "date": {
+        "year": 1974,
+        "month": 12,
+        "circa": false,
+        "text": "december 1974"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 4"
+      ]
+    },
+    {
+      "title": "Församlingshemmet byggs till och Blomströmska tomten blir parkering",
+      "date": {
+        "year": 2005,
+        "circa": false,
+        "text": "Sommaren 2005"
+      },
+      "people": [],
+      "places": [
+        "Församlingshemmet",
+        "Blomströmska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "af90025570823953c41979ed5df58ae19af9bd368adb378415ae7aa74a1072f3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}

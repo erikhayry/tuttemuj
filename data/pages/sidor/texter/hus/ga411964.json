@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ga411964.htm",
+  "title": "Liljeström 1964",
+  "summary": "Fotografi från 1964 av Gustav Adolfsgatan 41, F. L:s barndomshem, och granngården som byggmästare Paasila uppförde och kommunalrådet Thure Granqvist köpte på konkursauktion.",
+  "topics": [
+    "hus",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Paasila",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Thure Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "kommunalråd"
+      ]
+    },
+    {
+      "name": "Bo Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "description": "Vid korsningen med Fiskaregränd; tidigare Gustav Adolfsgatan 29.",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Paasilas gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Gustav Adolfsgatan 41",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "1964"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 41"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ff6e82d7e44c1474a13845da80ef3bca1d28f21b77ce612a81584e6dbffda4d3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T13:19:35.993Z"
+}
