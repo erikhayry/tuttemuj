@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bircksba.htm",
+  "title": "Bircks bastu 1935",
+  "summary": "Fotografi från 1935 av Bircks röda bastu på Tullstranden nedanför Jakobstadsvägen 6; den stod klar 1930, badhuset öppnade 1931 och den såldes för rivning på 1970-talet för 200 mark.",
+  "topics": [
+    "bastu",
+    "älven",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Vieno Birck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bircks bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Röd bastu med brutet tak på älvstranden nedanför Jakobstadsvägen 6."
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Marjamäki",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Jakobstadsvägen 6",
+      "geo": {
+        "lat": 63.5277916,
+        "lng": 22.5330792,
+        "match": "address",
+        "gazetteerName": "jakobstadsvägen 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Bircks bastu står färdig",
+      "date": {
+        "year": 1930,
+        "month": 1,
+        "circa": false,
+        "text": "januari 1930"
+      },
+      "people": [],
+      "places": [
+        "Bircks bastu"
+      ]
+    },
+    {
+      "title": "Badhuset öppnas",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "våren 1931"
+      },
+      "people": [],
+      "places": [
+        "Bircks bastu"
+      ]
+    },
+    {
+      "title": "Bastun säljs för rivning",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "år 197X"
+      },
+      "people": [],
+      "places": [
+        "Bircks bastu"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "60a79c0c9e1d809deaad6ecdde349889ba865c46ae8be8c8a03ad8fc3e5a4503",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

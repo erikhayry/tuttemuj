@@ -1,0 +1,171 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/arken.htm",
+  "title": "Historien om Arken i Nykarleby skärgård",
+  "summary": "Berättelsen om Arken, en gammal båt som på 1940-talet drogs upp på Aspskär och fick ett akterhus, och sedan flyttades mellan holmarna. Erik Wik gjorde den till en bekväm sommarbostad där han bodde från vår till senhöst.",
+  "topics": [
+    "skärgård",
+    "båtar",
+    "sommarstuga",
+    "berättelse"
+  ],
+  "people": [
+    {
+      "name": "Alfons Eklund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde båten."
+    },
+    {
+      "name": "Gerda Eklund",
+      "alternateNames": [],
+      "roles": [
+        "barnmorska"
+      ]
+    },
+    {
+      "name": "Birger Backlund",
+      "alternateNames": [],
+      "roles": [
+        "tandtekniker"
+      ]
+    },
+    {
+      "name": "Eliel Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Wik",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Pensionerad från Helsingfors spårväg; bodde i Arken på Hummelskär."
+    },
+    {
+      "name": "Lisa Backlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättade historien."
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils-Erik Tonberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Arken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Uppdragen båt med påbyggt akterhus, använd som sommarstuga."
+    },
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Hummelskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Granskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstads båtvarv",
+      "kind": "building",
+      "alternateNames": [
+        "Serlachius båtvarv"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Arken dras upp på Aspskär och får sitt akterhus",
+      "date": {
+        "year": 1946,
+        "circa": true,
+        "text": "Omkring 1946"
+      },
+      "people": [
+        "Birger Backlund"
+      ],
+      "places": [
+        "Arken",
+        "Aspskär"
+      ]
+    },
+    {
+      "title": "Erik Wik flyttar Arken till Hummelskär",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "Omkring 1950"
+      },
+      "people": [
+        "Erik Wik"
+      ],
+      "places": [
+        "Arken",
+        "Hummelskär"
+      ]
+    },
+    {
+      "title": "Arken flyttas tillbaka till Aspskär",
+      "date": {
+        "year": 1994,
+        "circa": false,
+        "text": "vintern 1994"
+      },
+      "people": [],
+      "places": [
+        "Arken",
+        "Aspskär"
+      ]
+    },
+    {
+      "title": "Arken flyttas till Granskär",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "Vintern 2004"
+      },
+      "people": [],
+      "places": [
+        "Arken",
+        "Granskär"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En uttjänt båt dras upp på stranden av Aspskär, får ett hus på aktern och blir Arken. Den vandrar mellan holmarna, och pensionären Erik Wik bygger om den till ett finurligt sommarhem där han bor från vår till långt in på hösten.",
+    "reason": "Ett ovanligt hus med ett eget liv, en uppfinningsrik huvudperson och skärgårdsmiljö ger en charmig berättelse.",
+    "characters": [
+      "Erik Wik",
+      "Birger Backlund"
+    ],
+    "places": [
+      "Arken",
+      "Aspskär",
+      "Hummelskär"
+    ]
+  },
+  "contentHash": "7baeaee1e8b23facbf42a69c03c9f3a746dcfbbd95d33dc19e5d8cb7f71d9294",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bankar2013.html",
+  "title": "Nygamla bänkar oktober 2013",
+  "summary": "Fotografier av de vilobänkar som Olavi Heinonen ställde ut vid kyrkan och Residensgatan i oktober 2013 – bänkar som egentligen gjordes när torget gjordes om på 1990-talet.",
+  "topics": [
+    "bänkar",
+    "stadsmiljö"
+  ],
+  "people": [
+    {
+      "name": "Olavi Heinonen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Residensgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.525761,
+        "lng": 22.5216271,
+        "match": "name",
+        "gazetteerName": "residensgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nya vil- och utsiktsplatser vid kyrkan",
+      "date": {
+        "year": 2013,
+        "month": 10,
+        "day": 16,
+        "circa": false,
+        "text": "Den 16 oktober 2013"
+      },
+      "people": [
+        "Olavi Heinonen"
+      ],
+      "places": [
+        "Kyrkan",
+        "Residensgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d54d611ad3aebbfd5d1822c2e6b2ce3bffc0aebdb6b6e95d0b90f48e7d0a9e2f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

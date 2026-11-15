@@ -1,0 +1,167 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/dacostug.htm",
+  "title": "DACO byggkonsults stockstuga",
+  "summary": "Den lilla stockstugan som 1981–83 var kontor för DACO byggkonsult vid Topeliusesplanaden 13, mellan Gröna huset och Bergfeldts, och som sedan lyftes med mobilkran och kördes över Storbron till Juthbacka camping, där den fortfarande är gäststuga.",
+  "topics": [
+    "flyttade hus",
+    "kontor",
+    "juthbacka"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Harald Dahlfors",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Hade byggfirman."
+    },
+    {
+      "name": "Svante Isomaa",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte stugan."
+    },
+    {
+      "name": "Johan Krokvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lasse Wärnman",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "DACO byggkonsults stockstuga",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Västra Esplanadgatan 13",
+      "description": "Nu gäststuga på Juthbacka camping."
+    },
+    {
+      "name": "Topeliusesplanaden 13",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 13",
+      "geo": {
+        "lat": 63.52311510000001,
+        "lng": 22.5314284,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 13",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gröna huset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergfeldtska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka camping",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelns hus",
+      "kind": "building",
+      "alternateNames": [
+        "Södra tullhuset"
+      ]
+    },
+    {
+      "name": "Bröderna Sjöholms affärs- och bostadshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "R-Kiosken",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stockstugan används som kontor",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "1981–83"
+      },
+      "people": [],
+      "places": [
+        "DACO byggkonsults stockstuga"
+      ]
+    },
+    {
+      "title": "Stugan flyttas över Storbron till Juthbacka",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "somamren 1984"
+      },
+      "people": [],
+      "places": [
+        "DACO byggkonsults stockstuga",
+        "Storbron",
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Lågt vattenstånd i älven när kraftverket byggs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "somamren 1984"
+      },
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    },
+    {
+      "title": "Bostads Ab Topeliusesplanaden 13 byggs",
+      "date": {
+        "year": 2006,
+        "circa": false,
+        "text": "Hösten 2006 och inpå 2007"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 13"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "499e693d7744fc5f5ad2f1b1219da3ab6c4f1ed1ff1f492acd40aed63ae191fb",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

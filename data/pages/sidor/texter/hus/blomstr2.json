@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/blomstr2.htm",
+  "title": "Blomströms i början av 1900-talet",
+  "summary": "Fotografi av Blomströmska gården vid Gustav Adolfsgatan 9, som med hjälp av gatunamnsskyltarna kan dateras till 1913–1917.",
+  "topics": [
+    "hus",
+    "urmakare",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Blomströmska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Blomströms",
+        "Tomt 22"
+      ],
+      "address": "Gustav Adolfsgatan 9",
+      "description": "Vid korsningen med Sollefteågatan; urmakeri 1892–ca 1970, riven i början av 1980-talet.",
+      "geo": {
+        "lat": 63.5213446,
+        "lng": 22.5327225,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 9",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Blomströms",
+      "date": {
+        "year": 1913,
+        "circa": true,
+        "text": "tidigast 1913 och förmodligen senast hösten 1917"
+      },
+      "people": [],
+      "places": [
+        "Blomströmska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cf045cbce3f2dce12b739095376a2ba007fc91a298af7135b5041c104ff1c9d3",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

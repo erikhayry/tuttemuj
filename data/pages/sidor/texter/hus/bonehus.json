@@ -1,0 +1,227 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bonehus.htm",
+  "title": "Bönehuset 1953",
+  "summary": "Torsten Korsströms målning från 1953 av det gamla bönehuset på Gustav Adolfsgatan 5, ursprungligen en gård som timrades 1892 åt apotekare Ekroos. Bönehuset överläts till församlingen 1954, blev Församlingshemmet 1960 och revs 1970.",
+  "topics": [
+    "kyrka",
+    "bönehus",
+    "konst",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Torsten Korsström",
+      "alternateNames": [],
+      "roles": [
+        "seminarielektor",
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Mirjam Tuominen",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Isak Jansson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Klas Henrik Ekroos",
+      "alternateNames": [
+        "Kl. Henr. Ekroos"
+      ],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Verner Öhrling",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ritade en ombyggnad 1913."
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bönehuset",
+      "kind": "building",
+      "alternateNames": [
+        "Församlingshemmet"
+      ],
+      "address": "Gustav Adolfsgatan 5",
+      "description": "Vid korsningen med Bangatan; tomt nr 9.",
+      "geo": {
+        "lat": 63.5206438,
+        "lng": 22.5323761,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "KAP-PAS",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jussila",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.3954227,
+        "lng": 22.5015161,
+        "match": "name",
+        "gazetteerName": "jussila",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården timras i Jussila",
+      "date": {
+        "year": 1892,
+        "circa": false,
+        "text": "vintern 1892"
+      },
+      "people": [
+        "Isak Jansson",
+        "Klas Henrik Ekroos"
+      ],
+      "places": [
+        "Bönehuset"
+      ]
+    },
+    {
+      "title": "Ombyggnad ritas men utförs inte",
+      "date": {
+        "year": 1913,
+        "month": 9,
+        "day": 18,
+        "circa": false,
+        "text": "den 18 september 1913"
+      },
+      "people": [
+        "Verner Öhrling"
+      ],
+      "places": []
+    },
+    {
+      "title": "Korsström målar bönehuset",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "1953"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": [
+        "Bönehuset"
+      ]
+    },
+    {
+      "title": "Bönehusföreningen överlåter gården till församlingen",
+      "date": {
+        "year": 1954,
+        "circa": false,
+        "text": "1954"
+      },
+      "people": [],
+      "places": [
+        "Bönehuset"
+      ]
+    },
+    {
+      "title": "Bönehuset blir Församlingshemmet",
+      "date": {
+        "year": 1960,
+        "month": 1,
+        "day": 1,
+        "circa": false,
+        "text": "den 1 januari 1960"
+      },
+      "people": [],
+      "places": [
+        "Bönehuset"
+      ]
+    },
+    {
+      "title": "Det gamla bönehuset rivs när nya Församlingshemmet byggs",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "1970"
+      },
+      "people": [],
+      "places": [
+        "Bönehuset"
+      ]
+    },
+    {
+      "title": "Församlingshemmet byggs ut",
+      "date": {
+        "year": 1985,
+        "circa": false,
+        "text": "1985 och 2005"
+      },
+      "people": [],
+      "places": [
+        "Bönehuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "67da994f0d30d3fbf3cf5bb0bbed30bb5640720dd125549491a509c8c1c085a7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

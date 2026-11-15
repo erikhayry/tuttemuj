@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/borgar03.htm",
+  "title": "Borgaregatan 2003",
+  "summary": "Fotografi av Borgaregatan från Topeliusesplanaden 2003, när gatan och Kyrkogatan grundförbättrades; författaren Mirjam Tuominen bodde i tredje huset till vänster.",
+  "topics": [
+    "gator",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Mirjam Tuominen",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mirjam Tuominens hem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tredje huset till vänster på Borgaregatan från esplanaden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Borgaregatan och Kyrkogatan grundförbättras",
+      "date": {
+        "year": 2003,
+        "circa": false,
+        "text": "sommaren 2003"
+      },
+      "people": [],
+      "places": [
+        "Borgaregatan",
+        "Kyrkogatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4921c34757b232a91f8e6a9af27426c6140935fbde42c76c4c69b9f3294dfeb8",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

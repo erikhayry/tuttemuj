@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bergsti1.htm",
+  "title": "Bergstigen 1972",
+  "summary": "Fotografi från 1972 av små stugor vid Mellangatan 1 och Bergstigen; huset närmast revs i slutet av 1990-talet.",
+  "topics": [
+    "hus",
+    "stugor",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mellangatan 1",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Mellangatan 1",
+      "geo": {
+        "lat": 63.52373979999999,
+        "lng": 22.5221668,
+        "match": "address",
+        "gazetteerName": "mellangatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bergstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5236124,
+        "lng": 22.52193,
+        "match": "name",
+        "gazetteerName": "bergstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mellangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5256472,
+        "lng": 22.5228374,
+        "match": "name",
+        "gazetteerName": "mellangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi vid Bergstigen",
+      "date": {
+        "year": 1972,
+        "circa": false,
+        "text": "1972"
+      },
+      "people": [],
+      "places": [
+        "Bergstigen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6d602bf7ff7d9e6a90eef4b1251c4f4dd703b624e6761328488c50c9602fb427",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

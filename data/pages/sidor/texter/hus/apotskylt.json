@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/apotskylt.html",
+  "title": "Apotek och polis 2009",
+  "summary": "I januari 2009 flyttade apoteket efter drygt trettio år vid torget till polisens tidigare lokaler i Ämbetshuset. Bilderna visar de gamla skyltarna och interiörerna från det gamla stället.",
+  "topics": [
+    "apotek",
+    "polis",
+    "flytt"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Ove Lillas",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteket vid torget",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Apoteket låg här i drygt trettio år till 2009."
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Esso",
+      "kind": "building",
+      "alternateNames": [
+        "St 1"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Apoteket flyttar till Ämbetshuset",
+      "date": {
+        "year": 2009,
+        "month": 1,
+        "day": 23,
+        "circa": false,
+        "text": "Den 23 och 24 januari"
+      },
+      "people": [],
+      "places": [
+        "Apoteket vid torget",
+        "Ämbetshuset"
+      ]
+    },
+    {
+      "title": "Posten flyttar ut",
+      "date": {
+        "year": 2001,
+        "circa": false,
+        "text": "(2001)"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2b41f8c554ff81934213ee0b9a443fa4e02852f844f7ec023b0193ad4e9e64f1",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

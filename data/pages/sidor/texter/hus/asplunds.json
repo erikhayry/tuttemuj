@@ -1,0 +1,175 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/asplunds.htm",
+  "title": "Asplund 2004",
+  "summary": "Mildrid Asplunds gård vid Idrottsgatan 7 var ursprungligen Grahns villa på Alörn, flyttad hit 1925. Lars Pensar minns hur familjen sökte skydd här vid ett luftalarm under kriget; huset revs omkring 2015.",
+  "topics": [
+    "hus",
+    "flyttade hus",
+    "villor",
+    "krigsåren"
+  ],
+  "people": [
+    {
+      "name": "Mildrid Asplund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustav Grahn",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte Charlottenlund."
+    },
+    {
+      "name": "Lina Sundqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sundell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Östman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Asplunds gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Idrottsgatan 7",
+      "description": "Grahns gamla villa från Alörn.",
+      "geo": {
+        "lat": 63.5207736,
+        "lng": 22.5173151,
+        "match": "address",
+        "gazetteerName": "idrottsgatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grahns villa på Alörn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Charlottenlund",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Idrottsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5205716,
+        "lng": 22.5174409,
+        "match": "name",
+        "gazetteerName": "idrottsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Idrottsgränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5199909,
+        "lng": 22.5146671,
+        "match": "name",
+        "gazetteerName": "idrottsgränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Grahns villa flyttas från Alörn och uppförs vid Idrottsgatan",
+      "date": {
+        "year": 1925,
+        "circa": false,
+        "text": "1925"
+      },
+      "people": [
+        "Lina Sundqvist"
+      ],
+      "places": [
+        "Asplunds gård"
+      ]
+    },
+    {
+      "title": "Grundrenovering inleds",
+      "date": {
+        "year": 2013,
+        "circa": false,
+        "text": "sommaren 2013"
+      },
+      "people": [],
+      "places": [
+        "Asplunds gård"
+      ]
+    },
+    {
+      "title": "Gården och uthuset rivs",
+      "date": {
+        "year": 2015,
+        "month": 9,
+        "day": 26,
+        "circa": false,
+        "text": "den 26 september 2015"
+      },
+      "people": [],
+      "places": [
+        "Asplunds gård"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "När luftalarmet går under kriget skyndar Lars Pensars familj till Sundells villa vid Idrottsgatan – ett hus som en gång stått på Alörn – och väntar där tills faran över blåses.",
+    "reason": "En kort men laddad krigsminnesbild i ett hus med en egen flytthistoria.",
+    "characters": [
+      "Lars Pensar"
+    ],
+    "places": [
+      "Asplunds gård"
+    ]
+  },
+  "contentHash": "50f22db8557ab6b3317e6311572ab0fdfd2440b9919e548def51efcb58baa482",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

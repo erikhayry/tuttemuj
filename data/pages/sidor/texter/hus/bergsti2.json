@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bergsti2.htm",
+  "title": "Bergstigen oktober 1973",
+  "summary": "Fotografi från oktober 1973 av Bergstigen sedd från Seminariegatan; huset närmast till höger revs 2002.",
+  "topics": [
+    "hus",
+    "stugor",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Fjalar Zittra",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bergstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5236124,
+        "lng": 22.52193,
+        "match": "name",
+        "gazetteerName": "bergstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Bergstigen",
+      "date": {
+        "year": 1973,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 1973"
+      },
+      "people": [],
+      "places": [
+        "Bergstigen"
+      ]
+    },
+    {
+      "title": "Hus vid Bergstigen rivs",
+      "date": {
+        "year": 2002,
+        "month": 12,
+        "circa": false,
+        "text": "i december 2002"
+      },
+      "people": [],
+      "places": [
+        "Bergstigen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6ef0411d279de9ba171ece3a4638204d451635ca07cc00b158480fdd8152c3eb",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

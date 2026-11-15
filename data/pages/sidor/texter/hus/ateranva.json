@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ateranva.html",
+  "title": "Återanvända timror",
+  "summary": "På 1960- och 70-talen återanvändes gammalt timmer, hyvlat och stående, i nya egnahemshus; sidan listar exempel på hus och timmer som flyttats till och från olika platser i staden.",
+  "topics": [
+    "byggnadsteknik",
+    "flyttade hus",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elof Broman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Renvall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Marianne Renvall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kurt Turpeinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Toivo Storskrubb",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottgatan 7",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 7"
+    },
+    {
+      "name": "Gustav Adolfsgatan 10",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 10",
+      "geo": {
+        "lat": 63.5211648,
+        "lng": 22.5322224,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Församlingshemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeansborgsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5171249,
+        "lng": 22.5341641,
+        "match": "name",
+        "gazetteerName": "jeansborgsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Järnvägsstationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Granvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51838309999999,
+        "lng": 22.5441992,
+        "match": "name",
+        "gazetteerName": "granvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gammalt timmer återanvänds i nya egnahemshus",
+      "date": {
+        "year": 1960,
+        "circa": true,
+        "text": "På 1960- och 70-talet"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "71ecef23e3de928a5c9d4f69e020fc51a8cdee79f16fb32c252439aba774e1c2",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

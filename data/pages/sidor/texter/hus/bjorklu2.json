@@ -1,0 +1,145 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bjorklu2.htm",
+  "title": "Granholm 1978",
+  "summary": "Gården på Karleborgsgatan 1, tomt 6, som uppfattades som Frälsningsarméns eftersom soldater hyrde där. Ägaren Helga Nyfors gav halva tomten till armens lokal, dagens Marthagården, byggd av byggmästare Björklund.",
+  "topics": [
+    "hus",
+    "frälsningsarmén",
+    "ägarlängd"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Helga Nyfors",
+      "alternateNames": [],
+      "roles": [
+        "småskollärarinna"
+      ]
+    },
+    {
+      "name": "Granholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rakel Granholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ruth Granholm",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "K. A. Björklund",
+      "alternateNames": [
+        "Björklund"
+      ],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Gunnar Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bäck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sista familjen i gården."
+    }
+  ],
+  "places": [
+    {
+      "name": "Granholms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 6"
+      ],
+      "address": "Karleborgsgatan 1",
+      "geo": {
+        "lat": 63.5198641,
+        "lng": 22.5342084,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Marthagården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggd som Frälsningsarméns lokal."
+    },
+    {
+      "name": "Scala",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundsténs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 12",
+      "geo": {
+        "lat": 63.5238519,
+        "lng": 22.5278865,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Frälsningsarméns hus vid Esplanaden",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Granholms gård",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "1978"
+      },
+      "people": [],
+      "places": [
+        "Granholms gård"
+      ]
+    },
+    {
+      "title": "Frälsningsarméns söndagsskola",
+      "date": {
+        "year": 1954,
+        "circa": false,
+        "text": "1954"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "24251477ae49f5d0f2a69ebf3a9dffe6cbd6e8511dc254c0d5b761aeaa71d024",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

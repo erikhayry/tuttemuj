@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/apotkava.htm",
+  "title": "F.d. apoteket – apotekstomten – Bostads Ab Apotekaren",
+  "summary": "Fotoserie som följer apotekstomten från ruinerna efter branden i november 1995 till rivningen av uthuset 2001, kulturlagren i schaktet och bygget av Bostads Ab Apotekaren 2003.",
+  "topics": [
+    "apotek",
+    "brand",
+    "nybygge",
+    "arkeologi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Det gamla apoteket vid Kyrkogatan; brann 1995."
+    },
+    {
+      "name": "Apotekstomten",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Bostads Ab Apotekaren",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggt på apotekstomten 2002–03."
+    },
+    {
+      "name": "Apotekets uthus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Apoteket brinner",
+      "date": {
+        "year": 1995,
+        "month": 11,
+        "circa": false,
+        "text": "i slutet på november 1995"
+      },
+      "people": [],
+      "places": [
+        "Apoteket"
+      ]
+    },
+    {
+      "title": "Ruinerna står kvar",
+      "date": {
+        "year": 1997,
+        "month": 5,
+        "day": 23,
+        "circa": false,
+        "text": "23 maj 1997"
+      },
+      "people": [],
+      "places": [
+        "Apoteket"
+      ]
+    },
+    {
+      "title": "Apotekets uthus rivs",
+      "date": {
+        "year": 2001,
+        "month": 11,
+        "circa": false,
+        "text": "i november 2001"
+      },
+      "people": [],
+      "places": [
+        "Apotekets uthus"
+      ]
+    },
+    {
+      "title": "Bostads Ab Apotekaren byggs",
+      "date": {
+        "year": 2003,
+        "month": 1,
+        "circa": false,
+        "text": "januari 2003"
+      },
+      "people": [],
+      "places": [
+        "Bostads Ab Apotekaren"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "46f5c4bd88c1ffd7a95d7b88ea12ccf011e41d93de19780428d5e9da999ec1cd",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

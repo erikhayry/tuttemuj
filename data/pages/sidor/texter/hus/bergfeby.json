@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/bergfeby.htm",
+  "title": "Byggandet av Bostads Ab Topeliusesplanaden 15",
+  "summary": "Lars Pensars fotodagbok, visad baklänges, över bygget av bostadshuset vid Topeliusesplanaden 15 från första pålen i november 2006 till inflyttningen ett år senare, på tomten där Bergfeldtska gården revs.",
+  "topics": [
+    "nybygge",
+    "bostadshus",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bostads Ab Topeliusesplanaden 15",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 15",
+      "geo": {
+        "lat": 63.52346979999999,
+        "lng": 22.5315985,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 15",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bergfeldtska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Esplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Den första pålen slås",
+      "date": {
+        "year": 2006,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "text": "Den 9 november 2006"
+      },
+      "people": [],
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ]
+    },
+    {
+      "title": "Första inflyttningen",
+      "date": {
+        "year": 2007,
+        "month": 11,
+        "day": 1,
+        "circa": false,
+        "text": "den första november"
+      },
+      "people": [],
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ]
+    },
+    {
+      "title": "Planer på att bebygga tomten",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "Redan 1971"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "296d751049645c2c8b1351a5321bf026b014e7ee1039dc206a23a19860cecfa6",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

@@ -1,0 +1,224 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/barrner_juthv.html",
+  "title": "Barrners gård vid Juthasvägen 17",
+  "summary": "Barrners gård vid Juthasvägen 17, där Johanna Barrner och hennes döttrar hyrde ut rum till seminarister och där Salemförsamlingen grundades. En målning av seminaristen Paul Sandelin visar gården, som sedan haft lärare och en stadsdirektör som ägare.",
+  "topics": [
+    "hus",
+    "seminarister",
+    "frikyrka",
+    "ägarlängd",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Paul Sandelin",
+      "alternateNames": [],
+      "roles": [
+        "seminarist",
+        "konstnär"
+      ],
+      "description": "Dimitterades 1962."
+    },
+    {
+      "name": "Helena Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Barrner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johanna Barrner",
+      "alternateNames": [],
+      "deathYear": 1958,
+      "roles": [],
+      "description": "Salemförsamlingen grundades i hennes hem."
+    },
+    {
+      "name": "Helga Barrner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helmi Barrner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sigrid Barrner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ruth Barrner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rakel Karp",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Börje Nygård",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Gudrun Nygård",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl-Johan Nygård",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Viklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikael Djupsund",
+      "alternateNames": [],
+      "birthYear": 1958,
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Palm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Barrners gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Juthasvägen 17"
+    },
+    {
+      "name": "Holmbergs gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ohls hemman",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra parkhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki skola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sven Barrner tar över Ohls hemman; modern flyttar till stan",
+      "date": {
+        "year": 1933,
+        "circa": false,
+        "text": "År 1933"
+      },
+      "people": [
+        "Sven Barrner",
+        "Johanna Barrner"
+      ],
+      "places": [
+        "Ohls hemman",
+        "Barrners gård"
+      ]
+    },
+    {
+      "title": "Johanna Barrner dör",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "År 1958"
+      },
+      "people": [
+        "Johanna Barrner"
+      ],
+      "places": []
+    },
+    {
+      "title": "Döttrarna säljer huset till Rakel Karp",
+      "date": {
+        "year": 1960,
+        "circa": true,
+        "text": "på 1960-talet"
+      },
+      "people": [
+        "Rakel Karp"
+      ],
+      "places": [
+        "Barrners gård"
+      ]
+    },
+    {
+      "title": "Börje och Gudrun Nygård köper huset",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [
+        "Börje Nygård",
+        "Gudrun Nygård"
+      ],
+      "places": [
+        "Barrners gård"
+      ]
+    },
+    {
+      "title": "Carl-Johan Nygård tar över huset",
+      "date": {
+        "year": 1983,
+        "circa": false,
+        "text": "1983"
+      },
+      "people": [
+        "Carl-Johan Nygård"
+      ],
+      "places": [
+        "Barrners gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2398ac3f06207cf298d41a277a62c9b6d0e959eed6e517d19f44018f718f7bff",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

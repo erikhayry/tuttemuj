@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/apotuthu.htm",
+  "title": "Apotekets uthus 2001",
+  "summary": "Fotografi av apotekets rejäla uthus på Kyrkogatan 9 strax innan det revs i november 2001, med ett av stadens största lärkträd, brunnsöverbyggnaden och en jordkällare på tomten.",
+  "topics": [
+    "apotek",
+    "uthus",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Börje Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apotekets uthus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 9",
+      "geo": {
+        "lat": 63.5241757,
+        "lng": 22.5284505,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 9",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lärkträdet vid apoteket",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Apotekets brunnshus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Apotekets uthus rivs",
+      "date": {
+        "year": 2001,
+        "month": 11,
+        "day": 30,
+        "circa": false,
+        "text": "den 30 november 2001"
+      },
+      "people": [],
+      "places": [
+        "Apotekets uthus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7804fbf0660c765d53f1e149009703c3f7fc4dee0877e40a9fcb673a2c922b5f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

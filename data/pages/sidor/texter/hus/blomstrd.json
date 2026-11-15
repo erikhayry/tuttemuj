@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/blomstrd.htm",
+  "title": "Blomströms skyltur",
+  "summary": "Detalj av Blomströms skyltur, en av stadens sista hantverkarskyltar, och gatunamnsskyltarna på ryska, finska och svenska. Sidan minns också de gyllene kringlorna vid Backmans och Haglunds bagerier.",
+  "topics": [
+    "urmakare",
+    "skyltar",
+    "hantverk"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Blomströmska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Blomströms",
+        "Tomt 22"
+      ],
+      "address": "Gustav Adolfsgatan 9",
+      "description": "Vid korsningen med Sollefteågatan; urmakeri 1892–ca 1970, riven i början av 1980-talet.",
+      "geo": {
+        "lat": 63.5213446,
+        "lng": 22.5327225,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 9",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Backmans bageri",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bangatan 3",
+      "geo": {
+        "lat": 63.52083339999999,
+        "lng": 22.5282273,
+        "match": "address",
+        "gazetteerName": "bangatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Haglunds bageri",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 10",
+      "geo": {
+        "lat": 63.5229453,
+        "lng": 22.5305088,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Granbergs café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Kauppakatu"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6f3d34df005c7547086237912c1e5b99977a8fb559a2702d053400684292197c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}

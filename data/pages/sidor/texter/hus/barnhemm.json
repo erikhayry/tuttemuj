@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/barnhemm.htm",
+  "title": "Barnhemmet",
+  "summary": "Fotografi av det gamla barnhemmet med sin stora veranda, taget mellan 1937 och 1963, och Jorma Metsos minne av hur barnen stod och tittade in i Nesslers tryckeri intill, där tidningen ÖP trycktes.",
+  "topics": [
+    "barnhem",
+    "tryckeri",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sören Ahinko",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Nessler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hade tryckeri."
+    }
+  ],
+  "places": [
+    {
+      "name": "Barnhemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nesslers tryckeri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tryckte Österbottniska Posten; fönster mot Bangatan."
+    },
+    {
+      "name": "Mejeriet",
+      "kind": "building",
+      "alternateNames": [
+        "Gamla mejeriet"
+      ],
+      "description": "Byggt 1937."
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sparvboet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Mejeriet byggs",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "1937"
+      },
+      "people": [],
+      "places": [
+        "Mejeriet"
+      ]
+    },
+    {
+      "title": "Nytt barnhem byggs",
+      "date": {
+        "year": 1963,
+        "circa": false,
+        "text": "1963"
+      },
+      "people": [],
+      "places": [
+        "Barnhemmet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5adb75d5da325ba48354e31e8a7d395f966017c2f85d7ca04502b0b7e6311130",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:59:26.666Z"
+}
