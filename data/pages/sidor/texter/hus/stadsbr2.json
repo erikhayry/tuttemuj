@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/stadsbr2.htm",
+  "title": "Kyrkogatan och stadsbrunnen",
+  "summary": "Bild av Kyrkogatan och stadsbrunnen sedd från Normalskoletomten, tidigast från slutet av 1930-talet, med stockar resta mot brunnen.",
+  "topics": [
+    "brunnar",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. A. Björklund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Kyrkbrunnen"
+      ]
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströmska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundsténs gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av stadsbrunnen",
+      "date": {
+        "year": 1938,
+        "circa": true,
+        "text": "tidigast i slutet på 1930-talet"
+      },
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f762933765e148814707db37f06e42ebba03062aec07a801671467711fabc009",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

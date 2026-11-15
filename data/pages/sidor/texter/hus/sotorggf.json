@@ -1,0 +1,185 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sotorggf.htm",
+  "title": "Södra Torggatan omkring sekelskiftet (färglagd)",
+  "summary": "Färglagd version av bilden av Södra Torggatan kring 1900 med detaljer att lägga märke till: gjutjärnsräcket, skyltarna, ölreklamen och berget som sprängdes bort 1900 och 1937.",
+  "topics": [
+    "gator",
+    "handel",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "konsul"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "C. Hj. Laquist",
+      "alternateNames": [],
+      "roles": [
+        "bryggmästare"
+      ]
+    },
+    {
+      "name": "John Jouper",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "L. L. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rickard Kisor",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Petter August Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nylundska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Carl Nylunds gård",
+        "Gård nr 19"
+      ]
+    },
+    {
+      "name": "Laquists gård",
+      "kind": "building",
+      "alternateNames": [
+        "Hedströms gård",
+        "Joupers gård",
+        "Gård nr 18"
+      ],
+      "description": "Bryggmästare C. Hj. Laquist drev kafé; John Jouper ägde från 1942."
+    },
+    {
+      "name": "R. R. Eklunds hemgård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kisors gård",
+      "kind": "building",
+      "alternateNames": [
+        "Gård nr 17",
+        "Lybecks gård"
+      ],
+      "description": "Stadens första Alko öppnade här 1932."
+    },
+    {
+      "name": "Lövhyddan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [
+        "Södra Torggatan",
+        "S. Torggatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Berget på gatan sprängs bort",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "år 1900"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan"
+      ]
+    },
+    {
+      "title": "Resten av berget sprängs",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "1937"
+      },
+      "people": [],
+      "places": [
+        "Sollefteågatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f1cf6b7898aa464e354ebf5f4f0d9851c1404c2ca32518ec8ad0044c1c51e0cf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

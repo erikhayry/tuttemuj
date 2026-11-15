@@ -1,0 +1,213 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sotorgga.htm",
+  "title": "Södra Torggatan omkring sekelskiftet",
+  "summary": "Fotografi från omkring 1900 av Södra Torggatan, dagens Sollefteågatan, med Carl Nylunds handelsgård, Laquists, R. R. Eklunds hemgård och Kisors gård där stadens första Alko öppnade 1932 – och skyltarna COGNAC ROM & LIKÖR och KRUTHANDEL.",
+  "topics": [
+    "gator",
+    "handel",
+    "alko",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "konsul"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "C. Hj. Laquist",
+      "alternateNames": [],
+      "roles": [
+        "bryggmästare"
+      ]
+    },
+    {
+      "name": "John Jouper",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "L. L. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rickard Kisor",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Petter August Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Johansson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nylundska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Carl Nylunds gård",
+        "Gård nr 19"
+      ]
+    },
+    {
+      "name": "Laquists gård",
+      "kind": "building",
+      "alternateNames": [
+        "Hedströms gård",
+        "Joupers gård",
+        "Gård nr 18"
+      ],
+      "description": "Bryggmästare C. Hj. Laquist drev kafé; John Jouper ägde från 1942."
+    },
+    {
+      "name": "R. R. Eklunds hemgård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kisors gård",
+      "kind": "building",
+      "alternateNames": [
+        "Gård nr 17",
+        "Lybecks gård"
+      ],
+      "description": "Stadens första Alko öppnade här 1932."
+    },
+    {
+      "name": "Lövhyddan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [
+        "Södra Torggatan",
+        "S. Torggatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Södra Torggatan",
+      "date": {
+        "year": 1900,
+        "circa": true,
+        "text": "Foto omkr. sekelskiftet"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "C. Hj. Laquist tar över gård nr 18",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "från 1920"
+      },
+      "people": [
+        "C. Hj. Laquist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadens första Alko öppnar i Kisors gård",
+      "date": {
+        "year": 1932,
+        "circa": false,
+        "text": "år 1932"
+      },
+      "people": [],
+      "places": [
+        "Kisors gård"
+      ]
+    },
+    {
+      "title": "John Jouper köper gård nr 18",
+      "date": {
+        "year": 1942,
+        "circa": false,
+        "text": "från 1942"
+      },
+      "people": [
+        "John Jouper"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bb02e572ecf7f06982d87caa6b32d2aac0dbd21f08a3c1aadcfe489d5487d9d7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

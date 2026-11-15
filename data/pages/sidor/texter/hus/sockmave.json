@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sockmave.htm",
+  "title": "Kronomagasinet vid Värnamo 1926 eller 1927",
+  "summary": "Kronomagasinet vid Värnamo på Juthbackas mark såldes för bortflyttning på auktion i december 1926 och blev stommen i Socklots nya ungdomsförenings hus, invigt 1929, efter att det gamla huset brunnit.",
+  "topics": [
+    "magasin",
+    "flyttade hus",
+    "föreningar"
+  ],
+  "people": [
+    {
+      "name": "Erik Fågel",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joham Romar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "K. A. Björklund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kronomagasinet vid Värnamo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stod ungefär där radhusets garage står i dag, på Juthbacka hemmans mark."
+    },
+    {
+      "name": "Vernamo",
+      "kind": "building",
+      "alternateNames": [
+        "Värnamo"
+      ]
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Munsalavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.514881,
+        "lng": 22.5096763,
+        "match": "name",
+        "gazetteerName": "munsalavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Maria Castréns gård",
+      "kind": "building",
+      "alternateNames": [
+        "Solbacka"
+      ]
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot ungdomshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundsténs gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kronomagasinet säljs för bortflyttning",
+      "date": {
+        "year": 1926,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "text": "lördagen den 4 december"
+      },
+      "people": [],
+      "places": [
+        "Kronomagasinet vid Värnamo"
+      ]
+    },
+    {
+      "title": "Ryska soldater ockuperar Socklot ungdomshus",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "Under åren 1916—1918"
+      },
+      "people": [],
+      "places": [
+        "Soklot ungdomshus"
+      ]
+    },
+    {
+      "title": "Socklots gamla ungdomshus brinner",
+      "date": {
+        "year": 1928,
+        "month": 2,
+        "day": 21,
+        "circa": false,
+        "text": "den 21 februari 1928"
+      },
+      "people": [],
+      "places": [
+        "Soklot ungdomshus"
+      ]
+    },
+    {
+      "title": "Nya föreningshuset i Socklot invigs",
+      "date": {
+        "year": 1929,
+        "month": 10,
+        "day": 13,
+        "circa": false,
+        "text": "den 13 oktober 1929"
+      },
+      "people": [],
+      "places": [
+        "Soklot ungdomshus"
+      ]
+    },
+    {
+      "title": "Munsalavägen byggs",
+      "date": {
+        "year": 1938,
+        "circa": false,
+        "text": "från 1938"
+      },
+      "people": [],
+      "places": [
+        "Munsalavägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "833851a68b1aac2d5ac62568e6315be585e278e475cd6c9ea2f1cb2ddec99557",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

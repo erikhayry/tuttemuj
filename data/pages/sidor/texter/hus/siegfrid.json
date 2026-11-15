@@ -1,0 +1,188 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/siegfrid.htm",
+  "title": "Mauritz Siegfrids stuga den 25 augusti 1981",
+  "summary": "Fotografi från 1981 av Mauritz Siegfrids stuga vid Seminariegatan 3 och Bergstigen, där F. L:s föräldrar hade sin första bostad och orkestern Mazeppa senare hade sitt kämppä.",
+  "topics": [
+    "hus",
+    "kämppä",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Rika Forsbacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nanna Forsbacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mauritz Siegfrids",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Oskar Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henry Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eino Näsi",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jarl Ahlbeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Åsa Ahlbeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Susanna Kallvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet King",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Mauritz Siegfrids stuga",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 3",
+      "description": "Vid korsningen med Bergstigen; senare kämppä för orkestern Mazeppa.",
+      "geo": {
+        "lat": 63.52360239999999,
+        "lng": 22.5238262,
+        "match": "address",
+        "gazetteerName": "seminariegatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kliniken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5236124,
+        "lng": 22.52193,
+        "match": "name",
+        "gazetteerName": "bergstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Knaperbo",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rika och Nanna Forsbacka bor i stugan",
+      "date": {
+        "year": 1927,
+        "circa": false,
+        "text": "År 1927"
+      },
+      "people": [
+        "Rika Forsbacka",
+        "Nanna Forsbacka"
+      ],
+      "places": [
+        "Mauritz Siegfrids stuga"
+      ]
+    },
+    {
+      "title": "Mazeppa upplöses",
+      "date": {
+        "year": 1977,
+        "circa": false,
+        "text": "1977"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografi av stugan",
+      "date": {
+        "year": 1981,
+        "month": 8,
+        "day": 25,
+        "circa": false,
+        "text": "den 25 augusti 1981"
+      },
+      "people": [],
+      "places": [
+        "Mauritz Siegfrids stuga"
+      ]
+    },
+    {
+      "title": "Oskar Kronqvist bygger nytt hus på tomten",
+      "date": {
+        "year": 1981,
+        "circa": true,
+        "text": "i början på 1980-talet"
+      },
+      "people": [
+        "Oskar Kronqvist"
+      ],
+      "places": [
+        "Mauritz Siegfrids stuga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8ea27e95d491b974879112d2c488d0ffbc0fcaaca3367f18d9797ca410ebe3e4",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

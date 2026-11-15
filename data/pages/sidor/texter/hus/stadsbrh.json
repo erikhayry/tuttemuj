@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/stadsbrh.htm",
+  "title": "Stadsbrunnen och kyrkan 1963",
+  "summary": "Rafael Sjöbloms bild av stadsbrunnen och kyrkan, troligen 1963 när kyrkans målade dekorationer rengjordes och elvärme installerades.",
+  "topics": [
+    "brunnar",
+    "kyrka"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Th. Lindquist",
+      "alternateNames": [],
+      "roles": [
+        "konservator"
+      ]
+    },
+    {
+      "name": "Lars Pettersson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkans dekorationer rengörs och elvärme installeras",
+      "date": {
+        "year": 1963,
+        "circa": false,
+        "text": "År 1963"
+      },
+      "people": [
+        "Th. Lindquist"
+      ],
+      "places": [
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bb9ed77996a073edafbe1e6019a43894e8740ae5bab7040a71c3dd1e1a1af607",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

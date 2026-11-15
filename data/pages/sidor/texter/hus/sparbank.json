@@ -1,0 +1,168 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sparbank.htm",
+  "title": "Sparbanken före 1967",
+  "summary": "Huset på Bankgatan 12 där Strandbergs kolonialvaror och Gleisners köttbod låg på 1940-talet, Liljedahl hade affär till 1958, Sparbanken verkade till 1967 och sedan Herlers bokhandel; nuvarande hus är från 1984.",
+  "topics": [
+    "bank",
+    "handel",
+    "bokhandel"
+  ],
+  "people": [
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Strandberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hugo Gleisner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Artur Liljedahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ragnvald Thors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kjell Övergaard",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Bo Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sparbankens hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 12",
+      "description": "Mellan Topeliusesplanaden och Gustav Adolfsgatan; nytt hus 1984.",
+      "geo": {
+        "lat": 63.52261249999999,
+        "lng": 22.5324447,
+        "match": "address",
+        "gazetteerName": "bankgatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Strandbergs kolonialvarubutik",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grönhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Liljedahls affärshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sparbanken grundas",
+      "date": {
+        "year": 1874,
+        "circa": false,
+        "text": "grundad 1874"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sparbanken flyttar in",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958"
+      },
+      "people": [],
+      "places": [
+        "Sparbankens hus"
+      ]
+    },
+    {
+      "title": "Ragnvald Thors tar över Herlers bokhandel",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "1964"
+      },
+      "people": [
+        "Ragnvald Thors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sparbanken flyttar till Grönhuset",
+      "date": {
+        "year": 1967,
+        "circa": false,
+        "text": "1967"
+      },
+      "people": [],
+      "places": [
+        "Grönhuset"
+      ]
+    },
+    {
+      "title": "Nytt hus byggs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "people": [],
+      "places": [
+        "Sparbankens hus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ff7237ca58f624e4a03d91b19442edd763354f5683e6ab51da3283b9259fe17a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

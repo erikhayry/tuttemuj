@@ -1,0 +1,215 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/soderlun.htm",
+  "title": "Söderlunds 1953",
+  "summary": "Familjen Söderlunds gård på Källbackgatan 12 år 1953, med släkthistorien från Ytterjeppo och Socklot och berättelsen om lille Jakob som vid sin mors grav snyftade att man inte fick kasta jord på henne.",
+  "topics": [
+    "hus",
+    "släkt",
+    "källbacken"
+  ],
+  "people": [
+    {
+      "name": "Börje Söderlund",
+      "alternateNames": [
+        "Bölla Söderlund"
+      ],
+      "birthYear": 1932,
+      "roles": []
+    },
+    {
+      "name": "Håkan Söderlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helge Söderlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Gustaf Söderlund",
+      "alternateNames": [],
+      "birthYear": 1883,
+      "deathYear": 1953,
+      "roles": []
+    },
+    {
+      "name": "Maria Alexandra Söderlund",
+      "alternateNames": [
+        "Mari Söderlund",
+        "Maria Jansson"
+      ],
+      "birthYear": 1887,
+      "deathYear": 1977,
+      "roles": []
+    },
+    {
+      "name": "Mauritz Söderlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dorothy Wik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karin Grahn",
+      "alternateNames": [
+        "Karin Söderlund"
+      ],
+      "birthYear": 1918,
+      "roles": []
+    },
+    {
+      "name": "Gunnar Grahn",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dage Byggmästar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jakob Sundman",
+      "alternateNames": [
+        "Jakob Johansson Jansson"
+      ],
+      "birthYear": 1857,
+      "deathYear": 1932,
+      "roles": []
+    },
+    {
+      "name": "Selim Fröjdman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alexander Johan Pettersson Söderlund",
+      "alternateNames": [],
+      "birthYear": 1847,
+      "deathYear": 1891,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Söderlunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 88",
+        "Fröjdmans gård"
+      ],
+      "address": "Källbackgatan 12",
+      "description": "Vid korsningen med Mathesiusgatan; timrad på 1870-talet, riven på 1960-talet.",
+      "geo": {
+        "lat": 63.5251434,
+        "lng": 22.5383668,
+        "match": "address",
+        "gazetteerName": "källbackgatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frillan",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomt 88 säljs första gången",
+      "date": {
+        "year": 1870,
+        "circa": false,
+        "text": "år 1870"
+      },
+      "people": [],
+      "places": [
+        "Söderlunds gård"
+      ]
+    },
+    {
+      "title": "F.d. Fröjdmans gård utbjuds igen",
+      "date": {
+        "year": 1924,
+        "month": 6,
+        "circa": false,
+        "text": "i juni 1924"
+      },
+      "people": [],
+      "places": [
+        "Söderlunds gård"
+      ]
+    },
+    {
+      "title": "Sista bilden av Anders Söderlund",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "1953"
+      },
+      "people": [
+        "Anders Gustaf Söderlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Lille Jakob, fyra år gammal, står vid sin mors grav och snyftar att de inte får kasta jord på hans mamma. Han växer upp hos släkten och blir stamfar till en Källbacksfamilj, som på bilden från 1953 samlas för sista gången kring fadern Anders.",
+    "reason": "Ett starkt sorgeögonblick som inleder en släktberättelse över generationer.",
+    "characters": [
+      "Jakob Sundman",
+      "Anders Gustaf Söderlund"
+    ],
+    "places": [
+      "Söderlunds gård"
+    ]
+  },
+  "contentHash": "b03af7c77dddb97e024532d7bb7add0f42a764a87862c34f98e7adfc705b9cda",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

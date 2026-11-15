@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sjoboda.htm",
+  "title": "Sjöbod på Grundön",
+  "summary": "Sjöboden på Grundön i Vexala, enligt vykortet från 1789 men med årtalet 1772 inristat, som i början av 1900-talet flyttades till Vattungen; Henrik Dumell visade Vexalas sevärdheter 2006.",
+  "topics": [
+    "sjöbod",
+    "skärgård",
+    "flyttade hus"
+  ],
+  "people": [
+    {
+      "name": "Adonika Andersson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl-Johan Fogelström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henrik Dumell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Karin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustav Strandberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sjöbodan på Grundön",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grundön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Vattungen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Årtal inristat på en stock",
+      "date": {
+        "year": 1772,
+        "circa": false,
+        "text": "årtalet 1772 är inristat"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sjöboden byggs enligt vykortet",
+      "date": {
+        "year": 1789,
+        "circa": false,
+        "text": "från 1789"
+      },
+      "people": [],
+      "places": [
+        "Sjöbodan på Grundön"
+      ]
+    },
+    {
+      "title": "Boden flyttas till Vattungen",
+      "date": {
+        "year": 1900,
+        "circa": true,
+        "text": "vid 1900-talets början"
+      },
+      "people": [],
+      "places": [
+        "Sjöbodan på Grundön",
+        "Vattungen"
+      ]
+    },
+    {
+      "title": "Rundtur i Vexala",
+      "date": {
+        "year": 2006,
+        "month": 5,
+        "day": 31,
+        "circa": false,
+        "text": "31 maj 2006"
+      },
+      "people": [
+        "Henrik Dumell"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a8160c62173c5183e41f9863565166b3387b6bb9196a755b273bf69624b9a110",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}

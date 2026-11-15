@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/skatahjals.htm",
+  "title": "Skata-Hjalmars stuga 1990 och 2009",
+  "summary": "Leif Söderlunds bilder av Skata-Hjalmars stuga kring 1990 och 2009, när naturen tagit över, och minnet av Hjalmar som cyklade runt och sålde alltför salt hemkärnat smör.",
+  "topics": [
+    "stugor",
+    "minnen",
+    "förfall"
+  ],
+  "people": [
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Hjalmar Åström",
+      "alternateNames": [
+        "Skata-Hjalmar"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Skata-Hjalmars stuga",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hjalmar Åströms stuga vid älven nära Bådasvängen."
+    },
+    {
+      "name": "Bådasvängen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5408541,
+        "lng": 22.5064349,
+        "match": "name",
+        "gazetteerName": "bådasvängen",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av stugan",
+      "date": {
+        "year": 1990,
+        "circa": true,
+        "text": "1990 eller -91"
+      },
+      "people": [],
+      "places": [
+        "Skata-Hjalmars stuga"
+      ]
+    },
+    {
+      "title": "Naturen har tagit över stugan",
+      "date": {
+        "year": 2009,
+        "month": 5,
+        "circa": false,
+        "text": "maj 2009"
+      },
+      "people": [],
+      "places": [
+        "Skata-Hjalmars stuga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6654e2c4eef07647aaf422768ed87e3f98655c4430c56d84ed8dc01c195eba0d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:46:59.145Z"
+}
