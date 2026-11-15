@@ -57,6 +57,17 @@
       ]
     }
   ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den 13 september 1808 leder generalmajor Georg Carl von Döbeln slaget vid Juthas, där den ryska armén slås tillbaka – ett slag som Runeberg sedan gjorde odödligt.",
+    "reason": "Ett avgörande slag med en känd huvudperson, även om sidan själv bara ger grunddragen.",
+    "characters": [
+      "Georg Carl von Döbeln"
+    ],
+    "places": [
+      "Döbelnmonumentet vid Juthas"
+    ]
+  },
   "contentHash": "7937d0b1a4fc3d990f82a19a2dc57e85d772796c6d4b9bac74a04de74d29b413",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

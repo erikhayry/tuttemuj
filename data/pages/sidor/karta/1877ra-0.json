@@ -110,6 +110,18 @@
       "places": []
     }
   ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "År 1877 får bonden Johan Lithén lov av guvernören att sälja brännvin i Nykarleby, och stadsfiskalen E. O. Söderström överklagar. Som bevis ritas en karta över alla ställen i staden där det redan säljs brännvin och öl.",
+    "reason": "En konflikt mellan en brännvinsförsäljare och ordningsmakten, med stadens krogar som kuliss.",
+    "characters": [
+      "Johan Lithén",
+      "E. O. Söderström"
+    ],
+    "places": [
+      "Nykarleby"
+    ]
+  },
   "contentHash": "6fe71bd322d8e75c8cb68cd4df493080fce272aeb53cfda5eb9700ec6694404c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

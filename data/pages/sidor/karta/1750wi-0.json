@@ -242,6 +242,21 @@
       "places": []
     }
   ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Lantmätaren Gullich Wislander skickas 1750 till Österbotten för att mäta upp gränser och städer. Plågad av svullna ben och frossa reser han mellan socknarna, måste till Vasa för en direktörs begravning och tar sig sedan an Nykarleby stad, ett arbete som drar ut till våren efter.",
+    "reason": "Dagboken ger en tydlig huvudperson, en resa med motgångar och konkreta datum och platser att bygga scener kring.",
+    "characters": [
+      "Gullich Wislander",
+      "Olof Ehrnström",
+      "Jakob Faggot"
+    ],
+    "places": [
+      "Torget",
+      "Kyrkan",
+      "Stadsöhren"
+    ]
+  },
   "contentHash": "ee8bdbe435c5e4b68c3e2a451f291bcf6a6e88f26eb36154958baa68da0ad32c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -118,6 +118,23 @@
     }
   ],
   "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Poeten Gösta Ågren går vägen från Nykarleby till Lippjärv, där bybarnen frusit och drömt, och ger varje backe, mosse och berg dess namn – några av dem namngivna av honom själv och Anna-Lisa en kväll när månen sken över raksträckan.",
+    "reason": "En vandring längs en verklig väg ger en naturlig följd av rutor, med minnen som en vild röd räv och namn som föds på plats.",
+    "characters": [
+      "Gösta Ågren",
+      "Anna-Lisa"
+    ],
+    "places": [
+      "Vägen Nykarleby–Lippjärv",
+      "Månräton",
+      "Lillbärg",
+      "Storbärg",
+      "Bykrötjin",
+      "Lippjärv"
+    ]
+  },
   "contentHash": "0b87ef674ed6050be4654c5be141cb2c5cb395b6dc2044788a8858b4ce76ff40",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

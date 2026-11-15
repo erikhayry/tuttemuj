@@ -61,6 +61,16 @@
       ]
     }
   ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "I Brostugan, byggd vid den nya bron 1817, bodde brovaktaren som skulle ta upp broavgift av alla som inte bodde i staden innan de fick gå över.",
+    "reason": "En vardaglig men konfliktfylld roll vid stadens port – brovaktaren möter alla som kommer till staden.",
+    "characters": [],
+    "places": [
+      "Brostugan",
+      "Bron över älven"
+    ]
+  },
   "contentHash": "7f06f81593dff3e9f71b97442813fb3d0437771b240a70c04f89a3d938fc1acc",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",
