@@ -1,0 +1,178 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/wedin.htm",
+  "title": "Selma Wedins gård i början på 1970-talet",
+  "summary": "Den ljusgröna gården på tomt 94 vid Gustav Adolfsgatan 34, ägd av bland andra sjökapten Josef Grönqvist, som revs i mitten av 1970-talet.",
+  "topics": [
+    "hus",
+    "rivna hus",
+    "källbacken"
+  ],
+  "people": [
+    {
+      "name": "P. J. Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Josef Grönqvist",
+      "alternateNames": [],
+      "birthYear": 1846,
+      "deathYear": 1892,
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Agda Sovijärvi",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "Charlotta Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "E. Hägglöf",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Korpela",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jaska Kujanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kurt Udd",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Selma Wedin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Selma Wedins gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt nr 94"
+      ],
+      "address": "Gustav Adolfsgatan 34",
+      "description": "Vid korsningen med Källbackgatan; riven i mitten av 1970-talet.",
+      "geo": {
+        "lat": 63.52561489999999,
+        "lng": 22.5343467,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 34",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Udds gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Falck ropar in tomten",
+      "date": {
+        "year": 1861,
+        "month": 8,
+        "day": 15,
+        "circa": false,
+        "text": "den 15 augusti 1861"
+      },
+      "people": [
+        "P. J. Falck"
+      ],
+      "places": [
+        "Selma Wedins gård"
+      ]
+    },
+    {
+      "title": "Arvingarna säljer på auktion",
+      "date": {
+        "year": 1901,
+        "circa": false,
+        "text": "1901"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Hägglöf köper västra gården",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "1923"
+      },
+      "people": [
+        "E. Hägglöf"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården rivs",
+      "date": {
+        "year": 1975,
+        "circa": true,
+        "text": "i mitten på sjuttiotalet"
+      },
+      "people": [],
+      "places": [
+        "Selma Wedins gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "779e07e988d3ed611185d271c99aca0d17798ec4bf45330bb20dec0fd9017114",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

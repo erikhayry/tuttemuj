@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/viksjr.htm",
+  "title": "Meri Virtanen vid Wiks hotell",
+  "summary": "Bild av Meri Virtanen, född Liljedahl, utanför faderns Arthur Liljedahls affär i Wiks hotell vid Bankgatan 10.",
+  "topics": [
+    "handel",
+    "hotell"
+  ],
+  "people": [
+    {
+      "name": "Meri Virtanen",
+      "alternateNames": [
+        "Meri Liljedahl"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Artur Liljedahl",
+      "alternateNames": [
+        "Arthur Liljedahl"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Rainer Virtanen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 10",
+      "geo": {
+        "lat": 63.52272370000001,
+        "lng": 22.5318378,
+        "match": "address",
+        "gazetteerName": "bankgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Liljedahls affär",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "65f3d3940722a78e8188936bafdcd309f1f74855d2b49419e4f4a79695f7e15d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

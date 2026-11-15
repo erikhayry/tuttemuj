@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/vonessen.htm",
+  "title": "von Essens gård våren 1980",
+  "summary": "Lars Pensars bild från 1980 av Meta von Essens gård vid Juthasvägen 7, som revs 1981.",
+  "topics": [
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Meta von Essen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hoffman",
+      "alternateNames": [],
+      "roles": [
+        "veterinär"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sanna Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabeth Liljeström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "von Essens gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Juthasvägen 7",
+      "description": "Mellan Badhusstigen och gamla Andrasjövägen.",
+      "geo": {
+        "lat": 63.52139949999999,
+        "lng": 22.5224406,
+        "match": "address",
+        "gazetteerName": "juthasvägen 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bror Åströms gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi",
+      "date": {
+        "year": 1980,
+        "circa": false,
+        "text": "våren 1980"
+      },
+      "people": [],
+      "places": [
+        "von Essens gård"
+      ]
+    },
+    {
+      "title": "Gården rivs",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "Revs 1981"
+      },
+      "people": [],
+      "places": [
+        "von Essens gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9c6a5f078d0c1d3d5ec002029668da4506b9ad46d73d5989d68bc45296269b1c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

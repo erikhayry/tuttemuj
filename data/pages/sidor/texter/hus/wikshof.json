@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/wikshof.htm",
+  "title": "Wiks hotell 1937",
+  "summary": "Vykort av Wiks hotell 1937 med Lars Pensars minnen av bilar som fastnade i diket vid Bankgatan–Esplanaden och poliser som jagade cyklister i parken.",
+  "topics": [
+    "hotell",
+    "minnen",
+    "trafik"
+  ],
+  "people": [
+    {
+      "name": "Börje Wilkman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "William Pihlainen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 10",
+      "geo": {
+        "lat": 63.52272370000001,
+        "lng": 22.5318378,
+        "match": "address",
+        "gazetteerName": "bankgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Esplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vykort av Wiks hotell",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "1937"
+      },
+      "people": [],
+      "places": [
+        "Wiks hotell"
+      ]
+    },
+    {
+      "title": "Handelslaget renoverar fönstren",
+      "date": {
+        "year": 1948,
+        "month": 12,
+        "circa": false,
+        "text": "julen 1948"
+      },
+      "people": [],
+      "places": [
+        "Wiks hotell"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c09d158866157518350d78db4585f4a9315b2bb40706a0e6e1f26046a74744fb",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

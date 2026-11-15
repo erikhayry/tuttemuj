@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/00/folkis.htm",
+  "title": "Meny: Kristliga folkhögskolan",
+  "summary": "Meny över vykort med motiv från Kristliga folkhögskolan, från 1905 till 2025.",
+  "topics": [
+    "vykort",
+    "meny"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b9da2bf7d5dfeb202e4a3d52411cf66d94603154ba51cee92cd6cfdad82002ec",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

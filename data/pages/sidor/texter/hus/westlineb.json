@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/westlineb.htm",
+  "title": "Hedströms gård",
+  "summary": "Gården på tomt 60 vid Borgaregatan 6, ägd av Westlins, Björklund och Hedströms, som revs 1967–68 för ett trevånings bostadshus.",
+  "topics": [
+    "hus",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Ida Westlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Abraham Westlin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Alexander Björklund",
+      "alternateNames": [],
+      "roles": [
+        "normalskollärare"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "direktor"
+      ]
+    },
+    {
+      "name": "P. H. Hedström",
+      "alternateNames": [],
+      "deathYear": 1960,
+      "roles": [
+        "stationsinspektör"
+      ]
+    },
+    {
+      "name": "Emil Nylund",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Ida Männistö",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Arne Jungerstam",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Gullan Bergvall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lilian Lund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hedströms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Westlins gård",
+        "Tomt nr 60"
+      ],
+      "address": "Borgaregatan 6",
+      "description": "Vid korsningen med Topeliusesplanaden; riven 1967.",
+      "geo": {
+        "lat": 63.5238429,
+        "lng": 22.5306499,
+        "match": "address",
+        "gazetteerName": "borgaregatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ida Westlin äger gården",
+      "date": {
+        "year": 1879,
+        "circa": false,
+        "text": "från 1879"
+      },
+      "people": [
+        "Ida Westlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Björklund köper gården",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "1907"
+      },
+      "people": [
+        "Alexander Björklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gustaf Hedström köper gården",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "1914"
+      },
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Arne Jungerstam köper och river husen",
+      "date": {
+        "year": 1966,
+        "circa": false,
+        "text": "1966"
+      },
+      "people": [
+        "Arne Jungerstam"
+      ],
+      "places": [
+        "Hedströms gård"
+      ]
+    },
+    {
+      "title": "Nytt bostadshus byggs",
+      "date": {
+        "year": 1967,
+        "circa": false,
+        "text": "1967—68"
+      },
+      "people": [],
+      "places": [
+        "Hedströms gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a9e54e04ffdff64dc51340361001f84ed3c2f7fa31addf6c442cdef6d327868d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

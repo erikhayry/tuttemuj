@@ -1,0 +1,131 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/wikskios.htm",
+  "title": "Wiks hörn på 1950-talet",
+  "summary": "Hörnet Topeliusesplanaden–Bankgatan på 1950-talet med Sundells glasskärra i esplanaden och Schaumans kiosk vid gaveln, där NIK:s fotbollsspelare drack lemonad efter matcherna.",
+  "topics": [
+    "kiosker",
+    "glass",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Greta Sundholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hill",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästarfru"
+      ]
+    },
+    {
+      "name": "Elise Lahtinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. J. Ahlskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carita Schauman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sören Ahinko",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sundells glasskärra",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Schaumans kiosk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tomtebo",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Esplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kiosken nyårsafton",
+      "date": {
+        "year": 1954,
+        "month": 12,
+        "day": 31,
+        "circa": false,
+        "text": "nyårsafton 1954"
+      },
+      "people": [],
+      "places": [
+        "Schaumans kiosk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e8299abe2ec113d8592788bc09a52bbe0f5526385e6857f3c93fec4b5ed41439",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

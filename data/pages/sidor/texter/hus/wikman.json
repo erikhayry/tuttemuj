@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/wikman.htm",
+  "title": "Wikmans 1975",
+  "summary": "Wikmans gård på tomt 69 vid Karleborgsgatan 26, inropad 1859 av skräddarmästare Erik Forsman och riven 1975.",
+  "topics": [
+    "hus",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Erik Forsman",
+      "alternateNames": [],
+      "roles": [
+        "skräddarmästare"
+      ]
+    },
+    {
+      "name": "Marita Wikman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Luoma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Wikmans gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt nr 69"
+      ],
+      "address": "Karleborgsgatan 26",
+      "geo": {
+        "lat": 63.5239329,
+        "lng": 22.5358161,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 26",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Granviks gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jepo-Joels gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Forsman ropar in tomten",
+      "date": {
+        "year": 1859,
+        "month": 7,
+        "day": 7,
+        "circa": false,
+        "text": "den 7 juli 1859"
+      },
+      "people": [
+        "Erik Forsman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården rivs",
+      "date": {
+        "year": 1975,
+        "circa": false,
+        "text": "1975"
+      },
+      "people": [],
+      "places": [
+        "Wikmans gård"
+      ]
+    },
+    {
+      "title": "Gatan breddas och berget försvinner",
+      "date": {
+        "year": 1981,
+        "circa": true,
+        "text": "i början av 1980-talet"
+      },
+      "people": [],
+      "places": [
+        "Wikmans gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dc96ea4b8ccfad8a62b5c34df14f1e9da9a61f833a62932ce4611662d1595631",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

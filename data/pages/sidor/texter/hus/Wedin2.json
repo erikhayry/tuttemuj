@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/Wedin2.htm",
+  "title": "Selma Wedin i början på 1970-talet",
+  "summary": "Håkan Wenelius bild av Selma Wedins gård vid Gustav Adolfsgatan 34 efter att Källbackgatan blivit grönområde, strax före rivningen.",
+  "topics": [
+    "hus",
+    "källbacken"
+  ],
+  "people": [
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Gunnar Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aina Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Paul Sandelin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Selma Wedins gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt nr 94"
+      ],
+      "address": "Gustav Adolfsgatan 34",
+      "description": "Vid korsningen med Källbackgatan; riven i mitten av 1970-talet.",
+      "geo": {
+        "lat": 63.52561489999999,
+        "lng": 22.5343467,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 34",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3e9306cdcc3f77c55dbd77998fa310d03b4ed4856c96d96556bb99fa1fb31420",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}

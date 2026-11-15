@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/yjeppohb.htm",
+  "title": "Ytterjeppo hängbro 1928",
+  "summary": "Ytterjeppoborna samlades 1927 för att diskutera en bro över älven, där barnen fram till dess fått åka båt till skolan, och redan den 1 april 1928 invigdes hängbron med pantomim, kaffe och ett fyrverkeri som många aldrig sett förut.",
+  "topics": [
+    "broar",
+    "byaliv",
+    "fest"
+  ],
+  "people": [
+    {
+      "name": "Holstius",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Sarelin",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "J. Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "August Eklund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stefan Eklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jakob Kronlöv",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Ytterjeppo hängbro",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Gångbro över älven i Ytterjeppo, byggd av August Eklund."
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ytterjeppo ungdomshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas hängbro",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Möte om bro över älven",
+      "date": {
+        "year": 1927,
+        "month": 1,
+        "day": 16,
+        "circa": false,
+        "text": "Söndagen den 16 januari"
+      },
+      "people": [],
+      "places": [
+        "Ytterjeppo ungdomshus"
+      ]
+    },
+    {
+      "title": "Hängbron invigs med fest och fyrverkeri",
+      "date": {
+        "year": 1928,
+        "month": 4,
+        "day": 1,
+        "circa": false,
+        "text": "den 1 april"
+      },
+      "people": [
+        "Holstius",
+        "J. Backman",
+        "August Eklund"
+      ],
+      "places": [
+        "Ytterjeppo hängbro",
+        "Ytterjeppo ungdomshus"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Barnen i Ytterjeppo har länge fått ros över älven till skolan, ibland med livet som insats. Byborna går samman och bygger en hängbro på ett år, och på invigningskvällen lyser raketer, tjärtunnor och en stor brasa över bron medan barn och gamla ser fyrverkeri för första gången.",
+    "reason": "En hel bys kamp och fest med en tydlig vändpunkt och ett spektakulärt slut.",
+    "characters": [
+      "August Eklund",
+      "Holstius"
+    ],
+    "places": [
+      "Ytterjeppo hängbro"
+    ]
+  },
+  "contentHash": "906bfeded7eed80c953bbd89e8937b33f96de12988fc5d26ff56e368c392e687",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:56:10.404Z"
+}
