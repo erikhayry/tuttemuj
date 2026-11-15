@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/tb-kioske.htm",
+  "title": "TB-kiosken 1956",
+  "summary": "Lars Pensars bild från midsommaren 1956 av TB-kiosken vid Sollefteågatan, där servicestationen gömde sig i ett hus med gaveln mot gatan.",
+  "topics": [
+    "kiosker",
+    "bensinstation"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "TB-kiosken",
+      "kind": "building",
+      "alternateNames": [
+        "TB-macken"
+      ],
+      "description": "Elmer Holms mack och kiosk i Granbergs uthus vid Sollefteågatan."
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av TB-kiosken",
+      "date": {
+        "year": 1956,
+        "month": 6,
+        "circa": false,
+        "text": "midsommaren 1956"
+      },
+      "people": [],
+      "places": [
+        "TB-kiosken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3e8a6d65235c15a9df763aa0b6967f719b1d138cdfb0eeea579ac526768a1893",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/vernamo.htm",
+  "title": "Vernamo 1972",
+  "summary": "Lars Pensars bilder från 1972 av Vernamo, med stadens längsta veranda och gavelfönstret där Lars O. Schalin såg kyrkan brinna 1929.",
+  "topics": [
+    "prästgårdar",
+    "kyrkbranden"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars O. Schalin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Vernamo",
+      "kind": "building",
+      "alternateNames": [
+        "Värnamo",
+        "Värnamo kaplansboställe"
+      ],
+      "description": "Kaplansboställe vid Juthasvägen med stadens längsta veranda."
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Joupers fabrik",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan brinner",
+      "date": {
+        "year": 1929,
+        "circa": false,
+        "text": "år 1929"
+      },
+      "people": [
+        "Lars O. Schalin"
+      ],
+      "places": [
+        "Kyrkan"
+      ]
+    },
+    {
+      "title": "Fotografier av Vernamo",
+      "date": {
+        "year": 1972,
+        "circa": false,
+        "text": "1972"
+      },
+      "people": [],
+      "places": [
+        "Vernamo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0cef9a5a418e6f3765721a06b6e30b714bfbfe22ad57fb2f7f85555eef45bae0",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

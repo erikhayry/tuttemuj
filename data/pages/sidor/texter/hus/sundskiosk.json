@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sundskiosk.html",
+  "title": "Sunds kiosk",
+  "summary": "Alfred Sund byggde en sommarkiosk vid landsvägen där döttrarna sålde lemonad och bullar till Kuddnäsbesökare; bilden från 1937–52 visar också köttkontrollen. En bild från 1936 avslöjar möbeltapetserare Betty Eklunds skylt.",
+  "topics": [
+    "kiosker",
+    "handel"
+  ],
+  "people": [
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Göta Lundqvist",
+      "alternateNames": [
+        "Göta Sund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Gerda Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Betty Eklund",
+      "alternateNames": [
+        "Katarina Elisabet Eklund"
+      ],
+      "roles": [
+        "möbelhandlare"
+      ]
+    },
+    {
+      "name": "Alfons Eklund",
+      "alternateNames": [],
+      "deathYear": 1939,
+      "roles": [
+        "möbelhandlare"
+      ]
+    },
+    {
+      "name": "Karl-Gustav Hedberg",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Jan-Erik Solvin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gerda Eklund",
+      "alternateNames": [
+        "Gerda Seger"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sunds kiosk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Köttkontrollen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Köttkontrollen byggs",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "1937"
+      },
+      "people": [],
+      "places": [
+        "Köttkontrollen"
+      ]
+    },
+    {
+      "title": "Kuddnäs blir museum",
+      "date": {
+        "year": 1952,
+        "circa": false,
+        "text": "1952"
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Fotografi med Betty Eklunds skylt",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "1936"
+      },
+      "people": [
+        "Karl-Gustav Hedberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Betty och Alfons Eklund skiljer sig",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "1928"
+      },
+      "people": [
+        "Betty Eklund",
+        "Alfons Eklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a3926a35431ed5423509a28438b5c687e6dda9f6c5185e232ab91bbec832028d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

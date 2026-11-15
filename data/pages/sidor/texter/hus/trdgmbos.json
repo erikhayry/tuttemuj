@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/trdgmbos.htm",
+  "title": "Seminariets trädgårdsmästarbostad",
+  "summary": "Johannes Schalins bild från omkring 1900 av seminariets trädgårdsmästarbostad, byggd där greve Clas Totts residens påbörjades 1654; seminariet hyrde gården som kosthåll från 1873.",
+  "topics": [
+    "seminariet",
+    "trädgård",
+    "clas tott"
+  ],
+  "people": [
+    {
+      "name": "Johannes Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Mikael Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Clas Tott",
+      "alternateNames": [],
+      "roles": [
+        "greve"
+      ]
+    },
+    {
+      "name": "Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "änkefru"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariets trädgårdsmästarbostad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "På platsen där Clas Totts residens började byggas 1654; källaren finns kvar."
+    },
+    {
+      "name": "Högbacka hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Högbacka"
+      ]
+    },
+    {
+      "name": "Residensbyggnaden",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Clas Totts residens börjar uppföras",
+      "date": {
+        "year": 1654,
+        "circa": false,
+        "text": "1654"
+      },
+      "people": [
+        "Clas Tott"
+      ],
+      "places": [
+        "Seminariets trädgårdsmästarbostad"
+      ]
+    },
+    {
+      "title": "Seminariet hyr gården som kosthåll",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "År 1873"
+      },
+      "people": [],
+      "places": [
+        "Seminariets trädgårdsmästarbostad"
+      ]
+    },
+    {
+      "title": "Seminariets kosthållsbyggnad klar",
+      "date": {
+        "year": 1882,
+        "circa": false,
+        "text": "1882"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografi",
+      "date": {
+        "year": 1900,
+        "circa": true,
+        "text": "omkring 1900"
+      },
+      "people": [
+        "Johannes Schalin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2dee6ea4802726555acb9a7f60b0ce5ad1e7600ef5148936042d8ca4ed8c721f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

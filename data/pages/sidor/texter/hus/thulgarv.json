@@ -1,0 +1,116 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/thulgarv.htm",
+  "title": "Thulins garveri på 1930-talet?",
+  "summary": "Bild av ett garveri vid Jakobstadsvägen 6 med loftgång för torkning av hudar, troligen Thulins garveri, som fiskaren Olof Mårtens rev 1938 när han byggde sin gård där.",
+  "topics": [
+    "garveri",
+    "hantverk",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Olof Mårtens",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Aili Mårtens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Boman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Thulins garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Jakobstadsvägen 6",
+      "geo": {
+        "lat": 63.5277916,
+        "lng": 22.5330792,
+        "match": "address",
+        "gazetteerName": "jakobstadsvägen 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mårtens gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Jakobstadsvägen 6",
+      "geo": {
+        "lat": 63.5277916,
+        "lng": 22.5330792,
+        "match": "address",
+        "gazetteerName": "jakobstadsvägen 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rolf Bomans gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Garveriet rivs och Mårtens gård byggs",
+      "date": {
+        "year": 1938,
+        "circa": false,
+        "text": "1938"
+      },
+      "people": [
+        "Olof Mårtens",
+        "Aili Mårtens"
+      ],
+      "places": [
+        "Thulins garveri",
+        "Mårtens gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "19909000b6770e241ab914e24b6385cb0711f2fde629110ef780cc921e161451",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

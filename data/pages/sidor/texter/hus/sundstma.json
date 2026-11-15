@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sundstma.htm",
+  "title": "Rådman Sandströms magasin",
+  "summary": "Lars Pensars teckning och Holger Haglunds foto från 1955 av rådman Sandströms magasin strax norr om Juthasvägen–Badhusstigen, där stenskvättor häckade i stenfoten varje år.",
+  "topics": [
+    "magasin",
+    "fåglar",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sandströms magasin vid Juthasvägen",
+      "kind": "building",
+      "alternateNames": [
+        "Rådman Sandströms magasin"
+      ]
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Holger Haglund fotograferar magasinet",
+      "date": {
+        "year": 1955,
+        "month": 1,
+        "day": 22,
+        "circa": false,
+        "text": "den 22.1.1955"
+      },
+      "people": [],
+      "places": [
+        "Sandströms magasin vid Juthasvägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b97650e6078cc2d80134858c86d385b0d745148537f23a01f520dff978c0c3fc",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

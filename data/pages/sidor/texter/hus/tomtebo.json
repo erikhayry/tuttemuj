@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/tomtebo.htm",
+  "title": "Tomtebo 2003",
+  "summary": "Lekstugan Tomtebo, byggd på 1940-talet för familjen Schaumans barn vid Wiks hotell, flyttades till Grisselön och sedan Djupsten innan den revs 2004.",
+  "topics": [
+    "lekstugor",
+    "flyttade hus",
+    "skärgård"
+  ],
+  "people": [
+    {
+      "name": "Kalle Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jan Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Einar Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tor Johnson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Tomtebo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Lekstuga byggd på 1940-talet vid Wiks hotell; flyttad till Grisselön och senare Djupsten, riven 2004."
+    },
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grisselön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomtebo byggs",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "på 1940-talet"
+      },
+      "people": [],
+      "places": [
+        "Tomtebo"
+      ]
+    },
+    {
+      "title": "Holger Haglund köper stugan",
+      "date": {
+        "year": 1958,
+        "circa": true,
+        "text": "I slutet av 1950-talet"
+      },
+      "people": [
+        "Holger Haglund"
+      ],
+      "places": [
+        "Tomtebo"
+      ]
+    },
+    {
+      "title": "Stugan flyttas till Djupsten",
+      "date": {
+        "year": 1965,
+        "circa": true,
+        "text": "I medlet av 1960-talet"
+      },
+      "people": [],
+      "places": [
+        "Tomtebo",
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Fotografi av Tomtebo",
+      "date": {
+        "year": 2003,
+        "month": 10,
+        "day": 25,
+        "circa": false,
+        "text": "den 25 oktober 2003"
+      },
+      "people": [],
+      "places": [
+        "Tomtebo"
+      ]
+    },
+    {
+      "title": "Tomtebo rivs",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "2004"
+      },
+      "people": [],
+      "places": [
+        "Tomtebo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0ebc94653dcf052a86a1411bebd9541e7fde408a8bdbd8fef110bb31436704b8",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

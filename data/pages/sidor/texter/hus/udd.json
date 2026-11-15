@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/udd.html",
+  "title": "Gustav Adolfsgatan 36",
+  "summary": "Tomt nr 97 vid Gustav Adolfsgatan 36, inropad 1858 av skomakarmästaren Garbén och senare delad, där Kurt Udd som drev Ram och Husgeråd byggde det nuvarande huset.",
+  "topics": [
+    "tomter",
+    "hus",
+    "källbacken"
+  ],
+  "people": [
+    {
+      "name": "Hans Henrik Garbén",
+      "alternateNames": [],
+      "roles": [
+        "skomakarmästare"
+      ]
+    },
+    {
+      "name": "Johan Hellstrand",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Oskar Engstrand",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mia Ahlskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eliel Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kurt Udd",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mona Udd",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Viviann Liljeström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Udds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt nr 97"
+      ],
+      "address": "Gustav Adolfsgatan 36"
+    },
+    {
+      "name": "Eliel Backlunds gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Engströms gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Garbén ropar in tomten",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "den 28 juli 1858"
+      },
+      "people": [
+        "Hans Henrik Garbén"
+      ],
+      "places": [
+        "Udds gård"
+      ]
+    },
+    {
+      "title": "Tomten delas",
+      "date": {
+        "year": 1880,
+        "circa": false,
+        "text": "1880"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ny delning",
+      "date": {
+        "year": 1938,
+        "circa": false,
+        "text": "År 1938"
+      },
+      "people": [
+        "Oskar Engstrand"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "be4b3e67dbab5851557dca49d3068f6b102aeb268c1793d913fce2c8c2f6db4b",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

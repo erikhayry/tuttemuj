@@ -1,0 +1,181 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sundeb.htm",
+  "title": "Henrik Sunds gård",
+  "summary": "Gården på tomt nr 79 vid Topeliusesplanaden 25, byggd av viktualiehandlaren Henrik Sund efter 1858 och i släktens ägo till 1965, då den revs för stadens första parkhus.",
+  "topics": [
+    "hus",
+    "släkt",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Henrik Sund",
+      "alternateNames": [],
+      "roles": [
+        "viktualiehandlare"
+      ]
+    },
+    {
+      "name": "Julius Sund",
+      "alternateNames": [],
+      "roles": [
+        "förman"
+      ]
+    },
+    {
+      "name": "Matts Julius Ossian Sund",
+      "alternateNames": [],
+      "roles": [
+        "tulluppsyningsman",
+        "hamnmästare"
+      ]
+    },
+    {
+      "name": "Maria Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Brynolf Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Ossian Sunds gård",
+        "Henrik Sunds gård",
+        "Tomt nr 79"
+      ],
+      "address": "Topeliusesplanaden 25",
+      "description": "Vid korsningen med Lybecksgatan; riven 1965, ersatt av första parkhuset.",
+      "geo": {
+        "lat": 63.52529850000001,
+        "lng": 22.5324888,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Parkhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Henrik Sund ropar in tomten",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [
+        "Henrik Sund"
+      ],
+      "places": [
+        "Sunds gård"
+      ]
+    },
+    {
+      "title": "Änkan ärver gården",
+      "date": {
+        "year": 1866,
+        "circa": false,
+        "text": "1866"
+      },
+      "people": [],
+      "places": [
+        "Sunds gård"
+      ]
+    },
+    {
+      "title": "Julius Sund tar över",
+      "date": {
+        "year": 1876,
+        "circa": false,
+        "text": "1876"
+      },
+      "people": [
+        "Julius Sund"
+      ],
+      "places": [
+        "Sunds gård"
+      ]
+    },
+    {
+      "title": "Ossian och Maria Sund ärver gården",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "1910"
+      },
+      "people": [
+        "Matts Julius Ossian Sund",
+        "Maria Sund"
+      ],
+      "places": [
+        "Sunds gård"
+      ]
+    },
+    {
+      "title": "Ossian Sund dör",
+      "date": {
+        "year": 1950,
+        "month": 8,
+        "day": 25,
+        "circa": false,
+        "text": "25.8.1950"
+      },
+      "people": [
+        "Matts Julius Ossian Sund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården säljs till Antell & Nylund och rivs för parkhuset",
+      "date": {
+        "year": 1965,
+        "circa": false,
+        "text": "1965"
+      },
+      "people": [],
+      "places": [
+        "Sunds gård",
+        "Parkhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "014f8ac2df46f62700596c0b4f476b2d40002d26e6571be6103a4e9abb44e587",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

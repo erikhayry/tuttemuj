@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sundo79.htm",
+  "title": "F.d. Ossian Sunds gård",
+  "summary": "Bild från sångfesten den 28 juni 1953 med Ossian Sunds gård på tomt nr 79 i bakgrunden.",
+  "topics": [
+    "sångfest",
+    "hus"
+  ],
+  "people": [
+    {
+      "name": "Brynolf Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Ossian Sunds gård",
+        "Henrik Sunds gård",
+        "Tomt nr 79"
+      ],
+      "address": "Topeliusesplanaden 25",
+      "description": "Vid korsningen med Lybecksgatan; riven 1965, ersatt av första parkhuset.",
+      "geo": {
+        "lat": 63.52529850000001,
+        "lng": 22.5324888,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sångfest",
+      "date": {
+        "year": 1953,
+        "month": 6,
+        "day": 28,
+        "circa": false,
+        "text": "den 28 juni 1953"
+      },
+      "people": [],
+      "places": [
+        "Sunds gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b009c9db6bc85ae10d375757ef02d489845557884992e6af67a944857797bc0a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

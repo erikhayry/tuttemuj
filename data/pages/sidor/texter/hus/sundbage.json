@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sundbage.htm",
+  "title": "Sunds bagarstuga på 1920-talet",
+  "summary": "Brynolf Blomqvist berättar om mormodern Maria Sunds bageributik i Sunds gård vid Topeliusesplanaden, där hon sålde hembakat tidigt 1900-tal, och om bagarstugan som revs, flyttades som villa till Andra sjön och till slut blev ved.",
+  "topics": [
+    "bageri",
+    "flyttade hus",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Maria Sund",
+      "alternateNames": [
+        "Maria Lukus"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Astrid Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helfrid Casén",
+      "alternateNames": [
+        "Helfrid Sund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Verner Casén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aines Semskar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Brynolf Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Oskar Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emil Vik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tor-Björn Carlsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henry Hellström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Danni Envik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Ossian Sunds gård",
+        "Henrik Sunds gård",
+        "Tomt nr 79"
+      ],
+      "address": "Topeliusesplanaden 25",
+      "description": "Vid korsningen med Lybecksgatan; riven 1965, ersatt av första parkhuset.",
+      "geo": {
+        "lat": 63.52529850000001,
+        "lng": 22.5324888,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sunds bagarstuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "other",
+      "alternateNames": [
+        "Andrasjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Charlottenlunds drängstuga",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av damerna vid bageriingången",
+      "date": {
+        "year": 1921,
+        "circa": true,
+        "text": "troligen tagen någon gång i början av 1920-talet"
+      },
+      "people": [],
+      "places": [
+        "Sunds gård"
+      ]
+    },
+    {
+      "title": "Bagerirörelsen läggs ned",
+      "date": {
+        "year": 1935,
+        "circa": true,
+        "text": "ca år 1935"
+      },
+      "people": [],
+      "places": [
+        "Sunds gård"
+      ]
+    },
+    {
+      "title": "Oskar river bagarstugan för att timra upp den igen",
+      "date": {
+        "year": 1955,
+        "circa": true,
+        "text": "i medlet av 1950-talet"
+      },
+      "people": [
+        "Oskar Sund",
+        "Emil Vik"
+      ],
+      "places": [
+        "Sunds bagarstuga"
+      ]
+    },
+    {
+      "title": "Resterna säljs och blir skäristuga vid Andra sjön",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "1959"
+      },
+      "people": [
+        "Tor-Björn Carlsson"
+      ],
+      "places": [
+        "Sunds bagarstuga",
+        "Andra sjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "af91c6416b74f0441f12652f977c83803d91143b8dc8f1da9aecb0aa8391a256",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

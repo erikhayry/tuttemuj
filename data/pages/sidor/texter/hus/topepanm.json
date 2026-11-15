@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/topepanm.htm",
+  "title": "Topeliusparken",
+  "summary": "Bild av Topeliusparken från Lybecksgatan; inför sångfesten 1914 avverkades träd för publiken, men ett störtregn drev festen in i kyrkan och vinsten gick till en lekplats i parken.",
+  "topics": [
+    "park",
+    "sångfest",
+    "lekplats"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Grundfeldts gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sångfesten flyttas till kyrkan på grund av störtregn",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "1914"
+      },
+      "people": [],
+      "places": [
+        "Topeliusparken",
+        "Kyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Inför den stora sångfesten 1914 fäller man träd i parken och bygger estrad och sittplatser – men ett störtregn driver hela publiken in i kyrkan, och vinsten blir en lekplats som ingen sen behöver.",
+    "reason": "En komisk vändning med folkmassa, väder och ironiskt slut.",
+    "characters": [],
+    "places": [
+      "Topeliusparken",
+      "Kyrkan"
+    ]
+  },
+  "contentHash": "ccefe0f1607488dda5b3339b05e663947c544eae3b8ea48e900e2152c4a3f23e",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

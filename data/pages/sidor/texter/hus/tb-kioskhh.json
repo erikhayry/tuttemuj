@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/tb-kioskhh.htm",
+  "title": "TB-mack och kiosk nyårsafton 1954",
+  "summary": "Holger Haglunds bild av Elmer Holms julpyntade TB-mack och kiosk i Granbergs uthus vid Sollefteågatan, nyårsafton 1954.",
+  "topics": [
+    "kiosker",
+    "bensinstation",
+    "jul"
+  ],
+  "people": [
+    {
+      "name": "Elmer Holm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "TB-kiosken",
+      "kind": "building",
+      "alternateNames": [
+        "TB-macken"
+      ],
+      "description": "Elmer Holms mack och kiosk i Granbergs uthus vid Sollefteågatan."
+    },
+    {
+      "name": "Granbergs gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "TB-macken julpyntad",
+      "date": {
+        "year": 1954,
+        "month": 12,
+        "day": 31,
+        "circa": false,
+        "text": "nyårsafton 1954"
+      },
+      "people": [],
+      "places": [
+        "TB-kiosken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ae8dbb1b1c2d7f7344276220157235b8ed1bbe14a0ea224c352f4fbf9279759d",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}

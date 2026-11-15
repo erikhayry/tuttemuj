@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/vernamls.htm",
+  "title": "Vernamo 1978 – Lars O. Schalin minns",
+  "summary": "Ingrid Schalins bilder från 1978 av kaplansbostället Vernamo, där Lars O. Schalin minns uthuslängan med bagarstuga och drängstuga och brunnshuset i den gamla bäckfåran.",
+  "topics": [
+    "prästgårdar",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Ingrid Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars O. Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Olav Schalin",
+      "alternateNames": [],
+      "roles": [
+        "kaplan"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Vernamo",
+      "kind": "building",
+      "alternateNames": [
+        "Värnamo",
+        "Värnamo kaplansboställe"
+      ],
+      "description": "Kaplansboställe vid Juthasvägen med stadens längsta veranda."
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografier av Vernamo",
+      "date": {
+        "year": 1978,
+        "month": 6,
+        "circa": false,
+        "text": "i juni 1978"
+      },
+      "people": [],
+      "places": [
+        "Vernamo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "369ca6ec4332e053751ff2a84e8c2853adfa495b39debb1933919e45d8e255b2",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T18:42:51.270Z"
+}
