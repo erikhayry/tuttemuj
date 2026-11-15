@@ -19,7 +19,14 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
 3. Run `pnpm --filter @tuttemuj/crawler extract:save`.
    - It validates each draft and moves it to `data/pages/`.
    - If a draft is invalid, fix it and run the save again until nothing is invalid.
-4. Report how many pages were saved. Also note anything interesting, such as pages that are only menus or index pages, or cases where the schema doesn't fit the content well.
+4. Add new places to the gazetteer:
+   - Run `pnpm --silent --filter @tuttemuj/crawler places:unmatched` (prints JSON). It lists places that have no coordinates and whose names are not in `data/gazetteer.json` or `data/sources/ignored-places.json`.
+   - Add **every place that is in Nykarleby** (town, villages, archipelago) to `data/sources/manual-places.json`, even without coordinates; the user adds coordinates or aliases later. Use a lowercase `name`, the closest `kind`, spelling variants as `alternateNames`, and a short English `note` if it helps (e.g. "Farm in Vexala.").
+   - If it is the same place as an existing gazetteer entry, add the page's name as an alternate name of that entry instead of a new entry (e.g. Normalskolan → `normen`).
+   - Generic names that recur in several villages (Torp, Bäck, Klockars…) get a qualified entry (`klockars i vexala`) and the same qualified name as an `alternateName` on the page's place.
+   - Places outside Nykarleby or too vague to locate (Kvarken, Centrum, Tomt 10) go in `data/sources/ignored-places.json`.
+   - Then run `gazetteer:build` and `places:geocode`, and check that `places:unmatched` prints nothing.
+5. Report how many pages were saved. Also note anything interesting, such as pages that are only menus or index pages, or cases where the schema doesn't fit the content well.
 
 ## Draft fields
 

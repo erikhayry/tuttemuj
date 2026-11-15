@@ -31,3 +31,8 @@ pnpm --filter @tuttemuj/crawler places:geocode
 ```
 
 An entry can also set `kind`, `alternateNames` and `note`, and names that are not in the source are added.
+Entries added without coordinates (mostly places found on extracted pages) are marked
+`missingLocation: "added-by-hand"`.
+
+`pnpm --filter @tuttemuj/crawler places:unmatched` lists place names on extracted pages that are in neither
+the gazetteer nor `../ignored-places.json` (places outside Nykarleby or too generic to locate).

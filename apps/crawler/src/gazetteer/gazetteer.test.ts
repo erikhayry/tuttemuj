@@ -29,6 +29,7 @@ const entries = buildGazetteer(
     { name: "Riksväg åtta", kind: "street", alternateNames: ["riksåttan"], note: "Highway" },
     { name: "torget", location: { lat: 63.523, lng: 22.53 } },
     { name: "nytt ställe", kind: "landmark", location: { lat: 63.5, lng: 22.5 } },
+    { name: "klockars i vexala", kind: "farm", note: "Farm in Vexala." },
   ],
 );
 const byName = new Map(entries.map((e) => [e.name, e]));
@@ -66,6 +67,17 @@ describe("buildGazetteer", () => {
     });
     expect(byName.get("torget")?.missingLocation).toBeUndefined();
     expect(byName.get("nytt ställe")).toMatchObject({ kind: "landmark", source: "manual" });
+    expect(byName.get("nytt ställe")?.missingLocation).toBeUndefined();
+  });
+
+  it("marks hand-added names without coordinates as added-by-hand", () => {
+    expect(byName.get("klockars i vexala")).toMatchObject({
+      kind: "farm",
+      source: "manual",
+      missingLocation: "added-by-hand",
+    });
+    // A source reason is kept when a manual entry only adds aliases.
+    expect(byName.get("riksväg åtta")?.missingLocation).toBe("outside-area");
   });
 
   it("is sorted with one entry per name", () => {

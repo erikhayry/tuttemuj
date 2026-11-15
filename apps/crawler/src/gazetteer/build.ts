@@ -94,6 +94,9 @@ export function buildGazetteer(src: Nkby2018Sources, manual: ManualPlace[] = [])
       e.location = m.location;
       e.source = "manual";
       delete e.missingLocation;
+    } else if (!e.location && !e.missingLocation) {
+      e.source = "manual";
+      e.missingLocation = "added-by-hand";
     }
   }
 

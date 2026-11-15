@@ -19,6 +19,8 @@ export const MissingLocation = z.enum([
   "geocoder-fallback",
   /** The geocoded point lies outside the Nykarleby area. */
   "outside-area",
+  /** Added by hand (e.g. from an extracted page) without coordinates yet. */
+  "added-by-hand",
 ]);
 export type MissingLocation = z.infer<typeof MissingLocation>;
 
@@ -49,6 +51,13 @@ export const ManualPlace = z.object({
   note: z.string().optional(),
 });
 export type ManualPlace = z.infer<typeof ManualPlace>;
+
+/** A page place name that is deliberately not in the gazetteer (data/sources/ignored-places.json). */
+export const IgnoredPlace = z.object({
+  name: z.string().min(1),
+  reason: z.enum(["outside-nykarleby", "too-generic"]),
+});
+export type IgnoredPlace = z.infer<typeof IgnoredPlace>;
 
 /** Coordinates attached to a PlaceMention by matching it against the gazetteer. */
 export const PlaceGeo = GeoPoint.extend({

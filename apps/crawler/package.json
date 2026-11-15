@@ -10,6 +10,7 @@
     "images:backfill": "tsx src/cli/images-backfill.ts",
     "gazetteer:build": "tsx src/cli/gazetteer-build.ts",
     "places:geocode": "tsx src/cli/places-geocode.ts",
+    "places:unmatched": "tsx src/cli/places-unmatched.ts",
     "extract:next": "tsx src/cli/extract-next.ts",
     "extract:save": "tsx src/cli/extract-save.ts"
   },
