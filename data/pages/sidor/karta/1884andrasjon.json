@@ -62,7 +62,15 @@
       "name": "Andrasjön",
       "kind": "other",
       "alternateNames": [],
-      "description": "Stadens hamn."
+      "description": "Stadens hamn.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Nykarleby stads hamn",

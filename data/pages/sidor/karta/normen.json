@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/normen.htm",
+  "title": "Normalskolan",
+  "summary": "Bildtext till ett fotografi av Normalskolan ur bildserien 1905-5.",
+  "topics": [
+    "skola",
+    "fotografi"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Övningsskola för seminariets elever; fortfarande skola.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "contentHash": "616af879b179702d6234769c5403d728535e0e6889f102bfeb43f4d0c6e58927",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

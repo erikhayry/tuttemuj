@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/majnieka.htm",
+  "title": "Majniemi",
+  "summary": "Bildtext ur bildserien 1900-2 med Zacharias Topelius sommarstuga Majniemi, Kuddnäs ovanför och dess lusthus.",
+  "topics": [
+    "topelius",
+    "sommarstuga",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Zacharias Topelius sommarstuga på Alörn."
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Lusthuset på Kuddnäs",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "contentHash": "e75f25988317da4e5b6d452630b15d68404d4376357a33d3d49de33fe0f7d1ab",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

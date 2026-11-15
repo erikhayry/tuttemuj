@@ -1,0 +1,35 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/folkis.htm",
+  "title": "Kristliga folkhögskolan i Nykarleby",
+  "summary": "Bildtext till ett fotografi av Kristliga folkhögskolan ur bildserien 1920-7.",
+  "topics": [
+    "skola",
+    "folkhögskola",
+    "fotografi"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Kristliga Folkhögskolan",
+        "Kristliga Folkhögskolan i Nykarleby",
+        "Folkhögskolan"
+      ],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "contentHash": "7bc959302db936a9afe5437d431af38da9eccb9bad88b72e89cff88c8593273f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

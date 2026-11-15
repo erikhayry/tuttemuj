@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/frihemee.htm",
+  "title": "Frihemmet (engelsk bildtext)",
+  "summary": "Engelsk bildtext om ålderdomshemmet Frihemmet, byggt 1909 och rivet 1984.",
+  "topics": [
+    "ålderdomshem",
+    "byggnader"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ålderdomshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Frihemmet byggs",
+      "date": {
+        "year": 1909,
+        "circa": false,
+        "text": "was built in 1909"
+      },
+      "people": [],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Frihemmet rivs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "pulled down in 1984"
+      },
+      "people": [],
+      "places": [
+        "Frihemmet"
+      ]
+    }
+  ],
+  "contentHash": "753ba5565c6f315856cbfd4595ba3e1d3c43f0797bf38138a032622529012018",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

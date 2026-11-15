@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/juthae.htm",
+  "title": "Juthas – Döbelnmonumentet",
+  "summary": "Engelsk bildtext om monumentet vid Juthas över generalmajor Georg Carl von Döbeln, som ledde slaget den 13 september 1808 då ryssarna slogs tillbaka – ett slag som blev känt genom Runebergs dikt Döbeln vid Jutas.",
+  "topics": [
+    "1808–09 års krig",
+    "slag",
+    "monument",
+    "runeberg"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [
+        "G.C. von Döbeln",
+        "Döbeln"
+      ],
+      "roles": [
+        "generalmajor"
+      ]
+    },
+    {
+      "name": "Johan Ludvig Runeberg",
+      "alternateNames": [
+        "J.L Runeberg"
+      ],
+      "roles": [
+        "skald"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelnmonumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": [
+        "Döbelnmonumentet"
+      ],
+      "description": "Vid slagfältet ca 3 km utanför staden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "on 13th September 1808"
+      },
+      "people": [
+        "Georg Carl von Döbeln"
+      ],
+      "places": [
+        "Döbelnmonumentet vid Juthas"
+      ]
+    }
+  ],
+  "contentHash": "7937d0b1a4fc3d990f82a19a2dc57e85d772796c6d4b9bac74a04de74d29b413",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

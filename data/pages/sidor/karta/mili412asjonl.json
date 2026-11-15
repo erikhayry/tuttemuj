@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/mili412asjonl.html",
+  "title": "Militärkarta Andrasjön – staden 1941–42",
+  "summary": "Militärkarta i skala 1:8000 från 1941–42 över området mellan Andrasjön och staden, med stengärdesgårdar, skjutbanor, de få Andrasjövillorna och Gånge Rolfs gård, som då var epidemisjukhus. Kartan bär troligen major Palmqvists namnteckning – han som nämns på Brostugans vägg.",
+  "topics": [
+    "militärkarta",
+    "fortsättningskriget",
+    "andrasjön",
+    "1940-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    },
+    {
+      "name": "Palmqvist",
+      "alternateNames": [],
+      "roles": [
+        "major"
+      ]
+    },
+    {
+      "name": "Sourander",
+      "alternateNames": [],
+      "roles": [
+        "major"
+      ]
+    },
+    {
+      "name": "Gånge Rolf",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans gård var epidemisjukhus."
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gånge Rolfs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Var epidemisjukhus."
+    },
+    {
+      "name": "Skjutbanorna",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Klippan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjövillorna",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Militärkartan i skala 1:8000 görs",
+      "date": {
+        "year": 1941,
+        "circa": false,
+        "text": "uppgjord 1941–42"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "contentHash": "9ff7a4f6061748e090b88262671d88d33a6755a895670b525cbcf44664a03194",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

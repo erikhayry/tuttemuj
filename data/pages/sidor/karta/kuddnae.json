@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/kuddnae.htm",
+  "title": "Kuddnäs (engelsk bildtext)",
+  "summary": "Engelsk bildtext om Kuddnäs, där Zacharias Topelius föddes den 14 januari 1818. Gården ägs av staden och har varit museum sedan 1934, med bagarstuga, vagnslider och lusthus utöver huvudbyggnaderna.",
+  "topics": [
+    "topelius",
+    "museum",
+    "herrgård"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Topelius födelsehem; museum sedan 1934, ägt av staden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Zacharias Topelius föds på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "On January 14, 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Kuddnäs blir museum",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "since 1934"
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "contentHash": "7f4ba0d1ecf8d0cefbdf37c3ff20097e5341f2980b6f9765245268af96d3c2be",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

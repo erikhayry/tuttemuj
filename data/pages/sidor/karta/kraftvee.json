@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/kraftvee.htm",
+  "title": "Kraftverket och dammen – The water power station",
+  "summary": "Engelsk bildtext ur bildserien 1920-9 om kraftverket som byggdes 1925–26; 1984 ersattes det av ett nytt kraftverk och en ny damm.",
+  "topics": [
+    "kraftverk",
+    "älven",
+    "fotografi"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Dammen"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Kraftverket byggs",
+      "date": {
+        "year": 1925,
+        "circa": false,
+        "text": "in 1925-26"
+      },
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Nytt kraftverk och ny damm byggs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "In 1984"
+      },
+      "people": [],
+      "places": [
+        "Kraftverket",
+        "Kraftverksdammen"
+      ]
+    }
+  ],
+  "contentHash": "a3c21f0c517cacfea77eb003b7f199802734e05497bea5e3c185f91770f9a00e",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

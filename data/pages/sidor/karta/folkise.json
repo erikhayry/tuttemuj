@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/folkise.htm",
+  "title": "Folkhögskolan – The Christian Folk High School",
+  "summary": "Engelsk bildtext om Kristliga folkhögskolan i Nykarleby, som varit verksam sedan 1920.",
+  "topics": [
+    "skola",
+    "folkhögskola"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Kristliga Folkhögskolan",
+        "Kristliga Folkhögskolan i Nykarleby",
+        "Folkhögskolan"
+      ],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kristliga folkhögskolan startar",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "since 1920"
+      },
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    }
+  ],
+  "contentHash": "4691efd21a5e26eae407fd64c1db0348544ce84f078a8d66ca00c743e0f170f0",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

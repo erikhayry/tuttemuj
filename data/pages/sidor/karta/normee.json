@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/normee.htm",
+  "title": "Normalskolan – School",
+  "summary": "Engelsk bildtext ur bildserien 1905-5 om Normalskolan, byggd 1908 och fortfarande skola, där seminariets elever fick öva sig som lärare.",
+  "topics": [
+    "skola",
+    "seminariet",
+    "byggnader"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Övningsskola för seminariets elever; fortfarande skola.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Normalskolan byggs",
+      "date": {
+        "year": 1908,
+        "circa": false,
+        "text": "built in 1908"
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "contentHash": "b88b344883e2c72319742c0355685c28c928aa261463a36fdb815855f7cb5143",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

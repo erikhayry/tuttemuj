@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/brostuge.htm",
+  "title": "Brostugan – The Bridge Cottage",
+  "summary": "Engelsk bildtext om Brostugan, brovaktarens bostad som byggdes samtidigt med en ny bro 1817. Brovaktaren tog upp broavgift av alla som inte bodde i staden; i dag är stugan ett sommarkafé känt för Gunnar Clements väggmålningar från 1941.",
+  "topics": [
+    "broar",
+    "kafé",
+    "konst",
+    "byggnader"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Clement",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Målade väggmålningarna i Brostugan 1941."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Brovaktarens bostad; i dag sommarkafé i stadens ägo, känt för sina väggmålningar."
+    },
+    {
+      "name": "Bron över älven",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Ny bro byggd 1817."
+    }
+  ],
+  "events": [
+    {
+      "title": "Brostugan och en ny bro över älven byggs",
+      "date": {
+        "year": 1817,
+        "circa": false,
+        "text": "in 1817"
+      },
+      "people": [],
+      "places": [
+        "Brostugan",
+        "Bron över älven"
+      ]
+    },
+    {
+      "title": "Gunnar Clement målar väggmålningarna i Brostugan",
+      "date": {
+        "year": 1941,
+        "circa": false,
+        "text": "in 1941"
+      },
+      "people": [
+        "Gunnar Clement"
+      ],
+      "places": [
+        "Brostugan"
+      ]
+    }
+  ],
+  "contentHash": "7f06f81593dff3e9f71b97442813fb3d0437771b240a70c04f89a3d938fc1acc",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

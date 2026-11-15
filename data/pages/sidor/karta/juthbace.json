@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/juthbace.htm",
+  "title": "Juthbacka (engelsk bildtext)",
+  "summary": "Engelsk bildtext om Juthbacka, en herrgårdsmiljö från 1600-talet där löjtnant Carl Backman byggde huvudbyggnaden som stod klar 1821. I dag är gården ett turistcenter.",
+  "topics": [
+    "herrgård",
+    "turism",
+    "byggnader"
+  ],
+  "people": [
+    {
+      "name": "Carl Backman",
+      "alternateNames": [],
+      "roles": [
+        "löjtnant"
+      ],
+      "description": "Byggde huvudbyggnaden på Juthbacka."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Herrgård, i dag turistcenter med restaurang, hotell och camping."
+    }
+  ],
+  "events": [
+    {
+      "title": "Juthbacka gård grundas",
+      "date": {
+        "year": 1600,
+        "circa": true,
+        "text": "dates from the 17th century"
+      },
+      "people": [],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Huvudbyggnaden på Juthbacka står klar",
+      "date": {
+        "year": 1821,
+        "circa": false,
+        "text": "completed in 1821"
+      },
+      "people": [
+        "Carl Backman"
+      ],
+      "places": [
+        "Juthbacka"
+      ]
+    }
+  ],
+  "contentHash": "31504342d300c68fd508ec4cfba5e39bf1143eb0db81ab39c9428ffe064ed0a6",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

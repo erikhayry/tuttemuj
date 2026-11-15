@@ -1,0 +1,152 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/jutheh.htm",
+  "title": "Juthes gård nr 41 i Nykarleby",
+  "summary": "En odaterad planteckning över gård nr 41 och grannhusen, troligen gjord för brandförsäkring mellan 1844 och 1858. Den förbryllande tomtnumreringen förklaras av att alla tomter numrerades om i 1844 års stadsplan; kartan visar också kyrkan, klockstapeln, spruthuset och en brunn där brunnshuset senare byggdes.",
+  "topics": [
+    "tomter",
+    "brandförsäkring",
+    "stadsplan",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Johan Juthe",
+      "alternateNames": [],
+      "birthYear": 1759,
+      "deathYear": 1836,
+      "roles": [
+        "rådman",
+        "handelsman"
+      ],
+      "description": "Namnet är skrivet med blyerts på kartan, men noteringen är förmodligen oriktig."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev om den forna stadsplanen och gårdsägarna 1775–1858."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gård nr 41",
+      "kind": "building",
+      "alternateNames": [
+        "Juthes gård"
+      ],
+      "address": "gård No 41 i Nykarleby Stad",
+      "description": "Mellan Rådhusgatan i öster och Östra gatan i väster."
+    },
+    {
+      "name": "Rådhusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Spruthuset",
+      "kind": "building",
+      "alternateNames": [
+        "Spruthus"
+      ]
+    },
+    {
+      "name": "Brunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Brun"
+      ],
+      "description": "Låg där brunnshuset uppfördes i början av 1840-talet."
+    },
+    {
+      "name": "Brunnshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Ny-Karleby Elf"
+      ]
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny stadsplan stadfästs med ny numrering av alla tomter",
+      "date": {
+        "year": 1844,
+        "month": 4,
+        "day": 29,
+        "circa": false,
+        "text": "stadfästes 29/4 1844"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Brunnshuset uppförs",
+      "date": {
+        "year": 1840,
+        "circa": true,
+        "text": "i början på 1840-talet"
+      },
+      "people": [],
+      "places": [
+        "Brunnshuset"
+      ]
+    },
+    {
+      "title": "Planteckningen över gård nr 41 görs, troligen för brandförsäkring",
+      "date": {
+        "year": 1844,
+        "circa": true,
+        "text": "någon gång mellan 1844 och 1858"
+      },
+      "people": [],
+      "places": [
+        "Gård nr 41"
+      ]
+    }
+  ],
+  "contentHash": "0f6d7b2077fceabcf7d5b51a5b0f51d1990d8a92f279dfd558cd39e23984009c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

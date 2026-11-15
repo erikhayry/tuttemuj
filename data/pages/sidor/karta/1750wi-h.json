@@ -36,7 +36,15 @@
       "kind": "building",
       "alternateNames": [
         "Ny=Carleby Stads och Socken kÿrkia"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
     },
     {
       "name": "Rådhuset",

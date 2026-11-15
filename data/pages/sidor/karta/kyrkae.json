@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/kyrkae.htm",
+  "title": "Kyrkan – Sankta Birgitta kyrka",
+  "summary": "Engelsk bildtext om Sankta Birgitta kyrka vid bron, byggd 1708 och räknad till Österbottens vackraste. Takmålningarna från 1700-talet är gjorda av Daniel Hjulström och Johan Alm, korfönstren av Lennart Segerstråhle 1940, och orgeln är en Thelinorgel från 1786.",
+  "topics": [
+    "kyrka",
+    "konst",
+    "orgel",
+    "byggnader"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Johan Alm",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Lennart Segerstråhle",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Thelin",
+      "alternateNames": [],
+      "roles": [
+        "orgelbyggare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan",
+        "Sankta Birgitta kyrka",
+        "Saint Birgitta Church"
+      ],
+      "description": "Vid bron över älven.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan byggs",
+      "date": {
+        "year": 1708,
+        "circa": false,
+        "text": "built in 1708"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Thelinorgeln byggs",
+      "date": {
+        "year": 1786,
+        "circa": false,
+        "text": "from 1786"
+      },
+      "people": [
+        "Thelin"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Lennart Segerstråhle målar korfönstren",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "in 1940"
+      },
+      "people": [
+        "Lennart Segerstråhle"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "contentHash": "a74736e68034c5b6832a2295cdb9dbf0354e295d4b37b9be1a0f7e5b63821732",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

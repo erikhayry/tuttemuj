@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/kvarnee.htm",
+  "title": "Stadskvarnen – Town mill",
+  "summary": "Engelsk bildtext om stadskvarnen vid Juthforsen, där det funnits vattenkvarn åtminstone sedan 1660. Kvarnen på bilden byggdes 1759 och revs 1984; till vänster syns sommarvärdshuset på Brunnsholmarna.",
+  "topics": [
+    "kvarn",
+    "älven",
+    "fotografi"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vattenkvarn vid Juthforsen."
+    },
+    {
+      "name": "Juthforsen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Juth-rapid"
+      ]
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Sommarvärdshus."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vattenkvarn vid Juthforsen omnämns",
+      "date": {
+        "year": 1660,
+        "circa": false,
+        "text": "At least since 1660"
+      },
+      "people": [],
+      "places": [
+        "Juthforsen"
+      ]
+    },
+    {
+      "title": "Stadskvarnen byggs",
+      "date": {
+        "year": 1759,
+        "circa": false,
+        "text": "built in 1759"
+      },
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Stadskvarnen rivs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "demolished in 1984"
+      },
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    }
+  ],
+  "contentHash": "68ea7bb12ace56b01a4619cc8e5939e74dce74488abed8f35731be59a5df1cce",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

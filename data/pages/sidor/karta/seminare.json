@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/seminare.htm",
+  "title": "Seminariet – The training college",
+  "summary": "Engelsk bildtext om lärarseminariet 1873–1971, stadens viktigaste läroanstalt genom tiderna, vars lokaler i dag används av gymnasiet och högstadiet.",
+  "topics": [
+    "seminariet",
+    "skola",
+    "utbildning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [
+        "Lärarseminariet"
+      ],
+      "description": "Seminariets lokaler används nu av Nykarleby gymnasium och högstadiet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lärarseminariet startar",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "from the years 1873-1971"
+      },
+      "people": [],
+      "places": [
+        "Seminariet"
+      ]
+    },
+    {
+      "title": "Lärarseminariet läggs ned",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "1873-1971"
+      },
+      "people": [],
+      "places": [
+        "Seminariet"
+      ]
+    }
+  ],
+  "contentHash": "8632d8c21b9a78fd730ab78a0593d44d49b4d3b3de78f13d6beae014fbeda2f7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}

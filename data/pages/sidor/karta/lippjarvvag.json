@@ -1,0 +1,125 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/karta/lippjarvvag.html",
+  "title": "Namnen längs vägen Nykarleby–Lippjärv",
+  "summary": "Poeten Gösta Ågren vandrar i text längs vägen från Nykarleby till Lippjärv och räddar backarnas, mossarnas och bergens namn från glömskan – från Kalbärgsbackan och Ritjilmosan till Storbärg och Bykrötjin, några av dem namngivna av honom själv och Anna-Lisa.",
+  "topics": [
+    "ortnamn",
+    "vägar",
+    "minnen",
+    "lippjärv"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Anna-Lisa",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Namngav Månräton och Bykrötjin tillsammans med Gösta Ågren."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Vägen Nykarleby–Lippjärv",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kalbärgsbackan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ritjilmosan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Matapallbackan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Månräton",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Lillbärg",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brannbärg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Granitvägg på vägens sydsida."
+    },
+    {
+      "name": "Langrapan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Lång sankmark."
+    },
+    {
+      "name": "Storbärg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Vägens högsta punkt, ca 35 m ö.h."
+    },
+    {
+      "name": "Bykrötjin",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "S-formad kurva ned mot byn."
+    },
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Triangelmätningstornet vid Kovjokivägen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "contentHash": "0b87ef674ed6050be4654c5be141cb2c5cb395b6dc2044788a8858b4ce76ff40",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T07:23:05.595Z"
+}
