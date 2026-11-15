@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sarlin.htm",
+  "title": "Apotekets lillstuga 1981",
+  "summary": "Fotografi från 1981 av apotekets lillstuga på Borgaregatan 2 vid Kyrkogatan, där en tandläkarpraktik funnits; den revs senare.",
+  "topics": [
+    "apotek",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Börje Wilkman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jacob Söderman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Apotekets bagarstuga",
+      "kind": "building",
+      "alternateNames": [
+        "Apotekets gårdshus",
+        "Apotekets lillstuga"
+      ],
+      "address": "Borgaregatan 2",
+      "description": "Vid korsningen med Kyrkogatan; revs omkring 2002.",
+      "geo": {
+        "lat": 63.5240473,
+        "lng": 22.5286997,
+        "match": "address",
+        "gazetteerName": "borgaregatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av lillstugan",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "1981"
+      },
+      "people": [],
+      "places": [
+        "Apotekets bagarstuga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a761ac3a85adff188004ac397722e189ce709687b012d57b13e90c9d7dff22b4",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

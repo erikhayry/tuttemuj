@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/postlador2009.html",
+  "title": "Postlådor 2009",
+  "summary": "Postlådeställning vid Juthasvägen 2009, när ett direktiv förbjöd postlådor vid egen infart – och en lista över hur posten blivit sämre.",
+  "topics": [
+    "post",
+    "stadsmiljö"
+  ],
+  "people": [
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gården med den höga stenfoten",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Direktiv om gemensamma postlådor",
+      "date": {
+        "year": 2009,
+        "circa": false,
+        "text": "År 2009"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d48f7465087b29cee49b91fb2585d674d30913f64f167d1df660ae743655ffcd",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

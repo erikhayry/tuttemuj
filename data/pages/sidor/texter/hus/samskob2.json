@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/samskob2.htm",
+  "title": "Samskoletomten mars 1975",
+  "summary": "Fotografi från mars 1975 av samskolans gård med vaktmästarbostaden, där scouterna hade lokal, som revs omkring 1982 när Bröderna Sjöholm byggde nytt.",
+  "topics": [
+    "skola",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mirjam Tuominen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tuva Korsström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Åhman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola",
+        "Häggbloms hus",
+        "Tomt 47"
+      ],
+      "address": "Topeliusesplanaden 12",
+      "description": "Vid korsningen med Borgaregatan; byggd 1859, samskola 1920–70, riven 1983.",
+      "geo": {
+        "lat": 63.523466,
+        "lng": 22.5307663,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Samskolans vaktmästarbostad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sarlinska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Vaktmästarbostaden rivs",
+      "date": {
+        "year": 1982,
+        "circa": true,
+        "text": "omkring 1982"
+      },
+      "people": [],
+      "places": [
+        "Samskolans vaktmästarbostad"
+      ]
+    },
+    {
+      "title": "Knivdåd",
+      "date": {
+        "year": 1874,
+        "circa": false,
+        "text": "1874"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sarlinska gården renoveras",
+      "date": {
+        "year": 2001,
+        "circa": false,
+        "text": "2001–2002"
+      },
+      "people": [],
+      "places": [
+        "Sarlinska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "21b2c0bea0febab7dfcb3e1e360a3380da5d4cbf39f637d5daf6816f7d867220",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

@@ -1,0 +1,229 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/polisklp.htm",
+  "title": "Poliskammaren 1979",
+  "summary": "Poliskammaren på Sollefteågatan 8 strax innan den revs 1979 för Ämbetshuset, med butkan – finkan – i mellandelen och brandstationen som fanns där till 1959. Sidan samlar historien om häktet, poliserna och brandkåren sedan det gamla spruthuset flyttades hit 1876.",
+  "topics": [
+    "polis",
+    "häkte",
+    "brandkår",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Artur Liljedahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Svea Renvaktar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lilian Lindén",
+      "alternateNames": [
+        "Lilian Ojalammi"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Söderbacka",
+      "alternateNames": [],
+      "roles": [
+        "konstapel"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Torsten Snellman",
+      "alternateNames": [],
+      "deathYear": 1961,
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Elof Ohls",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ]
+    },
+    {
+      "name": "Teodor Lund",
+      "alternateNames": [],
+      "roles": [
+        "poliskonstapel"
+      ]
+    },
+    {
+      "name": "Lilian Höglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Johansson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Poliskammaren",
+      "kind": "building",
+      "alternateNames": [
+        "Polisstationen",
+        "Stadshäktet",
+        "Butkan"
+      ],
+      "address": "Sollefteågatan 8",
+      "description": "Vid korsningen med Topeliusesplanaden; revs 1979 när Ämbetshuset byggdes.",
+      "geo": {
+        "lat": 63.52180139999999,
+        "lng": 22.530978,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brandkårshuset Asgård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lokstallet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Artur Liljedahls magasin",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kemikalia",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Spruthuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhustomten",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gamla spruthuset flyttas till rådhustomten och blir häkte",
+      "date": {
+        "year": 1876,
+        "circa": false,
+        "text": "[1876]"
+      },
+      "people": [],
+      "places": [
+        "Spruthuset",
+        "Rådhustomten"
+      ]
+    },
+    {
+      "title": "Spruthuset brädfodras",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "Troligen från 1895"
+      },
+      "people": [],
+      "places": [
+        "Spruthuset"
+      ]
+    },
+    {
+      "title": "Teodor Lund blir extra poliskonstapel",
+      "date": {
+        "year": 1938,
+        "month": 6,
+        "circa": false,
+        "text": "10.06.1938"
+      },
+      "people": [
+        "Teodor Lund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Brandstationen flyttar till gamla lokstallet",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "1959"
+      },
+      "people": [],
+      "places": [
+        "Lokstallet"
+      ]
+    },
+    {
+      "title": "Poliskammaren rivs för Ämbetshuset",
+      "date": {
+        "year": 1979,
+        "circa": false,
+        "text": "1979"
+      },
+      "people": [],
+      "places": [
+        "Poliskammaren",
+        "Ämbetshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a2aca0d9156b17266f8d39b9f90ffca955843f69fe0c330626b86a18234fcc69",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/saunobsc.html",
+  "title": "Sauna obscura",
+  "summary": "Konstnären Heidi Lunabbas flytande bastu Sauna obscura i älven, där man sitter som inne i en kamera, visades i ett kort program i Sveriges TV 2014; fontänbojen vid kraftverksbron har klarat många islossningar.",
+  "topics": [
+    "konst",
+    "bastu",
+    "tv"
+  ],
+  "people": [
+    {
+      "name": "Heidi Lunabba",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Elisabeth Morney",
+      "alternateNames": [],
+      "roles": [
+        "programledare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sauna obscura",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Flytande kamerabastu."
+    },
+    {
+      "name": "Fontänbojen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sauna obscura sänds i Sveriges TV",
+      "date": {
+        "year": 2014,
+        "month": 1,
+        "day": 3,
+        "circa": false,
+        "text": "3 jan"
+      },
+      "people": [
+        "Heidi Lunabba"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "47b94d66974a0d55671ff649c677cca9e3f310b25cd714f6df1624a1f7db377a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/semi_sm.html",
+  "title": "Seminariets byggnader",
+  "summary": "Bilder från 1940- och 1950-talen av seminariets huvudbyggnad från 1875, direktorsbostaden med internat från 1882, verkstadsbyggnaden och kosthållet från 1873, och renoveringen av huvudbyggnaden 2022.",
+  "topics": [
+    "seminariet",
+    "byggnader"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariets huvudbyggnad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Residenshuset",
+      "kind": "building",
+      "alternateNames": [
+        "Direktorsbostaden"
+      ]
+    },
+    {
+      "name": "Seminariets verkstadsbyggnad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggd 1873 som Normalskola."
+    },
+    {
+      "name": "Seminariets kosthåll",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kosthållet och verkstadsbyggnaden byggs",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "1873"
+      },
+      "people": [],
+      "places": [
+        "Seminariets kosthåll",
+        "Seminariets verkstadsbyggnad"
+      ]
+    },
+    {
+      "title": "Huvudbyggnaden byggs",
+      "date": {
+        "year": 1875,
+        "circa": false,
+        "text": "1875"
+      },
+      "people": [],
+      "places": [
+        "Seminariets huvudbyggnad"
+      ]
+    },
+    {
+      "title": "Direktorsbostaden byggs",
+      "date": {
+        "year": 1882,
+        "circa": false,
+        "text": "1882"
+      },
+      "people": [],
+      "places": [
+        "Residenshuset"
+      ]
+    },
+    {
+      "title": "Stor renovering av huvudbyggnaden påbörjas",
+      "date": {
+        "year": 2022,
+        "month": 10,
+        "day": 7,
+        "circa": false,
+        "text": "den 7 oktober"
+      },
+      "people": [],
+      "places": [
+        "Seminariets huvudbyggnad"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cf89ded40a3d7e980d91c5b12c9bf2f51dc538d1bf5b251e584c23a77b55843c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

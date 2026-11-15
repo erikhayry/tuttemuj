@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sarli81.htm",
+  "title": "Sarlinska gården september 1981",
+  "summary": "Fotografi från september 1981 av den till synes obebodda Sarlinska gården utan plank.",
+  "topics": [
+    "förfall",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sarlinska gården",
+      "kind": "building",
+      "alternateNames": [
+        "von Schantzka gården",
+        "Tomt 61"
+      ],
+      "address": "Borgaregatan 4",
+      "description": "Byggd av skräddarmästare Anders Forssell efter 1858; förföll men grundrenoverades 2001–2002.",
+      "geo": {
+        "lat": 63.5239452,
+        "lng": 22.5296749,
+        "match": "address",
+        "gazetteerName": "borgaregatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Sarlinska gården",
+      "date": {
+        "year": 1981,
+        "month": 9,
+        "day": 27,
+        "circa": false,
+        "text": "den 27 september 1981"
+      },
+      "people": [],
+      "places": [
+        "Sarlinska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4510c020d66e57bf37b323feaf5d601bba7d01ec9d5a6e698ae3a746d5dd08ed",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

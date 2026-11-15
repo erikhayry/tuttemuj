@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ramsagen.htm",
+  "title": "Ny ramsåg i Nykarleby 1958",
+  "summary": "Tidningsnotis från 1958 om Armas Mäenpääs nya ramsåg vid Kovjokivägen, den enda i omnejden, och minnen av den lilla smalspåriga trävagnsbanan mellan sågen och järnvägen som Källbacksbarnen lekte på ännu på 1970-talet.",
+  "topics": [
+    "såg",
+    "industri",
+    "lek"
+  ],
+  "people": [
+    {
+      "name": "Armas Mäenpää",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde sågen; tidigare maskinmästare vid Haralds såg och kvarn."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Westerlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Mäenpääs ramsåg",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Arbetaregatan 1",
+      "description": "Invid Kovjokivägen till höger om infarten till Westwood; senare Westerlunds.",
+      "geo": {
+        "lat": 63.52269310000001,
+        "lng": 22.5509382,
+        "match": "address",
+        "gazetteerName": "arbetaregatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Westwood",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Westerlunds snickeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kampen",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Mäenpää bygger ny ramsåg",
+      "date": {
+        "year": 1958,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "den 18 mars 1958"
+      },
+      "people": [
+        "Armas Mäenpää"
+      ],
+      "places": [
+        "Mäenpääs ramsåg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f021bf5b04c3e4f922c8d066055664e4f199ab9558ee18c182598c6d1811c48a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

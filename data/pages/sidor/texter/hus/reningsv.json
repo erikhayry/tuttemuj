@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/reningsv.htm",
+  "title": "Avloppsreningsverket 1975",
+  "summary": "Fotografi från 1975 av avloppsreningsverket vid Ragnörn nedanför gravgården, byggt 1973–74; sedan 1996 pumpas avloppet till Jakobstad och byggnaden är riven.",
+  "topics": [
+    "avlopp",
+    "infrastruktur",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Annalena Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Avloppsreningsverket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid Ragnörn nedanför gravgården."
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Reningsverket börjar byggas",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "hösten 1973"
+      },
+      "people": [],
+      "places": [
+        "Avloppsreningsverket"
+      ]
+    },
+    {
+      "title": "Reningsverket står färdigt",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "1974"
+      },
+      "people": [],
+      "places": [
+        "Avloppsreningsverket"
+      ]
+    },
+    {
+      "title": "Avloppet pumpas till Jakobstad",
+      "date": {
+        "year": 1996,
+        "circa": false,
+        "text": "Sedan 1996"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "683cb2c246efa67273d8b50a17b9159b211d64893d5012188feb3b8f160ee226",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

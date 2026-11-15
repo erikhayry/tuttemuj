@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/samskolayrf.htm",
+  "title": "Nykarleby samskola kring 1940",
+  "summary": "Fotografi från omkring 1940 av Nykarleby samskola med skylten och skarven mellan den nya och den gamla delen.",
+  "topics": [
+    "skola",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola",
+        "Häggbloms hus",
+        "Tomt 47"
+      ],
+      "address": "Topeliusesplanaden 12",
+      "description": "Vid korsningen med Borgaregatan; byggd 1859, samskola 1920–70, riven 1983.",
+      "geo": {
+        "lat": 63.523466,
+        "lng": 22.5307663,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av samskolan",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "i slutet på 1930- eller början på 1940-talet"
+      },
+      "people": [],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "063250c360a144645187a33b6dbf95f23f252d74892918ccf03b8cb1d1c0d568",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

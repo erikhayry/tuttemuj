@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/roosasla.htm",
+  "title": "Ladan vid Roosas lindon 1981",
+  "summary": "Fotografi från 1981 av ladan i sydöstra hörnet av Roosas lindo, som Gösta Fagerholm flyttade till brödernas rävfarm vid Pälsvägen 7, där den används för blårävarnas valplyor.",
+  "topics": [
+    "lada",
+    "pälsdjur",
+    "flyttade hus"
+  ],
+  "people": [
+    {
+      "name": "F. L.",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Fagerholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kenneth Myntti",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Ladan på Roosas lindo",
+      "kind": "building",
+      "alternateNames": [
+        "Roosas lado"
+      ]
+    },
+    {
+      "name": "Roosas lindo",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Fagerholms rävfarm",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Pälsvägen 7"
+    },
+    {
+      "name": "Pälsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329542,
+        "lng": 22.5446337,
+        "match": "name",
+        "gazetteerName": "pälsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Padel Club Finlands hall",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frill natur- och landskapsområde",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av ladan",
+      "date": {
+        "year": 1981,
+        "month": 5,
+        "day": 25,
+        "circa": false,
+        "text": "den 25 maj 1981"
+      },
+      "people": [],
+      "places": [
+        "Ladan på Roosas lindo"
+      ]
+    },
+    {
+      "title": "Padelhallen byggs",
+      "date": {
+        "year": 2021,
+        "circa": false,
+        "text": "2021"
+      },
+      "people": [],
+      "places": [
+        "Padel Club Finlands hall"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "54907228fe4f622fdb919ce59be9dbab8a2651f6ede54f8374c9d8a5f7dc402f",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

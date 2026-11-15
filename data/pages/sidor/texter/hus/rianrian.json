@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/rianrian.htm",
+  "title": "Torkrian 1973",
+  "summary": "Fotografi från 1973 av torkrian vid korsningen Jeansborgsvägen–Östra åvägen, byggd efter kriget, flitigt använd som annonsplank och som tillhåll för ungdomsgänget Rian-Rian, riven i mitten av 1970-talet.",
+  "topics": [
+    "lada",
+    "ungdom",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rian-Rian",
+      "kind": "building",
+      "alternateNames": [
+        "Torkrian"
+      ],
+      "address": "Östra åvägen 1"
+    },
+    {
+      "name": "Jeansborgsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5171249,
+        "lng": 22.5341641,
+        "match": "name",
+        "gazetteerName": "jeansborgsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Östra Åvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.47834529999999,
+        "lng": 22.5318815,
+        "match": "name",
+        "gazetteerName": "östra åvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Torkrian byggs",
+      "date": {
+        "year": 1945,
+        "circa": true,
+        "text": "strax efter kriget"
+      },
+      "people": [],
+      "places": [
+        "Rian-Rian"
+      ]
+    },
+    {
+      "title": "Torkrian rivs",
+      "date": {
+        "year": 1975,
+        "circa": true,
+        "text": "i mitten på 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "Rian-Rian"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e0ed8896ef1685dcaaf11eb877471eabd9a719c243a8866fcffb52437fd21300",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

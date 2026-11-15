@@ -1,0 +1,170 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/salem.htm",
+  "title": "Salem ca 1975",
+  "summary": "Pingstförsamlingens bönehus Salem på Gustav Adolfsgatan 19 från 1930-talet och den nya Pingstkyrkan som invigdes första advent 1976, byggd delvis på talko.",
+  "topics": [
+    "frikyrka",
+    "kyrka",
+    "talko"
+  ],
+  "people": [
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Per-Erik Villman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Harry Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "Savolainen",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Torvikoski",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Venje Höglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Björkskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Villman",
+      "alternateNames": [],
+      "roles": [
+        "åkare"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Iris Käld",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Viola Enström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hans Wikman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vilhelm Nyby",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Salem",
+      "kind": "building",
+      "alternateNames": [
+        "Pingstförsamlingens bönehus",
+        "Salemförsamlingens bönehus"
+      ],
+      "address": "Gustav Adolfsgatan 19",
+      "description": "Byggt på 1930-talet; ersatt av Pingstkyrkan 1976.",
+      "geo": {
+        "lat": 63.5230468,
+        "lng": 22.5335766,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 19",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pingstkyrkan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Venje Höglunds gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Salem byggs",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "på 1930-talet"
+      },
+      "people": [],
+      "places": [
+        "Salem"
+      ]
+    },
+    {
+      "title": "Venje Höglunds nya gård byggs",
+      "date": {
+        "year": 1974,
+        "month": 7,
+        "day": 29,
+        "circa": false,
+        "text": "den 29 juli 1974"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Pingstkyrkan invigs",
+      "date": {
+        "year": 1976,
+        "month": 11,
+        "circa": false,
+        "text": "första söndagen i advent år 1976"
+      },
+      "people": [
+        "Harry Holmberg"
+      ],
+      "places": [
+        "Pingstkyrkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e642f86761a74ff910be338f96956a6a141fcfae75196c9eccc1453756e005e1",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

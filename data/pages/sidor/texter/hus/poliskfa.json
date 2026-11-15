@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/poliskfa.htm",
+  "title": "Poliskammaren 1958",
+  "summary": "Fotografi från 1958 av poliskammaren med två tillbyggnader: en farstukvist som revs eftersom snöplogen inte kom förbi, och ett vedlider där förverkad egendom och hittegods förvarades. Där stod också den ryska ZIM-bil som en flykting använt och som kom tillbaka med ett skotthål i fönsterkarmen.",
+  "topics": [
+    "polis",
+    "kuriosa"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Poliskammaren",
+      "kind": "building",
+      "alternateNames": [
+        "Polisstationen",
+        "Stadshäktet",
+        "Butkan"
+      ],
+      "address": "Sollefteågatan 8",
+      "description": "Vid korsningen med Topeliusesplanaden; revs 1979 när Ämbetshuset byggdes.",
+      "geo": {
+        "lat": 63.52180139999999,
+        "lng": 22.530978,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Farstukvisten rivs",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "senast år 1962"
+      },
+      "people": [],
+      "places": [
+        "Poliskammaren"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En man tar sig i en rysk sjupersoners ZIM från Nykarleby till Kemi och vidare mot Sverige innan han grips. Bilen förs tillbaka och ställs utanför poliskammaren – med ett skotthål i fönsterkarmen, till åskådarnas förfasande.",
+    "reason": "En flykt, en jakt och ett kusligt bevis kvar på gatan ger en kort men laddad berättelse.",
+    "characters": [],
+    "places": [
+      "Poliskammaren"
+    ]
+  },
+  "contentHash": "6eac52e84aa4c6ea918419641438331da5c17904c9f4383d6b7241dcfb8ec661",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

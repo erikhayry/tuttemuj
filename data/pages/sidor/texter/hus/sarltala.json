@@ -1,0 +1,202 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sarltala.htm",
+  "title": "Sarlinska gårdens fall och uppgång",
+  "summary": "Inledning till fotoserien om Sarlinska gården på Borgaregatan 4, som skräddarmästare Anders Forssell byggde efter 1858 och som släkten Sarlin ägde i över hundra år. Efter att farmaceuten Karin Maria Sarlin dog 1973 förföll gården, tills Philip von Schantz grundrenoverade den 2001–2002.",
+  "topics": [
+    "hus",
+    "ägarlängd",
+    "förfall",
+    "renovering"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Anders Forssell",
+      "alternateNames": [],
+      "deathYear": 1865,
+      "roles": [
+        "skräddarmästare"
+      ]
+    },
+    {
+      "name": "Maja Stina Forssell",
+      "alternateNames": [
+        "Maja Stina Sarlin"
+      ],
+      "deathYear": 1867,
+      "roles": []
+    },
+    {
+      "name": "M. E. Sarlin",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Edla Ridderstad",
+      "alternateNames": [],
+      "deathYear": 1930,
+      "roles": []
+    },
+    {
+      "name": "Evald Sarlin",
+      "alternateNames": [],
+      "deathYear": 1905,
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Hanna Sarlin",
+      "alternateNames": [
+        "Hanna Sundström"
+      ],
+      "deathYear": 1920,
+      "roles": []
+    },
+    {
+      "name": "Karin Maria Sarlin",
+      "alternateNames": [],
+      "birthYear": 1885,
+      "deathYear": 1973,
+      "roles": [
+        "farmaceut"
+      ]
+    },
+    {
+      "name": "Philip von Schantz",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leo Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sarlinska gården",
+      "kind": "building",
+      "alternateNames": [
+        "von Schantzka gården",
+        "Tomt 61"
+      ],
+      "address": "Borgaregatan 4",
+      "description": "Byggd av skräddarmästare Anders Forssell efter 1858; förföll men grundrenoverades 2001–2002.",
+      "geo": {
+        "lat": 63.5239452,
+        "lng": 22.5296749,
+        "match": "address",
+        "gazetteerName": "borgaregatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Anders Forssell ropar in tomt 61",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [
+        "Anders Forssell"
+      ],
+      "places": [
+        "Sarlinska gården"
+      ]
+    },
+    {
+      "title": "Maja Stina ärver gården",
+      "date": {
+        "year": 1865,
+        "circa": false,
+        "text": "1865"
+      },
+      "people": [
+        "Maja Stina Forssell"
+      ],
+      "places": []
+    },
+    {
+      "title": "M. E. Sarlin ärver gården",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "1867"
+      },
+      "people": [
+        "M. E. Sarlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Eldsvåda",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "1919"
+      },
+      "people": [],
+      "places": [
+        "Sarlinska gården"
+      ]
+    },
+    {
+      "title": "Karin Maria Sarlin dör och gården tillfaller Philip von Schantz",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [
+        "Karin Maria Sarlin",
+        "Philip von Schantz"
+      ],
+      "places": [
+        "Sarlinska gården"
+      ]
+    },
+    {
+      "title": "Gården grundrenoveras",
+      "date": {
+        "year": 2001,
+        "circa": false,
+        "text": "2001–2002"
+      },
+      "people": [],
+      "places": [
+        "Sarlinska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "72883710019d1eede4cd604cd76fc0f97218a642d2c5abc05aa46d147829c3c7",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

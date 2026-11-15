@@ -1,0 +1,184 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/semibastu_tg.html",
+  "title": "Tema Seminariets bastu anno 1918",
+  "summary": "Seminariets gamla bastu brändes av ryssarna, och senaten beviljade 1918 nära 30 000 mark till en ny i tegel. Seminaristen Ture Granqvist beskriver i en skoluppsats hur fyra kamrater badade först – i mörker eftersom elen saknades, mot direktorns varning direkt efter maten och med så hög sång att taket nästan lyfte.",
+  "topics": [
+    "seminariet",
+    "bastu",
+    "1918",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Ture Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "Granér",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "Stark",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "Maans",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "A. W. Stenfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "A. Tötterström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "B. Hagfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "S. Spolander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "M. Kjellman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Charlotta Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Susann Westerby",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariets bastu",
+      "kind": "building",
+      "alternateNames": [
+        "Seminariets badstuga",
+        "Badhuset för Nykarleby seminarium"
+      ],
+      "description": "Ny badstuga av tegel byggd 1918 efter att ryssarna bränt den gamla."
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Militären fick bada i frihemmets badstuga."
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminariets gamla bastu bränns av ryssarna",
+      "date": {
+        "year": 1917,
+        "circa": true,
+        "text": "för två år sedan"
+      },
+      "people": [],
+      "places": [
+        "Seminariets bastu"
+      ]
+    },
+    {
+      "title": "Ritning till badhuset",
+      "date": {
+        "year": 1917,
+        "month": 4,
+        "day": 27,
+        "circa": false,
+        "text": "Den 27 april 1917"
+      },
+      "people": [
+        "A. W. Stenfors"
+      ],
+      "places": [
+        "Seminariets bastu"
+      ]
+    },
+    {
+      "title": "Senaten beviljar medel till ny badstuga",
+      "date": {
+        "year": 1918,
+        "month": 3,
+        "day": 27,
+        "circa": false,
+        "text": "27 mars 1918"
+      },
+      "people": [],
+      "places": [
+        "Seminariets bastu"
+      ]
+    },
+    {
+      "title": "Seminaristerna badar första gången i nya bastun",
+      "date": {
+        "year": 1918,
+        "month": 11,
+        "day": 21,
+        "circa": false,
+        "text": "Den 21 nov."
+      },
+      "people": [
+        "Ture Granqvist",
+        "Granér",
+        "Stark",
+        "Maans"
+      ],
+      "places": [
+        "Seminariets bastu"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Hösten 1918 är seminariets nya tegelbastu äntligen klar. Fyra seminarister struntar i direktorns varning och badar direkt efter maten, letar förgäves efter strömbrytaren i mörkret, tänder ett vaxljus – och sjunger så högt på laven att den tondöve Maans befarar att taket ska flyga av.",
+    "reason": "En rolig scen med fyra tydliga ungdomar, ett förbud som bryts och en stark kontrast till krigets bakgrund.",
+    "characters": [
+      "Ture Granqvist",
+      "Maans",
+      "Stark",
+      "Granér"
+    ],
+    "places": [
+      "Seminariets bastu"
+    ]
+  },
+  "contentHash": "4e3b8517f91cc8b942e9f2edd81cfbc918d877c1eb3eab6048cec435a1ab8d62",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

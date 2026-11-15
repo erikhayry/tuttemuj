@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/rummbrun.htm",
+  "title": "Brunnarna i Rummelbacken 1975",
+  "summary": "Fotografi från 1975 av de allmänna brunnarna vid korsningen Karleborgsgatan–Sollefteågatan på Rummelbacken, med vevad stock och gjutjärnspump, och en milsten intill.",
+  "topics": [
+    "brunnar"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Sigfrid Bertlin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnarna i Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Milstenen vid Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan 24",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 24",
+      "geo": {
+        "lat": 63.5231213,
+        "lng": 22.5381563,
+        "match": "address",
+        "gazetteerName": "borgaregatan 24",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av brunnarna",
+      "date": {
+        "year": 1975,
+        "circa": false,
+        "text": "1975"
+      },
+      "people": [],
+      "places": [
+        "Brunnarna i Rummelbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "06467208247870d480a986862c939e9ddea8c35ccd9f461867d3c5e62a61a94c",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

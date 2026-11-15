@@ -1,0 +1,218 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/rundkios.htm",
+  "title": "Rundkiosken den 28 december 1974",
+  "summary": "Rundkiosken vid esplanaden och Bankgatan, egentligen Esplanadkiosken, byggd 1958 och driven av Gurli Sund. Den såldes 1975 som servicehus till en pälsfarm på Frillmossen och står sedan dess i Socklot, där Lars Pensar äntligen fotograferade den 2026.",
+  "topics": [
+    "kiosker",
+    "flyttade hus",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Gurli Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sol-Britt Nyberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Widdas",
+      "alternateNames": [],
+      "roles": [
+        "arbetsledare"
+      ]
+    },
+    {
+      "name": "Gudrun Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gun Widdas",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Klas Fransberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Glenn Svanbäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Sandvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Segervall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm Segervall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Boris Nyman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Runda kiosken",
+      "kind": "building",
+      "alternateNames": [
+        "Rundkiosken",
+        "Esplanadkiosken",
+        "Grundkiosken"
+      ],
+      "description": "Vid korsningen Topeliusesplanaden–Bankgatan; byggd 1958, sedan 1980-talet i Socklot."
+    },
+    {
+      "name": "Kombikiosken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lövhyddan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frillmossen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Socklotvägen 144",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Socklotvägen 144"
+    },
+    {
+      "name": "Kampen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppovägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.42222559999999,
+        "lng": 22.6048085,
+        "match": "name",
+        "gazetteerName": "jeppovägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grisselören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.61204689999999,
+        "lng": 22.4921221,
+        "match": "name",
+        "gazetteerName": "grisselören",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gråsön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Rundkiosken byggs",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "byggdes 1958"
+      },
+      "people": [],
+      "places": [
+        "Runda kiosken"
+      ]
+    },
+    {
+      "title": "Kombikiosken byggs",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "sommaren 1974"
+      },
+      "people": [],
+      "places": [
+        "Kombikiosken"
+      ]
+    },
+    {
+      "title": "Kommunsammanslagningen",
+      "date": {
+        "year": 1974,
+        "month": 12,
+        "day": 31,
+        "circa": false,
+        "text": "på nyårsaftonen"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nils Widdas köper kiosken till pälsfarmen",
+      "date": {
+        "year": 1975,
+        "circa": false,
+        "text": "hösten 1975"
+      },
+      "people": [
+        "Nils Widdas"
+      ],
+      "places": [
+        "Runda kiosken",
+        "Frillmossen"
+      ]
+    },
+    {
+      "title": "Lars Pensar fotograferar kiosken i Socklot",
+      "date": {
+        "year": 2026,
+        "circa": false,
+        "text": "Sommaren 2026"
+      },
+      "people": [
+        "Lars Pensar",
+        "Erik Sandvik"
+      ],
+      "places": [
+        "Socklotvägen 144"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "559c77667eae7116e149b1c59ef9c9494b0a94bd77fbbe660458d2b66e86b8a9",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

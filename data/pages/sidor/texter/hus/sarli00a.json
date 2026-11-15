@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/sarli00a.htm",
+  "title": "Apotekets bagarstuga december 2000",
+  "summary": "Fotografi från december 2000 av apotekets bagarstuga på Borgaregatan 2.",
+  "topics": [
+    "apotek",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apotekets bagarstuga",
+      "kind": "building",
+      "alternateNames": [
+        "Apotekets gårdshus",
+        "Apotekets lillstuga"
+      ],
+      "address": "Borgaregatan 2",
+      "description": "Vid korsningen med Kyrkogatan; revs omkring 2002.",
+      "geo": {
+        "lat": 63.5240473,
+        "lng": 22.5286997,
+        "match": "address",
+        "gazetteerName": "borgaregatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av bagarstugan",
+      "date": {
+        "year": 2000,
+        "month": 12,
+        "circa": false,
+        "text": "december 2000"
+      },
+      "people": [],
+      "places": [
+        "Apotekets bagarstuga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "79da83c9b3a5c3d1e36a67a034eac7f6953f3a4aa0f54f7e171b2733c3cda09b",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

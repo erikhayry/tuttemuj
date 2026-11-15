@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/poliskaeb.htm",
+  "title": "Poliskammaren 1962",
+  "summary": "Erik Bircks fotografi från 1962 av polisstationen på Sollefteågatan 8.",
+  "topics": [
+    "polis",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Poliskammaren",
+      "kind": "building",
+      "alternateNames": [
+        "Polisstationen",
+        "Stadshäktet",
+        "Butkan"
+      ],
+      "address": "Sollefteågatan 8",
+      "description": "Vid korsningen med Topeliusesplanaden; revs 1979 när Ämbetshuset byggdes.",
+      "geo": {
+        "lat": 63.52180139999999,
+        "lng": 22.530978,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av polisstationen",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "people": [],
+      "places": [
+        "Poliskammaren"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2952dafa8d6affdcc5cf72ceefc7e069cd6e75842afdeb64b80c59e84d02f438",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

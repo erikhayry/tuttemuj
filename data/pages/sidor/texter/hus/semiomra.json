@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/semiomra.htm",
+  "title": "Seminarieområdet januari 1973",
+  "summary": "Fotografi från januari 1973 av seminarieområdet och förändringarna sedan dess: Skogsparkens skola 1974, högstadiet 1978, ladan och uthuset som rivits – uthuset återuppstod som SS Ägirs paviljong på Loppan.",
+  "topics": [
+    "seminariet",
+    "stadsmiljö"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminarieområdet",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Skogsparkens skola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Zacharias skola",
+      "kind": "building",
+      "alternateNames": [
+        "Högstadiet"
+      ]
+    },
+    {
+      "name": "SS Ägirs paviljong",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Loppan",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5189373,
+        "lng": 22.4200284,
+        "match": "name",
+        "gazetteerName": "loppan",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Residenshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skogsparkens skola byggs",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "(1974)"
+      },
+      "people": [],
+      "places": [
+        "Skogsparkens skola"
+      ]
+    },
+    {
+      "title": "Högstadiet står färdigt",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "till höstterminen 1978"
+      },
+      "people": [],
+      "places": [
+        "Zacharias skola"
+      ]
+    },
+    {
+      "title": "Gymnasiet grundrenoveras",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "Sommaren 2004"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7d6facfc8bf37e0a765aa4c847ea1446b6b0ae17a089cdeebd25eaafd78cf9bf",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}

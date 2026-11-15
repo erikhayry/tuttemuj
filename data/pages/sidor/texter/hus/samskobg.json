@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/samskobg.htm",
+  "title": "Samskolans baksida mars 1975",
+  "summary": "Fotografi av samskolans baksida i mars 1975.",
+  "topics": [
+    "skola",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola",
+        "Häggbloms hus",
+        "Tomt 47"
+      ],
+      "address": "Topeliusesplanaden 12",
+      "description": "Vid korsningen med Borgaregatan; byggd 1859, samskola 1920–70, riven 1983.",
+      "geo": {
+        "lat": 63.523466,
+        "lng": 22.5307663,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av samskolans baksida",
+      "date": {
+        "year": 1975,
+        "month": 3,
+        "circa": false,
+        "text": "mars 1975"
+      },
+      "people": [],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b0fcef4db4c41404ea0a86b46cd481dc3a32fcb29d25d8d6d9975a1338b91175",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:38:23.865Z"
+}
