@@ -1,0 +1,168 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ikaheimo.html",
+  "title": "Ikäheimonens gård",
+  "summary": "Kalle Ikäheimonens gård på Bankgatan 25 fram till 1947, och sonsonen Karl Erik Ikäheimonens berättelse om farfadern – flottare, banvakt och medicinman som lärt av Esas Lisa. I Kristinestad satte han leder på plats, koppade och tappade blod i bastun och räddade en gång grannens ko.",
+  "topics": [
+    "folkmedicin",
+    "släkt",
+    "minnen",
+    "järnvägen"
+  ],
+  "people": [
+    {
+      "name": "Kalle Ikäheimonen",
+      "alternateNames": [],
+      "roles": [
+        "flottare",
+        "banvakt"
+      ],
+      "description": "Född i Heinävesi; medicinman."
+    },
+    {
+      "name": "Sanna Kaisa Ikäheimonen",
+      "alternateNames": [
+        "Sanna Kaisa Markkula"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Liisa Markkula",
+      "alternateNames": [
+        "Esas Lisa",
+        "Esas Liisa"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Karl Erik Ikäheimonen",
+      "alternateNames": [],
+      "birthYear": 1948,
+      "roles": [
+        "skogsfackman"
+      ]
+    },
+    {
+      "name": "Harjulin",
+      "alternateNames": [],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Kurt Lobbas",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl-Johan Palm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Gustafsson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Ikäheimonens gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 25",
+      "description": "Vid korsningen med Mathesiusgatan.",
+      "geo": {
+        "lat": 63.52185530000001,
+        "lng": 22.5375489,
+        "match": "address",
+        "gazetteerName": "bankgatan 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Purilfinnan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Flottningsplats."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kalle Ikäheimonen flyttar till Nykarleby",
+      "date": {
+        "year": 1890,
+        "circa": true,
+        "text": "i slutet på 1800-talet"
+      },
+      "people": [
+        "Kalle Ikäheimonen"
+      ],
+      "places": []
+    },
+    {
+      "title": "Familjen lämnar gården",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "fram till 1947"
+      },
+      "people": [],
+      "places": [
+        "Ikäheimonens gård"
+      ]
+    },
+    {
+      "title": "Familjen flyttar till Kristinestad",
+      "date": {
+        "year": 1946,
+        "circa": false,
+        "text": "1946"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Flottaren och banvakten Kalle Ikäheimonen lär sig folkmedicin av Esas Lisa i Nykarleby och blir själv medicinman: han sätter leder på plats, koppar och tappar blod i bastun, strör socker i ögonen mot starr och räddar en gång grannens ko vid en svår kalvning.",
+    "reason": "En egensinnig huvudperson med drastiska och minnesvärda scener.",
+    "characters": [
+      "Kalle Ikäheimonen",
+      "Liisa Markkula"
+    ],
+    "places": [
+      "Ikäheimonens gård"
+    ]
+  },
+  "contentHash": "d3130b9631a1941f756313f75d4b2c122972803f0d5115b171de7aeaa89bfebc",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:14:10.036Z"
+}

@@ -1,0 +1,171 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/janssons.htm",
+  "title": "Janssons gård",
+  "summary": "Huset på Källbackgatan 10 med sin snickarglädje sägs vara det gamla kronomagasinet från Norrtull, som snickaren Karl Uno Sarlin flyttade och byggde upp 1907. Fortfarande kan man känna smak av salt under stockarna i potatiskällaren.",
+  "topics": [
+    "hus",
+    "flyttade hus",
+    "kronomagasin"
+  ],
+  "people": [
+    {
+      "name": "Leif Jansson",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Anna Hjelt",
+      "alternateNames": [],
+      "roles": [
+        "skräddaränka"
+      ]
+    },
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Uno Sarlin",
+      "alternateNames": [],
+      "birthYear": 1860,
+      "deathYear": 1940,
+      "roles": [
+        "snickare"
+      ]
+    },
+    {
+      "name": "Rolf Jansson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sylvi Jansson",
+      "alternateNames": [
+        "Sylvi Kortesniemi"
+      ],
+      "roles": []
+    },
+    {
+      "name": "August Nyberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aki Björklund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Janssons gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tomt 89"
+      ],
+      "address": "Källbackgatan 10",
+      "description": "Huset sägs vara det gamla kronomagasinet från Norrtull, flyttat hit 1907.",
+      "geo": {
+        "lat": 63.5252101,
+        "lng": 22.5376656,
+        "match": "address",
+        "gazetteerName": "källbackgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kronomagasinet vid Norrtull",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Liima-Jannes snickeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Norrtull",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Anna Hjelt ropar in tomt 89",
+      "date": {
+        "year": 1859,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "den 13 september 1859"
+      },
+      "people": [
+        "Anna Hjelt"
+      ],
+      "places": [
+        "Janssons gård"
+      ]
+    },
+    {
+      "title": "Kronomagasinet flyttas och byggs upp på Källbackgatan",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "år 1907"
+      },
+      "people": [
+        "Karl Uno Sarlin"
+      ],
+      "places": [
+        "Janssons gård",
+        "Kronomagasinet vid Norrtull"
+      ]
+    },
+    {
+      "title": "Rolf och Sylvi Jansson köper gården",
+      "date": {
+        "year": 1967,
+        "circa": true,
+        "text": "1967 eller -68"
+      },
+      "people": [
+        "Rolf Jansson",
+        "Sylvi Jansson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Norra delen byggs till",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "år 1978"
+      },
+      "people": [],
+      "places": [
+        "Janssons gård"
+      ]
+    },
+    {
+      "title": "Aki Björklund blir ägare",
+      "date": {
+        "year": 2021,
+        "circa": false,
+        "text": "Sedan 2021"
+      },
+      "people": [
+        "Aki Björklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8ffc558902ae4e8e6f093de053d4830e854ff56f0afb6282d7621eafb97cb56a",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:14:10.036Z"
+}

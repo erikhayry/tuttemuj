@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/joupers.htm",
+  "title": "F.d. Joupers 1993",
+  "summary": "Fotografi från 1993 av Joupers fabriksanläggning på Nygård strax innan den revs, där senare båtvarv, pälsföretag och en fönsterfabrik verkade; skorstenen var en av stadens två.",
+  "topics": [
+    "industri",
+    "rivna hus",
+    "fabrik"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Tor Ahlstrand",
+      "alternateNames": [],
+      "roles": [
+        "journalist"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ]
+    },
+    {
+      "name": "Peter Siegfrids",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Jouperfabriken",
+      "kind": "building",
+      "alternateNames": [
+        "Joupers fabriksanläggning"
+      ]
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Nygård"
+      ]
+    },
+    {
+      "name": "Joupersgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.517699,
+        "lng": 22.5263233,
+        "match": "name",
+        "gazetteerName": "joupersgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mejeriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Joupers innan rivningen",
+      "date": {
+        "year": 1993,
+        "circa": false,
+        "text": "1993"
+      },
+      "people": [],
+      "places": [
+        "Jouperfabriken"
+      ]
+    },
+    {
+      "title": "Flora förvaras i fabriken",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984–1986"
+      },
+      "people": [],
+      "places": [
+        "Jouperfabriken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cf100baaeee579338701035b95e627e08df0cbc5c5f945334a8da682f106d174",
+  "extractionVersion": 1,
+  "model": "claude-opus-5-5",
+  "extractedAt": "2026-11-15T15:14:10.036Z"
+}
