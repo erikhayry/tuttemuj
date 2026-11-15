@@ -12,7 +12,7 @@ Starts the installed launchd job `tuttemuj.crawl`, the same job that runs every 
 3. Crawls up to `CRAWL_LIMIT` (250) pages, politely.
 4. Commits `data/` as `data: nightly crawl <date>` and pushes.
 
-A run takes about 20 minutes. Don't pass arguments or change the crawl settings: the point is to behave exactly like the nightly run.
+A run takes about 40 minutes (250 pages × 5 s pause plus fetch time). Don't pass arguments or change the crawl settings: the point is to behave exactly like the nightly run.
 
 ## Steps
 
