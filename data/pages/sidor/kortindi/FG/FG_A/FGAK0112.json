@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAK0112.HTM",
+  "title": "Sankta Birgitta kyrka",
+  "summary": "Kyrkan som lutar åt höger. Många träd fälldes i samband med dammhöjningen, och det gör den här vyn mindre lummig än på det ursprungliga vykortet.",
+  "topics": [
+    "kyrkan",
+    "dammhöjningen",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka",
+        "kyrkan"
+      ],
+      "description": "Kyrkan som syns på kortet.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f39b63667670a9e12203e546fa3b40a8b31ae9ea16e07c1c85f2052c18d3ce75",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

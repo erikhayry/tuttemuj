@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_D/JHD.HTM",
+  "title": "Delvis nya perspektiv",
+  "summary": "Herlers första kolorerade serie från 1910, med numrerade kort. Två av korten visar Juthforsen från Storbron och Brunnsholmarna från nordost.",
+  "topics": [
+    "josef herler",
+    "serie 1910",
+    "kolorerat",
+    "juthforsen",
+    "brunnsholmarna"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Drev Josef Herlers bokhandel i Nykarleby och gav ut serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthforsen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stadsforsen"
+      ],
+      "description": "Forsen fotograferad söderut från Storbron."
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Fotograferade från nordost."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "06dea74db49077e26448890dd147c3704ced89d14170a9a2fb1aecbffbd0cfc7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

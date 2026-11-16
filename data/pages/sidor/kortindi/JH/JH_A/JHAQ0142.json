@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_A/JHAQ0142.HTM",
+  "title": "Kuddnäs brygga",
+  "summary": "Kuddnäs brygga och ett buskage från älven. Uthuset till vänster hörde ursprungligen till åldringshemmet Östervall, och området används i dag av Yrkesträningsskolan.",
+  "topics": [
+    "kuddnäs",
+    "östervall",
+    "hagalund",
+    "yrkesträningsskolan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Brygga och uthus på kortet."
+    },
+    {
+      "name": "Östervall",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Åldringshem. Uthuset till vänster hörde ursprungligen till det."
+    },
+    {
+      "name": "Hagalund",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Pensionärscentret som byggdes mitt emot prästgården."
+    },
+    {
+      "name": "Prästgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hagalund byggdes mitt emot prästgården."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8e1f64621402bbd33a12c45b13287d5ed3643c0c9bdef9cc8f84da5fe162f90f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

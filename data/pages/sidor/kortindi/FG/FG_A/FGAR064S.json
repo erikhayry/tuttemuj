@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAR064S.HTM",
+  "title": "Brunnsholmarna, stadskvarnen och Storbron",
+  "summary": "En sommaridyll med Brunnsholmarna, stadskvarnen och Storbron. Kvarnen har sällan varit huvudmotiv på ett vykort, men syns ofta i bakgrunden.",
+  "topics": [
+    "brunnsholmarna",
+    "stadskvarnen",
+    "storbron",
+    "vykort",
+    "sommar"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Holmarna på kortet, med landgång från roddbåten."
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kvarnen vid kvarndammen."
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron som syns på kortet."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "42cba224538989ad50be5aaeccd36bb1bcec299287c379e9943f363a01f0f978",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

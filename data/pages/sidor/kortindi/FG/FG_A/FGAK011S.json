@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAK011S.HTM",
+  "title": "Sankta Birgitta kyrka från väster",
+  "summary": "Kyrkan fotograferad från väster på ett kort som trycktes i Tyskland. Kortet är daterat 1906, med osäkerhet.",
+  "topics": [
+    "kyrkan",
+    "vykort",
+    "1906"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka",
+        "kyrkan"
+      ],
+      "description": "Kyrkan som syns på kortet.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3201643d5bbff21e9a7e0ab43794cf3a98240ff8cf1e21040713043bcf5e5c10",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAQ050S.HTM",
+  "title": "Topeliuskavalkad 2",
+  "summary": "Ett kort med Majniemi, Topelius sommarvilla, och lusthuset i Kuddnäs trädgård. Det är ett av de Topeliuskort som ingår i en serie.",
+  "topics": [
+    "topelius",
+    "majniemi",
+    "kuddnäs",
+    "lusthuset",
+    "vykort"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Hade sin sommarvilla Majniemi."
+    }
+  ],
+  "places": [
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topelius sommarvilla."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Kuddnäs från älven och lusthuset i trädgården."
+    },
+    {
+      "name": "Lusthuset på Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Lusthuset i Kuddnäs trädgård."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a4c89b310bd7ce6db6a26b0a05f418d35ca3e172dcb4c1b932e96b6e9b916a97",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

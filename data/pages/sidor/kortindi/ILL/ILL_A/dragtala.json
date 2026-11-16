@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/dragtala.htm",
+  "title": "Dragspel – Nykarleby",
+  "summary": "Ett dragspel från V. E. Björkboms Bokhandel i Nykarleby, med motiv som är spridda över fem olika serier. En av bilderna, från korsningen Esplanaden–Sollefteågatan mot torget, har aldrig getts ut som vykort.",
+  "topics": [
+    "dragspel",
+    "björkbom",
+    "torget",
+    "sollefteågatan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bilden är tagen mot torget från korsningen Esplanaden–Sollefteågatan."
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan vid korsningen med Esplanaden.",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6b3b4eafb5fa1730b1cec064c7bfdbeea9aa6ddec761df29f0ac72a8ddcd2b09",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

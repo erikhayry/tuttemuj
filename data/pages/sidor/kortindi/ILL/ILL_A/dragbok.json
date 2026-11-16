@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/dragbok.htm",
+  "title": "Souvenirdragspel",
+  "summary": "Ett souvenirdragspel som såldes i början av 1970-talet, med åtta vykort av Storbron, Brostugan, torget och flera vyer av staden.",
+  "topics": [
+    "dragspel",
+    "souvenir",
+    "vykort",
+    "1970-tal"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten."
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten, tillsammans med kyrkan och centrum från sydväst."
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten, med omkringliggande byggnader från nordväst."
+    },
+    {
+      "name": "Juthbacka herrgård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten."
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten, från vattentornet.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Prästgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i förgrunden på två av korten."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "13f2e5711b80018a24bb9be7dccab7447fcb1c7d61511e660fd1470828460ca5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

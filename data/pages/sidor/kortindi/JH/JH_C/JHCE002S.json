@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/JHCE002S.HTM",
+  "title": "Esplanaden",
+  "summary": "Korsningen Topeliusesplanaden–Bankgatan mot norr, med Wasa Aktiebank till vänster och det som senare blev Viks hotell till höger.",
+  "topics": [
+    "esplanaden",
+    "bankgatan",
+    "wasa aktiebank",
+    "viks hotell"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan på kortet.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsar Topeliusesplanaden.",
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Wasa Aktiebank",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ligger till vänster i korsningen."
+    },
+    {
+      "name": "Viks hotell",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Det som senare blev hotellet ligger till höger."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f933b78924e133b3971f0138075d48725b6f4e185b1f1729698763a19c97476e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

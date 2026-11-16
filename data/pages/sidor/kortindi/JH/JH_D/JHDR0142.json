@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_D/JHDR0142.HTM",
+  "title": "Stadsfjärden",
+  "summary": "En fors som blivit en sjö. Byggnaden till vänster hörde till Engs tellblocksfabrik, som etablerades i det gamla garveriet när garveriverksamheten lades ner.",
+  "topics": [
+    "stadsfjärden",
+    "tellblock",
+    "garveriet",
+    "2002"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stadsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "En fors som förvandlats till en sjö."
+    },
+    {
+      "name": "Engs tellblocksfabrik",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tillverkade betonghålblock i den gamla bryggerikällaren."
+    },
+    {
+      "name": "Garveriet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Det gamla garveriet, där de färdiga blocken lagrades."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tellblocksfabriken etableras",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "när garveriverksamheten lades ner på femtiotalet"
+      },
+      "description": "Engs tellblocksfabrik etableras när garveriverksamheten lades ner.",
+      "people": [],
+      "places": [
+        "Engs tellblocksfabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0af112a533747e6684e02d352f869bed1c3adde1c486bbc0423d58cd707dd60d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

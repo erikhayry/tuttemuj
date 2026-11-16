@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/GK/GK_A/GKAR0182.HTM",
+  "title": "Älven syns knappt längre",
+  "summary": "Utfallssänkan vid älven, där ett femvåningshus från slutet av 1960-talet står på platsen för Carl Synnerbergs barndomshem. Platsen är i dag en del av ett daghems lekpark.",
+  "topics": [
+    "utfallssänkan",
+    "älven",
+    "daghem",
+    "2002"
+  ],
+  "people": [
+    {
+      "name": "Carl Synnerberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans barndomshem stod på platsen där femvåningshuset byggdes."
+    }
+  ],
+  "places": [
+    {
+      "name": "Utfallssänkan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen på kortet. I dag en del av lekparken."
+    },
+    {
+      "name": "Smedsbacka daghem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Lekparken ingår i daghemmets område."
+    }
+  ],
+  "events": [
+    {
+      "title": "Femvåningshus byggs på Synnerbergs barndomshem",
+      "date": {
+        "year": 1969,
+        "circa": true,
+        "text": "i slutet på sextiotalet"
+      },
+      "description": "Ett femvåningshus byggs på platsen för Carl Synnerbergs barndomshem.",
+      "people": [
+        "Carl Synnerberg"
+      ],
+      "places": [
+        "Utfallssänkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ffcdbef527bde5bbd9a2e62a8da3ac57bb0be986930d708060d7ddcf56718806",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

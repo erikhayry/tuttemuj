@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/NNAH025S.HTM",
+  "title": "Wernamo",
+  "summary": "Wernamo var bostad för länsmän och kaplaner, och har också använts som skola och lager för Prevex. Huset revs 1978 och ersattes av radhus.",
+  "topics": [
+    "wernamo",
+    "länsman",
+    "prevex",
+    "rivning",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Wernamo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset som revs 1978."
+    }
+  ],
+  "events": [
+    {
+      "title": "Wernamo revs",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "1978"
+      },
+      "description": "Huset revs och ersattes av radhus.",
+      "people": [],
+      "places": [
+        "Wernamo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "abdd6e6ce63f87ca0857a34b7475b707ea8318d2f8a6a7f6b698b67dd26f512f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

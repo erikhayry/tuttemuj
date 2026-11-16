@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAR071S.HTM",
+  "title": "Brostugan och Storbron",
+  "summary": "Vykortet visar Brostugan och Storbron. En skribent minns hur barn klättrade under bron, blåste rönnbär på förbipasserande och vågade sig genom fackverket till nästa brokista. Bron har sedan höjts och byggts om.",
+  "topics": [
+    "brostugan",
+    "storbron",
+    "barndomsminnen",
+    "dammhöjningen",
+    "1984"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnaden på kortet. En pumpanordning för lokomotivens vattentankar fanns till höger förr."
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron som barnen klättrade under. Byggdes om och höjdes."
+    }
+  ],
+  "events": [
+    {
+      "title": "Storbron höjs vid dammhöjningen",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "senast i samband med dammhöjningen 1984"
+      },
+      "description": "Bron byggs om och höjs senast i samband med dammhöjningen.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Tolv- och trettonåriga pojkar klättrar under bron vid Brostugan, blåser rönnbär på förbipasserande och vågar sig genom fackverket till nästa brokista.",
+    "reason": "Ett levande barndomsminne med en lätt fara, men sidan ger bara några rader av berättelsen.",
+    "characters": [],
+    "places": [
+      "Brostugan",
+      "Storbron"
+    ]
+  },
+  "contentHash": "243efa676268d34ea81d4a1f0ecf07f621729e342b322e300c067aca6226472d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

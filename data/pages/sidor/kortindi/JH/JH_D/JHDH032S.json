@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_D/JHDH032S.HTM",
+  "title": "Normalskolan",
+  "summary": "Normalskolan från öster. Sidan kommenterar fotografens komposition, men lyfter fram att byggnaden är vacker.",
+  "topics": [
+    "normalskolan",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Motivet på kortet.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f030027f443aa553ac087fc227887a7ae07539643cb87178e7b9c914c20ef209",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

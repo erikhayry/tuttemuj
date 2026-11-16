@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/JHCE007S.HTM",
+  "title": "Boulevarden",
+  "summary": "Korsningen Topeliusesplanaden–Lybecksgatan mot norr, med Topeliusparken till vänster. Husen revs i mitten till slutet av 1960-talet, och de nya husen är indragna på tomterna enligt stadsplanen.",
+  "topics": [
+    "boulevarden",
+    "stadsplan",
+    "rivning",
+    "topeliusparken"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen på kortet.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsar Topeliusesplanaden.",
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Till vänster på kortet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Husen längs gatan revs",
+      "date": {
+        "year": 1965,
+        "circa": true,
+        "text": "från mitten till slutet av sextiotalet"
+      },
+      "description": "Husen längs gatan revs. De nya husen byggdes indragna på tomterna.",
+      "people": [],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "458b88dde47f8d648245ccbd47645cfda9cdc713f4023411654172f13a15ec77",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

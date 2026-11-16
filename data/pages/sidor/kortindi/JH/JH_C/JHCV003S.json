@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/JHCV003S.HTM",
+  "title": "Smedjan i Rummelbacken",
+  "summary": "Smedjan i Rummelbacken, som byggdes 1875 och lades ner 1912. Sidan visar också en räkning och en annons från 1898.",
+  "topics": [
+    "smedjan",
+    "rummelbacken",
+    "sollefteågatan",
+    "karleborgsgatan"
+  ],
+  "people": [
+    {
+      "name": "J. Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "klensmedsmästare",
+        "kopparslagare"
+      ],
+      "description": "Byggde smedjan 1875 och innehade den till 1901."
+    },
+    {
+      "name": "J. R. Wickberg",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ],
+      "description": "Övertog smedjan 1901."
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedjan i Rummelbacken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mellan flyttblocken vid korsningen Sollefteågatan–Karleborgsgatan."
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Smedjan ligger här."
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Karleborgsgatan.",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Sollefteågatan.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Smedjan byggs",
+      "date": {
+        "year": 1875,
+        "circa": false,
+        "text": "1875"
+      },
+      "description": "Smedjan byggs av J. Karlsson.",
+      "people": [
+        "J. Karlsson"
+      ],
+      "places": [
+        "Smedjan i Rummelbacken"
+      ]
+    },
+    {
+      "title": "J. R. Wickberg tar över smedjan",
+      "date": {
+        "year": 1901,
+        "circa": false,
+        "text": "1901"
+      },
+      "description": "Smedjan övertas av J. R. Wickberg.",
+      "people": [
+        "J. R. Wickberg"
+      ],
+      "places": [
+        "Smedjan i Rummelbacken"
+      ]
+    },
+    {
+      "title": "Smedjan läggs ner",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "1912"
+      },
+      "description": "Verksamheten i smedjan läggs ner.",
+      "people": [],
+      "places": [
+        "Smedjan i Rummelbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "434396c6dfdc593e3558e13184f4aa89328a4785d280b72cf9f969f2f9268d13",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

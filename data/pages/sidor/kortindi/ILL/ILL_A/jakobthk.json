@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/jakobthk.htm",
+  "title": "Storgatan vid Kanalesplanaden",
+  "summary": "Storgatan vid Kanalesplanaden mot söder, med husen till höger som senare revs. Bankhuset som byggdes efter bilden revs 2015 och ersattes hösten 2016.",
+  "topics": [
+    "storgatan",
+    "kanalesplanaden",
+    "bankhuset",
+    "rivning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan på kortet."
+    },
+    {
+      "name": "Kanalesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Esplanaden med björkar på den tiden."
+    },
+    {
+      "name": "Bankhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggdes efter att bilden togs. Revs i mars 2015."
+    }
+  ],
+  "events": [
+    {
+      "title": "Bankhuset revs",
+      "date": {
+        "year": 2015,
+        "month": 3,
+        "circa": false,
+        "text": "mars 2015"
+      },
+      "description": "Bankhuset revs.",
+      "people": [],
+      "places": [
+        "Bankhuset"
+      ]
+    },
+    {
+      "title": "Ersättningshuset står klart",
+      "date": {
+        "year": 2016,
+        "circa": false,
+        "text": "hösten 2016"
+      },
+      "description": "Ersättaren för Bankhuset står klar efter mycket debatt.",
+      "people": [],
+      "places": [
+        "Bankhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "42dd58aee5bd1010e050534de033c1cfa1b5c7681bfb6eef94125badf51016c4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

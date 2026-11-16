@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/JHC.HTM",
+  "title": "Delvis intressanta vyer",
+  "summary": "En serie från 1910 som för första gången visar smedjan i Rummelbacken och husen vid Esplanaden mitt emot Topeliusparken. Vyerna är retuscherade med moln och konturer.",
+  "topics": [
+    "rummelbacken",
+    "smedjan",
+    "esplanaden",
+    "serie 1910"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Drev Josef Herlers bokhandel i Nykarleby och gav ut serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Smedjan ligger här."
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Husen mitt emot Topeliusparken."
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Mitt emot husen vid Esplanaden."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ec9257f41a139dde4d3b7882c0ab589b94cdfb8c3952403e423d107782f3e4d2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

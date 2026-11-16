@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/LTAQ027S.HTM",
+  "title": "Kuddnäs i månsken",
+  "summary": "Ett månskensmotiv från Kuddnäs. Kortet innehåller också en dagboksanteckning av Zacharias Topelius från 1838.",
+  "topics": [
+    "kuddnäs",
+    "topelius",
+    "månsken",
+    "vykort"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Dagboksanteckningen från 11 september 1838 citeras på sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Motivet på kortet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius dagboksanteckning",
+      "date": {
+        "year": 1838,
+        "month": 9,
+        "day": 11,
+        "circa": false,
+        "text": "11 september 1838"
+      },
+      "description": "Topelius skriver en dagboksanteckning som citeras på sidan.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b74df327153082b3e5a630a02d26e201b9c34c762dae03d52658264c13069f88",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_D/JHDR014S.HTM",
+  "title": "Stadsforsen eller Juthforsen",
+  "summary": "Forsen sedd från Storbron mot sydsydost, med bryggeriet, stadskvarnen och Heikelska och Engska gårdarna på östra stranden. Sommaren 1984 var älven tömd en längre tid på grund av kraftverksbygget.",
+  "topics": [
+    "juthforsen",
+    "stadsforsen",
+    "storbron",
+    "kraftverket",
+    "1984"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Juthforsen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stadsforsen"
+      ],
+      "description": "Forsen på kortet."
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fotografen stod här."
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns på östra stranden."
+    },
+    {
+      "name": "Bryggeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns på östra stranden."
+    },
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns på östra stranden."
+    },
+    {
+      "name": "Engska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns på östra stranden."
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Mitt i älven."
+    }
+  ],
+  "events": [
+    {
+      "title": "Älven tömd på grund av kraftverksbygget",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "sommaren 1984"
+      },
+      "description": "Älven var tömd en längre tid på grund av kraftverksbygget.",
+      "people": [],
+      "places": [
+        "Juthforsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "223cfa5d8811d6254ac5aa55f452df768563f1361305211a37f79c8184719839",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

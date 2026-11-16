@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/dragtorg.htm",
+  "title": "Torget",
+  "summary": "Torget från korsningen Esplanaden–Sollefteågatan. Normalskolan var ännu inte byggd när bilden togs.",
+  "topics": [
+    "torget",
+    "normalskolan",
+    "gatulampa"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Motivet på kortet."
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ännu inte byggd när bilden togs.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Normalskolan färdigställs",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "färdigställd 1907"
+      },
+      "description": "Normalskolan blir färdig.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "47c48763b03c85eee62d26e2646a696b75f27aefecc02b91a9bd215767e0cf11",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}
