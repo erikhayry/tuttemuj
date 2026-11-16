@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/JHCE0072.HTM",
+  "title": "Topeliusesplanaden",
+  "summary": "Parkhusen vid Topeliusesplanaden från slutet av 1960-talet. På 1970-talet fanns en livsmedelsaffär i huset vid Lybecksgatan, och i dag säljs tyger i huset.",
+  "topics": [
+    "topeliusesplanaden",
+    "lybecksgatan",
+    "parkhusen",
+    "livsmedelsaffär"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Parkhusen ligger här.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Hörnet mot gatan hade en livsmedelsaffär.",
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ungdomar kryper genom dagvattenledningen under gräsmattan vid Topeliusesplanaden för att bevisa sitt mod.",
+    "reason": "Ett ungdomsminne med en tydlig utmaning, men sidan nämner den bara i förbigående.",
+    "characters": [],
+    "places": [
+      "Topeliusesplanaden"
+    ]
+  },
+  "contentHash": "1b8853202134bc8ca77be0b753433a2b3b31bcad1886dabe8fde0f9ce27eebcf",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

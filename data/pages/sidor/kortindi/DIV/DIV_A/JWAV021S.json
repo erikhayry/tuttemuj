@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/JWAV021S.HTM",
+  "title": "Nybroviken",
+  "summary": "Utsikten över Tullstranden och Nybroviken från Zacharias Topelius vindsfönster. Kortet är ett av två från samma fotograf.",
+  "topics": [
+    "nybroviken",
+    "tullstranden",
+    "topelius",
+    "vykort"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Hans vindsfönster ger utsikten på kortet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Viken som syns från Topelius vindsfönster."
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Stranden som syns på kortet."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "1c26e7f71eeba5e547136f0516ca93d8c55b0cefd82a07ab8ee3c6260d63fd63",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

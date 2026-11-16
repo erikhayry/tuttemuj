@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/EG/EG_A/Egax087x.htm",
+  "title": "Dragspelets insida",
+  "summary": "Dragspelets insida visar sex kort av stadens platser: Brunnsholmarna, Rådhusboulevarden, Kuddnäs, Seminariet, kyrkan och Storbron.",
+  "topics": [
+    "dragspel",
+    "souvenir",
+    "stadsvyer",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten."
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten, med Grundfeldtska gården."
+    },
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns från norr på kortet vid Rådhusboulevarden."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Motiv på ett av korten, från väster."
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huvudbyggnaden och kosthållet syns på ett av korten."
+    },
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka",
+        "kyrkan"
+      ],
+      "description": "Motiv på ett av korten, tillsammans med Storbron.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns tillsammans med kyrkan från sydväst."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "80cff26f64368bf75c6bbf3061931ebad6bf6612f4a28cfe5bf6d4ac2aeaa363",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

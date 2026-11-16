@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/JWAV005S.HTM",
+  "title": "Topeliusparken",
+  "summary": "Topeliusparken med björkskogen. Sidan berättar om en man som dräptes bland björkarna sommaren 1949, med Grundfeldtska huset i bakgrunden.",
+  "topics": [
+    "topeliusparken",
+    "björkskog",
+    "1949",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Parken som syns på kortet. Björkskogen i norra änden."
+    },
+    {
+      "name": "Grundfeldtska huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fönstret i bakgrunden hör till huset."
+    }
+  ],
+  "events": [
+    {
+      "title": "En man dräps i björkskogen",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "sommaren 1949"
+      },
+      "description": "En man dräps bland björkarna i Topeliusparken.",
+      "people": [],
+      "places": [
+        "Topeliusparken"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Sommaren 1949 dräps en man bland björkarna i det som i dag är Topeliusparken.",
+    "reason": "En dramatisk händelse på en känd plats, men sidan ger bara en mening av berättelsen.",
+    "characters": [],
+    "places": [
+      "Topeliusparken"
+    ]
+  },
+  "contentHash": "e501fc84d0612e05cffa5f8d4e3f5fef1959a99ca0ac75630ea26b952ee4a992",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

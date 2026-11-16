@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/EG/EG_A/EGAE0082.HTM",
+  "title": "Våningshus",
+  "summary": "Grundfeldtska huset revs i mars 1961. Efter rivningen uppfördes Aravahus 1961–62 av Löf & Nylund, och stadsbiblioteket fanns en tid i en hörnbyggnad.",
+  "topics": [
+    "grundfeldtska huset",
+    "rivning",
+    "aravahus",
+    "stadsbiblioteket"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Grundfeldtska huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs i mars 1961."
+    },
+    {
+      "name": "Aravahus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Uppfört 1961–62 av Löf & Nylund."
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg i en hörnbyggnad 1962–74."
+    }
+  ],
+  "events": [
+    {
+      "title": "Grundfeldtska huset revs",
+      "date": {
+        "year": 1961,
+        "month": 3,
+        "circa": false,
+        "text": "mars 1961"
+      },
+      "description": "Grundfeldtska huset revs.",
+      "people": [],
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "title": "Aravahus uppförs",
+      "date": {
+        "year": 1961,
+        "circa": false,
+        "text": "1961–62"
+      },
+      "description": "Aravahus uppförs av byggnadsfirman Löf & Nylund.",
+      "people": [],
+      "places": [
+        "Aravahus"
+      ]
+    },
+    {
+      "title": "Stadsbiblioteket i hörnbyggnaden",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962–74"
+      },
+      "description": "Stadsbiblioteket finns i hörnbyggnaden.",
+      "people": [],
+      "places": [
+        "Stadsbiblioteket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "92449e0327d690351d9e9d63c0d3db2dc503581ca07905c3f40c9d48cef68614",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

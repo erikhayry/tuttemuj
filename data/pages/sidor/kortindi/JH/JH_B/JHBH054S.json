@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBH054S.HTM",
+  "title": "Kovjoki järnvägsstation",
+  "summary": "Kovjoki järnvägsstation, som i dag är nedlagd och bara används av museijärnvägen. Sidan citerar tidningsnotiser från 1920 om smuggling.",
+  "topics": [
+    "kovjoki",
+    "järnvägsstation",
+    "smuggling",
+    "1920"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Ligger ca 10 km öster om Nykarleby.",
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki järnvägsstation",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Anslöt både den smal- och normalspåriga järnvägen till stambanan. Nedlagd."
+    }
+  ],
+  "events": [
+    {
+      "title": "Smör beslagtas vid Kovjoki station",
+      "date": {
+        "year": 1920,
+        "month": 10,
+        "circa": false,
+        "text": "tisdagen före den 8 oktober 1920"
+      },
+      "description": "Polisen beslagtar smör vid stationen, misstänkt för smuggling.",
+      "people": [],
+      "places": [
+        "Kovjoki järnvägsstation"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ede6e9992d519409fcf795ae294eb18cd143e0eabd48cdf492ecccfdc5e0f6fd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

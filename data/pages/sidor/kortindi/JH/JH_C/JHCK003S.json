@@ -1,0 +1,35 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/JHCK003S.HTM",
+  "title": "Kyrkan och klockstapeln",
+  "summary": "Kyrkan och klockstapeln från nordost, på ett nyårskort.",
+  "topics": [
+    "kyrkan",
+    "klockstapel",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "description": "Kyrkan och klockstapeln syns på kortet.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f556b6e9b4e31bc1b48a72c718ed7d5b9543cf84c9f243485bcb1d4786d0aa25",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

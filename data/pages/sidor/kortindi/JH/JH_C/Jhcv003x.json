@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_C/Jhcv003x.htm",
+  "title": "Nykarleby stad saknar smed",
+  "summary": "En annons i Jakobstads Tidning 1898 där smedjan i Nykarleby erbjuds till försäljning, eftersom J. Karlsson är sjuk och inte kan fortsätta.",
+  "topics": [
+    "smed",
+    "annons",
+    "jakobstads tidning",
+    "1898"
+  ],
+  "people": [
+    {
+      "name": "J. Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ],
+      "description": "Förra smeden i Nykarleby."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Annons om smedjan",
+      "date": {
+        "year": 1898,
+        "month": 12,
+        "day": 3,
+        "circa": false,
+        "text": "3 december 1898"
+      },
+      "description": "Annons i Jakobstads Tidning om att smedjan säljs.",
+      "people": [
+        "J. Karlsson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6871801f88600bf5c2d2a0010416939443aae7c5f400a36242edd20da7f56119",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

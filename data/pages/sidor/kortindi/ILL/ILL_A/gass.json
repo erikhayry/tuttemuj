@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/gass.html",
+  "title": "Övergaards gäss",
+  "summary": "Fem tamgäss simmade fritt i ån nedanför Fåfängan på 1960-talet. Sidan berättar hur gässen avslöjade tjuvfiskare nattetid, och bilden av dammen är tagen före höjningen 1962.",
+  "topics": [
+    "gäss",
+    "fåfängan",
+    "tjuvfiske",
+    "dammhöjningen",
+    "1962"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Fåfängan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gässen simmade i ån nedanför huset."
+    }
+  ],
+  "events": [
+    {
+      "title": "Dammen höjs",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "description": "Dammen höjs. Bilden är tagen innan höjningen.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Fem tamgäss vaktar ån på natten. När tjuvfiskare smyger fram vid dammen trumpetar gässen så att hela trakten hör, och fiskarna blir avslöjade.",
+    "reason": "En komisk scen med gäss och tjuvfiskare, men sidan ger bara några rader.",
+    "characters": [],
+    "places": [
+      "Fåfängan"
+    ]
+  },
+  "contentHash": "a1ed33f8421232dd152ea6523c8687371729cc294870fdb284d7839da4d805fa",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

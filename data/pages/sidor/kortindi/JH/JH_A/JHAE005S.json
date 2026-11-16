@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_A/JHAE005S.HTM",
+  "title": "Esplanaden i vinterskrud",
+  "summary": "Esplanaden i vinterskrud från söder, med Topeliusparken till höger. Backen kallades förr Synnerbergs backen och senare Levhemsbackan, efter seminaristernas elevhem i det Synnerbergska huset.",
+  "topics": [
+    "esplanaden",
+    "levhemsbackan",
+    "synnerberg",
+    "topeliusparken",
+    "vinter"
+  ],
+  "people": [
+    {
+      "name": "Skolrådet Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "skolråd"
+      ],
+      "description": "Född i huset ett kvarter norrut från backen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan på kortet."
+    },
+    {
+      "name": "Levhemsbackan",
+      "kind": "street",
+      "alternateNames": [
+        "Synnerbergs backen"
+      ],
+      "description": "Backen som kallades Synnerbergs backen förr."
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns till höger på kortet."
+    },
+    {
+      "name": "Synnerbergska huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset där seminaristernas elevhem fanns. Revs i slutet av 1960-talet."
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen Källbackgatan–Esplanaden syns på kortet.",
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Synnerbergska huset revs",
+      "date": {
+        "year": 1969,
+        "circa": true,
+        "text": "i slutet av sextiotalet"
+      },
+      "description": "Huset revs för att ge plats för stadens första hus med simbassäng och hiss.",
+      "people": [
+        "Skolrådet Synnerberg"
+      ],
+      "places": [
+        "Synnerbergska huset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "620c43cdde6357d5dff02a07084411d1af98b2c4a0fec65e856fd36235b91346",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

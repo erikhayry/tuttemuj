@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/GA/alvanoskogs.html",
+  "title": "Segeljollen Älvan av Nålörn och Skogslund i Lippjärv by",
+  "summary": "Två korrespondenskort från senare år: segeljollen Älvan av Nålörn, som användes för segling till Majniemi, och Skogslund i Lippjärv by. Korten trycktes med anledning av en lärodikt om Nykarleby-nejdens språk.",
+  "topics": [
+    "segeljollen",
+    "nålörn",
+    "majniemi",
+    "lippjärv",
+    "korrespondenskort"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev om österbottniska allmogebåtar. Bodde i Skogslund i Lippjärv by. Avled i juni 2020."
+    },
+    {
+      "name": "Anna-Lisa Sahlström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i Skogslund i Lippjärv by tillsammans med Gösta Ågren. Seglade Älvan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nålörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Segeljollen Älvan är av Nålörn."
+    },
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Dit seglade Älvan och vistades där."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gösta Ågren avlider",
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "circa": false,
+        "text": "natten före den 25 juni 2020"
+      },
+      "description": "Gösta Ågren avlider natten före den 25 juni 2020.",
+      "people": [
+        "Gösta Ågren"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "44bb57e425c939717f75421d3fab39bee2121240d0b0fa33152b0a0334aea3b6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_A/JHAK004S.HTM",
+  "title": "Kyrkointeriör",
+  "summary": "En av de första kyrkointeriörerna. Psalmerna på tavlan togs bort när den nya psalmboken kom 1986.",
+  "topics": [
+    "kyrkan",
+    "psalmbok",
+    "interiör"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "description": "Kyrkans interiör på kortet.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny psalmbok",
+      "date": {
+        "year": 1986,
+        "circa": false,
+        "text": "1986"
+      },
+      "description": "Den nya psalmboken kommer. Psalmerna på tavlan utrangeras.",
+      "people": [],
+      "places": [
+        "Sankta Birgitta kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "147a7901a1b1bd67c25efdde1921e79916a0fdcb232f1a1fe444198f7a9083af",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

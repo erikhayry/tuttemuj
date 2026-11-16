@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/EG/EG_A/egak044s.htm",
+  "title": "Storbron och kyrkan",
+  "summary": "Storbron och kyrkan fotograferade från en enda vinkel.",
+  "topics": [
+    "storbron",
+    "kyrkan",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron på kortet."
+    },
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "description": "Kyrkan på kortet.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f1029cf6fdd631207e8bb7f2ee079b836c91e7a82367b23b49aa5c1c8f9356a8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

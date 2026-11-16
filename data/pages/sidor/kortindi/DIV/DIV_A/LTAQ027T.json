@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/LTAQ027T.HTM",
+  "title": "Telegrafstationen i Nykarleby",
+  "summary": "Telegrafstationen fick fri lokal från den 1 juni 1923. Sidan citerar Erik Birck (1988) och rättar årtalet för stadens egen telegrafstation.",
+  "topics": [
+    "telegraf",
+    "stadens historia",
+    "1920-tal"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Telegrafstationen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fick fri lokal från den 1 juni 1923."
+    }
+  ],
+  "events": [
+    {
+      "title": "Telegrafkontoret får fri lokal",
+      "date": {
+        "year": 1923,
+        "month": 6,
+        "day": 1,
+        "circa": false,
+        "text": "från den 1 juni 1923"
+      },
+      "description": "Telegrafkontoret får fri lokal från detta datum.",
+      "people": [],
+      "places": [
+        "Telegrafstationen"
+      ]
+    },
+    {
+      "title": "Nykarleby får egen telegrafstation",
+      "date": {
+        "year": 1869,
+        "circa": false,
+        "text": "1869"
+      },
+      "description": "Första egna telegrafstationen. Årtalet 1867 i tidigare uppgifter beror enligt sidan på ett missförstånd.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8fdb30174de32cb3393c38b00c93ca2f6d54c64a408dbfe180fe86a4e156487a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

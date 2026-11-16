@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/GK/GK_A/GKAR074S.HTM",
+  "title": "Älven",
+  "summary": "Vy över älven från utfallssänkan mot öster, med Topeliusparken på andra sidan. Sidan berättar att man ännu i början av 1970-talet eldade påskbrasor på isen.",
+  "topics": [
+    "älven",
+    "utfallssänkan",
+    "påskbrasor",
+    "topeliusparken"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Utfallssänkan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen där fotografen stod, mellan seminarieområdet och folkhögskolan."
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "På andra sidan älven."
+    }
+  ],
+  "events": [
+    {
+      "title": "Påskbrasor på isen",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "början av sjuttiotalet"
+      },
+      "description": "Påskbrasor eldades på isen.",
+      "people": [],
+      "places": [
+        "Utfallssänkan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "660463a12de585d2b6279facec71b7242b869d97e44e977c032e4ffc5b3256d0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

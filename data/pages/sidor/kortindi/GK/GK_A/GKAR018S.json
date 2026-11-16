@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/GK/GK_A/GKAR018S.HTM",
+  "title": "Älven",
+  "summary": "Vy över älven från utfallssänkan mot öster, med Topeliusparken på andra sidan.",
+  "topics": [
+    "älven",
+    "utfallssänkan",
+    "topeliusparken",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Utfallssänkan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen där fotografen stod."
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "På andra sidan älven."
+    },
+    {
+      "name": "Seminarieområdet",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området som ligger bakom utfallssänkan."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c754e4b9fd880052358359119f2f1eaf9f4636ff0fdd9613d85f9096dc2899c6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

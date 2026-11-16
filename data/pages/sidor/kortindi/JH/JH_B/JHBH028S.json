@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBH028S.HTM",
+  "title": "Normalskolan",
+  "summary": "Normalskolan på ett kort med en flicka i förklädet och en elstolpe som är tillspetsad så att vattnet rinner av.",
+  "topics": [
+    "normalskolan",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Motivet på kortet.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f7b5ef016217b0b0da30a5e99d1a5511d87b437fdd006dd2f4f9f913e32e35b9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

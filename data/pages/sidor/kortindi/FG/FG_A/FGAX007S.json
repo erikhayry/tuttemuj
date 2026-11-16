@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAX007S.htm",
+  "title": "Topeliuskavalkad 1",
+  "summary": "Ett kort med Majniemi, Topelii sommarvilla i Kuddnäs, och Topelius. Kortet är ett av de få vinjettkorten i samlingen.",
+  "topics": [
+    "topelius",
+    "majniemi",
+    "kuddnäs",
+    "vinjett",
+    "vykort"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Motiv på kortet, tillsammans med Majniemi och Kuddnäs."
+    }
+  ],
+  "places": [
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topelii sommarvilla."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Kuddnäs från älven."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "32e9a36cf1869c27e4005a46f6c6dd63be21bc5a230adc7cc39924bfbbef2e8e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/NNAV037S.HTM",
+  "title": "Seminariet, Nybroviken och kyrkan",
+  "summary": "Enligt en tidningsartikel är detta det första vykortet från Nykarleby. Det visar seminariet, Nybroviken och kyrkan i små vinjetter.",
+  "topics": [
+    "vykort",
+    "seminariet",
+    "nybroviken",
+    "kyrkan",
+    "barck",
+    "första vykortet"
+  ],
+  "people": [
+    {
+      "name": "J. F. Barck",
+      "alternateNames": [],
+      "roles": [
+        "häradshövding"
+      ],
+      "description": "Ingick i familjen Barck, som ägde Föreningsbanken/von Döbelns hus och Samskolan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huvudbyggnaden syns i en vinjett."
+    },
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Viken som syns i en vinjett."
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ägdes av familjen Barck."
+    },
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": [
+        "von Döbelns hus"
+      ],
+      "description": "Huset ägdes av familjen Barck."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "24f14574b870636ec6c17abdc67ebf02f37a64087a1cac4128853bc4b2c2dd75",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

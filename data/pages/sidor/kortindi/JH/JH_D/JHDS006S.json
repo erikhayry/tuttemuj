@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_D/JHDS006S.HTM",
+  "title": "Seminariets huvudbyggnad",
+  "summary": "Seminariets huvudbyggnad från sydväst. Kortet användes som förlaga när byggnaden målades om i slutet av 1970-talet eller början av 1980-talet.",
+  "topics": [
+    "seminariet",
+    "färgsättning",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huvudbyggnaden på kortet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminariet målas om",
+      "date": {
+        "year": 1979,
+        "circa": true,
+        "text": "slutet av sjuttiotalet eller början av åttiotalet"
+      },
+      "description": "Byggnaden målas om. Kortet användes som förlaga vid färgsättningen.",
+      "people": [],
+      "places": [
+        "Seminariet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f94719b6943a2766811f48133bacc008e01ba6d05c0683d8a60f73c4d58b1d12",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}

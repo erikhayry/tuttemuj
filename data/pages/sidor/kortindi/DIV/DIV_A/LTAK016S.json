@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/LTAK016S.HTM",
+  "title": "Nykarleby kyrkan",
+  "summary": "Nykarleby kyrkan från väster. Riksväg 8 gick förbi kyrkan fram till slutet av 1960-talet.",
+  "topics": [
+    "kyrkan",
+    "riksväg 8",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "description": "Kyrkan som syns från väster.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Riksväg 8 går förbi kyrkan",
+      "date": {
+        "year": 1969,
+        "circa": true,
+        "text": "fram till slutet av 1960-talet"
+      },
+      "description": "Riksväg 8 går förbi kyrkan fram till slutet av 1960-talet.",
+      "people": [],
+      "places": [
+        "Sankta Birgitta kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4911b5d14f5e0ec2c3ebc73994584a444ae782e098c91081b54fe9fdfe090988",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:24:50.414Z"
+}
