@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGR035S.HTM",
+  "title": "Storbron och Brostugan",
+  "summary": "En vinterdag med rimfrost i träden och en häst med släde på Storbron. Tallarna på andra sidan älven fälldes i samband med kraftverksbygget 1984.",
+  "topics": [
+    "storbron",
+    "vinter",
+    "kraftverket",
+    "1984"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tallarna fälls vid kraftverksbygget",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Tallarna på andra sidan älven fälls i samband med kraftverksbygget.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "86e5537f9de195549fadcc418439c71eb12bd7d340b732f8f336e6818276c512",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKK012S.HTM",
+  "title": "Kyrkointeriör",
+  "summary": "Kyrkans interiör med målade gardiner vid korfönstren. Lennart Segerstråle utförde glasmålningarna där 1940, och fotografen är känd: A. Jernström.",
+  "topics": [
+    "kyrkan",
+    "interiör",
+    "glasmålningar",
+    "1940"
+  ],
+  "people": [
+    {
+      "name": "Lennart Segerstråle",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Utförde glasmålningarna i kyrkan 1940."
+    },
+    {
+      "name": "A. Jernström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Upphovsman till fotografiet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Kyrkans interiör.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Glasmålningar i kyrkan",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "1940"
+      },
+      "description": "Lennart Segerstråle utför glasmålningarna.",
+      "people": [
+        "Lennart Segerstråle"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b9668c65b5fdd766535dab87ee5ccd5bb60d20ade81ccc0632c36b6d220ceac3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

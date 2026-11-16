@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGV065S.HTM",
+  "title": "Köpmansgatan",
+  "summary": "Köpmansgatan västerut från Rummelbacken. Axel Lindholm bodde i tredje huset till vänster.",
+  "topics": [
+    "köpmansgatan",
+    "rummelbacken",
+    "axel lindholm"
+  ],
+  "people": [
+    {
+      "name": "Axel Lindholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i tredje huset till vänster på Köpmansgatan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "730feeb9d15d1e6a2b18310ddf580d8819419e94fb78ad9e8e4b61b870819e45",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

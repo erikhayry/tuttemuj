@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGR0762.HTM",
+  "title": "Folkhögskolan",
+  "summary": "Folkhögskolan från älvbranten. Alla byggnader utom en med valmat tak är rivna, och internatet från 1940-talet syns mitt i bilden.",
+  "topics": [
+    "folkhögskolan",
+    "rivning",
+    "farled",
+    "2002"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "abd4f057f928f3a25b70e33053faa30ad156140ffdf9a4926ccb3a24e7d565ad",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

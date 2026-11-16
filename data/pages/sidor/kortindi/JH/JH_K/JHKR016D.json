@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKR016D.HTM",
+  "title": "Vårfloden maj 1985",
+  "summary": "Våren 1985 fruktade man att den nybyggda dammen skulle brista som 1926. Bilderna visar isröjning och urschaktning vid Storbron och en stor folkmassa som samlades för att se.",
+  "topics": [
+    "vårfloden",
+    "kraftverksdammen",
+    "storbron",
+    "1985"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Fotograf för bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Brann några år senare."
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Anlades följande sommar."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vårfloden hotar dammen",
+      "date": {
+        "year": 1985,
+        "month": 5,
+        "circa": false,
+        "text": "maj 1985"
+      },
+      "description": "Den nybyggda dammen hotas av vårfloden, och krisen tar slut när vattentillströmningen minskar.",
+      "people": [],
+      "places": [
+        "Kraftverksdammen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Våren 1985 hotar vårfloden den nybyggda dammen, och hela staden kommer för att se om den håller.",
+    "reason": "Ett spänningsdrama med många åskådare, men sidan ger bara några rader.",
+    "characters": [],
+    "places": [
+      "Kraftverksdammen",
+      "Storbron"
+    ]
+  },
+  "contentHash": "b1ee8c54711d061a30d3ca55b8866fcef13ca64ff169eb6d85bd9dc8b7d562d0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

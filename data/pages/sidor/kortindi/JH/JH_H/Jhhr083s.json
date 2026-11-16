@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_H/Jhhr083s.htm",
+  "title": "Husen söder om Brostugan",
+  "summary": "Samma motiv som en tidigare sida: husen söder om Brostugan, fotade från nordost. Kyrkan står på lös sand och har börjat luta.",
+  "topics": [
+    "storbron",
+    "brostugan",
+    "kyrkan",
+    "gråstenskällaren"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "21f6909ae71298c7b814d63ecc97bb788e4dec33456c7b571aae7236ddbc422d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

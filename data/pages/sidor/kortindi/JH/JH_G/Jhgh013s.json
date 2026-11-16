@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/Jhgh013s.htm",
+  "title": "Kyrkbrunnen",
+  "summary": "Stadsbrunnen från 1840-talet, byggd för att förbättra brandberedskapen. Den skadades i höststormen 1957 när en stor björk blåste omkull, men byggdes upp igen.",
+  "topics": [
+    "stadsbrunnen",
+    "brandberedskap",
+    "storm 1957"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Kyrkbrunnen"
+      ]
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Brunnen står på nuvarande Normalskolstomten.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbrunnen byggs",
+      "date": {
+        "year": 1840,
+        "circa": true,
+        "text": "1840-talet"
+      },
+      "description": "Brunnen byggs för att förbättra brandberedskapen.",
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    },
+    {
+      "title": "Stadsbrunnen skadas i stormen",
+      "date": {
+        "year": 1957,
+        "circa": false,
+        "text": "höststormen 1957"
+      },
+      "description": "En stor björk blåser omkull och skadar brunnen.",
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "77d50f555aa1183cb221c69a7fd364fd43234c42f40b0823c18cd664ef36a7c4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

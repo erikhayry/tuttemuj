@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_J/JHJH026T.HTM",
+  "title": "Döbelns sjukläger",
+  "summary": "Baksidan av ett kort med texten Döbelns sjukläger före slaget vid Juthas. Sidan visar att myten att von Döbeln låg sjuk i huset är svår att utrota, och att gatstumpen mellan huset och älven kallas Döbelns gränd.",
+  "topics": [
+    "döbeln",
+    "myt",
+    "brevkort"
+  ],
+  "people": [
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Myten om att han låg sjuk i huset."
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelns hus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelns gränd",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatstumpen mellan huset och älven."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ae64247add3c940b53ad5baa975ae2cc874c465f8ff12a5a7299beae071e988c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_M/JHMKO32S.HTM",
+  "title": "Kyrkan",
+  "summary": "Kyrkan ur grodperspektiv, första gången den avbildas så. Storbron är nyrenoverad och ett av fackverken har flyttats till mittsektionen.",
+  "topics": [
+    "kyrkan",
+    "storbron",
+    "ombyggnad"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "882da8fee3fb3d7bf4ee0b8dcad91d717438a231041c4925a6832a846858a3ef",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

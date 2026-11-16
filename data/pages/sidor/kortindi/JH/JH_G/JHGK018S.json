@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGK018S.HTM",
+  "title": "Kyrkan och Storbron",
+  "summary": "En mjukt bearbetad bild av kyrkan och Storbron. Det är ett av de första fotografierna efter att dammen byggdes 1926.",
+  "topics": [
+    "kyrkan",
+    "storbron",
+    "dammen",
+    "1926"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dammen byggs",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "description": "Dammen byggs.",
+      "people": [],
+      "places": [
+        "Kraftverksdammen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8b0946a877a8e4b858fa122fc3c0ffe3027ea2bc1572aabbd562915cf5fb970a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

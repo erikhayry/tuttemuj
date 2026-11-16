@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKK031S.HTM",
+  "title": "Kyrkan och elstolpen",
+  "summary": "Kyrkan från väster, med stadens första telefonförbindelse 1890 mellan Kovjoki station och gästgiveriet. Redan 1891 fanns femton abonnenter.",
+  "topics": [
+    "kyrkan",
+    "telefon",
+    "kovjoki",
+    "gästgiveriet"
+  ],
+  "people": [
+    {
+      "name": "Svenolof Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Har skrivit historiken om Jakobstads Telefonbolag, som också behandlar Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gästgiveriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadens första telefonförbindelse",
+      "date": {
+        "year": 1890,
+        "circa": false,
+        "text": "1890"
+      },
+      "description": "Telefonförbindelsen går mellan Kovjoki station och gästgiveriet.",
+      "people": [],
+      "places": [
+        "Kovjoki station",
+        "Gästgiveriet"
+      ]
+    },
+    {
+      "title": "Femton telefonabonnenter",
+      "date": {
+        "year": 1891,
+        "circa": false,
+        "text": "1891"
+      },
+      "description": "Det finns femton abonnenter i staden.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "90a502e32beed18ee585017a3fc91512eaf31830b80b5cd4d15dd46c785446b5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

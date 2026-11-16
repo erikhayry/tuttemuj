@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_F/Jhfr031s.htm",
+  "title": "Korsåkers kvarn",
+  "summary": "Korsåkers kvarn på östra älvstranden, där mångsysslaren J. W. Nessler hade ett filhuggeri och en spikfabrik. Sidan förklarar också hur ordet inskränkt fick sin betydelse.",
+  "topics": [
+    "korsåkers kvarn",
+    "nessler",
+    "hantverk",
+    "ord"
+  ],
+  "people": [
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "mångsysslare"
+      ],
+      "description": "Drev filhuggeri och spikfabrik i kvarnen, gav ut Österbottniska Posten och anlade ett kraftverk i stadskvarnen."
+    },
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Alias Äppel-Hugo. Hade en fil som tillverkats i kvarnen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Korsåkers kvarn",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "På östra älvstranden vid kröken nedanför Joupersgatan."
+    },
+    {
+      "name": "Joupersgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.517699,
+        "lng": 22.5263233,
+        "match": "name",
+        "gazetteerName": "joupersgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nessler anlade ett kraftverk här."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9bf331b5bd35e59f3ed967404c37fa115e4c6c2bb05ea94e9bee049f73f3b65b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

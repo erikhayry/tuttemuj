@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKR016S.HTM",
+  "title": "Kraftverket och dammen",
+  "summary": "Det första vykortet av Nykarleby kraftverk. En del av den nybyggda dammen rasade vid den ovanligt kraftiga vårfloden 1926, och efter dammhöjningen 1962 kunde fotgängare gå över dammen utanför vårflodstid.",
+  "topics": [
+    "kraftverket",
+    "kraftverksdammen",
+    "vårflod",
+    "dammhöjningen"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "En del av dammen rasar",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "vid den första vårfloden 1926"
+      },
+      "description": "En del av den nybyggda dammen rasar.",
+      "people": [],
+      "places": [
+        "Kraftverksdammen"
+      ]
+    },
+    {
+      "title": "Dammhöjningen",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "description": "Dammen höjs.",
+      "people": [],
+      "places": [
+        "Kraftverksdammen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "352e414bfc96104e3ab52a07bf289adc99e0efdcdbb8b9a378b979339f68dd3d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

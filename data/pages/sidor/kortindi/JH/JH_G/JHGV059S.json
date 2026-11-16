@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGV059S.HTM",
+  "title": "Källbackgatan",
+  "summary": "Källbackgatan österut från korsningen med Gustav Adolfsgatan. Gården hade en välskött trädgård, och en gran som Hugo Liljeström tog från Långön som planta växer där i dag.",
+  "topics": [
+    "källbackgatan",
+    "långön",
+    "prevex"
+  ],
+  "people": [
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i huset till höger. Tog en gran från Långön som planta."
+    },
+    {
+      "name": "Gunnar Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hade en välvårdad trädgård på gården."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Långön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Prevex",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "En anka i plastcellplast tillverkades här."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3a89abb1a134e5fa04f8dabaad68a5d7f1f6c0321f9fb33fb4b182f4a3d73fbe",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

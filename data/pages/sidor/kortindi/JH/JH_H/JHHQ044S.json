@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_H/JHHQ044S.HTM",
+  "title": "Minnesstenen över Zacharias Topelius",
+  "summary": "Minnesstenen på Kuddnäs där Zacharias Topelius föddes 1818. Stenen restes 1919 efter en insamling, och bronsreliefen är utförd av T. Schalin.",
+  "topics": [
+    "topelius",
+    "kuddnäs",
+    "minnessten"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "roles": [],
+      "description": "Född på Kuddnäs den 14 januari 1818."
+    },
+    {
+      "name": "T. Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Utförde bronsreliefen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Minnesstenen över Topelius",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stenen med bronsrelief."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnesstenen restes",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "1919"
+      },
+      "description": "Minnesstenen restes efter en insamling.",
+      "people": [],
+      "places": [
+        "Minnesstenen över Topelius"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "88ba82b6570f976e14273e9cd1131843ce5f4bb4b675c9d429ff1e5092be85eb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

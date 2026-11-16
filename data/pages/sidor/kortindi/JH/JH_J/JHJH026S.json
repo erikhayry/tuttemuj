@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_J/JHJH026S.HTM",
+  "title": "Döbelns hus",
+  "summary": "Döbelns hus strax söder om kyrkan. Bildtexten säger att von Döbeln låg sjuk där före slaget vid Juthas, men sidan menar att han inte låg sjuk där, möjligen i samband med striden midsommaren 1808.",
+  "topics": [
+    "döbeln",
+    "juthas",
+    "myt",
+    "1808–09 års krig"
+  ],
+  "people": [
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Låg enligt sidan inte sjuk i huset före slaget vid Juthas."
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelns hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Strax söder om kyrkan."
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Striden vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 6,
+        "circa": false,
+        "text": "midsommaren 1808"
+      },
+      "description": "Striden vid Juthas, enligt sidan i samband med midsommaren 1808.",
+      "people": [
+        "von Döbeln"
+      ],
+      "places": [
+        "Juthas"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5c9fdde815b8388c4e9d26ac72fe9feceaadbf3c3770b1637421b68e348e8c51",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGR076S.HTM",
+  "title": "Folkhögskolan",
+  "summary": "Folkhögskolans internat och skolbyggnad syns i bakgrunden, och bastun ligger nere vid älvstranden. Bilden är tagen från Topeliusparkens södra ände.",
+  "topics": [
+    "folkhögskolan",
+    "bastu",
+    "topeliusparken"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Folkhögskolans bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nere vid älvstranden."
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a8bc71a626c988a8c398508b5efbc312e8f489d692d4f1d82917860da9420963",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

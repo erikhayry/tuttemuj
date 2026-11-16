@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_F/JHFV016S.HTM",
+  "title": "Seminariegatan i vinterskrud",
+  "summary": "Seminariegatan i vinter. Alla husen till vänster utom det fjärde finns kvar, och ett nytt hus från omkring 1980 har fått sockel, träpanel och sadeltak.",
+  "topics": [
+    "seminariegatan",
+    "vinter",
+    "brostugan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nytt hus vid Seminariegatan",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "omkring 1980"
+      },
+      "description": "Ett nytt hus byggs längs gatan.",
+      "people": [],
+      "places": [
+        "Seminariegatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ab7fc13237341e418199e5f4bf231e8e04ef351933678be8053cca370d272d68",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_L/JHLK041S.HTM",
+  "title": "Kyrkan",
+  "summary": "Gråstenskällaren i älvbranten framför kyrkan, fotad från västnordväst.",
+  "topics": [
+    "kyrkan",
+    "gråstenskällaren"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9053f7921e12bf1615cf976ce05e131981a8478102824ecd5d5d6d8e4b3fc56a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

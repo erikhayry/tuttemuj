@@ -1,0 +1,115 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKR004S.HTM",
+  "title": "Värnamo kvarn",
+  "summary": "Värnamo kvarn, uppförd 1878 och även kallad Juthbacka kvarn och Saarela kvarn. Stadsfullmäktige beslöt 1927 att köpa den, den överfördes till kraftverket 1931 och den brann hösten 1933.",
+  "topics": [
+    "värnamo kvarn",
+    "saarela kvarn",
+    "kraftverket",
+    "brand"
+  ],
+  "people": [
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": [
+        "ägare"
+      ],
+      "description": "Sålde kvarnen till staden 1927 tillsammans med Joel Nilsson."
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "ägare"
+      ],
+      "description": "Sålde kvarnen till staden 1927 tillsammans med Victor Holmström."
+    },
+    {
+      "name": "Höglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Etablerade en plåtverkstad i kvarnen på tjugotalet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Värnamo kvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Juthbacka kvarn",
+        "Saarela kvarn"
+      ],
+      "description": "Nedanför Värnamo."
+    },
+    {
+      "name": "Värnamo",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Värnamo kvarn uppförs",
+      "date": {
+        "year": 1878,
+        "circa": false,
+        "text": "1878"
+      },
+      "description": "Kvarnen uppförs.",
+      "people": [],
+      "places": [
+        "Värnamo kvarn"
+      ]
+    },
+    {
+      "title": "Stadsfullmäktige beslöt köpa kvarnen",
+      "date": {
+        "year": 1927,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "text": "20 juni 1927"
+      },
+      "description": "Stadsfullmäktige beslutar att köpa kvarnen av ägarna.",
+      "people": [
+        "Victor Holmström",
+        "Joel Nilsson"
+      ],
+      "places": [
+        "Värnamo kvarn"
+      ]
+    },
+    {
+      "title": "Kvarnen överförs till kraftverket",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "1931"
+      },
+      "description": "Kvarnen överförs till kraftverket.",
+      "people": [],
+      "places": [
+        "Värnamo kvarn"
+      ]
+    },
+    {
+      "title": "Värnamo kvarn brinner",
+      "date": {
+        "year": 1933,
+        "circa": false,
+        "text": "hösten 1933"
+      },
+      "description": "Byggnaden brinner.",
+      "people": [],
+      "places": [
+        "Värnamo kvarn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "230ed2f0f95f8b15e7c56b416d18e6ab825e9e1a7143fb7c198ae41166d1c114",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

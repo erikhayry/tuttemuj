@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_F/JHFR011S.HTM",
+  "title": "Seminariet och Kristliga folkhögskolan",
+  "summary": "Folkhögskolans byggnader och seminariets kosthåll på andra sidan älven är rivna, liksom husen i förgrunden. Bilden är tagen från nordost.",
+  "topics": [
+    "folkhögskolan",
+    "seminariet",
+    "rivning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariets kosthåll",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "795026cd8d4ce133226f5a635f0bd2514b04122f87387e5f7cae0046a4e95f8f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

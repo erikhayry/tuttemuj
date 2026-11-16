@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_H/JHHA003S.HTM",
+  "title": "Grundön",
+  "summary": "Ett kort från skärgården med texten Grundön och en sjöboda från 1789. Sidan noterar att baksidan stavar ordet frår.",
+  "topics": [
+    "grundön",
+    "skärgården",
+    "sjöboda",
+    "1789"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Grundön",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Sjöboda från 1789 på kortet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Sjöboda på Grundön",
+      "date": {
+        "year": 1789,
+        "circa": false,
+        "text": "från år 1789"
+      },
+      "description": "Sjöboden på Grundön dateras till 1789 enligt kortets text.",
+      "people": [],
+      "places": [
+        "Grundön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f69635e70052e3d4a3cc62190f29dd04cb894c089311d881abccfb2ebde6d798",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

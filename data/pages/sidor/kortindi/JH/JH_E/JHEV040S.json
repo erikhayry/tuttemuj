@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_E/JHEV040S.HTM",
+  "title": "Storbron",
+  "summary": "Storbron och kyrkan i en bild som retuscherats med moln och konturer. Husen söder om kyrkan är några av de få som klarade stadsbranden 1858 och finns kvar.",
+  "topics": [
+    "storbron",
+    "stadsbranden",
+    "kyrkan",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "description": "Stadsbranden. Husen söder om kyrkan klarade sig och finns kvar.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cb3d1c3afd14c785e07f6f7e2ed8fdef0817b5a756f897150cbf601f14aeae53",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

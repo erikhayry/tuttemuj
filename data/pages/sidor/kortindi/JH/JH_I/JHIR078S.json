@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_I/JHIR078S.HTM",
+  "title": "Folkhögskolan",
+  "summary": "Folkhögskolan. Avsändaren nämner en häll i älven som sin favorit.",
+  "topics": [
+    "folkhögskolan",
+    "älven"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b2cd5b6dfdb7458096ecea4bc12d5a35580970c1f7776e32990252484c9ec957",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

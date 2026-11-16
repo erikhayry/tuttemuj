@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_M/JHMHO46S.HTM",
+  "title": "Brostugan",
+  "summary": "Brostugan. Seminariegatan svänger fortfarande kring Brostuguberget i stället för att gå rakt igenom.",
+  "topics": [
+    "brostugan",
+    "seminariegatan",
+    "brostuguberget"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a37dc4f2db3afaa35c20ebe75e71f3a91cc072d961779c784df65dc00cf38a59",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

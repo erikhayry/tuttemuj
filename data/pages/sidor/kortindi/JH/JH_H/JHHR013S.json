@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_H/JHHR013S.HTM",
+  "title": "Korsåkers kvarn",
+  "summary": "Korsåkers kvarn såldes i juli 1918 av J. W. Nesslers dödsbo och såldes i oktober 1920 vidare till en bonde från Oravais. Uppgifterna är hämtade ur Birck (1988).",
+  "topics": [
+    "korsåkers kvarn",
+    "försäljning",
+    "1918",
+    "1920"
+  ],
+  "people": [
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dödsboet sålde kvarnen 1918."
+    },
+    {
+      "name": "Johan Forsbacka",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Köpte kvarnen 1918 tillsammans med Johan Johansson."
+    },
+    {
+      "name": "Johan Johansson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Köpte kvarnen 1918 tillsammans med Johan Forsbacka."
+    }
+  ],
+  "places": [
+    {
+      "name": "Korsåkers kvarn",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Korsåkers kvarn såld",
+      "date": {
+        "year": 1918,
+        "month": 7,
+        "circa": false,
+        "text": "slutet av juli 1918"
+      },
+      "description": "Kvarnen säljs av J. W. Nesslers dödsbo.",
+      "people": [
+        "J. W. Nessler",
+        "Johan Forsbacka",
+        "Johan Johansson"
+      ],
+      "places": [
+        "Korsåkers kvarn"
+      ]
+    },
+    {
+      "title": "Korsåkers kvarn såld på nytt",
+      "date": {
+        "year": 1920,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 1920"
+      },
+      "description": "Kvarnen säljs till en bonde från Oravais.",
+      "people": [],
+      "places": [
+        "Korsåkers kvarn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a2995deb2d28aad8052e89a4a73ad4e2037fafe5848dc6221dd937ff3b2adc2e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

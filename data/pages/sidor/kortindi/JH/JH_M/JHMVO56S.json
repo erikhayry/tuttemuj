@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_M/JHMVO56S.HTM",
+  "title": "Döbelnsgränd",
+  "summary": "Döbelnsgränd fotad från norr av Arne Jernström. Sidan påpekar att von Döbeln inte låg sjuk i gården före slaget vid Juthas, och att gården på en bildtext kallas det gamla tullhuset.",
+  "topics": [
+    "döbelnsgränd",
+    "döbeln",
+    "branden 1858",
+    "tullhuset"
+  ],
+  "people": [
+    {
+      "name": "Arne Jernström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Fotograf för bilden."
+    },
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Låg enligt sidan inte sjuk i gården före slaget vid Juthas."
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelnsgränd",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelns gård",
+      "kind": "building",
+      "alternateNames": [
+        "Det gamla tullhuset"
+      ],
+      "description": "Kallas även det gamla tullhuset."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a3636d63ada1be6a20379173c38dafeeaf15a092cd280ff0ca594a44fbacd4d9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

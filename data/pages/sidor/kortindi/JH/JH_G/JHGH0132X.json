@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGH0132X.htm",
+  "title": "Stadsbrunnen i dag",
+  "summary": "Stadsbrunnen står sedan augusti 1990 på kyrktomtens nordöstra hörn. När kyrkan fick koppartak på 1990-talet fick brunnen behålla sitt gamla grönmålade plåttak.",
+  "topics": [
+    "stadsbrunnen",
+    "kyrkan",
+    "1990"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "På kyrktomtens nordöstra hörn."
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbrunnen placeras på kyrktomten",
+      "date": {
+        "year": 1990,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 1990"
+      },
+      "description": "Brunnen står på kyrktomtens nordöstra hörn.",
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3a90395b784a1750f3a5cd2708eb01021ad0666c4166845b03cbee0e831729d2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

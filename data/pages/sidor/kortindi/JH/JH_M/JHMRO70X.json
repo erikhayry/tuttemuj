@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_M/JHMRO70X.HTM",
+  "title": "Klappbryggan som flottseglats",
+  "summary": "Ett annat sätt att använda klappbryggan: fem män på en flottseglats. Enligt hörsägen ropade en ordningsman ”Stanna i lagens namn!” längs stranden. Källan är en tidningsnotis från 25 juni 1980.",
+  "topics": [
+    "klappbryggan",
+    "flottsegling",
+    "1980",
+    "hörsägen"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Klappbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fem män på flottseglats",
+      "date": {
+        "year": 1980,
+        "month": 6,
+        "day": 25,
+        "circa": false,
+        "text": "25 juni 1980"
+      },
+      "description": "Fem män seglar en flott vid klappbryggan.",
+      "people": [],
+      "places": [
+        "Klappbryggan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Fem män seglar en flott vid klappbryggan medan ordningsmakten springer längs stranden och ropar ”Stanna i lagens namn!”",
+    "reason": "En komisk jakt längs stranden, men källan är hörsägen.",
+    "characters": [],
+    "places": [
+      "Klappbryggan"
+    ]
+  },
+  "contentHash": "4244e977ff6f8de22e23f8f7e734906f56b211aa2d67dbbf87afd912ce32466b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

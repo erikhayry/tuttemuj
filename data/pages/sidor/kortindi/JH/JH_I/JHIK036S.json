@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_I/JHIK036S.HTM",
+  "title": "Kyrkan och Storbron",
+  "summary": "Kyrkan och Storbron fotade från nordväst. Avsändaren har fyllt både fram- och baksidan med en hälsning om kyrkan och resan.",
+  "topics": [
+    "kyrkan",
+    "storbron",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "1f6bbe87e17b7dea4faddc641d4d36db1923c2608ef56eda341300c5f80c6c9c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

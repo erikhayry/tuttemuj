@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_L/JHLK052S.HTM",
+  "title": "Kyrkan från Kärleksstigen",
+  "summary": "Kyrkan från Kärleksstigen med Gråstenskällaren och björkarna. Björkar har på senare år kommit tillbaka längs stigen.",
+  "topics": [
+    "kärleksstigen",
+    "kyrkan",
+    "björkar"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "28448d19d4cef16aaba10e8e93ee5561bd41f40fc4298784e1b32e3d004f56f8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

@@ -1,0 +1,142 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKH037S.HTM",
+  "title": "De gamlas hem",
+  "summary": "Gården De gamlas hem vid Bangatan och Esplanaden, där den första bilen på ett vykort syns. Sidan berättar om stadens första bilregler och om gårdarnas handel på andra sidan Bangatan.",
+  "topics": [
+    "de gamlas hem",
+    "bilar",
+    "bangatan",
+    "karameller"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler d.ä.",
+      "alternateNames": [],
+      "roles": [
+        "ölbryggare"
+      ],
+      "description": "Ägare till gården på andra sidan Bangatan."
+    },
+    {
+      "name": "Alfred Herler",
+      "alternateNames": [],
+      "roles": [
+        "ölbryggare",
+        "karamelltillverkare"
+      ],
+      "description": "Tillverkade karameller från början av 1908 till början av 1909."
+    },
+    {
+      "name": "W. Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Ägare till gården på andra sidan Bangatan."
+    },
+    {
+      "name": "Hugo Caséns",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Ägare till gården på andra sidan Bangatan."
+    },
+    {
+      "name": "Bror Ceder",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Drev en av de sista butikerna i gården."
+    },
+    {
+      "name": "Rolf Backman",
+      "alternateNames": [],
+      "roles": [
+        "bagare",
+        "brandchef"
+      ],
+      "description": "Siste ägare innan gården revs."
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 1b",
+      "description": "Nuvarande Topeliusesplanaden 1b."
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sport & Maskin Johan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Finns i huset på andra sidan Bangatan i dag."
+    }
+  ],
+  "events": [
+    {
+      "title": "Första bilen på stadens gator",
+      "date": {
+        "year": 1907,
+        "month": 4,
+        "day": 23,
+        "circa": false,
+        "text": "23 april 1907"
+      },
+      "description": "Den första bilen kan för första gången skådas på stadens gator.",
+      "people": [],
+      "places": [
+        "De gamlas hem"
+      ]
+    },
+    {
+      "title": "Stadens första bilburna invånare",
+      "date": {
+        "year": 1913,
+        "circa": false,
+        "text": "1913"
+      },
+      "description": "Staden får sin första bilburna invånare, och de första ordningsreglerna för automobiltrafiken fastställs.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "52612e57ece9c1f5b86eb1b78e20408007740a1d8eb08ee5460b2eb3dedecfd0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

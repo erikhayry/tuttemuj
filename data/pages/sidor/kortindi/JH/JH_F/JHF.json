@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_F/JHF.HTM",
+  "title": "Den första bruna serien",
+  "summary": "Josef Herlers första bruna souvenirserie från 1920-talets början, där fotografen Arne Jernström står för de flesta bilderna. Sidan noterar att korten köptes som souvenirer, och att endast ett av de tio är postgånget.",
+  "topics": [
+    "josef herler",
+    "serie 1920",
+    "souvenirkort",
+    "arne jernström"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Bokhandeln Josef Herlers Bokhandel i Nykarleby stod bakom serien."
+    },
+    {
+      "name": "Arne Jernström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf",
+        "lektor"
+      ],
+      "description": "Lektor i teckning, slöjd och kalligrafi vid seminariet; hyresgäst på Bankgatan 4."
+    }
+  ],
+  "places": [
+    {
+      "name": "Topelius minnessten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Korsåkers kvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 4",
+      "description": "Arne Jernström var hyresgäst här.",
+      "geo": {
+        "lat": 63.5229781,
+        "lng": 22.5281705,
+        "match": "address",
+        "gazetteerName": "bankgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "cd1f23c462ab0bae4b6fbb3bb51e8c515be92c4ad232c7326bbab7a77cf41b2f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

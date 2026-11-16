@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_L/JHLR052S.HTM",
+  "title": "Uthusen norr om kyrkan",
+  "summary": "Uthusen norr om kyrkan har försvunnit och stenmuren ligger under vatten. Det sista uthuset, det mittersta, brann på åttio- eller nittiotalet.",
+  "topics": [
+    "uthus",
+    "kyrkan",
+    "vatten",
+    "brand"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Apoteksbacken",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Apoteksbackens slut syns till vänster."
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Det sista uthuset brinner",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "på åttio- eller nittiotalet"
+      },
+      "description": "Det mittersta uthuset brinner.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3c2056726db2ad9349fe7ac9c93a75020a923e6437ee955aae62eab1935586ae",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

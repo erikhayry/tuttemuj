@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHK.HTM",
+  "title": "Äntligen spräcktes tolvan!",
+  "summary": "Ett albumblad fyllt med en serie från 1920. De gamlas hem och Saarela kvarn avbildas för första gången, och korten följer en tänkt vandring från Esplanaden via kyrkan till Nystaden och vidare mot Juthas.",
+  "topics": [
+    "josef herler",
+    "serie 1920",
+    "saarela kvarn",
+    "de gamlas hem"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Bokhandeln Josef Herlers Bokhandel i Nykarleby stod bakom serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Saarela kvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b6f2ad4637f2d48ee7cf932b56ac60179072c1ec1ca0c4e6bddf5a9121991113",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

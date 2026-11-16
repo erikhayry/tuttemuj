@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKR038S.HTM",
+  "title": "Östra älvstranden söder om Storbron",
+  "summary": "Bryggeriet och stadskvarnen från nordväst. Efter dammbyggandet står husen med ”stenfötterna” i vattnet. Ett familjeminne berättar att bryggeriet ägdes av Carl Hjalmar Laqvist omkring 1920–1935.",
+  "topics": [
+    "bryggeriet",
+    "stadskvarnen",
+    "dammen",
+    "carl hjalmar laqvist"
+  ],
+  "people": [
+    {
+      "name": "Carl Hjalmar Laqvist",
+      "alternateNames": [],
+      "roles": [
+        "bryggeriägare"
+      ],
+      "description": "Ägde bryggeriet omkring 1920–1935, enligt ett familjeminne."
+    },
+    {
+      "name": "Anders Gustav Jakobsson",
+      "alternateNames": [],
+      "birthYear": 1879,
+      "deathYear": 1947,
+      "roles": [
+        "bryggeriarbetare"
+      ],
+      "description": "Arbetade många år på bryggeriet, enligt ett familjeminne."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bryggeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "På östra älvstranden söder om Storbron."
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bryggeriet ägs av Carl Hjalmar Laqvist",
+      "date": {
+        "year": 1920,
+        "circa": true,
+        "text": "ungefär 1920–1935"
+      },
+      "description": "Carl Hjalmar Laqvist äger bryggeriet.",
+      "people": [
+        "Carl Hjalmar Laqvist"
+      ],
+      "places": [
+        "Bryggeriet"
+      ]
+    },
+    {
+      "title": "Bryggeriet får ny ägare",
+      "date": {
+        "year": 1935,
+        "circa": true,
+        "text": "i mitten av 30-talet"
+      },
+      "description": "Bryggeriet får en ny ägare.",
+      "people": [],
+      "places": [
+        "Bryggeriet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4db3d1ae63fcc01d03447e4ba71e5f45a56a15c0689342bff5781829727a65c1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

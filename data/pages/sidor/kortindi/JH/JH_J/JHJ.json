@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_J/JHJ.HTM",
+  "title": "Nymodigheter",
+  "summary": "En serie från 1920 med kort som har relieftryckt ram och en fransig kant. Lusthuset i Skogsparken invid seminariet syns här för första gången.",
+  "topics": [
+    "skogsparken",
+    "lusthus",
+    "serie 1920"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Bokhandeln Josef Herlers Bokhandel i Nykarleby stod bakom serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogsparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lusthuset i Skogsparken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Invid seminariet."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a1c1b56333f032f7b509565c2e3df31876838812633c6af42696ef3117c461ce",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

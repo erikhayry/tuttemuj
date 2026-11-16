@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKH037Z.HTM",
+  "title": "Nykarleby karamellfabrik",
+  "summary": "En reklamaffisch eller ett lock från Axel Herlers karamellfabrik, som verkade från början av 1898 till början av 1899. Monumentet vid Juthas syns i nedre delen.",
+  "topics": [
+    "karamellfabrik",
+    "axel herler",
+    "juthas"
+  ],
+  "people": [
+    {
+      "name": "Axel Herler",
+      "alternateNames": [],
+      "roles": [
+        "karamelltillverkare"
+      ],
+      "description": "Drev karamellfabriken 1898–1899."
+    }
+  ],
+  "places": [
+    {
+      "name": "Axel Herlers karamellfabrik",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Monumentet vid Juthas syns på affischen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Karamellfabriken verkar",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "början av 1898 till början av 1899"
+      },
+      "description": "Axel Herlers karamellfabrik är i drift.",
+      "people": [
+        "Axel Herler"
+      ],
+      "places": [
+        "Axel Herlers karamellfabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0b34356e838a6caf68a9d6f006d10fc35dd49b86448c1d1f6559df6c38e4f97f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_J/JHJS008S.HTM",
+  "title": "Vindarnas tempel",
+  "summary": "Lusthuset i Skogsparken var en prydnad för parken men har förfallit. En motion våren 2002 ledde till uppsnyggning våren 2006.",
+  "topics": [
+    "skogsparken",
+    "lusthus",
+    "motion",
+    "2006"
+  ],
+  "people": [
+    {
+      "name": "Heinonen",
+      "alternateNames": [],
+      "roles": [
+        "stadsfullmäktigeledamot"
+      ],
+      "description": "Motionerade våren 2002 om uppsnyggning av lusthuset."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogsparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lusthuset i Skogsparken",
+      "kind": "building",
+      "alternateNames": [
+        "Vindarnas tempel"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Motionen ger resultat",
+      "date": {
+        "year": 2006,
+        "circa": true,
+        "text": "vårvintern 2006"
+      },
+      "description": "Motionen om uppsnyggning av lusthuset ger resultat.",
+      "people": [
+        "Heinonen"
+      ],
+      "places": [
+        "Lusthuset i Skogsparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8a164a6d7988c494c7d1436cb40ad33985dfcf3e8a85da4b64086114dcfde0d9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

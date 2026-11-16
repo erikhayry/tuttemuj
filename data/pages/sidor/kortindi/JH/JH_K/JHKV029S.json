@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKV029S.HTM",
+  "title": "Utsikt från Folkhögskolan över staden",
+  "summary": "Utsikt från folkhögskolans tak mot söder, med seminariet, kyrkan och stockrännan som användes vid flottning förbi dammen.",
+  "topics": [
+    "folkhögskolan",
+    "seminariet",
+    "stockrännan",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stockrännan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Längs den flottades stockar förbi dammen."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3e634958907f577ed146cb0febdd2c7c302dd9b1b83ffd9a15de41311e2ca02f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

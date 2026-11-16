@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_G/JHGH0132.HTM",
+  "title": "Platsen där Stadsbrunnen stod",
+  "summary": "Platsen där Stadsbrunnen stod, med en lista över andra allmänna brunnar och vattenposter i staden. Den första vattenposten monterades i esplanaden 1951.",
+  "topics": [
+    "stadsbrunnen",
+    "vattenposter",
+    "brandposter"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stod här förr."
+    },
+    {
+      "name": "Ruddammen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Ruddammsbrunnen låg här."
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Vattenpost vid korsningen med Lybecksgatan."
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Tvättinrättningen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Första vattenposten i esplanaden",
+      "date": {
+        "year": 1951,
+        "circa": false,
+        "text": "1951"
+      },
+      "description": "Den första vattenposten monteras i esplanaden.",
+      "people": [],
+      "places": [
+        "Esplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f92ad96e6f94c6613bd6bfb0e0918f102bb0b4ea4077aa2cf8ffad958ee5aa50",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}

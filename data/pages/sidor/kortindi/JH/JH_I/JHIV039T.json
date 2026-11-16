@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_I/JHIV039T.HTM",
+  "title": "Reskort från 1924",
+  "summary": "Ett reskort från 1924 om en båtutflykt till yttersta skären, bland annat till Majniemi och Topelius sommarställe. Sidan noterar att den ryska texten på frimärkesstämpeln är borthackad.",
+  "topics": [
+    "reskort",
+    "1924",
+    "majniemi",
+    "juthas slagfält"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Majniemi",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Topelius sommarställe på Alörn."
+    },
+    {
+      "name": "Juthas slagfält",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Båtutflykt till yttersta skären",
+      "date": {
+        "year": 1924,
+        "month": 5,
+        "day": 5,
+        "circa": false,
+        "text": "5 maj 1924"
+      },
+      "description": "En båtutflykt till yttersta skären, bland annat till Majniemi.",
+      "people": [],
+      "places": [
+        "Majniemi"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b0002c595dcbbe8f1da2a41a392302cfe00fe372f307f7eb7b6b42e55cfefbec",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:39:08.182Z"
+}
