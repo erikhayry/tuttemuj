@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_B/LRBE0092.HTM",
+  "title": "Topeliusesplanaden",
+  "summary": "Topeliusesplanaden fotad 2002, med butiker som Ritas stuvbitar och Cyk-Ra, Alko och Gleisners livsmedelsaffär. Sidan berättar om hur huset med Alko byggdes 1965 och hur butiken flyttade till Ostrocenter 2005.",
+  "topics": [
+    "topeliusesplanaden",
+    "alko",
+    "butiker",
+    "förändring"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Alko",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset byggdes 1965 och Alko flyttade ut 2005."
+    },
+    {
+      "name": "Gleisners livsmedelsaffär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ritas stuvbitar",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Cyk-Ra",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Glassbaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs och ersattes av ett hus från 1982–83."
+    },
+    {
+      "name": "Ostro-center",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Alko-huset byggs",
+      "date": {
+        "year": 1965,
+        "circa": false,
+        "text": "1965"
+      },
+      "description": "Huset med Alko-butiken byggs 1965.",
+      "people": [],
+      "places": [
+        "Alko"
+      ]
+    },
+    {
+      "title": "Alko flyttar till Ostro-center",
+      "date": {
+        "year": 2005,
+        "circa": false,
+        "text": "2005"
+      },
+      "description": "Alko flyttar ut från huset till Ostro-center.",
+      "people": [],
+      "places": [
+        "Alko",
+        "Ostro-center"
+      ]
+    },
+    {
+      "title": "Huset brinner",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "början av 1970-talet"
+      },
+      "description": "Ett hus på Topeliusesplanaden brinner i början av 1970-talet.",
+      "people": [],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "19a68abf1b12187b8c9deb31f1a7e2dc15c9a2bdcc828fd3edfa3ab89743cc98",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

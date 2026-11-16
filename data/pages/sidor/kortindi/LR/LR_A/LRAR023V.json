@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAR023V.HTM",
+  "title": "Nybroforsen",
+  "summary": "Nybroforsen. Bildtexten är kort.",
+  "topics": [
+    "nybroforsen",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

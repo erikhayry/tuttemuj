@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM02065S.HTM",
+  "title": "Torget",
+  "summary": "Torget, husen runt omkring och korsningen Gustav Adolfsgatan–Bangatan fotat från sydost. Sidan saknar bild eftersom förlaget tar 85 euro för publicering.",
+  "topics": [
+    "torget",
+    "karhumäki",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "4a411b8ca4e68b40f35eb505beea4d98972b33d2cc09c5ec01cc0cb90e5127a2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

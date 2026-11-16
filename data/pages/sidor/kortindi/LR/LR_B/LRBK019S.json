@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_B/LRBK019S.HTM",
+  "title": "Kyrkan",
+  "summary": "Kyrkan mot sydost. Alla magasinen är numera rivna.",
+  "topics": [
+    "kyrkan",
+    "magasin"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8ae13d7f662b336f9e1ead6f78d08a8f62331d9cc9f75f3cb804c331d1bd189d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

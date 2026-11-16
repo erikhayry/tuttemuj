@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_D/Lrde003s.htm",
+  "title": "Boulevarden",
+  "summary": "Esplanaden fotad från Bankgatan mot norr, med en tillbakablick på namnändringar och kiosken Rundkiosken. Sidan nämner också Erik Bergmans plats, uppkallad efter kompositören.",
+  "topics": [
+    "topeliusesplanaden",
+    "namnändring",
+    "rundkiosken",
+    "erik bergman"
+  ],
+  "people": [
+    {
+      "name": "Erik Bergman",
+      "alternateNames": [],
+      "roles": [
+        "kompositör"
+      ],
+      "description": "Har fått torghörnet uppkallat efter sig."
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Västra esplanaden",
+        "Östra esplanaden",
+        "Rådhusboulevarden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rundkiosken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Oval kiosk vid Bankgatan, flyttad till Frillmossen."
+    },
+    {
+      "name": "Erik Bergmans plats",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Torghörnet som döptes efter kompositören Erik Bergman."
+    },
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Esplanaden får nytt namn",
+      "date": {
+        "year": 1911,
+        "circa": false,
+        "text": "1911"
+      },
+      "description": "Rådhusboulevarden byter namn till Vestra- och Östra Esplanadgatan.",
+      "people": [],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    },
+    {
+      "title": "Rundkiosken rivs",
+      "date": {
+        "year": 1974,
+        "circa": true,
+        "text": "omkring 1974"
+      },
+      "description": "Den ovala kiosken Rundkiosken vid Bankgatan tas bort.",
+      "people": [],
+      "places": [
+        "Rundkiosken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "975ba99ebd7ae10efbda00970c493d898babffc3e923a01e4397250510a799a8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

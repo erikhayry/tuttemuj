@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53S.HTM",
+  "title": "Kuddnäs",
+  "summary": "Kuddnäs fotat på 1870-talet av seminarielektor Lindskog, med Zacharias Topelius i förgrunden. Samma foto används i stadens historia del II.",
+  "topics": [
+    "kuddnäs",
+    "topelius",
+    "foto",
+    "1870-talet"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lindskog",
+      "alternateNames": [],
+      "roles": [
+        "seminarielektor"
+      ],
+      "description": "Fotograf för bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topelius barndomshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kuddnäs fotograferas",
+      "date": {
+        "year": 1870,
+        "circa": true,
+        "text": "1870-talet"
+      },
+      "description": "Seminarielektor Lindskog fotograferar Kuddnäs med Zacharias Topelius i förgrunden.",
+      "people": [
+        "Zacharias Topelius",
+        "Lindskog"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c0cdcd6bc08c181e0c3e3dcd7379a8d99939df50bf13d3a9d258c6f3c27be223",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

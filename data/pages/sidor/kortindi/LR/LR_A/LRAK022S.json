@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAK022S.HTM",
+  "title": "Kyrkan",
+  "summary": "Kyrkan en vårvinterdag. Gråstenskällaren finns kvar under vattnet. Sidan berättar om ett barndomsrykte om en hemlig gång från källaren till Normalskolan, som författaren undersökte utan att hitta något.",
+  "topics": [
+    "kyrkan",
+    "gråstenskällaren",
+    "hemlig gång",
+    "barndom"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En pojke undersöker källaren under kyrkan för att hitta den hemliga gången till Normalskolan, men hittar inget och ritar kartor i stället.",
+    "reason": "Ett barns jakt på ett rykte om en hemlig gång ger en lätt, nostalgisk scen.",
+    "characters": [
+      "pojken"
+    ],
+    "places": []
+  },
+  "contentHash": "27e6e9d9ac7bfe5e4b1295dbd0e5e7a33166d142d62355595255f2911e0aba9e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

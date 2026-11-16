@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_B/LRBE009S.HTM",
+  "title": "Rådhusboulevarden",
+  "summary": "Rådhusboulevarden fotad från Topeliusesplanaden. Sidan berättar om Axel Herlers järnhandel från 1908 i Samskolan och om butiker som Bergfeldts och Sportmagasinet Mattsson.",
+  "topics": [
+    "rådhusboulevarden",
+    "järnhandel",
+    "butiker",
+    "samskolan"
+  ],
+  "people": [
+    {
+      "name": "Axel Herler",
+      "alternateNames": [],
+      "roles": [
+        "järnhandlare"
+      ],
+      "description": "Öppnade stadens första järnhandel 1908."
+    }
+  ],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": [
+        "Topeliusesplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bergfeldts matvaruaffär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sportmagasinet Mattsson",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Fors järn och glas",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ceders järnaffär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Axel Herlers järnhandel öppnar",
+      "date": {
+        "year": 1908,
+        "circa": false,
+        "text": "1908"
+      },
+      "description": "Axel Herler öppnar stadens första järnhandel i Samskolan.",
+      "people": [
+        "Axel Herler"
+      ],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ryktet sprider sig i mitten av 1970-talet om en grön gubbe i Samskolan, och fotografen står på torget och fångar stämningen.",
+    "reason": "En gåtfull rykteshistoria med ett mystiskt inslag som lämpar sig för en komisk eller spökig berättelse.",
+    "characters": [
+      "grön gubbe"
+    ],
+    "places": []
+  },
+  "contentHash": "18cd471a9d98bb1dd58e343dd1066386bfafdce49e32778172116167b0b2a57e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_B/LRBS005S.HTM",
+  "title": "Ett sorgebud",
+  "summary": "Ett brev med sorgebud om att Post-Matti har dött efter fyra dygns sjukdom. Sidan visar också utsikten mot seminariet från Topeliusparken.",
+  "topics": [
+    "brevkort",
+    "sorg",
+    "seminariet",
+    "topeliusparken"
+  ],
+  "people": [
+    {
+      "name": "Post-Matti",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Omnämnd i litteraturen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8433f90782642d7a4b6b278de52cffbae6da63ac4d6ff1de183269f11a2ee08d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

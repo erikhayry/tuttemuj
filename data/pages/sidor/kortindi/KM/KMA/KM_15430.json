@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_15430.html",
+  "title": "Karhumäki 15430",
+  "summary": "Från Hanséns café till Borgaregatan mellan Esplanaden och Gustav Adolfsgatan, ett kort från 1960.",
+  "topics": [
+    "karhumäki",
+    "hanséns café",
+    "borgaregatan",
+    "1960"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8fe0a5f80eaae5ac355bf97abded2e9c8b2e79ad7693b2988bb01a073c0db515",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

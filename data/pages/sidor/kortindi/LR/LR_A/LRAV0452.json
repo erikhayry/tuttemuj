@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV0452.HTM",
+  "title": "Kyrkogatan",
+  "summary": "Kyrkogatan fotad 2002 och jämförd med det äldre kortet. Björkarna har vuxit, husen har förändrats och kraftverket byggdes 1926.",
+  "topics": [
+    "kyrkogatan",
+    "kraftverket",
+    "jämförelse",
+    "2002"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kraftverket byggs",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "description": "Kraftverket tillkommer.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a6a7e842a3dac09d350e708cb3ac158b019895cde0fdfb82f28c9a6acfc34fe1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

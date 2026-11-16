@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_14052.html",
+  "title": "Karhumäki 14052",
+  "summary": "Storbron och kyrkan med Bankgatan och Sollefteågatan, fotat från nordväst. Sidan noterar att en lastbil syns på bilden som spöke i älven, vilket ger märkliga skuggor på räcket.",
+  "topics": [
+    "karhumäki",
+    "storbron",
+    "kyrkan",
+    "1958"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6a0b6b811f211ab8ebad4be092f09d529a3e63507e9be54ba14681a8714912a7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

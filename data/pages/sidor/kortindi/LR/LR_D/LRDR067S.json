@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_D/LRDR067S.HTM",
+  "title": "Kyrkan och älven",
+  "summary": "Kyrkan, älven och Storbron från nordväst. Bron förstärktes med ett fackverk i samband med järnvägsbygget till Andrasjön, och kortet måste alltså vara äldre än 1899.",
+  "topics": [
+    "storbron",
+    "kyrkan",
+    "järnvägen",
+    "andrasjön"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6b5d3e242beaf47e361b1a4aab273dbf4a4299856da346ff7db0b6c431bfffc9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAR023S.HTM",
+  "title": "Nybroforsen",
+  "summary": "Nybroforsen från tiden när Topeliusgatan och Lybecksgatan bildade en esplanad. Sidan berättar om nejonögonfisket nedanför kraftverksdammen under författarens uppväxt.",
+  "topics": [
+    "nybroforsen",
+    "nejonögonfiske",
+    "lybecksgatan",
+    "barndom"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "30da21715f3fd9869ae2638a448679f9b1f6b557ec26834fa18d9efbcf46f015",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

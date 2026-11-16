@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV001S.HTM",
+  "title": "Södra Torggatan",
+  "summary": "Södra Torggatan mot väster från Rummelbacken, där tomten nr 24 såldes på auktion 1858 och smeden J. Karlsson hade sin smedja. Sidan berättar också att Sollefteå är stadens vänort i Sverige.",
+  "topics": [
+    "södra torggatan",
+    "rummelbacken",
+    "auktion",
+    "smedja"
+  ],
+  "people": [
+    {
+      "name": "Anders Gustaf Olson",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Köpte tomten nr 24 på auktion 1858."
+    },
+    {
+      "name": "J. Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ],
+      "description": "Ägde gården och hade smedja i Rummelbacken."
+    },
+    {
+      "name": "Otto Valdemar Andersson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde en ny gård efter 1916."
+    }
+  ],
+  "places": [
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [
+        "Köpmansgatan",
+        "Karleborgsgatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Östra långgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Brandkårshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gamla brandkårshuset, nu ägt av missionsförsamlingen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomt nr 24 säljs på auktion",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "28 juli 1858"
+      },
+      "description": "Tomten nr 24 köps på auktion av handlanden Anders Gustaf Olson.",
+      "people": [
+        "Anders Gustaf Olson"
+      ],
+      "places": [
+        "Södra Torggatan"
+      ]
+    },
+    {
+      "title": "Utauktion hos smeden",
+      "date": {
+        "year": 1909,
+        "circa": false,
+        "text": "1909"
+      },
+      "description": "Smeden J. Karlsson utauktionerar en del av sitt lösöre.",
+      "people": [
+        "J. Karlsson"
+      ],
+      "places": [
+        "Rummelbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac71f1f41ab1dc14956d09d3a69e8b4386dd7a6fb534c2d0c19101b9359108b7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

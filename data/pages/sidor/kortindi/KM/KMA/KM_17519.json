@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_17519.html",
+  "title": "Karhumäki 17519",
+  "summary": "Husen vid Juthasvägen med staden i bakgrunden, fotat från väster. Ett kort från 1964.",
+  "topics": [
+    "karhumäki",
+    "juthasvägen",
+    "1964"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6c91a14a8e9a9daa82fefe4273a7a7da430aea6b94e750e4fb7346aa5a5f96a9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

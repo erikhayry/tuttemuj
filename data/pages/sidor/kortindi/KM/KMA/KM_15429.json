@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_15429.html",
+  "title": "Karhumäki 15429",
+  "summary": "Norra delen av Nygård med torget, kyrkan, Nystaden och Smedsbacka i bakgrunden, från ett kort från 1960.",
+  "topics": [
+    "karhumäki",
+    "nygård",
+    "torget",
+    "nystaden",
+    "1960"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f867119feaa1e029118d9cfacb68a7597e0375bee92f80031b3437090e80eb23",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

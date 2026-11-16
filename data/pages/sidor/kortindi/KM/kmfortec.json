@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/kmfortec.htm",
+  "title": "Flygbilder över Nykarleby och vyer från vattentornet",
+  "summary": "En genomgång av flygbilder över Nykarleby och vyer från vattentornet, med en tabell över Veljekset Karhumäkis kort och hur de daterats. Firman började fotografera flygbilder 1929.",
+  "topics": [
+    "flygbilder",
+    "vattentornet",
+    "karhumäki",
+    "datering",
+    "samlande"
+  ],
+  "people": [
+    {
+      "name": "Niilo Karhumäki",
+      "alternateNames": [],
+      "roles": [
+        "flygpionjär"
+      ],
+      "description": "Grundade firman Veljekset Karhumäki tillsammans med bröderna Valto och Uuno."
+    },
+    {
+      "name": "Valto Karhumäki",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bror till Niilo Karhumäki och medgrundare av firman."
+    },
+    {
+      "name": "Uuno Karhumäki",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bror till Niilo Karhumäki och medgrundare av firman."
+    },
+    {
+      "name": "Peter Helenius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav en förteckning över korten."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Liljedahls affärshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Parkhusen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Firman börjar fotografera flygbilder",
+      "date": {
+        "year": 1929,
+        "circa": false,
+        "text": "1929"
+      },
+      "description": "Veljekset Karhumäki börjar fotografera flygbilder.",
+      "people": [
+        "Niilo Karhumäki"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f3cba63441aa74fa753cbab78a77f5b47062b6243bf4229cf4f0ee9f8a0db3e7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

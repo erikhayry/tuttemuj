@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAR023D.HTM",
+  "title": "Ristning i Nybroforsen",
+  "summary": "En inristning från 1853 på en stor sten vid Nybroforsen, som kan ha samband med den svåra vårfloden det året. Sidan är en detalj av ett större kort.",
+  "topics": [
+    "nybroforsen",
+    "ristning",
+    "1853",
+    "vårflod"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ristning vid Nybroforsen",
+      "date": {
+        "year": 1853,
+        "circa": false,
+        "text": "1853"
+      },
+      "description": "En inristning med årtalet 1853 syns på den stora stenen vid Nybroforsen.",
+      "people": [],
+      "places": [
+        "Nybroforsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4d844473cea4d0d34de8c8b74c340870eb853d90df6b88ce8b60b56811e83ae5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

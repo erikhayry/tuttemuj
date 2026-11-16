@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_D/LRDR062S.HTM",
+  "title": "Nykarleby. Brunnsholmen",
+  "summary": "Brunnsholmen fotad mot norr, med simhuset, värdshuset och stadskvarnen. Bilden är från 1880-talet och visar det gamla värdshuset.",
+  "topics": [
+    "brunnsholmen",
+    "simhuset",
+    "värdshuset",
+    "stadskvarnen",
+    "1880-talet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brunnsholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Simhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Värdshuset på Brunnsholmarna",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Engs garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vinden till höger hörde till garvare Engs garveri."
+    }
+  ],
+  "events": [
+    {
+      "title": "Brunnsholmen fotograferas",
+      "date": {
+        "year": 1880,
+        "circa": true,
+        "text": "1880-talet"
+      },
+      "description": "Brunnsholmen fotas med det gamla värdshuset.",
+      "people": [],
+      "places": [
+        "Brunnsholmen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2df96e6f6d122630f22d7920de849a79815c0f6dcade2eb5e47420a02a9bb04",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

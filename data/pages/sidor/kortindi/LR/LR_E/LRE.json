@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/LRE.HTM",
+  "title": "Småstadsidyll",
+  "summary": "En serie med trähusarkitektur från 1860-talet. Efter stadsbranden 1858 byggde de inflytelserika borgarna gårdar runt torget, och sidan berättar om huset Jernströms, nuvarande Nylunds.",
+  "topics": [
+    "småstadsidyll",
+    "trähus",
+    "stadsbranden",
+    "torget"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Jernströms hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset där familjen Jernström bodde, nuvarande Nylunds, före detta Pensars."
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomterna kring torget bebyggs",
+      "date": {
+        "year": 1858,
+        "circa": true,
+        "text": "efter branden 1858"
+      },
+      "description": "Efter stadsbranden köper de mest inflytelserika borgarna tomterna kring torget och bygger gårdar.",
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "78cd59769a82dabe8ac9223f4f54f5dfb5b4eda9f1aac1e739277ea21f206c08",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV045X.HTM",
+  "title": "Kyrkogatan och Heikelska gården från klockstapeln",
+  "summary": "Utsikt från klockstapeln mot söder. Vyn är lummigare i dag, och den kommunalgård som ligger högst upp till vänster tillkom i början av 1950-talet.",
+  "topics": [
+    "kyrkogatan",
+    "heikelska gården",
+    "klockstapeln",
+    "kommunalgården",
+    "2002"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kommunalgården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kommunalgården tillkommer",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "början av 1950-talet"
+      },
+      "description": "Landskommunens kommunalgård tillkommer.",
+      "people": [],
+      "places": [
+        "Kommunalgården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "73ad258ef467475bb8d17665cd7bedc1dd3ed93843cef6e05249e362faf10913",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

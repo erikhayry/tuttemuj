@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_C/LRCS013S.HTM",
+  "title": "Seminariet",
+  "summary": "Ett brev från en seminarist med bild av seminariet från Topeliusparken. Brevet beskriver byggnaderna och en vän som ställer frågor om frimärken och läroverk.",
+  "topics": [
+    "seminariet",
+    "brevkort",
+    "topeliusparken"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5cef14216f02f1477a9847e4f07da8e2add99d46d242f67cb36a64dcb7d12530",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

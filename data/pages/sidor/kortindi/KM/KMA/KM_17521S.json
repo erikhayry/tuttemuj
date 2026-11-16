@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_17521S.html",
+  "title": "Karhumäki 17521",
+  "summary": "Gustav Adolfsgatan mot öster mellan Källbackgatan och Borgaregatan, med Kampen i bakgrunden, från 1964. Kortet var det sista som saknades i samlingen när det köptes 2018.",
+  "topics": [
+    "karhumäki",
+    "gustav adolfsgatan",
+    "kampen",
+    "källbackgatan",
+    "1964"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "589270b1dacbe31e79386e0c88e108788212e6a2b0064cc4f023e112771df4dd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

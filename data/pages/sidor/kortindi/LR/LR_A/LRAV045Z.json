@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV045Z.HTM",
+  "title": "Snöbollskrig",
+  "summary": "Ett minne från skoltiden om snöbollskrig mellan seminariets och Normalskolans elever. Den egna skolan hade sin borg i kapten Lundqvists gård vid Kyrkogatan.",
+  "topics": [
+    "snöbollskrig",
+    "skoltiden",
+    "kyrkogatan",
+    "normalskolan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kapten Lundqvists gård",
+      "kind": "building",
+      "alternateNames": [
+        "Henriksnäs"
+      ],
+      "description": "Gården vid nuvarande Kyrkogatan, senare Henriksnäs."
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Skolelever i ett snöbollskrig mot Normalskolan drar sig tillbaka till en gård med tre portar, som är omöjlig att inta när portarna är stängda.",
+    "reason": "En humoristisk konflikt mellan två skolor med en tydlig fästning som sista utväg.",
+    "characters": [
+      "skolpojkarna"
+    ],
+    "places": []
+  },
+  "contentHash": "27d39c7c96628e6f4eba35defa5b422be5cf8080b562560193c5c6b9bd1ca348",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

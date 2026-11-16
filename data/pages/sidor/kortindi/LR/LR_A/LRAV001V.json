@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV001V.HTM",
+  "title": "Sollefteå-/Köpmansgatan från Rummelbacken",
+  "summary": "Sollefteå-/Köpmansgatan från Rummelbacken. Bildtexten är kort.",
+  "topics": [
+    "sollefteågatan",
+    "rummelbacken",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [
+        "Köpmansgatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

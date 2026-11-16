@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_14054.html",
+  "title": "Karhumäki 14054",
+  "summary": "Seminariegatan från nordväst med staden i bakgrunden. Kortet är skickat från Nykarleby till Helsingfors 1961 och har en personlig hälsning på baksidan.",
+  "topics": [
+    "karhumäki",
+    "seminariegatan",
+    "brevkort",
+    "1958"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ec20314249837745dc01edebe5d256ef0d3028bd1697573a6d61dfa34a53514e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

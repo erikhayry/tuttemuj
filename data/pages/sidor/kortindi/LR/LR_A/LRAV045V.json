@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV045V.HTM",
+  "title": "Kyrkogatan från klockstapeln",
+  "summary": "Kyrkogatan från klockstapeln. Bildtexten är kort.",
+  "topics": [
+    "kyrkogatan",
+    "klockstapeln",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV045S.HTM",
+  "title": "Kyrkogatan från klockstapeln",
+  "summary": "Utsikt från klockstapeln mot norr. Det grönmålade staketet runt Stenhustomten finns kvar. Kortet är skickat som julhälsning.",
+  "topics": [
+    "kyrkogatan",
+    "klockstapeln",
+    "stenhustomten",
+    "jul"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Stenhustomten",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ebd2c04ceb3eeb50142af68f85d05773acb10fd9e634ac48b250132ba500b3b4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

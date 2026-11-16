@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV0012.HTM",
+  "title": "Sollefteågatan",
+  "summary": "Sollefteågatan där de högra husen har förändrats. Milstenen i förgrunden visar avståndet till Lappo och Nykarleby. Sidan berättar också att Sollefteå är stadens vänort i Sverige.",
+  "topics": [
+    "sollefteågatan",
+    "milstenen",
+    "vänort",
+    "sollefteå"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [
+        "Köpmansgatan",
+        "Karleborgsgatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Milstenen i Sollefteågatan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Milstenen visar 74 km till Lappo och 0 km till Nykarleby."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ae2d910499e856a79869e977b87cef4339890ab1e7f395856b510502216cf53f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

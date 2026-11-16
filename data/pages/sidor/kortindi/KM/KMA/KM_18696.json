@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_18696.html",
+  "title": "Karhumäki 18696",
+  "summary": "Husen vid Juthasvägen söder om Storbron med staden i bakgrunden, ett kort från 1966.",
+  "topics": [
+    "karhumäki",
+    "juthasvägen",
+    "storbron",
+    "1966"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "76850e7f380502ba66c78981b2f4ac6bfebeaccdea2afd1c9c098e35e911a409",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

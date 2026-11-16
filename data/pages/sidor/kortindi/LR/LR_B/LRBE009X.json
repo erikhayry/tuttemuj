@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_B/LRBE009X.HTM",
+  "title": "Alko",
+  "summary": "Baksidan av det gamla Alko och Gleisners livsmedelsaffär på Borgaregatan 10, med lastbilen som levererar alkohol under butikschef Lauri Eriksson.",
+  "topics": [
+    "alko",
+    "borgaregatan",
+    "butiker",
+    "1954"
+  ],
+  "people": [
+    {
+      "name": "Lauri Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "butikschef"
+      ],
+      "description": "Butikschef för Alko, övervakar lossningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Alko",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 10",
+      "geo": {
+        "lat": 63.5236019,
+        "lng": 22.5330942,
+        "match": "address",
+        "gazetteerName": "borgaregatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gleisners livsmedelsaffär",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d6ead435febb1fe5ebe96349afe1592d5eb0c9966cad850e80bbeb44ea63b4a1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

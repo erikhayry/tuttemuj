@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_16993.html",
+  "title": "Karhumäki 16993",
+  "summary": "Storbron med staden söder om Bankgatan i bakgrunden, ett kort från 1963.",
+  "topics": [
+    "karhumäki",
+    "storbron",
+    "1963"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "eead081288c3fe63cf2444b0952eb9bdc8d05b74f2fd51a8af7effc699bf299b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_C/LRCR075S.HTM",
+  "title": "Kyrkan",
+  "summary": "Kyrkan mot sydost med en hälsning till Elvira från Aina.",
+  "topics": [
+    "kyrkan",
+    "brevkort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3f2a20a574a67f4427d01e8d52f7a150c66ae92a6be95ac14ce15dc955d8e798",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

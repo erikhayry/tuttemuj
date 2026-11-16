@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_D/LRDR033S.HTM",
+  "title": "Nykarleby. Strandparti (Nybroviken)",
+  "summary": "Strandpartiet vid Nybroviken, fotat mot nordnordost. Sidan berättar om klappbryggan och om att stadens mattor tvättades där, och att dammbygget 1984 täckte över stenmuren.",
+  "topics": [
+    "nybroviken",
+    "klappbryggan",
+    "mattvätt",
+    "dammbygget"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Klappbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Dammbygget täcker stenmuren",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Muddringsmassor dumpas över stenmuren och syrenerna vid dammbygget.",
+      "people": [],
+      "places": [
+        "Nybroviken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d161f71f6a73160daf8fa2ab56a37c0bab3cc4461d3486e7c0fc0899087310ba",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

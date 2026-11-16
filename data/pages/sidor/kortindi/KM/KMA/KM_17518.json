@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_17518.html",
+  "title": "Karhumäki 17518",
+  "summary": "Kyrkan i förgrunden med staden och delar av Borgaregatan och Bangatan, från väster. Kortet är från 1964, samma år som vattentornet byggdes.",
+  "topics": [
+    "karhumäki",
+    "kyrkan",
+    "borgaregatan",
+    "bangatan",
+    "1964"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "60aa2175fe6ee0e2bfeea1a8808291df3392edb6100d4ae73919afece540ed76",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}

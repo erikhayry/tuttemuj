@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_B/LRBR040S.HTM",
+  "title": "Brevet från Lillan",
+  "summary": "Ett brev från 1904 där Astrid skriver till sin pappa efter att ha fått ett kort från England. Sidan beskriver också Tullförvaltare Oskar Lindbohms gård, som är ett av stadens större trähus.",
+  "topics": [
+    "brevkort",
+    "lindbohms gård",
+    "seminariegatan",
+    "1904"
+  ],
+  "people": [
+    {
+      "name": "Oskar Lindbohm",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ],
+      "description": "Ägde gården vid Seminariegatan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Lindbohms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Tullförvaltare Oskar Lindbohms gård"
+      ],
+      "description": "Tullförvaltare Oskar Lindbohms gård vid Seminariegatan."
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [
+        "Westra Långgatan"
+      ],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "af7dcfa8add44db61dfd903bb9d398f30a254a2881b854128a358e0b00592d00",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:59:27.665Z"
+}
