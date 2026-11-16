@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_P/JHPK029S.HTM",
+  "title": "Kyrkan och Storbron",
+  "summary": "Kyrkan och Storbron med en cyklist på bilden. Sidan berättar att Gustaf Hedström blev den förste i staden med en velociped 1882, och att cykeln snart blev vanlig.",
+  "topics": [
+    "cykel",
+    "kyrkan",
+    "storbron",
+    "velociped"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Den förste i staden med en velociped, 1882."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första velocipeden i staden",
+      "date": {
+        "year": 1882,
+        "circa": false,
+        "text": "1882"
+      },
+      "description": "Gustaf Hedström blir den förste i staden med en velociped.",
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cfa92f17bf99ba1afd73208233fc2ee05c1a181654eb2ca69ea45255386a114a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

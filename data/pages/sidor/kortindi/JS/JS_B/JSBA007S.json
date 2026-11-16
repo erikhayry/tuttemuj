@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_B/JSBA007S.HTM",
+  "title": "Skärgård",
+  "summary": "Ett typiskt kort från Nykarlebys skärgård med långgrunda stränder. Sidan berättar om ett badhus som låg bakom en av villorna och som bara lämnat grunden kvar i vattnet.",
+  "topics": [
+    "skärgården",
+    "badhus",
+    "alören",
+    "bådan"
+  ],
+  "people": [
+    {
+      "name": "Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Ägde den gula villan ovanför vägen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Lybecks badhus",
+      "kind": "building",
+      "alternateNames": [
+        "Badhuset"
+      ],
+      "description": "Badhuset låg 100 meter från villan."
+    },
+    {
+      "name": "Alören",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Bådan",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f9d516a973cdbedfddca827fe9a25326f24ceb02ff1c857096d4f585626bf464",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

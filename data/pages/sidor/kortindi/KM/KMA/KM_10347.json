@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_10347.html",
+  "title": "Karhumäki 10347",
+  "summary": "Kristliga folkhögskolan med staden i bakgrunden, fotad från nordnordväst.",
+  "topics": [
+    "karhumäki",
+    "folkhögskolan",
+    "1953"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8f58726c41305ff4179cdd7fbddce0f36f7b83759b29a146118d832b82000274",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

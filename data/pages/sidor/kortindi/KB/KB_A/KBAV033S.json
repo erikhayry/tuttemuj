@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KB/KB_A/KBAV033S.HTM",
+  "title": "Skogsväg 2",
+  "summary": "En skogsväg vid banvallen mellan staden och Andrasjön, fotad när järnvägen fanns kvar. Sidan misstänker att det är ett standardfoto med texten ”Helsning från Nykarleby”.",
+  "topics": [
+    "skogsväg",
+    "banvallen",
+    "andrasjön"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Gamla banvallen till Andrasjön",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "69aaeadebf9a4ccbe4aa55728d46fc7ba4c9f588c38319ee22a5f0ca2c220c22",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

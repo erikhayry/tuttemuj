@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KB/KB_A/KBAX003X.HTM",
+  "title": "Dragspelets framsida",
+  "summary": "Dragspelskortets framsida med Storbron och kyrkan från väster, Stads- eller Juthforsen från söder, Brostugan och monumentet vid Juthas.",
+  "topics": [
+    "dragspel",
+    "storbron",
+    "kyrkan",
+    "juthas"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthforsen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stadsforsen"
+      ]
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Monumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a58911b0de47002fcf719ba84a2931ee22a4f5539d03f6f0179324809e31b71b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

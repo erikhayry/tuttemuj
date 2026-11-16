@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_B/JSBQ030S.HTM",
+  "title": "Kuddnäs",
+  "summary": "Kuddnäs, Topelius barndomshem, som användes som landskommunens fattiggård i början av 1900-talet. På början av 1930-talet samlades pengar in för att göra om huset till ett museum över skalden.",
+  "topics": [
+    "kuddnäs",
+    "topelius",
+    "fattiggården",
+    "museum"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kuddnäs var hans barndomshem."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topelius barndomshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Insamling för museum på Kuddnäs",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "början av trettiotalet"
+      },
+      "description": "En landsomfattande insamling görs för att göra om Kuddnäs till ett museum över Topelius.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5d39a567ee267a3cad3409364d933c7967330ed636db8b5f8c47825f61cba7ed",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

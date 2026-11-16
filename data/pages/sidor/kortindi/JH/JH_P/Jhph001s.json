@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_P/Jhph001s.htm",
+  "title": "Rådhuset",
+  "summary": "Rådhuset från 1729, som var det första kortet av byggnaden. Huset har haft många användningar, från skola till bibliotek och stadskansli fram till 1981, och en av få byggnader som klarade stadsbranden 1858.",
+  "topics": [
+    "rådhuset",
+    "stadsbranden",
+    "historik",
+    "vykort"
+  ],
+  "people": [
+    {
+      "name": "Johan Fredrik Grenman",
+      "alternateNames": [],
+      "deathYear": 1908,
+      "roles": [
+        "rådhusvaktmästare"
+      ],
+      "description": "Var rådhusvaktmästare i flera decennier."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggt 1729, ursprungligen för den lägre elementarskolan."
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhuset byggs",
+      "date": {
+        "year": 1729,
+        "circa": false,
+        "text": "1729"
+      },
+      "description": "Byggnaden uppförs 1729.",
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Rådhuset klarar stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "description": "Rådhuset är en av få byggnader som klarade stadsbranden.",
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Stadskansliet flyttar",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "1981"
+      },
+      "description": "Stadskansliet flyttar till det nybyggda ämbetshuset.",
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f929e960304ec353226222a91266439918130cc24e03388a3b8be021d8b7b363",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

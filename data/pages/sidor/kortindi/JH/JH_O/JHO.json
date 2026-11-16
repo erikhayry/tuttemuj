@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_O/JHO.HTM",
+  "title": "En serie från 1940",
+  "summary": "Serien upplagd som en promenad från Bergfeldts trädgård genom staden till Juthas. Den är troligen utgiven 1948.",
+  "topics": [
+    "josef herler",
+    "serie 1940",
+    "promenad"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Majniemi",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "15099a96866b32fde63dcbd2d69eadd265d0c8e0191fa67daddb18d834797994",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

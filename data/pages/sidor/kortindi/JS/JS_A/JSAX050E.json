@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_A/JSAX050E.HTM",
+  "title": "Stationshuset i Nykarleby",
+  "summary": "Stationshuset i Nykarleby, med brevlådan, klockan och lokstallet som sedan användes bland annat som brandstation. Sidan innehåller också en släktnotis om en man på bilden som var konduktör och senare chaufför.",
+  "topics": [
+    "nykarleby järnväg",
+    "stationshus",
+    "lokstallet",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Joel Ahlström",
+      "alternateNames": [],
+      "birthYear": 1870,
+      "roles": [
+        "konduktör",
+        "postförare",
+        "chaufför"
+      ],
+      "description": "Konduktör vid Nykarleby järnväg 1899–1916 och senare postförare på sträckan Nykarleby–Kovjoki."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby järnvägsstation"
+      ]
+    },
+    {
+      "name": "Lokstallet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Användes senare som brandstation."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c4103d920ca1a0f74fdd868b8a2b16c67a6d84aed72598fb1726b7af2c0b89b0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

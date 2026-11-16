@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_13955.html",
+  "title": "Karhumäki 13955",
+  "summary": "Bankgatan från Bockmöllergatan med staden i bakgrunden, fotat från öster.",
+  "topics": [
+    "karhumäki",
+    "bankgatan",
+    "bockmöllergatan",
+    "1958"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bockmöllergatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5216242,
+        "lng": 22.5400655,
+        "match": "name",
+        "gazetteerName": "bockmöllergatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b282c0312e1896a7389f86029e466f4ea4ff6bf61a8f67709f90b957e70708aa",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

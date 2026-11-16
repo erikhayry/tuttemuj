@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_00808S.html",
+  "title": "Karhumäki 808",
+  "summary": "Banvallen till Andrasjön finns kvar, och Maria Castréns gård ligger ensam på östra sidan vägen. Kortet är fotat från sydväst med Juthasvägen i förgrunden.",
+  "topics": [
+    "karhumäki",
+    "banvallen",
+    "juthasvägen",
+    "1934"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Gamla banvallen till Andrasjön",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Maria Castréns gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9adf1000a64cef26e3ccbe36c2b5e44f40be0327a1bc782c0e42d0c8172efe9b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

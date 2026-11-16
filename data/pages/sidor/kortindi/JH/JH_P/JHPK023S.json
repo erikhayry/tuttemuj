@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_P/JHPK023S.HTM",
+  "title": "Kyrkointeriör",
+  "summary": "Kyrkointeriören, med samma negativ som användes till ett vykort från 1920-talet.",
+  "topics": [
+    "kyrkan",
+    "interiör"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6ba247a1fb3647e34ec2555a95a8d6abf65c5cd021ea930a9b8cf5c68fa973ae",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

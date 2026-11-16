@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_11305.html",
+  "title": "Karhumäki 11305",
+  "summary": "Prostas hagan och Jeansborgsvägen i förgrunden, med staden i bakgrunden.",
+  "topics": [
+    "karhumäki",
+    "prostas hagan",
+    "jeansborgsvägen",
+    "1955"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Prostas hagan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeansborgsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5171249,
+        "lng": 22.5341641,
+        "match": "name",
+        "gazetteerName": "jeansborgsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0f5db8cddc46fd1ab0c4e7d037d15db9873dfa305fac3bf4f92a8964d83d0ee0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

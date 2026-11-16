@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_13965.html",
+  "title": "Karhumäki 13965",
+  "summary": "Kolonivägen och Bangatan med staden i bakgrunden, fotat från ostsydost.",
+  "topics": [
+    "karhumäki",
+    "kolonivägen",
+    "bangatan",
+    "1958"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kolonivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5191834,
+        "lng": 22.5378136,
+        "match": "name",
+        "gazetteerName": "kolonivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ef03e1f1df83fa7155646af4194802295ab61246df16b24ba6e9cd41f2d3a128",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

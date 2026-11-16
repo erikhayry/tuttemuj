@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_O/JHOH044S.html",
+  "title": "Grundfeldtska gården och Lybecksgatan",
+  "summary": "Grundfeldtska gården vid Lybecksgatan, en av stadens mest speciella byggnader, fotad när den precis byggts om till läkargård. Sidan visar också interiörer från hörnrummet.",
+  "topics": [
+    "grundfeldtska gården",
+    "lybecksgatan",
+    "läkargård"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "00365c6fce0e952e995e15fe33438a4fb3d7bc52fe59d854e318bbe46b0c1a49",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

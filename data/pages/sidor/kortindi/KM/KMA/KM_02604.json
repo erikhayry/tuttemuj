@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_02604.html",
+  "title": "Karhumäki 2604",
+  "summary": "Kvarndammen och Brunnsholmarna i nedre högerkant, fotat från sydväst med Juthasvägen i förgrunden.",
+  "topics": [
+    "karhumäki",
+    "kvarndammen",
+    "brunnsholmarna",
+    "1936"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kvarndammen",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8732f63d1c1aa1d9278967f9767a614ccac1ec6e0c5ce5d4ab9c13a824a4582f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

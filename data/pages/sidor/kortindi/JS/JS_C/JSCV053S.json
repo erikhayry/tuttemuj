@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_C/JSCV053S.HTM",
+  "title": "Seminariegatan",
+  "summary": "Seminariegatan mot norr en bit från Brostugan. Husen finns kvar, men berget har sprängts bort i flera omgångar och gatan har rätats ut och asfalterats.",
+  "topics": [
+    "seminariegatan",
+    "brostugan",
+    "brostuguberget"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c0aa7854f45566371e7ed535b28a319545fc10e13e909f5c2b01b5fda5fede90",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

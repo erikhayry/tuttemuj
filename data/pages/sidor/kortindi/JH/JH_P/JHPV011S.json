@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_P/JHPV011S.HTM",
+  "title": "Källbackgatan",
+  "summary": "Källbackgatan. Negativet har använts länge, och det har funnits med i minst fyra serier sedan 1915.",
+  "topics": [
+    "källbackgatan",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "50ff0153c13a8d15f2d066906db4d66f0b262836d87d87979d60b90158b7fa9d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

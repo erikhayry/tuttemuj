@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KM/KMA/KM_10349.html",
+  "title": "Karhumäki 10349",
+  "summary": "En del av Nystaden med kyrkan och staden i bakgrunden, fotat från sydväst.",
+  "topics": [
+    "karhumäki",
+    "nystaden",
+    "kyrkan",
+    "1953"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e24519b9a5e4136428baa81b076ceed4355ce044011e0e60f98fa5652a356582",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

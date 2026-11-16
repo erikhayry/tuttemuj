@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_O/JHOR087S.html",
+  "title": "Badande gossar och kyrkan",
+  "summary": "Gossar som badar vid Forsvik med kyrkan i bakgrunden, en bild från 1950. Sidan berättar också om fotografen Rufus Ingolf Friman.",
+  "topics": [
+    "forsvik",
+    "badande gossar",
+    "kyrkan",
+    "friman"
+  ],
+  "people": [
+    {
+      "name": "Rufus Ingolf Friman",
+      "alternateNames": [],
+      "birthYear": 1897,
+      "deathYear": 1974,
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Fotograf för bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsvik",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "405acb3e5c8f93e2209ba82dc82e3e7f8c4aaef01d379c095dc7f60dd3b22e3a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

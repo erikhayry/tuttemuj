@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_O/JHOR063S.html",
+  "title": "Kyrkan från Kärleksstigen 2",
+  "summary": "Ännu mer björk längs Kärleksstigen. Sidan nämner att det finns en målning från 1948 som liknar motivet.",
+  "topics": [
+    "kärleksstigen",
+    "björkar",
+    "kyrkan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "97bf459084de4ba4bf3be77c5b7e4f88937c5b2203a72e3def74c05cc1733b70",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}

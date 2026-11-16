@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_O/JHOK024S.html",
+  "title": "Kyrkan från Kärleksstigen 1",
+  "summary": "Kyrkan från Kärleksstigen, då det fanns så mycket björk längs älvstränderna att staden kallades Björkarnas stad. Gråstenskällaren syns i älvbranten under kyrkan.",
+  "topics": [
+    "kärleksstigen",
+    "björkar",
+    "kyrkan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2cd1a684c124ba7cc4e6a87a7761ab408096bc8f6f23cff1abf5024343dba406",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:51:44.221Z"
+}
