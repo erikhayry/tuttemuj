@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_14F.html",
+  "title": "2225-14 Älvbranten",
+  "summary": "Flygbild över Älvbranten, ett bostadsprojekt från 1949 som misslyckades och senare togs över av seminariet. Forsen dränktes när dammen höjdes 1962.",
+  "topics": [
+    "flygbilder",
+    "älvbranten",
+    "seminariet",
+    "dammbygget",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Älvbranten",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området som flygbilden visar."
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Övertog Älvbranten efter det misslyckade bostadsprojektet."
+    },
+    {
+      "name": "Brunnsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "södra brunnsholmen"
+      ],
+      "description": "Den södra Brunnsholmen syns i övre vänstra hörnet."
+    },
+    {
+      "name": "Bostads Ab Ebba Brahe",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Uppfört på tomtens södra del 2004–05."
+    }
+  ],
+  "events": [
+    {
+      "title": "Bostadsprojektet på Älvbranten inleds",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "1949"
+      },
+      "description": "Ett bostadsprojekt inleds på Älvbranten. Det misslyckas och övertas senare av seminariet.",
+      "people": [],
+      "places": [
+        "Älvbranten",
+        "Seminariet"
+      ]
+    },
+    {
+      "title": "Forsen dränks vid dammhöjningen",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962, vid dammhöjningen"
+      },
+      "description": "Forsen dränks när dammen höjs.",
+      "people": [],
+      "places": [
+        "Älvbranten"
+      ]
+    },
+    {
+      "title": "Bostads Ab Ebba Brahe uppförs",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "2004–05"
+      },
+      "description": "Bostads Ab Ebba Brahe uppförs på tomtens södra del.",
+      "people": [],
+      "places": [
+        "Bostads Ab Ebba Brahe"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "02851ae5458084e69748011c66957c4ab699b78d47d76e2b655dc5329dd49b34",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

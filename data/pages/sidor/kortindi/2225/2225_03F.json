@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_03F.html",
+  "title": "2225-3 Kristliga folkhögskolan",
+  "summary": "Flygbild över Kristliga folkhögskolans område vid älven, med de byggnader som stått där. Flera av dem är rivna, den senaste 2020.",
+  "topics": [
+    "flygbilder",
+    "kristliga folkhögskolan",
+    "rivning",
+    "skolor",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolans anläggning vid älven. Huvudbyggnaden från 1920 revs 1981.",
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Mangård som senare blev internat och daghem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kristliga folkhögskolans huvudbyggnad byggs",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920"
+      },
+      "description": "Huvudbyggnaden står klar.",
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Internatet färdigställs",
+      "date": {
+        "year": 1945,
+        "circa": false,
+        "text": "1945"
+      },
+      "description": "Internatet står klart.",
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Kristliga folkhögskolans huvudbyggnad revs",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "sommaren 1981"
+      },
+      "description": "Huvudbyggnaden från 1920 revs.",
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Byggnader på Kristliga folkhögskolan revs",
+      "date": {
+        "year": 2020,
+        "month": 4,
+        "day": 20,
+        "circa": false,
+        "text": "20 april 2020"
+      },
+      "description": "En av byggnaderna på området revs.",
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0a957650fa0a08c245452205e80d595c770f730873bca58f0ac6e44bed9787a1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:51:38.507Z"
+}

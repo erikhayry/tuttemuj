@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_A/AEAR005S.htm",
+  "title": "Nykarleby Beach, Nybroforsen och Kyrkogatan",
+  "summary": "Ett engelsktextat kort från USA med utsikt över Nybroforsen och Kyrkogatan. Under ett uthus vid Lybecks gård hittades en gång ett skelett, som visade sig vara ett undervisningsskelett.",
+  "topics": [
+    "vykort",
+    "nybroforsen",
+    "kyrkogatan",
+    "lybecks gård",
+    "fåfängan",
+    "sålt i usa"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Forsen som syns på kortet.",
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan som syns på kortet.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gården längst till vänster på kortet. Ett uthus revs omkring 1973."
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Apotekets trädgård, mitt i kortet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Uthus vid Lybeckska gården rivs",
+      "date": {
+        "year": 1973,
+        "circa": true,
+        "text": "omkring 1973"
+      },
+      "description": "Uthuset rivs för att ge plats för en tillbyggnad av åldringshemmet. Under golvet hittas ett skelett.",
+      "people": [],
+      "places": [
+        "Lybeckska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7b0a40095f5a0303d1eeaf74678de16fa9f898843859f1fbb9be55ab97d4fbab",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

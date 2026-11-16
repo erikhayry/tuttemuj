@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_05F.html",
+  "title": "2225-5 Normalskolan och Pensars",
+  "summary": "Närbild på Normalskolan och trappan till Pensars gård, där ett ovanligt flygplan syns. Gaveln skulle ursprungligen ha sett annorlunda ut.",
+  "topics": [
+    "flygbilder",
+    "normalskolan",
+    "pensars gård",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "normen"
+      ],
+      "description": "Skolan som syns i närbild på kortet.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gården vars trappa syns på kortet."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c7cdf696a3bab4c07403e307a07c4eaaaa1f180ad2bdb1d9f69c32eda0fdba85",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:54:55.660Z"
+}

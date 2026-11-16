@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AA/AA_A/AAAB001S.HTM",
+  "title": "Korsningen Topeliusesplanaden–Bankgatan",
+  "summary": "Ett vykort från mitten av 1940-talet som visar Bankgatan upp mot Källbacken vid esplanaden. Den som skickade kortet minns hotellet, skräddaren och den enda bensinmacken i staden.",
+  "topics": [
+    "vykort",
+    "bankgatan",
+    "topeliusesplanaden",
+    "källbacken",
+    "1940-tal"
+  ],
+  "people": [
+    {
+      "name": "Albin Aaltonen",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Vykortet är tagit av honom."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan som visas på kortet.",
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Bankgatan visas på kortet.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området bakom esplanaden som syns i bilden.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hotell på Bankgatans vänstra sida."
+    },
+    {
+      "name": "Finnströms skrädderi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skrädderi på Bankgatans högra sida."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d58c181bdbe8e1e2b9c08c06e3739fc297a217457a28e4d8252ff23435699821",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

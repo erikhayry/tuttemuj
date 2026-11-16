@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_A/AEAR012S.HTM",
+  "title": "Nybroforsen och Kyrkogatan",
+  "summary": "Ett kort från strandpartiet i Nykarleby med Nybroforsen och Kyrkogatan. Trädgården Fåfängan blev senare Floraparken, och byggnaden används i dag som Florahemmet.",
+  "topics": [
+    "vykort",
+    "nybroforsen",
+    "kyrkogatan",
+    "floraparken",
+    "fåfängan",
+    "florahemmet",
+    "hungersnöden"
+  ],
+  "people": [
+    {
+      "name": "Victor Malmberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son till apotekaren Nils Malmberg. En kopia av hans staty placerades i parken."
+    },
+    {
+      "name": "Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Drev många från gård och grund under hungersnöden 1867–68. Testamenterade medel till stadens fattiga på dödsbädden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Forsen som syns på kortet.",
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan som syns på kortet.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Floraparken"
+      ],
+      "description": "Apotekets trädgård. Öppnades för allmänheten och kallades senare Floraparken."
+    },
+    {
+      "name": "Florahemmet",
+      "kind": "building",
+      "alternateNames": [
+        "De gamlas hem"
+      ],
+      "description": "Byggnaden används i dag som åldringshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hungersnöd driver många från gård och grund",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "hungersnöden 1867–68"
+      },
+      "description": "Handelsman Lybeck driver många från gård och grund under hungersnöden.",
+      "people": [
+        "Lybeck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Under hungersnöden 1867–68 driver handelsmannen Lybeck många från gård och grund. På dödsbädden drabbas han av dåligt samvete och testamenterar pengar till stadens fattiga.",
+    "reason": "Ett tydligt moraliskt drama med ett vändläge, men sidan ger bara några rader av berättelsen.",
+    "characters": [
+      "Lybeck"
+    ],
+    "places": []
+  },
+  "contentHash": "fe62b98ad2f61deaec49e72211380fda4a7ef421aafd58842a7115826ccdd96b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

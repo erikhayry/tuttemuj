@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_02F.html",
+  "title": "2225-2 Torget från sydväst",
+  "summary": "Flygbild över torget i Nykarleby sett från sydväst, med skolan, bankhuset, rundkiosken och busstationen. Många av husen runt torget och esplanaden är sedan dess rivna.",
+  "topics": [
+    "flygbilder",
+    "torget",
+    "esplanaden",
+    "rivning",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stadens torg, som är motiv för flygbilden."
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "normen"
+      ],
+      "description": "Syns i bilden kring torget.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rundkiosken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns i bilden kring torget."
+    },
+    {
+      "name": "Busstationen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Syns i bilden kring torget."
+    },
+    {
+      "name": "Östra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan syns från norr i bilden."
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan syns från norr i bilden, med Samskolan."
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns vid Västra Esplanadgatan i bilden."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b80d1b66e3b2fefacb44ac246e3226b2c2835699b093b71982c31bcef596daec",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:51:38.507Z"
+}

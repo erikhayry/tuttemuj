@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_12F.html",
+  "title": "2225-12 Kyrkan och Kyrkogatan",
+  "summary": "Flygbild över Kyrkogatan med rådhuset, kyrkan och gårdarna längs gatan. Flera av byggnaderna har rivits, brunnit eller dränkts vid dammbygget under årens lopp.",
+  "topics": [
+    "flygbilder",
+    "kyrkogatan",
+    "rådhuset",
+    "kyrkan",
+    "rivning",
+    "brand",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan som flygbilden visar, med gårdar på båda sidor.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Döbelns gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård i nederkant av bilden."
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Rådhus med kringbyggd gårdsplan."
+    },
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Kyrkan ovanför rådhuset i bilden.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns i bilden vid kyrkan."
+    },
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns i bilden. Flyttades 1990."
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "normen"
+      ],
+      "description": "Syns i bilden ovanför rådhuset.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård på Kyrkogatans östra sida. Brann 4 december 1995."
+    },
+    {
+      "name": "Henriksnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård på Kyrkogatans östra sida."
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård på Kyrkogatans östra sida."
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Källare vid älvstranden som dränktes vid dammbygget 1984."
+    },
+    {
+      "name": "Holmströms magasin",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs i samband med dammbygget 1984."
+    },
+    {
+      "name": "Holmströms uthus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Uthus bakom klockstapeln som brann i december 1987."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gråstenskällaren dränks och Holmströms magasin rivs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984, i samband med dammbygget"
+      },
+      "description": "Gråstenskällaren vid älvstranden dränks och Holmströms magasin revs i samband med dammbygget.",
+      "people": [],
+      "places": [
+        "Gråstenskällaren",
+        "Holmströms magasin"
+      ]
+    },
+    {
+      "title": "Holmströms uthus brinner",
+      "date": {
+        "year": 1987,
+        "month": 12,
+        "day": 7,
+        "circa": false,
+        "text": "natten mellan den 7 och 8 december 1987"
+      },
+      "description": "Holmströms uthus bakom klockstapeln brinner.",
+      "people": [],
+      "places": [
+        "Holmströms uthus",
+        "Klockstapeln"
+      ]
+    },
+    {
+      "title": "Stadsbrunnen flyttas",
+      "date": {
+        "year": 1990,
+        "circa": false,
+        "text": "1990"
+      },
+      "description": "Stadsbrunnen flyttas till sin nuvarande plats.",
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    },
+    {
+      "title": "Apoteket brinner",
+      "date": {
+        "year": 1995,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "text": "natten till den 4 december 1995"
+      },
+      "description": "Apoteket brinner.",
+      "people": [],
+      "places": [
+        "Apoteket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6362cd850bf8f68ff465793e371cd352687e5064d8ed7ba016e497b34898556c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}
