@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_C/NNCX098S.HTM",
+  "title": "Första årskursen 1920–1921",
+  "summary": "Kristliga folkhögskolans första årskurs 1920–1921. Skolans motto står skrivet bakom eleverna, och fotot finns också i en bok om grundaren Johannes Nyström.",
+  "topics": [
+    "folkhögskolan",
+    "årskurs",
+    "motto"
+  ],
+  "people": [
+    {
+      "name": "Johannes Nyström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Folkhögskolans grundare."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första årskursen",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920–1921"
+      },
+      "description": "Kristliga folkhögskolans första årskurs.",
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6aad86b4a14f8b846620705519675c8c3e88a82b57379cc98fd395c0bfb17458",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

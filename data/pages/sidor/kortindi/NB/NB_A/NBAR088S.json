@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAR088S.HTM",
+  "title": "Smedsbacka",
+  "summary": "Huset på Smedsbacka stod där folkhögskolan ligger i dag. Bastun vid stranden syns på bilden, fotad från Nybrobacken mot nordväst.",
+  "topics": [
+    "smedsbacka",
+    "folkhögskolan",
+    "bastun"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Smedsbacka",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybrobacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2416882c14fcde53d247a7fd96c8ef401ccaf283a0d048f161928c86f397fbab",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NY/NY_A/NYAJ015S.HTM",
+  "title": "Monumentet vid Juthas, 1928",
+  "summary": "Monumentet vid Juthas på ett kort från 1928. Sidan kallar det det vackraste av monumentkorten.",
+  "topics": [
+    "monumentet vid juthas",
+    "serie 1920",
+    "1928"
+  ],
+  "people": [
+    {
+      "name": "K. Nyberg",
+      "alternateNames": [],
+      "roles": [
+        "förlag"
+      ],
+      "description": "Gav ut kortet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Monumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kort utgivet",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "1928"
+      },
+      "description": "Kortet utges av K. Nyberg.",
+      "people": [
+        "K. Nyberg"
+      ],
+      "places": [
+        "Monumentet vid Juthas"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1bf18eb3ab8222d063309fb3e195b6b00bdf46878a067a1870e57d2061c950f4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

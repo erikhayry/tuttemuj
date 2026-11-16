@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAV047S.HTM",
+  "title": "Nystaden och Apotekskällaren",
+  "summary": "Nystaden syns knappt bakom växtligheten på älvstranden. Sidan berättar om en isracingtävling på älven i början av 1970-talet där en man föll ur en björk.",
+  "topics": [
+    "nystaden",
+    "apotekskällaren",
+    "isracing",
+    "olycka"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Apotekskällaren",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs 1946."
+    },
+    {
+      "name": "Apoteksbacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariets verkstadsbyggnad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Isracingtävling på älven",
+      "date": {
+        "year": 1972,
+        "circa": true,
+        "text": "början av 1970-talet"
+      },
+      "description": "En isracingtävling mellan kraftverket och Storbron. En man som fixade högtalarna föll ur en björk och fördes till sjukhus.",
+      "people": [],
+      "places": [
+        "Storbron",
+        "Kraftverket"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Motorcyklarna far runt på isen mellan kraftverket och Storbron, och publiken tror att det är en show. Sedan faller en man som fixar högtalarna ur en björk och förs bort med ambulans.",
+    "reason": "En vivid scen med fart, publik och en plötslig olycka, och en tråd om vem som egentligen var där.",
+    "characters": [
+      "högtalarmannen",
+      "motorcyklisterna"
+    ],
+    "places": []
+  },
+  "contentHash": "4bc0ce4ecbbd1b8a31aee71e8f5490f617527aafec0a7cc273964131927f06fc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

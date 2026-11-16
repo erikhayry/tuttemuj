@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/NNBVO34X.HTM",
+  "title": "Hugos lindo",
+  "summary": "Ladan Hugos lindo öster om Källbacken räddades från förfall. Sidan visar hur den såg ut när den hade halmtak i början av 1970-talet och hur den rekonstruerats.",
+  "topics": [
+    "hugos lindo",
+    "lada",
+    "källbacken",
+    "bevarande"
+  ],
+  "people": [
+    {
+      "name": "Åke Björklund",
+      "alternateNames": [],
+      "roles": [
+        "arrendator"
+      ],
+      "description": "Stoppade förfallet."
+    },
+    {
+      "name": "Linnéa Ekstrand",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Målade en akvarell av ladan 1995."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hugos lindo",
+      "kind": "building",
+      "alternateNames": [
+        "Backåkern"
+      ]
+    },
+    {
+      "name": "Källbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Akvarell av ladan",
+      "date": {
+        "year": 1995,
+        "circa": false,
+        "text": "1995"
+      },
+      "description": "Linnéa Ekstrand målar en akvarell av ladan, och samma år görs en rekonstruktion av hur den kunde ha sett ut.",
+      "people": [
+        "Linnéa Ekstrand"
+      ],
+      "places": [
+        "Hugos lindo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9244e8ec10d6a052a7fc2b5c5dcea3b9752fa6d179b061fe6cbf1c3856b4b03e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

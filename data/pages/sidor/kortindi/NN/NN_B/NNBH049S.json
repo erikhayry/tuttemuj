@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/NNBH049S.HTM",
+  "title": "Sångfestscenen i Topeliusparken",
+  "summary": "Musikpaviljongen i Topeliusparken byggdes för den stora sång- och musikfesten sommaren 1914. Arkitekten Torkel Nordman ritade den.",
+  "topics": [
+    "topeliusparken",
+    "sångfest",
+    "1914"
+  ],
+  "people": [
+    {
+      "name": "Torkel Nordman",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ],
+      "description": "Ritade musikpaviljongen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Musikpaviljongen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggd till sångfesten 1914."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stor sång- och musikfest",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "sommaren 1914"
+      },
+      "description": "En stor sång- och musikfest arrangeras i Topeliusparken.",
+      "people": [
+        "Torkel Nordman"
+      ],
+      "places": [
+        "Topeliusparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cf39fce68fa144624dd17b92d0c95e2238c5cbb6ea7abb6c7325dff9b5ddbedd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

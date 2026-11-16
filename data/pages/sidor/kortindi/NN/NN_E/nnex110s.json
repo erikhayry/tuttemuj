@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_E/nnex110s.htm",
+  "title": "Revolutionen 1917, 2",
+  "summary": "Samma motiv som Revolutionen 1917–1, men kameran är vriden något åt höger. Häradsskrivare S. R. Jernström talar till soldaterna framför Föreningsbanken den 19 mars 1918.",
+  "topics": [
+    "revolutionen 1917",
+    "föreningsbanken"
+  ],
+  "people": [
+    {
+      "name": "S. R. Jernström",
+      "alternateNames": [],
+      "roles": [
+        "häradsskrivare"
+      ],
+      "description": "Talade till soldaterna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Jernström talar till soldaterna",
+      "date": {
+        "year": 1918,
+        "month": 3,
+        "day": 19,
+        "circa": false,
+        "text": "19 mars 1918"
+      },
+      "description": "Häradsskrivare S. R. Jernström talar till soldaterna framför Föreningsbanken.",
+      "people": [
+        "S. R. Jernström"
+      ],
+      "places": [
+        "Föreningsbanken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "17407c7adbc1b059ea11eeb92b99e3a1f19c32eb7390b17645efd74a38c4ed1f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

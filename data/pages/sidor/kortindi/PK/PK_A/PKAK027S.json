@@ -1,0 +1,30 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKAK027S.HTM",
+  "title": "Kyrkan",
+  "summary": "Kyrkan inlindad i grönska, fotad från västsydväst.",
+  "topics": [
+    "kyrkan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "21b95bae48f5d2c4c21ee3a2c630efd0ad7c06f5d1761e31f3720531480cc1b7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

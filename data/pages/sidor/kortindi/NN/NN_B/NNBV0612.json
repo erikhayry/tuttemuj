@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/NNBV0612.HTM",
+  "title": "Sollefteågatan, 2002",
+  "summary": "Husen till vänster på Sollefteågatan 2002, med gamla affärer som urmakeri, cykelaffär och bilverkstad. Tomten efter ett av husen har stått tom länge.",
+  "topics": [
+    "sollefteågatan",
+    "affärer",
+    "2002"
+  ],
+  "people": [
+    {
+      "name": "Lennart Blomström",
+      "alternateNames": [],
+      "roles": [
+        "urmakare"
+      ],
+      "description": "Hade urmakeri och guldsmedsaffär."
+    },
+    {
+      "name": "Bernhard Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "cykelhandlare"
+      ],
+      "description": "Sålde cyklar."
+    },
+    {
+      "name": "Raymond Fors",
+      "alternateNames": [
+        "Putte Fors"
+      ],
+      "roles": [],
+      "description": "Hade biltillbehörsaffär på femtiotalet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Granbergs café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bensinstationen TB",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "93376b051cf2d3e3c91fd9c67a1e0b77867448336b974f07789cf6591653af64",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

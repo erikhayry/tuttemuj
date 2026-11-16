@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/QSL/QSL_A/OH6GB.HTM",
+  "title": "Maria Thors OH6GB, QSL-kort",
+  "summary": "QSL-kort från 1975 för Maria \"Mia\" Thors, dotter till Ragnvald Thors som tog över Josef Herlers bokhandel.",
+  "topics": [
+    "qsl",
+    "radioamatörer",
+    "bokhandel"
+  ],
+  "people": [
+    {
+      "name": "Maria Thors",
+      "alternateNames": [
+        "Mia Thors"
+      ],
+      "roles": [],
+      "description": "Radioamatör med anropet OH6GB, dotter till Ragnvald Thors."
+    },
+    {
+      "name": "Ragnvald Thors",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Tog över Josef Herlers bokhandel."
+    }
+  ],
+  "places": [
+    {
+      "name": "Josef Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "QSL-kort daterat",
+      "date": {
+        "year": 1975,
+        "month": 7,
+        "day": 3,
+        "circa": false,
+        "text": "3 juli 1975"
+      },
+      "description": "QSL-kortet daterat av radioamatören Maria Thors.",
+      "people": [
+        "Maria Thors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7c4a3af329d7643f5dbf4b7925adbe594e22d561c4026eb288b6f004418485eb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

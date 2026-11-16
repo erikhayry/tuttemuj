@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKAE006S.HTM",
+  "title": "Esplanaden",
+  "summary": "Esplanaden där båda husen fått nya entréer. Viks Hotell syns till höger, och korsningen Esplanaden–Bankgatan syns norrut.",
+  "topics": [
+    "esplanaden",
+    "viks hotell",
+    "bankgatan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Viks Hotell",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "aa6f74fd45ea0f8c7abe0561a76efd1cdbe67d0ca642b4c12f6bec57b6095ee7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

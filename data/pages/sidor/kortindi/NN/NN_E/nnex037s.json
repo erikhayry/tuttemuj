@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_E/nnex037s.htm",
+  "title": "Revolutionen 1917, 1",
+  "summary": "Häradsskrivare S. R. Jernström talar till soldaterna framför Föreningsbanken den 19 mars 1918. Kortet är från revolutionsåren.",
+  "topics": [
+    "revolutionen 1917",
+    "föreningsbanken",
+    "politik"
+  ],
+  "people": [
+    {
+      "name": "S. R. Jernström",
+      "alternateNames": [],
+      "roles": [
+        "häradsskrivare"
+      ],
+      "description": "Talade till soldaterna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Jernström talar till soldaterna",
+      "date": {
+        "year": 1918,
+        "month": 3,
+        "day": 19,
+        "circa": false,
+        "text": "19 mars 1918"
+      },
+      "description": "Häradsskrivare S. R. Jernström talar till soldaterna framför Föreningsbanken.",
+      "people": [
+        "S. R. Jernström"
+      ],
+      "places": [
+        "Föreningsbanken"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Häradsskrivaren står framför banken och talar till soldaterna mitt i revolutionsoroligheterna. Vad han säger vet vi inte, men soldaterna lyssnar.",
+    "reason": "Ett politiskt ögonblick på torget med en gåta i mitten, som ger utrymme för fantasin.",
+    "characters": [
+      "S. R. Jernström",
+      "soldaterna"
+    ],
+    "places": []
+  },
+  "contentHash": "81556424424620cec3a8430451d4687617706e3ed5267f066de61b193a0fc911",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

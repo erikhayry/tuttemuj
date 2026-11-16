@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKA----S.HTM",
+  "title": "Torget och Köpmansgatan",
+  "summary": "Husen söder om torget och kyrkan, med stadsbrunnen framför klockstapeln. Fotat mot västsydväst.",
+  "topics": [
+    "torget",
+    "köpmansgatan",
+    "stadsbrunnen"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6c85a4b9e42a680f93e82327d3edb3eaafc10fcb36ac93d8e151bb6c8bd5460b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

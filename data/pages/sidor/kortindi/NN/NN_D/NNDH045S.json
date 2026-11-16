@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_D/NNDH045S.HTM",
+  "title": "Kristliga folkhögskolans huvudbyggnad",
+  "summary": "Huvudbyggnaden med ett runt fönster i form av kors och en brunnspump vid entrén. Kortet är taget strax efter färdigställandet, innan fasadpanelen kom på.",
+  "topics": [
+    "folkhögskolan",
+    "huvudbyggnad",
+    "arkitektur"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c0d5e3939b5c234f63f57cdb88d14ab9910ceb6e40e5308014e4de771723da00",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

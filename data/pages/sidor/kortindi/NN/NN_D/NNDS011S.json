@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_D/NNDS011S.HTM",
+  "title": "Direktorsbostaden",
+  "summary": "Seminariets direktorsbostad, färdigställd 1882. Det är det enda kortet i samlingen som visar den, och nedre våningen var internat för eleverna.",
+  "topics": [
+    "seminariet",
+    "direktorsbostad",
+    "internat"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Direktorsbostaden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Färdigställd 1882."
+    }
+  ],
+  "events": [
+    {
+      "title": "Direktorsbostaden färdigställs",
+      "date": {
+        "year": 1882,
+        "circa": false,
+        "text": "1882"
+      },
+      "description": "Seminariets direktorsbostad blir färdig.",
+      "people": [],
+      "places": [
+        "Direktorsbostaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e85c0782eb1d16231574e7da9762541b583346d249fca50737c2f5bdc7bd7cbd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

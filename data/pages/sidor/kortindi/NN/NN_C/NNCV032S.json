@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_C/NNCV032S.HTM",
+  "title": "Seminariet och Kristliga folkhögskolan i serie 1920",
+  "summary": "Samma original används i serierna 1920-1 och 3. Gärdsgården, som sett sina bästa dagar, syns i bilden, som är fotad från nordost.",
+  "topics": [
+    "seminariet",
+    "folkhögskolan",
+    "serie 1920"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d384dfe93151e3f48c2e575d4a813ee31a46799dfd154a1c1ad6ecd8be00b7dc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

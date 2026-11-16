@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAR088T.HTM",
+  "title": "Smedsbacka och en ingenjör",
+  "summary": "Ett brev från Smedsbacka till en ingenjörskas i Solvik. Sidan kopplar avsändaren till monumentet vid Juthas, som enligt en släktsida uppfördes av en baningenjör.",
+  "topics": [
+    "brevkort",
+    "juthas",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Eugen Theodor Boehm",
+      "alternateNames": [],
+      "roles": [
+        "baningenjör"
+      ],
+      "description": "Uppförde enligt uppgift monumentet vid Juthas."
+    }
+  ],
+  "places": [
+    {
+      "name": "Monumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8a2dc4a16c64a37503848e84eb91690aa4c3a456038bcb81b6209bd84b3df69b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

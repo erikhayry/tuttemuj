@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/Nnbvo34s.htm",
+  "title": "Källbacken",
+  "summary": "Källbacken fotad från korsningen Gustav Adolfsgatan–Källbackgatan mot öster. Huset som Arne Blomqvist byggde syns, och en uthusgavel hör till Hugo Liljeströms hemgård.",
+  "topics": [
+    "källbacken",
+    "gårdar",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Arne Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde huset som står där i dag."
+    },
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hemgårdens uthusgavel syns på bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "eea41489f49dc695237c8f231a71d372f78a88f41d54bc0119d1935a73137fde",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/QSL/QSL_A/oh6oa.htm",
+  "title": "Alarik Wiik OH6OA, QSL-kort",
+  "summary": "QSL-kort för Alarik Wiik, bonde i Soklot som byggde sin egen radioutrustning och var bland de första att bygga en SSB-sändare.",
+  "topics": [
+    "qsl",
+    "radioamatörer",
+    "soklot",
+    "ssb"
+  ],
+  "people": [
+    {
+      "name": "Alarik Wiik",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Byggde sin egen radioutrustning. Blev silent key 1990."
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "DX-klubb bildas",
+      "date": {
+        "year": 1961,
+        "circa": true,
+        "text": "ca 1961"
+      },
+      "description": "Eleverna vid Nykarleby samskola bildar en DX-klubb, med det konstituerande mötet hemma hos Alarik Wiik.",
+      "people": [
+        "Alarik Wiik"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2f5e3f4b451e41ee95f527c1fdd71d4f4823b168440c03795358655604c4aa55",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

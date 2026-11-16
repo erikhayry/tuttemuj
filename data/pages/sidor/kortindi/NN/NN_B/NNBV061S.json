@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/NNBV061S.HTM",
+  "title": "Köpmansgatan omkring 1910",
+  "summary": "Köpmansgatan ca 1910, som fick sitt namn 1912. Huset närmast till vänster revs och byggdes om, och Häggbloms resandehem finns i den nya byggnaden.",
+  "topics": [
+    "köpmansgatan",
+    "resandehem",
+    "namnbyte"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Häggbloms resandehem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Anderssons gästgiveri",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gatan får namnet Köpmansgatan",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "1912"
+      },
+      "description": "Gatan får namnet Köpmansgatan.",
+      "people": [],
+      "places": [
+        "Köpmansgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "33768f79244eada7838beaccfc41d16a059083ef586e5434a338c20e9ee1fe69",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

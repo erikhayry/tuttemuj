@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/NNB.HTM",
+  "title": "Premiär för Grundön och Källbacken",
+  "summary": "En serie från 1910 där Grundön och Källbacken visas för första gången. Serien saknar förlag, men det rödmarkerade kortet hör till samlingen.",
+  "topics": [
+    "1910",
+    "grundön",
+    "källbacken"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Grundön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f8657a29a283791ee4a2838e227e98f88acf753a861fac97caa095154658a5e8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/QSL/QSL_A/OH6NVT.HTM",
+  "title": "Folke Tallkvist OH6NVT, QSL-kort",
+  "summary": "QSL-kort från 1989 för Folke Tallkvist från Jakobstad, som hade sommarvilla på Långören.",
+  "topics": [
+    "qsl",
+    "radioamatörer",
+    "långören"
+  ],
+  "people": [
+    {
+      "name": "Folke Tallkvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Radioamatör med anropet OH6NVT."
+    }
+  ],
+  "places": [
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "QSL-kort daterat",
+      "date": {
+        "year": 1989,
+        "month": 7,
+        "day": 29,
+        "circa": false,
+        "text": "29 juli 1989"
+      },
+      "description": "QSL-kortet för OH6NVT är daterat.",
+      "people": [
+        "Folke Tallkvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "844c6da9961193432a198c1ada7af39c82e287e4179168327eb69369b020c64f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

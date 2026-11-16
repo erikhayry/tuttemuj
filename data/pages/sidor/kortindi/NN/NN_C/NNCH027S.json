@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_C/NNCH027S.HTM",
+  "title": "Skolbyggnaden",
+  "summary": "Skolbyggnaden fotad mot nordväst. Sidan minns en konsert med Arthur Eriksson i huset i början av 1970-talet.",
+  "topics": [
+    "skolbyggnaden",
+    "konsert",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Arthur Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav konsert i skolbyggnaden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skolbyggnaden",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Arthur Eriksson-konsert",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "början av 1970-talet"
+      },
+      "description": "En konsert hålls i skolbyggnaden.",
+      "people": [
+        "Arthur Eriksson"
+      ],
+      "places": [
+        "Skolbyggnaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6dc7275c19228dd85dd0e0c1eaa5ae984f2e6be1a3d8788a7d026306c2e21b38",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

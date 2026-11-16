@@ -1,0 +1,134 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/Pkav015x.htm",
+  "title": "Våghuset",
+  "summary": "Våghuset på torget, uppfört 1894 av kronolänsman E. O. Söderström och flyttat 1953 när det såldes till Valter Renvall. Sidan samlar berättelser, dokument och bilder kring det.",
+  "topics": [
+    "våghuset",
+    "torget",
+    "historia",
+    "flyttning"
+  ],
+  "people": [
+    {
+      "name": "E. O. Söderström",
+      "alternateNames": [],
+      "roles": [
+        "kronolänsman"
+      ],
+      "description": "Uppförde våghuset 1894."
+    },
+    {
+      "name": "Valter Renvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte våghuset 1953."
+    },
+    {
+      "name": "Alf Häger",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skadades när en dragvajer slog en snara vid hjulet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Våghuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggt 1894 på torget."
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan 34",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 34",
+      "geo": {
+        "lat": 63.5227547,
+        "lng": 22.5419863,
+        "match": "address",
+        "gazetteerName": "borgaregatan 34",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Våghuset uppförs",
+      "date": {
+        "year": 1894,
+        "circa": false,
+        "text": "mellan april och september 1894"
+      },
+      "description": "Kronolänsman E. O. Söderström uppför våghuset på torget för 2 000 mark.",
+      "people": [
+        "E. O. Söderström"
+      ],
+      "places": [
+        "Våghuset"
+      ]
+    },
+    {
+      "title": "Våghuset säljs",
+      "date": {
+        "year": 1953,
+        "month": 10,
+        "day": 13,
+        "circa": false,
+        "text": "13 oktober 1953"
+      },
+      "description": "Valter Renvall köper våghuset för 25 500 mark.",
+      "people": [
+        "Valter Renvall"
+      ],
+      "places": [
+        "Våghuset"
+      ]
+    },
+    {
+      "title": "Våghuset flyttas från torget",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "1953"
+      },
+      "description": "Våghuset flyttas från torget till Valter Renvalls tomt.",
+      "people": [],
+      "places": [
+        "Våghuset"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Under flyttningen av våghuset 1953 slår en dragvajer en snara vid hjulet på en höghjulig traktor. Maskinen välter mot väggen och klämmer Alf Häger mot huset så att blod pressas ut ur näsa och mun. Han är ur spel i ett halvår.",
+    "reason": "En vivid olycksscen med ett vittne som minns förloppet väl, och ett landmärke som flyttas.",
+    "characters": [
+      "Alf Häger",
+      "vittnet"
+    ],
+    "places": []
+  },
+  "contentHash": "ff9541d2186bb83150b8dfe897c2942d21f7d0216723561f0df16b7105ab2168",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

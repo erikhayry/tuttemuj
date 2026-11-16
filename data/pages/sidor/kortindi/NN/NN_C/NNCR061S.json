@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_C/NNCR061S.HTM",
+  "title": "Seminariet och Kristliga folkhögskolan",
+  "summary": "Seminariets uthus vid älvbranten och det stora skolhuset till höger är rivna. Kortet är fotat från sydost.",
+  "topics": [
+    "seminariet",
+    "folkhögskolan",
+    "rivning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f7c1f2a94f3988029dd89883fa8773d4052706db376da1f7799c35dd8169983d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

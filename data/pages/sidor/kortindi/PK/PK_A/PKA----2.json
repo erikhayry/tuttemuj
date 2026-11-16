@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKA----2.HTM",
+  "title": "Torget och Sollefteågatan i början av 1970-talet",
+  "summary": "Torget och Sollefteågatan i början av 1970-talet med livsmedelsaffären R. Haglund, Häggbloms uraffär och Björks klädaffär, som fortfarande finns kvar.",
+  "topics": [
+    "torget",
+    "sollefteågatan",
+    "affärer",
+    "1970-talet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lövhyddan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "93137e58f1b3324712c0728ec48799b0b029fd25fa7053c8462f8e95ca7d8bd9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

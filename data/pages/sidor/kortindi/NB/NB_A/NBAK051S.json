@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAK051S.HTML",
+  "title": "Storbron och kyrkan med järnvägen",
+  "summary": "Ett kort från 1907 som visar järnvägsspåret vid Storbron och kyrkan. Sidan har också avgångstiderna till hamnen från sommaren samma år.",
+  "topics": [
+    "storbron",
+    "järnvägen",
+    "kyrkan",
+    "1907"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tre avgångar per dag till hamnen",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "sommaren 1907"
+      },
+      "description": "Tåget går tre gånger om dagen till hamnen, en resa på 15 minuter.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d87947c1bfc2e8f0b9cbeef05dd727129966706ca4ecb7c17eaeb4fb600f13ae",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

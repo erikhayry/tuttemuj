@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/QSL/QSL_A/oh6ob.htm",
+  "title": "Bror Eng OH6OB, QSL-kort",
+  "summary": "Bror Eng fick radioamatörlicens 1947 och kör fortfarande telegrafi, trots sina 86 år. Sidan berättar om hans första radio och om kontakten till Grönland.",
+  "topics": [
+    "qsl",
+    "radioamatörer",
+    "telegrafi",
+    "antenner"
+  ],
+  "people": [
+    {
+      "name": "Bror Eng",
+      "alternateNames": [],
+      "birthYear": 1918,
+      "deathYear": 2017,
+      "roles": [
+        "radiotelegrafist"
+      ],
+      "description": "Radioamatör med anropet OH6OB."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Radioamatörlicens",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "1947"
+      },
+      "description": "Bror Eng får radioamatörlicens.",
+      "people": [
+        "Bror Eng"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "67f30207f62ea912b5a7decb935c6d109eed26f83582a6a5818747c825105d25",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

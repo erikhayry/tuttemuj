@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/pka----d.htm",
+  "title": "Husen söder om torget",
+  "summary": "Husen söder om torget på 1920-talet, med Varmas café som stängde 1949 och en gård som revs för en Esso-station 1959.",
+  "topics": [
+    "torget",
+    "caféhistoria",
+    "varmas café"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Varmas café",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Varmas café stänger",
+      "date": {
+        "year": 1949,
+        "month": 12,
+        "day": 31,
+        "circa": false,
+        "text": "31 december 1949"
+      },
+      "description": "Varmas café stänger.",
+      "people": [],
+      "places": [
+        "Varmas café"
+      ]
+    },
+    {
+      "title": "Gården rivs för Esso",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "våren 1959"
+      },
+      "description": "Gården revs av Bröderna Fagerholm för att ge plats för en Esso-station.",
+      "people": [],
+      "places": [
+        "Sollefteågatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5b79d12dfbef56aadb45717a4d9653374d58fd872742bb817ec450fe4c0c4af6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

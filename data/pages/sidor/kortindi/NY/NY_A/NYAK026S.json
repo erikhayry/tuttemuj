@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NY/NY_A/NYAK026S.HTM",
+  "title": "Storbron och kyrkan i ovädersmoln",
+  "summary": "En dramatisk bild av Storbron och kyrkan under ovädersmoln, utgiven av K. Nyberg 1931.",
+  "topics": [
+    "storbron",
+    "kyrkan",
+    "serie 1920"
+  ],
+  "people": [
+    {
+      "name": "K. Nyberg",
+      "alternateNames": [],
+      "roles": [
+        "förlag"
+      ],
+      "description": "Gav ut kortet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kort utgivet",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "1931"
+      },
+      "description": "Kortet utges av K. Nyberg.",
+      "people": [
+        "K. Nyberg"
+      ],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7cd1479b32c4b125e113d09ad5fda68be6d902ffd89b0e73421d5e4cc9652fe7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

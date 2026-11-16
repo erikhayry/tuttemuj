@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBA.HTM",
+  "title": "Storbron och kyrkan i serien 1905",
+  "summary": "Sidan förklarar att två serier från Nykarleby bokhandel från 1905 har blandats ihop i samlingen. Lappo-minnesmärket hamnade också fel.",
+  "topics": [
+    "nykarleby bokhandel",
+    "serie 1905",
+    "storbron"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Monumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "67c6921cb09c5c430df3d14b6c3c7edb880c22b194415702ffa40ee8af9cab1c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

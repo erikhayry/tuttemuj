@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_C/nnch065s.htm",
+  "title": "Kosthållet och elevhemmet vid Kristliga folkhögskolan",
+  "summary": "Kosthållet och elevhemmet vid Kristliga folkhögskolan. Rektorsbostaden fanns på kosthållets vindsvåning och Smedsbacka daghem verkade i elevhemmet.",
+  "topics": [
+    "folkhögskolan",
+    "elevhem",
+    "kosthåll"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Folkhögskolans kosthåll",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "50684d1971b2909f3260b7019e59a544b7ca4f8ba34c50552a1b939d6d4bbef4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

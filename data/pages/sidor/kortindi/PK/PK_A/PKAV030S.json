@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKAV030S.HTM",
+  "title": "Köpmansgatan och Gustav Adolfsgatan",
+  "summary": "Korsningen Köpmansgatan (Sollefteågatan sedan 1948) och Gustav Adolfsgatan, med före detta Brandkårshuset Asgård och Poliskammaren.",
+  "topics": [
+    "köpmansgatan",
+    "poliskammaren",
+    "asgård"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Asgård",
+      "kind": "building",
+      "alternateNames": [
+        "Brandkårshuset"
+      ]
+    },
+    {
+      "name": "Poliskammaren",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gatan byter namn",
+      "date": {
+        "year": 1948,
+        "circa": false,
+        "text": "1948"
+      },
+      "description": "Köpmansgatan byter namn till Sollefteågatan.",
+      "people": [],
+      "places": [
+        "Köpmansgatan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Berättaren har skjutsat en kompis på sin moped i slutet av sjuttiotalet och hamnar sedan på de anklagades bänk i poliskammaren. Historien slutar lyckligt, med undvikna böter.",
+    "reason": "En ironisk och lätt episod från en ung mans liv, med ett lyckligt slut.",
+    "characters": [
+      "berättaren",
+      "kompisen"
+    ],
+    "places": []
+  },
+  "contentHash": "f2c843eebf61cb28a55a08ce268d327019d74f429489e60789135ebbd0cb4425",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

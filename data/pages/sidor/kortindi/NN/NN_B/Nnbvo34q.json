@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/Nnbvo34q.htm",
+  "title": "En försvunnen lada vid Bådasvängen",
+  "summary": "Ladan vid Bådasvängen hade ingången på gaveln, ett ovanligt drag. Taket hade rasat när den fotades den 14 december 1981.",
+  "topics": [
+    "lada",
+    "bådasvängen",
+    "förfall"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Bådasvängen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5408541,
+        "lng": 22.5064349,
+        "match": "name",
+        "gazetteerName": "bådasvängen",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högbackavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5319811,
+        "lng": 22.5272084,
+        "match": "name",
+        "gazetteerName": "högbackavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skatan",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ladans tak rasar",
+      "date": {
+        "year": 1981,
+        "month": 12,
+        "day": 14,
+        "circa": false,
+        "text": "14 december 1981"
+      },
+      "description": "Taket har rasat när ladan fotas.",
+      "people": [],
+      "places": [
+        "Bådasvängen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b60442df5287bb1d5e75a7254710879b97a14cd5ffc13e65e52918c199636957",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

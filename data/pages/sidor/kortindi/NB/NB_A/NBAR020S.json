@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAR020S.HTM",
+  "title": "Vårflod",
+  "summary": "En seminarist trotsar den svallande älven med Storbron, kyrkan och bryggeribyggnaderna i bakgrunden. Kortet är skickat från Nykarleby i juli 1907.",
+  "topics": [
+    "vårflod",
+    "älven",
+    "seminariet",
+    "1907"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bryggeriet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kortet skickas",
+      "date": {
+        "year": 1907,
+        "month": 7,
+        "day": 8,
+        "circa": false,
+        "text": "8 juli 1907"
+      },
+      "description": "Kortet skickas från Nykarleby.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eeb91ca25e578844e8163ab0ec50e36291f5a7d9bb0badb5e1843ad9f02891ce",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}

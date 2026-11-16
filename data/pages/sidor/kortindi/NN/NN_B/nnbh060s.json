@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/NN/NN_B/nnbh060s.htm",
+  "title": "Samlingshuset i Kovjoki",
+  "summary": "Samlingshuset i Kovjoki brann ner efter ett blixtnedslag 1957. Bara stenfoten återstår på Helgabacken.",
+  "topics": [
+    "kovjoki",
+    "samlingshus",
+    "brand",
+    "ungdomsförening"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Samlingshuset i Kovjoki",
+      "kind": "building",
+      "alternateNames": [
+        "Kovjoki samlingshus"
+      ]
+    },
+    {
+      "name": "Helgabacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki skola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Samlingshuset byggs klart",
+      "date": {
+        "year": 1909,
+        "circa": false,
+        "text": "1909"
+      },
+      "description": "Det nya samlingshuset för byn står färdigt.",
+      "people": [],
+      "places": [
+        "Samlingshuset i Kovjoki"
+      ]
+    },
+    {
+      "title": "Blixtnedslag brinner ner huset",
+      "date": {
+        "year": 1957,
+        "circa": true,
+        "text": "sensommaren 1957"
+      },
+      "description": "Ett blixtnedslag träffar huset och det brinner ner till en ruin.",
+      "people": [],
+      "places": [
+        "Samlingshuset i Kovjoki"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En sensommardag slår åskan ner i byns samlingshus på backen, och det blir en brandruin. Kvar står bara stenfoten.",
+    "reason": "Ett dramatiskt slut på en plats där hela byn samlades, med en stark symbolik i stenfoten.",
+    "characters": [
+      "byborna"
+    ],
+    "places": []
+  },
+  "contentHash": "22d5042aad92df707cbcd0e2f0559dc995c3051b4d10124fc36703798660bbdd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:10:02.982Z"
+}
