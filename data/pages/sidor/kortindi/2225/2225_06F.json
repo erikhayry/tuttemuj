@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_06F.html",
+  "title": "2225-6 Norra Nystan och seminarieområdet",
+  "summary": "Flygbild över Norra Nystan och seminarieområdet, med gårdarna längs Seminariegatan och seminariets byggnader. Kortet har också kommentarer från läsare som minns området som barn.",
+  "topics": [
+    "flygbilder",
+    "nystaden",
+    "seminariet",
+    "seminariegatan",
+    "minnen",
+    "2225"
+  ],
+  "people": [
+    {
+      "name": "Petter Jacob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ],
+      "description": "Ägde en gång gården som syns på kortet."
+    },
+    {
+      "name": "Edman",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ],
+      "description": "Byggde den nya gården vid Seminariegatan på 1970-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan går längs vänster sida av bilden.",
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Residensgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gården vid Residensgatan syns i bilden.",
+      "geo": {
+        "lat": 63.525761,
+        "lng": 22.5216271,
+        "match": "name",
+        "gazetteerName": "residensgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huvudbyggnad och uthus syns i bilden, med kosthållsbyggnaden längst bort."
+    },
+    {
+      "name": "Övergaards uthus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Uthus i Nystan som brann 1982."
+    }
+  ],
+  "events": [
+    {
+      "title": "Övergaards uthus brinner",
+      "date": {
+        "year": 1982,
+        "circa": false,
+        "text": "1982"
+      },
+      "description": "Uthuset i Nystan brinner.",
+      "people": [],
+      "places": [
+        "Övergaards uthus"
+      ]
+    },
+    {
+      "title": "Ny gård byggs vid Seminariegatan",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "1970-talet"
+      },
+      "description": "Lärare Edman bygger den nya gården vid Seminariegatan.",
+      "people": [
+        "Edman"
+      ],
+      "places": [
+        "Seminariegatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "238c5e166e83e033999b754fdb1dc94d70e138cdbbf1e06bc01318a0d7749a41",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:54:55.660Z"
+}

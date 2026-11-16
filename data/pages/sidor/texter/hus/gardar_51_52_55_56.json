@@ -1,0 +1,213 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/gardar_51_52_55_56.html",
+  "title": "Gårdarna nr 51, 52, 55 och 56",
+  "summary": "Historien om fyra gårdstomter vid hörnet av Karleborgsgatan och Borgaregatan, med ägarbyten från 1850-talet och framåt. Sidan bygger på mantalslängder och kompletteras med bilder från olika årtal.",
+  "topics": [
+    "gårdar",
+    "borgaregatan",
+    "karleborgsgatan",
+    "mantalslängder",
+    "fastigheter"
+  ],
+  "people": [
+    {
+      "name": "Sofia Berg",
+      "alternateNames": [],
+      "roles": [
+        "hökare"
+      ],
+      "description": "Köpte tomt 51 på auktion 1859."
+    },
+    {
+      "name": "Anders Nyman",
+      "alternateNames": [],
+      "birthYear": 1859,
+      "roles": [
+        "slaktare"
+      ],
+      "description": "Ägde gården på Borgaregatan 13 under 1890–1910."
+    },
+    {
+      "name": "Henrik Björklund",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Köpte gården på Borgaregatan 13 från Anders Nymans änka 1920."
+    },
+    {
+      "name": "Gustaf Öhman",
+      "alternateNames": [],
+      "birthYear": 1837,
+      "roles": [
+        "sjöman",
+        "styrman"
+      ],
+      "description": "Ägde gården på Borgaregatan 15 under 1870-talet."
+    },
+    {
+      "name": "Anders Liljeqvist",
+      "alternateNames": [],
+      "birthYear": 1876,
+      "roles": [
+        "snickare"
+      ],
+      "description": "Ägde gården på Borgaregatan 15 kring 1900 och sålde den 1914."
+    },
+    {
+      "name": "Johan Henrik Svedberg",
+      "alternateNames": [],
+      "roles": [
+        "åkare"
+      ],
+      "description": "Köpte tomt 56 på auktion 1858."
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan där gårdarna 13–18 ligger.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan där gårdarna 11–24 ligger, vid korsningen med Borgaregatan.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan 13",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Norra Borgaregatan 13",
+      "description": "Gård på tomt 51."
+    },
+    {
+      "name": "Borgaregatan 15",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Norra Borgaregatan 15",
+      "description": "Gård på tomt 52."
+    },
+    {
+      "name": "Borgaregatan 16",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Södra eller norra Borgaregatan 16 eller 18",
+      "description": "Gård på tomt 55."
+    },
+    {
+      "name": "Borgaregatan 14",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Södra eller norra Borgaregatan 14 eller Karleborgsgatan 24",
+      "description": "Gård på tomt 56."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomt 51 inropas på auktion",
+      "date": {
+        "year": 1859,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "13 september 1859"
+      },
+      "description": "Hökaränkan Sofia Berg köper tomten för 60:50 rubel.",
+      "people": [
+        "Sofia Berg"
+      ],
+      "places": [
+        "Borgaregatan"
+      ]
+    },
+    {
+      "title": "Tomt 56 inropas på auktion",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "28 juli 1858"
+      },
+      "description": "Åkaren Johan Henrik Svedberg köper tomten för 54 rubel.",
+      "people": [
+        "Johan Henrik Svedberg"
+      ],
+      "places": [
+        "Borgaregatan 14"
+      ]
+    },
+    {
+      "title": "Tomt 55 inropas på auktion",
+      "date": {
+        "year": 1860,
+        "month": 10,
+        "day": 25,
+        "circa": false,
+        "text": "25 oktober 1860"
+      },
+      "description": "Livsmedelshandlaren R. Ahlqvist köper tomten för 27,25 rubel.",
+      "people": [],
+      "places": [
+        "Borgaregatan 16"
+      ]
+    },
+    {
+      "title": "Gården på Borgaregatan 13 säljs till Henrik Björklund",
+      "date": {
+        "year": 1920,
+        "month": 5,
+        "circa": false,
+        "text": "maj 1920"
+      },
+      "description": "Förra bonden Henrik Björklund från Kovjoki köper gården av slaktaränkan Sofia Nyman.",
+      "people": [
+        "Henrik Björklund",
+        "Anders Nyman"
+      ],
+      "places": [
+        "Borgaregatan 13"
+      ]
+    },
+    {
+      "title": "Gården på Borgaregatan 15 säljs av Liljeqvist",
+      "date": {
+        "year": 1914,
+        "month": 3,
+        "circa": false,
+        "text": "mars 1914"
+      },
+      "description": "Snickaren Liljeqvist säljer gården till bakerskan Lovisa Sigfrids.",
+      "people": [
+        "Anders Liljeqvist"
+      ],
+      "places": [
+        "Borgaregatan 15"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6a8ba5c474c2414e2fe5b27060c281b78df9497fa8857627fcd57be136ff774a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:51:38.507Z"
+}

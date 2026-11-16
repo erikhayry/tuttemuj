@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AA/AA_B/AABG001S.HTM",
+  "title": "Kraftverket och dammen",
+  "summary": "Foto av kraftverket och dammen med stockrännan som användes för att föra timmer. Stockrännan revs delvis i början av 1970-talet, och dammen höjdes 1962.",
+  "topics": [
+    "kraftverket",
+    "dammen",
+    "stockränna",
+    "älven",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Albin Aaltonen",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Tog fotot."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kraftverksbyggnaden med stockrännan framför."
+    },
+    {
+      "name": "Tvättinrättningen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggdes bakom kraftverket efter 1950."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stockrännan revs delvis",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "i början av sjuttiotalet"
+      },
+      "description": "En del av stockrännan framför kraftverket revs.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Dammen höjs och gångbron byggs",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "description": "Dammen höjs och gångbron byggs.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Tvättinrättningen färdigställs",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "efter 1950"
+      },
+      "description": "Tvättinrättningen bakom kraftverket blir färdig.",
+      "people": [],
+      "places": [
+        "Tvättinrättningen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "95c5b9562697ba44138606f7f5569591def6d63938c44bd0338ea634722d37ce",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

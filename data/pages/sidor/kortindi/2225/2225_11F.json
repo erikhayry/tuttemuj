@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_11F.html",
+  "title": "2225-11 Från torget mot nordost",
+  "summary": "Flygbild över torget mot nordost, med gårdar längs Östra Esplanadgatan och Andelsbankens hus. Esplanaden har planterats om i flera etapper sedan bilden togs.",
+  "topics": [
+    "flygbilder",
+    "torget",
+    "esplanaden",
+    "rivning",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Motiv för flygbilden."
+    },
+    {
+      "name": "Sarlinska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård vid Borgaregatan i övre vänstra hörnet."
+    },
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård vid Lybecksgatan."
+    },
+    {
+      "name": "Östra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gårdar från norr till söder längs gatan syns i bilden."
+    },
+    {
+      "name": "Andelsbankens hus",
+      "kind": "building",
+      "alternateNames": [
+        "andelsbanken"
+      ],
+      "description": "Innergården syns i bilden."
+    },
+    {
+      "name": "Esso",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Servicestation där ett uthus revs 2008."
+    }
+  ],
+  "events": [
+    {
+      "title": "Uthuset vid Esso revs",
+      "date": {
+        "year": 2008,
+        "circa": false,
+        "text": "2008"
+      },
+      "description": "Uthuset framför Esso, den sista ursprungliga byggnaden i kvarteret, revs.",
+      "people": [],
+      "places": [
+        "Esso"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d77673cbc8fc6c6151a716186ae9d3bcee5783ab9f054403c34e59f9dec69a24",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:54:55.660Z"
+}

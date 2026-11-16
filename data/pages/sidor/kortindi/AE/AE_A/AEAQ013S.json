@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_A/AEAQ013S.HTM",
+  "title": "Kuddnäs",
+  "summary": "Ett av de första färgade korten av Kuddnäs, där Topelius föddes. Den lilla byggnaden till höger är lusthuset. Kortet är skickat från Helsingfors 1907.",
+  "topics": [
+    "kuddnäs",
+    "topelius",
+    "postkort",
+    "lusthuset"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Föddes på Kuddnäs."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [
+        "Kuddnäs hemman"
+      ],
+      "description": "Topelius födelseplats."
+    },
+    {
+      "name": "Lusthuset på Kuddnäs",
+      "kind": "building",
+      "alternateNames": [
+        "lusthuset på kuddnäs"
+      ],
+      "description": "Den lilla byggnaden till höger på kortet."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2cafa41aaf4086eb5b2df2f61db356eb818a29959204b70262443ec8a777b678",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

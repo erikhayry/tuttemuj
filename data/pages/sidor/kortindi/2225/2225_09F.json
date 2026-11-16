@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_09F.html",
+  "title": "2225-9 Från Storbron till Gustav Adolfsgatan",
+  "summary": "Flygbild över kvarteren mellan Storbron och Gustav Adolfsgatan, med gårdar, en lagerbyggnad under uppförande och stadsbrunnshuset. Kortet visar också hur bebyggelsen har förändrats sedan 1961.",
+  "topics": [
+    "flygbilder",
+    "storbron",
+    "gustav adolfsgatan",
+    "borgaregatan",
+    "stadsbrunnen",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron vars balkar och lock byttes ut 2019."
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan vid korsningen med Gustav Adolfsgatan, där Gleisners gård ligger.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan som flygbilden sträcker sig mot.",
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gleisners gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård vid korsningen Borgaregatan–Gustav Adolfsgatan."
+    },
+    {
+      "name": "Fougstedts gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård som till största delen döljs av träd."
+    },
+    {
+      "name": "Bogdanoffs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård bakom Manteres gård."
+    },
+    {
+      "name": "Artur Liljedahls lager",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Lagerbyggnad under uppförande i bildens övre högra hörn."
+    },
+    {
+      "name": "Stadsbrunnshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Flyttades 1990 till sin nuvarande plats."
+    },
+    {
+      "name": "CYK-RA",
+      "kind": "building",
+      "alternateNames": [
+        "cyk-ra"
+      ],
+      "description": "Sport S. Markkulas verksamhet, som brann i mars 1971."
+    }
+  ],
+  "events": [
+    {
+      "title": "CYK-RA brinner",
+      "date": {
+        "year": 1971,
+        "month": 3,
+        "circa": false,
+        "text": "mars 1971"
+      },
+      "description": "Sport S. Markkulas verksamhet, som oftast kallades CYK-RA, brinner.",
+      "people": [],
+      "places": [
+        "CYK-RA"
+      ]
+    },
+    {
+      "title": "Stadsbrunnshuset flyttas",
+      "date": {
+        "year": 1990,
+        "circa": false,
+        "text": "1990"
+      },
+      "description": "Stadsbrunnshuset flyttas till sin nuvarande plats.",
+      "people": [],
+      "places": [
+        "Stadsbrunnshuset"
+      ]
+    },
+    {
+      "title": "Storbrons balkar och lock byts ut",
+      "date": {
+        "year": 2019,
+        "circa": false,
+        "text": "2019"
+      },
+      "description": "Storbrons balkar och lock byts ut.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3da1ceddee069e7254e6d466013452564c34744d8f0a436dd294892aced662ab",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:54:55.660Z"
+}

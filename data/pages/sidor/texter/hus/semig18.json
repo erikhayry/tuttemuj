@@ -1,0 +1,124 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/semig18.html",
+  "title": "Seminariegatan 18",
+  "summary": "Gårdens ägare och boende från 1940-talet fram till 2000-talet. Familjen Asplund bodde här länge och emigrerade till Sverige 1968. Sidan visar också hur gården används i dag.",
+  "topics": [
+    "gårdar",
+    "seminariegatan",
+    "familjehistoria",
+    "emigration",
+    "boende"
+  ],
+  "people": [
+    {
+      "name": "Rosa Finnström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i gården på 1940–50-talet."
+    },
+    {
+      "name": "Georg Asplund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Från Forsby. Flyttade in i gården 1957 med sin familj."
+    },
+    {
+      "name": "Elsa Asplund",
+      "alternateNames": [
+        "Elsa Långsjö"
+      ],
+      "roles": [],
+      "description": "Född Långsjö, från Åminne. Flyttade in i gården 1957 med sin familj."
+    },
+    {
+      "name": "Alf Asplund",
+      "alternateNames": [
+        "Alf Asplud"
+      ],
+      "roles": [],
+      "description": "Son till Georg och Elsa. Familjen emigrerade till Sverige 1968."
+    },
+    {
+      "name": "Sten Pole Asplund",
+      "alternateNames": [],
+      "roles": [
+        "tillverkare av pälsfarmningstillbehör"
+      ],
+      "description": "Kusin till Georg. Använde huset som verkstad i slutet av 1970-talet."
+    },
+    {
+      "name": "Bo Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte gården 2004 tillsammans med Monika Sandvik-Nylund."
+    },
+    {
+      "name": "Monika Sandvik-Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte gården 2004 tillsammans med Bo Nylund."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan 18",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 18",
+      "description": "Gård som ägdes av familjen Asplund 1957–1968."
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Asplund flyttar in i gården",
+      "date": {
+        "year": 1957,
+        "circa": false,
+        "text": "från 1957"
+      },
+      "description": "Georg och Elsa Asplund med barnen Agneta och Alf flyttar in i gården.",
+      "people": [
+        "Georg Asplund",
+        "Elsa Asplund",
+        "Alf Asplund"
+      ],
+      "places": [
+        "Seminariegatan 18"
+      ]
+    },
+    {
+      "title": "Familjen Asplund emigrerar till Sverige",
+      "date": {
+        "year": 1968,
+        "circa": false,
+        "text": "1968"
+      },
+      "description": "Familjen lämnar Nykarleby och flyttar till Sverige.",
+      "people": [
+        "Georg Asplund",
+        "Elsa Asplund",
+        "Alf Asplund"
+      ],
+      "places": [
+        "Seminariegatan 18"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En familj flyttar från Forsby och in i ett hus på Seminariegatan och bor där i elva år, tills de lämnar staden för Sverige 1968. Berättelsen rymmer både vardagsliv och ett beslut om att ta sig bort från hemmet.",
+    "reason": "Ett tydligt familjedrama med ett avgörande beslut, men sidan ger bara några rader av berättelsen.",
+    "characters": [
+      "Georg Asplund",
+      "Elsa Asplund",
+      "Alf Asplund"
+    ],
+    "places": [
+      "Seminariegatan 18"
+    ]
+  },
+  "contentHash": "5ee4de08d1324b2a2c2e441e8b2e2482975b8a4ffd56a3fb2753634535d9dd51",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:51:38.507Z"
+}

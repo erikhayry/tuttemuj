@@ -1,0 +1,144 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_04F.html",
+  "title": "2225-4 Torget från nordväst",
+  "summary": "Flygbild över torget sett från nordväst, med Normalskolan, Våghuset och gårdarna runt esplanaden. Flera av de ursprungliga husen i kvarteren runt torget är sedan dess rivna.",
+  "topics": [
+    "flygbilder",
+    "torget",
+    "normalskolan",
+    "esplanaden",
+    "rivning",
+    "2225"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stadens centrum, motiv för flygbilden."
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "normen"
+      ],
+      "description": "Byggd 1907 bakom Pensars gårdsmiljö.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Våghuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stod på torget, på samma plats som busstationen från 1954."
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gårdsmiljö vid Bankgatan."
+    },
+    {
+      "name": "Rudnäs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård på esplanadens västra sida."
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Syns i nederkant av bilden.",
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Östra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan syns från vänster i bilden."
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan syns mitt emot Östra Esplanadgatan."
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan syns i övre kanten av bilden.",
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan syns i bilden, med Nykarleby Andelskassas gård och en Esso-station.",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Normalskolan byggs",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "från 1907"
+      },
+      "description": "Normalskolan står klar med vaktmästarbyggnaden från 1911.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Busstationen byggs på torget",
+      "date": {
+        "year": 1954,
+        "circa": false,
+        "text": "från 1954"
+      },
+      "description": "Busstationen byggs på samma plats där Våghuset tidigare stod.",
+      "people": [],
+      "places": [
+        "Torget",
+        "Våghuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f6ce3f71bad79d9bea0aac0c974601e18e308ffd320728f793caac5aa8ceab6c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:54:55.660Z"
+}

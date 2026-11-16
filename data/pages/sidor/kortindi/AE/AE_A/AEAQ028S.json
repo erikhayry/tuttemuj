@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_A/AEAQ028S.HTM",
+  "title": "Zacharias Topelius",
+  "summary": "Ett kort där Zacharias Topelius står framför barndomshemmet Kuddnäs. Kortet är från 1906.",
+  "topics": [
+    "topelius",
+    "kuddnäs",
+    "postkort"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Står framför barndomshemmet Kuddnäs."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [
+        "Kuddnäs hemman"
+      ],
+      "description": "Topelius barndomshem."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3974269137a4288874585b7e7e55cff2c65127c605f465b29efaf805766a2ba2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

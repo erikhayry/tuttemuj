@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_B/dobeln.html",
+  "title": "Postkort från filmerna Fänrik Ståls sägner I och II",
+  "summary": "En förteckning över postkorten från filmerna Fänrik Ståls sägner från 1926, med scener och porträtt av general Döbeln och andra officerare från 1808–09 års krig. Sidan visar vilka kort som finns i samlingen och vilka som saknas.",
+  "topics": [
+    "vykort",
+    "fänrik ståls sägner",
+    "döbeln",
+    "1808–09 års krig",
+    "film",
+    "1926"
+  ],
+  "people": [
+    {
+      "name": "G. K. von Döbeln",
+      "alternateNames": [
+        "Döbeln",
+        "Gustaf Karl von Döbeln"
+      ],
+      "roles": [
+        "general"
+      ],
+      "description": "Huvudpersonen på många av korten."
+    },
+    {
+      "name": "J. A. Sandels",
+      "alternateNames": [],
+      "roles": [
+        "general"
+      ],
+      "description": "Förekommer på flera kort i serien."
+    },
+    {
+      "name": "Wilhelm von Schwerin",
+      "alternateNames": [
+        "Wilhelm von Schwerin"
+      ],
+      "roles": [
+        "löjtnant"
+      ],
+      "description": "Förekommer på ett kort i serien."
+    },
+    {
+      "name": "Olof Wibelius",
+      "alternateNames": [],
+      "roles": [
+        "landshövding"
+      ],
+      "description": "Förekommer på flera kort i serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": [
+        "Juutas"
+      ],
+      "description": "Platsen där flera av korten utspelar sig."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fänrik Ståls sägner del I har premiär",
+      "date": {
+        "year": 1926,
+        "month": 11,
+        "day": 1,
+        "circa": false,
+        "text": "1 november 1926"
+      },
+      "description": "Del I av filmen Fänrik Ståls sägner har premiär.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fänrik Ståls sägner del II har premiär",
+      "date": {
+        "year": 1926,
+        "month": 11,
+        "day": 8,
+        "circa": false,
+        "text": "8 november 1926"
+      },
+      "description": "Del II av filmen Fänrik Ståls sägner har premiär.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "05cfb5abe30f06777f1ef48fe2e3d2834c7d3f5c767cb273821fdd4bf27d934a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T18:15:41.091Z"
+}

@@ -1,0 +1,132 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_10F.html",
+  "title": "2225-10 Från Nygård till Seminariet och Kraftverket",
+  "summary": "Flygbild från Nygård mot seminariet och kraftverket, med byggnader som senare har rivits eller brunnit. Sidan påminner också om J. L. Birck som skrev om sin barndom i Nygård.",
+  "topics": [
+    "flygbilder",
+    "nygård",
+    "seminariet",
+    "kraftverket",
+    "brand",
+    "2225"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "J. L. Bircks"
+      ],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev berättelser om sin barndom i Nygård."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området som flygbilden börjar i."
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnad längst till vänster i nederkant."
+    },
+    {
+      "name": "Mejeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mejeriet där en man poserade med ett sto 1951."
+    },
+    {
+      "name": "Lillbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron som byggdes när dammen höjdes 1962."
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i bildens övre del."
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i bildens övre del."
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Apotekets uthus revs och apoteket brann 1995."
+    },
+    {
+      "name": "Holmströms uthus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Uthus bakom klockstapeln som brann 1987."
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Holmströms uthus låg bakom den."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lillbron byggs när dammen höjs",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "1962"
+      },
+      "description": "Dammen höjs och Lillbron byggs.",
+      "people": [],
+      "places": [
+        "Lillbron"
+      ]
+    },
+    {
+      "title": "Holmströms uthus brinner",
+      "date": {
+        "year": 1987,
+        "month": 12,
+        "day": 8,
+        "circa": false,
+        "text": "8 december 1987"
+      },
+      "description": "Holmströms uthus bakom klockstapeln brinner.",
+      "people": [],
+      "places": [
+        "Holmströms uthus",
+        "Klockstapeln"
+      ]
+    },
+    {
+      "title": "Apoteket brinner",
+      "date": {
+        "year": 1995,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "text": "natten mellan den 3 och 4 december 1995"
+      },
+      "description": "Apoteket brinner.",
+      "people": [],
+      "places": [
+        "Apoteket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a52c84c7f0815f74c51df321d409d85e04810e3b8d4b743bdab82a9a86cd5c50",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T17:54:55.660Z"
+}
