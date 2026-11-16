@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_I/LRIV024D.HTM",
+  "title": "J. W. Lundqvists gård omkring 1905",
+  "summary": "J. W. Lundqvists gård vid korsningen Topeliusesplanaden 11 och Bankgatan, fotad från nordost omkring 1905.",
+  "topics": [
+    "lundqvists gård",
+    "topeliusesplanaden",
+    "bankgatan",
+    "1905"
+  ],
+  "people": [
+    {
+      "name": "J. W. Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Ägde gården på hörnet."
+    }
+  ],
+  "places": [
+    {
+      "name": "J. W. Lundqvists gård",
+      "kind": "building",
+      "alternateNames": [
+        "Topeliusesplanaden 11"
+      ],
+      "address": "Topeliusesplanaden 11",
+      "geo": {
+        "lat": 63.5227604,
+        "lng": 22.531258,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "877749785352a69a567013739b6f0bcb4c2d954a9f606d2ba2bfbd7c90a7a406",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_G/LRGR021S.HTM",
+  "title": "Nybroviken och -backen",
+  "summary": "Nybroviken och Nybrobacken från nordväst, med Lybeckska gården och en port som räddades när Grundfeldts hus revs omkring 1960.",
+  "topics": [
+    "nybroviken",
+    "nybrobacken",
+    "portar",
+    "grundfeldts hus"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybrobacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grundfeldts hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs omkring 1960."
+    },
+    {
+      "name": "Herlers museum",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Grundfeldts hus revs",
+      "date": {
+        "year": 1960,
+        "circa": true,
+        "text": "omkring 1960"
+      },
+      "description": "Grundfeldts hus revs för ett trevåningshus.",
+      "people": [],
+      "places": [
+        "Grundfeldts hus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f32e4d0626a7bf018fb3e7239fe5a39587123b2433c83abf6724ac8687f8cddb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

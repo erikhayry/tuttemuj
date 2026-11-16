@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/lt/lt_b/ltbx115s.html",
+  "title": "Kyrkan och Storbron, palettkort",
+  "summary": "Kyrkan och Storbron på ett palettkort. Fotografiet är taget senast 1889, eftersom tornuret monterades det året.",
+  "topics": [
+    "palettkort",
+    "kyrkan",
+    "storbron",
+    "1889"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tornuret monteras i kyrkan",
+      "date": {
+        "year": 1889,
+        "circa": false,
+        "text": "1889"
+      },
+      "description": "Stadsförsamlingen bekostar tornuret, som monteras 1889.",
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cfa65d60fe291de20217713281e187ce32e8547efbf695cbf32fb029a3be1bb3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_L/LRLVO26S.HTM",
+  "title": "\"Storstein\" i Rummelbacken",
+  "summary": "Stora flyttblocket i Rummelbacken, där barnen lekte förr. Sidan berättar om en olycka i början av 1970-talet, när en pojke föll från stenen och slog huvudet. Fler vittnen minns händelsen.",
+  "topics": [
+    "rummelbacken",
+    "storstein",
+    "barndom",
+    "olycka"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storstein",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Största flyttblocket i Rummelbacken."
+    },
+    {
+      "name": "Barnträdgården",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Lekområde i sydöstra hörnet av Rummelbacken."
+    }
+  ],
+  "events": [
+    {
+      "title": "Olycka vid Storstein",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "hösten 1970 eller våren 1971"
+      },
+      "description": "En pojke faller från flyttblocket och skadas svårt.",
+      "people": [],
+      "places": [
+        "Storstein"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Barnen i Rummelbacken klättrar på flyttblocket med ett rep. När en pojke som äter glass klättrar upp släpper repet, och han faller bakåt.",
+    "reason": "En dramatisk scen med en olycka och ett rep som ger vittnen och en lättsam ton efteråt.",
+    "characters": [
+      "barnen",
+      "pojken"
+    ],
+    "places": []
+  },
+  "contentHash": "764ca51859132d3f3c4dccd1b3c4639afd9188e3fbf8725acd72dcc9f7da4e2b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_M/LRMR034S.HTM",
+  "title": "Nybroviken från Tullstranden",
+  "summary": "Nybroviken fotad från Tullstranden mot nordnordost, med Lybeckska gården, Storbron och kyrkan i fjärran.",
+  "topics": [
+    "nybroviken",
+    "tullstranden",
+    "storbron",
+    "kyrkan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "fc8dd68246c63674a15b4ee807cdd0e423349aea6928168916c0018ce9b6ab59",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

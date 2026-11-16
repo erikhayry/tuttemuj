@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_I/LRIV024S.HTM",
+  "title": "Korsningen Norra Torggatan–Rådhusboulevarden",
+  "summary": "Korsningen Norra Torggatan–Rådhusboulevarden med P. A. Lybecks gård, byggd 1861 och använd som bank sedan 1898, och J. W. Lundqvists hus, där Wiks Hotell verkade. Huset revs 1966 för att ge plats för Grönhuset.",
+  "topics": [
+    "norra torggatan",
+    "rådhusboulevarden",
+    "banklokal",
+    "grönhuset"
+  ],
+  "people": [
+    {
+      "name": "P. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Byggde gården 1861."
+    },
+    {
+      "name": "J. W. Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Ägde huset från 1860-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "P. A. Lybecks gård",
+      "kind": "building",
+      "alternateNames": [
+        "Lybecks gård"
+      ],
+      "address": "Norra Torggatan"
+    },
+    {
+      "name": "Wiks Hotell",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grönhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "P. A. Lybecks gård byggd",
+      "date": {
+        "year": 1861,
+        "circa": false,
+        "text": "1861"
+      },
+      "description": "P. A. Lybecks gård byggs.",
+      "people": [
+        "P. A. Lybeck"
+      ],
+      "places": [
+        "P. A. Lybecks gård"
+      ]
+    },
+    {
+      "title": "Huset revs för Grönhuset",
+      "date": {
+        "year": 1966,
+        "circa": false,
+        "text": "1966"
+      },
+      "description": "Handlande J. W. Lundqvists hus revs för att ge plats för Grönhuset.",
+      "people": [],
+      "places": [
+        "Grönhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "556f7de13435523e3ad8958bc8b0b14c490b5dfeb057da2163d2b4bfc7a2bace",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

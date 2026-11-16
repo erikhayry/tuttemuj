@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFQ020S.HTM",
+  "title": "Kuddnäsinteriör",
+  "summary": "Zacharias Topelius vagga på Kuddnäs, placerad på en ställning för att skydda barnet från golvdrag. Kortet är stämplat 1910, men Kuddnäs blev museum först 1934. Sidan förklarar att en vindskammare redan då fungerade som ett litet Topeliusmuseum.",
+  "topics": [
+    "kuddnäs",
+    "topelius",
+    "interiör",
+    "museum"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Vaggan på Kuddnäs var hans."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topelius barndomshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kuddnäs blir museum",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "description": "Kuddnäs omvandlas från fattiggård till museum över Topelius.",
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e42ebd82387e9186b11881d5d285d176dd8afaf67dceaf1b1041588a26aadf33",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

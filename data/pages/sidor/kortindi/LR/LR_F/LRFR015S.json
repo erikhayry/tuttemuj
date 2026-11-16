@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFR015S.HTM",
+  "title": "Från apoteket till kyrkan",
+  "summary": "Vyn från apoteket till kyrkan, med Norra Tvärgatan (Borgaregatan) som var en populär kälkbacke ner mot älven.",
+  "topics": [
+    "apoteket",
+    "kyrkan",
+    "borgaregatan",
+    "kälkbacke"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [
+        "Norra Tvärgatan"
+      ],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "585d7b9cb9cfa9df71eafbeb66feb89ed905ec570d07398837f96de271c96113",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

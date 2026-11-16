@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/LREH030S.HTM",
+  "title": "Normalskolan",
+  "summary": "Normalskolan där författaren gick i skolan från ettan till sexan. Sidan visar också vedskjulet bakom skolan och frågar om det kan ha varit en korvkiosk.",
+  "topics": [
+    "normalskolan",
+    "skola",
+    "skoltiden"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d5487ecd410b6bea1f18893536e0f36ac506c946b8cf58f8e5913dc03f28aa72",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

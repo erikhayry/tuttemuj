@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_I/LRIR003S.HTM",
+  "title": "Tullstranden",
+  "summary": "Tullstranden fotad mot norr mot älvmynningen. Stämpeln från Munsala 1907 har gett kortet ett relieftryck på framsidan.",
+  "topics": [
+    "tullstranden",
+    "älvmynningen",
+    "stämpel",
+    "1907"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Ligger utanför staden.",
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6125f75ae2067be2cb9f7388f280fe821226149b0e0ec6cbfa18f9e98fcae3b6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

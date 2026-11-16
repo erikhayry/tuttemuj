@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_K/LRKK007S.HTM",
+  "title": "Kyrkan",
+  "summary": "Den första närbilden på kyrkan, med järnvägsspåret i nedre kanten och sparbössan vid porten. Sidan nämner en fattiggubbe som tidigare funnits vid kyrkan.",
+  "topics": [
+    "kyrkan",
+    "fattiggubbe",
+    "järnvägen",
+    "stafflisouvenir"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6aa5f714f5647ee01b9298fcef3216890c9f46ea0423972e797778dd6c005bf2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

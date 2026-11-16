@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_G/LRGH020S.HTM",
+  "title": "Juthasvägen 2",
+  "summary": "Före detta Petter August Lybecks sommarvilla, som flyttats från Andrasjön till en kilformad tomt mellan Juthasvägen och älven. Sidan följer husets ägare och berättar om den japanska trädgården, vars statyett i dag finns på Nykarleby museum.",
+  "topics": [
+    "juthasvägen",
+    "lybeck",
+    "sommarvilla",
+    "trädgård"
+  ],
+  "people": [
+    {
+      "name": "Petter August Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde sommarvillan innan den flyttades från Andrasjön."
+    },
+    {
+      "name": "Aline Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Arvingarna sålde huset 1945."
+    },
+    {
+      "name": "Henrik Wik",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde huset tillsammans med Lovisa Wik."
+    },
+    {
+      "name": "Lovisa Wik",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde huset tillsammans med Henrik Wik."
+    },
+    {
+      "name": "Paavo Tyni",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ],
+      "description": "Ägde huset efter Erik Gustavsson."
+    },
+    {
+      "name": "Erik Gustavsson",
+      "alternateNames": [],
+      "roles": [
+        "normalskollärare"
+      ],
+      "description": "Ägde huset och lät fylla ut tomten på 1970-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthasvägen 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Juthasvägen 2",
+      "description": "Villan är f.d. Lybecks sommarvilla."
+    },
+    {
+      "name": "Forsvik",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Inbuktning i älven."
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbackkroken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Juthbackakroken"
+      ]
+    },
+    {
+      "name": "Kärlekstallen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fridlyst träd."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lybecks sommarvilla flyttas",
+      "date": {
+        "year": 1945,
+        "circa": false,
+        "text": "Henrik och Lovisa Wik köper huset av Aline Lybecks arvingar 1945."
+      },
+      "description": "Henrik och Lovisa Wik köper huset av Aline Lybecks arvingar.",
+      "people": [
+        "Henrik Wik",
+        "Lovisa Wik"
+      ],
+      "places": [
+        "Juthasvägen 2"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "267bc1389ddca430d78198ac2f2fa2bc1aab58964259d292ffc41573ec431f56",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

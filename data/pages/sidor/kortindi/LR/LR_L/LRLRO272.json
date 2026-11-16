@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_L/LRLRO272.HTM",
+  "title": "Kraftverket",
+  "summary": "Det gamla kraftverket och den nya dammen, med en berättelse om maskinvakterna som bemannade kraftverket och larmade vid brand. Sidan räknar upp många av maskinvakterna i början av 1980-talet.",
+  "topics": [
+    "kraftverket",
+    "maskinvakt",
+    "älven",
+    "brandlarm"
+  ],
+  "people": [
+    {
+      "name": "Vilhelm Marklund",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Raoul Olson",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Verner Sundell",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Helge Solvin",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Rolf Rudnäs",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Erik Sund",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Sven Nyblom",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Bror-Erik Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gamla kraftverket och den nya dammen."
+    },
+    {
+      "name": "Nålören",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Transformatortorn vid Nålören."
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Observationspost under andra världskriget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kraftverket byggs ut",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Utbyggnaden av kraftverket där kraftledningarna utgick från gaveln.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Gamla kraftverket fjärrstyrs",
+      "date": {
+        "year": 1990,
+        "circa": true,
+        "text": "efter 1984"
+      },
+      "description": "Det nya kraftverket är fjärrstyrt, medan det gamla var bemannat.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f8eee2842d57548778335f9aa30834d69c8f9c3af693b6842088e2412aa96bf9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

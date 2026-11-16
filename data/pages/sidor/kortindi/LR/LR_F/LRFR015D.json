@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFR015D.HTM",
+  "title": "Uthus på älvstranden och Apoteksbacken",
+  "summary": "Uthus på älvstranden och Apoteksbacken, med Holmströms uthus som fanns kvar fram till mitten av 1980-talet då det brann.",
+  "topics": [
+    "apoteksbacken",
+    "uthus",
+    "brand",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Apoteksbacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Holmströms uthus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Holmströms uthus brinner",
+      "date": {
+        "year": 1985,
+        "circa": true,
+        "text": "mitten av 1980-talet"
+      },
+      "description": "Holmströms uthus, det största uthuset, brinner.",
+      "people": [],
+      "places": [
+        "Holmströms uthus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5e6bd0eedbe1d4a193975eb020168dd7df9aee3e7a7ba3c3747652ea70cb7eeb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

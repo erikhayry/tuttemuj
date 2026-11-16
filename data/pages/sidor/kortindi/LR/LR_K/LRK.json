@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_K/LRK.HTM",
+  "title": "En renodlad \"husserie\"",
+  "summary": "En serie om hus från 1910, där sjukhuset för första gången avbildas. Serien utgavs av L. Rosenbacks Pappershandel.",
+  "topics": [
+    "rosenbach",
+    "serie 1910",
+    "sjukhuset"
+  ],
+  "people": [
+    {
+      "name": "L. Rosenbach",
+      "alternateNames": [],
+      "roles": [
+        "pappershandlare"
+      ],
+      "description": "Utgivare av serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sjukhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2e24a6aaeb9514bfbe3806c1512efd3fed3d3a45cb17ff2b3145475988440018",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFV018S.HTM",
+  "title": "Seminariegatan från Brostuguberget",
+  "summary": "Seminariegatan från Brostuguberget mot norr, med ett hus som var föräldrarnas första bostad och som revs i början av 1980-talet. Sidan berättar om musikintresserade ungdomar och om Fru Petterssons seminaristhem 1895–1932.",
+  "topics": [
+    "seminariegatan",
+    "brostuguberget",
+    "seminaristhem",
+    "kämppät"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5236124,
+        "lng": 22.52193,
+        "match": "name",
+        "gazetteerName": "bergstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Logen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ungdomsställe i grannkvarteret på Bergstigen."
+    },
+    {
+      "name": "Rajåkern",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminaristhemmet drivs",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "1895–1932"
+      },
+      "description": "Fru Petterssons seminaristhem drivs i gården närmast till höger.",
+      "people": [],
+      "places": [
+        "Seminariegatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "47af292cb37d84ecfd4be4e0906e986e9fa299452e381d01925835af12bd60b5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

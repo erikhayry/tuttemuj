@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/lt/lt_b/ltbcjes.htm",
+  "title": "Kyrkan, älven och Storbron, palettkort",
+  "summary": "Ett palettkort med kyrkan, älven och Storbron, signerat av Carl Carlstedt.",
+  "topics": [
+    "palettkort",
+    "kyrkan",
+    "storbron"
+  ],
+  "people": [
+    {
+      "name": "Carl Carlstedt",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Signerade kortet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c2f4348f5365e53957ec75c139870b2cc64fba6bf4c0bdf8b992a941afa73d92",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

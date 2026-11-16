@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/LREV0462.HTM",
+  "title": "Kyrkogatan",
+  "summary": "Kyrkogatan fotad 2002, med Normalskolans vaktmästarbostad, kraftverket vid gatans slut och ett hus där posten en gång hade sina lokaler. Sidan berättar också att stadsbrunnen flyttades 1990.",
+  "topics": [
+    "kyrkogatan",
+    "normalskolan",
+    "kraftverket",
+    "2002"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrktuppen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Café som återuppstått efter 2002."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbrunnen flyttas",
+      "date": {
+        "year": 1990,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 1990"
+      },
+      "description": "Stadsbrunnen flyttas från Normalskolans tomt till Kyrkogatan.",
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f7083f5f977c1297ead071ca391d0787edd3b8c1322c3131619d9c6ebc8d1fb1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

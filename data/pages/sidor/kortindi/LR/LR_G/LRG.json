@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_G/LRG.HTM",
+  "title": "Utrymme för meddelanden",
+  "summary": "En serie med mest återanvända fotografier, men med Juthasvägen för första gången. Serien borde egentligen ha legat under rubriken 1900.",
+  "topics": [
+    "rosenbach",
+    "serie 1905",
+    "juthasvägen"
+  ],
+  "people": [
+    {
+      "name": "L. Rosenbach",
+      "alternateNames": [],
+      "roles": [
+        "pappershandlare"
+      ],
+      "description": "Utgivare av serien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0b7ac705d4e836ebe0f0333af75348e8aadeb5103eeb1d2c23060c4a33f8fbac",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

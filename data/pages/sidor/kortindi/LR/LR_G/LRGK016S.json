@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_G/LRGK016S.HTM",
+  "title": "Kyrkan och Storbron",
+  "summary": "Kyrkan och Storbron från en vårvinterdag med mycket folk i rörelse. Kortets meddelande är svårt att tyda.",
+  "topics": [
+    "kyrkan",
+    "storbron",
+    "brevkort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a33ca71183b74aacef5adc56c0117f6ec3452a04f506ed9439a2a80ef28440bf",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

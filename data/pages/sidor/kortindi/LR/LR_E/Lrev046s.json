@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/Lrev046s.htm",
+  "title": "Kyrkogatan",
+  "summary": "Kyrkogatan från klockstapeln mot norr, med Sundströms gård och den stora handelsgården Bergers, numera Nylunds. Gården är den enda kompletta handelsgården som finns kvar i staden och har fått tillbaka sin forna glans.",
+  "topics": [
+    "kyrkogatan",
+    "handelsgård",
+    "nylunds",
+    "bevarande"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Pensar",
+      "alternateNames": [],
+      "roles": [
+        "köpman"
+      ],
+      "description": "Övertog gården 1915 och öppnade butik för kolonialvaror, tyger och husgeråd."
+    },
+    {
+      "name": "Axel Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sonen som tog över och förvaltade gården."
+    },
+    {
+      "name": "Brage Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Familjen som restaurerar gården."
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kolorerade kortet 2020."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Berger-gården",
+      "kind": "building",
+      "alternateNames": [
+        "Nylunds",
+        "Pensars gård",
+        "Bergers gård"
+      ],
+      "description": "Handelsgården som nu kallas Nylunds, tidigare Pensars."
+    },
+    {
+      "name": "Sundströms gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Josef Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Pensar övertar gården",
+      "date": {
+        "year": 1915,
+        "circa": false,
+        "text": "hösten 1915"
+      },
+      "description": "Köpmannen Karl Johan Pensar övertar gården efter att Nykarleby Aktiebank gått i konkurs.",
+      "people": [
+        "Karl Johan Pensar"
+      ],
+      "places": [
+        "Berger-gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "faebe36aa7ce451850a055fe187a05635f97ed2d107074e8919e792036a7e368",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

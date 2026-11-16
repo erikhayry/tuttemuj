@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFQ051S.HTM",
+  "title": "Kuddnäs",
+  "summary": "Kuddnäs fotat från öster. Tillbyggnaden till vänster och farstun revs när mangården 1934 gjordes om till museum.",
+  "topics": [
+    "kuddnäs",
+    "mangården",
+    "museum",
+    "1934"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Mangården på Kuddnäs",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Mangården görs om till museum",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "description": "Mangården ändras från fattiggård till museum; tillbyggnaden revs.",
+      "people": [],
+      "places": [
+        "Mangården på Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a9c034f865b20b041f795bfe4f54111f7731c9f6bbb7a35ce515d7385436f33b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

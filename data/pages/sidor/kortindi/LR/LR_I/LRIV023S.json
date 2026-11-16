@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_I/LRIV023S.HTM",
+  "title": "Korsningen Södra Torggatan–Rådhusboulevarden",
+  "summary": "Stadshotellet vid korsningen Södra Torggatan–Rådhusboulevarden, med Carl Nylunds gård som revs 1978 och en lång historia av hotell, tryckeri och affärsverksamhet. Gården revs 1967 för att ge plats för Andelsringen.",
+  "topics": [
+    "stadshotellet",
+    "torget",
+    "hotell",
+    "handelslaget"
+  ],
+  "people": [
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ],
+      "description": "Gården byggd på 1860-talet bär hans namn."
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Byggde huset på 1860-talet."
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde huset 1884–1898."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadshotellet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": [
+        "Topeliusesplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andelsringen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Konsul Carl Nylunds gård revs",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "1978"
+      },
+      "description": "Carl Nylunds gård revs.",
+      "people": [
+        "Carl Nylund"
+      ],
+      "places": [
+        "Stadshotellet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2603cdab890f9d89ca826741bc05e9b0c430a35c80cccbb05b67d53e634d6a60",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

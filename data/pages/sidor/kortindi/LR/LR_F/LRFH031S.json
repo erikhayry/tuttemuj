@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFH031S.HTM",
+  "title": "Normalskolan",
+  "summary": "Normalskolan, stadens första större stenhus, med tips om vad som fanns i skolan och skolans smeknamn \"Stenhäktet\".",
+  "topics": [
+    "normalskolan",
+    "skolan",
+    "stenhus",
+    "skoltiden"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stadens första större stenhus.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kisors hus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2d49f42e6b88187fd748cc695ea76e5d1a65405506877c5e3c80be9ce04469a3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

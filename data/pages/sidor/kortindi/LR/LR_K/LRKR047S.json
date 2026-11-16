@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_K/LRKR047S.HTM",
+  "title": "Brunnsholmarna",
+  "summary": "Brunnsholmarna med en servitris, Engs uthus på älvstranden och stadens första kraftverk som startades 1903 av J. W. Nessler i stadskvarnen. På holmen fanns också en kägelbana.",
+  "topics": [
+    "brunnsholmarna",
+    "kraftverket",
+    "stadskvarnen",
+    "servitris"
+  ],
+  "people": [
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Startade stadens första kraftverk 1903."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Engs uthus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kägelbanan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Kägelbana på holmen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadens första kraftverk startar",
+      "date": {
+        "year": 1903,
+        "circa": false,
+        "text": "1903"
+      },
+      "description": "J. W. Nessler startar stadens första kraftverk i stadskvarnen.",
+      "people": [
+        "J. W. Nessler"
+      ],
+      "places": [
+        "Stadskvarnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4da7dfb6dd2ca80e8ea5facd1814917f8f29c15c0199d37fbc6573839a3f702b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

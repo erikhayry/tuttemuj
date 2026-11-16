@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/LREH019S.HTM",
+  "title": "Rådman C. W. Sundströms gård",
+  "summary": "Gården strax norr om kyrkan, som rådman C. W. Sundström bebyggde på 1860-talet. Sidan berättar om handelsverksamheten i huset, från tygförsäljning till möbelaffär, och om stängslet av stenplintar från 1901.",
+  "topics": [
+    "handel",
+    "kyrkan",
+    "gårdshistoria",
+    "stängsel"
+  ],
+  "people": [
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Ropade in tomten på auktion 1858 och bebyggde den på 1860-talet."
+    },
+    {
+      "name": "J. H. Holstius",
+      "alternateNames": [],
+      "deathYear": 1909,
+      "roles": [
+        "fabrikör"
+      ],
+      "description": "Ägde gården och avled 1909."
+    },
+    {
+      "name": "Anders W. Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte gården från auktionen 1909."
+    },
+    {
+      "name": "V. Holmström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte gården 1918 och inledde försäljning av tygvaror."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sundströms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Holstius gård"
+      ],
+      "description": "Gården strax norr om kyrkan."
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomten inropas på auktion",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "28 juli 1858"
+      },
+      "description": "Tomten strax norr om kyrkan inropas av rådman C. W. Sundström.",
+      "people": [
+        "C. W. Sundström"
+      ],
+      "places": [
+        "Sundströms gård"
+      ]
+    },
+    {
+      "title": "Stängslet kring kyrkan",
+      "date": {
+        "year": 1901,
+        "circa": false,
+        "text": "1901"
+      },
+      "description": "Stängslet av stenplintar och kättingar kring kyrkan sätts upp.",
+      "people": [],
+      "places": [
+        "Kyrkan"
+      ]
+    },
+    {
+      "title": "Gården säljs på auktion",
+      "date": {
+        "year": 1909,
+        "circa": false,
+        "text": "1909"
+      },
+      "description": "Gården utbjuds på auktion efter fabrikören J. H. Holstius död.",
+      "people": [
+        "J. H. Holstius"
+      ],
+      "places": [
+        "Sundströms gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fb8bef0a1d38e564eca1b5368b4dfd2d07df217930c71f2fae68f333eaddf255",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

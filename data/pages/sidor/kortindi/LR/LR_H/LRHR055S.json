@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_H/LRHR055S.HTM",
+  "title": "Nybroviken",
+  "summary": "Nybroviken från sydost med Haglunds och de Gamlas hem och Lybeckska gården, som döljs av kraftverket och tvättinrättningen. Sidan berättar om striden 1949 när tvättinrättningen skulle byggas.",
+  "topics": [
+    "nybroviken",
+    "tvättinrättningen",
+    "utsikten",
+    "kraftverket"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Tvättinrättningen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Lybeckska huset"
+      ]
+    },
+    {
+      "name": "Grundfeldtska huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Revs."
+    },
+    {
+      "name": "Hangö",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Utrikesresornas avgångshamn för många emigranter."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tvättinrättningen ska byggas",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "1949"
+      },
+      "description": "Bygget av tvättinrättningen väcker stor debatt om den berömda utsikten.",
+      "people": [],
+      "places": [
+        "Tvättinrättningen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fd05c57ccc07afe912768503242e89b07e444204ce82741392824e620c38d737",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

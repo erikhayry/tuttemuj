@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/Lrfv054s.htm",
+  "title": "\"Nyykaabibässin\" vid stationen",
+  "summary": "Stationshuset vid Nykarleby station, som byggdes 1898 och revs 1986 eller 1987. Sidan berättar om alla verksamheter som funnits där, och om att banan var nedläggningshotad i början av 1980-talet.",
+  "topics": [
+    "stationen",
+    "järnväg",
+    "stationshuset",
+    "nedläggning"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Arbetade vid järnvägen och fotograferades på stationen."
+    },
+    {
+      "name": "Nybäck",
+      "alternateNames": [],
+      "roles": [
+        "stins"
+      ],
+      "description": "Stins vid stationen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stationshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggdes 1898, revs 1986 eller 1987."
+    },
+    {
+      "name": "Lokstallet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Användes sist som brandstation."
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stationshuset byggs",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "1898"
+      },
+      "description": "Stationshusets mittersta och östra del byggs.",
+      "people": [],
+      "places": [
+        "Stationshuset"
+      ]
+    },
+    {
+      "title": "Statlig bredspårig järnväg",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "1949"
+      },
+      "description": "Staden får en statlig bredspårig järnväg.",
+      "people": [],
+      "places": [
+        "Stationshuset"
+      ]
+    },
+    {
+      "title": "Stationshuset revs",
+      "date": {
+        "year": 1986,
+        "circa": false,
+        "text": "1986 eller 1987"
+      },
+      "description": "Stationshuset revs.",
+      "people": [],
+      "places": [
+        "Stationshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "40aa5e31fdac188e367229541294e51eeadc68e56a79fe23fcb675cb24ac3aac",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_K/LRKH011S.HTM",
+  "title": "Normalskolan",
+  "summary": "Normalskolan, där kandidaterna undervisar och en lärare ser fram emot sin undervisning efter fyra år.",
+  "topics": [
+    "normalskolan",
+    "lärarutbildning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0b8a46247a14b6989f2ed1b2cb1dbb62a13cc71128e190b943c67ef7ac16f366",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

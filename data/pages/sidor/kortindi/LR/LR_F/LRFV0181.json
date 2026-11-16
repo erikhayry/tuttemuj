@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_F/LRFV0181.HTML",
+  "title": "Huset får inte rivas",
+  "summary": "Vasa förvaltningsdomstol har slagit fast att det gamla huset från 1868 på Seminariegatan 5 inte får rivas, eftersom det omfattas av lagen om skydd av byggnadsarvet.",
+  "topics": [
+    "seminariegatan",
+    "byggnadsarv",
+    "rivning",
+    "2011"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariegatan 5",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 5",
+      "description": "Gammalt hus från 1868 med utsikt över älven och kyrkan.",
+      "geo": {
+        "lat": 63.5238844,
+        "lng": 22.5239311,
+        "match": "address",
+        "gazetteerName": "seminariegatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Domstol förbjuder rivning",
+      "date": {
+        "year": 2011,
+        "month": 1,
+        "day": 3,
+        "circa": false,
+        "text": "3 januari 2011"
+      },
+      "description": "Vasa förvaltningsdomstol fastslår att huset på Seminariegatan 5 inte får rivas.",
+      "people": [],
+      "places": [
+        "Seminariegatan 5"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "33a97414190c978c0bb5fe0d357a9370d524c9e06e288eec066129c6820e2a4d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

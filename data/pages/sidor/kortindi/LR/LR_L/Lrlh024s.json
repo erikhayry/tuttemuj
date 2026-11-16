@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_L/Lrlh024s.htm",
+  "title": "Fridhemmet",
+  "summary": "Fridhemmet, ett åldringshem som revs 1984. Sidan berättar om de likvagnar som stod i uthuset och att Lars Pensar sett till att de hamnade i säkert förvar.",
+  "topics": [
+    "fridhemmet",
+    "åldringshem",
+    "likvagnar",
+    "revs 1984"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Såg till att likvagnarna kom i säkert förvar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Fridhemmet",
+      "kind": "building",
+      "alternateNames": [
+        "Frihemmet"
+      ],
+      "description": "Åldringshem som revs 1984."
+    },
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fridhemmet revs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Hemmet för äldre revs.",
+      "people": [],
+      "places": [
+        "Fridhemmet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b236610c6423293893fbb2a57e8ff413b7f8138c0c89024ca5a577a52f0e8ef8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}

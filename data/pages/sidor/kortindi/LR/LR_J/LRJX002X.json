@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_J/LRJX002X.HTM",
+  "title": "Dragspelets fram- och baksida",
+  "summary": "Dragspelets fram- och baksida från 1911, med Storbron och kyrkan, Stads- eller Juthforsen, Brostugan och monumentet vid Juthas. Sidan berättar om en segling vid Markus-ön.",
+  "topics": [
+    "dragspel",
+    "storbron",
+    "juthas",
+    "brostugan",
+    "1911"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stadsforsen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Juthforsen"
+      ]
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Monumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "261a9c9376e7e163beb386d8b0bd8e408e1d7d7b9d2a47efe403657fa16c2c28",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-16T19:03:49.406Z"
+}
