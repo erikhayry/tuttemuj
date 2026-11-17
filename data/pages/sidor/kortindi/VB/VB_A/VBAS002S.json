@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_A/VBAS002S.HTM",
+  "title": "Seminariets huvudbyggnad 1903",
+  "summary": "Seminariets huvudbyggnad från 1903, med kosthållet bakom som revs och ersattes 1961–63. Sidan minns morgonsamlingar i mittdelen och en gran vid entrén som fälldes 2012.",
+  "topics": [
+    "seminariet",
+    "kosthållet",
+    "morgonsamling"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariets kosthåll",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kosthållet revs",
+      "date": {
+        "year": 1961,
+        "circa": false,
+        "text": "1961–63"
+      },
+      "description": "Kosthållet revs och ersattes av en byggnad med slöjdsalar och gymnastiksal.",
+      "people": [],
+      "places": [
+        "Seminariets kosthåll"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f813b542766b5c4828ff792880fa9e0a5cd58f31ffecb52252aa5d64f3c385a2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

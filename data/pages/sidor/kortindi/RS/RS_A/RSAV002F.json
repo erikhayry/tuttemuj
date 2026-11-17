@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/RS/RS_A/RSAV002F.HTM",
+  "title": "Julgranen på torget",
+  "summary": "Stadens julgran har stått vid kyrkan, framför Normalskolan och på torget. Sidan samlar artiklar om granen från 1934 till 2011.",
+  "topics": [
+    "julgran",
+    "torget",
+    "kyrkan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Julgranen flyttas till torget",
+      "date": {
+        "year": 1951,
+        "circa": false,
+        "text": "1951"
+      },
+      "description": "Granen flyttas från kyrkan till torget efter ett upprop.",
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b04fbaf37c4c2616342cf1099e1fd4a7e494c1f817492a46cd75294f5b61e66b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

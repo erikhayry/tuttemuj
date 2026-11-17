@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/KU/KUA/kuriosa.html",
+  "title": "Kort av läder och näver",
+  "summary": "Kuriosa: postkort av läder och näver. Sidan visar ett läderkort från Yukon och ett näverkort med en födelsedagshälsning till en lärarkandidat i Nykarleby 1908.",
+  "topics": [
+    "kuriosa",
+    "läderkort",
+    "näverkort",
+    "1908"
+  ],
+  "people": [
+    {
+      "name": "Arne Granlund",
+      "alternateNames": [],
+      "roles": [
+        "lärarkandidat"
+      ],
+      "description": "Mottagare av näverkortet 1908."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Näverkort avgångsstämplat",
+      "date": {
+        "year": 1908,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "text": "20 maj 1908"
+      },
+      "description": "Ett näverkort med födelsedagshälsning avgångsstämplas.",
+      "people": [
+        "Arne Granlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ea032cf1e34d8e50a2c91857bd7142338bcc564d7c90a6199f925eec9768084d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

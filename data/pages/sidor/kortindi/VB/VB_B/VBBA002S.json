@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_B/VBBA002S.HTM",
+  "title": "Aftonrodnad i skärgården",
+  "summary": "Ett kort från oktober 1903 med aftonrodnad i skärgården. Stefan Fors tror att det är taget vid Kisor stranden mot Markusholmen, men är inte längre säker.",
+  "topics": [
+    "skärgården",
+    "markusholmen",
+    "1903"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kisor stranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "1ec73f1233f0557a58be74f587179d498414613b96ebcc803127ab5ade3476ba",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

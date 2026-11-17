@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_A/VBAR019S.HTM",
+  "title": "Vy från Nybroforsen mot kyrkan 1902",
+  "summary": "Vy från Nybroforsen mot kyrkan på ett nyårskort från 1902, skickat från Nykarleby till Viborg. Kortet finns också i Nykarleby stadsbibliotek.",
+  "topics": [
+    "nybroforsen",
+    "kyrkan",
+    "nyårskort",
+    "1902"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nyårskort skickas",
+      "date": {
+        "year": 1902,
+        "month": 12,
+        "day": 30,
+        "circa": false,
+        "text": "30 december 1902"
+      },
+      "description": "Kortet skickas från Nykarleby till Viborg.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ae7377d2c977a6bf13cb9e3c6ffb02ed785dae6d094bdec1197e895e1c8421d3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

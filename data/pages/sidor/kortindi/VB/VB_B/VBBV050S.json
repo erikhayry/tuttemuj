@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_B/VBBV050S.htm",
+  "title": "Norra Torggatan i vinterskrud",
+  "summary": "Norra Torggatan från sydost, mot gatan som fick namnet Bankgatan 1912. Nykarleby Aktiebank verkade i huset 1898–1914, och gårdarna byggdes av flera betydande stadsbor.",
+  "topics": [
+    "norra torggatan",
+    "bankgatan",
+    "banker",
+    "vinter"
+  ],
+  "people": [
+    {
+      "name": "P. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Byggde en av gårdarna."
+    },
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde en av gårdarna."
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde en av gårdarna."
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Byggde en av gårdarna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Norra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby Aktiebank",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Verkade i huset 1898–1914."
+    },
+    {
+      "name": "Nordea-huset",
+      "kind": "building",
+      "alternateNames": [
+        "HAB-huset"
+      ]
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby Aktiebank verkar i huset",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "1898–1914"
+      },
+      "description": "Nykarleby Aktiebank har sin verksamhet i huset.",
+      "people": [],
+      "places": [
+        "Nykarleby Aktiebank"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "053c9155777b733e6cf81881fdd5e757ec5fa3942d12122cf24794e4351aba90",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

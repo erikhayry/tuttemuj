@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_B/VBBA009S.HTM",
+  "title": "Skärgårdsmotiv vid Andrasjön",
+  "summary": "Ett skärgårdsmotiv som sidan tror är Andrasjön, som angjordes i slutet av 1800-talet av ångbåtslinjen Uleåborg–Nykarleby–Vasa–Stockholm. Hamnanläggningen finns inte kvar.",
+  "topics": [
+    "andrasjön",
+    "ångbåtslinjen",
+    "skärgården"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gamla hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ångbåtslinjen angör Andrasjön",
+      "date": {
+        "year": 1890,
+        "circa": true,
+        "text": "i slutet av 1800-talet"
+      },
+      "description": "Ångbåtslinjen Uleåborg–Nykarleby–Vasa–Stockholm trafikerar hamnen vid Andrasjön.",
+      "people": [],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "95d64e7a87e2f70cf2fa1f0cc1a780d29cf6355d68c5f716b5a2495c84873697",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

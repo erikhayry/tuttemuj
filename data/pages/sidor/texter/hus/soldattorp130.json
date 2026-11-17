@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/soldattorp130.html",
+  "title": "Soldattorp 130 Dalabacka",
+  "summary": "Soldattorp 130 i Ytterjeppo är kvar komplett med stuga, fähus och uthus. Sidan listar innehavarna från 1735 och berättar om hur hembygdsföreningen tog över stugan.",
+  "topics": [
+    "soldattorp",
+    "ytterjeppo",
+    "torp",
+    "hembygd"
+  ],
+  "people": [
+    {
+      "name": "Bertel Tammelin",
+      "alternateNames": [],
+      "roles": [
+        "soldat"
+      ],
+      "description": "Första kända soldat på torpet, 1735."
+    },
+    {
+      "name": "Gustav Andersson Bärs",
+      "alternateNames": [],
+      "birthYear": 1858,
+      "deathYear": 1947,
+      "roles": [
+        "torpare"
+      ],
+      "description": "En av de sista torparna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Soldattorp 130 Dalabacka",
+      "kind": "building",
+      "alternateNames": [
+        "Dalabacka"
+      ],
+      "description": "Soldattorp i Ytterjeppo."
+    },
+    {
+      "name": "Lövasvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Lövasbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "De sista torparna flyttar in",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "1900"
+      },
+      "description": "Torparna Gustav och Sanna Bärs flyttar in.",
+      "people": [
+        "Gustav Andersson Bärs"
+      ],
+      "places": [
+        "Soldattorp 130 Dalabacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "162e71b613217cfb7bcc059e854620a193b67d92ad38b1a8e35fdf406c8bd16e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

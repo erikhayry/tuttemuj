@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/RS/RS_A/rsah059f.htm",
+  "title": "Lövhyddan på Sollefteågatan 3",
+  "summary": "Affärs- och bostadshuset Lövhyddan, uppfört 1960, där butiker som Björks klädaffär och Haglunds livsmedel har funnits. Sidan följer huset fram till Jbb:s kontor.",
+  "topics": [
+    "lövhyddan",
+    "sollefteågatan",
+    "affärer",
+    "historia"
+  ],
+  "people": [
+    {
+      "name": "Mauritz Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Uppförde affärs- och bostadshuset 1960."
+    },
+    {
+      "name": "Regina Haglund",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Öppnade sin livsmedelsaffär 1958."
+    },
+    {
+      "name": "Pia Nyman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Öppnade klädaffären Garderoben 2007."
+    }
+  ],
+  "places": [
+    {
+      "name": "Lövhyddan",
+      "kind": "building",
+      "alternateNames": [
+        "Sollefteågatan 3"
+      ],
+      "address": "Sollefteågatan 3",
+      "geo": {
+        "lat": 63.5220274,
+        "lng": 22.5268653,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 3",
+      "geo": {
+        "lat": 63.52271229999999,
+        "lng": 22.5290719,
+        "match": "address",
+        "gazetteerName": "bankgatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rajåkern",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Lövhyddan uppförs",
+      "date": {
+        "year": 1960,
+        "circa": false,
+        "text": "1960"
+      },
+      "description": "Mauritz Nylund uppför affärs- och bostadshuset.",
+      "people": [
+        "Mauritz Nylund"
+      ],
+      "places": [
+        "Lövhyddan"
+      ]
+    },
+    {
+      "title": "Garderoben öppnar",
+      "date": {
+        "year": 2007,
+        "month": 9,
+        "day": 17,
+        "circa": false,
+        "text": "17 september 2007"
+      },
+      "description": "Pia Nyman öppnar klädaffären Garderoben.",
+      "people": [
+        "Pia Nyman"
+      ],
+      "places": [
+        "Lövhyddan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d9ffa5c0ea93ead6626e24629c1b265b7df51bb1f3f20f74b97a2220f4ba983b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

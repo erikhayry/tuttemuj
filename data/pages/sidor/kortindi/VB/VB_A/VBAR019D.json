@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_A/VBAR019D.HTM",
+  "title": "Älvstranden norr om kyrkan",
+  "summary": "Älvstranden norr om kyrkan, med slutet av Apoteksbacken till vänster och två bastur på stranden.",
+  "topics": [
+    "älvstranden",
+    "apoteksbacken",
+    "bastur"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Apoteksbacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Bastun vid stranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "4ff174072ca4285b236f6466f75073f99a9ab9efdb2d749acdb0e9143d7a7e92",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

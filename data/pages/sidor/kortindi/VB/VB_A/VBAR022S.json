@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_A/VBAR022S.HTM",
+  "title": "Sommarvärdshuset på Brunnsholmarna före 1984",
+  "summary": "Före dammhöjningen 1984 kunde man fortfarande se holmarna, med stadskvarnen till höger. Kortet ingår i V. E. Björkboms serie 1900-5.",
+  "topics": [
+    "brunnsholmarna",
+    "dammhöjningen",
+    "stadskvarnen"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Värdshuset på Brunnsholmarna",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dammhöjningen",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Dammhöjningen täcker holmarna.",
+      "people": [],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "888a3e5e13101e07d1c0e0a4c5f61009713ffe010ff84fd7e599ae898c32c2ec",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

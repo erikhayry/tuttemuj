@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_C/VBCE004S.HTM",
+  "title": "Rådhusboulevarden och Grundfeldtska huset",
+  "summary": "Rådhusboulevarden och Grundfeldtska huset i en sömnig småstadsidyll där ingen människa syns. Sidan berättar om asfalteringen av stadens gator i början av 1970-talet.",
+  "topics": [
+    "rådhusboulevarden",
+    "grundfeldtska huset",
+    "asfalt",
+    "stadsbild"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Grundfeldtska huset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gref Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlers museum",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3aae451f666052c4d94bfd565b3ceeacffd101a35c271f1effb3a4a2942c2094",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

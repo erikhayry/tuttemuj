@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/hogstadietrivs25.html",
+  "title": "Högstadiet rivs",
+  "summary": "Högstadiet i Nykarleby, som togs i bruk hösten 1978, revs från midsommar 2025. Sidan dokumenterar rivningen dag för dag med personalens minnen från skolan.",
+  "topics": [
+    "högstadiet",
+    "rivning",
+    "skolbygge",
+    "zachariasskolan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Högstadiet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Residenshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Zachariasskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Erik Bergmans gata",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Högstadiets stomme rivs",
+      "date": {
+        "year": 2025,
+        "circa": true,
+        "text": "kring midsommar 2025"
+      },
+      "description": "Rivningen av högstadiets stomme inleds.",
+      "people": [],
+      "places": [
+        "Högstadiet"
+      ]
+    },
+    {
+      "title": "Högstadiet tas i bruk",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "hösten 1978"
+      },
+      "description": "Skolan tas i bruk.",
+      "people": [],
+      "places": [
+        "Högstadiet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a88e583e363bab71c531c36df273342c53be8a5f2cece71f7b49b10188442ad9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

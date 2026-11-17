@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_A/VBAJ008S.HTM",
+  "title": "Monumentet vid Juthas, 1903",
+  "summary": "Minnesmärket vid Juthas uppfördes 1885 till minne av slaget vid Juthas 1808. Kortet är från 1903 och skickades mellan Alajärvi och Vasa.",
+  "topics": [
+    "monumentet vid juthas",
+    "slaget vid juthas",
+    "1903"
+  ],
+  "people": [
+    {
+      "name": "J. L. Runeberg",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skildrade von Döbelns insatser i Fänrik Ståls sägner."
+    },
+    {
+      "name": "Carl von Döbeln",
+      "alternateNames": [],
+      "roles": [
+        "general"
+      ],
+      "description": "Hans insatser i slaget vid Juthas skildrades av Runeberg."
+    }
+  ],
+  "places": [
+    {
+      "name": "Monumentet vid Juthas",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnesmärket uppförs",
+      "date": {
+        "year": 1885,
+        "circa": false,
+        "text": "1885"
+      },
+      "description": "Minnesmärket vid Juthas uppförs.",
+      "people": [],
+      "places": [
+        "Monumentet vid Juthas"
+      ]
+    },
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "13 september 1808"
+      },
+      "description": "Slaget vid Juthas utkämpas.",
+      "people": [
+        "Carl von Döbeln"
+      ],
+      "places": [
+        "Monumentet vid Juthas"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c2977c651e1af2bb05da9ded379565c2875837c3a1e196901aa11f354d3cecae",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

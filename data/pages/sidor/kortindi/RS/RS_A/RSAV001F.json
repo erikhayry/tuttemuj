@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/RS/RS_A/RSAV001F.HTM",
+  "title": "Flora i gamla Floraparken",
+  "summary": "Flora i gamla Floraparken, som sluttade mot älven och hade en helt annan karaktär än den nuvarande. Parken förstördes av dammhöjningen 1984.",
+  "topics": [
+    "floraparken",
+    "dammhöjningen",
+    "park"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Floraparken förstörs",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Parken förstörs på grund av dammhöjningen.",
+      "people": [],
+      "places": [
+        "Floraparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b3cda5c3e06552bcfac7637a0a5eed5cfafa5e0bc189c97d0c5567ec9cf398c7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

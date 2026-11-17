@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/marklund_102.html",
+  "title": "Marklunds 1950-talet",
+  "summary": "Gården på tomt 102, den sista tomten öster om älven på stadsplanen, fotad från norr. Gården revs och den nya byggdes sommaren 1953.",
+  "topics": [
+    "tomt 102",
+    "gårdshistoria",
+    "marklund"
+  ],
+  "people": [
+    {
+      "name": "Johan Flén den äldre",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Inropade tomten på auktion 1859."
+    },
+    {
+      "name": "Alfons Marklund",
+      "alternateNames": [],
+      "deathYear": 1972,
+      "roles": [],
+      "description": "Ägde gården; dog 1972."
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottatan 15",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Grev Tottatan 15"
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Källbackgatan 3",
+      "geo": {
+        "lat": 63.52522889999999,
+        "lng": 22.5354757,
+        "match": "address",
+        "gazetteerName": "källbackgatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sunds gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomten inropas på auktion",
+      "date": {
+        "year": 1859,
+        "month": 3,
+        "day": 26,
+        "circa": false,
+        "text": "26 mars 1859"
+      },
+      "description": "Johan Flén den äldre inropar tomten för 30 rubel.",
+      "people": [
+        "Johan Flén den äldre"
+      ],
+      "places": [
+        "Grev Tottatan 15"
+      ]
+    },
+    {
+      "title": "Gården byggs om",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "sommaren 1953"
+      },
+      "description": "Den gamla gården revs och den nya byggdes.",
+      "people": [
+        "Alfons Marklund"
+      ],
+      "places": [
+        "Grev Tottatan 15"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5961cb4681edae32d68e15141f3b93b425532e0421cbf9af8be8341a8c1dd4d9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}

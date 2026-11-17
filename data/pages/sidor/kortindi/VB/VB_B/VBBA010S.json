@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_B/VBBA010S.HTM",
+  "title": "Kotaskär",
+  "summary": "Ett semesterkort från Kotaskär 1904, som sidan beskriver som en plats där man kunde tillbringa en trevlig semester.",
+  "topics": [
+    "kotaskär",
+    "semester",
+    "1904"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kotaskär",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kortet daterat",
+      "date": {
+        "year": 1904,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "text": "20 maj 1904"
+      },
+      "description": "Kortet är daterat.",
+      "people": [],
+      "places": [
+        "Kotaskär"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "69da27b940aef1176d2f4282480b771658c8690ff70cba1775c48a2b8201cad7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:25:45.510Z"
+}
