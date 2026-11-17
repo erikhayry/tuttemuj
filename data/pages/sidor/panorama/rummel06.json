@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/rummel06.html",
+  "title": "Panorama från Rummelbacken 2 juni 2006",
+  "summary": "En panorama från Rummelbacken, taget 2006. Sidan beskriver husen runt backen och vem som byggde dem.",
+  "topics": [
+    "panorama",
+    "rummelbacken",
+    "gårdar",
+    "2006"
+  ],
+  "people": [
+    {
+      "name": "Casén",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Byggde den gula gården vid Bangatan–Karleborgsgatan."
+    },
+    {
+      "name": "Matts Mattsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde den andra stora hörngården."
+    },
+    {
+      "name": "Henrik Häggblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans gård nämns i bilden."
+    },
+    {
+      "name": "Bjarne Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde en ny gård."
+    },
+    {
+      "name": "Erik Reipsar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans kåta stod på andra sidan vägen."
+    }
+  ],
+  "places": [
+    {
+      "name": "rummelbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsar Karleborgsgatan.",
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsar Bangatan.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2006,
+        "month": 6,
+        "day": 2,
+        "circa": false,
+        "text": "2 juni 2006"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eb2379a96d10da89f61262b62f9543f6c9bebe0f2470a67c20e33e5eafae5e1f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

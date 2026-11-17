@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/nkbys_jt.htm",
+  "title": "Den rätta stjärnan",
+  "summary": "Julstjärnorna i Jakobstad och Nykarleby skiljer sig åt i form och färg. Sidan berättar att Topelius var den första som dokumenterade Nykarlebystjärnan.",
+  "topics": [
+    "nykarlebystjärnan",
+    "jakobstadsstjärnan",
+    "jul",
+    "topelius"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ],
+      "description": "Den första som dokumenterade stjärnan i Nykarleby, som han kallade Betlehemsstjärnan."
+    },
+    {
+      "name": "Kristina Lundström-Björk",
+      "alternateNames": [],
+      "roles": [
+        "amanuens"
+      ],
+      "description": "Verksam vid Jakobstads museum. Kommenterade stjärnornas utseende."
+    },
+    {
+      "name": "Johan Ludvig Birck",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ],
+      "description": "Från Nykarleby. Läraren vid Lagmans skola i Jakobstad."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "En modell av Nykarlebystjärnan hänger här.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0a0381475bbabce87fc10bf463fdee671c70427d6099ddfbb91cd2cecab1c391",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

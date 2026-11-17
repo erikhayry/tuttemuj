@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/kyrsol05.htm",
+  "title": "Panorama från Kyrkogatan–Sollefteågatan 17 juli 2005",
+  "summary": "En panorama från korsningen Kyrkogatan–Sollefteågatan, taget 2005. Sidan visar kyrkan, klockstapeln och Joel Rundts byst.",
+  "topics": [
+    "panorama",
+    "kyrkogatan",
+    "sollefteågatan",
+    "kyrkan",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans byst finns i bilden."
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ],
+      "description": "Hade bokhandel i nuvarande Sandqvistska gården."
+    }
+  ],
+  "places": [
+    {
+      "name": "kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "sankta birgitta kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Från 1708."
+    },
+    {
+      "name": "klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Från 1702."
+    },
+    {
+      "name": "sandqvistska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Josef Herlers bokhandel fanns här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 17,
+        "circa": false,
+        "text": "17 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3c120914802e60c048734e76e92f59b4a2d6eb0ebc28773a60caf5fec8cf850c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

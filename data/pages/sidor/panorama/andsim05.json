@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/andsim05.htm",
+  "title": "Panorama från simstranden vid Andrasjön 20 juli 2005",
+  "summary": "En panorama från simstranden vid Andrasjön, taget 2005. Tullmagasinet, som varit sommarcafé sedan 1998, syns i bilden.",
+  "topics": [
+    "panorama",
+    "andrasjön",
+    "tullmagasinet",
+    "2005"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Simstranden ligger här.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "tullmagasinet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Sommarcafé sedan 1998."
+    },
+    {
+      "name": "markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Syns bortom vågbrytaren.",
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 20,
+        "circa": false,
+        "text": "20 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e5302addbaf81b372bd65efc350dc20f7ff33460bf2e2364b310dccac6c01626",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

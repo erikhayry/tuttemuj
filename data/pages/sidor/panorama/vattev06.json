@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/vattev06.htm",
+  "title": "Källbacken från vattentornet 21 februari 2006",
+  "summary": "En vinterpanorama över Källbacken, taget från vattentornet 2006 vid ett öppet hus. Sidan länkar till Gösta Fagerholms text om familjerna i Källbacken på 1930-talet.",
+  "topics": [
+    "panorama",
+    "källbacken",
+    "vattentornet",
+    "2006"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tog fotona."
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit om familjerna i Källbacken på 1930-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området som fotografiet visar.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "vattentornet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fotona är tagna härifrån."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2006,
+        "month": 2,
+        "day": 21,
+        "circa": false,
+        "text": "21 februari 2006"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "80822b635b62ea76113d02be4f1241fdb80f9415e62d010d981b835493154f82",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/sigill.htm",
+  "title": "Nykarleby stads sigill",
+  "summary": "Stadens sigill har funnits i flera versioner. Det första bär årtalet 1622, och Erik Birck förklarar varför det inte är 1620.",
+  "topics": [
+    "sigill",
+    "stadsvapnet",
+    "1620",
+    "1622"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev boken Nykarleby stad 1620—1970."
+    },
+    {
+      "name": "Karin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hustru till Erik Birck. Hon tydde ett årtal på sigillet."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll fyra av sigillen."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Stadens första sigill",
+      "date": {
+        "year": 1622,
+        "circa": false,
+        "text": "1622"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sigill från 1859",
+      "date": {
+        "year": 1859,
+        "circa": false,
+        "text": "1859"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sigill från 1867",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "1867"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Boken Nykarleby stad 1620—1970 av Erik Birck",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "1970"
+      },
+      "people": [
+        "Erik Birck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9ffe2c96925614430d70e1253d11615e0bff2f709ac33bbfe8c1fa1db4cc1c07",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

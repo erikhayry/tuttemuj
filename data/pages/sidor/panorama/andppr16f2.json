@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/andppr16f2.html",
+  "title": "Halvpanorama från parkeringen vid Andrasjön 6 juli 2016",
+  "summary": "En mindre version av halvpanoramat från parkeringen vid Andrasjön, taget 2016.",
+  "topics": [
+    "panorama",
+    "andrasjön",
+    "2016"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Fotografiet är taget vid sjön.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2016,
+        "month": 7,
+        "day": 6,
+        "circa": false,
+        "text": "6 juli 2016"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e768a6570a85ad8cf33572ffd38cceddfb1aa7a94247f2d09e122f94a3f21912",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

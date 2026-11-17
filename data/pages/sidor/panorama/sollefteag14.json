@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/sollefteag14.html",
+  "title": "Panorama från Sollefteågatan mot torget 11 juli 2014",
+  "summary": "En 180-gradersvy från Sollefteågatan mot torget, taget 2014. Sidan säger att Normen är mögelskadad och att eleverna som fick sommarlov 2014 förmodligen var de sista där.",
+  "topics": [
+    "panorama",
+    "sollefteågatan",
+    "torget",
+    "normen",
+    "2014"
+  ],
+  "people": [
+    {
+      "name": "Sten-Olof Backlund",
+      "alternateNames": [],
+      "roles": [
+        "trädgårdsmästare"
+      ],
+      "description": "Tredje generationen. Säljer grönsaker på torget. Kallas Uffe."
+    }
+  ],
+  "places": [
+    {
+      "name": "sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "torget",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Mot torget."
+    },
+    {
+      "name": "normen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mögelskadad. En ny skola skulle byggas vid Skogsparkens skola.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2014,
+        "month": 7,
+        "day": 11,
+        "circa": false,
+        "text": "11 juli 2014"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6cbdea634937c0f311773e9d22422e49b4e3cbad82a16c736649c1c540ea04d3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

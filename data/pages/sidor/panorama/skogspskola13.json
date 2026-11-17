@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/skogspskola13.html",
+  "title": "Panorama från Skogsparkens skola 15 juli 2013",
+  "summary": "En panorama från Skogsparkens skola, taget 2013. Sidan beskriver den ursprungliga skolan från 1974 och tennisbanan vid f.d. seminariets sportplan.",
+  "topics": [
+    "panorama",
+    "skogsparkens skola",
+    "tennis",
+    "2013"
+  ],
+  "people": [
+    {
+      "name": "Karl Nyberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans röda tvåvåningsgård syns i bakgrunden."
+    }
+  ],
+  "places": [
+    {
+      "name": "skogsparkens skola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här. Den ursprungliga skolan är från 1974."
+    },
+    {
+      "name": "seminariets sportplan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Nuvarande parkeringsplats. Tennisbanan byggdes här i början av 1980-talet."
+    },
+    {
+      "name": "stadsträdgården",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Har ett sista växthus som syns i bilden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Den ursprungliga skolan byggs",
+      "date": {
+        "year": 1974,
+        "circa": false,
+        "text": "1974"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadens första tennisbana",
+      "date": {
+        "year": 1980,
+        "circa": false,
+        "text": "början på 1980-talet"
+      },
+      "people": [],
+      "places": [
+        "seminariets sportplan"
+      ]
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2013,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "text": "15 juli 2013"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9c52b32de6e304c2827c86682e8ea362767456f222bbc573ab425867971fb6a6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

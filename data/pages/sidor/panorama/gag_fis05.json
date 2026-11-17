@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/gag_fis05.html",
+  "title": "Panorama från Gustav Adolfsgatan–Fiskaregränd 14 juli 2005",
+  "summary": "En panorama från korsningen Gustav Adolfsgatan–Fiskaregränd, taget 2005. Sidan innehåller minnen av en kvarterskiosk.",
+  "topics": [
+    "panorama",
+    "gustav adolfsgatan",
+    "fiskaregränd",
+    "2005",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sålde varor i en kvarterskiosk i uthuset, enligt en läsare."
+    },
+    {
+      "name": "Aina Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde huset tillsammans med Alfred Sund 1945."
+    },
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit ett minne från kvarterskiosken."
+    }
+  ],
+  "places": [
+    {
+      "name": "gustav adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "fiskaregränd",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.52688,
+        "lng": 22.5351826,
+        "match": "name",
+        "gazetteerName": "fiskaregränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Huset färdigställs",
+      "date": {
+        "year": 1945,
+        "circa": false,
+        "text": "1945"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "text": "14 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8db83ac7ff6ca3ca73b3efbee046c0e2ac380ca73c865c24884c167637f23e1a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

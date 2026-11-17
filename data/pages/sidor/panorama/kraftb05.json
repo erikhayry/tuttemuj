@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/kraftb05.htm",
+  "title": "Panorama från kraftverksbron 6 juli 2005",
+  "summary": "En panorama från kraftverksbron, taget 2005. Sidan berättar om älven och om Storbron, som invigdes 1817.",
+  "topics": [
+    "panorama",
+    "kraftverket",
+    "storbron",
+    "älven",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har berättat om sina minnen från älven."
+    }
+  ],
+  "places": [
+    {
+      "name": "kraftverksbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Invigdes 1817."
+    },
+    {
+      "name": "kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Renoverades 1992.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Storbron invigs",
+      "date": {
+        "year": 1817,
+        "circa": false,
+        "text": "1817"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkrenoveringen",
+      "date": {
+        "year": 1992,
+        "circa": false,
+        "text": "1992"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 6,
+        "circa": false,
+        "text": "6 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5e17eb109d050132d2da594ab00ef777612ba63e04aca2614384b2efc54970d1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

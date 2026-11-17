@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/ny-carld.htm",
+  "title": "Ny-Carleby detalj 1845",
+  "summary": "En detalj ur en litografi från 1845 som visar Nykarlebys gårdar och byggnader vid älvstranden.",
+  "topics": [
+    "litografi",
+    "1845",
+    "gårdar"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Adolf Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Gård i bilden."
+    },
+    {
+      "name": "Mauritz Christfrid Nordqvist",
+      "alternateNames": [],
+      "roles": [
+        "kronolänsman"
+      ],
+      "description": "Gård i bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i bilden."
+    },
+    {
+      "name": "stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid älvstranden i bilden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Litografin 'Ny-Carleby' 1845",
+      "date": {
+        "year": 1845,
+        "circa": false,
+        "text": "1845"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e6f1cc2355ef5177c91abd55890d58d6897c1d3952a2808234306e76ec63a5f4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

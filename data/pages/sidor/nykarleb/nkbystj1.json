@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/nkbystj1.htm",
+  "title": "Bild 1: stjärna vid Kuddnäs",
+  "summary": "En julstjärna hissad i flaggstången vid Topelius barndomshem Kuddnäs, på ett julkort från 1998.",
+  "topics": [
+    "nykarlebystjärnan",
+    "kuddnäs",
+    "topelius",
+    "jul"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kuddnäs var hans barndomshem."
+    },
+    {
+      "name": "Sven-Erik Sandberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograf."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topelius barndomshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Julkort med stjärnan vid Kuddnäs",
+      "date": {
+        "year": 1998,
+        "circa": false,
+        "text": "1998"
+      },
+      "description": "Utgavs av Prevex med anledning av att hundra år gått sedan Topelius död.",
+      "people": [],
+      "places": [
+        "kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8aa27cdc4f312160840c10163a25c7864c0f14a2ed22b5d08cff96691185878a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

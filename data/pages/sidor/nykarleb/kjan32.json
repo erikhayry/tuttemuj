@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/kjan32.htm",
+  "title": "Annonser för Karl Granberg, Aina Rönning och Serveringen",
+  "summary": "Annonser i programmet för sång- och musikfesten 1914 för Karl Granbergs konditori och café, Aina Rönnings pappers- och diversehandel samt en servering i Axel Herlers gård.",
+  "topics": [
+    "annonser",
+    "1914",
+    "konditori",
+    "sångfest"
+  ],
+  "people": [
+    {
+      "name": "Karl Granberg",
+      "alternateNames": [],
+      "roles": [
+        "konditor"
+      ],
+      "description": "Drev konditori och café i korsningen Gustav Adolfsgatan–Sollefteågatan."
+    },
+    {
+      "name": "Aina Rönning",
+      "alternateNames": [],
+      "roles": [
+        "handlare"
+      ],
+      "description": "Drev pappers- och diversehandel och gav ut en vykortsserie."
+    },
+    {
+      "name": "Axel Herler",
+      "alternateNames": [],
+      "roles": [
+        "karamellfabrikör"
+      ],
+      "description": "Drev en tid Nykarleby Karamellfabrik. Hans gård hade serveringen."
+    }
+  ],
+  "places": [
+    {
+      "name": "axel herlers gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gård med serveringen, ingång från Borgaregatan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Sång- och musikfesten 1914",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "1914"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "de636bebbb68467540bd3fdc7958b90c1a470b86d99795c4bd0b924c5a739107",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

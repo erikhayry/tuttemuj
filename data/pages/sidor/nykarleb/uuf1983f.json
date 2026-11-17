@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/uuf1983f.htm",
+  "title": "Stadsvy från vattentornet",
+  "summary": "En vy över staden från vattentornet, mot sydväst, mitten av 1970-talet. Flera gårdar vid Gustav Adolfsgatan har sedan rivits.",
+  "topics": [
+    "stadsvy",
+    "vattentornet",
+    "gustav adolfsgatan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "vattentornet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fotografiet är taget från här."
+    },
+    {
+      "name": "borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Går från det nedre vänstra hörnet i bilden.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "gustav adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsar Borgaregatan.",
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsar Borgaregatan.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 1975,
+        "circa": true,
+        "text": "mitten på sjuttiotalet"
+      },
+      "people": [],
+      "places": [
+        "vattentornet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e3741eaa2554b94cd99e1df926f5d1618ea9277c9d7cfe93bb80301bd9a6e020",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

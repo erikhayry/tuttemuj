@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/voyages.htm",
+  "title": "Ville de Ny-Carleby (Finlande)",
+  "summary": "En litografi från 1839 av Nykarleby, tecknad av Lauvergne i Gaimards expedition. Sidan citerar en fransk uppslagsbok om att staden grundades av Gustav Adolf och fick privilegier 1620.",
+  "topics": [
+    "litografi",
+    "1839",
+    "gaimard",
+    "privilegier 1620",
+    "stadsvapnet"
+  ],
+  "people": [
+    {
+      "name": "Lauvergne",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Tecknade vyn 1839."
+    },
+    {
+      "name": "Tirpenne",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Litograferade teckningen i Paris."
+    },
+    {
+      "name": "Gustav Adolf",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Enligt citatet grundade han staden."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Omnämns i sammanhanget."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Teckningen av Lauvergne",
+      "date": {
+        "year": 1839,
+        "circa": false,
+        "text": "1839"
+      },
+      "people": [
+        "Lauvergne"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "480e07a2e84d977d3b702789b322be16da5166bba7d7844757f2d9853877f43f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

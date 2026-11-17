@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/tragedier.htm",
+  "title": "Tragedier i stadens historia",
+  "summary": "En samling berättelser om olyckor och företeelser i stadens historia, från stadsbranden 1858 till bränder och drunkningar. Texterna är av Erik Birck om inget annat anges.",
+  "topics": [
+    "tragedier",
+    "stadsbranden",
+    "bankskandalen",
+    "fånglägret",
+    "kyrkbranden",
+    "olyckor"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev de flesta texterna."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit sammanfattningen av stadsbranden 1858."
+    },
+    {
+      "name": "Lars-Otto Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Brott mot annans liv i Syd-Österbotten under 1800-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "torsö",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Plats för en blodig drabbning under spritsmugglingstiden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Bankskandalen i Nykarleby Aktiebank",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "1914"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fånglägret",
+      "date": {
+        "year": 1918,
+        "circa": false,
+        "text": "1918"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Dammhaveriet",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "våren 1926"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkbranden",
+      "date": {
+        "year": 1929,
+        "month": 1,
+        "circa": false,
+        "text": "januari 1929"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Blodig drabbning vid Torsö",
+      "date": {
+        "year": 1930,
+        "circa": false,
+        "text": "1930"
+      },
+      "description": "Under spritsmugglingstiden.",
+      "people": [],
+      "places": [
+        "torsö"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7bd6c554efe420b3e426a060e49541adb478e284bd4d2cf4848196185097edfb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/nalorp05.htm",
+  "title": "Panorama från båthusplanen vid Nålörn 17 juli 2005",
+  "summary": "En panorama från båthusplanen vid Nålörn, taget 2005. Sidan berättar om flottningen av timmer nedför älven.",
+  "topics": [
+    "panorama",
+    "nålörn",
+    "flottning",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit texten Nålören."
+    }
+  ],
+  "places": [
+    {
+      "name": "nålörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "åminnevägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Infarten till båthusplanen.",
+      "geo": {
+        "lat": 63.5580228,
+        "lng": 22.5428763,
+        "match": "name",
+        "gazetteerName": "åminnevägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 17,
+        "circa": false,
+        "text": "17 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d162b72d33b9f14464adb5b5d26edbcadef6d9a3a878ecddf02ff57e263a1e1f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

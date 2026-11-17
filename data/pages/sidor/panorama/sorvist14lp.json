@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/sorvist14lp.html",
+  "title": "Panorama från Sorvist 6 mars 2014",
+  "summary": "En panorama från Sorvist, taget 2014. Lars Pensar tog fotot och Jorma Metso gjorde panoramat.",
+  "topics": [
+    "panorama",
+    "sorvist",
+    "2014"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograf."
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde panoramat."
+    }
+  ],
+  "places": [
+    {
+      "name": "sorvist",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.49449620000001,
+        "lng": 22.6505617,
+        "match": "name",
+        "gazetteerName": "sorvist",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2014,
+        "month": 3,
+        "day": 6,
+        "circa": false,
+        "text": "6 mars 2014"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1dbef3b3a1ce0b4ef6ef1d2488caf47faacf958a856a3d4714e5b66abce5d85b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

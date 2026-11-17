@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/kyrkint10a.html",
+  "title": "Panorama från kyrkan 10 oktober 2010",
+  "summary": "En panorama inifrån kyrkan, taget 2010 av Mats Sandström och Leif Söderlund. Sidan visar takmålningarna, orglarna och glasmålningarna.",
+  "topics": [
+    "panorama",
+    "kyrkan",
+    "takmålningar",
+    "orgel",
+    "glasmålningar",
+    "2010"
+  ],
+  "people": [
+    {
+      "name": "Mats Sandström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tog panoramat tillsammans med Leif Söderlund."
+    },
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tog panoramat tillsammans med Mats Sandström."
+    },
+    {
+      "name": "Lennart Segerstråle",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde glasmålningarna i kyrkan."
+    }
+  ],
+  "places": [
+    {
+      "name": "kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fotografiet är taget inifrån kyrkan.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2010,
+        "month": 10,
+        "day": 10,
+        "circa": false,
+        "text": "10 oktober 2010"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c642ae27f14c5484a92bb92110e558fb1cd0903c0dbc62eacf3f1b542f3868e4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

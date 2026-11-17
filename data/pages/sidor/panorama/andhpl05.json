@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/andhpl05.htm",
+  "title": "Panorama från packhusplanen vid Andrasjön 10 juli 2005",
+  "summary": "En panorama från packhusplanen vid Andrasjön, taget 2005. Sidan berättar om Café Tullmagasinet och vad som hänt på planen.",
+  "topics": [
+    "panorama",
+    "andrasjön",
+    "tullmagasinet",
+    "2005"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Sjön vid packhusplanen.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "tullmagasinet",
+      "kind": "building",
+      "alternateNames": [
+        "café tullmagasinet"
+      ],
+      "description": "Öppet sommartid sedan 2001."
+    },
+    {
+      "name": "packhusplanen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Planen vid Andrasjön."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 10,
+        "circa": false,
+        "text": "10 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c4e3ecbabb90625fc16c8f747ce4470d97fb4dd6a3fe625e0ae4e2a745ec5f4f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

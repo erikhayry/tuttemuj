@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/andppr16.html",
+  "title": "Halvpanorama från packhusplanen vid Andrasjön 6 juli 2016",
+  "summary": "En halvpanorama från packhusplanen vid Andrasjön, taget 2016. Sommaren 2016 var regnig i början av juli.",
+  "topics": [
+    "panorama",
+    "andrasjön",
+    "2016"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Fotografiet är taget vid sjön.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "packhusplanen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Planen vid Andrasjön."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2016,
+        "month": 7,
+        "day": 6,
+        "circa": false,
+        "text": "6 juli 2016"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "81a312663d9c450316599e8c3747b3df084d165f3e6ab83667647d7b13769ee0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

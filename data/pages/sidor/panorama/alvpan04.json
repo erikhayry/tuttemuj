@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/alvpan04.htm",
+  "title": "Panorama från Storbron 7 juli 2004",
+  "summary": "En nattpanorama från Storbron, taget 2004. Sidan visar kyrkan, rådhuset, klockstapeln och en bronsbyst av Joel Rundt.",
+  "topics": [
+    "panorama",
+    "storbron",
+    "kyrkan",
+    "rådhuset",
+    "joel rundt"
+  ],
+  "people": [
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bronsbysten i bilden är av honom."
+    },
+    {
+      "name": "Runeberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Passerade bron en gång."
+    }
+  ],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kyrktrappan byggdes 1867.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns på ett vykort från omkring 1905."
+    },
+    {
+      "name": "klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i bilden."
+    },
+    {
+      "name": "döbelns gård",
+      "kind": "building",
+      "alternateNames": [
+        "södra tullhuset"
+      ],
+      "description": "Syns i bilden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2004,
+        "month": 7,
+        "day": 7,
+        "circa": false,
+        "text": "7 juli 2004"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "01b888d8c341560fd2f81122958f8ec5b703c710c7f48fc5fe27f34a20482f32",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

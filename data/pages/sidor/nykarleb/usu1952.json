@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/usu1952.htm",
+  "title": "1937 är staden fortfarande en idyll",
+  "summary": "En bildtext om hur datering av en bild från torget ändrats flera gånger. Bilden visar torget och kvarteren mot sydväst och är tagen sommaren 1937.",
+  "topics": [
+    "1937",
+    "torget",
+    "fotografi",
+    "hanséns café",
+    "mejeriet"
+  ],
+  "people": [
+    {
+      "name": "John Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Minnesskriften över honom nämner bilden."
+    },
+    {
+      "name": "Oscar Nikula",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesskriften över John Nylund."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Bilden visar torget och kvarteren mot sydväst."
+    },
+    {
+      "name": "hanséns café",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Grundarbetena för caféet pågick när bilden togs."
+    }
+  ],
+  "events": [
+    {
+      "title": "Bilden tas",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "sommaren 1937"
+      },
+      "people": [],
+      "places": [
+        "torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "33754d5516ff3216bc797dd07e30e71f006965c1e5f2fb6b313aaeae322b06eb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

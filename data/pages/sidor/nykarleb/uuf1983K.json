@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/uuf1983K.htm",
+  "title": "Ämbetshuset",
+  "summary": "Ämbetshuset byggdes efter ett beslut 1970 och har sedan bytt namn till Stadshuset. Bilden visar huset kort efter att det blev klart.",
+  "topics": [
+    "ämbetshuset",
+    "stadshuset",
+    "arkitektur",
+    "1970"
+  ],
+  "people": [
+    {
+      "name": "Hannu Kiviranta",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ],
+      "description": "Arkitekt för huset."
+    }
+  ],
+  "places": [
+    {
+      "name": "ämbetshuset",
+      "kind": "building",
+      "alternateNames": [
+        "stadshuset"
+      ],
+      "description": "Senare namn: Stadshuset."
+    }
+  ],
+  "events": [
+    {
+      "title": "Beslut om att bygga ämbetshuset",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 23,
+        "circa": false,
+        "text": "söndagen den 23 augusti 1970 kl. 11.30"
+      },
+      "description": "Togs vid stadsfullmäktiges jubileumsplenum.",
+      "people": [],
+      "places": [
+        "ämbetshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6aff458fef00284dd74b4fa97b2239a723ed01b2e5155f64cca431eb736e00ab",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

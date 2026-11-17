@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/stadst05.htm",
+  "title": "Panorama från Stadsträdgården 18 juli 2005",
+  "summary": "En panorama från Stadsträdgården, taget 2005. Sidan beskriver högstadieskolan från 1978, sophuset som brann 2006–2007 och tennisbanan.",
+  "topics": [
+    "panorama",
+    "stadsträdgården",
+    "högstadiet",
+    "2005"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "stadsträdgården",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här. Infarten från Seminariegatan."
+    },
+    {
+      "name": "seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Infarten till Stadsträdgården.",
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "högstadieskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stod färdig till höstterminen 1978."
+    }
+  ],
+  "events": [
+    {
+      "title": "Högstadieskolan färdig",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "höstterminen 1978"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 18,
+        "circa": false,
+        "text": "18 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c86e3fc7e0f8d8ff4244482212b2864cc408cc9b63c2987c8cc673b2deeeb22b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

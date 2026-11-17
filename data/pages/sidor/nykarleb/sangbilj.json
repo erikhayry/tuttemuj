@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/sangbilj.htm",
+  "title": "Sångfestmärken",
+  "summary": "En lista över sångfester i Nykarleby och närliggande byar från 1914 och framåt, med platser och datum.",
+  "topics": [
+    "sångfest",
+    "sång- och musikfesten",
+    "1914",
+    "rummelbacken",
+    "kristliga folkhögskolan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "rummelbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Plats för sångfester 1919 och 1928."
+    },
+    {
+      "name": "kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Plats för sångfester 1923 och senare.",
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Plats för sångfesten 1953."
+    },
+    {
+      "name": "socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Plats för sångfesten 1933."
+    }
+  ],
+  "events": [
+    {
+      "title": "Sång- och musikfesten",
+      "date": {
+        "year": 1914,
+        "circa": false,
+        "text": "1914"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sångfest i Rummelbacken",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "8–9/6 1919"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sångfest vid Kristliga Folkhögskolan",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "7–8/7 1923"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "384a7e600acbd39f5a6eb93d1944110dace87febf2c24ac67c5e70eb76ff1d52",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

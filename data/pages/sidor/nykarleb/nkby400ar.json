@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/nkby400ar.html",
+  "title": "Nykarleby 400 år",
+  "summary": "Nykarleby firade 400 år som stad 2020. Sidan visar jubileumsprogrammet, logotypen och några händelser under jubileumsåret.",
+  "topics": [
+    "jubileum",
+    "400 år",
+    "2020",
+    "stadshuset"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll en artikel från Österbottens Tidning 19 maj 2019."
+    }
+  ],
+  "places": [
+    {
+      "name": "stadshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusespl. 7",
+      "description": "Stadshusets kafeteria var plats för ett öppet idéforum inför jubileumsåret."
+    }
+  ],
+  "events": [
+    {
+      "title": "Föreläsning om vardagslivet i staden",
+      "date": {
+        "year": 2020,
+        "month": 1,
+        "day": 30,
+        "circa": false,
+        "text": "30 januari 2020"
+      },
+      "description": "På stadsbiblioteket, om vardagslivet från grundandet 1620 till svenska tiden.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2d4f509ee0c01cb655c9d3ac01bc8d6ca1803ba080a4fc26d10c8c248e66ed93",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/kampenmotrond16.html",
+  "title": "Halvpanorama från Fabriksgatan och Kvarnvägen 11 juli 2016",
+  "summary": "En halvpanorama från Fabriksgatan och Kvarnvägen på Kampen, taget 2016. Sidan visar företag och byggnader i området.",
+  "topics": [
+    "panorama",
+    "kampen",
+    "företag",
+    "2016"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "fabriksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.5270731,
+        "lng": 22.5457636,
+        "match": "name",
+        "gazetteerName": "fabriksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "kvarnvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.5226926,
+        "lng": 22.5472926,
+        "match": "name",
+        "gazetteerName": "kvarnvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området med företagen."
+    },
+    {
+      "name": "nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ställverk vid Kvarnvägen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2016,
+        "month": 7,
+        "day": 11,
+        "circa": false,
+        "text": "11 juli 2016"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "552d71827cd1b9a2e74a67de5779166321a8b94fbb05abaeea676556c4252635",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

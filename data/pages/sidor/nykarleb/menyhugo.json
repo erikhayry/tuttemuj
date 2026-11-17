@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/menyhugo.htm",
+  "title": "Hugo Solvin fiskar och anrättar nejonögon",
+  "summary": "Fotografier av Hugo Solvin och familjen som fiskar och tillagar nejonögon vid Ragnörn. Bilderna är från 1970- och 80-talen.",
+  "topics": [
+    "nejonögon",
+    "fiske",
+    "ragnörn",
+    "familjen solvin"
+  ],
+  "people": [
+    {
+      "name": "Hugo Solvin",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ],
+      "description": "Fiskar nejonögon vid Ragnörn."
+    },
+    {
+      "name": "Ingeborg Solvin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Halstrar nejonögonen."
+    },
+    {
+      "name": "Kurt Solvin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade bilderna vid Ragnörn och hemma på Frill."
+    }
+  ],
+  "places": [
+    {
+      "name": "ragnörn",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fångstplats för nejonögon i älven. Här finns en grop som fungerar som sump."
+    },
+    {
+      "name": "frill",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Hemmet där fotona togs."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografierna tas",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "1970- och 80-talen"
+      },
+      "people": [
+        "Kurt Solvin"
+      ],
+      "places": [
+        "ragnörn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d5892b4238ae657ed286400797963db9f267a7708038e1410e5bf32ee27d666d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

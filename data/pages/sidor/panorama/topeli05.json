@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/topeli05.htm",
+  "title": "Panorama från Topeliusparken 8 juli 2005",
+  "summary": "En panorama från Topeliusparken, taget 2005. Sidan berättar om Topeliusbysten, som avtäcktes 1935, och om husen runt parken.",
+  "topics": [
+    "panorama",
+    "topeliusparken",
+    "topeliusbysten",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bysten i parken är till hans minne."
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "bagarmästare"
+      ],
+      "description": "Hans gård ligger vid parken."
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans minnessten ligger bakom buskaget."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusparken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "florahemmet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tidigare Lybeckska gården."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topeliusbysten avtäcks",
+      "date": {
+        "year": 1935,
+        "month": 9,
+        "day": 29,
+        "circa": false,
+        "text": "29 september 1935"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 8,
+        "circa": false,
+        "text": "8 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "74bc6b272852a20932540e5f8663a97ee7cc03828c9199e0643e5b82fd6a76bc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

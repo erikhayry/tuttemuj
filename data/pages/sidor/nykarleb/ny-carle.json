@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/ny-carle.htm",
+  "title": "Ny-Carleby i Finland framställdt i teckningar",
+  "summary": "En litografi från 1845 av Nykarleby, tecknad av Emelie Topelius, visar Storbron, kyrkan och stadskvarnen. Den är en av bilderna i verket Finland framställdt i teckningar.",
+  "topics": [
+    "litografi",
+    "1845",
+    "storbron",
+    "kyrkan",
+    "emelie topelius"
+  ],
+  "people": [
+    {
+      "name": "Emelie Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tecknade vyn."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kommenterade koloreringen 2003."
+    }
+  ],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns i bilden."
+    },
+    {
+      "name": "kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nykarleby kyrka, syns i bilden.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i bilden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Litografin Ny-Carleby 1845",
+      "date": {
+        "year": 1845,
+        "circa": false,
+        "text": "1845"
+      },
+      "people": [
+        "Emelie Topelius"
+      ],
+      "places": [
+        "storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4505870bba14e3c2c1007d8c70b96b978f98685e07c003d2c1ce9b945a1660b9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

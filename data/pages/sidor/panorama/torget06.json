@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/torget06.htm",
+  "title": "Panorama från torget 25 december 2006",
+  "summary": "En panorama från torget juldagen 2006. Sidan visar Petter August Lybecks gård, som varit bank sedan 1898.",
+  "topics": [
+    "panorama",
+    "torget",
+    "jul",
+    "bank",
+    "2006"
+  ],
+  "people": [
+    {
+      "name": "Petter August Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans gård från början av 1860-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Byggkranen vid blivande Bostads Ab Topeliusesplanaden 13.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården blir bank",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "1898"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2006,
+        "month": 12,
+        "day": 25,
+        "circa": false,
+        "text": "25 december 2006"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1351ade81c432eeb589c4c11f8857c5d87688d0d1b1b58e0787c2efac5220e6c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

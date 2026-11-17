@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/andrs50.htm",
+  "title": "Panorama från Andrasjön på 1950-talet",
+  "summary": "En panorama från Andrasjön i slutet av 1950-talet. Sidan berättar om villan på Långören och dess ägare från 1880-talet och framåt.",
+  "topics": [
+    "panorama",
+    "andrasjön",
+    "långören",
+    "villa",
+    "historia"
+  ],
+  "people": [
+    {
+      "name": "Konstantin Wegge",
+      "alternateNames": [],
+      "roles": [
+        "telegrafchef"
+      ],
+      "description": "Lät bygga villan på Långören."
+    },
+    {
+      "name": "Osvald Myrell",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ],
+      "description": "Hyrde villan av kyrkoherde Petrell."
+    },
+    {
+      "name": "Alex Björklund",
+      "alternateNames": [],
+      "roles": [
+        "normalskollärare"
+      ],
+      "description": "Köpte villan 1901."
+    },
+    {
+      "name": "Gustaf Stormån",
+      "alternateNames": [],
+      "roles": [
+        "folkskollärare"
+      ],
+      "description": "Köpte villan 1914."
+    },
+    {
+      "name": "Otto Appelberg",
+      "alternateNames": [],
+      "roles": [
+        "kapellan"
+      ],
+      "description": "Lät bygga villan på 1870-talet."
+    },
+    {
+      "name": "Johannes Bäck d.ä.",
+      "alternateNames": [],
+      "roles": [
+        "kapellan"
+      ],
+      "description": "Ägde villan på 1880-talet."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Reda ut fakta om villan."
+    },
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hörde av sig med fakta."
+    }
+  ],
+  "places": [
+    {
+      "name": "långören",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Villan ligger här i Andrasjön.",
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Panoramat är taget från sjön.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Villan på Långören byggs",
+      "date": {
+        "year": 1880,
+        "circa": false,
+        "text": "början på 1880-talet"
+      },
+      "people": [],
+      "places": [
+        "långören"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d04d3b20131df60ae5c879fee65379ad323f4c2e363c69ab295d1c7d4776ebb6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

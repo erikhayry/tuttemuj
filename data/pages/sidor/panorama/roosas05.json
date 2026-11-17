@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/roosas05.htm",
+  "title": "Panorama från Roosas lindo 14 juli 2005",
+  "summary": "En panorama från Roosas lindo, taget 2005. Sidan berättar om hur platsen röjdes under hungeråret 1867 och om husen runt den.",
+  "topics": [
+    "panorama",
+    "roosas lindo",
+    "hungeråret 1867",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Elias Roos",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Lät röja lindan under hungeråret 1867."
+    },
+    {
+      "name": "K. Sundqvist",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ],
+      "description": "Byggde annexet mot Grev Tottgatan i början av 1970-talet."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i gården vid Mathesiusgatan."
+    },
+    {
+      "name": "Åke Björklund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Röjde lindan för cirka 20 år sedan."
+    },
+    {
+      "name": "Kurt Levlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans hus med kalksandstensfasad nämns."
+    }
+  ],
+  "places": [
+    {
+      "name": "roosas lindo",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "grev tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Annexet mot gatan."
+    },
+    {
+      "name": "mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen där Hedström bodde.",
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "hugos lindo",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ingången finns på andra sidan muren."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lindan röjs under hungeråret",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "hungeråret 1867"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 14,
+        "circa": false,
+        "text": "14 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "10ad68f43a68112c17fbb3e3ca57c26fc133d6d8c6ece8223dc80122449e6a23",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

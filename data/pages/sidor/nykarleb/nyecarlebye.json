@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/nyecarlebye.html",
+  "title": "Nyecarlebye: namnvariant i dödsregister",
+  "summary": "En namnvariant, Nye Carlebye, som förekommer i ett dödsregister från Bornholm. Två sjökaptener och matroser från Nykarleby omnämns som döda i Allinge 1833.",
+  "topics": [
+    "namnvarianter",
+    "neo-carolina",
+    "1833",
+    "bornholm"
+  ],
+  "people": [
+    {
+      "name": "Jonas Peter Synneberg",
+      "alternateNames": [],
+      "roles": [
+        "skeppskapten"
+      ],
+      "description": "Dog i Allinge 1833."
+    },
+    {
+      "name": "Jacob Gustav Østerblad",
+      "alternateNames": [],
+      "roles": [
+        "matros"
+      ],
+      "description": "Dog i Allinge 1833."
+    },
+    {
+      "name": "Carl Synnerberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Brorson till Jonas Petter Synnerberg."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Synneberg dör i Allinge",
+      "date": {
+        "year": 1833,
+        "circa": false,
+        "text": "1833"
+      },
+      "people": [
+        "Jonas Peter Synneberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "76a294d141d73a2eb810ea186378f8b992d1200ba49c76ca0ac0dd4ac3d3c350",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

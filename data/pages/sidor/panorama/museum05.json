@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/museum05.html",
+  "title": "Panorama från Nykarleby museum 7 juli 2005",
+  "summary": "En panorama från Nykarleby museum, taget 2005. Sidan beskriver gamla föremål och byggnader i kvarteren kring museet.",
+  "topics": [
+    "panorama",
+    "museet",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har ett minnesmärke vid museet."
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gård där ett trappräcke kommer ifrån."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "fiskaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Enligt stadsplanen från 1912 skulle gatan gå ner till Jakobstadsvägen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplan från 1912",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "1912"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 7,
+        "circa": false,
+        "text": "7 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1acb44426c2fc0a405e2366d8335d637a7d6e7c1b09295344b7940215d5a8201",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

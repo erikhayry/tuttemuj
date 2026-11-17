@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/juthba05.htm",
+  "title": "Panorama från Juthbackaallén 8 juli 2005",
+  "summary": "En panorama från Juthbackaallén, taget 2005. Herrgården på Juthbacka är från 1821.",
+  "topics": [
+    "panorama",
+    "juthbacka",
+    "herrgården",
+    "2005"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Herrgården från 1821."
+    },
+    {
+      "name": "juthbackaallén",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Herrgården från 1821",
+      "date": {
+        "year": 1821,
+        "circa": false,
+        "text": "1821"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 8,
+        "circa": false,
+        "text": "8 juli 2005"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2bbcaa6ac2f4e9aa37ce5515b7e76c645176ca39ff80abb8642d6f1eed65659b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

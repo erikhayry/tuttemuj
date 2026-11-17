@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/nkbystj5.htm",
+  "title": "Stadens mittersta Nykarlebystjärna i esplanaden",
+  "summary": "Den mittersta av tre sjuuddiga stjärnor i esplanaden. Sidan berättar om när den sattes upp och hur stjärnorna förändrats.",
+  "topics": [
+    "nykarlebystjärnan",
+    "esplanaden",
+    "jul"
+  ],
+  "people": [
+    {
+      "name": "Helge Hedman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillverkade den första stjärnan."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograf av bilderna från 1987 och 2013."
+    }
+  ],
+  "places": [
+    {
+      "name": "esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Tre sjuuddiga stjärnor pryder den vid juletid."
+    },
+    {
+      "name": "normen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Granen står framför Normen.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Den första stjärnan sätts upp",
+      "date": {
+        "year": 1985,
+        "circa": false,
+        "text": "julen 1985"
+      },
+      "people": [
+        "Helge Hedman"
+      ],
+      "places": [
+        "esplanaden"
+      ]
+    },
+    {
+      "title": "Stjärnorna lyser även dagtid",
+      "date": {
+        "year": 2002,
+        "circa": false,
+        "text": "julen 2002"
+      },
+      "people": [],
+      "places": [
+        "esplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a4f996d42e91ec9681923d85e302970738c25f81d8b4cf58584074587d94057e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}

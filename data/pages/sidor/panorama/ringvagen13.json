@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/panorama/ringvagen13.html",
+  "title": "Panorama från Södra Ringvägen och Östra Åvägen 10 juli 2013",
+  "summary": "En panorama från korsningen Södra Ringvägen–Östra Åvägen, taget 2013. Sidan visar radhusen Ängsbrinken och Ängsparken.",
+  "topics": [
+    "panorama",
+    "södra ringvägen",
+    "östra åvägen",
+    "radhus",
+    "2013"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde Prästvägen enligt sidan."
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde panoramat med programmet Panoramamaker."
+    }
+  ],
+  "places": [
+    {
+      "name": "södra ringvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Östra Åvägen.",
+      "geo": {
+        "lat": 63.5157136,
+        "lng": 22.540447,
+        "match": "name",
+        "gazetteerName": "södra ringvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "östra åvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Södra Ringvägen.",
+      "geo": {
+        "lat": 63.47834529999999,
+        "lng": 22.5318815,
+        "match": "name",
+        "gazetteerName": "östra åvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "ängsbrinken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Radhus från början av 1970-talet."
+    },
+    {
+      "name": "ängsparken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Radhus från gissningsvis 1980-talet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Radhuset Ängsbrinken byggs",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "början av 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "ängsbrinken"
+      ]
+    },
+    {
+      "title": "Fotografiet tas",
+      "date": {
+        "year": 2013,
+        "month": 7,
+        "day": 10,
+        "circa": false,
+        "text": "10 juli 2013"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "638d6ddfc708e8ad2147618a380513a52a1076b8e9fcabeaac716dd6fb4ac4e3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T18:33:04.789Z"
+}
