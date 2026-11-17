@@ -60,6 +60,7 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
 ## Rules
 
 - Only include facts stated on the page. Don't add outside knowledge or guesses.
+- Never make things up. If a value (a date, year, day, name, role, location, kind) is not stated on the page, leave the field out. Don't fill gaps from memory, don't infer a day or month from a year, and don't add birth or death years for well-known people. If unsure whether something is on the page, re-read the text file before writing it.
 - Menus, index pages and pages with almost no text still get a draft: a one-sentence summary saying what the page lists, and empty arrays.
 - Poems and fiction: summarise the theme, and only extract real people and places.
 - Never put long passages of page text in the output.
