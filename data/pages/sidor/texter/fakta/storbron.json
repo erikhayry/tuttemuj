@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/storbron.htm",
+  "title": "Storbron och kyrkan",
+  "summary": "En torrsommarbild från mellan 1898 och 1926, när järnvägen till Andrasjön byggdes och kraftverksdammen blev klar. Bilden visar Storbron och kyrkan från söder.",
+  "topics": [
+    "storbron",
+    "kyrkan",
+    "kraftverksdammen",
+    "1898",
+    "1926"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav fotot till sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fotografiet är taget från söder."
+    },
+    {
+      "name": "sankta birgitta kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns från bron."
+    },
+    {
+      "name": "sundströms magasin",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg bortom bron till höger."
+    }
+  ],
+  "events": [
+    {
+      "title": "Järnvägen till Andrasjön byggs",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "1898"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kraftverksdammen blir klar",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "74a0945afe33f22b7a830ce9a464c2d4165ea71b4e12dbc78bf543970e16f666",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/asgard.htm",
+  "title": "Brandkårshuset Asgård",
+  "summary": "Brandkårshuset Asgård vid S. Torggatan, byggt 1893. Sidan visar ett fotografi från slutet av 1890-talet och en jämförelse från 2004.",
+  "topics": [
+    "brandkåren",
+    "asgård",
+    "fotografi",
+    "1893"
+  ],
+  "people": [
+    {
+      "name": "H. Häggström",
+      "alternateNames": [],
+      "roles": [
+        "postiljon"
+      ],
+      "description": "Köpte huset 1900."
+    }
+  ],
+  "places": [
+    {
+      "name": "brandkårshuset asgård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 26 vid S. Torggatan",
+      "description": "Byggt 1893."
+    },
+    {
+      "name": "gustav adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen Gustav Adolfsgatan–Sollefteågatan syns i bilden.",
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brandkårshuset byggs",
+      "date": {
+        "year": 1893,
+        "circa": false,
+        "text": "1893"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Huset säljs till postiljon H. Häggström",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "1900"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Huset säljs till Byggnadsandelslaget Mission",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "1907"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Samma vy fotograferas igen",
+      "date": {
+        "year": 2004,
+        "month": 7,
+        "circa": false,
+        "text": "juli 2004"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ad7c9e7bb47d798f72d8d3fa5ec1b11e2408c17056acaba04a6a267ebcc23187",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/agrengou.htm",
+  "title": "Gösta Ågren 1936–2020",
+  "summary": "En uppslagsverkstext om författaren Gösta Ågren, född i Nykarleby 1936, som var fil. dr. och skrev lyrik, prosa och kulturhistoria. Sidan nämner också hans syster Inga Ågren.",
+  "topics": [
+    "författare",
+    "gösta ågren",
+    "lyrik",
+    "finlandssvensk litteratur"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "birthYear": 1936,
+      "deathYear": 2020,
+      "roles": [
+        "författare",
+        "fil. dr."
+      ],
+      "description": "Debuterade med diktsamlingen Kraft och tanke 1958. Skrev bland annat Vår historia (1977)."
+    },
+    {
+      "name": "Inga Ågren",
+      "alternateNames": [],
+      "birthYear": 1932,
+      "deathYear": 1965,
+      "roles": [
+        "författare"
+      ],
+      "description": "Syster. Diktsamlingen Livet som är och förblir (1963)."
+    },
+    {
+      "name": "Erik Ågren",
+      "alternateNames": [],
+      "birthYear": 1924,
+      "deathYear": 2008,
+      "roles": [
+        "författare"
+      ],
+      "description": "Bror."
+    },
+    {
+      "name": "Dan Andersson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Ämne för Göstas doktorsavhandling."
+    }
+  ],
+  "places": [
+    {
+      "name": "lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Barndomshemmet i byn.",
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gösta Ågren debuterar med Kraft och tanke",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gösta Ågren avlider",
+      "date": {
+        "year": 2020,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "text": "24 februari 2020"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1a1642bb10b765b079b776343400c48553981837a1ba36a5d6cd1dd186fa0f8d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

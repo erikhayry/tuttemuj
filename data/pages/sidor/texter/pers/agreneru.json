@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/agreneru.htm",
+  "title": "Erik Ågren",
+  "summary": "En uppslagsverkstext om författaren Erik Ågren, född i Ytterjeppo 1924, som skrev romaner och pjäser om arbetarliv och samhällskritik.",
+  "topics": [
+    "författare",
+    "arbetarlitteratur",
+    "ytterjeppo"
+  ],
+  "people": [
+    {
+      "name": "Erik Ågren",
+      "alternateNames": [],
+      "birthYear": 1924,
+      "deathYear": 2008,
+      "roles": [
+        "författare",
+        "metallarbetare"
+      ],
+      "description": "Debuterade som dramatiker 1971. Romaner bland annat Sårad (1973), Arbetslust (1975) och Modellfilaren (1982)."
+    },
+    {
+      "name": "Kristina Ågren",
+      "alternateNames": [],
+      "birthYear": 1949,
+      "roles": [
+        "skådespelare",
+        "regissör"
+      ],
+      "description": "Dotter till Erik Ågren. Länsregissör i Vasa län från 1977."
+    }
+  ],
+  "places": [
+    {
+      "name": "ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Ågrens födelsesocken, Nykarleby landskommun.",
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Ågren föds",
+      "date": {
+        "year": 1924,
+        "month": 8,
+        "day": 4,
+        "circa": false,
+        "text": "4 augusti 1924"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Debuterar som dramatiker",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "1971"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Erik Ågren avlider",
+      "date": {
+        "year": 2008,
+        "month": 3,
+        "day": 12,
+        "circa": false,
+        "text": "12 mars 2008"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bcbbce3331f13098667e13e7088e9800cb4588dfe960f30fc10fe4552bfc496f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/telkarts.htm",
+  "title": "Plan över stadens telefonledningar",
+  "summary": "En karta över telefonledningarna när centralen låg i Missionshuset. Sidan berättar också om förslaget 1923 att flytta centralen till Rådhuset.",
+  "topics": [
+    "telefon",
+    "karta",
+    "missionshuset",
+    "rådhuset",
+    "1923"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "missionshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Telefoncentralen låg här."
+    },
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Centralen fanns här från början."
+    },
+    {
+      "name": "smedsbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Ledningar drogs hit."
+    },
+    {
+      "name": "högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Ledningar drogs hit."
+    },
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Ledningar drogs hit.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Förslag om att flytta telefoncentralen tillbaka till Rådhuset",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "vid årsmötet 1923"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16949ec3323953b83eb08788014c767ca9f16dd258684b14f729cd3a2e126061",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

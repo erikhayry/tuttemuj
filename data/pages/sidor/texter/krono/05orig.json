@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/krono/05orig.html",
+  "title": "Qvarn- och Hjulhuset vid Nykarleby Regale Bränneri",
+  "summary": "Originalbeskrivningen från 1788 av kvarn- och hjulhuset vid Nykarleby Regale Bränneri. Sidan innehåller bara rubriker och en förteckning, utan transkriberad text.",
+  "topics": [
+    "bränneri",
+    "1788",
+    "kvarn",
+    "hjulhus"
+  ],
+  "people": [
+    {
+      "name": "Eric af Wetterstedt",
+      "alternateNames": [],
+      "roles": [
+        "cammarråd",
+        "arrendator"
+      ],
+      "description": "Arrendator av bränneriet."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bränneriet som beskrivs 1788."
+    },
+    {
+      "name": "qvarn- och hjulhuset vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    }
+  ],
+  "events": [
+    {
+      "title": "Beskrivningen av byggnaderna upprättas",
+      "date": {
+        "year": 1788,
+        "month": 1,
+        "day": 4,
+        "circa": false,
+        "text": "den 4 januari 1788"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d9af217de8b59b193835ee0423545a9c6c099ddfbd104de562d00737b22c4189",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

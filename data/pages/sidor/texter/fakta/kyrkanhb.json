@@ -1,0 +1,168 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/kyrkanhb.htm",
+  "title": "Sankta Birgitta kyrka, en av Finlands äldsta träkyrkor i bruk",
+  "summary": "Kyrkan invigdes första advent 1708 efter ritningar av Elias Brenner och är en av Finlands äldsta träkyrkor i bruk. Sidan berättar om inredningen, orgeln och renoveringen 1987–93.",
+  "topics": [
+    "kyrkan",
+    "sankta birgitta",
+    "arkitektur",
+    "orgel",
+    "renovering"
+  ],
+  "people": [
+    {
+      "name": "Elias Brenner",
+      "alternateNames": [],
+      "roles": [
+        "assessor"
+      ],
+      "description": "Ritade kyrkan."
+    },
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ],
+      "description": "Målade kyrkorummet 1749 och altartavlan 1750."
+    },
+    {
+      "name": "Lennart Segerstråle",
+      "alternateNames": [],
+      "roles": [
+        "konstnär",
+        "professor"
+      ],
+      "description": "Målade koret och utförde glasmålningarna 1940."
+    },
+    {
+      "name": "August Ahlnäs",
+      "alternateNames": [],
+      "roles": [
+        "folkskollärare"
+      ],
+      "description": "Skänkte fönstren."
+    },
+    {
+      "name": "Alexandra Såltin",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Målade Kristi förklaring 1898."
+    },
+    {
+      "name": "Abraham Eliasson",
+      "alternateNames": [],
+      "roles": [
+        "snickare"
+      ],
+      "description": "Gjorde predikstolen och altaret 1750–53."
+    },
+    {
+      "name": "Johan Alm",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ],
+      "description": "Målade altaruppsatsen och predikstolen 1757."
+    },
+    {
+      "name": "Anders Telin",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ],
+      "description": "Byggde orgeln 1768 i Gamlakarleby."
+    },
+    {
+      "name": "Henry Byskata",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ],
+      "description": "Författare till en källa från 1998."
+    }
+  ],
+  "places": [
+    {
+      "name": "sankta birgitta kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan",
+      "description": "Invigdes första advent 1708.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "address",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Från år 1702 med tre klockor."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan invigs",
+      "date": {
+        "year": 1708,
+        "circa": false,
+        "text": "första söndagen i advent år 1708"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tornet färdigställs",
+      "date": {
+        "year": 1730,
+        "circa": false,
+        "text": "1730"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkorummet målas",
+      "date": {
+        "year": 1749,
+        "circa": false,
+        "text": "1749"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Glasmålningarna i koret invigs",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "1 advent 1940"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkan renoveras",
+      "date": {
+        "year": 1987,
+        "circa": false,
+        "text": "1987–1993"
+      },
+      "description": "Kostnad över 4 miljoner mk. Ca 950 sittplatser efter ombyggnaden.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0bb03e7b4b36563dc384cac1b1a0e04a3c46395f5d861d51d0ad5dc6c4794dc1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

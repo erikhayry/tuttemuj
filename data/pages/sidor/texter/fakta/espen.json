@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/espen.htm",
+  "title": "Rådhus Boulevarden",
+  "summary": "Ett fotografi av Rådhus Boulevarden mot sydväst, från 1880-talet. Sidan beskriver gårdarna längs gatan och parken, som anlades 1864.",
+  "topics": [
+    "rådhus boulevarden",
+    "topeliusparken",
+    "gårdar",
+    "1880-talet"
+  ],
+  "people": [
+    {
+      "name": "Anders Svedberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev artikeln Parken och esplanaden 1878."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Grev Tottgatan.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "grev tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Korsningen med Topeliusesplanaden."
+    },
+    {
+      "name": "topeliusparken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Parken med stakettet, anlagd 1864."
+    },
+    {
+      "name": "grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Längst till vänster i bilden."
+    },
+    {
+      "name": "lybeckska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Längst till höger i bilden."
+    },
+    {
+      "name": "synnerbergska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid Grev Tottgatan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topeliusparken anläggs",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "1864"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "97d84e2e523385f938775bd0ca5239f33b695fd3eb5630f07c0828dbc169f988",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

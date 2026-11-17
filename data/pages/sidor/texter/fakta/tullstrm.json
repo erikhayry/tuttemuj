@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/tullstrm.htm",
+  "title": "Kronomagasinet på Tullstranden",
+  "summary": "En bild av det gamla kronomagasinet på Tullstranden, med ett vykort från 1920-talet och en notis om en boende där.",
+  "topics": [
+    "kronomagasinet",
+    "tullstranden",
+    "vykort"
+  ],
+  "people": [
+    {
+      "name": "Ahonen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde i byggnaden närmast älven enligt uppgift från Leif Jansson."
+    },
+    {
+      "name": "Leif Jansson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav uppgiften om Ahonen."
+    }
+  ],
+  "places": [
+    {
+      "name": "kronomagasinet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg på Tullstranden där köttkontrollen står idag."
+    },
+    {
+      "name": "tullstranden",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Platsen för magasinet."
+    },
+    {
+      "name": "nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Norra delen syns till höger."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vykort från 1920-talet",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "tjugotalet"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "07cc9951aae3b2e05deb42acb6ba086590e41559a23b423e072ddd79d364a006",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

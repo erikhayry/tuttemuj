@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/biljette.htm",
+  "title": "Biljetter från Nykarleby Jernväg",
+  "summary": "Biljetter från Nykarleby Jernväg som hittades när Sundells gård vid Västanlid revs. Sidan berättar också att samme Sundell tryckte etiketter för tändsticksfabriken och bryggerierna.",
+  "topics": [
+    "järnvägen",
+    "biljetter",
+    "tändsticksfabriken",
+    "bryggerier"
+  ],
+  "people": [
+    {
+      "name": "Sundell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tryckte biljetter och etiketter. Gård vid Västanlid."
+    }
+  ],
+  "places": [
+    {
+      "name": "västanlid",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Sundells gård låg här.",
+      "geo": {
+        "lat": 63.52898070000001,
+        "lng": 22.5233536,
+        "match": "name",
+        "gazetteerName": "västanlid",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "herlers museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Biljetterna såldes här."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5670785f41edeb9201169132c97fec50f4e490dd8a862f12680a536bb5ebc56a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

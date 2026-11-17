@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/agreng_yle.html",
+  "title": "Författaren Gösta Ågren har avlidit",
+  "summary": "En nekrolog i Yle om Gösta Ågren, född i Nykarleby 1936, som avled vid 83 års ålder. Den tar upp hans barndomshem i Lippjärv och hans syskon, som också blev författare.",
+  "topics": [
+    "gösta ågren",
+    "nekrolog",
+    "lippjärv",
+    "författare"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "birthYear": 1936,
+      "deathYear": 2020,
+      "roles": [
+        "författare"
+      ],
+      "description": "Författare från Nykarleby. Avled vid 83 års ålder."
+    },
+    {
+      "name": "Erik Ågren",
+      "alternateNames": [],
+      "birthYear": 1924,
+      "deathYear": 2008,
+      "roles": [
+        "författare"
+      ],
+      "description": "Bror."
+    },
+    {
+      "name": "Leo Ågren",
+      "alternateNames": [],
+      "birthYear": 1928,
+      "deathYear": 1984,
+      "roles": [
+        "författare"
+      ],
+      "description": "Bror."
+    },
+    {
+      "name": "Inga Ågren",
+      "alternateNames": [],
+      "birthYear": 1932,
+      "deathYear": 1965,
+      "roles": [
+        "författare"
+      ],
+      "description": "Syster."
+    }
+  ],
+  "places": [
+    {
+      "name": "lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Barndomshemmet i byn, enligt Gösta Ågren.",
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "nykarleby",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Hemstad för syskonskaran."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gösta Ågren avlider",
+      "date": {
+        "year": 2020,
+        "circa": false,
+        "text": "2020"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7f8fdfb8439ab83f17e4023d9effaa9a961f53f339f3c28990eacc64bd5f4975",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

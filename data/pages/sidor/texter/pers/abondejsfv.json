@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/abondejsfv.htm",
+  "title": "Minnesruna över Johannes Åbonde",
+  "summary": "En minnesruna över folkskolinspektören Johannes Åbonde, som undervisade vid Nykarleby seminariums övningsskola 1934–50.",
+  "topics": [
+    "seminariet",
+    "övningsskola",
+    "folkskola",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Johannes Åbonde",
+      "alternateNames": [],
+      "birthYear": 1902,
+      "deathYear": 1984,
+      "roles": [
+        "folkskolinspektör",
+        "lärare"
+      ],
+      "description": "Lärare och överlärare vid Nykarleby seminariums övningsskola 1934–50. Folkskolinspektör från 1950."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Övningsskolan där Åbonde var lärare och överlärare."
+    }
+  ],
+  "events": [
+    {
+      "title": "Johannes Åbonde börjar vid seminariets övningsskola",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Johannes Åbonde utnämns till folkskolinspektör",
+      "date": {
+        "year": 1950,
+        "circa": false,
+        "text": "1950"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Johannes Åbonde avlider",
+      "date": {
+        "year": 1984,
+        "month": 1,
+        "day": 19,
+        "circa": false,
+        "text": "19 januari 1984"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5cf730a0ed512c930be8fb43d13c96161de58d27026df7bba13ef8eba6f29ace",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

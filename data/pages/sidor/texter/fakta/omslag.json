@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/omslag.htm",
+  "title": "Omslagspapper från en bokförsändelse med Nykarleby Jernväg",
+  "summary": "Omslagspapper från en bokförsändelse som kom via Kovjoki och Nykarleby Jernväg och paketmärken från järnvägen.",
+  "topics": [
+    "nykarleby jernväg",
+    "paketmärken",
+    "kovjoki"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Bokpaketet lastades över här.",
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6d85a08ad08d48ec0c50b2705780b247f2ad78c12ec45b83e0a8bfa81ce0bbf8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

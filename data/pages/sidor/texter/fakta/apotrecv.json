@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/apotrecv.htm",
+  "title": "Recept från Nykarleby apotek 1969",
+  "summary": "Ett recept för utvärtes behandling från Nykarleby apotek, utskrivet 1969 av doktor Seidel.",
+  "topics": [
+    "apoteket",
+    "recept",
+    "1969"
+  ],
+  "people": [
+    {
+      "name": "Seidel",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ],
+      "description": "Skrev ut receptet."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nykarleby apotek."
+    }
+  ],
+  "events": [
+    {
+      "title": "Recept utskrivet",
+      "date": {
+        "year": 1969,
+        "month": 1,
+        "day": 24,
+        "circa": false,
+        "text": "24 januari 1969"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "da43d788d2ceac5591a280fc0bd07c77772ea1d07026c03a56c6637122bc8854",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

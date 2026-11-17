@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/apotreccsa2.html",
+  "title": "Recept från Nykarleby stamapotek 1939",
+  "summary": "Ett recept från Nykarleby stamapotek, utskrivet 1939 av G. Roos.",
+  "topics": [
+    "apoteket",
+    "recept",
+    "1939"
+  ],
+  "people": [
+    {
+      "name": "G. Roos",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev ut receptet."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nykarleby stamapotek."
+    }
+  ],
+  "events": [
+    {
+      "title": "Recept utskrivet",
+      "date": {
+        "year": 1939,
+        "month": 6,
+        "day": 1,
+        "circa": false,
+        "text": "1 juni 1939"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9b0cd3c21bb8cda8c37757e9171d3da7d35c328cd8ce980fc92ddbdf152bc3ea",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

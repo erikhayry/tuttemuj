@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/karlsbad.html",
+  "title": "Karlsbader salt från Stads- och Provincialapoteket",
+  "summary": "En påse Karlsbader salt från Stads- och Provincialapoteket i Nykarleby, hittad på en vind vid Seminariegatan. Påsen är från apotekarens tid 1880–1895.",
+  "topics": [
+    "apoteket",
+    "karlsbader salt",
+    "seminariegatan"
+  ],
+  "people": [
+    {
+      "name": "Klas Henrik Ekroos",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Apotekare 1880–1895."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll påsen."
+    }
+  ],
+  "places": [
+    {
+      "name": "seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Påsen hittades på en vind här.",
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stads- och Provincialapoteket."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "cd1c490cd3d9a2579fac85732396ac9161f44745ad9651dfc20769c74984b244",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

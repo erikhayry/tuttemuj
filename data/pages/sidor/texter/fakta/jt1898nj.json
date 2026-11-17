@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/jt1898nj.htm",
+  "title": "Järnvägsbygget mellan staden och Kovjoki 1898",
+  "summary": "En tidningsnotis från 1898 om järnvägsbygget mellan Nykarleby och Kovjoki, med ballasteringen och järnvägsbron över älven.",
+  "topics": [
+    "järnvägen",
+    "1898",
+    "kovjoki",
+    "tidningsartikel"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Banan byggdes mot Kovjoki.",
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ballasteringen mellan staden och Kovjoki",
+      "date": {
+        "year": 1898,
+        "circa": false,
+        "text": "1898"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ba12122a857ff6012ff79a8af708c8587ce76665abfca48f22753f12262fdea9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/istagnin.htm",
+  "title": "Isupptagning på älven",
+  "summary": "En bild från 1950-talet där is tas upp på älven nedanför Fåfängan för mejeriets kylbehov. Sidan innehåller minnen av hur bönderna hämtade is med häst och släde.",
+  "topics": [
+    "isupptagning",
+    "älven",
+    "mejeriet",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Rabbe Storå",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Pojken på bilden."
+    },
+    {
+      "name": "Margareta Storå",
+      "alternateNames": [],
+      "roles": [
+        "teckningslärare"
+      ],
+      "description": "Fotograf. Teckningslärare vid Samskolan 1958–67."
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättar om isupptagningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "fåfängan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Isen togs upp nedanför."
+    },
+    {
+      "name": "mejeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Isen användes i mejeriet."
+    },
+    {
+      "name": "kraftverksdammen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Isen hämtades strax söder om den."
+    }
+  ],
+  "events": [
+    {
+      "title": "Is tas upp för mejeriet",
+      "date": {
+        "year": 1950,
+        "circa": false,
+        "text": "på 50-talet"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "555a924d8c42e8b4c2656a3de773cd5cbce57cfe2c8287d5eef48337cf0d2489",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

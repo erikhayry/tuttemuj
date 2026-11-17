@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/kudd1873.htm",
+  "title": "Kuddnäs 1880",
+  "summary": "En oljemålning av Kuddnäs 1880 av Emanuel Arvid Liljelund, sedan 1949 i Museiverkets samlingar. Målningen visar ett område där Thulins garveri låg på Tullstranden.",
+  "topics": [
+    "kuddnäs",
+    "målning",
+    "1880",
+    "thulins garveri"
+  ],
+  "people": [
+    {
+      "name": "Emanuel Arvid Liljelund",
+      "alternateNames": [],
+      "birthYear": 1844,
+      "deathYear": 1899,
+      "roles": [
+        "målare"
+      ],
+      "description": "Målade Kuddnäs 1880."
+    },
+    {
+      "name": "Paul Nyberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Återgav bilden 1949 i boken Zachris Topelius."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Motivet för målningen."
+    },
+    {
+      "name": "tullstranden",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Thulins garveri låg här."
+    },
+    {
+      "name": "thulins garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns en bit till höger om mitten."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kuddnäs målas",
+      "date": {
+        "year": 1880,
+        "circa": false,
+        "text": "1880"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e0ff02e962ab424d5931c7be6857550901e591389a54bae3f0050cd0261ca2b2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

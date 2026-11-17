@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/hannmeje.htm",
+  "title": "Brytningstid: mjölkhämtning vid Juthas",
+  "summary": "Ett fotografi från 1951 där Johannes Liljeström hämtar mjölk med häst och kärra utanför mejeriet. Sidan beskriver hur bönderna kring Juthas turades om att köra mjölken.",
+  "topics": [
+    "mjölkhämtning",
+    "mejeriet",
+    "juthas",
+    "1951"
+  ],
+  "people": [
+    {
+      "name": "Johannes Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Körde mjölken med hästen Mona."
+    },
+    {
+      "name": "Mona",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Det fyraåriga stoet på bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "mejeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Mjölken levererades hit."
+    },
+    {
+      "name": "juthas",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Bönderna kring Juthas levererade mjölk."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotot tas",
+      "date": {
+        "year": 1951,
+        "circa": false,
+        "text": "sommaren 1951"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d417d4b585cde7e565f10896edf76f4af0c7587e91a6b67509e7a7fe63ada4a0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

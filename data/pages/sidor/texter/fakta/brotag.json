@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/brotag.htm",
+  "title": "Nyykaabibässin på Storbron",
+  "summary": "Ett fotografi från sommaren 1899, när sträckan till Andrasjön byggdes. Bilden visar Storbron med stadskvarnen och Brunnsholmarna.",
+  "topics": [
+    "storbron",
+    "järnvägen",
+    "1899",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "J. Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograf."
+    },
+    {
+      "name": "Mikael Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilden."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har tagit med bilden i boken Den smalspåriga järnvägen."
+    }
+  ],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns till vänster."
+    },
+    {
+      "name": "brunnsholmarna",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Syns till höger."
+    }
+  ],
+  "events": [
+    {
+      "title": "Sträckan till Andrasjön byggs",
+      "date": {
+        "year": 1899,
+        "circa": false,
+        "text": "sommaren 1899"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "118e8b3c0e551c58fe8a9ffea942bbcbf453e581ad10121e39209eec0dc617c2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

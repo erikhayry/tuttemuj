@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/juthtamf.htm",
+  "title": "Minnestavlan över slaget vid Juthas",
+  "summary": "En bild av minnestavlan över slaget vid Juthas, som gavs ut som vykort i början av 1980-talet och på nytt 2008. Minnesvården visar von Döbelns porträtt.",
+  "topics": [
+    "slaget vid juthas",
+    "minnestavla",
+    "von döbeln",
+    "1808"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Porträtt på minnesvården."
+    },
+    {
+      "name": "Lars Östlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde ljustrycket i Stockholm."
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav ut bilden i Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "juthas",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Platsen för slaget och minnesvården."
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "13/9 08 enligt inskriptionen"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Vykort med bilden ges ut",
+      "date": {
+        "year": 1980,
+        "circa": false,
+        "text": "början av 1980-talet"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Bilden ges ut på nytt i A4-format",
+      "date": {
+        "year": 2008,
+        "circa": false,
+        "text": "2008"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "642b0a97e7b7acafa8caabcb3c852cc95e6f78c8e6d17bffc6d038cfc1d684da",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

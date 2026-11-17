@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/stadskva.htm",
+  "title": "Stadskvarnen",
+  "summary": "En modell av stadskvarnen, gjord av träslöjdläraren Göran Wikström. Fotot är taget från Topeliusesplanaden 24 i juli 2002.",
+  "topics": [
+    "stadskvarnen",
+    "modell",
+    "hantverk",
+    "2002"
+  ],
+  "people": [
+    {
+      "name": "Göran Wikström",
+      "alternateNames": [],
+      "roles": [
+        "slöjdlärare"
+      ],
+      "description": "Gjorde modellen. Gick under namnet Trääkokko."
+    }
+  ],
+  "places": [
+    {
+      "name": "stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Modellen föreställer kvarnen."
+    },
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Fotografiet är taget vid nummer 24.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotot tas",
+      "date": {
+        "year": 2002,
+        "month": 7,
+        "circa": false,
+        "text": "juli 2002"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2c35f77086fb24e6a7637906b9d374073e269339b8194c3d96c7fc010dca9d7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

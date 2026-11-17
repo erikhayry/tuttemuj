@@ -1,0 +1,248 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/fakta01.htm",
+  "title": "Fakta om Nykarleby: platser och byggnader",
+  "summary": "En översikt över stadens platser, byggnader och sevärdheter, från Andrasjön och Beckbruket till Storbron och Älven. Varje avsnitt har ett dialektnamn och en egen historik.",
+  "topics": [
+    "fakta",
+    "platser",
+    "byggnader",
+    "andrasjön",
+    "topelius",
+    "kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald"
+      ],
+      "description": "Född på Kuddnäs 1818 och död på Björkudden i Sibbo 1898."
+    },
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [
+        "seminariedirektor"
+      ],
+      "description": "Seminariedirektorn som fostrade många lärare."
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Nykarleby stad 1620—1920."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit flera avsnitt."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit flera avsnitt."
+    }
+  ],
+  "places": [
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "andra sjön"
+      ],
+      "description": "Ångbåtsbryggan byggdes 1864.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "beckbruket",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "brunnsholmarna",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Med hälsobrunnen."
+    },
+    {
+      "name": "djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "fåfängan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "gamla hamn",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "gravgården",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området väster om älven."
+    },
+    {
+      "name": "rummelbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    },
+    {
+      "name": "nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Grundades 1873."
+    },
+    {
+      "name": "prästgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Påbörjad 1916."
+    },
+    {
+      "name": "sankta birgitta kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ett av de historiska platserna."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ångbåtsbryggan vid Andrasjön byggs",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "1864"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Seminariet grundas",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "1873"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Samskolan grundas",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "1919"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Prästgården påbörjas",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "påbörjad 1916"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkbrunnen uppförs",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Topelius föds på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "14 januari 1818"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Topelius dör på Björkudden",
+      "date": {
+        "year": 1898,
+        "month": 3,
+        "day": 12,
+        "circa": false,
+        "text": "12 mars 1898"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a9f1c86a1559745737f5da777c3c8e7aea5fc08c4e14ffe63e018efbccab2603",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

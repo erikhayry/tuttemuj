@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/apotrecf.htm",
+  "title": "Recept från Nykarleby apotek 1971",
+  "summary": "Ett recept från Nykarleby apotek 1971, med en kort personlig minnesbit från skolan samma vår.",
+  "topics": [
+    "apoteket",
+    "recept",
+    "1971",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Doktor Sourander",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ],
+      "description": "Skrev ut hostmedicinen."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nykarleby apotek."
+    }
+  ],
+  "events": [
+    {
+      "title": "Recept utskrivet",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "1971"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3568cda19d224662f33d5adae3b0ff4fde780be90d7904abf5d3e57c7b39f545",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

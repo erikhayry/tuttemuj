@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/krono/04orig.html",
+  "title": "Brännhuset vid Nykarleby Regale Bränneri",
+  "summary": "Fortsättningen av beskrivningen av Brännhuset i originalet från 1788. Sidan innehåller bara en förteckning, utan transkriberad text.",
+  "topics": [
+    "bränneri",
+    "1788",
+    "brännhuset"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bränneriet som beskrivs 1788."
+    },
+    {
+      "name": "brännhuset vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    }
+  ],
+  "events": [
+    {
+      "title": "Beskrivningen av byggnaderna upprättas",
+      "date": {
+        "year": 1788,
+        "month": 1,
+        "day": 4,
+        "circa": false,
+        "text": "den 4 januari 1788"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2b1e3eba5051e8e3bc262430b0a30649190ac13ad564dde02db18df3a4e9bb65",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

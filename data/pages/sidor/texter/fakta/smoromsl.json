@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/smoromsl.htm",
+  "title": "Smörpapper från Nykarleby Centralandelsmejeri",
+  "summary": "Ett omslagspapper från smör som tillverkats på Nykarleby Centralandelsmejeri, med ett minne från barnträdgården på slutet av 1960-talet.",
+  "topics": [
+    "mejeriet",
+    "smörpapper",
+    "barnträdgården",
+    "1968–1970"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "nykarleby centralandelsmejeri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tillverkade smöret."
+    },
+    {
+      "name": "bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Vägen mellan barnträdgården och mejeriet.",
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där cykelkärran kom från.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Barnträdgården",
+      "date": {
+        "year": 1968,
+        "circa": false,
+        "text": "hösten 1968 till våren 1970"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e2ee8b15e9b714d2b65d7a37cb70c3c3ab9d2e69348eb5eb0cd29854cd9c468e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

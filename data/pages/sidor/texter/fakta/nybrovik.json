@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/nybrovik.htm",
+  "title": "Nybroviken",
+  "summary": "En bild av Nybroviken från före 1925, när Nybroforsen fortfarande flödade fritt. Sidan citerar Paul Nyberg om hur älven låg full av pappersved och om familjen Lybeck i Alörn 1895.",
+  "topics": [
+    "nybroviken",
+    "nybroforsen",
+    "lybeckska gården",
+    "topelius"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav fotot till sidan."
+    },
+    {
+      "name": "Paul Nyberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Zachris Topelius 1949."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hjälpte till att staka båten 1895."
+    }
+  ],
+  "places": [
+    {
+      "name": "nybroviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Fotografiet är taget här."
+    },
+    {
+      "name": "nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Flödade fritt före 1925.",
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "lybeckska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I fonden på fotot."
+    },
+    {
+      "name": "alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Familjen Lybeck flyttade hit."
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Lybeck flyttar till Alörn",
+      "date": {
+        "year": 1895,
+        "month": 7,
+        "day": 2,
+        "circa": false,
+        "text": "2 juli 1895"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7b5af680a25e3719a7f1f34e3f6b0028c3815d119d91fc64727b149055afd4df",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

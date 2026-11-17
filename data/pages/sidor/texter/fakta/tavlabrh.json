@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/tavlabrh.htm",
+  "title": "Brunnsholmarna, Storbron och Stadskvarnen",
+  "summary": "En oljemålning från 1906 av Fritz Olson som visar Brunnsholmarna, Storbron och Stadskvarnen. Sidan berättar om familjen Olson, som lämnade Kuddnäs omkring 1900.",
+  "topics": [
+    "målning",
+    "brunnsholmarna",
+    "storbron",
+    "stadskvarnen",
+    "kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "roles": [
+        "fiskal",
+        "konstnär"
+      ],
+      "description": "Målade tavlan 1906. Lät bygga Åminnegård."
+    },
+    {
+      "name": "Oskar Calamnius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fick tavlan i present på bröllopsdagen."
+    },
+    {
+      "name": "Hulda Calamnius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fick tavlan i present på bröllopsdagen."
+    },
+    {
+      "name": "Mikael Eng",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Äger tavlan idag."
+    },
+    {
+      "name": "Zachris Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Topelius forna hemgård 1935."
+    }
+  ],
+  "places": [
+    {
+      "name": "brunnsholmarna",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Motivet för tavlan."
+    },
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Motivet för tavlan."
+    },
+    {
+      "name": "stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Motivet för tavlan."
+    },
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Familjen Olson lämnade området."
+    },
+    {
+      "name": "åminnegård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Residens som Fritz Olson lät bygga vid älvstranden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tavlan målas",
+      "date": {
+        "year": 1906,
+        "circa": false,
+        "text": "1906"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Familjen Olson lämnar Kuddnäs",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "omkring 1900"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a5ac23db443490250b7fade7cf39513867803048787b51dc0026ea8ce0435b5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

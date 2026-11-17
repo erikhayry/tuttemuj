@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/krono/16orig.html",
+  "title": "Tegelugn, tegelslageri och brunn vid Nykarleby Regale Bränneri",
+  "summary": "Originalbeskrivningen från 1788 av tegelugnen, tegelslageriet och en brunn vid bränneriet. Sidan innehåller bara rubriker utan transkriberad text.",
+  "topics": [
+    "bränneri",
+    "1788",
+    "tegelugn",
+    "tegelslageri",
+    "brunn"
+  ],
+  "people": [
+    {
+      "name": "Eric af Wetterstedt",
+      "alternateNames": [],
+      "roles": [
+        "cammarråd",
+        "arrendator"
+      ],
+      "description": "Arrendator av bränneriet."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bränneriet som beskrivs 1788."
+    },
+    {
+      "name": "tegelugnen vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    },
+    {
+      "name": "tegelslageriet vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    },
+    {
+      "name": "brunnen vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    }
+  ],
+  "events": [
+    {
+      "title": "Beskrivningen av byggnaderna upprättas",
+      "date": {
+        "year": 1788,
+        "month": 1,
+        "day": 4,
+        "circa": false,
+        "text": "den 4 januari 1788"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7796211158a1b6521afd529e0b40ce19d85dd6ffc437401082e08cda49822399",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

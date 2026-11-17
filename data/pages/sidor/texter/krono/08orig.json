@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/krono/08orig.html",
+  "title": "Spannmålsmagasinet och lagerkällaren vid Nykarleby Regale Bränneri",
+  "summary": "Originalbeskrivningen från 1788 av spannmålsmagasinet och lagerkällaren vid bränneriet. Sidan tar också upp gröpmagasinet i rubrikerna, utan transkriberad text.",
+  "topics": [
+    "bränneri",
+    "1788",
+    "spannmålsmagasin",
+    "lagerkällare"
+  ],
+  "people": [
+    {
+      "name": "Eric af Wetterstedt",
+      "alternateNames": [],
+      "roles": [
+        "cammarråd",
+        "arrendator"
+      ],
+      "description": "Arrendator av bränneriet."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bränneriet som beskrivs 1788."
+    },
+    {
+      "name": "spannmålsmagasinet vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    },
+    {
+      "name": "gröpmagasinet vid nykarleby regale bränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av bränneriet enligt beskrivningen från 1788."
+    }
+  ],
+  "events": [
+    {
+      "title": "Beskrivningen av byggnaderna upprättas",
+      "date": {
+        "year": 1788,
+        "month": 1,
+        "day": 4,
+        "circa": false,
+        "text": "den 4 januari 1788"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2637acddee19c6a450c7a207491b4d41a3e6b147548153a17aa82d95fc14d87",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

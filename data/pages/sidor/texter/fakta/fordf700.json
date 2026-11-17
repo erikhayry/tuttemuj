@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/fordf700.htm",
+  "title": "J. Liljeströms Ford F700 från Nykarleby",
+  "summary": "En lastbil av modellen Ford F700 från 1962 som användes för mjölkhämtningen i Socklot. Sidan berättar om lastbilens öde efter 1979.",
+  "topics": [
+    "ford f700",
+    "mjölkhämtning",
+    "socklot",
+    "fordon"
+  ],
+  "people": [
+    {
+      "name": "Johannes Liljeström",
+      "alternateNames": [],
+      "birthYear": 1923,
+      "deathYear": 2006,
+      "roles": [
+        "mjölkhämtare"
+      ],
+      "description": "Hade hand om mjölkhämtningen i Socklot 1967–68."
+    },
+    {
+      "name": "Paul Nyholm",
+      "alternateNames": [],
+      "roles": [
+        "skrothandlare"
+      ],
+      "description": "Köpte lastbilen 1979."
+    }
+  ],
+  "places": [
+    {
+      "name": "bangatan 11",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där fotot togs 1967."
+    },
+    {
+      "name": "socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Mjölkhämtningen gjordes här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Mjölkhämtning i Socklot",
+      "date": {
+        "year": 1967,
+        "circa": false,
+        "text": "1967–68"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lastbilen säljs till Paul Nyholm",
+      "date": {
+        "year": 1979,
+        "circa": false,
+        "text": "1979"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lastbilen visas på bilmuseet i Ähtäri",
+      "date": {
+        "year": 1979,
+        "circa": false,
+        "text": "efter 1979"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3b517f6daf322ae3f4c26b627a2a904cd3cf35934a21576e3b4899b77a52dedf",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

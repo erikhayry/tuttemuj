@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/apotreccsa.html",
+  "title": "Recept från Nykarleby apotek 1929",
+  "summary": "Ett recept utskrivet 1929 av R. Öhman på Nykarleby apotek.",
+  "topics": [
+    "apoteket",
+    "recept",
+    "1929"
+  ],
+  "people": [
+    {
+      "name": "R. Öhman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev ut receptet."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nykarleby apotek."
+    }
+  ],
+  "events": [
+    {
+      "title": "Recept utskrivet",
+      "date": {
+        "year": 1929,
+        "month": 1,
+        "day": 22,
+        "circa": false,
+        "text": "22 januari 1929"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a7a5b170da88b05b0b91fd96117ffa26c3d1e5a6ea694643f2e9878762d930f0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

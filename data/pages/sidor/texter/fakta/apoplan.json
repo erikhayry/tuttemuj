@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/apoplan.htm",
+  "title": "Ritning till hörnbyggnad vid apoteket",
+  "summary": "En ritning från 1861 till en hörnbyggnad vid apoteket, med foton från 1980- och 1990-talet. Byggnaden förföll efter att apoteket flyttade till torget.",
+  "topics": [
+    "apoteket",
+    "ritning",
+    "arkitektur",
+    "1861"
+  ],
+  "people": [
+    {
+      "name": "Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Ägare av tomten."
+    },
+    {
+      "name": "E. J. Höckert",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Intygade ritningen för magistraten."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kopia av ritningen och fotografierna."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomten No 62 i 17 de quarteret",
+      "description": "Hörnbyggnaden vid apoteket."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ritningen godkänns av magistraten",
+      "date": {
+        "year": 1861,
+        "month": 9,
+        "day": 9,
+        "circa": false,
+        "text": "9 sept 1861"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Resolution från Wasa landskansli",
+      "date": {
+        "year": 1861,
+        "month": 12,
+        "day": 30,
+        "circa": false,
+        "text": "30 december 1861"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Apoteket flyttar till torget",
+      "date": {
+        "year": 1980,
+        "circa": false,
+        "text": "början av åttiotalet"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d143fdb595902a251f16c66a44898fbd19c0eaa2def90b8148f4baf46b989c92",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

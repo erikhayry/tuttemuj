@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/torgbrun.htm",
+  "title": "Torgbrunnen",
+  "summary": "En bild av Torgbrunnen, som grävdes 1934 vid torgets sydvästra hörn. Brunnen var en plats att stå vid, och vevanordningen togs bort före 1958.",
+  "topics": [
+    "torget",
+    "torgbrunnen",
+    "vatten",
+    "1934"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde teckningen och kommentaren."
+    }
+  ],
+  "places": [
+    {
+      "name": "torgbrunnen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Vid torgets sydvästra hörn."
+    },
+    {
+      "name": "torget",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Brunnen låg vid hörnet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Torgbrunnen grävs",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Vevanordningen tas bort",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "före 1958"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cd4c79ea83f6b5149f2bac96e399f2fafb80c1d079390e8d9105361eec292c76",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

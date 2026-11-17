@@ -1,0 +1,163 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fakta/apotfoto.htm",
+  "title": "Apoteket vid Kyrkogatan",
+  "summary": "Apoteket på tomt 62 vid Kyrkogatan har bytt ägare flera gånger. Sidan berättar om husets historia från 1858 till att apoteket flyttade till torget 1980.",
+  "topics": [
+    "apoteket",
+    "kyrkogatan",
+    "byggnadshistoria",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "E. A. Waselius",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "rådman"
+      ],
+      "description": "Ägde och bebyggde tomten 1858."
+    },
+    {
+      "name": "N. Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Köpte gården 1865 och byggde om den till apotek. Dog 1876."
+    },
+    {
+      "name": "Petter A. Silfverberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Sköttde apoteket 1878–80 som förmyndare."
+    },
+    {
+      "name": "Mikael Nylander",
+      "alternateNames": [],
+      "deathYear": 1979,
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Dog 1979."
+    },
+    {
+      "name": "Anna-Lisa Westberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Flyttade apoteket till torget 1980."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit om apoteket i Nykarleby stads historia del III."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 7–11",
+      "description": "Tomt nr 62 vid korsningen med Borgaregatan."
+    },
+    {
+      "name": "apoteket vid torget",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Dit apoteket flyttade 1980."
+    },
+    {
+      "name": "kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Apoteket låg vid gatan.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomten 62 bebyggs",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gården säljs till apotekaren Malmberg",
+      "date": {
+        "year": 1865,
+        "circa": false,
+        "text": "1865"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Byggnadsritningen godkänns",
+      "date": {
+        "year": 1879,
+        "month": 5,
+        "day": 12,
+        "circa": false,
+        "text": "12 maj 1879"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Apoteket flyttar till torget",
+      "date": {
+        "year": 1980,
+        "circa": false,
+        "text": "1980"
+      },
+      "people": [],
+      "places": [
+        "apoteket vid torget"
+      ]
+    },
+    {
+      "title": "Rivningen påbörjas men avbryts",
+      "date": {
+        "year": 1983,
+        "circa": false,
+        "text": "1983"
+      },
+      "description": "Avbröts genom ingripande av museiverket.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nytt bostadshus byggs",
+      "date": {
+        "year": 2002,
+        "circa": false,
+        "text": "hösten 2002"
+      },
+      "description": "Inflyttning våren 2003.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a9100ce0213d7ebec178494a9bf8d49e5044bd69ac50eb6b6f2d3dc0cdea8739",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}

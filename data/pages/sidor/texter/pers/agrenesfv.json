@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/agrenesfv.html",
+  "title": "Minnesruna över Erik Ågren",
+  "summary": "En minnesruna över Erik Ågren av Anna-Lisa Sahlström. Den berättar om hans arbete i Wärtsiläs gjuteri i Jakobstad och hans författarskap, och om familjens flytt längs Nykarleby älv.",
+  "topics": [
+    "författare",
+    "minnesruna",
+    "gjuteriet",
+    "nykarleby älv",
+    "olga"
+  ],
+  "people": [
+    {
+      "name": "Erik Ågren",
+      "alternateNames": [],
+      "birthYear": 1924,
+      "deathYear": 2008,
+      "roles": [
+        "författare",
+        "gjutare"
+      ],
+      "description": "Arbetade 33 år i Wärtsiläs gjuteri i Jakobstad. Debuterade 1973 med romanen Sårad."
+    },
+    {
+      "name": "Anna-Lisa Sahlström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesrunan."
+    },
+    {
+      "name": "Olga Ågren",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Modern. Huvudperson i romanen Olga (2004)."
+    },
+    {
+      "name": "Rudolf Ågren",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fadern i familjen."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Familjen vandrade ned längs älven i romanen Olga."
+    },
+    {
+      "name": "lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Familjens slutliga hem i romanen Olga.",
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Födelsesocken för Erik Ågren.",
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Ågren avlider",
+      "date": {
+        "year": 2008,
+        "month": 3,
+        "day": 12,
+        "circa": false,
+        "text": "onsdagen den 12 mars 2008"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Erik Ågren debuterar med Sårad",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "1973"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "15dbe603db1334bf4b7e69fcc9a1f1d074fb28f469f5727aecd0555c4e153117",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T20:20:18.133Z"
+}
