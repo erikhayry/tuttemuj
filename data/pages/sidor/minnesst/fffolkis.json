@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/fffolkis.htm",
+  "title": "Minnestavla i Kristliga folkhögskolan",
+  "summary": "En minnestavla i Kristliga folkhögskolan över elever som stupade i vinter- och fortsättningskriget 1939–44. Tavlans romerska siffror anger vilken årskurs de stupade gick i.",
+  "topics": [
+    "minnestavla",
+    "kristliga folkhögskolan",
+    "vinterkriget",
+    "1939–44"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Kristliga Folkhögskolan"
+      ],
+      "description": "Skolbyggnad där minnestavlan över de stupade eleverna sitter.",
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "80ac7cdb4282fcf6b600ba62536bed9b7c440dcdfd6431fc1eaf7dca324356cf",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

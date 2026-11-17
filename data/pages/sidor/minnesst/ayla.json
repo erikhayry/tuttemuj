@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/ayla.htm",
+  "title": "Ayla – en staty som inte blev av",
+  "summary": "Skulptören Eirik Granqvist, som har Nykarleby som hemort, erbjöd staden en bronsstaty av Ayla. Staden avböjde efter nio månader, och statyn står nu på Nanoq-museet i Fäboda.",
+  "topics": [
+    "ayla",
+    "skulptur",
+    "museum",
+    "fäboda"
+  ],
+  "people": [
+    {
+      "name": "Eirik Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "skulptör",
+        "konservator",
+        "museiman"
+      ],
+      "description": "Skapare av Ayla-statyn och av museet Préhistorama i Frankrike. Utgången från Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "ayla",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bronsstaty av Ayla, som nu står på Nanoq-museet i Fäboda."
+    },
+    {
+      "name": "fäboda",
+      "kind": "village",
+      "alternateNames": [
+        "Fäboda"
+      ],
+      "description": "Där Nanoq-museet ligger och där Ayla-statyn nu står."
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En skulptör erbjuder sin hemstad en bronsstaty gratis, men staden dröjer i nio månader innan den skickar ett kort avböjande svar. Statyn hamnar i stället hos ett museum i Fäboda.",
+    "reason": "Det finns en tydlig konflikt mellan konstnären och staden, men berättelsen är kort och bygger på en enda anekdot.",
+    "characters": [
+      "Eirik Granqvist"
+    ],
+    "places": [
+      "ayla"
+    ]
+  },
+  "contentHash": "4c25d76608eb91191573ab57f7c53fee27024d67df2474c5bf71ed7952668f21",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/hallonst.htm",
+  "title": "Hallonstenen",
+  "summary": "Hallonstenen var en sten vid ett vägskäl där flera människor körde omkull. Erik Birck berättar om adjunkten Vesslin, som begravdes i förtid efter en olycka här och vaknade i kistan. Stenen kapades sedan ned till marknivån.",
+  "topics": [
+    "hallonstenen",
+    "olycka",
+    "begravning",
+    "1820-tal"
+  ],
+  "people": [
+    {
+      "name": "Mårten Kristian Vesslin",
+      "alternateNames": [],
+      "deathYear": 1824,
+      "roles": [
+        "adjunkt"
+      ],
+      "description": "Adjunkt i församlingen 1820–1824. Körde omkull vid stenen och begravdes i förtid."
+    },
+    {
+      "name": "Hallongren",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ],
+      "description": "Körde omkull på stenen, som sedan fick sitt namn."
+    }
+  ],
+  "places": [
+    {
+      "name": "hallonstenen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Sten vid vägskälet där man kom in genom Rajåkern från nya till gamla vägen. Avhuggen till jordytan efter olyckorna."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vesslin begravs i förtid",
+      "date": {
+        "year": 1824,
+        "circa": true,
+        "text": "omkring 1824"
+      },
+      "description": "Han hade kört omkull vid stenen och verkade död. Han begravdes i en gammal kista, men när den öppnades hade han vänt sig.",
+      "people": [
+        "Mårten Kristian Vesslin"
+      ],
+      "places": [
+        "hallonstenen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Adjunkten Vesslin kör omkull vid det farliga vägskälet och verkar död. Han begravs i hast i en gammal kista från gravhuset, men när kistan öppnas har han vänt sig och blödit från en blodstörtning. Hans vakenhet kommer för sent för att rädda honom.",
+    "reason": "Det är en dramatisk scen med ett tydligt förlopp från olycka till förtida begravning, och stenen blir ett minne som står kvar i bygden.",
+    "characters": [
+      "Mårten Kristian Vesslin",
+      "Hallongren"
+    ],
+    "places": [
+      "hallonstenen"
+    ]
+  },
+  "contentHash": "1fa75201fc89461fb98af04cc4179beccf5ebdb919169574557077fed28774de",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

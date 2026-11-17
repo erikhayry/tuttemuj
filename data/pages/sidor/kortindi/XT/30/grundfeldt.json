@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/XT/30/grundfeldt.html",
+  "title": "Grundfeldtska gården",
+  "summary": "Ett vykort från 1939 med Grundfeldtska gården i Nykarleby. Avsändaren Torkel Hellström skriver till redaktör R. R. Eklund om att avtäckningen av Knapebysten planerats till 8 juli och hoppas på en dikt.",
+  "topics": [
+    "vykort",
+    "knapebysten",
+    "1939"
+  ],
+  "people": [
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avsändare av kortet, som använde det för privat brevväxling."
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "redaktör"
+      ],
+      "description": "Redaktör för Svenska Pressen i Helsingfors."
+    }
+  ],
+  "places": [
+    {
+      "name": "grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Grundfeldtska gården"
+      ],
+      "description": "Motivet på vykortet från Nykarleby."
+    },
+    {
+      "name": "knapebysten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bysten som skulle avtäckas den 8 juli."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vykort skrivet av Torkel Hellström",
+      "date": {
+        "year": 1939,
+        "month": 4,
+        "day": 6,
+        "circa": false,
+        "text": "6.4 -39"
+      },
+      "people": [
+        "Torkel Hellström",
+        "R. R. Eklund"
+      ],
+      "places": [
+        "grundfeldtska gården"
+      ]
+    },
+    {
+      "title": "Avtäckning av Knapebysten planerad",
+      "date": {
+        "year": 1939,
+        "month": 7,
+        "day": 8,
+        "circa": false,
+        "text": "8 juli"
+      },
+      "description": "Avtäckningen var utsatt till den 8 juli.",
+      "people": [],
+      "places": [
+        "knapebysten"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2767aa1c3bfc2ccabf04d904ae64ca750883244ea8a185fb209c260b3c339190",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

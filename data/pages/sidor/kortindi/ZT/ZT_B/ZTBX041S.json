@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_B/ZTBX041S.HTM",
+  "title": "Z. Topelius (hälsning 1901)",
+  "summary": "Ett Topelius-kort med en hälsning från en beundrare, daterad 19 november 1901. Sidan anger Topelius födelseår men har ett felaktigt dödsår, så bara födelseåret används här.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "hälsning"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zachris Topelius",
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Hälsning till Topelius från en beundrare",
+      "date": {
+        "year": 1901,
+        "month": 11,
+        "day": 19,
+        "circa": false,
+        "text": "19.11.01"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8381cf4bd141bda87b9613092944d326d4dd089873863c278212b4d8cdc38872",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

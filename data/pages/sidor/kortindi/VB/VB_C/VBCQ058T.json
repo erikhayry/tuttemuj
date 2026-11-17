@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_C/VBCQ058T.HTM",
+  "title": "Adressidan för vykort 1904",
+  "summary": "Baksidan av ett vykort från Nykarleby 1904, med mottagarens namn och adress i Åbo. Sidan innehåller bara adressuppgifterna.",
+  "topics": [
+    "vykort",
+    "postkort"
+  ],
+  "people": [
+    {
+      "name": "Aina Broman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mottagare av vykortet i Åbo."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Vykort avsänt från Nykarleby",
+      "date": {
+        "year": 1904,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "text": "18/1-04"
+      },
+      "people": [
+        "Aina Broman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c32ae9900505e65ea4eb6451ab1ae4883fbd49db8b719305a452052360f73557",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

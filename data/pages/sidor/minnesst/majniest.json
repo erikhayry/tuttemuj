@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/majniest.htm",
+  "title": "Majniemistenen",
+  "summary": "Majniemistenen på Alörn har inhuggna årtal och Topelius initialer Z. T., som visar att han ägde stugan Majniemi 1855–1877. Stenen lät rådman J. A. Lybeck hugga in 1877, och den var fortfarande väl bevarad när Topelius besökte den 1897.",
+  "topics": [
+    "majniemi",
+    "alören",
+    "topelius",
+    "minnessten"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. T."
+      ],
+      "roles": [
+        "författare"
+      ],
+      "description": "Ägde stugan Majniemi på Alörn 1855–1877."
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Lät hugga in årtalen i stenen 1877 och sålde stugan samma år."
+    },
+    {
+      "name": "Jakob Forsbacka",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Köpte stugan av J. A. Lybeck 1877 för att flytta den."
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Förvärvade stugan 1846, enligt stenens årtal 1848."
+    }
+  ],
+  "places": [
+    {
+      "name": "majniemistenen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Majniemi"
+      ],
+      "description": "Sten med årtal och initialer på Alörn, hugget 1877."
+    },
+    {
+      "name": "alören",
+      "kind": "island",
+      "alternateNames": [
+        "Alörn"
+      ],
+      "description": "Ö i Nykarlebys skärgård där stenen står."
+    }
+  ],
+  "events": [
+    {
+      "title": "J. A. Lybeck hugger in årtalen i stenen",
+      "date": {
+        "year": 1877,
+        "circa": false
+      },
+      "description": "Lybeck köpte stugan 1877 och sålde den samma år till Jakob Forsbacka.",
+      "people": [
+        "J. A. Lybeck",
+        "Jakob Forsbacka",
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "majniemistenen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "423e3a1c007b64deb1ec0327f7431c88409d4f882c893ddd6cfdf5772fff719c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

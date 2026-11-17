@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/juthris1.htm",
+  "title": "Slaget vid Juthas – Döbelns dag",
+  "summary": "En inskription på ett block vid minnesmonumentet vid Juthas, till minne av slaget den 13 september 1808 och av Döbelns dag. Inskriptionen gjordes kort efter en minnesfest för hjältarna från slaget 1882.",
+  "topics": [
+    "slaget vid juthas",
+    "döbeln",
+    "1808",
+    "minnesmonument"
+  ],
+  "people": [
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [
+        "general"
+      ],
+      "description": "Förde striden vid Juthas den 13 september 1808. Dagen är uppkallad efter honom."
+    }
+  ],
+  "places": [
+    {
+      "name": "juthas",
+      "kind": "landmark",
+      "alternateNames": [
+        "Jutas",
+        "Juuttaa"
+      ],
+      "description": "Platsen för slaget 1808, med ett minnesmonument och inskriptioner på stenar i närheten."
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "13 september 1808"
+      },
+      "people": [
+        "von Döbeln"
+      ],
+      "places": [
+        "juthas"
+      ]
+    },
+    {
+      "title": "Minnesfest för Juthas hjältar",
+      "date": {
+        "year": 1882,
+        "month": 5,
+        "circa": false,
+        "text": "maj 1882"
+      },
+      "description": "Inskriptionen på blocket gjordes kort efter festen.",
+      "people": [],
+      "places": [
+        "juthas"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7cbfdb155b7efead5deae5230300be8771820ddfcf9f81b9eec0bfef08f722ae",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

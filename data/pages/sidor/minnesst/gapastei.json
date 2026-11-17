@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/gapastei.htm",
+  "title": "Gapastein",
+  "summary": "Gapastein är en offersten vid Bonskogsvägen, med ett huvud och en mun. Människor brukade mata den med hö och andra varor för att få lycka i affärer. Sidan visar också hur en grävmaskin nästan förstörde en närliggande sten 2007.",
+  "topics": [
+    "gapastein",
+    "offersten",
+    "bonskogen",
+    "folktro"
+  ],
+  "people": [
+    {
+      "name": "Gustav Strandberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättade om stenen och ingrep när en grävmaskin skulle flytta lillgapasten 2007."
+    },
+    {
+      "name": "Nelly Fågelbärj",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Nämner Gapastein i boken Stadsresan."
+    }
+  ],
+  "places": [
+    {
+      "name": "gapastein",
+      "kind": "landmark",
+      "alternateNames": [
+        "Gapanstein",
+        "Storgapastein"
+      ],
+      "description": "Flyttblock med ett huvud och en mun, vid Bonskogsvägen mot Norra Munsalavägen. En offersten."
+    },
+    {
+      "name": "lillgapastein",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Den mindre stenen några meter från Gapastein längs Bonskogsvägen mot Juthas."
+    }
+  ],
+  "events": [
+    {
+      "title": "Grävmaskin nära att förstöra lillgapastein",
+      "date": {
+        "year": 2007,
+        "month": 8,
+        "day": 27,
+        "circa": false,
+        "text": "27 augusti 2007"
+      },
+      "description": "Stora sprickor uppstod i stenen, som inte förstördes helt tack vare ingripandet.",
+      "people": [
+        "Gustav Strandberg"
+      ],
+      "places": [
+        "lillgapastein"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En grävmaskinsförare ska flytta en gammal offersten vid vägkanten, men någon ringer den lokala Gustav Strandberg, som skyndar dit och stoppar förstörelsen.",
+    "reason": "Det är en liten konflikt med en tydlig hjälte, men sidan ger bara några rader om händelsen.",
+    "characters": [
+      "Gustav Strandberg"
+    ],
+    "places": [
+      "lillgapastein"
+    ]
+  },
+  "contentHash": "44636c840fb47797df39cdf4c0768e9549cfa475b31a29d6f9a6591bd29af7b0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

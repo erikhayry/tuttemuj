@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/XXAX009Z.HTM",
+  "title": "Storbron och kyrkan",
+  "summary": "Ett palettformat kort över Storbron och kyrkan i Nykarleby, daterat 1894 och taget före 1889, enligt sidan. Kortet är det äldsta i samlingen och har en guldkant.",
+  "topics": [
+    "storbron",
+    "kyrkan",
+    "vykort",
+    "palettkort"
+  ],
+  "people": [
+    {
+      "name": "Hanna",
+      "alternateNames": [
+        "Syster Hanna"
+      ],
+      "roles": [],
+      "description": "Farfars syster, som gav kortet till en annan syster."
+    }
+  ],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron på kortet, fotograferad från västsydväst."
+    },
+    {
+      "name": "nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "description": "Kyrkan på kortet. Tornuret monterades 1889.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Palettkortet daterat",
+      "date": {
+        "year": 1894,
+        "circa": false,
+        "text": "1894"
+      },
+      "people": [
+        "Hanna"
+      ],
+      "places": [
+        "storbron",
+        "nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "21e0cf7cfbd25a2ebd5037942a27c375c07047fe48cf82852dd0de4adf4b2681",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

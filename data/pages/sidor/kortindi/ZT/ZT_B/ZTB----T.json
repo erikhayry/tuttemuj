@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_B/ZTB----T.HTM",
+  "title": "Fröken Ester Lilius (baksida)",
+  "summary": "Adressidan för ett kort från juli 1901 till fröken Ester Lilius i Larsmo. Kortet gick via Jakobstad och var framme två dagar senare.",
+  "topics": [
+    "postkort",
+    "adressering",
+    "1901"
+  ],
+  "people": [
+    {
+      "name": "Ester Lilius",
+      "alternateNames": [
+        "Fröken Ester Lilius"
+      ],
+      "roles": [],
+      "description": "Mottagare av kortet i Larsmo."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Kort skickat till Larsmo",
+      "date": {
+        "year": 1901,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "text": "15 juli 1901"
+      },
+      "description": "Skickades med eftermiddagsturen från Malmö (enligt sidan) och var framme i Larsmo den 18 juli.",
+      "people": [
+        "Ester Lilius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "97d646932d34be53cc289463a9228c08e9f9593cdb7b23d4c7360a7a9898aded",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

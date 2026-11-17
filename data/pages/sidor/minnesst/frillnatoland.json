@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/frillnatoland.html",
+  "title": "Frill natur- och landskapsområde",
+  "summary": "Frill är ett grönområde nära centrum där Nykarleby sedan 2020 arbetar för att bevara ängar och gamla stengärdsgårdar. Sidan beskriver skötseln, en skötselplan och finansieringen från livsmiljöprogrammet Helmi.",
+  "topics": [
+    "frill",
+    "natur",
+    "stengärdsgårdar",
+    "helmi",
+    "ängar"
+  ],
+  "people": [
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Hennes barndomshem låg nära Frill, och hennes Kråk-trilogi utspelar sig delvis där."
+    }
+  ],
+  "places": [
+    {
+      "name": "frill",
+      "kind": "district",
+      "alternateNames": [
+        "Frill natur- och landskapsområde"
+      ],
+      "description": "Grönområde med ängar och skog nära stadens centrum. Tidigare en del av Kuddnäs hemman."
+    }
+  ],
+  "events": [
+    {
+      "title": "Projektet för Frill startar",
+      "date": {
+        "year": 2020,
+        "circa": false,
+        "text": "2020–2021"
+      },
+      "description": "Nykarleby stad började ett projekt för att skydda och förbättra natur- och kulturlandskapsvärden i Frill.",
+      "people": [],
+      "places": [
+        "frill"
+      ]
+    },
+    {
+      "title": "Frill får finansiering från Helmi",
+      "date": {
+        "year": 2023,
+        "month": 5,
+        "circa": false,
+        "text": "maj 2023"
+      },
+      "description": "Nykarleby stad fick 17 448 euro för restaurering och skötsel av Frill.",
+      "people": [],
+      "places": [
+        "frill"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "41e1990bc5162cc5f1da1ce1aae066c15bf2228c409889435fb17e4293a1b1d2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

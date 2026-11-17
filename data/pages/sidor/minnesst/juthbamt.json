@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/juthbamt.htm",
+  "title": "Minnestavla över uppförandet av Juthbacka gård",
+  "summary": "En minnestavla vid huvudentrén till Juthbacka gård, som säger att gården uppfördes 1821 av löjtnanten Carl Backman. Det är okänt när tavlan sattes upp, möjligen 1961.",
+  "topics": [
+    "juthbacka gård",
+    "1821",
+    "minnestavla"
+  ],
+  "people": [
+    {
+      "name": "Carl Backman",
+      "alternateNames": [
+        "Carl Backman"
+      ],
+      "roles": [
+        "löjtnant"
+      ],
+      "description": "Lät uppföra Juthbacka gård 1821."
+    }
+  ],
+  "places": [
+    {
+      "name": "juthbacka gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka"
+      ],
+      "description": "Gården där minnestavlan sitter, till höger om huvudentrén."
+    }
+  ],
+  "events": [
+    {
+      "title": "Juthbacka gård uppförs",
+      "date": {
+        "year": 1821,
+        "circa": false
+      },
+      "people": [
+        "Carl Backman"
+      ],
+      "places": [
+        "juthbacka gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "36ffa09881a5361849e36605b49af75992a3d5a5ba9468d6e09c1a3c611d50d9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

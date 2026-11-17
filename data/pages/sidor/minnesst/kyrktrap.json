@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/kyrktrap.htm",
+  "title": "Kyrktrappans inhuggning",
+  "summary": "Kyrktrappans tillkomstår, 1867, har huggits in på den översta lockplattan vid trappan till kyrkan. Inhuggningen är svår att se, särskilt när det snöar.",
+  "topics": [
+    "kyrktrappan",
+    "kyrkan",
+    "1867",
+    "inhuggning"
+  ],
+  "people": [
+    {
+      "name": "Jakob Jakobsson Smeds",
+      "alternateNames": [],
+      "roles": [
+        "byggare"
+      ],
+      "description": "Utförde trappan 1867 tillsammans med ”Rijfare”."
+    }
+  ],
+  "places": [
+    {
+      "name": "kyrktrappan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Trappen till kyrkan. Inhuggningen från 1867 finns på den översta lockplattan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrktrappan utförs",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "1867"
+      },
+      "people": [
+        "Jakob Jakobsson Smeds"
+      ],
+      "places": [
+        "kyrktrappan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "46be52b8dec3699bf3421a860456085589ba9ca885b99fc2d23fb8a7c5debb2c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

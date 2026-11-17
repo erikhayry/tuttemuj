@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/eb_rondo.html",
+  "title": "Rondo – planerat minnesmärke över Erik Bergman",
+  "summary": "Ett planerat minnesmärke över Erik Bergman av skulptören Eila Hiltunen, kallat Rondo. Stadsstyrelsen började samla in pengar, men projektet blev aldrig klart och monumentet byggdes aldrig.",
+  "topics": [
+    "erik bergman",
+    "rondo",
+    "skulptur",
+    "minnesmärke"
+  ],
+  "people": [
+    {
+      "name": "Eila Hiltunen",
+      "alternateNames": [],
+      "birthYear": 1922,
+      "deathYear": 2003,
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Skapade Sibelius-monumentet och fick uppdraget att göra Rondo."
+    },
+    {
+      "name": "Erik Bergman",
+      "alternateNames": [],
+      "birthYear": 1911,
+      "deathYear": 2006,
+      "roles": [
+        "tonsättare"
+      ],
+      "description": "Monumentet skulle hedra honom."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Tänkt plats för minnesmärket Rondo."
+    }
+  ],
+  "events": [
+    {
+      "title": "Planerat minnesmärke Rondo över Erik Bergman",
+      "date": {
+        "year": 2001,
+        "circa": false,
+        "text": "2001"
+      },
+      "description": "Stadsstyrelsen startade en penninginsamling. Finansieringen blev aldrig klar.",
+      "people": [
+        "Eila Hiltunen",
+        "Erik Bergman"
+      ],
+      "places": [
+        "topeliusparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "06e5ed5ec768ca33c50878fd1f17b8a85136d8927b39ddcd9c8a2b4f76e1a27d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

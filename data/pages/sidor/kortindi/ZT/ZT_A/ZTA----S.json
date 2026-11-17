@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTA----S.HTM",
+  "title": "Zacharias Topelius",
+  "summary": "Ett porträttkort av författaren Zacharias Topelius med en nyårshälsning, sannolikt från en serie författarporträtt. Sidan påminner om att Topelius föddes på Kuddnäs i Nykarleby.",
+  "topics": [
+    "topelius",
+    "författare",
+    "porträtt",
+    "kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Svensk-finsk författare. Bland hans kända verk nämns Fältskärns berättelser, Vinterkvällar, Ljungblommor, Nya blad och Läsning för barn."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Kuddnäs"
+      ],
+      "description": "Platsen där Topelius föddes."
+    }
+  ],
+  "events": [
+    {
+      "title": "Zacharias Topelius föds på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "14 jan. 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "kuddnäs"
+      ]
+    },
+    {
+      "title": "Zacharias Topelius avlider på Björkudden",
+      "date": {
+        "year": 1898,
+        "month": 3,
+        "day": 12,
+        "circa": false,
+        "text": "12 mars 1898"
+      },
+      "description": "Död på Björkudden i närheten av Helsingfors.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8cb70b9616cfdfb8c1be7ee6fba4abb456b1210219ab27899db374c70b514a35",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

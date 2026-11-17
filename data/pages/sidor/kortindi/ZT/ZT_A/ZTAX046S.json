@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTAX046S.HTM",
+  "title": "Finland-Suomi (Topelius)",
+  "summary": "Ett Topelius-kort med ett pålimmat fotografi, skrivet i Vasa 1901 som en hälsning mellan två vänner. Brevskrivaren kallar Topelius för barnens vän och önskar att Sveriges barn ska känna honom.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "vykort",
+    "vasa"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    },
+    {
+      "name": "Karin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mottagare av kortet, som vistades långt bort, sannolikt i Uppsala."
+    }
+  ],
+  "places": [
+    {
+      "name": "vasa",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Avsändningsort 1901. Ligger utanför Nykarleby."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hälsning skriven i Vasa",
+      "date": {
+        "year": 1901,
+        "month": 2,
+        "day": 14,
+        "circa": false,
+        "text": "14.2-01"
+      },
+      "people": [
+        "Karin",
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1a3da66bd335d3c7140a6883f887bc6c319bb43ffcf30455fd51c82a7fe1a7f5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

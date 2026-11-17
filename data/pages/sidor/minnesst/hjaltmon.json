@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/hjaltmon.htm",
+  "title": "Frihetsmonumentet över de stupade 1918",
+  "summary": "Frihetsmonumentet på gravgården över de stupade i frihetskriget 1918, ritat av arkitekten P. Björk och avtäckt 28 november 1920. Sidan visar också hur monumentet firas och vilka andra minnestavlor över stupade som finns i staden.",
+  "topics": [
+    "frihetsmonumentet",
+    "1918",
+    "gravgården",
+    "minnesmärke"
+  ],
+  "people": [
+    {
+      "name": "P. Björk",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ],
+      "description": "Arkitekt från Helsingfors som ritade monumentet."
+    }
+  ],
+  "places": [
+    {
+      "name": "frihetsmonumentet",
+      "kind": "landmark",
+      "alternateNames": [
+        "hjältegraven"
+      ],
+      "description": "Monument över de stupade 1918 på gravgården, vid hjältegravarna från vinter- och fortsättningskriget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Frihetsmonumentet avtäcks",
+      "date": {
+        "year": 1920,
+        "month": 11,
+        "day": 28,
+        "circa": false,
+        "text": "28.11.1920"
+      },
+      "description": "Monumentet utfördes vid Oskar Aaltos stenhuggeri i Jakobstad.",
+      "people": [
+        "P. Björk"
+      ],
+      "places": [
+        "frihetsmonumentet"
+      ]
+    },
+    {
+      "title": "Kransar och ljus vid frihetsmonumentet på 80-årsdagen av vinterkrigets slut",
+      "date": {
+        "year": 2020,
+        "month": 3,
+        "day": 13,
+        "circa": false,
+        "text": "13 mars 2020"
+      },
+      "people": [],
+      "places": [
+        "frihetsmonumentet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "803db824802e175cc37d965aba7ba549346828ed34d0e723078a3b064f24e60e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/karleksh.html",
+  "title": "Kärlekshyllan",
+  "summary": "Kärlekshyllan är en hylla i berget längs den gamla banvallen mot Andrasjön, där förälskade par satt när seminariet var igång. Sidan berättar också om en röst som sägs höras i skymningen, från järnvägsmannen Aleko Lilius.",
+  "topics": [
+    "kärlekshyllan",
+    "banvallen",
+    "seminariet",
+    "andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Aleko Lilius",
+      "alternateNames": [],
+      "roles": [
+        "järnvägsägare"
+      ],
+      "description": "Köpte järnvägen Nyykaabi 1916. Sägs fortfarande höras i skymningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "kärlekshyllan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Hylla i berget längs den gamla banvallen mot Andrasjön, där förälskade par satt."
+    }
+  ],
+  "events": [
+    {
+      "title": "Järnvägen Nyykaabi köps",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "people": [
+        "Aleko Lilius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "378beabe511023672a2ebf283491f51245b6ef5e0da69c80ffcdc3735339fdf4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

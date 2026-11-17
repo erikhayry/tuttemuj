@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/knapee38.html",
+  "title": "Slättens och havets diktare får byst (1938)",
+  "summary": "En notis från 1938 om att skulptören Emil Cedercreutz hade fullbordat en byst av författaren Ernst V. Knape. Knape var stadsläkare i Nykarleby 1902–1908 och deltog i stadens sällskapsliv.",
+  "topics": [
+    "ernst v. knape",
+    "stadsläkare",
+    "byst",
+    "1938"
+  ],
+  "people": [
+    {
+      "name": "Ernst V. Knape",
+      "alternateNames": [
+        "E. V. Knape"
+      ],
+      "birthYear": 1873,
+      "deathYear": 1929,
+      "roles": [
+        "författare",
+        "stadsläkare",
+        "läkare"
+      ],
+      "description": "Stadsläkare i Nykarleby 1902–1908. Läste upp sina dikter vid ett seminarium hösten 1907."
+    },
+    {
+      "name": "Emil Cedercreutz",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Gjorde bysten av Knape."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "description": "Här läste Knape upp sina dikter hösten 1907."
+    }
+  ],
+  "events": [
+    {
+      "title": "Knape är stadsläkare i Nykarleby",
+      "date": {
+        "year": 1902,
+        "circa": false,
+        "text": "1902–1908"
+      },
+      "people": [
+        "Ernst V. Knape"
+      ],
+      "places": []
+    },
+    {
+      "title": "Knape läser dikter på seminariet",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "hösten 1907"
+      },
+      "people": [
+        "Ernst V. Knape"
+      ],
+      "places": [
+        "nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "744208329a4db5c9a5fb9ca8b94767586646d6ea46ad213a69d0b7f742b0a732",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

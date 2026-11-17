@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_C/VBCV017S.HTM",
+  "title": "Juthbacka",
+  "summary": "Ett kort och minnesbild från sommarteatern på Juthbacka strandäng, där Juthbacka teater spelade fram till början av 1980-talet. Skribenten minns särskilt Bosse Kronqvist.",
+  "topics": [
+    "teater",
+    "sommarteater",
+    "juthbacka"
+  ],
+  "people": [
+    {
+      "name": "Bosse Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "skådespelare"
+      ],
+      "description": "Spelade rollen som Charlie's tant."
+    }
+  ],
+  "places": [
+    {
+      "name": "juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka strandäng"
+      ],
+      "description": "Strandäng där Juthbacka teater hade sin sommarscen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Sommarteater på Juthbacka strandäng",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "början av åttiotalet"
+      },
+      "description": "Juthbacka teater r.f. spelade sommarteaterföreställningar till början av 1980-talet.",
+      "people": [
+        "Bosse Kronqvist"
+      ],
+      "places": [
+        "juthbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b660ad298ff8470b92e91418c55222c07bac9a141f3374ab33408b7081cfd6af",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

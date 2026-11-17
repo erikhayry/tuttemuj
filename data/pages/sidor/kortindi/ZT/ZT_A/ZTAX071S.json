@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTAX071S.HTM",
+  "title": "Finland-Suomi (familjehälsning)",
+  "summary": "Ett Topelius-kort med en kort familjehälsning på svenska och finska. Kortet är daterat i sidans text, men datumet anges inte.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "hälsning"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    }
+  ],
+  "places": [],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "77c07e26d055f9031d6062fd4b0b8fe649969b5bdde8d69becc6374073d64641",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

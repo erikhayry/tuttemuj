@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/aloren.htm",
+  "title": "Runeberget på Alören",
+  "summary": "Om Namnberget på norra Alörn, där Topelius och hans vänner högg in sina namn i berget på 1830-talet. Sidan berättar om Topelius kärlek till Mathilda Lithén och hans avskedsverser från sommaren 1835.",
+  "topics": [
+    "alören",
+    "namnberget",
+    "topelius",
+    "kärlek",
+    "1830-tal"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zachris Topelius",
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev dagböcker från sommaren på Alörn och högg sitt namn i berget."
+    },
+    {
+      "name": "Mathilda Lithén",
+      "alternateNames": [
+        "Matilda Lithén",
+        "Matilda"
+      ],
+      "roles": [],
+      "description": "Topelius ungdomskärlek. Deras namn finns i berget tillsammans."
+    }
+  ],
+  "places": [
+    {
+      "name": "alören",
+      "kind": "island",
+      "alternateNames": [
+        "Alörn"
+      ],
+      "description": "Ö i Nykarlebys skärgård. Namnberget ligger på norra Alörn."
+    },
+    {
+      "name": "namnberget",
+      "kind": "landmark",
+      "alternateNames": [
+        "Runeberget",
+        "Runeberg"
+      ],
+      "description": "Berg på norra Alörn, nordväst om Charlottenlund, där personer har huggit in sina namn sedan 1830-talet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius skriver avskedsverser på Alörn",
+      "date": {
+        "year": 1835,
+        "month": 8,
+        "day": 23,
+        "circa": false,
+        "text": "23 augusti 1835"
+      },
+      "people": [
+        "Zacharias Topelius",
+        "Mathilda Lithén"
+      ],
+      "places": [
+        "alören"
+      ]
+    },
+    {
+      "title": "Namn huggna i Namnberget",
+      "date": {
+        "year": 1836,
+        "month": 8,
+        "day": 15,
+        "circa": false,
+        "text": "15 augusti 1836"
+      },
+      "description": "Topelius besöker berget och räknar upp 14 namn i sin dagbok.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "namnberget"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Sommaren 1835 på Alörn förälskar sig den unge Zacharias i Mathilda, och de tillbringar långa månskensvandringar tillsammans. När avresan närmar sig vet alla att något tar slut, och Zacharias skriver avskedsverser på väggarna medan Mathilda väntar på det han inte vågar säga.",
+    "reason": "Sidan innehåller dagboksutdrag, en scen med en sjuk Mathilda och ett tydligt vemod inför avskedet, vilket ger ett starkt kärleksdrama.",
+    "characters": [
+      "Zacharias Topelius",
+      "Mathilda Lithén"
+    ],
+    "places": [
+      "alören",
+      "namnberget"
+    ]
+  },
+  "contentHash": "b0ca0a7bd586d266938b6ee2fde10f9778a1fab02f87935739f08ea6211734d8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

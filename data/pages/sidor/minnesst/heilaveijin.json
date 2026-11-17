@@ -1,0 +1,35 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/heilaveijin.html",
+  "title": "Heila veijin – Kåkå matka",
+  "summary": "En tvåspråkig tilläggsskylt på finska och svenska vid det första farthindret på Andrasjövägen, satt upp som komplement till varningsskylten.",
+  "topics": [
+    "andrasjövägen",
+    "trafik",
+    "tvåspråkighet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "andrasjövägen",
+      "kind": "street",
+      "alternateNames": [
+        "Andrasjövägen"
+      ],
+      "description": "Det första farthindret här har en tvåspråkig skylt.",
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a8ae1a5b29c4a5a130511232efd6d92e2af269e1f1d3d181f9add3af5ff8da3e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

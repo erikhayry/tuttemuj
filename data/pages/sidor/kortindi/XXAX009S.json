@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/XXAX009S.HTM",
+  "title": "Palettkort med Storbron och kyrkan",
+  "summary": "Ett palettformat kort från 1894 med Storbron och kyrkan i Nykarleby, med ett guldkantat och ovanligt format. Sidan berättar också om skomakaren Karl Johan Forsberg, som avled i staden samma år och enligt egen uppgift var en naturlig son till Bernadotte.",
+  "topics": [
+    "storbron",
+    "kyrkan",
+    "vykort",
+    "1894",
+    "sockenskomakare"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Forsberg",
+      "alternateNames": [
+        "sockenskomakare Forsberg"
+      ],
+      "birthYear": 1812,
+      "deathYear": 1894,
+      "roles": [
+        "sockenskomakare",
+        "sjöman"
+      ],
+      "description": "Originell personlighet i Nykarleby. Enligt egen uppgift naturlig son till Bernadotte, sedermera Karl XIV Johan."
+    }
+  ],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron som syns på kortet tillsammans med kyrkan."
+    },
+    {
+      "name": "nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "description": "Kyrkan på kortet, med tornuret som bekostades av stadsförsamlingen 1889.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Karl Johan Forsberg avlider i Nykarleby stad",
+      "date": {
+        "year": 1894,
+        "month": 4,
+        "day": 6,
+        "circa": false,
+        "text": "6 april 1894"
+      },
+      "people": [
+        "Karl Johan Forsberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Palettkortet daterat",
+      "date": {
+        "year": 1894,
+        "circa": false,
+        "text": "1894"
+      },
+      "people": [],
+      "places": [
+        "storbron",
+        "nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Skomakaren Karl Johan Forsberg, som kom som sjöman till Oravais 1835 och hävdade att han var en naturlig son till Bernadotte, lever ett fattigt men glatt liv i Nykarleby. Han möter både olycka och fattigdom men behåller sin humor och artighet.",
+    "reason": "Det finns en stark huvudperson med en mystisk härkomst och en levnad fylld av motgångar, men sidan ger bara några rader av berättelsen.",
+    "characters": [
+      "Karl Johan Forsberg"
+    ],
+    "places": [
+      "storbron"
+    ]
+  },
+  "contentHash": "7ce44b844f4ba91ce70de1d9fb6a087e4fc8288f23b1de0765f7b678895ed1f5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

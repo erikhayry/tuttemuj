@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_C/VBCV058S.HTM",
+  "title": "Kyrkogatan från seminarieområdet",
+  "summary": "Ett vykort från 1903 med en ovanlig vy över Kyrkogatan, tagen från taket på Residenshuset. Bildtexten nämner också en brand på apoteket i december 1995.",
+  "topics": [
+    "kyrkogatan",
+    "vykort",
+    "brand",
+    "apotek"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan fotograferad från seminarieområdet.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "residenshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fotografen stod på taket här."
+    },
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnaden längst till vänster på bilden, som brann i december 1995."
+    },
+    {
+      "name": "övergaards gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Sjöskogs gård"
+      ],
+      "description": "Flygeln till höger fanns här. Den är sedan länge riven."
+    }
+  ],
+  "events": [
+    {
+      "title": "Apoteket brinner under mystiska omständigheter",
+      "date": {
+        "year": 1995,
+        "month": 12,
+        "circa": false,
+        "text": "december 1995"
+      },
+      "people": [],
+      "places": [
+        "apoteket"
+      ]
+    },
+    {
+      "title": "Vykort avsänt från Nykarleby",
+      "date": {
+        "year": 1903,
+        "month": 12,
+        "day": 22,
+        "circa": false,
+        "text": "22 december 1903"
+      },
+      "people": [],
+      "places": [
+        "kyrkogatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac330ab222a325ad9c1752d8e7bd1a3b059fe35cfc01d2ca06a60c89f9fa1b22",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

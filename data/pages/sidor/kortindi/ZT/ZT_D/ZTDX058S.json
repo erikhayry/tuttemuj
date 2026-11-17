@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_D/ZTDX058S.HTM",
+  "title": "Z. Topelius (reliefkort från Vasa)",
+  "summary": "Ett reliefkort med Topelius-porträttet, skrivet i Vasa 1910 av Ruth till sin tant. Brevet berättar om en resa, en teatervistelse och ett kortspel. Avsändaren skrev upp och ner så att bilden inte skulle skadas.",
+  "topics": [
+    "topelius",
+    "relief",
+    "vykort",
+    "1910"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad i relief på kortet."
+    },
+    {
+      "name": "Ruth",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avsändare av brevet."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Reliefkort skrivet i Vasa",
+      "date": {
+        "year": 1910,
+        "month": 3,
+        "day": 19,
+        "circa": false,
+        "text": "19 1/3 10"
+      },
+      "people": [
+        "Ruth"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d2ef86320431ae34729b51d30a97fb4e3e2528089dbdcb132538ea4df13ead2e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

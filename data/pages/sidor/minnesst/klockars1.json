@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/klockars1.html",
+  "title": "Petter Klockars (skylt vid Juthasvägen)",
+  "summary": "En metallskylt över Petter Klockars, bondeståndets talman vid lantdagen i Borgå 1809, sattes upp 2008 vid Juthasvägen. Skylten står i trakten där man tror att hans hem stod.",
+  "topics": [
+    "petter klockars",
+    "juthasvägen",
+    "minnesskylt",
+    "2008"
+  ],
+  "people": [
+    {
+      "name": "Petter Klockars",
+      "alternateNames": [
+        "Petter Person Klockars"
+      ],
+      "birthYear": 1752,
+      "deathYear": 1814,
+      "roles": [
+        "talman för bondeståndet"
+      ],
+      "description": "Talman för bondeståndet vid lantdagen i Borgå 1809."
+    }
+  ],
+  "places": [
+    {
+      "name": "klockars hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Klockars hem"
+      ],
+      "description": "Platsen där Klockars hem tros ha stått. Skylten står vid Juthasvägen norr om Präststenen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Skylten över Klockars sätts upp",
+      "date": {
+        "year": 2008,
+        "month": 6,
+        "circa": false,
+        "text": "försommaren 2008"
+      },
+      "description": "Sattes upp av Forsby-Ytterjeppo hembygdsförening.",
+      "people": [
+        "Petter Klockars"
+      ],
+      "places": [
+        "klockars hemman"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ad78d03a93ebc9bd75dde0b7c694ff9e051adecbe160aa1fbab170d06e5bdc07",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

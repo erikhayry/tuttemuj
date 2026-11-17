@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/klockars.htm",
+  "title": "Petter Person Klockars 1752–1814",
+  "summary": "Minnestavlan över häradsdomaren Petter Person Klockars, från Nykarleby kyrkoby. Han var bondeståndets talman vid lantdagen i Borgå 1809 och bidrog till att svenska blev domstolarnas språk. Tavlan sattes upp 1971 och flyttades till rådhuset 1975.",
+  "topics": [
+    "petter klockars",
+    "lantdagen",
+    "rådhuset",
+    "1809"
+  ],
+  "people": [
+    {
+      "name": "Petter Person Klockars",
+      "alternateNames": [
+        "Petter Klockars"
+      ],
+      "birthYear": 1752,
+      "deathYear": 1814,
+      "roles": [
+        "häradsdomare",
+        "lantdagsman",
+        "talman för bondeståndet"
+      ],
+      "description": "Från Nykarleby kyrkoby. Representant för bondeståndet vid riksdagen i Norrköping 1800. Talman vid Borgå lantdag 1809."
+    }
+  ],
+  "places": [
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarlebys rådhus"
+      ],
+      "description": "Minnestavlan över Klockars sitter i rådhusets sessionssal sedan 1975."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lantdagen i Borgå 1809",
+      "date": {
+        "year": 1809,
+        "circa": false,
+        "text": "1809"
+      },
+      "description": "Klockars var lantdagsman och talman för bondeståndet.",
+      "people": [
+        "Petter Person Klockars"
+      ],
+      "places": []
+    },
+    {
+      "title": "Minnestavlan över Klockars sätts upp",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "description": "Sattes först upp i landskommunens sessionssal. Flyttades 1975 till rådhuset.",
+      "people": [
+        "Petter Person Klockars"
+      ],
+      "places": [
+        "rådhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b50c1e2c8bc11ae9cdb06953f84c7a511161057ec73277f25597494dc77f7489",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

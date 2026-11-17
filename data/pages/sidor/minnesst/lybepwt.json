@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/lybepwt.htm",
+  "title": "Paul Werner och Mikael Lybeck (Nygården)",
+  "summary": "En minnestavla på Nygården, där bröderna Paul Werner och Mikael Lybeck föddes 1861 och 1864. Tavlan sattes upp 1952 av stadens Rotaryklubb.",
+  "topics": [
+    "lybeck",
+    "nygården",
+    "födelsehem",
+    "1952"
+  ],
+  "people": [
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "birthYear": 1861,
+      "deathYear": 1911,
+      "roles": [
+        "författare"
+      ],
+      "description": "Född på Nygården 25 december 1861."
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "birthYear": 1864,
+      "deathYear": 1925,
+      "roles": [
+        "författare"
+      ],
+      "description": "Född på Nygården 18 mars 1864."
+    }
+  ],
+  "places": [
+    {
+      "name": "nygården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Föräldrahem och födelseplats för bröderna Lybeck. Minnestavlan sitter bakom trädet till vänster."
+    }
+  ],
+  "events": [
+    {
+      "title": "Paul Werner Lybeck föds",
+      "date": {
+        "year": 1861,
+        "month": 12,
+        "day": 25,
+        "circa": false,
+        "text": "25.12.1861"
+      },
+      "people": [
+        "Paul Werner Lybeck"
+      ],
+      "places": [
+        "nygården"
+      ]
+    },
+    {
+      "title": "Mikael Lybeck föds",
+      "date": {
+        "year": 1864,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "18.3.1864"
+      },
+      "people": [
+        "Mikael Lybeck"
+      ],
+      "places": [
+        "nygården"
+      ]
+    },
+    {
+      "title": "Minnestavlan över bröderna Lybeck sätts upp",
+      "date": {
+        "year": 1952,
+        "month": 8,
+        "circa": false,
+        "text": "sensommaren 1952"
+      },
+      "description": "På initiativ av stadens Rotaryklubb.",
+      "people": [
+        "Paul Werner Lybeck",
+        "Mikael Lybeck"
+      ],
+      "places": [
+        "nygården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "74ea47ce93147b2c31fca7703652d4b8d5a63ffd7de454591dd29dc20f412e52",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

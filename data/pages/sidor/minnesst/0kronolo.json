@@ -1,0 +1,180 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/0kronolo.htm",
+  "title": "Kronologi och typologi över minnesmärken i Nykarleby",
+  "summary": "En tabell över minnesstenar och minnestavlor i Nykarleby sedan 1870-talet, sorterade efter år och typ (person, krig, skola eller annat). Här framgår till exempel när Ankaret, Gamla begravningsplatsen och Fånglägret fick sina minnesmärken.",
+  "topics": [
+    "minnesmärken",
+    "kronologi",
+    "minnestavlor"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Minnesmärken i Nykarleby: barndomshem 1919, byst 1935."
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "redaktör"
+      ],
+      "description": "Minnesmärken: barndomshem 1952, minnessten 1962."
+    }
+  ],
+  "places": [
+    {
+      "name": "zacharias topelius barndomshem",
+      "kind": "building",
+      "alternateNames": [
+        "Topelius barndomshem"
+      ],
+      "description": "Minnesmärke från 1919."
+    },
+    {
+      "name": "ankaret",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Minnesmärke från 1965."
+    },
+    {
+      "name": "gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Minnesmärke från 1995."
+    },
+    {
+      "name": "spöpålen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Minnesmärke från 2000."
+    },
+    {
+      "name": "guldpennan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Noli me tangere"
+      ],
+      "description": "Minnesmärke från 2017."
+    },
+    {
+      "name": "fånglägret",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Minnesmärke från 2018."
+    },
+    {
+      "name": "juthbacka gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka"
+      ],
+      "description": "Minnesmärke omkring 1961."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnesmärke för Topelius barndomshem",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "zacharias topelius barndomshem"
+      ]
+    },
+    {
+      "title": "Topelius-byst avtäcks",
+      "date": {
+        "year": 1935,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Minnesmärke för R. R. Eklund",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "minnessten"
+      },
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ankaret får minnesmärke",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "ankaret"
+      ]
+    },
+    {
+      "title": "Gamla begravningsplatsen får minnesmärke",
+      "date": {
+        "year": 1995,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "gamla begravningsplatsen"
+      ]
+    },
+    {
+      "title": "Spöpålen får minnesmärke",
+      "date": {
+        "year": 2000,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "spöpålen"
+      ]
+    },
+    {
+      "title": "Guldpennan får minnesmärke",
+      "date": {
+        "year": 2017,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "guldpennan"
+      ]
+    },
+    {
+      "title": "Fånglägret får minnesmärke",
+      "date": {
+        "year": 2018,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "fånglägret"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3f488e45f26e9d4950f831b721c048fcc28e94ecd0d30c6767a97665e91e8518",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

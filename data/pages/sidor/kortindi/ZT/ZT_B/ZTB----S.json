@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_B/ZTB----S.HTM",
+  "title": "Zakarias Topelius",
+  "summary": "Ett Topelius-kort med en kort hälsning från Bert till två vänner. Kortet saknar datum och förlag.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "hälsning"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zakarias Topelius",
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    },
+    {
+      "name": "Bert",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avsändare av hälsningen."
+    }
+  ],
+  "places": [],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c19e4a4287c99ea725cf55c4ace11ef07d4e100a8f302826db8e732723c8c2bc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

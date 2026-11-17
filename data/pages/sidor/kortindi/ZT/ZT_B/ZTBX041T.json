@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_B/ZTBX041T.HTM",
+  "title": "Fröken Erika Ringius (baksida)",
+  "summary": "Adressidan på ett Topelius-kort som skickades inom Göteborg den 20 november 1901. Sidan förklarar också en avsändningsstämpel.",
+  "topics": [
+    "postkort",
+    "adressering",
+    "1901"
+  ],
+  "people": [
+    {
+      "name": "Erika Ringius",
+      "alternateNames": [
+        "Fröken Erika Ringius"
+      ],
+      "roles": [],
+      "description": "Mottagare av kortet."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Kort skickat inom Göteborg",
+      "date": {
+        "year": 1901,
+        "month": 11,
+        "day": 20,
+        "circa": false,
+        "text": "20 november 1901"
+      },
+      "people": [
+        "Erika Ringius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6961c52f9b7ff04eabee3cda17c2b3f51841b598835bb0f8fff9c4e035e1eb18",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

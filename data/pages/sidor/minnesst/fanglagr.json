@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/fanglagr.html",
+  "title": "Minnestavla över fånglägret",
+  "summary": "En minnestavla i mässing på festsalsbyggnaden, över det fånglägret 1918 där omkring 1 500 avväpnade ryska soldater internerades. Ett hundratal män från bygden var vakter. Tavlan monterades i januari 2018.",
+  "topics": [
+    "fånglägret",
+    "1918",
+    "minnestavla",
+    "inbördeskriget"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "lokalhistoriker"
+      ],
+      "description": "Tog initiativet och skrev texten på tavlan."
+    },
+    {
+      "name": "Tina Nylund",
+      "alternateNames": [],
+      "roles": [
+        "välfärdschef"
+      ],
+      "description": "Diskuterade tavlan med Lars Pensar."
+    },
+    {
+      "name": "Laura Holm",
+      "alternateNames": [],
+      "roles": [
+        "museiamanuens"
+      ],
+      "description": "Översatte texten till finska."
+    },
+    {
+      "name": "Daniel Lönnqvist",
+      "alternateNames": [],
+      "roles": [
+        "ansvarig för stadens fastigheter"
+      ],
+      "description": "Monterade tavlan på byggnaden."
+    }
+  ],
+  "places": [
+    {
+      "name": "fånglägret",
+      "kind": "building",
+      "alternateNames": [
+        "festsalsbyggnaden"
+      ],
+      "description": "Byggnaden där de ryska soldaterna var internerade. Minnestavlan sitter på dess södra fasad."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fånglägret i Nykarleby",
+      "date": {
+        "year": 1918,
+        "month": 2,
+        "day": 4,
+        "circa": false,
+        "text": "4 februari–4 juni 1918"
+      },
+      "description": "Omkring 1 500 avväpnade ryska soldater internerades. Ett hundratal lokala män var vakter.",
+      "people": [],
+      "places": [
+        "fånglägret"
+      ]
+    },
+    {
+      "title": "Minnestavlan över fånglägret monteras",
+      "date": {
+        "year": 2018,
+        "month": 1,
+        "day": 19,
+        "circa": false,
+        "text": "19 januari"
+      },
+      "people": [
+        "Lars Pensar",
+        "Daniel Lönnqvist"
+      ],
+      "places": [
+        "fånglägret"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d755f1f043eef58a77b44a8ba78095cb5e6ebc03565fce364c3deea09b10a52c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

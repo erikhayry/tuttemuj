@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/jrundt.htm",
+  "title": "Joel Rundt 1879–1971",
+  "summary": "En bronsbyst av författaren Joel Rundt står vid Nykarleby kyrka. Han föddes i Kovjoki 1879, var folkskollärare och skrev landskapsdikter om Österbotten. Minnesstenen avtäcktes 1970 i samband med stadens 350-årsjubileum.",
+  "topics": [
+    "joel rundt",
+    "författare",
+    "kovjoki",
+    "minnesmärke"
+  ],
+  "people": [
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [],
+      "birthYear": 1879,
+      "deathYear": 1971,
+      "roles": [
+        "författare",
+        "folkskollärare"
+      ],
+      "description": "Född i Kovjoki. Skrev landskapsdikter, psalmer och översättningar från finska, bland annat Sibelius hymn ur Finlandia."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "description": "Bronsbysten av Joel Rundt står nära kyrkan.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Joel Rundt föddes här.",
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Joel Rundt föds i Kovjoki",
+      "date": {
+        "year": 1879,
+        "month": 12,
+        "day": 3,
+        "circa": false,
+        "text": "3 december 1879"
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": [
+        "kovjoki"
+      ]
+    },
+    {
+      "title": "Minnesstenen över Joel Rundt avtäcks",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "1970, i samband med stadens 350-årsjubileum"
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": [
+        "nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d3fc94167d0022c2e5c639d2bb045f0687f5723f592e445408c1e80783a18e9f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

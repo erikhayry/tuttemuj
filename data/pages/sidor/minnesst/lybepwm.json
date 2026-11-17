@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/lybepwm.htm",
+  "title": "Mikael och Paul Werner Lybeck",
+  "summary": "En minnestavla över bröderna Mikael och Paul Werner Lybeck avtäcktes 1951 på den gamla Lybeckska gården, Florahemmet, vid norra älvstranden. Den ersatte en tänkt byst som stoppades av kriget.",
+  "topics": [
+    "lybeck",
+    "florahemmet",
+    "minnestavla",
+    "1951"
+  ],
+  "people": [
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "birthYear": 1864,
+      "deathYear": 1925,
+      "roles": [
+        "skald",
+        "författare"
+      ],
+      "description": "Skald och författare. Född i Nykarleby."
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "birthYear": 1861,
+      "deathYear": 1911,
+      "roles": [
+        "författare"
+      ],
+      "description": "Författare. Bror till Mikael Lybeck."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ],
+      "description": "Höll avtäckningstalet och överlämnade tavlan till staden."
+    }
+  ],
+  "places": [
+    {
+      "name": "florahemmet",
+      "kind": "building",
+      "alternateNames": [
+        "Lybeckska gården"
+      ],
+      "description": "Den före detta Lybeckska gården vid norra älvstranden. Minnestavlan sitter på väggen här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavla över bröderna Lybeck avtäcks",
+      "date": {
+        "year": 1951,
+        "month": 5,
+        "day": 27,
+        "circa": false,
+        "text": "27 maj 1951"
+      },
+      "people": [
+        "Mikael Lybeck",
+        "Paul Werner Lybeck",
+        "Einar Hedström"
+      ],
+      "places": [
+        "florahemmet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0e27bb61d4d26beceee7df9c427b876740bb732bfdab39b2d3bdb7a9d9286881",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

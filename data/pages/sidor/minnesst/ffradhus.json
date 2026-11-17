@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/ffradhus.htm",
+  "title": "Minnestavlor i Rådhuset",
+  "summary": "Minnestavlor i Rådhuset över de stupade i kriget 1918, 1939–40 och 1941–44. Tavlorna avtäcktes 1941 i Karleborg och flyttades troligen till Rådhuset 1948, när Nykarleby arbetarförening tog över Karleborg.",
+  "topics": [
+    "minnestavlor",
+    "rådhuset",
+    "karleborg",
+    "krigen"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarlebys rådhus"
+      ],
+      "description": "Minnestavlorna sitter i den före detta sessionssalen."
+    },
+    {
+      "name": "karleborg",
+      "kind": "building",
+      "alternateNames": [
+        "Karleborg"
+      ],
+      "description": "Byggnaden där tavlorna först avtäcktes 1941. Nykarleby arbetarförening tog över den."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavlorna avtäcks i Karleborg",
+      "date": {
+        "year": 1941,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "karleborg"
+      ]
+    },
+    {
+      "title": "Minnestavlorna flyttas till Rådhuset",
+      "date": {
+        "year": 1948,
+        "circa": true,
+        "text": "troligen 1948"
+      },
+      "people": [],
+      "places": [
+        "rådhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9057ab73bf1d0bf9588a1dfcf7499c0dfbb3944478ebcfe714a480fcfcc64cdd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

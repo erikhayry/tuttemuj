@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/bentalle.htm",
+  "title": "Bentallen i Kovjoki",
+  "summary": "Den fredade tallen Bentallen i Kovjoki, där två tallar har vuxit samman till en stam. Den fridlystes 1966 och ligger nära skogsvägen över Hysalhedet.",
+  "topics": [
+    "bentallen",
+    "kovjoki",
+    "naturskydd",
+    "fredade träd"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "bentallen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fredad tall nära skogsvägen över Hysalhedet i Kovjoki. Två tallar har vuxit samman."
+    },
+    {
+      "name": "kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "By där Bentallen står.",
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Bentallen fridlyses",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "bentallen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1db5c594bf3abab92297e16e51b7ad9a9a8405a8cd3549990fae31ff09766e5b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

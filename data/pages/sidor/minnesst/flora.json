@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/flora.htm",
+  "title": "Flora av Viktor Malmberg",
+  "summary": "Viktor Malmbergs skulptur Flora skänktes 1937 till hans födelsestad av beundrare och placerades i Fåfängan vid älven. Statyn har flyttats flera gånger sedan dess och står i dag i Floraparken.",
+  "topics": [
+    "flora",
+    "skulptur",
+    "floraparken",
+    "viktor malmberg"
+  ],
+  "people": [
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Konstnär som föddes i Nykarleby. Skapade skulpturen Flora."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ],
+      "description": "Överlämnade skulpturen till staden för givarnas räkning."
+    },
+    {
+      "name": "N. A. Fougstedt",
+      "alternateNames": [],
+      "roles": [
+        "direktör",
+        "fullmäktiges ordförande"
+      ],
+      "description": "Tog emot skulpturen för staden."
+    }
+  ],
+  "places": [
+    {
+      "name": "floraparken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Fåfängan"
+      ],
+      "description": "Park vid älven där Flora-skulpturen står. Parken anlades efter dammhöjningen 1984."
+    }
+  ],
+  "events": [
+    {
+      "title": "Flora avtäcks i Fåfängan",
+      "date": {
+        "year": 1937,
+        "month": 10,
+        "day": 30,
+        "circa": false,
+        "text": "lördagen den 30 oktober 1937"
+      },
+      "description": "Avtäcktes på årsdagen av konstnärens död. Gåvobrevet hade överlämnats i oktober.",
+      "people": [
+        "Viktor Malmberg",
+        "Einar Hedström",
+        "N. A. Fougstedt"
+      ],
+      "places": [
+        "floraparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "34435535da09b78965e5373190e0a55c56e649374799e63c500277195ebc2a6f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

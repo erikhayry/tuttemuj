@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/kungsste.htm",
+  "title": "Kungsstenen",
+  "summary": "Kungsstenen på Tattarbacken i Karby står vid en gammal väg där sägnen säger att kung Adolf Fredrik åt frukost under sin Finlandsresa 1752. Sidan jämför med Topelius skildring i Fältskärns berättelser.",
+  "topics": [
+    "kungsstenen",
+    "adolf fredrik",
+    "karby",
+    "1752"
+  ],
+  "people": [
+    {
+      "name": "Adolf Fredrik",
+      "alternateNames": [
+        "Adolf Fredrik av Holstein-Gottorp"
+      ],
+      "birthYear": 1710,
+      "deathYear": 1771,
+      "roles": [
+        "kung"
+      ],
+      "description": "Sveriges konung från 1751. Gjorde en resa till Finland 1752."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": [
+        "författare"
+      ],
+      "description": "Beskrev kungens resa i Fältskärns berättelser."
+    }
+  ],
+  "places": [
+    {
+      "name": "kungsstenen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Tattarbacken"
+      ],
+      "description": "Sten på Tattarbacken i Karby, norr om Jakobstadsvägen. Enligt sägnen åt kungen frukost här."
+    },
+    {
+      "name": "karby",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "By där Kungsstenen står. Förr en del av landsförsamlingen i Nykarleby."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kung Adolf Fredrik äter frukost vid Karby",
+      "date": {
+        "year": 1752,
+        "circa": false,
+        "text": "1752 (enligt sägnen)"
+      },
+      "people": [
+        "Adolf Fredrik"
+      ],
+      "places": [
+        "kungsstenen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0820c1d45b036f87fd668da6cb019cf3365f8d6d8bef037a82951cc6cf3a143e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

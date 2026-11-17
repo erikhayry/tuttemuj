@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/eb_plak.htm",
+  "title": "Erik Bergman 1911–2006 (plakett)",
+  "summary": "En plakett över tonsättaren Erik Bergman, som föddes i Nykarleby 1911. Plaketten sattes upp 1987 på trädgårdsmästarbostaden vid Stadsträdgården och har sedan flyttats till östra fasaden.",
+  "topics": [
+    "erik bergman",
+    "tonsättare",
+    "plakett",
+    "stadsträdgården"
+  ],
+  "people": [
+    {
+      "name": "Erik Bergman",
+      "alternateNames": [
+        "Erik Bergman 1911–2006"
+      ],
+      "birthYear": 1911,
+      "deathYear": 2006,
+      "roles": [
+        "tonsättare",
+        "professor i komposition"
+      ],
+      "description": "Född i Nykarleby. Professor i komposition vid Sibeliusakademin och en av Finlands mest kända tonsättare."
+    }
+  ],
+  "places": [
+    {
+      "name": "stadsträdgården",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Plaketten satt först på trädgårdsmästarbostaden här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Plaketten över Erik Bergman sätts upp",
+      "date": {
+        "year": 1987,
+        "circa": false,
+        "text": "1987 (tidigare antaget 1991)"
+      },
+      "description": "Sattes upp på södra gaveln av trädgårdsmästarbostaden. Flyttades senare till östra fasaden.",
+      "people": [
+        "Erik Bergman"
+      ],
+      "places": [
+        "stadsträdgården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cf5307c086d75de948fb0bc92ea52ed498164d63faeba387dee19fdd16aa21ba",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

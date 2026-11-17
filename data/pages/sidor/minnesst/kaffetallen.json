@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/kaffetallen.html",
+  "title": "Kaffetallen",
+  "summary": "Kaffetallen var en gammal tall vid början av Munsalavägen som många Nykarlebybor minns. Den fälldes i oktober 2019, eftersom staden bedömde att den stod för nära trafiken.",
+  "topics": [
+    "kaffetallen",
+    "tall",
+    "munsalavägen",
+    "märkesträd"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kaffetallen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Kaffetallen vid Munsalavägen"
+      ],
+      "description": "Tall vid början av Munsalavägen, nära Södra tullen. Fälldes 2019."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kaffetallen fälls",
+      "date": {
+        "year": 2019,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 2019"
+      },
+      "description": "Staden ansåg att närheten till den trafikerade vägen var en risk.",
+      "people": [],
+      "places": [
+        "kaffetallen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "671a68a9842258ea485a771fcb9aacd0502d388f82e105df6cc2433592b4d612",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

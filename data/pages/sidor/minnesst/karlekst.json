@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/karlekst.htm",
+  "title": "Kärlekstallen",
+  "summary": "Kärlekstallen är en säregen tall i Juthbackakröken utanför Nykarleby. Den blev fridlyst 1963, efter en ansökan från Nykarleby landskommun 1959. Sidan samlar äldre berättelser om trädets historia, bland annat om en kanonkula från slaget på platsen.",
+  "topics": [
+    "kärlekstallen",
+    "fridlysning",
+    "juthbacka",
+    "naturskydd"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kärlekstallen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Juthback-kroken",
+        "Juthbackakröken"
+      ],
+      "description": "Tall i Juthbackakröken utanför Nykarleby. Fridlyst sedan oktober 1963."
+    },
+    {
+      "name": "juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka gård"
+      ],
+      "description": "Gården nära Kärlekstallen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ansökan om fridlysning av Kärlekstallen",
+      "date": {
+        "year": 1959,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 1959"
+      },
+      "people": [],
+      "places": [
+        "kärlekstallen"
+      ]
+    },
+    {
+      "title": "Kärlekstallen fridlyses",
+      "date": {
+        "year": 1963,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 1963"
+      },
+      "people": [],
+      "places": [
+        "kärlekstallen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0d9d26e4107cf5b1cf5cb5e4c67004ecfe678344b4f36bd9f08e5d443c3828f3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/josefher.htm",
+  "title": "Josef Herler 1886–1968",
+  "summary": "En bronsrelief över Josef Herler, eldsjäl och kulturvårdare, placerades 1977 på en klippa vid museet han var med och skapade. Reliefen sattes upp vid museiföreningens 25-årsjubileum.",
+  "topics": [
+    "josef herler",
+    "museet",
+    "kulturvårdare",
+    "bronsrelief"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "birthYear": 1886,
+      "deathYear": 1968,
+      "roles": [
+        "eldsjäl",
+        "kulturvårdare",
+        "teaterledare"
+      ],
+      "description": "Grundade museet i Nykarleby och ledde teatern."
+    }
+  ],
+  "places": [
+    {
+      "name": "museigården",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby museum"
+      ],
+      "description": "Museet som Josef Herler skapade. Bronsreliefen sitter på en klippa intill."
+    }
+  ],
+  "events": [
+    {
+      "title": "Bronsrelief över Josef Herler sätts upp",
+      "date": {
+        "year": 1977,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 1977"
+      },
+      "description": "Sattes upp vid museiföreningens 25-årsjubileum. Reliefen är utformad av Thea Helenelund.",
+      "people": [
+        "Josef Herler"
+      ],
+      "places": [
+        "museigården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fd6e2fd51f619bd563e7439981aae8451f0979cce81c7881f943a03244fa780f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

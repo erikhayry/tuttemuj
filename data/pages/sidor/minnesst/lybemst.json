@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/lybemst.htm",
+  "title": "Mikael Lybeck 1864–1925 (minnessten)",
+  "summary": "En minnessten över författaren Mikael Lybeck avtäcktes 1966 på Lybecksgatan. Den består av ett granitblock med en bronsrelief av skalden, gjord av skulptören Gunnar Elfgren.",
+  "topics": [
+    "mikael lybeck",
+    "minnessten",
+    "lybecksgatan",
+    "1966"
+  ],
+  "people": [
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "birthYear": 1864,
+      "deathYear": 1925,
+      "roles": [
+        "författare"
+      ],
+      "description": "Föremål för minnestenen."
+    },
+    {
+      "name": "Gunnar Elfgren",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Gjorde minnesmärket med bronsreliefen."
+    }
+  ],
+  "places": [
+    {
+      "name": "lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Minnestenen står i en speciellt anordnad plantering här.",
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnessten över Mikael Lybeck avtäcks",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "description": "Bekostades av Svenska Litteratursällskapet, Svenska Författarföreningen och staden.",
+      "people": [
+        "Mikael Lybeck",
+        "Gunnar Elfgren"
+      ],
+      "places": [
+        "lybecksgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d24708e6591af524d7abb36461ed12d3f89aeae963ad8e6586a0016b9373b37e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

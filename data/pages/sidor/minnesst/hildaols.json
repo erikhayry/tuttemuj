@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/hildaols.htm",
+  "title": "Hilda Olson 1832–1915",
+  "summary": "En minnestavla på museigården där målarinnan Hilda Olson föddes 1832. Den sattes upp 1952 tillsammans med tavlor för Victor Malmberg, R. R. Eklund och bröderna Lybeck. Sidan rättar också ett felaktigt dödsår.",
+  "topics": [
+    "hilda olson",
+    "målarinna",
+    "minnestavla",
+    "museigården"
+  ],
+  "people": [
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "birthYear": 1832,
+      "deathYear": 1915,
+      "roles": [
+        "målarinna"
+      ],
+      "description": "Född i Nykarleby i huset som nu är museum."
+    },
+    {
+      "name": "Victor Malmberg",
+      "alternateNames": [
+        "Viktor Malmberg"
+      ],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Minnestavla vid hans hemgård Apoteksgården."
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "författare",
+        "redaktör"
+      ],
+      "description": "Minnestavla vid hans barndomshem vid torget."
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Minnestavla vid familjens födelsehem på Nygården."
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Minnestavla vid familjens födelsehem på Nygården."
+    }
+  ],
+  "places": [
+    {
+      "name": "museigården",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby museum"
+      ],
+      "description": "Huset där Hilda Olson föddes. Minnestavlan sitter på museets sydgavel."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavlor över nykarlebybor sätts upp",
+      "date": {
+        "year": 1952,
+        "month": 8,
+        "circa": false,
+        "text": "sensommaren 1952"
+      },
+      "description": "På initiativ av stadens rotaryklubb.",
+      "people": [
+        "Hilda Olson",
+        "Victor Malmberg",
+        "R. R. Eklund",
+        "Mikael Lybeck",
+        "Paul Werner Lybeck"
+      ],
+      "places": [
+        "museigården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "674e532b1cd84306a26c8f3868f41381f0b252706d5da42e6fb3c8eeb833c60c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

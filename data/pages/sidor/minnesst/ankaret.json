@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/ankaret.htm",
+  "title": "Ankaret",
+  "summary": "Ett 657 kilo tungt ankare från flottningstiden som sedan 1965 har stått i Nykarleby. Sedan mitten av 1980-talet står det nordväst om kyrkan, och det är tillsammans med gatunamnet Skeppsgatan den enda påminnelsen om stadens sjöfart.",
+  "topics": [
+    "ankaret",
+    "sjöfart",
+    "flottning",
+    "minnesmärke"
+  ],
+  "people": [
+    {
+      "name": "Carl Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "polismästare"
+      ],
+      "description": "Förre polismästaren som lät väga ankaret, 657 kg."
+    }
+  ],
+  "places": [
+    {
+      "name": "ankaret",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Ankaret står nordväst om kyrkan sedan mitten av 1980-talet. Det flyttades dit från Floraparken."
+    },
+    {
+      "name": "skeppsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatunamnet påminner om stadens sjöfartstradition.",
+      "geo": {
+        "lat": 63.5230506,
+        "lng": 22.5392948,
+        "match": "name",
+        "gazetteerName": "skeppsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ankaret transporteras till staden",
+      "date": {
+        "year": 1965,
+        "circa": false,
+        "text": "vintern 1965"
+      },
+      "description": "Ankaret hämtades från Sandören i Socklot, där det sista användes för att förtöja flottat timmer. Det ställdes upp vid Nykarleby museum.",
+      "people": [],
+      "places": [
+        "ankaret"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6714844785f4aae13e582641a8432a90a3d77ccef46f1a113a89779e050e319a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

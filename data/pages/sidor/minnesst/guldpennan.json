@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/guldpennan.html",
+  "title": "Guldpennan eller Noli me tangere",
+  "summary": "En fyra meter hög skulptur i form av en fjäderpenna och ett bläckhorn, placerad i Kuddnäsrondellen och inspirerad av Topelius dikt ”Noli me tangere”, skriven efter hustruns död. Skulpturen invigdes 2017 och lystes i Ukrainas färger 2023.",
+  "topics": [
+    "guldpennan",
+    "topelius",
+    "skulptur",
+    "kuddnäs",
+    "2017"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev dikten ”Noli me tangere” som skulpturen är inspirerad av."
+    },
+    {
+      "name": "Ann-Sofie Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Skapade skulpturen."
+    }
+  ],
+  "places": [
+    {
+      "name": "guldpennan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Noli me tangere",
+        "Kuddnäsrondellen"
+      ],
+      "description": "Fyra meter hög skulptur i rondellen vid Kuddnäs."
+    },
+    {
+      "name": "kuddnäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Kuddnäs"
+      ],
+      "description": "Rondellen vid Kuddnäs är där skulpturen står."
+    }
+  ],
+  "events": [
+    {
+      "title": "Guldpennan invigs i Kuddnäsrondellen",
+      "date": {
+        "year": 2017,
+        "month": 12,
+        "day": 5,
+        "circa": false,
+        "text": "5 december 2017"
+      },
+      "description": "Pennan kom på plats i slutet av november 2017.",
+      "people": [
+        "Ann-Sofie Eriksson"
+      ],
+      "places": [
+        "guldpennan"
+      ]
+    },
+    {
+      "title": "Guldpennan lyses i Ukrainas färger",
+      "date": {
+        "year": 2023,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "text": "24 februari 2023"
+      },
+      "description": "Skulpturen lystes upp för att uppmärksamma årsdagen av Rysslands invasion av Ukraina.",
+      "people": [],
+      "places": [
+        "guldpennan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3c52dcb019c8279cfdc365863fc5b98d1a96dc0ab074418e1d651a00686bd4ab",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

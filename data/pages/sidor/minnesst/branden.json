@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/branden.html",
+  "title": "Minnesstenen över stadsbranden 1858",
+  "summary": "En minnesplatta över stadsbranden i Nykarleby 12–13 januari 1858, avtäckt 2013 nära Floraparken. Branden förstörde två tredjedelar av stadens bostadshus, men ingen miste livet. Staden beslutade redan fem dagar senare att byggas upp på samma plats.",
+  "topics": [
+    "stadsbranden",
+    "1858",
+    "floraparken",
+    "minnesmärke"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "lokalhistoriker"
+      ],
+      "description": "Tog initiativet till minnesplattan och höll invigningstalet."
+    }
+  ],
+  "places": [
+    {
+      "name": "floraparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Branden startade på en plats nära parken, där minnesplattan står."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden i Nykarleby",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 12,
+        "circa": false,
+        "text": "12–13 januari 1858"
+      },
+      "description": "Branden började nära Floraparken och förstörde 102 bostadshus.",
+      "people": [],
+      "places": [
+        "floraparken"
+      ]
+    },
+    {
+      "title": "Minnesplatta över branden avtäcks",
+      "date": {
+        "year": 2013,
+        "month": 8,
+        "day": 17,
+        "circa": false,
+        "text": "lördagen den 17 augusti 2013"
+      },
+      "description": "Avtäcktes under Nykarlebyveckan.",
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "floraparken"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En januarinatt 1858 brinner större delen av Nykarleby. Fem dagar senare beslutar stadsfullmäktige att bygga upp staden på samma plats, och den nya staden växer fram med breda gator och envåningshus.",
+    "reason": "Det är en stor händelse med ett tydligt förlopp, men sidan ger bara några rader av berättelsen och inga namngivna personer.",
+    "characters": [],
+    "places": [
+      "floraparken"
+    ]
+  },
+  "contentHash": "df44b585df11612127db406a5703f7ad183fdec0f638d7c082b6cb41e703e498",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

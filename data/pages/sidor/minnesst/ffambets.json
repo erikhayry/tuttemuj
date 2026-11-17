@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/ffambets.html",
+  "title": "Minnestavla i ämbetshuset",
+  "summary": "En minnestavla i ämbetshuset med namnen på 183 Nykarlebymän som stupade i krigen 1918 och 1939–1945. Den avtäcktes vid stadsfullmäktige 2010 efter en motion av Gun Sandberg.",
+  "topics": [
+    "minnestavla",
+    "krigen",
+    "1918",
+    "1939–45",
+    "ämbetshuset"
+  ],
+  "people": [
+    {
+      "name": "Gun Sandberg",
+      "alternateNames": [],
+      "roles": [
+        "motionsställare"
+      ],
+      "description": "Lämnade motionen om tavlan och avtäckte den."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "lokalhistoriker"
+      ],
+      "description": "Hjälpte till att ta fram tavlans innehåll."
+    }
+  ],
+  "places": [
+    {
+      "name": "ämbetshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tavlan sitter på väggen mot sessionssalen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavlan över de stupade avtäcks",
+      "date": {
+        "year": 2010,
+        "month": 9,
+        "day": 23,
+        "circa": false,
+        "text": "23 september 2010"
+      },
+      "description": "Avtäcktes vid stadsfullmäktiges möte.",
+      "people": [
+        "Gun Sandberg"
+      ],
+      "places": [
+        "ämbetshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4b7389aa7722ac2b3cab88d172855bc5d9b762e2e15a5c475facbad9fc1d3103",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

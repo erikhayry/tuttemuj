@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/laxon.htm",
+  "title": "Laxön – jägaretappstation",
+  "summary": "Laxön var en jägaretappstation 1915–1917, där fiskaren Laxö-Anders tog emot blivande jägare på väg över Kvarken. Efter en jakt av gendarmer och militärer lyckades han fly till Sverige. Minnesplattan avtäcktes på ön 1990.",
+  "topics": [
+    "laxön",
+    "jägarrörelsen",
+    "1915–1917",
+    "laxö-anders"
+  ],
+  "people": [
+    {
+      "name": "Laxö-Anders",
+      "alternateNames": [
+        "Anders Andersson i Vexala"
+      ],
+      "roles": [
+        "fiskare",
+        "etappman i jägarrörelsen"
+      ],
+      "description": "Fiskade på Laxön och tog emot blivande jägare i sin fiskarstuga."
+    },
+    {
+      "name": "Oscar Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ],
+      "description": "Varnade Laxö-Anders för en fälla."
+    }
+  ],
+  "places": [
+    {
+      "name": "laxön",
+      "kind": "island",
+      "alternateNames": [
+        "Laxö"
+      ],
+      "description": "Ö nära Vexala. Jägaretappstationen 1915–1917."
+    }
+  ],
+  "events": [
+    {
+      "title": "Jägaretappstationen på Laxön",
+      "date": {
+        "year": 1915,
+        "circa": false,
+        "text": "1915–1917"
+      },
+      "description": "Totalt 28 blivande jägare härbärgerades hos Laxö-Anders.",
+      "people": [
+        "Laxö-Anders"
+      ],
+      "places": [
+        "laxön"
+      ]
+    },
+    {
+      "title": "Gendarmer kommer för att gripa Laxö-Anders",
+      "date": {
+        "year": 1916,
+        "month": 5,
+        "day": 25,
+        "circa": false,
+        "text": "25 maj 1916"
+      },
+      "people": [
+        "Laxö-Anders"
+      ],
+      "places": [
+        "laxön"
+      ]
+    },
+    {
+      "title": "Minnesplattan över jägaretappstationen avtäcks",
+      "date": {
+        "year": 1990,
+        "month": 8,
+        "day": 18,
+        "circa": false,
+        "text": "18 augusti 1990"
+      },
+      "people": [
+        "Laxö-Anders"
+      ],
+      "places": [
+        "laxön"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Fiskaren Laxö-Anders för blivande jägare över Kvarken från sin ö. När gendarmerna kommer för att gripa honom 1916 hoppar han ut genom ett fönster, gömmer sig i en grotta på Frösön och tar sig till Sverige i en båt med två amerikafarare, efter över sjutton timmars roddning.",
+    "reason": "Det finns en tydlig jakt, ett gömställe, en varning från borgmästaren och en lång roddfärd, vilket är en stark äventyrsberättelse.",
+    "characters": [
+      "Laxö-Anders",
+      "Oscar Calamnius"
+    ],
+    "places": [
+      "laxön"
+    ]
+  },
+  "contentHash": "45b34871e223565fdb8813e63f12356a8347f4551727c878845013af510784cd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

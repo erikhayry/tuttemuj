@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/eb_stolp.htm",
+  "title": "Erik Bergmans plats",
+  "summary": "Erik Bergmans plats i Nykarleby är en plats vid torget som fick sitt namn när torget invigdes 1989. Den har fått namn efter tonsättaren som föddes i staden 1911.",
+  "topics": [
+    "erik bergman",
+    "torget",
+    "bankgatan",
+    "1989"
+  ],
+  "people": [
+    {
+      "name": "Erik Bergman",
+      "alternateNames": [],
+      "birthYear": 1911,
+      "deathYear": 2006,
+      "roles": [
+        "tonsättare"
+      ],
+      "description": "Född i Nykarleby. Platsen har fått sitt namn efter honom."
+    }
+  ],
+  "places": [
+    {
+      "name": "erik bergmans plats",
+      "kind": "landmark",
+      "alternateNames": [
+        "Bankgatan"
+      ],
+      "description": "Plats vid torget som invigdes i samband med torginvigningen 1989. Tidigare fanns Nordea här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Bergmans plats invigs",
+      "date": {
+        "year": 1989,
+        "circa": false
+      },
+      "description": "Invigdes i samband med torginvigningen.",
+      "people": [
+        "Erik Bergman"
+      ],
+      "places": [
+        "erik bergmans plats"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c243b7189ffd8809c3ee283c99115efeb3b6b30dee14fe4a6e88663efa41e27f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

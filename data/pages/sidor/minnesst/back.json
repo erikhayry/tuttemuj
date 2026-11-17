@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/back.html",
+  "title": "Bäck – minnestavla i Forsby",
+  "summary": "En minnestavla över folkkirurgerna Johan Jakob och Matts Bäck från Forsby avtäcktes under Kulturveckan 2010. Sidan innehåller deras levnadsår och vad de gjorde.",
+  "topics": [
+    "bäck",
+    "forsby",
+    "folkkirurgi",
+    "minnestavla"
+  ],
+  "people": [
+    {
+      "name": "Johan Jakob Bäck",
+      "alternateNames": [
+        "Jakob Bäck"
+      ],
+      "birthYear": 1823,
+      "deathYear": 1879,
+      "roles": [
+        "folkkirurg",
+        "stadsfältskär"
+      ],
+      "description": "Känd för sina benbrottsbehandlingar i Finland, Ryssland och Sverige. Dog i Vasa."
+    },
+    {
+      "name": "Matts Bäck",
+      "alternateNames": [],
+      "birthYear": 1819,
+      "deathYear": 1891,
+      "roles": [
+        "folkkirurg",
+        "bonde"
+      ],
+      "description": "Bonde i Forsby som utövade folkkirurgi vid sidan av gårdsarbetet."
+    }
+  ],
+  "places": [
+    {
+      "name": "bäck i forsby",
+      "kind": "farm",
+      "alternateNames": [
+        "Bäck"
+      ],
+      "address": "Forsby byväg 159",
+      "description": "Gården i Forsby där Matts Bäck bodde till sin död. Minnestavlan avtäcktes här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavla över Bäck-bröderna avtäcks",
+      "date": {
+        "year": 2010,
+        "circa": false,
+        "text": "Kulturveckan 2010"
+      },
+      "description": "Arrangerades av Forsby-Ytterjeppo hembygdsförening.",
+      "people": [
+        "Johan Jakob Bäck",
+        "Matts Bäck"
+      ],
+      "places": [
+        "bäck i forsby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f16974c30363ef0bc3d6696a2c655273fc1605c138843991c884be390197184c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

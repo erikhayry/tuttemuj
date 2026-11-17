@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTAX019S.HTM",
+  "title": "Z. Topelius",
+  "summary": "Ett Topelius-porträttkort med en gratulation på Ainas dag den 10 maj 1902. Kortet är en personlig hälsning snarare än ett fristående porträtt.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "gratulation"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Gratulationskort på Ainas dag",
+      "date": {
+        "year": 1902,
+        "month": 5,
+        "day": 10,
+        "circa": false,
+        "text": "10/5 1902"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f084177dc9ceef95e4b5402ff438642aab83bbfd4ae40d8ab73e30ea30ce4e35",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

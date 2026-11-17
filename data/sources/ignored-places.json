@@ -1,36 +1,158 @@
 [
-  {"name": "bottenhavet", "reason": "outside-nykarleby"},
-  {"name": "bottenviken", "reason": "outside-nykarleby"},
-  {"name": "bottniska viken", "reason": "outside-nykarleby"},
-  {"name": "brunnen", "reason": "too-generic"},
-  {"name": "brända tomten", "reason": "too-generic"},
-  {"name": "centrum", "reason": "too-generic"},
-  {"name": "finska viken", "reason": "outside-nykarleby"},
-  {"name": "gård nr 41", "reason": "too-generic"},
-  {"name": "hangö", "reason": "outside-nykarleby"},
-  {"name": "karleby", "reason": "outside-nykarleby"},
-  {"name": "korsholm", "reason": "outside-nykarleby"},
-  {"name": "kvarken", "reason": "outside-nykarleby"},
-  {"name": "landsvägen", "reason": "too-generic"},
-  {"name": "magasinstomterna", "reason": "too-generic"},
-  {"name": "mustasaari", "reason": "outside-nykarleby"},
-  {"name": "nykarleby stads ägor", "reason": "too-generic"},
-  {"name": "närpes", "reason": "outside-nykarleby"},
-  {"name": "näsibackabron", "reason": "outside-nykarleby"},
-  {"name": "packhusen", "reason": "too-generic"},
-  {"name": "pedersöre", "reason": "outside-nykarleby"},
-  {"name": "plats för rådhus", "reason": "too-generic"},
-  {"name": "plats för skolhus", "reason": "too-generic"},
-  {"name": "räfsö", "reason": "outside-nykarleby"},
-  {"name": "skolan", "reason": "too-generic"},
-  {"name": "skolbyggnaden", "reason": "too-generic"},
-  {"name": "storkyro", "reason": "outside-nykarleby"},
-  {"name": "tomt 10", "reason": "too-generic"},
-  {"name": "tomt 85", "reason": "too-generic"},
-  {"name": "utmarken", "reason": "too-generic"},
-  {"name": "vassorfjärden", "reason": "outside-nykarleby"},
-  {"name": "vattengången", "reason": "too-generic"},
-  {"name": "vörå", "reason": "outside-nykarleby"},
-  {"name": "österbotten", "reason": "outside-nykarleby"},
-  {"name": "östersjön", "reason": "outside-nykarleby"}
+  {
+    "name": "bottenhavet",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "bottenviken",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "bottniska viken",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "brunnen",
+    "reason": "too-generic"
+  },
+  {
+    "name": "brända tomten",
+    "reason": "too-generic"
+  },
+  {
+    "name": "centrum",
+    "reason": "too-generic"
+  },
+  {
+    "name": "finska viken",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "gård nr 41",
+    "reason": "too-generic"
+  },
+  {
+    "name": "hangö",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "karleby",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "korsholm",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "kvarken",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "landsvägen",
+    "reason": "too-generic"
+  },
+  {
+    "name": "magasinstomterna",
+    "reason": "too-generic"
+  },
+  {
+    "name": "mustasaari",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "nykarleby stads ägor",
+    "reason": "too-generic"
+  },
+  {
+    "name": "närpes",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "näsibackabron",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "packhusen",
+    "reason": "too-generic"
+  },
+  {
+    "name": "pedersöre",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "plats för rådhus",
+    "reason": "too-generic"
+  },
+  {
+    "name": "plats för skolhus",
+    "reason": "too-generic"
+  },
+  {
+    "name": "räfsö",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "skolan",
+    "reason": "too-generic"
+  },
+  {
+    "name": "skolbyggnaden",
+    "reason": "too-generic"
+  },
+  {
+    "name": "storkyro",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "tomt 10",
+    "reason": "too-generic"
+  },
+  {
+    "name": "tomt 85",
+    "reason": "too-generic"
+  },
+  {
+    "name": "utmarken",
+    "reason": "too-generic"
+  },
+  {
+    "name": "vassorfjärden",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "vattengången",
+    "reason": "too-generic"
+  },
+  {
+    "name": "vörå",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "österbotten",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "östersjön",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "vasa",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "karby",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "kungsstenen",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "knapebysten",
+    "reason": "outside-nykarleby"
+  },
+  {
+    "name": "fäboda",
+    "reason": "too-generic"
+  }
 ]

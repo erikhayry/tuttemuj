@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/galgback.htm",
+  "title": "Galgbacken",
+  "summary": "Om Galgbacken nordost om Stall Åminne, där avrättningar ägde rum. Sidan jämför platsen med hur dödsstraffen minskade efter lagändringen 1866, och noterar att Topelius aldrig skrev om platsen.",
+  "topics": [
+    "galgbacken",
+    "avrättning",
+    "dödsstraff",
+    "1866"
+  ],
+  "people": [
+    {
+      "name": "Maria Johansson",
+      "alternateNames": [
+        "Garvar-Maj"
+      ],
+      "roles": [
+        "piga"
+      ],
+      "description": "Enligt sidan den sista som avrättades i Nykarleby."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Gick förbi platsen men skrev aldrig någon berättelse om den."
+    }
+  ],
+  "places": [
+    {
+      "name": "galgbacken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Galgbacken"
+      ],
+      "description": "Avrättningsplatsen, ett par hundra meter nordost om Stall Åminne, före Gråsövägen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nya förordningar mildrar dödsstraffen",
+      "date": {
+        "year": 1866,
+        "month": 11,
+        "day": 26,
+        "circa": false,
+        "text": "26.11.1866"
+      },
+      "description": "Dödsstraff kunde nu bytas mot tukthus- eller fängelsestraff. Förordningarna trädde i kraft 1 januari 1870.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e3c82dd6fca8fd182da1f9535d0ac985f54793136d07471f3db3861d4bf5b759",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

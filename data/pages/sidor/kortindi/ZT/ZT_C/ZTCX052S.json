@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_C/ZTCX052S.HTM",
+  "title": "Z. Topelius (Toini)",
+  "summary": "Ett Topelius-kort med en födelsedagshälsning till Toini från A.B. Kortet är utgivet av Granbergs förlag i Sverige.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "gratulation",
+    "förlag"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    },
+    {
+      "name": "Toini",
+      "alternateNames": [
+        "Toini Andesson"
+      ],
+      "roles": [],
+      "description": "Gratulerad till sin födelsedag."
+    }
+  ],
+  "places": [],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "04174a94aee7d25f8adefdb32611aecc48e4ab76090171d4bf274139f599ebb2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

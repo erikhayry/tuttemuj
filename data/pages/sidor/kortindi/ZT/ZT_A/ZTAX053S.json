@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTAX053S.HTM",
+  "title": "Z. Topelius (Wilhelmina-dagen)",
+  "summary": "Ett Topelius-kort med en gratulation på Wilhelmina-dagen från eleven Matilda Wiberg. Kortets baksida skiljer sig från ett annat kort med samma framsida.",
+  "topics": [
+    "topelius",
+    "gratulation",
+    "porträtt"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    },
+    {
+      "name": "Matilda Wiberg",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ],
+      "description": "Avsändare av gratulationen."
+    }
+  ],
+  "places": [],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5d41c2e337a3e49ded133405627f669270eea52467d95c6beea923559452161f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

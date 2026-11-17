@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/kyrkobsk.htm",
+  "title": "Kyrkoby folkskola och Uudenkaarlepyyn suomalainen koulu",
+  "summary": "En minnestavla över Kyrkoby folkskola (1923–1964) och den finskspråkiga skolan Uudenkaarlepyyn suomalainen koulu (1964–1997). Skolbyggnaden revs 2017, och tavlan har satts upp igen.",
+  "topics": [
+    "kyrkoby folkskola",
+    "skolhistoria",
+    "minnestavla",
+    "finska skolan"
+  ],
+  "people": [
+    {
+      "name": "Ann-Mari Westerby",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Lärare Granqvists dotter. Ordnade så att skylten sattes upp 2018."
+    }
+  ],
+  "places": [
+    {
+      "name": "kyrkoby folkskola",
+      "kind": "building",
+      "alternateNames": [
+        "Uudenkaarlepyyn suomalainen koulu"
+      ],
+      "description": "Skolbyggnaden i Kyrkoby. Revs 2017. Minnestavlan har flyttats."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkoby folkskola öppnar",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "kyrkoby folkskola"
+      ]
+    },
+    {
+      "title": "Kyrkoby folkskola revs",
+      "date": {
+        "year": 2017,
+        "circa": false
+      },
+      "description": "Minnestavlan togs ner och finns nu i den nya arbetscentralen.",
+      "people": [],
+      "places": [
+        "kyrkoby folkskola"
+      ]
+    },
+    {
+      "title": "Minnestavlan sätts upp igen",
+      "date": {
+        "year": 2019,
+        "circa": true,
+        "text": "omkring maj 2019"
+      },
+      "people": [
+        "Ann-Mari Westerby"
+      ],
+      "places": [
+        "kyrkoby folkskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f26504feac97fb766dfef4e24a350cd2ddbef309824332ffbc0ab9c934abf3d4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

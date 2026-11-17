@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_F/ZTF.HTML",
+  "title": "Topeliusstatyn i Vasa",
+  "summary": "En berättelse om hur Topeliusstatyn i Vasa kom till: från några lärares insamling efter Topelius begravning 1898 till avtäckningen 1915, med förseningar, kritik och krigsoro. Sidan jämför också med Kurtén-bysten i Vasa. Topelius föddes i Nykarleby, men statyn står i Vasa.",
+  "topics": [
+    "topeliusstatyn",
+    "vasa",
+    "skulptur",
+    "monument"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Sagoberättare och skald som monumentet hedrar. Föddes på Kuddnäs i Nykarleby."
+    },
+    {
+      "name": "Emilia Akola",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ],
+      "description": "Lärarinna i Vasa som tog initiativet till Topelius-monumentet."
+    },
+    {
+      "name": "Emil Wikström",
+      "alternateNames": [],
+      "roles": [
+        "bildhuggare",
+        "skulptör"
+      ],
+      "description": "Skapade både Kurtén-bysten och Topelius-statyn."
+    },
+    {
+      "name": "Joachim Kurtén",
+      "alternateNames": [],
+      "roles": [
+        "stadsfullmäktiges ordförande",
+        "lantdagsman",
+        "affärsman"
+      ],
+      "description": "Fick en byst i Vasa som avtäcktes 1908."
+    },
+    {
+      "name": "Fredrik Hartman",
+      "alternateNames": [],
+      "roles": [
+        "läkare",
+        "filosofie doktor"
+      ],
+      "description": "Talade vid invigningen av Topelius-statyn."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Topeliusstatyn avtäcks i Vasa",
+      "date": {
+        "year": 1915,
+        "month": 5,
+        "day": 22,
+        "circa": false,
+        "text": "22 maj 1915"
+      },
+      "description": "Statyn avtäcktes i Vasa efter att ha kommit från Köpenhamn.",
+      "people": [
+        "Zacharias Topelius",
+        "Emil Wikström",
+        "Fredrik Hartman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kurtén-bysten avtäcks i Vasa",
+      "date": {
+        "year": 1908,
+        "month": 5,
+        "day": 23,
+        "circa": false,
+        "text": "23 maj 1908"
+      },
+      "people": [
+        "Joachim Kurtén",
+        "Emil Wikström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Lärarinnan Emilia Akola samlar skolbarnen i Vasa för att skapa ett minnesmärke över Topelius, trots kritik och politiska hinder. Kriget försenar allt, och bronsstatyn måste ta sig över havet när ett fartyg sänks i Bottenhavet.",
+    "reason": "Sidan har en tydlig följd av händelser med motstånd, väntan och en dramatisk resa över havet, och flera tydliga personer med egna drag.",
+    "characters": [
+      "Emilia Akola",
+      "Emil Wikström",
+      "Zacharias Topelius"
+    ],
+    "places": []
+  },
+  "contentHash": "908d8409e96091e1725fe2f423f5f685dda4e1cc5bd6768888b7e94ca65bd336",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

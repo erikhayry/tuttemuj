@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/kraftver.htm",
+  "title": "Minnestavla över Nykarleby kraftverk",
+  "summary": "En minnestavla över Nykarleby kraftverk med texten ”Nykarleby kraftverk anno 1926”. Kraftverkets 80-årsjubileum firades i augusti 2006 med öppet hus och en historik.",
+  "topics": [
+    "kraftverket",
+    "1926",
+    "jubileum",
+    "älven"
+  ],
+  "people": [
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev historiken Nykarleby Kraftverk 1926–2006."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [
+        "kraftverket"
+      ],
+      "description": "Kraftverket i Nykarleby, med minnestavlan från 1926."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby kraftverk anno 1926",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Kraftverkets 80-årsjubileum",
+      "date": {
+        "year": 2006,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 2006"
+      },
+      "description": "Firades med öppet hus och laxsoppa på piren.",
+      "people": [
+        "Leif Sjöholm"
+      ],
+      "places": [
+        "nykarleby kraftverk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3883ae9e2eb80c0c8281e12c838dcb1b66b20e611e9fd038093be9e821e205fb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_C/ZTCX082S.HTM",
+  "title": "Zach. Topelius (finsk hälsning 1904)",
+  "summary": "Ett Topelius-kort med en finsk födelsedagshälsning, översatt till svenska och daterad 1904. Kortet har en framsida av fotopapper.",
+  "topics": [
+    "topelius",
+    "porträtt",
+    "gratulation",
+    "1904"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zach. Topelius",
+        "Z. Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare"
+      ],
+      "description": "Porträtterad på kortet."
+    },
+    {
+      "name": "Anna",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gratulerad till sin födelsedag."
+    },
+    {
+      "name": "Aina S",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avsändare av hälsningen."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Födelsedagshälsning till Anna",
+      "date": {
+        "year": 1904,
+        "circa": false,
+        "text": "1904 8-12"
+      },
+      "people": [
+        "Anna",
+        "Aina S"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b5204e0e5325623142657595612cd15d983c9210ba4e33be90224f47e03bf1a1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

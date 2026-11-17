@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_C/VBCQ058S.HTM",
+  "title": "Kuddnäs",
+  "summary": "Ett vykort med Kuddnäs från 1904, skickat från Nykarleby till Åbo med en familjehälsning. Sidan berättar också om klipporna Blåfinobärji intill udden och om rockkonserter som en gång hölls i parken.",
+  "topics": [
+    "vykort",
+    "kuddnäs",
+    "fotografi",
+    "sommar"
+  ],
+  "people": [
+    {
+      "name": "Helena Vidman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avsändare av hälsningen på kortet."
+    },
+    {
+      "name": "Grönroos",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Fotografiatelier i Vasa som tog fotot år 1902."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Kuddnäs"
+      ],
+      "description": "Park och udde i Nykarleby, fotograferad från väster."
+    },
+    {
+      "name": "blåfinobärji",
+      "kind": "landmark",
+      "alternateNames": [
+        "Blåfinobärji"
+      ],
+      "description": "Klipporna till höger om Kuddnäs."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vykort skickat från Nykarleby till Åbo",
+      "date": {
+        "year": 1904,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "text": "18 januari 1904"
+      },
+      "description": "Kortet skrevs och skickades från Nykarleby.",
+      "people": [
+        "Helena Vidman"
+      ],
+      "places": [
+        "kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c7667bf365df115cb19803039e3aac3de94ac910ecf38f88b9def0f72b28a781",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

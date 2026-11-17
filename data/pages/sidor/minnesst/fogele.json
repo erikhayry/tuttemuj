@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/fogele.htm",
+  "title": "Minnessten över Ellen Fogel",
+  "summary": "En minnessten över Ellen Fogel, lärare och martha, avtäcktes 2007 vid Marthaplatsen i norra änden av Topeliusparken. Samma år planterades också ett träd.",
+  "topics": [
+    "ellen fogel",
+    "martha",
+    "minnessten",
+    "topeliusparken"
+  ],
+  "people": [
+    {
+      "name": "Ellen Fogel",
+      "alternateNames": [],
+      "birthYear": 1893,
+      "deathYear": 1983,
+      "roles": [
+        "lärare",
+        "martha"
+      ],
+      "description": "Lärare och bondmora. Hedras av Nykarleby Marthadistrikt."
+    }
+  ],
+  "places": [
+    {
+      "name": "marthaplatsen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Topeliusparkens norra ände"
+      ],
+      "description": "Utbuktningen vid Topeliusparkens norra ände. Minnesstenen står här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnessten över Ellen Fogel avtäcks",
+      "date": {
+        "year": 2007,
+        "month": 5,
+        "day": 5,
+        "circa": false,
+        "text": "5–6 maj 2007"
+      },
+      "description": "Avtäcktes i samband med Finlands svenska Marthaförbunds vårmöte i Nykarleby.",
+      "people": [
+        "Ellen Fogel"
+      ],
+      "places": [
+        "marthaplatsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d26f060f6ce3804003df3c3c0eff155608883c6957649a3f3b6eb3c8a23cd901",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

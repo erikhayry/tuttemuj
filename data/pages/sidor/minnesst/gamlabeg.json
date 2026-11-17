@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/gamlabeg.htm",
+  "title": "Till hänsovna fäders minne på begravningsplatsen",
+  "summary": "Minnesstenen ”Till hänsovna fäders minne” på gamla begravningsplatsen. Den står där ben från platsen grävdes fram vid byggen 1958 och på 1970-talet, och benen fick en värdigare vila bakom muren.",
+  "topics": [
+    "gamla begravningsplatsen",
+    "minnessten",
+    "ben",
+    "1958"
+  ],
+  "people": [
+    {
+      "name": "Eirik Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Hoppade ned i schaktet och plockade upp en skalle när benen grävdes fram på 1970-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stadens gamla begravningsplats nära centrum. Minnesstenen står bredvid en gång här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ben grävs fram vid bygget av Liljedahls affärshus",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "description": "Benen som kom fram vid schaktningsarbetena fördes till vigd jord, eller tippades på andra platser.",
+      "people": [],
+      "places": [
+        "gamla begravningsplatsen"
+      ]
+    },
+    {
+      "title": "Ben grävs fram vid klockstapeln",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "början av 70-talet"
+      },
+      "description": "Vid grävningar runt klockstapeln kom skallar och stora ben i dagen. De fördes till begravningsplatsen och fick sin minnessten.",
+      "people": [
+        "Eirik Granqvist"
+      ],
+      "places": [
+        "gamla begravningsplatsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a15ff9f0c2b9be461505dde136b3d268593c868d040c49fa9cb141230d2bdf4b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}

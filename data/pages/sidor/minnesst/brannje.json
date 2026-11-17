@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/brannje.htm",
+  "title": "Minnestavla över Johan Emil Bränn",
+  "summary": "En minnestavla över Johan Emil Bränn, vars arv efter hans död 1973 blev grunden för pensionärsbostäderna Hagahem och Hagabo. Sidan visar också huset vid Nygårdsvägen där han bodde.",
+  "topics": [
+    "bränn",
+    "pensionärsbostäder",
+    "minnestavla",
+    "1973"
+  ],
+  "people": [
+    {
+      "name": "Johan Emil Bränn",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde på Nygårdsvägen 8. En stor summa pengar hittades i hans hem efter hans död."
+    }
+  ],
+  "places": [
+    {
+      "name": "nygårdsvägen 8",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Nygårdsvägen 8",
+      "description": "Bränns hem. Huset stod där Nykarleby bokföringsbyrå ligger i dag."
+    },
+    {
+      "name": "hagahem",
+      "kind": "building",
+      "alternateNames": [
+        "Hagabo"
+      ],
+      "address": "Jeansborgsvägen 14",
+      "description": "Pensionärsbostäder som grundades med Johan Emil Bränns arv. Minnestavlan sitter vid Jeansborgsvägen 14."
+    }
+  ],
+  "events": [
+    {
+      "title": "Johan Emil Bränn avlider",
+      "date": {
+        "year": 1973,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "text": "18 januari 1973"
+      },
+      "people": [
+        "Johan Emil Bränn"
+      ],
+      "places": [
+        "nygårdsvägen 8"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "37327e70f8c03db6758571567c25f12c649daaf791b5e6f7c13036bbcd44d37f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T06:57:56.530Z"
+}
