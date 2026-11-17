@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/samskola.htm",
+  "title": "Nykarleby samskola 1919–1970",
+  "summary": "En minnesplatta på en byggnad vid Borgaregatan visar var Nykarleby samskola verkade 1920–1970. Skolan grundades 1919 och började i rådhuset. Två medlemmar av den sista direktionen tog initiativet till plattan.",
+  "topics": [
+    "nykarleby samskola",
+    "skolhistoria",
+    "borgaregatan",
+    "minnesplatta"
+  ],
+  "people": [
+    {
+      "name": "Allan Blom",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ],
+      "description": "Initiativtagare till minnesplattan. Medlem i samskolans sista direktion."
+    },
+    {
+      "name": "Georg Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "lantmäteriingenjör"
+      ],
+      "description": "Initiativtagare till minnesplattan. Medlem i samskolans sista direktion."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby samskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolan som verkade 1920–1970 på platsen vid Borgaregatan. Grundades 1919 och började i rådhuset."
+    },
+    {
+      "name": "borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Den norra gaveln av byggnaden vid gatan bär minnesplattan.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby samskola grundas",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "1919"
+      },
+      "description": "Skolan började i rådhuset.",
+      "people": [],
+      "places": [
+        "nykarleby samskola"
+      ]
+    },
+    {
+      "title": "Samskolan verkar på platsen vid Borgaregatan",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920–1970"
+      },
+      "people": [],
+      "places": [
+        "nykarleby samskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "18628671f49a96bfb069d0bf79c5566fd25f347ea9a357c369993f52ee6bf128",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

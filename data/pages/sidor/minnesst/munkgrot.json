@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/munkgrot.htm",
+  "title": "Munkgrottan",
+  "summary": "Munkgrottan är en grottliknande klippformation i Forsby, bildad av två stora block. Enligt legenden förbannade två munkar staden efter att de nekats husrum, och sidan återger flera versioner av sägnen.",
+  "topics": [
+    "munkgrottan",
+    "forsby",
+    "sägner",
+    "förbannelse"
+  ],
+  "people": [
+    {
+      "name": "Två vandrande munkar",
+      "alternateNames": [],
+      "roles": [
+        "munkar"
+      ],
+      "description": "Enligt sägnen nekades de husrum i staden och förbannade den."
+    },
+    {
+      "name": "Trygve Smedman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bidragsgivare som fotograferade grottan 2004."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bidragsgivare som återgav en version av sägnen 2005."
+    }
+  ],
+  "places": [
+    {
+      "name": "munkgrottan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Två stora klippblock som bildar en grottliknande formation i Forsby."
+    },
+    {
+      "name": "forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "munkgrundet",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Skär dit munkarna tog sin tillflykt, enligt sägnen.",
+      "geo": {
+        "lat": 63.4945965,
+        "lng": 22.4341026,
+        "match": "name",
+        "gazetteerName": "munkgrundet",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Två vandrande munkar nekas husrum i den nya staden. De drar av sig skorna, skakar stoftet av fötterna och förbannar staden. Sedan tar de sin tillflykt till Munkgrundet, och enligt sägnen även till grottan.",
+    "reason": "Sägnen har en tydlig konflikt, en förbannelse och en flykt, men sidan ger bara några rader om händelsen.",
+    "characters": [
+      "Två vandrande munkar"
+    ],
+    "places": [
+      "munkgrottan",
+      "munkgrundet"
+    ]
+  },
+  "contentHash": "1eb5a72045425ab635d33d64a2120e8093973cd2106e347ad898fa0b5d5e1972",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

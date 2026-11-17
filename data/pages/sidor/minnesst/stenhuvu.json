@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/stenhuvu.htm",
+  "title": "Stenhuvudgubbens återkomst",
+  "summary": "Lars Pensar berättar hur stenhuvudgubben vid Munsalavägen försvann och hur den till slut hittades och sattes upp igen. Berättelsen är en lång följetong med kapitel, e-post och fotografier.",
+  "topics": [
+    "stenhuvudgubben",
+    "munsalavägen",
+    "återuppsättning",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättar historien och skrev de flesta kapitlen."
+    },
+    {
+      "name": "Lars Östman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av de två huvudpersonerna i berättelsen. Flera kapitel är skrivna av honom."
+    },
+    {
+      "name": "Alf Renvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mindes gubben från sin barndom och skrev till Pensar 2006."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "stenhuggare"
+      ],
+      "description": "Skrev om stenhuggaren i ett kapitel."
+    }
+  ],
+  "places": [
+    {
+      "name": "stenhuvudgubben",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stengubbe med grisskärt ansikte, målade ögon, öron, näsa och mörk peruk. Stod vid Munsalavägen söder om f.d. Erik Sundstens gård."
+    },
+    {
+      "name": "munsalavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Vägen där stenhuvudgubben stod.",
+      "geo": {
+        "lat": 63.514881,
+        "lng": 22.5096763,
+        "match": "name",
+        "gazetteerName": "munsalavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Pensar frågar efter ett fotografi av gubben",
+      "date": {
+        "year": 2003,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 2003"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "stenhuvudgubben"
+      ]
+    },
+    {
+      "title": "Alf Renvall skriver om gubben",
+      "date": {
+        "year": 2006,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "text": "18 januari 2006"
+      },
+      "description": "Han mindes att den försvunnit i samband med ombyggnaden av vägen.",
+      "people": [
+        "Alf Renvall"
+      ],
+      "places": [
+        "stenhuvudgubben"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En stengubbe vid Munsalavägen försvinner från sin plats. Lars Pensar och Lars Östman, berättelsens huvudpersoner, letar efter den. Ledtrådar, en förlorad kamera och fotografier leder till att den hittas.",
+    "reason": "Sidan är en följetong med många kapitel, små dramer och vardagliga detaljer som ger en tydlig berättelsebåge.",
+    "characters": [
+      "Lars Pensar",
+      "Lars Östman"
+    ],
+    "places": [
+      "stenhuvudgubben"
+    ]
+  },
+  "contentHash": "c2134e37f08382c32f9be5c243e27a38f83f3d57a5bb3f405d2f8cb07f1043e2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

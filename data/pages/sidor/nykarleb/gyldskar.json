@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldskar.htm",
+  "title": "Omgivning 1841: skärgården",
+  "summary": "Gyldéns karta från 1841 visar skärgården och hemmanen närmast staden. Kartan visar också hur älvens utlopp har växt igen genom upplandning.",
+  "topics": [
+    "skärgård",
+    "älvmynningen",
+    "upplandning",
+    "1841"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Holme i skärgården, som på kartan fortfarande är en holme."
+    },
+    {
+      "name": "älvmynningen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Älvens utlopp, där upplandningen sägs ha varit närmare en och en halv meter de senaste 100 åren."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gyldéns karta över skärgården",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "da65291c02f234c674e69115040849b8739139eac117dd1ebf73dde140264e3d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

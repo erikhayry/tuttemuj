@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/nordkvia.htm",
+  "title": "Minnestavla över Anna Nordkvist",
+  "summary": "En minnestavla på Bangatan 2 över Anna Nordkvist, där hennes sparvboet-verksamhet började. En grundsten bär också texten om barnhemmets arbete och tron på Gud.",
+  "topics": [
+    "anna nordkvist",
+    "sparvboet",
+    "barnhemmet",
+    "bangatan"
+  ],
+  "people": [
+    {
+      "name": "Anna Nordkvist",
+      "alternateNames": [
+        "Anna Nordqvist"
+      ],
+      "roles": [],
+      "description": "Namnet på minnestavlan. Sparvboets verksamhet började på platsen."
+    }
+  ],
+  "places": [
+    {
+      "name": "bangatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bangatan 2",
+      "description": "Platsen där tavlan sitter och där sparvboet började sin verksamhet."
+    },
+    {
+      "name": "sparvboet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Verksamheten som Anna Nordkvist började på platsen."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "008592305f2edc31f2a8d8f6740589d9863f29e53d1733055f0a3da9f036288e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

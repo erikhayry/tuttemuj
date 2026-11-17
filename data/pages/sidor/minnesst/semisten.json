@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/semisten.htm",
+  "title": "Minnessten över Nykarleby seminarium",
+  "summary": "En minnessten av Arto Penttinen framför Residenshuset invigdes 2001 för att påminna om seminariet i Nykarleby 1873–1971. Sidan visar hur stenen kom till och hur kostnaderna skulle täckas.",
+  "topics": [
+    "nykarleby seminarium",
+    "minnessten",
+    "arto penttinen",
+    "residenshuset"
+  ],
+  "people": [
+    {
+      "name": "Arto Penttinen",
+      "alternateNames": [],
+      "roles": [
+        "lektor i skulptur/bildkonst"
+      ],
+      "description": "Formgav minnesmärket. Lektor vid Svenska Konstskolan i Nykarleby 1984–1997."
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Initiativtagare till minnesstenen."
+    },
+    {
+      "name": "Samuel Lindgrén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Initiativtagare till minnesstenen, tillsammans med Finlands svenska skolmuseum."
+    }
+  ],
+  "places": [
+    {
+      "name": "residenshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Förra direktorsbostaden och internatet för seminariet. Minnessten står framför det."
+    },
+    {
+      "name": "nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "description": "Seminariet som verkade i Nykarleby 1873–1971."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsstyrelsen behandlar anhållan om bidrag",
+      "date": {
+        "year": 2000,
+        "month": 9,
+        "day": 18,
+        "circa": false,
+        "text": "18.09.2000"
+      },
+      "description": "Föreningen Finlands svenska skolmuseum ansökte om 30 000 mk av en beräknad kostnad på 60 000 mk.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Minnessten över seminariet invigs",
+      "date": {
+        "year": 2001,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 2001"
+      },
+      "description": "Stenen heter ”Den positiva tanken”.",
+      "people": [
+        "Arto Penttinen"
+      ],
+      "places": [
+        "residenshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "21fccccca32b78518f948cc8bb9324e8b4995e748a02f62d6c4a45d428eacfb5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

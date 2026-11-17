@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/pusshall.htm",
+  "title": "Pusshållplats",
+  "summary": "En skylt med texten Pusshållplats sattes upp 2017 på en belysningsstolpe vid Kärleksstigen. Sidan säger att Nykarleby var en av de första orterna med en sådan skylt, men att initiativtagaren är okänd.",
+  "topics": [
+    "pusshållplats",
+    "kärleksstigen",
+    "skylt",
+    "2017"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kärleksstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Stigen där skylten sitter, nedanför f.d. Maj-Britt och Oskar Kronqvists gård."
+    },
+    {
+      "name": "f.d. maj-britt och oskar kronqvists gård",
+      "kind": "farm",
+      "alternateNames": [
+        "maj-britt och oskar kronqvists gård"
+      ],
+      "description": "Gården ovanför Kärleksstigen. Siegfrids stuga stod här tidigare."
+    }
+  ],
+  "events": [
+    {
+      "title": "Pusshållplats-skylten sätts upp",
+      "date": {
+        "year": 2017,
+        "month": 12,
+        "circa": false,
+        "text": "december 2017"
+      },
+      "people": [],
+      "places": [
+        "kärleksstigen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7e3941de3de25cca7261207a7f22e86f86ae3937f1ab500dc9c2be87f918fa49",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

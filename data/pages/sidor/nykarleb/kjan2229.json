@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/kjan2229.htm",
+  "title": "Annonser i Sång- och musikfesten 1914",
+  "summary": "Annonser för G.J. Holländers velocipedaffär och Fröken Edla Korhonens folkkök i programmet för sång- och musikfesten 1914. Velocipedaffären grundades 1910.",
+  "topics": [
+    "annonser",
+    "1914",
+    "velocipeder",
+    "folkkök"
+  ],
+  "people": [
+    {
+      "name": "G.J. Holländer",
+      "alternateNames": [],
+      "roles": [
+        "velocipedhandlare"
+      ],
+      "description": "Ägde velocipedaffären, grundad 1910."
+    },
+    {
+      "name": "Edla Korhonen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Drev folkköket."
+    },
+    {
+      "name": "John Hermansson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte velocipedaffären i februari 1915."
+    }
+  ],
+  "places": [
+    {
+      "name": "velocipedaffären",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Affären grundad 1910 av G.J. Holländer."
+    }
+  ],
+  "events": [
+    {
+      "title": "Velocipedaffären grundas",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "1910"
+      },
+      "people": [
+        "G.J. Holländer"
+      ],
+      "places": []
+    },
+    {
+      "title": "Velocipedaffären säljs",
+      "date": {
+        "year": 1915,
+        "month": 2,
+        "circa": false,
+        "text": "februari 1915"
+      },
+      "people": [
+        "John Hermansson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "37db6e8edbf664acb7c8bfe1142d4e8fca4dc74f294e4391075d925987ed122e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

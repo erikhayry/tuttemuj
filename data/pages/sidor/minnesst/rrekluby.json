@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/rrekluby.htm",
+  "title": "R. R. Eklund – minnesstenen i Topeliusparken",
+  "summary": "Minnesstenen över författaren R. R. Eklund i Topeliusparken avtäcktes 1962. Bronshuvudet på den stals 2008 och kom tillbaka 2013. Sidan följer historien med bilder, läsarkommentarer och en tidslinje.",
+  "topics": [
+    "r. r. eklund",
+    "topeliusparken",
+    "minnessten",
+    "bronshuvud"
+  ],
+  "people": [
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [
+        "Rudolf Ragnar Eklund"
+      ],
+      "birthYear": 1895,
+      "deathYear": 1946,
+      "roles": [
+        "författare",
+        "tidningsman"
+      ],
+      "description": "Finlandssvensk diktare och tidningsman. Föremål för minnesstenen."
+    },
+    {
+      "name": "Wäinö Aaltonen",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Skapade porträttet av Eklund som sitter i stenen."
+    },
+    {
+      "name": "Matti Aaltonen",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ],
+      "description": "Gjorde stenens utformning och placeringen i parken."
+    },
+    {
+      "name": "Olof Enckell",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ],
+      "description": "Höll minnestalet vid avtäckningen 1962."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusparken",
+      "kind": "district",
+      "alternateNames": [
+        "topeliusparken i nykarleby",
+        "topeliparken"
+      ],
+      "description": "Parken där minnesstenen står, i dess norra ände."
+    },
+    {
+      "name": "synnerbergska gården",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Syns i bakgrunden på ett 1960-talsfoto av minnesstenen."
+    },
+    {
+      "name": "larsmo",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Orten där stenen hämtades, enligt sidan från Eugmo i Larsmo."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnesstenen över R. R. Eklund avtäcks",
+      "date": {
+        "year": 1962,
+        "month": 6,
+        "day": 9,
+        "circa": false,
+        "text": "9 juni 1962"
+      },
+      "description": "Minnestalet hölls av professor Olof Enckell.",
+      "people": [
+        "R. R. Eklund",
+        "Wäinö Aaltonen",
+        "Matti Aaltonen",
+        "Olof Enckell"
+      ],
+      "places": [
+        "topeliusparken"
+      ]
+    },
+    {
+      "title": "Bronshuvudet av R. R. Eklund stjäls",
+      "date": {
+        "year": 2008,
+        "month": 8,
+        "day": 26,
+        "circa": false,
+        "text": "26 augusti 2008"
+      },
+      "description": "Upptäckten gjordes den 26 augusti 2008. Huvudet hade troligen tagits under Kulturnatten.",
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": [
+        "topeliusparken"
+      ]
+    },
+    {
+      "title": "Bronshuvudet återlämnas",
+      "date": {
+        "year": 2013,
+        "month": 9,
+        "circa": false,
+        "text": "september 2013"
+      },
+      "description": "Huvudet lades tillbaka på sin plats i minnesstenen natten till måndagen. En anonym person ringde och sade att det hade gått sönder under Kulturnatten 2008.",
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": [
+        "topeliusparken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b1574c3cf12cef5214c0bfedbc2bbff1647cc36b3801aea3a1f797b8e75343c2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,165 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldhem.htm",
+  "title": "Omgivning 1841",
+  "summary": "Hemman och torp runt Nykarleby på Gyldéns karta från 1841, uppdelade på älvens västra och östra sida. Kartan är interaktiv, och varje hemman har en egen sida.",
+  "topics": [
+    "hemman",
+    "omgivning",
+    "1841",
+    "gyldén"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Nybacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Jutbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Sten Träsket",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Isakas",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Båtsmanstorpet",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Jut",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Klockars",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Stora Jut Träsket",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Lilla Jut Träsket",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Kuddnis",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Prästgård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Jervbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Bro",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Mickelsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841.",
+      "geo": {
+        "lat": 63.5069048,
+        "lng": 22.5419179,
+        "match": "name",
+        "gazetteerName": "mickelsbacka",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lill Ollas",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Skolmästars",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    },
+    {
+      "name": "Renvaktars",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman på Gyldéns karta från 1841."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gyldéns karta över omgivningen",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b07267b108893efe5b604217ddd4ddd64051067289aad133099ff095b644a9c1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/radhuslo.htm",
+  "title": "Rådhusurets lod",
+  "summary": "Lodet till rådhusuret, som förstördes vid stadsbranden 1858, har flyttats runt i staden. Sidan beskriver platserna det har stått på och en möjlig användning som hejare vid pålning.",
+  "topics": [
+    "rådhusuret",
+    "stadsbranden 1858",
+    "rådhuset",
+    "andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Källa till uppgiften att lodet användes som hejare vid pålning."
+    },
+    {
+      "name": "Carl-Erik Backlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev på Facebook att lodet fanns vid Andra sjön omkring 1948."
+    }
+  ],
+  "places": [
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Rådhuset där uret fanns före stadsbranden 1858. Lodet stod på gårdsplanen till 2003."
+    },
+    {
+      "name": "andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "andra sjön"
+      ],
+      "description": "Sjön där ångbåtsbryggan anlades i mitten av 1860-talet. Lodet ska ha legat här.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "floraparken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Platsen där branden 1858 började, enligt Lars Pensar föreslagen plats för lodet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhuset förstörs i stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "stadsbranden 1858"
+      },
+      "description": "Uret i rådhuset förstördes.",
+      "people": [],
+      "places": [
+        "rådhuset"
+      ]
+    },
+    {
+      "title": "Lodet flyttas till älvstranden",
+      "date": {
+        "year": 2003,
+        "circa": false,
+        "text": "sommaren 2003"
+      },
+      "people": [],
+      "places": [
+        "rådhuset"
+      ]
+    },
+    {
+      "title": "Lodet flyttas tillbaka till rådhuset",
+      "date": {
+        "year": 2003,
+        "circa": false,
+        "text": "hösten 2003"
+      },
+      "people": [],
+      "places": [
+        "rådhuset"
+      ]
+    },
+    {
+      "title": "Lodet används som hejare vid pålning",
+      "date": {
+        "year": 1865,
+        "circa": true,
+        "text": "mitten på 1860-talet"
+      },
+      "description": "Enligt Stig Haglund användes lodet när ångbåtsbryggan anlades vid Andrasjön.",
+      "people": [
+        "Stig Haglund"
+      ],
+      "places": [
+        "andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a8afe280dc26a8f5c2be02f14a695192b9838b831acfd9ae195d13cd0ede1878",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

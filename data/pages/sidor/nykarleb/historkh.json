@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/historkh.htm",
+  "title": "Sång- och musikfesten 1914",
+  "summary": "Programhäftet för sång- och musikfesten i Nykarleby 1914, skrivet av K. J. Hagfors. Det innehåller en översikt av stadens historia, från kyrkans byggande till seminariet och skolorna.",
+  "topics": [
+    "sångfesten 1914",
+    "kyrkan",
+    "trivialskolan",
+    "seminariet",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev programhäftet med en översikt över staden."
+    },
+    {
+      "name": "Elias Brenner",
+      "alternateNames": [],
+      "roles": [
+        "assessor"
+      ],
+      "description": "Gjorde ritningen till den nuvarande kyrkan."
+    },
+    {
+      "name": "Brask",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Lät sänka de två största kyrkklockorna i Karviken 1714 och fördde kyrkans skrud till Sverige."
+    },
+    {
+      "name": "Galitzin",
+      "alternateNames": [],
+      "roles": [
+        "furst"
+      ],
+      "description": "Fick lösen från staden 1714."
+    }
+  ],
+  "places": [
+    {
+      "name": "nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan",
+        "s:ta birgitta"
+      ],
+      "description": "Timrades sommaren 1708. Tornet blev färdigt 1710. Hette efter den gamla kyrkan S:ta Birgitta.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "karviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Vik en mil norr om staden, där två kyrkklockor sänktes 1714."
+    },
+    {
+      "name": "seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Öppnades hösten 1873."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan timras",
+      "date": {
+        "year": 1708,
+        "month": 6,
+        "circa": false,
+        "text": "sommaren 1708"
+      },
+      "people": [],
+      "places": [
+        "nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Kyrktornet blir färdigt",
+      "date": {
+        "year": 1710,
+        "circa": false,
+        "text": "1710"
+      },
+      "people": [],
+      "places": [
+        "nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Ryssarna kommer till staden",
+      "date": {
+        "year": 1714,
+        "month": 2,
+        "circa": false,
+        "text": "februari 1714"
+      },
+      "description": "Kyrkklockor sänks i Karviken och kyrkskrud fördes till Sverige. Den tredje klockan fördes bort hösten 1714.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Seminariet öppnas",
+      "date": {
+        "year": 1873,
+        "month": 9,
+        "circa": false,
+        "text": "hösten 1873"
+      },
+      "people": [],
+      "places": [
+        "seminariet"
+      ]
+    },
+    {
+      "title": "Normalskolan inrättas",
+      "date": {
+        "year": 1876,
+        "circa": false,
+        "text": "1876"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Normalskolans skolhus uppförs",
+      "date": {
+        "year": 1906,
+        "circa": false,
+        "text": "1906–1907"
+      },
+      "description": "Vid torget, efter ritning av arkitekten V. Reinius.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "59cde930f91eb91aa90f861afae77bea1356920814af1227b9245b2ae3502270",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/parklind.htm",
+  "title": "Parklind 2002",
+  "summary": "En minnesplatta fäst vid en parklind mellan Topeliusesplanaden och Gustav Adolfsgatan. Sidan förklarar att gatorna breddades efter branden 1858, och att lindarna är ett försök att minska bredden.",
+  "topics": [
+    "parklind",
+    "stadsbranden 1858",
+    "stadsplanen",
+    "gatubredder"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "parklinden",
+      "kind": "landmark",
+      "alternateNames": [
+        "parklind"
+      ],
+      "description": "Lindar mellan Topeliusesplanaden och Gustav Adolfsgatan, med en platta fäst i gallret."
+    },
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "gustav adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "stadshotellet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg här förr, enligt sidan."
+    },
+    {
+      "name": "sparbanken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg här förr, enligt sidan."
+    },
+    {
+      "name": "thulins gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Låg här förr, enligt sidan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden 1858",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "branden 1858"
+      },
+      "description": "Den nya stadsplanen som följde gjorde gatorna mycket breda.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Minnesplattan vid parklinden",
+      "date": {
+        "year": 2002,
+        "circa": false,
+        "text": "2002"
+      },
+      "people": [],
+      "places": [
+        "parklinden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2cd06a5a9a92a8b86e22271f90d01d06194491f5963f619964a9a3cf62858c4b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

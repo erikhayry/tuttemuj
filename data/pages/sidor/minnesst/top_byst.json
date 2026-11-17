@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/top_byst.htm",
+  "title": "Topeliusbysten i Topeliusparken",
+  "summary": "Topeliusbysten i brons, skulpterad av Ville Vallgren, avtäcktes 1935 i Topeliusparken. Den finansierades med insamlade medel, och det största bidraget kom från John Nylund i Helsingfors. Planen hade väckts redan 1906.",
+  "topics": [
+    "topelius",
+    "topeliusparken",
+    "byst",
+    "1935"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald"
+      ],
+      "description": "Föremål för bysten."
+    },
+    {
+      "name": "Ville Vallgren",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Skulpterade bysten i brons."
+    },
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [
+        "filosofie magister"
+      ],
+      "description": "Ledde kommittén som samlade in medel till bysten."
+    },
+    {
+      "name": "John Nylund",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ],
+      "description": "Född i Nykarleby. Stod för en tredjedel av kostnaderna."
+    },
+    {
+      "name": "K. F. Spolander",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Väckte frågan om en minnesstod redan 1906."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusparken",
+      "kind": "district",
+      "alternateNames": [
+        "nybro- eller allmänna promenaden",
+        "parken"
+      ],
+      "description": "Parken där bysten står. Kallades ”Parken” från 1914."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topeliusbysten avtäcks",
+      "date": {
+        "year": 1935,
+        "month": 9,
+        "day": 29,
+        "circa": false,
+        "text": "29 september 1935"
+      },
+      "description": "Bysten i brons på granitsockel avtäcktes i Topeliusparken.",
+      "people": [
+        "Ville Vallgren",
+        "Torkel Hellström",
+        "John Nylund"
+      ],
+      "places": [
+        "topeliusparken"
+      ]
+    },
+    {
+      "title": "Frågan om en minnesstod väcks",
+      "date": {
+        "year": 1906,
+        "circa": false,
+        "text": "1906"
+      },
+      "people": [
+        "K. F. Spolander"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a7d50fcebe10f6379362596d72a1f1ce3b20827173b74cc8c75177c22ebd5652",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

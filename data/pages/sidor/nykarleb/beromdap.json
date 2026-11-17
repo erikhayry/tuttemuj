@@ -1,0 +1,162 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/beromdap.htm",
+  "title": "Berömda personer som varit i Nykarleby",
+  "summary": "En sammanställning av kända och mindre kända personer som besökt Nykarleby, från Carl von Linné 1732 till artister på 2000-talet. Sidan bygger på dagböcker, memoarer och lokala uppgifter.",
+  "topics": [
+    "berömda besökare",
+    "historia",
+    "turism"
+  ],
+  "people": [
+    {
+      "name": "Carl von Linné",
+      "alternateNames": [],
+      "roles": [
+        "botaniker"
+      ],
+      "description": "Reste genom staden 22 september 1732 och noterade i sin dagbok."
+    },
+    {
+      "name": "Porthan",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Reste genom Nykarleby 16 juli 1794 och skrev att staden var den sämsta han sett under resan."
+    },
+    {
+      "name": "Carl Johan Ljunggren",
+      "alternateNames": [],
+      "roles": [
+        "fänrik"
+      ],
+      "description": "Omvittnade 1808 att staden inte var något märkvärdigt ställe."
+    },
+    {
+      "name": "J. V. Snellman",
+      "alternateNames": [],
+      "roles": [
+        "statsråd"
+      ],
+      "description": "Vistades i staden 1837."
+    },
+    {
+      "name": "Cornelis Vreeswijk",
+      "alternateNames": [],
+      "roles": [
+        "artist"
+      ],
+      "description": "Besökte staden 1969 enligt en kompletterande uppgift från 2020."
+    },
+    {
+      "name": "Urho Kekkonen",
+      "alternateNames": [],
+      "roles": [
+        "president"
+      ],
+      "description": "Besökte Bröderna Sjöholms pälsfarm på Frillmossen 1980."
+    },
+    {
+      "name": "Erland Josephson",
+      "alternateNames": [],
+      "roles": [
+        "skådespelare"
+      ],
+      "description": "Deltog i inspelningen av Småstadsberättelser 1994."
+    },
+    {
+      "name": "Lasse Berghagen",
+      "alternateNames": [],
+      "roles": [
+        "sångare"
+      ],
+      "description": "Var allsångsledare i Stjärnhallen 2011."
+    }
+  ],
+  "places": [
+    {
+      "name": "hotel eden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hotellet vid restaurang von Döbeln, där Cornelis Vreeswijk ville checka in."
+    },
+    {
+      "name": "restaurang von döbeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Restaurangen där Cornelis Vreeswijk nekades inträde."
+    }
+  ],
+  "events": [
+    {
+      "title": "Cornelis Vreeswijk nekas inträde",
+      "date": {
+        "year": 1969,
+        "circa": false,
+        "text": "1969 (enligt kompletteringen från 2020)"
+      },
+      "description": "Han hade bokat rum på Hotel Eden vid restaurang von Döbeln och nekades inträde till restaurangen. Ägarinnan Vison ställde till rätta.",
+      "people": [
+        "Cornelis Vreeswijk"
+      ],
+      "places": [
+        "restaurang von döbeln"
+      ]
+    },
+    {
+      "title": "Linné reser genom staden",
+      "date": {
+        "year": 1732,
+        "month": 9,
+        "day": 22,
+        "circa": false,
+        "text": "22 september 1732"
+      },
+      "people": [
+        "Carl von Linné"
+      ],
+      "places": []
+    },
+    {
+      "title": "Porthan reser genom staden",
+      "date": {
+        "year": 1794,
+        "month": 7,
+        "day": 16,
+        "circa": false,
+        "text": "16 juli 1794"
+      },
+      "people": [
+        "Porthan"
+      ],
+      "places": []
+    },
+    {
+      "title": "Snellman vistas i staden",
+      "date": {
+        "year": 1837,
+        "circa": false,
+        "text": "1837"
+      },
+      "people": [
+        "J. V. Snellman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Cornelis Vreeswijk kommer till restaurang von Döbeln i rutig skjorta, jeans och skägg. Tellu, Leena Visas högra hand på Döbeln, nekar honom inträde. Ägarinnan Vison kommer ut, inser vem som blivit nekad och ställer allt till rätta.",
+    "reason": "En kort scen med konflikt, en avvisad artist och en vändning som är lätt att visa i bild.",
+    "characters": [
+      "Cornelis Vreeswijk",
+      "Tellu",
+      "Vison"
+    ],
+    "places": [
+      "restaurang von döbeln"
+    ]
+  },
+  "contentHash": "82b52694a21758529874ac23f05deacd40fec4e871fac5dcdba954702980faeb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

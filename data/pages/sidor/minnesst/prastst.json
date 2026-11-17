@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/prastst.htm",
+  "title": "Präststenen",
+  "summary": "Präststenen vid Juthas är ett av de äldsta minnesmärkena i trakten, med årtalet 1777 inhugget. Enligt traditionen minner den om ett kraftprov av kaplanen Johannes Freytag.",
+  "topics": [
+    "präststenen",
+    "juthas",
+    "kraftprov",
+    "1777"
+  ],
+  "people": [
+    {
+      "name": "Johannes Freytag",
+      "alternateNames": [
+        "starke prästen"
+      ],
+      "roles": [
+        "sockenadjunkt",
+        "kapellan i Nykarleby pastorat"
+      ],
+      "description": "Enligt traditionen gjorde han ett kraftprov vid stenen. Tjänstgjorde 1760–1775."
+    }
+  ],
+  "places": [
+    {
+      "name": "präststenen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Sten vid vägen till Jeppo vid Juthas, mitt emot Olav Hellmans gård. Årtalet 1777 finns inhugget i den."
+    },
+    {
+      "name": "jeppovägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Vägen som präststenen ligger vid.",
+      "geo": {
+        "lat": 63.42222559999999,
+        "lng": 22.6048085,
+        "match": "name",
+        "gazetteerName": "jeppovägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Årtalet 1777 huggs in i präststenen",
+      "date": {
+        "year": 1777,
+        "circa": false,
+        "text": "1777"
+      },
+      "people": [],
+      "places": [
+        "präststenen"
+      ]
+    },
+    {
+      "title": "Präststenen fridlyses",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "1964 (enligt Birck). Naturinventeringen anger 1965."
+      },
+      "people": [],
+      "places": [
+        "präststenen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den starke prästen Johannes Freytag ska ha gjort ett kraftprov vid Juthas. Enligt traditionen minner stenen med årtalet 1777 om det.",
+    "reason": "Det finns ett kraftprov och en legend, men sidan ger bara några rader om det.",
+    "characters": [
+      "Johannes Freytag"
+    ],
+    "places": [
+      "präststenen"
+    ]
+  },
+  "contentHash": "c544ccded704fa224c95a91edfc928e372b3f2f27c8de323935ac892eaf436eb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/ragardsh.htm",
+  "title": "Rågårdshällan",
+  "summary": "Rågårdshällan är en bergklack mitt i älven utanför Åminne gård. Den nämns i en dombok från 1650, i en kartbeskrivning från 1726 och flera gånger i Topelius dagböcker.",
+  "topics": [
+    "rågårdshällan",
+    "älven",
+    "åminne",
+    "dombok 1650"
+  ],
+  "people": [
+    {
+      "name": "Hans Knutsson Drake",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Vidtalades 1650 att märka hällen så att resenärer kunde undvika den."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [],
+      "description": "Nämner hällen i sina dagböcker 1833–1838."
+    }
+  ],
+  "places": [
+    {
+      "name": "rågårdshällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bergklack mitt i älven utanför Åminne gård."
+    },
+    {
+      "name": "åminne gård",
+      "kind": "farm",
+      "alternateNames": [
+        "åminne"
+      ],
+      "description": "Gården som Rågårdshällan ligger utanför."
+    },
+    {
+      "name": "galgbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Syns i bildens högra kant när Rågårdshällan fotograferas."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hans Knutsson Drake vidtalas att märka hällen",
+      "date": {
+        "year": 1650,
+        "circa": false,
+        "text": "1650"
+      },
+      "description": "Enligt Nykarleby dombok ska hällen märkas så att de vägfarande kan undvika den.",
+      "people": [
+        "Hans Knutsson Drake"
+      ],
+      "places": [
+        "rågårdshällan"
+      ]
+    },
+    {
+      "title": "Hällen namnges i kartbeskrivning",
+      "date": {
+        "year": 1726,
+        "circa": false,
+        "text": "1726"
+      },
+      "people": [],
+      "places": [
+        "rågårdshällan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "27d41634a435e383468688a0a121e5a6eaeab925e2530b3bcdc29037eee52ff3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

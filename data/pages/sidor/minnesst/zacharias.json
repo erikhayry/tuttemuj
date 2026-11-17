@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/zacharias.html",
+  "title": "Tunnelbanevagnen Zacharias",
+  "summary": "En stockholmsk tunnelbanevagn fick namnet Zacharias, men namnet är inte uppkallat efter Topelius. Sidan förklarar namnets betydelse och varför Zachris-dagen flyttades till 14 januari 1929.",
+  "topics": [
+    "zacharias",
+    "zachris-dagen",
+    "topelius",
+    "kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "roles": [
+        "skald"
+      ],
+      "description": "Föddes på Kuddnäs 14 januari 1818."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Platsen där Topelius föddes."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius föds på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "14 januari 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "kuddnäs"
+      ]
+    },
+    {
+      "title": "Zachris-dagen flyttas till 14 januari",
+      "date": {
+        "year": 1929,
+        "circa": false,
+        "text": "1929"
+      },
+      "description": "Dagen bytte plats med Felix, för att den 14 januari skulle minna om Topelius.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "91b5141ea0e1b2c7300f4710c018ff6702d26f7f4e936e801dbcc52455701b3c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/fyndinne.html",
+  "title": "Fynd",
+  "summary": "En innehållsförteckning över fynd som gjorts i och kring Nykarleby, från romerskt mynt till gamla milstenar. Varje fynd har en egen sida.",
+  "topics": [
+    "fynd",
+    "jordfynd",
+    "arkeologi"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "aspskär",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Plats för ett vrak med fynd från 1600- och 1700-talen."
+    },
+    {
+      "name": "markby",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Plats där en ekstock hittades 1928.",
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ekstock hittas i Markby",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "1928"
+      },
+      "people": [],
+      "places": [
+        "markby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fcbb2775eeffedbdc540487cf52f2e907728b33edddc5c4aa8891f730703438f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

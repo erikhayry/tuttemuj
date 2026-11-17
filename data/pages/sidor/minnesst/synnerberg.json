@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/synnerberg.htm",
+  "title": "Carl Synnerbergs minnesplatta",
+  "summary": "En minnesplatta över filologen och skolmannen Carl Synnerberg sattes upp på ett hus 1967. Huset revs i slutet av 1960-talet, och en del av stenfoten finns kvar på gräsmattan.",
+  "topics": [
+    "carl synnerberg",
+    "minnesplatta",
+    "filolog",
+    "skolman"
+  ],
+  "people": [
+    {
+      "name": "Carl Synnerberg",
+      "alternateNames": [],
+      "birthYear": 1837,
+      "deathYear": 1915,
+      "roles": [
+        "filolog",
+        "skolman",
+        "kansliråd",
+        "filosofie doktor"
+      ],
+      "description": "Född i huset där minnesplattan satt. Död 20 augusti 1915."
+    }
+  ],
+  "places": [
+    {
+      "name": "synnerbergs födelsehus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset där Carl Synnerberg föddes. Det revs i slutet av 1960-talet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Carl Synnerberg föds",
+      "date": {
+        "year": 1837,
+        "month": 9,
+        "day": 10,
+        "circa": false,
+        "text": "10.9.1837"
+      },
+      "people": [
+        "Carl Synnerberg"
+      ],
+      "places": [
+        "synnerbergs födelsehus"
+      ]
+    },
+    {
+      "title": "Minnesplattan fästs på huset",
+      "date": {
+        "year": 1967,
+        "month": 9,
+        "circa": false,
+        "text": "sept. 1967"
+      },
+      "description": "Bekostad av Svenska Folkskolans Vänner, Svenska Litteratursällskapet, Svensk-Österbottniska Samfundet och staden.",
+      "people": [
+        "Carl Synnerberg"
+      ],
+      "places": [
+        "synnerbergs födelsehus"
+      ]
+    },
+    {
+      "title": "Carl Synnerberg dör",
+      "date": {
+        "year": 1915,
+        "month": 8,
+        "day": 20,
+        "circa": false,
+        "text": "20.8.1915"
+      },
+      "people": [
+        "Carl Synnerberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c631f7de0b8afe46c92c2106ee2c1df0a9ed931a74808ebf3805ece505709baa",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

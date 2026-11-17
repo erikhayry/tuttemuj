@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/valkommen59.html",
+  "title": "Välkommen till Nykarleby",
+  "summary": "Välkomstskylten vid stadsgränsen från 1959 var flyttad flera gånger. Den fanns vid Brostugan 1959, var borta 1964, var tillbaka vid Brostugan 1970 och stod nära Älvbranten 1981.",
+  "topics": [
+    "välkomstskylt",
+    "brostugan",
+    "älvbranten",
+    "1959"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll fotot och noterade skyltens flyttningar."
+    }
+  ],
+  "places": [
+    {
+      "name": "brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Platsen där välkomstskylten stod 1959 och igen från 1970."
+    },
+    {
+      "name": "älvbranten",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Platsen där välkomstskylten flyttades 1981."
+    }
+  ],
+  "events": [
+    {
+      "title": "Välkomstskylten vid Brostugan",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "1959"
+      },
+      "description": "Skylten stod snett nedanför Brostugan.",
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "brostugan"
+      ]
+    },
+    {
+      "title": "Välkomstskylten försvunnen",
+      "date": {
+        "year": 1964,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 1964"
+      },
+      "description": "Fotot från augusti 1964 visar att skylten inte längre fanns på platsen.",
+      "people": [],
+      "places": [
+        "brostugan"
+      ]
+    },
+    {
+      "title": "Välkomstskylten återkommer",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "början av 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "brostugan"
+      ]
+    },
+    {
+      "title": "Välkomstskylten flyttad till Älvbranten",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "våren 1981"
+      },
+      "people": [],
+      "places": [
+        "älvbranten"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "49ead9699303e7104493119db8f392c8d6ebc632e44f3dd0987a4f90b1c5c26a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/stadsskylt.html",
+  "title": "Stadsgränsskylt, äldre modell",
+  "summary": "Äldre stadsgränsskyltar som räddades från stadens lager och nu finns på museet. De togs troligen ner vid kommunsammanslagningen 1975, när gränserna flyttades utåt.",
+  "topics": [
+    "stadsgränsskylt",
+    "kommunsammanslagningen 1975",
+    "museet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "biokröken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Korsningen Karleborgsgatan–Kolonivägen, där kommungränsen gick förr."
+    },
+    {
+      "name": "nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där skyltarna förvaras nu."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kommunsammanslagningen",
+      "date": {
+        "year": 1975,
+        "circa": false,
+        "text": "1975"
+      },
+      "description": "Gränserna flyttades utåt, och skyltarna togs troligen ner.",
+      "people": [],
+      "places": [
+        "biokröken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d0bd3d526f69918d3f0f86f20102b0fcff5b7200c53ecffedd29f5d7345356ee",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

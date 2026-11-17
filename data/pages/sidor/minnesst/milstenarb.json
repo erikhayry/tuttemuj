@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/milstenarb.html",
+  "title": "Gamla milstenar",
+  "summary": "Milstenar från tidigt 1700-tal kom fram vid dränering på tomt 11, Gården med den höga stenfoten, 2009. Sidan jämför fynden med postvägens historia och med bytet från svenska mil till verst 1836.",
+  "topics": [
+    "milstenar",
+    "postvägen",
+    "södra tullen",
+    "1836"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bidragsgivare som hittade fynden och bidrog med källor."
+    },
+    {
+      "name": "Maryann Backström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägare av tomten där milstenarna hittades."
+    },
+    {
+      "name": "Clas Göran Backström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägare av tomten där milstenarna hittades."
+    }
+  ],
+  "places": [
+    {
+      "name": "gården med den höga stenfoten",
+      "kind": "farm",
+      "alternateNames": [
+        "tomt nr 11"
+      ],
+      "description": "Tomt nr 11, där milstenarna grävdes fram 2009. Milstenarna står nu uppställda på tomten."
+    },
+    {
+      "name": "södra tullen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Tullen vid stadens södra gräns. Milstenarna tros ha stått längs vägen på avstånd från den."
+    },
+    {
+      "name": "vitahuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här hittades en halv milsten vid grävning nedanför trappan till köket, i augusti 2010."
+    }
+  ],
+  "events": [
+    {
+      "title": "Milstenar hittas på tomt 11",
+      "date": {
+        "year": 2009,
+        "circa": false,
+        "text": "sommaren 2009"
+      },
+      "people": [
+        "Maryann Backström",
+        "Clas Göran Backström"
+      ],
+      "places": [
+        "gården med den höga stenfoten"
+      ]
+    },
+    {
+      "title": "Milstenen hittas vid Vitahuset",
+      "date": {
+        "year": 2010,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 2010"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "vitahuset"
+      ]
+    },
+    {
+      "title": "Svenska milstenar ersätts med verststolpar",
+      "date": {
+        "year": 1836,
+        "circa": false
+      },
+      "description": "Standardiseringen av mått bytte svenska mil mot ryska verst.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Betalning för nya verststolpar",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "1873"
+      },
+      "description": "Räkenskaperna visar betalning för transport och rödmålning av nya verststolpar.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c63361bf1f1fdaa2c5e001e8ba46f521f0c775752707526ab0b33881a4e5e122",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

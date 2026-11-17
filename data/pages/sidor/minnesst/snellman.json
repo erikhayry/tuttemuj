@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/snellman.htm",
+  "title": "Minnestavla över statsrådet J. V. Snellman",
+  "summary": "En minnestavla över statsrådet J. V. Snellman sattes upp 2006 på det före detta Sjöholmska affärshuset vid Topeliusesplanaden. Snellman bodde här 1839. Tavlan avtäcktes av riksdagens talman Paavo Lipponen.",
+  "topics": [
+    "j. v. snellman",
+    "topeliusesplanaden",
+    "minnestavla",
+    "2006"
+  ],
+  "people": [
+    {
+      "name": "J. V. Snellman",
+      "alternateNames": [],
+      "roles": [
+        "statsråd"
+      ],
+      "description": "Bodde på platsen 1839."
+    },
+    {
+      "name": "Paavo Lipponen",
+      "alternateNames": [],
+      "roles": [
+        "riksdagens talman"
+      ],
+      "description": "Avtäckte minnestavlan."
+    }
+  ],
+  "places": [
+    {
+      "name": "sjöholmska affärshuset",
+      "kind": "building",
+      "alternateNames": [
+        "f.d. sjöholmska affärshuset"
+      ],
+      "address": "Topeliusesplanaden 12",
+      "description": "Huset där minnestavlan sitter. Snellman bodde här 1839.",
+      "geo": {
+        "lat": 63.523466,
+        "lng": 22.5307663,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Snellman bor på platsen",
+      "date": {
+        "year": 1839,
+        "circa": false,
+        "text": "1839"
+      },
+      "people": [
+        "J. V. Snellman"
+      ],
+      "places": [
+        "sjöholmska affärshuset"
+      ]
+    },
+    {
+      "title": "Minnestavlan över Snellman avtäcks",
+      "date": {
+        "year": 2006,
+        "month": 6,
+        "day": 9,
+        "circa": false,
+        "text": "9 juni 2006"
+      },
+      "description": "Avtäcktes i samband med att det var 200 år sedan Snellman föddes.",
+      "people": [
+        "Paavo Lipponen",
+        "J. V. Snellman"
+      ],
+      "places": [
+        "sjöholmska affärshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fac2c4783a0c112f516cb389349fc9085dea485a956ad167128684a87cb728fb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

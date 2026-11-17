@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/vmalmber.htm",
+  "title": "Victor Malmberg 1867–1936",
+  "summary": "En minnestavla över skulptören Victor Malmberg sattes upp sensommaren 1952 vid hans hemgård Apoteksgården, på initiativ av stadens rotaryklubb.",
+  "topics": [
+    "victor malmberg",
+    "skulptör",
+    "apoteksgården",
+    "1952"
+  ],
+  "people": [
+    {
+      "name": "Victor Malmberg",
+      "alternateNames": [],
+      "birthYear": 1867,
+      "deathYear": 1936,
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Minnestavlan sattes upp vid hans hemgård Apoteksgården."
+    }
+  ],
+  "places": [
+    {
+      "name": "apoteksgården",
+      "kind": "building",
+      "alternateNames": [
+        "apoteket"
+      ],
+      "description": "Malmbergs hemgård, där minnestavlan sattes upp 1952."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavlan över Malmberg sätts upp",
+      "date": {
+        "year": 1952,
+        "circa": false,
+        "text": "sensommaren 1952"
+      },
+      "description": "På initiativ av stadens Rotaryklubb.",
+      "people": [
+        "Victor Malmberg"
+      ],
+      "places": [
+        "apoteksgården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "abbd4675b19892cfb96f09255b04d8c34806a3ec986de7b7f656993dc23ccc35",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

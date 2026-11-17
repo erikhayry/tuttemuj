@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/gylden.htm",
+  "title": "C. W. Gyldéns stadsplanekarta",
+  "summary": "Stadsplanekartan över Nykarleby som C. W. Gyldén gav ut 1841, med beskrivningstexten från 1844. Den visar att staden då hade 136 tomter och 1 076 invånare.",
+  "topics": [
+    "gyldén",
+    "stadsplan",
+    "1841",
+    "1844"
+  ],
+  "people": [
+    {
+      "name": "C. W. Gyldén",
+      "alternateNames": [
+        "Claes Wilhelm Gyldén"
+      ],
+      "birthYear": 1802,
+      "deathYear": 1872,
+      "roles": [
+        "överdirektör vid lantmäteristyrelsen"
+      ],
+      "description": "Överdirektör för överstyrelsen för lantmäteriet och forstväsendet i Finland 1854–1872. Gav ut stadsplanekartorna 1837–1843."
+    }
+  ],
+  "places": [
+    {
+      "name": "djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Holme där skeppshamnen och varvet låg."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanekartan över Nykarleby ges ut",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [
+        "C. W. Gyldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gyldéns textbok om städerna publiceras",
+      "date": {
+        "year": 1844,
+        "circa": false,
+        "text": "1844"
+      },
+      "description": "Innehåller historik och statistik om Nykarleby.",
+      "people": [
+        "C. W. Gyldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadens privilegier",
+      "date": {
+        "year": 1620,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "text": "7 september 1620"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Staden får stapelrättigheter",
+      "date": {
+        "year": 1795,
+        "circa": false,
+        "text": "1795"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kartan trycks i faksimil",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "Lantmäteristyrelsen gav ut stadsplanerna i faksimil 1983–1984.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c036f5d8ad2f8d14dabde3df346d1aa37b86411dc3b37bdd9e4da1c44684e96c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/trivial.htm",
+  "title": "Nykarleby trivialskola",
+  "summary": "En stenplatta från 1941 påminner om att Nykarlebys trivialskola invigdes 1641. Skolan flyttades till Vasa 1684. Huset som står idag är från 1729 och klarade stadsbranden 1858.",
+  "topics": [
+    "trivialskolan",
+    "skolhistoria",
+    "1641",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "Per Brahe",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Enligt plattan grundade han skolan här 1640."
+    }
+  ],
+  "places": [
+    {
+      "name": "trivialskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolan som invigdes 1641. Huset är inte originalbyggnaden från 1600-talet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Trivialskolan grundas",
+      "date": {
+        "year": 1640,
+        "circa": false,
+        "text": "1640"
+      },
+      "description": "Grundad av Per Brahe, enligt plattan.",
+      "people": [
+        "Per Brahe"
+      ],
+      "places": [
+        "trivialskolan"
+      ]
+    },
+    {
+      "title": "Trivialskolan invigs",
+      "date": {
+        "year": 1641,
+        "month": 2,
+        "day": 3,
+        "circa": false,
+        "text": "3·II·1641"
+      },
+      "description": "Invigdes med stor pompa.",
+      "people": [],
+      "places": [
+        "trivialskolan"
+      ]
+    },
+    {
+      "title": "Skolan flyttas till Vasa",
+      "date": {
+        "year": 1684,
+        "circa": false,
+        "text": "1684"
+      },
+      "people": [],
+      "places": [
+        "trivialskolan"
+      ]
+    },
+    {
+      "title": "Stenplattan sätts upp",
+      "date": {
+        "year": 1941,
+        "month": 2,
+        "day": 3,
+        "circa": false,
+        "text": "3 februari 1941"
+      },
+      "description": "Sattes upp för att markera 300 år sedan invigningen.",
+      "people": [],
+      "places": [
+        "trivialskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8b3acb7f5b7955f996cb3a55569db642127236d3e13e8722ade22b4afa92846a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

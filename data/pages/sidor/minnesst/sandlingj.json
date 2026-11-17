@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/sandlingj.html",
+  "title": "Barnläraren Jakob Gustav Sandlin",
+  "summary": "En minnesplatta över barnläraren Jakob Gustav Sandlin avtäcktes 2011 på Jossanbacken. Sandlin undervisade i ambulerande skolor i Forsby, Kyrkoby och Ytterjeppo mellan 1876 och 1910.",
+  "topics": [
+    "jakob gustav sandlin",
+    "barnlärare",
+    "jossanbacken",
+    "forsby-ytterjeppo"
+  ],
+  "people": [
+    {
+      "name": "Jakob Gustav Sandlin",
+      "alternateNames": [],
+      "birthYear": 1848,
+      "roles": [
+        "barnlärare",
+        "ambulerande lärare"
+      ],
+      "description": "Född i Pedersöre. Undervisade i läsning, skrivning, räkning, bibelhistoria och sång."
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Höll ett anförande om Sandlin vid avtäckningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "jossanbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Där Sandlin bodde och där minnesplattan sitter."
+    },
+    {
+      "name": "forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "kyrkoby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sandlin undervisar som ambulerande lärare",
+      "date": {
+        "year": 1876,
+        "circa": false,
+        "text": "1876–1910"
+      },
+      "description": "Stationerad på olika platser i Forsby, Kyrkoby och Ytterjeppo.",
+      "people": [
+        "Jakob Gustav Sandlin"
+      ],
+      "places": [
+        "jossanbacken",
+        "forsby",
+        "kyrkoby",
+        "ytterjeppo"
+      ]
+    },
+    {
+      "title": "Minnesplattan över Sandlin avtäcks",
+      "date": {
+        "year": 2011,
+        "month": 12,
+        "day": 6,
+        "circa": false,
+        "text": "6 december 2011"
+      },
+      "description": "Forsby-Ytterjeppo Hembygdsförening stod bakom minnesplattan. Cirka 40 personer var med.",
+      "people": [
+        "Jakob Gustav Sandlin"
+      ],
+      "places": [
+        "jossanbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a87e6a76d030d6223a68c1e95907aaa0f9f435bc662c079747d55563eaf4d7d2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

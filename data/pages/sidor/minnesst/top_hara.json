@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/top_hara.html",
+  "title": "Topelius minnessten vid Harjula",
+  "summary": "En minnessten över Zacharias Topelius vid Harjula i Kangasala i Finland, uppförd 1949 av Suinula ungdomsförening. Den står alltså utanför Nykarleby och hör till sidans minnesmärken som en kuriositet.",
+  "topics": [
+    "topelius",
+    "harjula",
+    "kangasala",
+    "minnessten"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ],
+      "description": "Skrev dikten En sommardag i Kangasala, som stenen hänvisar till."
+    }
+  ],
+  "places": [
+    {
+      "name": "harjula",
+      "kind": "landmark",
+      "alternateNames": [
+        "harala"
+      ],
+      "description": "En ås vid Vesijärvi i Kangasala, utanför Nykarleby. Minnesstenen står här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Datum på minnesstenen",
+      "date": {
+        "year": 1853,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "text": "20.6.1853"
+      },
+      "description": "Stenen bär datumet 20.6.1853 tillsammans med tillägnan till sångens diktare.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "harjula"
+      ]
+    },
+    {
+      "title": "Minnesmärket uppförs",
+      "date": {
+        "year": 1949,
+        "month": 6,
+        "day": 11,
+        "circa": false,
+        "text": "11.6.1949"
+      },
+      "description": "Uppfört av Suinula ungdomsförening.",
+      "people": [],
+      "places": [
+        "harjula"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d1b2cd7ff57f18940e8f3f833c4a8a1c7f8800f6e336d385edc973a09a578809",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

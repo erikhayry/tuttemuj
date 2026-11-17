@@ -1,0 +1,203 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/historja.htm",
+  "title": "Skalde- och skolstaden Nykarleby",
+  "summary": "Johannes Åbonde beskriver Nykarleby som skalde- och skolstad: stadens privilegier, branden 1858, Topelius och andra skalder och konstnärer, samt skolorna. Texten är från gymnastikfesten 1950.",
+  "topics": [
+    "skaldestaden",
+    "skolstaden",
+    "stadsbranden 1858",
+    "kuddnäs",
+    "trivialskolan"
+  ],
+  "people": [
+    {
+      "name": "Johannes Åbonde",
+      "alternateNames": [],
+      "roles": [
+        "folkskoleinspektör",
+        "stadsfullmäktiges ordförande"
+      ],
+      "description": "Skrev texten för gymnastikfesten 1950."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ],
+      "description": "Nykarlebys största son. Hans hemgård Kuddnäs besöks av många."
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skald. Hans barndomshem låg vid dammen."
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skald. Hans barndomshem låg vid dammen."
+    },
+    {
+      "name": "Ernst V. Knape",
+      "alternateNames": [],
+      "roles": [
+        "läkare"
+      ],
+      "description": "Verkade som läkare i Nykarleby."
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev sina vikinga- och svenskhetssånger i Nykarleby."
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Föddes och växte upp i Nykarleby."
+    },
+    {
+      "name": "Ivar A. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ],
+      "description": "Född på den gamla prästgården på Forsbacka."
+    },
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "bildhuggare"
+      ],
+      "description": "Skapade statyn Flora i parken Fåfängan."
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "målarinna"
+      ],
+      "description": "Mycket berest och produktiv målarinna. Död i London 1916."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topelius hemgård."
+    },
+    {
+      "name": "topeliusparken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Parken med Topeliusbysten."
+    },
+    {
+      "name": "fåfängan",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Parken på älvstranden ovanför dammen, där Flora-statyn står."
+    },
+    {
+      "name": "döbelns gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gården till höger om bron. Enligt traditionen låg von Döbeln sjuk här före slaget vid Jutas."
+    },
+    {
+      "name": "kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nykarleby kyrka, från 1708. Den klarade branden 1858.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "trivialskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolbyggnaden söder om kyrkan. Finns kvar som flygel vid rådhuset."
+    },
+    {
+      "name": "jutas",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Slagfält med minnesmärke på älvens västra strand, 3,5 km söder om staden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadens privilegier",
+      "date": {
+        "year": 1620,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "text": "7 september 1620"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Trivialskolan invigs",
+      "date": {
+        "year": 1641,
+        "month": 2,
+        "day": 3,
+        "circa": false,
+        "text": "3 februari 1641"
+      },
+      "people": [],
+      "places": [
+        "trivialskolan"
+      ]
+    },
+    {
+      "title": "Staden brinner",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "circa": false,
+        "text": "januari 1858"
+      },
+      "description": "Endast några byggnader räddades, bland dem kyrkan från 1708, rådhuset, Döbelns gård och det gamla tullhuset.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gymnastikfesten",
+      "date": {
+        "year": 1950,
+        "month": 6,
+        "day": 17,
+        "circa": false,
+        "text": "17–18 juni 1950"
+      },
+      "description": "Idrottsplanen invigdes under gymnastikfesten.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9386be9a5f64ac92ae24281b8e37615e54b0c3e7b860973ef8c75f011616a0e2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

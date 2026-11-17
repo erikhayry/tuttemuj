@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/histmohe.htm",
+  "title": "Torget",
+  "summary": "Miniatyrbilder av rådhuset och de förnämsta byggnaderna på torget före stadsbranden 1858, gjorda ur minnet av kantor Anders Gästrin. Modellerna finns på vinden vid Kuddnäs.",
+  "topics": [
+    "torget",
+    "stadsbranden 1858",
+    "modeller",
+    "kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [],
+      "roles": [
+        "kantor",
+        "orgelnist"
+      ],
+      "description": "Gjorde miniatyrmodellerna ur minnet."
+    },
+    {
+      "name": "Z. Schalin",
+      "alternateNames": [],
+      "roles": [
+        "seminariedirektor"
+      ],
+      "description": "Lät göra modellerna. Förre seminariedirektör."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Stadens torg. Husen runt torget visas på modellerna."
+    },
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Rådhuset på torget. Finns med i modellerna."
+    },
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Apoteket vid torget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Modellerna av torget förvaras på Kuddnäs",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920"
+      },
+      "description": "Wichmann skriver om modellerna 1920.",
+      "people": [
+        "Anders Gästrin"
+      ],
+      "places": [
+        "torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4c31177c5249d7a4c7270e2ad36f15e32f483701b091c041a78923b466f73305",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

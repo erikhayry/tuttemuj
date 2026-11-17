@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/spopalen.htm",
+  "title": "Spöpålen på Sockenstuguberget",
+  "summary": "Spöpålen på Sockenstuguberget påminner om de offentliga straffen som utdelades där fram till 1870. En ny påle restes 2000 som minne av det. Sidan innehåller också Einar Hedströms skildring av bergets historia.",
+  "topics": [
+    "spöpålen",
+    "sockenstuguberget",
+    "spöstraff",
+    "skampålen"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev skildringen av Sockenstuguberget i Nykarleby min barndoms och min ungdoms stad (1958)."
+    },
+    {
+      "name": "Gunnar Östman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Initiativtagare till den nya spöpålen, tillsammans med Birger Ringvall."
+    },
+    {
+      "name": "Birger Ringvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Initiativtagare till den nya spöpålen, tillsammans med Gunnar Östman."
+    }
+  ],
+  "places": [
+    {
+      "name": "sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Berget i sydvästra staden, där gränsen mellan staden och landskommunen gick."
+    },
+    {
+      "name": "sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Den gamla sockenstugan på gränsen, från åtminstone förra hälften av 1700-talet."
+    },
+    {
+      "name": "spöpålen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Påle där spöstraff utdelades. En ny påle restes 2000."
+    }
+  ],
+  "events": [
+    {
+      "title": "Spöstraffen på Sockenstuguberget upphör",
+      "date": {
+        "year": 1870,
+        "circa": false,
+        "text": "1870"
+      },
+      "description": "Enligt plattan skedde det sista spöstraffet vid spöpålen 1870.",
+      "people": [],
+      "places": [
+        "spöpålen"
+      ]
+    },
+    {
+      "title": "Ny spöpåle restes",
+      "date": {
+        "year": 2000,
+        "circa": false,
+        "text": "sommaren 2000"
+      },
+      "description": "Restes av en senare generation, i tacksamhet för humanare straffmetoder.",
+      "people": [
+        "Gunnar Östman",
+        "Birger Ringvall"
+      ],
+      "places": [
+        "spöpålen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Vid spöpålen på Sockenstuguberget bestraffas män med spö och kvinnor med ris inför en folkmassa. Varje spöslag lämnar blodspår på ryggen, och det sista straffet utdelas 1870.",
+    "reason": "En offentlig bestraffning inför publik är en stark scen, men sidan ger bara några rader om den.",
+    "characters": [],
+    "places": [
+      "spöpålen"
+    ]
+  },
+  "contentHash": "5cd1fc2e8ceb95e73a7130fdc6edc51b4e659626ff5acafa57ee5f8fa275974f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

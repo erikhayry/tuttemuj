@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/skyltar.htm",
+  "title": "Gatunamnsskyltar",
+  "summary": "Gatunamnsskyltarna har bytts flera gånger. 1912 fick gatorna även ryska namn, och skyltarna blev trespråkiga. Sidan visar också trä-skyltar som finns kvar från tidigare.",
+  "topics": [
+    "gatunamn",
+    "skyltar",
+    "1912",
+    "språk"
+  ],
+  "people": [
+    {
+      "name": "Öhrling",
+      "alternateNames": [],
+      "roles": [
+        "målarmästare",
+        "rådman"
+      ],
+      "description": "Målade de trespråkiga skyltarna 1912 för 2 mk per styck."
+    }
+  ],
+  "places": [
+    {
+      "name": "herlers hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset vid korsningen Gustav Adolfsgatan–Lybecksgatan, där en skylt sitter."
+    },
+    {
+      "name": "janssons hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset vid Källbackgatan mellan Karleborgsgatan och Mathesiusgatan, där en skylt sitter."
+    },
+    {
+      "name": "lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Den södra gatan, som fick namnet Lybecksgatan i Heikels stadsplan 1912.",
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gatunamnen blir trespråkiga",
+      "date": {
+        "year": 1912,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 1912"
+      },
+      "description": "Gatorna fick även ryska namn, enligt högvederbörlig befallning. Skyltarna var sedan 1879 enspråkigt svenska och blev trespråkiga med det ryska namnet överst.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Skyltarna sätts upp",
+      "date": {
+        "year": 1912,
+        "month": 12,
+        "circa": false,
+        "text": "början av december 1912"
+      },
+      "people": [
+        "Öhrling"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0ec9050944ec7db1f3115bb334ed90f8327d7e5f357cc7c9c141387cb3eaf43a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

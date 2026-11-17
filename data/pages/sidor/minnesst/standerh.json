@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/standerh.html",
+  "title": "Frisen på Ständerhuset",
+  "summary": "Frisen på Ständerhuset, gjord av Emil Wikström och uppsatt 1903, visar stadfästandet av Finlands lagar och institutioner. Bondeståndets talman Petter Klockars syns bland de avbildade männen.",
+  "topics": [
+    "ständerhuset",
+    "frisen",
+    "petter klockars",
+    "1903"
+  ],
+  "people": [
+    {
+      "name": "Petter Klockars",
+      "alternateNames": [],
+      "roles": [
+        "bondeståndets talman"
+      ],
+      "description": "Avbildad i frisen med hatten över bröstet."
+    },
+    {
+      "name": "Tengström",
+      "alternateNames": [],
+      "roles": [
+        "ärkebiskop"
+      ],
+      "description": "Representant för prästerskapet, bördig från Karleby."
+    },
+    {
+      "name": "Robert Wilhelm de Geer",
+      "alternateNames": [],
+      "roles": [
+        "marskalk",
+        "adelns representant"
+      ],
+      "description": "Avbildad i frisen till vänster om kejsaren."
+    },
+    {
+      "name": "Trapp",
+      "alternateNames": [],
+      "roles": [
+        "kommerseråd",
+        "borgerskapets talman"
+      ],
+      "description": "Avbildad i frisen vid de Geers sida."
+    },
+    {
+      "name": "Emil Wikström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde frisen."
+    }
+  ],
+  "places": [
+    {
+      "name": "ständerhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnaden där frisen sitter."
+    }
+  ],
+  "events": [
+    {
+      "title": "Frisen sätts upp",
+      "date": {
+        "year": 1903,
+        "circa": false,
+        "text": "1903"
+      },
+      "people": [
+        "Emil Wikström",
+        "Petter Klockars"
+      ],
+      "places": [
+        "ständerhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c90426a20c813ca11f4b55baf8325641b129712b2692bfde5c2f1990e9823554",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

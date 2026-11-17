@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldstad.htm",
+  "title": "Staden 1841",
+  "summary": "Gyldéns karta över Nykarleby 1841 visar vilka byggnader som klarade stadsbranden 1858. Sidan visar också hur bebyggelsen såg ut väster om älven.",
+  "topics": [
+    "gyldén",
+    "stadsbranden 1858",
+    "1841",
+    "stadsplan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bron som ligger på kartan och på älvens östra sida."
+    },
+    {
+      "name": "heikelska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858."
+    },
+    {
+      "name": "döbelns hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858."
+    },
+    {
+      "name": "trivialskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858."
+    },
+    {
+      "name": "nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858."
+    },
+    {
+      "name": "marklunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "marklunds gård vid lybecksgatan"
+      ],
+      "description": "Vid korsningen Lybecksgatan–Gustav Adolfsgatan. Klarade branden 1858 men är flyttad."
+    },
+    {
+      "name": "stadsbäcken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Stadsbäckens utlopp på älvens östra sida."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "1858"
+      },
+      "description": "Byggnader på älvens östra sida klarade branden. Marklunds gård är sedan flyttad.",
+      "people": [],
+      "places": [
+        "marklunds gård"
+      ]
+    },
+    {
+      "title": "Gyldéns stadsplanekarta",
+      "date": {
+        "year": 1841,
+        "circa": false,
+        "text": "1841"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3f727f2ea7d2072b0f319e21dd0395dc5b8988e7a3a7711316e1155c2efa336a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

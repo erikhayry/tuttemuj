@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/histmoos.htm",
+  "title": "Husen vid torgets östra och södra sida",
+  "summary": "Modellen visar husen vid torgets östra och södra sida. Den bygger på minnet av husen före stadsbranden 1858 och återger inte de exakta byggnaderna.",
+  "topics": [
+    "torget",
+    "rådhuset",
+    "modeller"
+  ],
+  "people": [
+    {
+      "name": "Kilian Malm",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Ägde en gård på torgets östra sida."
+    },
+    {
+      "name": "Anders Munstrin",
+      "alternateNames": [],
+      "roles": [
+        "handelsman",
+        "rådman"
+      ],
+      "description": "Ägde en byggnad, port och mältbadstuga på torgets södra sida."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Stadens torg."
+    },
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ligger på torgets östra sida."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "adabf23b237c3150f6f4886695506ad3ea74ba48b9af7620e3980634537aa1cb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

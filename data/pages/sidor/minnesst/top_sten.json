@@ -1,0 +1,143 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/top_sten.htm",
+  "title": "Topeliusstenen vid Kuddnäs",
+  "summary": "Topeliusstenen vid nedfarten till Kuddnäs restes 1919 med en bronsrelief av skalden. Stadens invånare började planera stenen 1918, och den flyttades senare när en gång- och cykelbana anlades.",
+  "topics": [
+    "topelius",
+    "kuddnäs",
+    "minnessten",
+    "1919"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald"
+      ],
+      "description": "Född på Kuddnäs den 14 januari 1818."
+    },
+    {
+      "name": "Theodor Schalin",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Ritade och skulpterade bronsreliefen av Topelius."
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ],
+      "description": "Ordförande i kommittén som samlade in medel till stenen."
+    },
+    {
+      "name": "Selma Spolander",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Medlem i insamlingskommittén."
+    },
+    {
+      "name": "Mimmi Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Medlem i insamlingskommittén."
+    },
+    {
+      "name": "Lotte Dyhr",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Medlem i insamlingskommittén."
+    },
+    {
+      "name": "Hjalmar Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "överlärare"
+      ],
+      "description": "Medlem i insamlingskommittén."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusstenen",
+      "kind": "landmark",
+      "alternateNames": [
+        "topeliusstenen vid kuddnäs"
+      ],
+      "description": "Röd granitsten med bronsrelief, vid nedfarten till Kuddnäs."
+    },
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Platsen där Topelius föddes och där stenen står."
+    },
+    {
+      "name": "pensars gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Tjänstgjorde som rådhus 1918, när stadsborna möttes för att planera stenen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Möte om att resa en minnessten över Topelius",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "text": "fredag den 18 januari 1918"
+      },
+      "description": "Mötet hölls i rådhuset, Pensars gård.",
+      "people": [],
+      "places": [
+        "pensars gård"
+      ]
+    },
+    {
+      "title": "Topeliusstenen restes",
+      "date": {
+        "year": 1919,
+        "month": 6,
+        "day": 9,
+        "circa": false,
+        "text": "9 juni 1919"
+      },
+      "description": "Stenen restes med stora högtidligheter. Den är huggen i O. Aaltos stenhuggeri i Jakobstad.",
+      "people": [
+        "Theodor Schalin",
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "topeliusstenen"
+      ]
+    },
+    {
+      "title": "Topelius föds på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "14 januari 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f1e4db37fabf98e3417ed49cd3ee905d99dd69ae8c3e168441b2aa280c320fb6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

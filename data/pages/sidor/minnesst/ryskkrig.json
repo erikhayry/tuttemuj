@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/ryskkrig.htm",
+  "title": "Ryska krigargraven på Nykarleby gravgård",
+  "summary": "Ett ortodoxt smideskors på en gråstenssockel på Nykarleby gravgård minner om ryska fångar som dog 1918 vid fånglägret. Graven restes 1971, och antalet döda är okänt.",
+  "topics": [
+    "ryska krigargraven",
+    "fånglägret",
+    "1918",
+    "gravgården"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "ryska krigargraven",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Smideskors på gråstenssockel med två stenurnor, på Nykarleby gravgård."
+    },
+    {
+      "name": "nykarleby gravgård",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Begravningsplatsen där krigargraven står."
+    },
+    {
+      "name": "fånglägret",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Läger där ryska fångar internerades 1918."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ryska fångar arkebuseras och dör vid fånglägret",
+      "date": {
+        "year": 1918,
+        "circa": false,
+        "text": "1918"
+      },
+      "description": "Det okända antalet internerade ryssar arkebuserades eller dog av andra orsaker.",
+      "people": [],
+      "places": [
+        "fånglägret"
+      ]
+    },
+    {
+      "title": "Ryska krigargraven restes",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "1971"
+      },
+      "description": "Medlemmar i Samfundet Finland—Sovjetunionen hjälpte till med iståndsättningen.",
+      "people": [],
+      "places": [
+        "ryska krigargraven"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ryska fångar internerade i fånglägret i Nykarleby 1918 arkebuseras eller dör av sjukdom. Ett smideskors restes över dem 1971, men antalet döda är okänt.",
+    "reason": "Det finns ett tydligt dramatiskt händelseförlopp, men sidan ger bara några rader om det.",
+    "characters": [],
+    "places": [
+      "fånglägret",
+      "ryska krigargraven"
+    ]
+  },
+  "contentHash": "294cef6d37a7fc33ffc5e4c30e42624b52ba5da1537528917efafd5d161c4926",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/namnbekw.html",
+  "title": "Namnberget",
+  "summary": "Ett bidrag om namnberget vid Charlottenlund, där en besökare sommaren 1981 hittade många inhuggna namn och runor, bland dem ryska, men inga Topelius-inskrifter. Berget kallas också Runeberg.",
+  "topics": [
+    "namnberget",
+    "charlottenlund",
+    "runor",
+    "inskrifter"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "namnberget",
+      "kind": "landmark",
+      "alternateNames": [
+        "runeberget",
+        "runeberg"
+      ],
+      "description": "Berg vid Charlottenlund med många inhuggna namn och runor."
+    },
+    {
+      "name": "charlottenlund",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Huset nära namnberget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Besök vid namnberget",
+      "date": {
+        "year": 1981,
+        "circa": false,
+        "text": "sommaren 1981"
+      },
+      "description": "Besökarna röjde bort mossa och rötter och kritade upp några av runorna.",
+      "people": [],
+      "places": [
+        "namnberget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "868382ab717e24476f1aa8ef19a3a7277890631f75e16eca2be5a63ef931e684",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

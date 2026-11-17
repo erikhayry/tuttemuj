@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/marath20.htm",
+  "title": "Jakob-Marathon 20 km",
+  "summary": "En målning av 20 km-markering på Kärleksstigen vid Seminariegatan, där Jakob-Marathon har sprungits sedan 1976. Målningen förnyas ibland när den håller på att försvinna.",
+  "topics": [
+    "jakob-marathon",
+    "kärleksstigen",
+    "idrott",
+    "jakobs dagar"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kärleksstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Stig nedanför Bomans gård vid Seminariegatan, där 20 km-målningen finns."
+    },
+    {
+      "name": "bomans gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gården ovanför Kärleksstigen vid Seminariegatan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Jakob-Marathon sprungen mellan Jakobstad och Nykarleby",
+      "date": {
+        "year": 1976,
+        "circa": false,
+        "text": "sedan 1976"
+      },
+      "description": "Loppet sprungs i samband med Jakobs Dagar.",
+      "people": [],
+      "places": [
+        "kärleksstigen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "958320aab7c148caf0126957370c55210a02937bb5fc00505e091aee003c1b58",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

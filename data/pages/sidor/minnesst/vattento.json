@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/vattento.htm",
+  "title": "Nykarleby vattentorn",
+  "summary": "Vattentornet i Nykarleby byggdes 1963–1964 och har en volym på 600 kubikmeter. En minnestavla med byggdata sitter innanför dörren.",
+  "topics": [
+    "vattentornet",
+    "1964",
+    "byggnadsår"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "vattentornet",
+      "kind": "building",
+      "alternateNames": [
+        "nykarleby vattentorn"
+      ],
+      "description": "Vattentorn med en volym på 600 kubikmeter, uppfört 1963–1964. Höjd över havet: +69,00 m."
+    }
+  ],
+  "events": [
+    {
+      "title": "Byggandet av vattentornet inleds",
+      "date": {
+        "year": 1963,
+        "circa": false,
+        "text": "1963"
+      },
+      "people": [],
+      "places": [
+        "vattentornet"
+      ]
+    },
+    {
+      "title": "Vattentornet står färdigt",
+      "date": {
+        "year": 1964,
+        "month": 7,
+        "circa": false,
+        "text": "juli 1964"
+      },
+      "people": [],
+      "places": [
+        "vattentornet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "25ca04a7271795ab4160c7d3a0e8bd79c13c9e0faa72ca6d678ae3dc08d0392d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/tallkors.htm",
+  "title": "Tallkorset",
+  "summary": "Ett inristat kors på en tall i skogen vid Hugos lindo minner om en man som tog sitt liv 1937. Sidan beskriver också skogen som lekplats för barn på 1970-talet.",
+  "topics": [
+    "tallkorset",
+    "hugos lindo",
+    "källbacken",
+    "minnesmärke"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "tallkorset",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Inristat kors på en tall, norr om stigen som leder till Hugos lindo."
+    },
+    {
+      "name": "hugos lindo",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen som stigen från tallkorset leder till."
+    },
+    {
+      "name": "karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Nära slutet av gatan, i Källbacken, ligger skogsbrynet där händelsen skedde.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Händelsen vid Källbacken",
+      "date": {
+        "year": 1937,
+        "month": 10,
+        "circa": false,
+        "text": "oktober 1937, enligt tidningen"
+      },
+      "description": "En man tog sitt liv i skogen. Tidningen Österbottniska Posten rapporterade om händelsen.",
+      "people": [],
+      "places": [
+        "tallkorset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ddcc87fdb84e386b94c1ba171a6c5d88d67c31587a54145eaff39abdfd41402e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

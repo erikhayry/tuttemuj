@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/midsomar.html",
+  "title": "Striden vid Nykarleby midsommardagen 1808",
+  "summary": "Ryska och svenska trupper drabbade samman i Nykarleby midsommardagen 1808, och Stora bron brändes. Slaget hade glömts bort, men stadsfullmäktige beslutade 1908 att det skulle få ett minnesmärke vid bron. Sidan visar också planerna för en plakett vid bron 2008.",
+  "topics": [
+    "1808–09 års krig",
+    "stora bron",
+    "minnesmärke",
+    "midsommar"
+  ],
+  "people": [
+    {
+      "name": "Ernst V. Knape",
+      "alternateNames": [
+        "E. V. Knape"
+      ],
+      "roles": [],
+      "description": "En av de tre som skrev förslaget till minnestavlan 1908."
+    },
+    {
+      "name": "K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av de tre som skrev förslaget till minnestavlan 1908."
+    },
+    {
+      "name": "Otto Nylund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av de tre som skrev förslaget till minnestavlan 1908."
+    }
+  ],
+  "places": [
+    {
+      "name": "stora bron",
+      "kind": "landmark",
+      "alternateNames": [
+        "storbron"
+      ],
+      "description": "Bron framför kyrkan som brändes under striden 1808. Ett minnesmärke vid klippan intill bron planerades."
+    }
+  ],
+  "events": [
+    {
+      "title": "Striden vid Nykarleby midsommardagen 1808",
+      "date": {
+        "year": 1808,
+        "circa": false,
+        "text": "midsommardagen 1808"
+      },
+      "description": "Ryska och svenska trupper drabbade samman inne i staden. Stora bron brändes.",
+      "people": [],
+      "places": [
+        "stora bron"
+      ]
+    },
+    {
+      "title": "Stadsfullmäktige beslutar om minnesmärke",
+      "date": {
+        "year": 1908,
+        "month": 1,
+        "circa": false,
+        "text": "januari 1908"
+      },
+      "description": "Beslutet var att markera slaget med ett minnesmärke invid Stora bron.",
+      "people": [
+        "Ernst V. Knape",
+        "K. E. Wichmann",
+        "Otto Nylund"
+      ],
+      "places": [
+        "stora bron"
+      ]
+    },
+    {
+      "title": "Förslaget till minnestavlan undertecknas",
+      "date": {
+        "year": 1908,
+        "month": 1,
+        "day": 29,
+        "circa": false,
+        "text": "29 januari 1908"
+      },
+      "people": [
+        "Ernst V. Knape",
+        "K. E. Wichmann",
+        "Otto Nylund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Midsommardagen 1808 drabbar ryska och svenska trupper samman inne i Nykarleby, och Stora bron brinner. Slaget glöms bort, tills det hundra år senare får ett minnesmärke.",
+    "reason": "Det finns en stridsscen och en brand i staden, men sidan ger bara några rader om själva striden.",
+    "characters": [],
+    "places": [
+      "stora bron"
+    ]
+  },
+  "contentHash": "b84c15c94b79c07bcfc0a5b18f1c181b980b3515ff6d4960e0ddc63687f65355",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

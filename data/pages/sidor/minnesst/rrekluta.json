@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/rrekluta.htm",
+  "title": "R. R. Eklunds minnestavla vid torget",
+  "summary": "En minnestavla över R. R. Eklund sattes upp 1952 vid hans barndomshem vid torget, på initiativ av stadens Rotaryklubb. Tavlan finns nu på Nykarleby museum sedan barndomshemmet revs 1959.",
+  "topics": [
+    "r. r. eklund",
+    "rotaryklubben",
+    "minnestavla",
+    "1952"
+  ],
+  "people": [
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [
+        "Rudolf Ragnar Eklund"
+      ],
+      "birthYear": 1895,
+      "deathYear": 1946,
+      "roles": [],
+      "description": "Föremål för minnestavlan."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Platsen där Eklunds barndomshem låg."
+    },
+    {
+      "name": "nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där minnestavlan förvaras sedan barndomshemmet revs."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnestavlan över R. R. Eklund sätts upp",
+      "date": {
+        "year": 1952,
+        "circa": false,
+        "text": "sensommaren 1952"
+      },
+      "description": "På initiativ av stadens Rotaryklubb.",
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": [
+        "torget"
+      ]
+    },
+    {
+      "title": "Barndomshemmet revs",
+      "date": {
+        "year": 1959,
+        "month": 7,
+        "circa": false,
+        "text": "juli 1959"
+      },
+      "description": "Minnestavlan flyttades sedan till Nykarleby museum.",
+      "people": [],
+      "places": [
+        "torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "65bab6666a6725418b77632eb38665cf9436373a5d336ba05c2a2e0728fbb178",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

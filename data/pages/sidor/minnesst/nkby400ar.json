@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/nkby400ar.html",
+  "title": "Fyrahundraårsstenen",
+  "summary": "Fyrahundraårsstenen står vid korsningen mellan kungars och kejsares väg och Riksväg 8 söder om staden och lyckönskar Nykarleby till 400 år. Sidan förklarar också varför inskriptionen har en salut.",
+  "topics": [
+    "nykarleby 400 år",
+    "jubileum",
+    "gustav iii",
+    "riksväg 8"
+  ],
+  "people": [
+    {
+      "name": "Gustav III",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ],
+      "description": "Byggde fästningar och vägar som enligt sidan bekostades av franska subsidiepengar."
+    }
+  ],
+  "places": [
+    {
+      "name": "fyrahundraårsstenen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Sten vid skärningen av kungars och kejsares väg och Riksväg 8, söder om staden."
+    },
+    {
+      "name": "kungars och kejsares väg",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Vägen som har funnits sedan 1777."
+    },
+    {
+      "name": "riksväg 8",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Vägen som har funnits sedan 1938."
+    }
+  ],
+  "events": [
+    {
+      "title": "Fyrahundraårsstenen med lyckönskan till staden",
+      "date": {
+        "year": 2020,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "text": "7/9 2020"
+      },
+      "description": "Stenen lyckönskar staden med en femstjärnig salut.",
+      "people": [],
+      "places": [
+        "fyrahundraårsstenen"
+      ]
+    },
+    {
+      "title": "Huvudfestligheterna i Nykarleby",
+      "date": {
+        "year": 2020,
+        "month": 9,
+        "day": 6,
+        "circa": false,
+        "text": "söndagen den 6 september"
+      },
+      "description": "Huvudfestligheterna hölls under namnet ”grisfest”.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9fa7becb04178e106fe1f734ff74068275c5d1618814754d780939494f3da62d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

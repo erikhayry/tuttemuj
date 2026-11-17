@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/top_brost.html",
+  "title": "Topelius på Brostuguberget",
+  "summary": "En stenskulptur av Topelius på Brostuguberget, ett av stadens tre minnesmärken, uppsattes 2018 som en del av Topeliussatsningen. Skulpturen är gjord av den ukrainske konstnären Andriy Kotsyak, som bor i Nykarleby.",
+  "topics": [
+    "topelius",
+    "brostuguberget",
+    "skulptur",
+    "2018"
+  ],
+  "people": [
+    {
+      "name": "Andriy Kotsyak",
+      "alternateNames": [
+        "Kotsiak"
+      ],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Ukrainsk konstnär bosatt i Nykarleby. Gjorde skulpturen ”Topelius och flyttfåglarna”."
+    }
+  ],
+  "places": [
+    {
+      "name": "brostuguberget",
+      "kind": "landmark",
+      "alternateNames": [
+        "brostugoberget"
+      ],
+      "description": "Berget där skulpturen står, på en hylla vid bergets vänsterkant."
+    },
+    {
+      "name": "brostubacken",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan under berget, där skulpturen ser ut över trafiken."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius-skulpturen placeras på Brostuguberget",
+      "date": {
+        "year": 2018,
+        "month": 6,
+        "day": 14,
+        "circa": false,
+        "text": "14.06.2018"
+      },
+      "description": "Skulpturen ”Topelius och flyttfåglarna” står nu stadigt på berget.",
+      "people": [
+        "Andriy Kotsyak"
+      ],
+      "places": [
+        "brostuguberget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a52466fc5e5573ed197b4cd1bc680a16ad38b67a315c6960c140cf096bc2f985",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

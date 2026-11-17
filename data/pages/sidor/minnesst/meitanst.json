@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/meitanst.htm",
+  "title": "Meitanstein",
+  "summary": "En sten vid Andrasjövägen som tidigare var en lyckosten för barn. Den som kastade sju stenar på den skulle få ”meitanlycko”. Sidan säger att det är osäkert om det är samma sten som Rikiligubbens sten.",
+  "topics": [
+    "meitanstein",
+    "andrasjövägen",
+    "lyckosten",
+    "sägner"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "meitanstein",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Mossbevuxen sten på södra sidan av Andrasjövägen, ett stycke mot staden från Storbacken. Om den är samma sten som Rikiligubbens sten är osäkert."
+    },
+    {
+      "name": "andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "storbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen som stenen ligger ett stycke från på Andrasjövägen."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "50dac1f83e77f1d74f985bb1cef07bac9f61e450e65f5aa6bc54439823271801",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

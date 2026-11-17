@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/vision.html",
+  "title": "Vision av Ann-Sofie Sandqvist",
+  "summary": "En bronsskulptur på 45 cm med namnet Vision stod tillfälligt vid Juthbacka från sommaren 2008. Skulpturen är ett examensarbete från 1999, och konstnären placerade den där i väntan på en köpare.",
+  "topics": [
+    "vision",
+    "skulptur",
+    "juthbacka",
+    "ann-sofie sandqvist"
+  ],
+  "people": [
+    {
+      "name": "Ann-Sofie Sandqvist",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Ursprungligen från Socklot. Gjorde skulpturen som examensarbete 1999."
+    }
+  ],
+  "places": [
+    {
+      "name": "juthbacka",
+      "kind": "building",
+      "alternateNames": [
+        "juthbacka kulturcentrum"
+      ],
+      "description": "Platsen där skulpturen stod tillfälligt från sommaren 2008."
+    }
+  ],
+  "events": [
+    {
+      "title": "Skulpturen Vision görs som examensarbete",
+      "date": {
+        "year": 1999,
+        "circa": false,
+        "text": "1999"
+      },
+      "people": [
+        "Ann-Sofie Sandqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Skulpturen placeras vid Juthbacka",
+      "date": {
+        "year": 2008,
+        "circa": false,
+        "text": "försommaren 2008"
+      },
+      "description": "Placerades av konstnären i väntan på en köpare.",
+      "people": [
+        "Ann-Sofie Sandqvist"
+      ],
+      "places": [
+        "juthbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c808d29b270b571030f5d1cb49776dd925d4b6c578d148b2778f573bd9883ad0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

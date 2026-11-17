@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/minnesst/nybergka.htm",
+  "title": "Karl Nyberg 1905–1953",
+  "summary": "Skogsteknikern Karl Nyberg planterade stora tallskogar på Granskär i början av 1930-talet. En minnesplatta över honom sattes upp 1958 på skäret, och sidan ger också bakgrund om hans planteringar.",
+  "topics": [
+    "karl nyberg",
+    "granskär",
+    "skogsplantering",
+    "minnesplatta"
+  ],
+  "people": [
+    {
+      "name": "Karl Nyberg",
+      "alternateNames": [],
+      "birthYear": 1905,
+      "deathYear": 1953,
+      "roles": [
+        "skogstekniker"
+      ],
+      "description": "Bodde i den röda tvåvåningsbyggnaden på Smedsbacka. Planterade tall på Granskär 1931–32."
+    }
+  ],
+  "places": [
+    {
+      "name": "granskär",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Skär där Karl Nyberg planterade 50 hektar tall och där minnesplattan sitter."
+    },
+    {
+      "name": "djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Plats där Nyberg planterade lärkträd och gran strax före kriget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Karl Nyberg planterar tall på Granskär",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "1931–32"
+      },
+      "description": "Han planterade och sådde 50 hektar tall.",
+      "people": [
+        "Karl Nyberg"
+      ],
+      "places": [
+        "granskär"
+      ]
+    },
+    {
+      "title": "Minnesplattan över Karl Nyberg sätts upp",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "description": "Plattan sitter ett hundratal meter från stadens stuga på västra Granskär.",
+      "people": [
+        "Karl Nyberg"
+      ],
+      "places": [
+        "granskär"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5bd761a127d32c7788892794a3466496db6cceb91e158cd9bce3968a502abd3f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

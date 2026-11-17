@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/histinne.htm",
+  "title": "Nykarlebyhistoriker",
+  "summary": "En förteckning över de som skrivit om Nykarlebys historia, från Carl von Bonsdorff 1887 till Erik Birck, vars stadshistoria i tre delar är den mest omfattande.",
+  "topics": [
+    "historiker",
+    "stadshistoria",
+    "litteratur"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker"
+      ],
+      "description": "Skrev Nykarleby stads historia i tre delar 1970, 1980 och 1988."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev Nykarleby min barndoms och min ungdoms stad 1958."
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Nykarleby stad 1620–1920 till stadens 300-årsjubileum."
+    },
+    {
+      "name": "P. W. Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Blad ur Nykarleby stads historia, publicerad i ÖP 1908."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Nykarleby stad 1620–1920 publiceras",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920"
+      },
+      "people": [
+        "V. K. E. Wichmann"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nykarleby stads historia del I–III",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "1970, 1980 och 1988"
+      },
+      "people": [
+        "Erik Birck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "11d57a35ccf0b598eca3f983a388edb4ef3addb47feb94747abadc46c2134fac",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}

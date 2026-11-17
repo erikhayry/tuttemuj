@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/nykarleb/innesjof.htm",
+  "title": "Sjöfart",
+  "summary": "En innehållsförteckning över sjöfarten i Nykarleby, med fartyg byggda i staden, handeln 1810–1858, den nya hamnen vid Andra sjön och sjöfartens slut.",
+  "topics": [
+    "sjöfart",
+    "fartyg",
+    "hamnen",
+    "innehåll"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Här anlades en hamn 1864.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hamnen vid Andra sjön anläggs",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "1864"
+      },
+      "people": [],
+      "places": [
+        "andra sjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2cce8c36992d246e31da33f6c7318ccd1942130b0a95be139c78f3b157dbd0d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-17T16:07:00.662Z"
+}
