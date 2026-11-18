@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/grahng.htm",
+  "title": "Gunnar Grahn 1917–2008",
+  "summary": "Kort släkt- och levnadsbeskrivning av Gunnar Grahn, född i Nykarleby 1917, som var den femte av sju syskon. Han gav ut boken Uppbrottstider 2004, varifrån sidan också har ett utdrag om hur elektriciteten kom till byn.",
+  "topics": [
+    "släkt",
+    "minnen",
+    "by",
+    "elektrifiering"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Gustav Grahn",
+      "alternateNames": [
+        "Gunnar Grahn"
+      ],
+      "birthYear": 1917,
+      "deathYear": 2008,
+      "roles": [
+        "författare"
+      ],
+      "description": "Född i Nykarleby 25 oktober 1917. Femte barnet i en syskonskara på sju. Gav 2004 ut Uppbrottstider."
+    },
+    {
+      "name": "Gustav Leonard Johansson",
+      "alternateNames": [
+        "Gustav Leonard Grahn"
+      ],
+      "birthYear": 1883,
+      "roles": [],
+      "description": "Far till Gunnar Grahn. Född 29 december 1883 på Högbacka."
+    },
+    {
+      "name": "Maria Johansdotter Käcko",
+      "alternateNames": [],
+      "birthYear": 1887,
+      "roles": [],
+      "description": "Mor till Gunnar Grahn. Född i Purmo 20 december 1887."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Gunnar Grahn föds i Nykarleby",
+      "date": {
+        "year": 1917,
+        "month": 10,
+        "day": 25,
+        "circa": false,
+        "text": "25.10.1917"
+      },
+      "people": [
+        "Gunnar Gustav Grahn"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ger ut Uppbrottstider",
+      "date": {
+        "year": 2004,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Gustav Grahn"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gunnar Grahn avlider",
+      "date": {
+        "year": 2008,
+        "month": 10,
+        "day": 18,
+        "circa": false,
+        "text": "18.10.2008"
+      },
+      "people": [
+        "Gunnar Gustav Grahn"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "64296f379ed6c0dd3229671ab68bbe5ae9274c6559a5c6ee0c23868afb809db9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

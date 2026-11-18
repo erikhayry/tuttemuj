@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrrome_op.html",
+  "title": "Einar Hedström död 1951",
+  "summary": "Österbottniska Posten minns bankdirektör Einar Hedström, en av Nykarlebys sista genuina Nykarlebybor, som förvaltade Topeliushemmet på Kuddnäs och var mångårig huvudredaktör för tidningen. Han avled på villan i skärgården i augusti 1951.",
+  "topics": [
+    "minnesruna",
+    "hembygd",
+    "Topelius",
+    "segling",
+    "tidningar"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "deathYear": 1951,
+      "roles": [
+        "bankdirektör",
+        "huvudredaktör",
+        "stadsfullmäktiges ordförande",
+        "kommodor"
+      ],
+      "description": "Direktör vid Helsingfors Aktiebanks kontor i Nykarleby från 1921. Medlem och ordförande i stadsfullmäktige. Verksam i Segelsällskapet Ägir i ungefär fyrtio år."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brudholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Holmar i skärgården som Einar Hedström ägde några av."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topeliushemmet där Einar Hedström skötte om traditionen."
+    },
+    {
+      "name": "Ragnörforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Gravgården ligger ovanför forsen, där Einar Hedström vilar."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir direktör vid Helsingfors Aktiebanks kontor i Nykarleby",
+      "date": {
+        "year": 1921,
+        "circa": false
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider på villan i skärgården",
+      "date": {
+        "year": 1951,
+        "month": 8,
+        "day": 5,
+        "circa": false,
+        "text": "söndagen före notisen, enligt Österbottniska Posten"
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": [
+        "Brudholmarna"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "af1e770de7166ce3313a6fb68656651fc766261ac92d91638328354fbe0c8fc8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

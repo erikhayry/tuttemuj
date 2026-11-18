@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ekrooskh.html",
+  "title": "Klas Henrik Ekroos",
+  "summary": "Minnesnotis om apotekaren Klas Henrik Ekroos, som köpte apoteket i Nykarleby 1880, grundade en vattenfabrik och lät bygga ett bönehus. Han avled i Borgå 1925.",
+  "topics": [
+    "apotek",
+    "religiöst arbete",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Klas Henrik Ekroos",
+      "alternateNames": [],
+      "roles": [
+        "apotekare",
+        "expeditionsföreståndare",
+        "bankdirektör"
+      ],
+      "description": "Född på Bergby egendom i Pernå. Bosatt i Nykarleby från 1880. Ordförande för Lutherska Evangeliföreningen 1894. Bosatt i Borgå från 1914."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby apotek",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Apoteket som Ekroos köpte 1880 och senare sålde."
+    },
+    {
+      "name": "Ekroos bönehus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bönehus i Nykarleby som Ekroos lät bygga på egen bekostnad."
+    },
+    {
+      "name": "Ekroos vattenfabrik",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vattenfabrik som Ekroos grundade i staden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Köper apoteket i Nykarleby",
+      "date": {
+        "year": 1880,
+        "circa": false
+      },
+      "people": [
+        "Klas Henrik Ekroos"
+      ],
+      "places": [
+        "Nykarleby apotek"
+      ]
+    },
+    {
+      "title": "Avlider i Borgå",
+      "date": {
+        "year": 1925,
+        "month": 6,
+        "day": 6,
+        "circa": false,
+        "text": "6 juni 1925"
+      },
+      "people": [
+        "Klas Henrik Ekroos"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b2c415d97586c1112d6890f0e2f2502bb50a76d423a07e69a213e0d8aacf9673",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

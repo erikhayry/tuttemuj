@@ -1,0 +1,185 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hannamfl.htm",
+  "title": "En församlingstillställning",
+  "summary": "Gruppfoto av ett tjugotal kvinnor från en församlingstillställning i Nykarleby, taget senast 1956. Namnen har kompletterats av läsare som minns personerna, bland annat Källbacken och Grev Tottgatan.",
+  "topics": [
+    "fotografi",
+    "församling",
+    "1950-tal",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Johanna Holmbom",
+      "alternateNames": [
+        "Lama-Hanna"
+      ],
+      "deathYear": 1956,
+      "roles": [],
+      "description": "Avled 1956. Bilden är taget senast det året."
+    },
+    {
+      "name": "Rosa Öhman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zaida Granlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Signe Granholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alarik Forsblom",
+      "alternateNames": [],
+      "roles": [
+        "prost"
+      ],
+      "description": "Kan vara samma person som prosten Johan Alarik Forsblom, men det är inte bekräftat på sidan."
+    },
+    {
+      "name": "Elsa Forsblom",
+      "alternateNames": [],
+      "roles": [
+        "prostinna"
+      ]
+    },
+    {
+      "name": "Johanna Blomström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mor till Lennart."
+    },
+    {
+      "name": "Anna Semskar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Lovisa Forsbacka",
+      "alternateNames": [
+        "Nanna Forsbacka"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Mari Damberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ida Lund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med Axel."
+    },
+    {
+      "name": "Tirtza Wallin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med apotekaren Tore Wallin. De byggde ett hus på Källbacken."
+    },
+    {
+      "name": "Lina Ahlnäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Betty Aaltonen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hulda Blomqvist",
+      "alternateNames": [],
+      "birthYear": 1878,
+      "deathYear": 1962,
+      "roles": [],
+      "description": "Född 13 augusti 1878, död 26 december 1962, enligt en kommentar. Bodde på Karleborgsgatan."
+    },
+    {
+      "name": "Tekla Maria Strandén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med Joel."
+    },
+    {
+      "name": "Maria Svanström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hade mangel."
+    },
+    {
+      "name": "Maria Ahlström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde på Grev Tottgatan 9."
+    },
+    {
+      "name": "Anna Eriksson",
+      "alternateNames": [
+        "Solvin"
+      ],
+      "roles": [],
+      "description": "Var inte gift. Kallades 'bönlobbon' och var vaktmästare på bönehuset."
+    },
+    {
+      "name": "Senna Kjellberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Syster till nr 2 Rosa Öhman."
+    },
+    {
+      "name": "Aina Löving",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Där Tirtza Wallin och hennes man byggde ett hus.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan 9",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 9",
+      "description": "Maria Ahlströms hem."
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Hulda Blomqvist bodde här.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "4c3b8ebc115b9dd2d1ec087b9b62d302cdfc51d4d2d72d5942086a47f2655782",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

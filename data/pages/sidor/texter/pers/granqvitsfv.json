@@ -1,0 +1,126 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/granqvitsfv.htm",
+  "title": "Ture Granqvist 1898–1985",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över kommunalrådet Ture Granqvist, som var lärare i Kyrkby i 41 år och förestod kommunens bibliotek i 36 år. Han var redaktör för Österbottniska Posten och ordförande i nykterhetsföreningen. Han avled i Nykarleby 1985.",
+  "topics": [
+    "minnesruna",
+    "kommunalpolitik",
+    "bibliotek",
+    "nykterhet",
+    "lärare"
+  ],
+  "people": [
+    {
+      "name": "Ture Rudolf Granqvist",
+      "alternateNames": [
+        "Ture Granqvist"
+      ],
+      "birthYear": 1898,
+      "deathYear": 1985,
+      "roles": [
+        "kommunalråd",
+        "folkskollärare",
+        "redaktör",
+        "bibliotekarie"
+      ],
+      "description": "Född i Esse 3 november 1898. Gift med Meri Granqvist. Far till Håkan Granqvist. Dimitterad från Nykarleby seminarium 1922. Kommunalfullmäktige 1937, ordförande 1944–1953."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkby skola",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkby folkskola"
+      ],
+      "description": "Ture Granqvists lärartjänst 1923–1964."
+    },
+    {
+      "name": "Gustav Adolfsgatan 43",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 43",
+      "description": "Här bodde Ture Granqvist i gården.",
+      "geo": {
+        "lat": 63.52699089999999,
+        "lng": 22.5354161,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 43",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad från Nykarleby folkskollärarseminarium",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "people": [
+        "Ture Rudolf Granqvist"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Ordinarie lärare vid Kyrkby folkskola",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "efter ett lärarvikariat i Närpes 1923"
+      },
+      "people": [
+        "Ture Rudolf Granqvist"
+      ],
+      "places": [
+        "Kyrkby skola"
+      ]
+    },
+    {
+      "title": "Redaktör för Österbottniska Posten",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "1931–1944"
+      },
+      "people": [
+        "Ture Rudolf Granqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Förestår kommunens bibliotek",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "1936–1972"
+      },
+      "people": [
+        "Ture Rudolf Granqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1985,
+        "month": 5,
+        "day": 31,
+        "circa": false,
+        "text": "31 maj 1985"
+      },
+      "people": [
+        "Ture Rudolf Granqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "24cfcb90de079a6f94073ec807e05fdb05e8b8a2ff0200ac862de03d9ff70a6b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

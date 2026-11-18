@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/heikel_teodor.htm",
+  "title": "Minnesruna över Teodor Heikel 1936",
+  "summary": "Minnesruna i Österbottniska Posten över Teodor Heikel, född på Forsbacka i Nykarleby, som var forstmästare och landshövding i Vasa län. Under 1917 var hans landshövdingsresidens Mannerheims första högkvarter.",
+  "topics": [
+    "minnesruna",
+    "forstväsen",
+    "politik",
+    "frihetskriget",
+    "Forsbacka"
+  ],
+  "people": [
+    {
+      "name": "Teodor August Heikel",
+      "alternateNames": [
+        "Teodor Heikel"
+      ],
+      "birthYear": 1863,
+      "deathYear": 1936,
+      "roles": [
+        "forstmästare",
+        "forstråd",
+        "landshövding",
+        "ståndsrepresentant"
+      ],
+      "description": "Född på Forsbacka invid Nykarleby. Son till vicepastor August Heikel och Aurora Emilia von Knorring. Landshövding i Vasa län 1917–1920. Representant för Nykarleby stad i borgarståndet 1904–1905 och vid urtima lantdagen 1905–1906."
+    },
+    {
+      "name": "Mannerheim",
+      "alternateNames": [],
+      "roles": [
+        "överbefälhavare"
+      ],
+      "description": "Bildade sitt första högkvarter i landshövdingsresidenset i Vasa."
+    },
+    {
+      "name": "Hellner",
+      "alternateNames": [],
+      "roles": [
+        "utrikesminister"
+      ],
+      "description": "Svensk utrikesminister som gav Heikel ett löfte att se genom fingrarna vid smuggling av vapen till Finland."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gården invid Nykarleby där Teodor Heikel föddes."
+    }
+  ],
+  "events": [
+    {
+      "title": "Utnämns till landshövding i Vasa län",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "people": [
+        "Teodor August Heikel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Helsingfors",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "på torsdagen den senaste veckan, enligt notisen"
+      },
+      "people": [
+        "Teodor August Heikel"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Mannerheim bildar sitt första högkvarter i landshövdingsresidenset i Vasa. Landshövding Heikel reser till Sverige för att förhandla om vapen. Han misslyckas med huvuduppdraget, men får utrikesministerns löfte att se genom fingrarna på smugglingen av vapen.",
+    "reason": "En politisk intrig med hemliga resor, misslyckanden och ett stort löfte, som bygger på verkliga händelser.",
+    "characters": [
+      "Teodor August Heikel",
+      "Mannerheim",
+      "Hellner"
+    ],
+    "places": []
+  },
+  "contentHash": "9d9a03b9330c9391e042601a75d0f5cc8fab1ec3c8709b489cbaf445b8d24582",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fulltraf.htm",
+  "title": "Jaktlaget Fullträff på 1930-talet",
+  "summary": "Gammalt foto av jaktlaget Fullträff i Socklot, taget vid Tjuvhällan på Torsö, med de sju männen på bilden namngivna. En läsare berättar om en hare som sprang ikapp jägaren och ett kommentarsspår ger årtalet 1937.",
+  "topics": [
+    "jakt",
+    "föreningar",
+    "fotografi",
+    "Socklot"
+  ],
+  "people": [
+    {
+      "name": "Birger Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ]
+    },
+    {
+      "name": "Hugo Haglund",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ]
+    },
+    {
+      "name": "Alfred Hjelt",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ]
+    },
+    {
+      "name": "Rolf Segervall",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ]
+    },
+    {
+      "name": "Elis Cederholm",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ]
+    },
+    {
+      "name": "Erik Nordqvist",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ]
+    },
+    {
+      "name": "Rafael Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "jägare"
+      ],
+      "description": "Var 14 år gammal när fotot togs, enligt en kommentar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Tjuvhällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen på Torsö där fotot togs."
+    }
+  ],
+  "events": [
+    {
+      "title": "Jaktlaget Fullträff grundas i Socklot",
+      "date": {
+        "year": 1937,
+        "circa": true,
+        "text": "enligt kommentar från en Socklotbo"
+      },
+      "people": [],
+      "places": [
+        "Socklot"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Rafael Sjöholm, fjorton år gammal, har ingen gevär med sig, men kommer hem med en hare. Han hade inte skjutit den. Haren sprang bara så ikapp honom.",
+    "reason": "En rolig anekdot med en tydlig poäng, men sidan ger den bara några rader.",
+    "characters": [
+      "Rafael Sjöholm"
+    ],
+    "places": [
+      "Tjuvhällan"
+    ]
+  },
+  "contentHash": "7b099fbd43e5ec448a52bc9673f92edf260439c2642e7412630908fd41e5eae9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

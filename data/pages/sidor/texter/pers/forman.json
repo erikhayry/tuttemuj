@@ -1,0 +1,126 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/forman.htm",
+  "title": "Hästar och hästkarar i Nykarleby",
+  "summary": "Åke Björklund berättar om Nykarlebys sista hästkarlar och visar foton av hästar och forman från 1960-talet till 2000-talet. Det finns även en anekdot om ett ristransport på Källbacken.",
+  "topics": [
+    "hästar",
+    "forman",
+    "transport",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Valfrid Vallu Kling",
+      "alternateNames": [
+        "Vallu"
+      ],
+      "birthYear": 1940,
+      "deathYear": 2008,
+      "roles": [
+        "formanskarl"
+      ],
+      "description": "En av Nykarlebys två sista formän."
+    },
+    {
+      "name": "Erkki Hietanen",
+      "alternateNames": [
+        "Erkki"
+      ],
+      "birthYear": 1947,
+      "deathYear": 2007,
+      "roles": [
+        "formanskarl"
+      ],
+      "description": "En av Nykarlebys två sista formän."
+    },
+    {
+      "name": "Rolf Herler",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Källbacken"
+      ],
+      "description": "Beställde Vallu med häst för att köra bort en stor rishög från sin gårdsplan på 1970-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Gården där Rolf Herler bodde.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Nykarleby torg, där tre travare fotograferades."
+    },
+    {
+      "name": "Hugos lindo",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Betesmark där hästar betade."
+    },
+    {
+      "name": "Roosas lindo",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Betesmark där hästar betade."
+    }
+  ],
+  "events": [
+    {
+      "title": "Rolf Herler beställer Vallu med häst för att köra bort ris",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "någon gång på 1970-talet"
+      },
+      "people": [
+        "Rolf Herler",
+        "Valfrid Vallu Kling"
+      ],
+      "places": [
+        "Källbacken"
+      ]
+    },
+    {
+      "title": "Åke Björklund tar bort sina hästar",
+      "date": {
+        "year": 2018,
+        "month": 10,
+        "day": 8,
+        "circa": false,
+        "text": "kommentar 8 oktober 2018"
+      },
+      "people": [
+        "Åke Björklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Vallu med häst ska köra bort en stor rishög från Källbacken. Han föreslår att man tar en traktor för att gå snabbare, men Rolf Herler svarar att han och hästen är mycket mer miljövänliga än traktorn.",
+    "reason": "En kort och rolig replik som kan bli en scen, men sidan ger bara några rader.",
+    "characters": [
+      "Valfrid Vallu Kling",
+      "Rolf Herler"
+    ],
+    "places": [
+      "Källbacken"
+    ]
+  },
+  "contentHash": "330c419397e718a8a14c2477d35b8b1a8690347c17e07083528fc5723c51cc20",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

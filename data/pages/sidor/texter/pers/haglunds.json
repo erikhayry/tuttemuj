@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/haglunds.html",
+  "title": "Haglunds och Backlunds fähus på Högbacka",
+  "summary": "Adventskalendern 2012 visar familjen Haglunds fotografi från Högbacka omkring 1930 och ett fähus som användes som förråd. Stig Haglund och en granne minns husets användning och hur det revs.",
+  "topics": [
+    "adventskalender",
+    "Högbacka",
+    "familj",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Selim Haglund",
+      "alternateNames": [],
+      "roles": [
+        "far"
+      ],
+      "description": "Fotograferad med familjen på Högbacka omkring 1930."
+    },
+    {
+      "name": "Elvi Haglund",
+      "alternateNames": [],
+      "roles": [
+        "mor"
+      ],
+      "description": "Fotograferad med familjen. Hon hade 70-årsdag 1958."
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son i familjen Haglund."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Minnen av fähusen. Tillhandahöll bilderna."
+    },
+    {
+      "name": "Elisabet Haglund",
+      "alternateNames": [
+        "Elisabet Sund"
+      ],
+      "roles": [],
+      "description": "Dotter i familjen Haglund. Gift Sund."
+    },
+    {
+      "name": "Klara Mårtens Ekblad",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kommenterade minnena från fähusen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacka",
+      "kind": "village",
+      "alternateNames": [
+        "Högbacken"
+      ],
+      "description": "Familjen Haglunds gård med fähus."
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Haglund fotograferas på Högbacka",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "troligen 1930"
+      },
+      "people": [
+        "Selim Haglund",
+        "Elvi Haglund",
+        "Holger Haglund"
+      ],
+      "places": [
+        "Högbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a82680739237837490138791fc6d22df1339ec4acf4f2bf14ff62b3713f48be1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

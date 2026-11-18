@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/grenman_jf.html",
+  "title": "Minnesruna över Johan Fredrik Grenman 1908",
+  "summary": "Dödsnotis i Österbottniska Posten över rådhusvaktmästaren Johan Fredrik Grenman, som kollapsade med hjärnblödning under lantdagsvalet på rådhuset 1908 och avled några dagar senare. Han hade varit polis i Nykarleby i över trettio år.",
+  "topics": [
+    "minnesruna",
+    "polis",
+    "rådhuset",
+    "lantdagsval",
+    "1900-tal"
+  ],
+  "people": [
+    {
+      "name": "Johan Fredrik Grenman",
+      "alternateNames": [],
+      "birthYear": 1840,
+      "deathYear": 1908,
+      "roles": [
+        "rådhusvaktmästare",
+        "stadsfogde",
+        "polis"
+      ],
+      "description": "Född i Kveflax 11 juni 1840. Kom till Nykarleby 1873 som stadsfogde och polis. Tog avsked från polisen hösten 1905."
+    }
+  ],
+  "places": [
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Grenman var vaktmästare och där lantdagsvalet hölls."
+    }
+  ],
+  "events": [
+    {
+      "title": "Insjuknar på rådhuset under lantdagsvalet",
+      "date": {
+        "year": 1908,
+        "month": 7,
+        "day": 2,
+        "circa": false,
+        "text": "torsdagen den 2 juli 1908"
+      },
+      "people": [
+        "Johan Fredrik Grenman"
+      ],
+      "places": [
+        "rådhuset"
+      ]
+    },
+    {
+      "title": "Avlider i hjärnblödning",
+      "date": {
+        "year": 1908,
+        "circa": false,
+        "text": "måndagen efter insjuknandet, enligt notisen"
+      },
+      "people": [
+        "Johan Fredrik Grenman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kommer till Nykarleby som stadsfogde och polis",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [
+        "Johan Fredrik Grenman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Under lantdagsvalet på rådhuset blir rådhusvaktmästare Grenman plötsligt illamående och måste föras hem. Några dagar senare är han död.",
+    "reason": "En dramatisk ögonblicksbild på en vanlig valdag, men notisen ger bara några rader.",
+    "characters": [
+      "Johan Fredrik Grenman"
+    ],
+    "places": [
+      "rådhuset"
+    ]
+  },
+  "contentHash": "2a3b69a956b7c2f10d1d9e5f54176ed706924ce01602df2bbe1b69c53f42cf1f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/enckelou.htm",
+  "title": "Olof Enckell 1900–1990",
+  "summary": "Utdrag ur Uppslagsverket Finland om författaren och litteraturhistorikern Olof Enckell, som skrev monografier om Diktonius, Södergran och Hagar Olsson. Sidan visar också att han recenserade R. R. Eklunds Det unga ögat 1927 och höll tal vid minnesstenen över Eklund 1962.",
+  "topics": [
+    "litteratur",
+    "litteraturhistoria",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Olof Enckell",
+      "alternateNames": [
+        "Olof Wilhelm Toussaint Enckell"
+      ],
+      "birthYear": 1900,
+      "deathYear": 1990,
+      "roles": [
+        "författare",
+        "litteraturhistoriker",
+        "professor i svensk litteratur"
+      ],
+      "description": "Redaktör och litteraturkritiker vid Hufvudstadsbladet 1924–1932. Professor vid Helsingfors universitet 1950–1967."
+    }
+  ],
+  "places": [
+    {
+      "name": "Minnesstenen över R. R. Eklund",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Minnessten över författaren R. R. Eklund, invigd 1962."
+    }
+  ],
+  "events": [
+    {
+      "title": "Recenserar Det unga ögat",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "people": [
+        "Olof Enckell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Håller tal vid invigningen av minnesstenen över R. R. Eklund",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [
+        "Olof Enckell"
+      ],
+      "places": [
+        "Minnesstenen över R. R. Eklund"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1193dbb4d042972d3d3120723d12e331707dcc390ba168bb02a0fc7296163258",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

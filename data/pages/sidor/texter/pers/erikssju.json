@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/erikssju.htm",
+  "title": "Jakob och Erik Eriksson 1689–1761",
+  "summary": "Utdrag ur Uppslagsverket Finland om bröderna Jakob och Erik Eriksson från Kelviå, sekteristledare som förvisades och senare grundade ett samfund på Värmdö. Sidan har ingen egen koppling till Nykarleby utöver en länk.",
+  "topics": [
+    "religion",
+    "sekter",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Jakob Eriksson",
+      "alternateNames": [],
+      "birthYear": 1689,
+      "deathYear": 1737,
+      "roles": [
+        "sekterist"
+      ],
+      "description": "Född i Kelviå. Avled i Tyskland."
+    },
+    {
+      "name": "Erik Eriksson",
+      "alternateNames": [],
+      "birthYear": 1695,
+      "deathYear": 1761,
+      "roles": [
+        "sekterist",
+        "sektledare"
+      ],
+      "description": "Född i Kelviå. Ledde samfundet på Skevik gård på Värmdön."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Dömda till landsförvisning av Åbo hovrätt",
+      "date": {
+        "year": 1735,
+        "circa": false,
+        "text": "efter trosbekännelse inför hovrätten"
+      },
+      "people": [
+        "Jakob Eriksson",
+        "Erik Eriksson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Erik vänder tillbaka till Sverige och upprättar ett samfund på Skevik gård",
+      "date": {
+        "year": 1745,
+        "circa": false
+      },
+      "people": [
+        "Erik Eriksson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Bröderna Eriksson stäms för att de inte deltar i nattvarden, bekänner sin tro inför hovrätten och förvisas. De vandrar från Köpenhamn till Amsterdam och sedan från land till land, tills den ena bröderna vänder hem och bygger ett samfund på Värmdön.",
+    "reason": "En tydlig följd av förföljelse och flykt, men texten är kortfattad.",
+    "characters": [
+      "Jakob Eriksson",
+      "Erik Eriksson"
+    ],
+    "places": []
+  },
+  "contentHash": "2a37d9df7bfeb33a2ed654c1b121857027a3bc51519101a022605046a0608879",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

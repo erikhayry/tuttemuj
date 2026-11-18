@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstr_o_%20olander_b_herler_a.html",
+  "title": "Dödsfall i Österbottniska Posten 1933",
+  "summary": "Dödsnotiser i Österbottniska Posten från januari 1933 över fyra personer: direktorskan Olga Hedström, prostinnan Bertha Olander, prosten Kaarlo Olander och bryggmästaren Alfred Herler. Herler drev Nygårds ölbryggeri i Nykarleby efter sin fars död.",
+  "topics": [
+    "dödsfall",
+    "1930-tal",
+    "bryggeri",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Olga Hedström",
+      "alternateNames": [],
+      "birthYear": 1858,
+      "deathYear": 1933,
+      "roles": [
+        "direktorska"
+      ],
+      "description": "Född i Nykarleby 8 mars 1858. Dotter till handlanden Alfred Häggblom. Gift med seminarierektorn Gustav Hedström. Aktiv i den frikyrkliga rörelsen i Nykarleby."
+    },
+    {
+      "name": "Bertha Olander",
+      "alternateNames": [],
+      "roles": [
+        "prostinna"
+      ],
+      "description": "Född i Nykarleby, dotter till Alfred Häggblom. Avled i Messuby vid 72 års ålder."
+    },
+    {
+      "name": "Kaarlo Olander",
+      "alternateNames": [],
+      "roles": [
+        "prost i Messuby"
+      ],
+      "description": "Avled samma dag som sin hustru Bertha Olander."
+    },
+    {
+      "name": "Alfred Herler",
+      "alternateNames": [],
+      "birthYear": 1872,
+      "deathYear": 1933,
+      "roles": [
+        "bryggmästare",
+        "verkställande direktör",
+        "kontrollör för ölbryggerier"
+      ],
+      "description": "Född i Gamlakarleby 1872. Övertog Nygårds ölbryggeri i Nykarleby efter faderns frånfälle. Initiativtagare till Vasa Pressjästfabriks Aktiebolag. Avled på Eira sjukhus i Helsingfors 19 januari 1933."
+    },
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "affärsman"
+      ],
+      "description": "Far till Olga Hedström och Bertha Olander."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårds ölbryggeri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ölbryggeri i Nykarleby som Alfred Herler övertog efter sin far."
+    }
+  ],
+  "events": [
+    {
+      "title": "Olga Hedström avlider",
+      "date": {
+        "year": 1933,
+        "circa": false,
+        "text": "i slutet av januari 1933"
+      },
+      "people": [
+        "Olga Hedström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Alfred Herler avlider på Eira sjukhus",
+      "date": {
+        "year": 1933,
+        "month": 1,
+        "day": 19,
+        "circa": false,
+        "text": "den 19 januari 1933"
+      },
+      "people": [
+        "Alfred Herler"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3857ecc576379dcc5bc0e26ae04972cd36271c90dad408c7559939708948bafb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagmanj_sfv.html",
+  "title": "Minnesruna över Johan Hagman 1889",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över folkskolläraren Johan Hagman, som var en av de första eleverna vid Nykarleby seminarium. Han blev lärare i Vörå men dog i lungsot 1889 vid 36 års ålder.",
+  "topics": [
+    "minnesruna",
+    "seminarium",
+    "folkskola",
+    "lungsot"
+  ],
+  "people": [
+    {
+      "name": "Johan Hagman",
+      "alternateNames": [],
+      "birthYear": 1852,
+      "deathYear": 1889,
+      "roles": [
+        "folkskollärare",
+        "tidningsman",
+        "korrespondent"
+      ],
+      "description": "Född i Munsala 21 juni 1852. En av de första eleverna vid Nykarleby folkskollärarseminarium, som öppnade hösten 1873. Folkskollärare i Vörå 1877 till sin död. Död 18 mars 1889."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Folkskollärarseminariet som öppnade hösten 1873."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ser en annons om inträde till seminariet i Nykarleby i kuskrummet i Uleåborg",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "kring hösten 1873, enligt minnesrunan"
+      },
+      "people": [
+        "Johan Hagman"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Blir folkskollärare i Vörå",
+      "date": {
+        "year": 1877,
+        "circa": false
+      },
+      "people": [
+        "Johan Hagman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i lungsot",
+      "date": {
+        "year": 1889,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "18 mars 1889"
+      },
+      "people": [
+        "Johan Hagman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den unge Johan Hagman har tagit tjänst hos en handlande och rest genom landet. Han blir skrämd av sitt eget liv, och i kuskrummet i Uleåborg ser han en annons om seminariet i Nykarleby. Han byter bana och blir en av seminariets första elever.",
+    "reason": "Ett tydligt vändpunktsögonblick med en enkel, rolig bild av ett kuskrum och en annons.",
+    "characters": [
+      "Johan Hagman"
+    ],
+    "places": [
+      "Nykarleby seminarium"
+    ]
+  },
+  "contentHash": "334e557330066802569e0021b0dc8e4607aee4d9e8e3655ccaf25f10ea85ff66",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

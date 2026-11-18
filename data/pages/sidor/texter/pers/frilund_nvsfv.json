@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/frilund_nvsfv.html",
+  "title": "Minnesruna över M. V. Frilund 1922",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender om banmästaren Matts Vilhelm Frilund, född i Nykarleby, som som pojke var roddpojke åt Z. Topelius. Han var en av grundarna av Kervo frivilliga brandkår och avled i Kervo 1922.",
+  "topics": [
+    "minnesruna",
+    "Topelius",
+    "järnväg",
+    "föreningsliv"
+  ],
+  "people": [
+    {
+      "name": "Matts Vilhelm Frilund",
+      "alternateNames": [
+        "M. V. Frilund"
+      ],
+      "birthYear": 1865,
+      "deathYear": 1922,
+      "roles": [
+        "banmästare",
+        "byggmästare",
+        "banförman"
+      ],
+      "description": "Född i Nykarleby 31 maj 1865. Bosatt i Kervo. Grundare av Kervo frivilliga brandkår."
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ],
+      "description": "Frilunds barndomsvän, som tog honom under sina vingar och såg till att han fick gå i Industriskolan i Helsingfors."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Frilunds barndomshem, där han träffade Topelius."
+    }
+  ],
+  "events": [
+    {
+      "title": "Föds i Nykarleby",
+      "date": {
+        "year": 1865,
+        "month": 5,
+        "day": 31,
+        "circa": false,
+        "text": "31 maj 1865"
+      },
+      "people": [
+        "Matts Vilhelm Frilund"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Dimitterad från Industriskolan i Helsingfors",
+      "date": {
+        "year": 1886,
+        "circa": false
+      },
+      "people": [
+        "Matts Vilhelm Frilund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i sitt hem i Kervo",
+      "date": {
+        "year": 1922,
+        "month": 6,
+        "day": 7,
+        "circa": false,
+        "text": "7 juni 1922"
+      },
+      "people": [
+        "Matts Vilhelm Frilund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b3ff3e942288510864778200717c265e79fa8295ee902f3dc425cb6349f71952",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

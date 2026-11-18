@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hakalainen_h.html",
+  "title": "Bödeln Heikki Hakalainen",
+  "summary": "Berättelse om Heikki Matinpoika Hakalainen, länsbödeln som bosatte sig utanför tullporten i Nykarleby på 1660-talet. Berättelsen beskriver hans löneförhandling, en tobakssmuggling och en konflikt med tulltjänstemän.",
+  "topics": [
+    "bödel",
+    "1600-tal",
+    "tull",
+    "smuggling",
+    "häxprocesser"
+  ],
+  "people": [
+    {
+      "name": "Heikki Matinpoika Hakalainen",
+      "alternateNames": [
+        "Heikki Hakalainen",
+        "Hakalainen"
+      ],
+      "roles": [
+        "länsbödel",
+        "bödel"
+      ],
+      "description": "Nykarlebybo och den tredje länsbödeln i Österbotten. Förordnades 1660 och verkade i drygt 40 år. Enligt senare forskning har han halshuggit eller hängt över 100 personer."
+    },
+    {
+      "name": "Johan Graan",
+      "alternateNames": [],
+      "roles": [
+        "landshövding"
+      ],
+      "description": "Ledde löneförhandlingarna i Vasa våren 1660."
+    },
+    {
+      "name": "Hakalainens son",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Smugglade 48 rullar tobak från Tallinn."
+    },
+    {
+      "name": "Hakalainens fru",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Deltog i handgemänget med tulltjänstemännen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Tullporten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Hakalainen fick en stuga i närheten av tullporten, utanför tullstaketet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hakalainen förordnas som länsbödel",
+      "date": {
+        "year": 1660,
+        "circa": false
+      },
+      "people": [
+        "Heikki Matinpoika Hakalainen"
+      ],
+      "places": []
+    },
+    {
+      "title": "Smugglingsaffären och handgemänget med tulltjänstemännen",
+      "date": {
+        "year": 1660,
+        "circa": false,
+        "text": "år ej angivet på sidan"
+      },
+      "people": [
+        "Heikki Matinpoika Hakalainen"
+      ],
+      "places": [
+        "Tullporten"
+      ]
+    },
+    {
+      "title": "Åtalas för trolldom i Vasa hovrätt men friades",
+      "date": {
+        "year": 1695,
+        "circa": false,
+        "text": "våren 1695"
+      },
+      "people": [
+        "Heikki Matinpoika Hakalainen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Hakalainens son smugglar 48 rullar tobak från Tallinn. Tre tulltjänstemän skickas hem till bödeln för att beslagta godset. Bödeln lägger sin bila på bordet och hotar dem. Det blir handgemäng, och när han senare står inför rätten har han slagit sönder låset på sina handfängsel. Han säger att han inte tänker fly ändå.",
+    "reason": "En vass scen med hot, våld och en torr replik som bygger på en konkret händelse.",
+    "characters": [
+      "Heikki Matinpoika Hakalainen",
+      "Hakalainens fru",
+      "Hakalainens son"
+    ],
+    "places": [
+      "Tullporten"
+    ]
+  },
+  "contentHash": "98b9edaab9d990a9e0aed7911a0a48f81829be96ce2f88baedd8ed1b4913a1e7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

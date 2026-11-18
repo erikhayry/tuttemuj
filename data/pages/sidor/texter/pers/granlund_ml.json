@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/granlund_ml.html",
+  "title": "Majlis Granlund 1925–1991",
+  "summary": "Minnesord i Svenska Dagbladet över skådespelerskan och regissören Majlis Granlund från Vasa, känd för sina starka modersroller. Hon regisserade också vid Juthbacka teater i Nykarleby.",
+  "topics": [
+    "teater",
+    "skådespelare",
+    "minnesord",
+    "Juthbacka"
+  ],
+  "people": [
+    {
+      "name": "Majlis Granlund",
+      "alternateNames": [],
+      "birthYear": 1925,
+      "deathYear": 1991,
+      "roles": [
+        "skådespelerska",
+        "regissör"
+      ],
+      "description": "Född i Vasa i mars 1925. Verksam vid Wasa teater 1947–1956. Spelade i Fanny och Alexander."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka teater",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Teater i Nykarleby där Majlis Granlund var regissör."
+    }
+  ],
+  "events": [
+    {
+      "title": "Verksam vid Wasa teater",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "1947–1956"
+      },
+      "people": [
+        "Majlis Granlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Regisserar vid Juthbacka teater",
+      "date": {
+        "year": 1991,
+        "circa": false,
+        "text": "senare; årtal ej angivet på sidan"
+      },
+      "people": [
+        "Majlis Granlund"
+      ],
+      "places": [
+        "Juthbacka teater"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "efa856199c3a9eb1169a401e9f30fa230b4816db960c17ee821f360687cddd6e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

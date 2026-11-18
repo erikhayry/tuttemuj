@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/heikelmsfv.htm",
+  "title": "Minnesruna över Mika Heikel 1969",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över Mika Heikel, född i Nykarleby 1884, som var lärare och föreståndare i Helsingfors och ledde Brages urklippsverk i fyrtio år. Han fick SFV:s folkbildningsmedalj 1965.",
+  "topics": [
+    "minnesruna",
+    "folkskola",
+    "urklippsverk",
+    "Helsingfors"
+  ],
+  "people": [
+    {
+      "name": "Teodor Mikael Heikel",
+      "alternateNames": [
+        "Mika Heikel"
+      ],
+      "birthYear": 1884,
+      "deathYear": 1969,
+      "roles": [
+        "folkskolföreståndare",
+        "lärare",
+        "föreståndare för Brages urklippsverk"
+      ],
+      "description": "Född i Nykarleby 29 juni 1884. Död i Helsingfors 1 september 1969. Dimitterad som hospitant från Nykarleby folkskollärarseminarium 1905. Föreståndare för Kronohagens folkskola 1923–1944. Tilldelad SFV:s folkbildningsmedalj 1965."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad som hospitant från Nykarleby folkskollärarseminarium",
+      "date": {
+        "year": 1905,
+        "circa": false
+      },
+      "people": [
+        "Teodor Mikael Heikel"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Blir föreståndare för Brages urklippsverk",
+      "date": {
+        "year": 1915,
+        "circa": false
+      },
+      "people": [
+        "Teodor Mikael Heikel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Helsingfors",
+      "date": {
+        "year": 1969,
+        "month": 9,
+        "day": 1,
+        "circa": false,
+        "text": "1 september 1969"
+      },
+      "people": [
+        "Teodor Mikael Heikel"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "431b38f7ca07b30437d4017ed38ce404e98432d76125caf84705804e976cf0b8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

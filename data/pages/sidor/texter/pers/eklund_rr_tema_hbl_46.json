@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/eklund_rr_tema_hbl_46.html",
+  "title": "R. R. Eklund i Hufvudstadsbladet 1946",
+  "summary": "Samling av tidningsnotiser om författaren R. R. Eklund från Nykarleby, hans död 1946, minnestal vid bisättningen i hans hemstad och en recension av hans senaste bok. Texten är från Hufvudstadsbladet.",
+  "topics": [
+    "litteratur",
+    "författare",
+    "minnesord",
+    "1940-tal"
+  ],
+  "people": [
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [
+        "Ragnar Rudolf Eklund",
+        "Ragnar Eklund"
+      ],
+      "birthYear": 1895,
+      "deathYear": 1946,
+      "roles": [
+        "författare",
+        "journalist",
+        "litteraturkritiker"
+      ],
+      "description": "Född i Nykarleby. Arbetade vid Nya Pressen i Helsingfors från 1945."
+    }
+  ],
+  "places": [
+    {
+      "name": "R. R. Eklunds barndomshem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Barndomshemmet i Nykarleby, som nämns i en rubrik på sidan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Övergår till Nya Pressen",
+      "date": {
+        "year": 1945,
+        "month": 1,
+        "day": 1,
+        "circa": false,
+        "text": "1 januari 1945"
+      },
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i sitt hem i Munksnäs",
+      "date": {
+        "year": 1946,
+        "circa": false,
+        "text": "natten till fredagen, notis i Hufvudstadsbladet"
+      },
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Bisätts i Nykarleby",
+      "date": {
+        "year": 1946,
+        "circa": false,
+        "text": "notis i Hufvudstadsbladet 12 december 1946"
+      },
+      "people": [
+        "R. R. Eklund"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3be99c6baa6562bda2e74b7d9bdee3e4fe908f45d40a7586bc5e298475c5f08d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

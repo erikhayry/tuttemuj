@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fougstedt_e_sfv.html",
+  "title": "Minnesruna över Ester Fougstedt 1979",
+  "summary": "Minnesruna i Svenska folkskolans vänners kalender över folkskollärarinnan Ester Fougstedt, som var hustru till direktor N. A. Fougstedt. Hon ledde Marthaföreningen i tjugoett år och hjälpte De gamlas hem i Nykarleby. Hon avled 1979.",
+  "topics": [
+    "minnesruna",
+    "marthaföreningen",
+    "lärarinna",
+    "kvinnohistoria"
+  ],
+  "people": [
+    {
+      "name": "Ester Fougstedt",
+      "alternateNames": [
+        "Ester Johanna Fougstedt",
+        "Ester Sundqvist"
+      ],
+      "birthYear": 1891,
+      "deathYear": 1979,
+      "roles": [
+        "folkskollärarinna",
+        "ordförande i Marthaföreningen",
+        "ordförande i vårdnämnden"
+      ],
+      "description": "Född i Purmo 15 april 1891. Gift med N. A. Fougstedt."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminariums övningsskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Förening i Nykarleby som Ester Fougstedt hjälpte under sina sista årtionden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad från Nykarleby seminarium",
+      "date": {
+        "year": 1915,
+        "circa": false
+      },
+      "people": [
+        "Ester Fougstedt"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Lärarvikarie vid seminariets övningsskola",
+      "date": {
+        "year": 1929,
+        "circa": false,
+        "text": "1929–1953"
+      },
+      "people": [
+        "Ester Fougstedt"
+      ],
+      "places": [
+        "Nykarleby seminariums övningsskola"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1979,
+        "month": 1,
+        "day": 1,
+        "circa": false,
+        "text": "årets första dag 1979"
+      },
+      "people": [
+        "Ester Fougstedt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fc1623e6b983158fd68a3b5134c95b34dbc8deb683dec94fd918da0c28265b10",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

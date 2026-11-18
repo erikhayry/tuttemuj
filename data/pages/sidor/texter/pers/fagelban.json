@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fagelban.htm",
+  "title": "Nelly Fågelbärj 1907–2007",
+  "summary": "Minnesbild av Nelly Fågelbärj, född i Munsala 1907, som ledde butiken och caféet Varma i Nykarleby och var en flitig berättare av livet förr. Texten berättar om hennes uppväxt utan far och hennes bröllop i Vasa länsfängelse.",
+  "topics": [
+    "minnesbild",
+    "kvinnohistoria",
+    "emigration",
+    "bröllop"
+  ],
+  "people": [
+    {
+      "name": "Nelly Fågelbärj",
+      "alternateNames": [
+        "Nelly Sofia Fågelbärj",
+        "Nelly Svedvall"
+      ],
+      "birthYear": 1907,
+      "deathYear": 2007,
+      "roles": [
+        "lärarinna",
+        "föreståndare"
+      ],
+      "description": "Född Svedvall i Storsved by i Munsala 28 oktober 1907. Medverkande i flera böcker om livet förr."
+    },
+    {
+      "name": "Erik Viljam Fågelbärj",
+      "alternateNames": [
+        "Erik Fågelbärj"
+      ],
+      "roles": [],
+      "description": "Ordförande för Munsala Fredsförening, som startades av Evert Huldén 1918."
+    }
+  ],
+  "places": [
+    {
+      "name": "Varma",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Butik och café i Nykarleby där Nelly Fågelbärj var föreståndare med många anställda."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gifter sig med Erik Viljam Fågelbärj i Vasa länsfängelse",
+      "date": {
+        "year": 1907,
+        "circa": false,
+        "text": "inte angivet år, se sidan"
+      },
+      "people": [
+        "Nelly Fågelbärj",
+        "Erik Viljam Fågelbärj"
+      ],
+      "places": []
+    },
+    {
+      "title": "Medverkar i Emigrantbreven berättar",
+      "date": {
+        "year": 1985,
+        "circa": false
+      },
+      "people": [
+        "Nelly Fågelbärj"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i sömnen",
+      "date": {
+        "year": 2007,
+        "month": 8,
+        "day": 30,
+        "circa": false,
+        "text": "natten till den 30 augusti"
+      },
+      "people": [
+        "Nelly Fågelbärj"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Bröllopsdagen är bestämd, men brudgummen Erik blir gripen. Nelly vägrar skjuta upp datumet, och de gifter sig i Vasa länsfängelse.",
+    "reason": "En verklig och absurd bröllopsscen med tydlig konflikt och humor.",
+    "characters": [
+      "Nelly Fågelbärj",
+      "Erik Viljam Fågelbärj"
+    ],
+    "places": [
+      "Varma"
+    ]
+  },
+  "contentHash": "c545d2992c886ad3f76a6da556f77f2534f34777691191f0bd3abb3e1a65df90",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/dyhr_berndt.html",
+  "title": "Berndt Alexander Dyhr 1865–1913",
+  "summary": "Dödsnotis om häradsskrivaren Berndt Alexander Dyhr, född i Nykarleby, som var engagerad i Brage och i kyrkans reparationsarbeten. Sidan innehåller också notiser om en chaufför och om kyrkans målning 1913.",
+  "topics": [
+    "dödsfall",
+    "kyrkan",
+    "bilism",
+    "1910-tal"
+  ],
+  "people": [
+    {
+      "name": "Berndt Alexander Dyhr",
+      "alternateNames": [],
+      "birthYear": 1865,
+      "deathYear": 1913,
+      "roles": [
+        "häradsskrivare"
+      ],
+      "description": "Född i Nykarleby 16 februari 1865. Kronolänsman i Pyhäjärvi 1888–1898. Häradsskrivare i Korsholms härad från 1911. Bosatte sig i Vasa."
+    },
+    {
+      "name": "I. Lillqvist",
+      "alternateNames": [],
+      "roles": [
+        "chaufför"
+      ],
+      "description": "Anmälde sig hos magistraten i Jakobstad om att bedriva chaufförsverksamhet, främst trafik mellan Jakobstad och Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kyrkan där reparationsarbetena 1913 planerades; missnöje fanns med målningen.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkostämman beslutar att påbörja reparationen av kyrkobyggnaden",
+      "date": {
+        "year": 1913,
+        "month": 5,
+        "day": 25,
+        "circa": false,
+        "text": "25 maj"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Avlider plötsligt",
+      "date": {
+        "year": 1913,
+        "circa": false,
+        "text": "senaste tisdag, notis i Österbottniska Posten 13 juni 1913"
+      },
+      "people": [
+        "Berndt Alexander Dyhr"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16a8ded6de729adebd9714dde204505d62eda37101be9adba1c108bcf8556b6e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

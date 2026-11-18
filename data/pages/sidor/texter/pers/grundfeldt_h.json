@@ -1,0 +1,125 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/grundfeldt_h.html",
+  "title": "Hilma Grundfeldt 1937",
+  "summary": "Minnesord i Österbottniska Posten över fröken Hilma Grundfeldt, en av stadens äldsta invånare. Hon hade personliga minnen från branden 1858, och den Grundfeldtska salen var stadens största festsal före seminariet.",
+  "topics": [
+    "minnesord",
+    "stadsbranden 1858",
+    "släkt",
+    "nöjesliv"
+  ],
+  "people": [
+    {
+      "name": "Hilma Grundfeldt",
+      "alternateNames": [],
+      "deathYear": 1937,
+      "roles": [
+        "fröken"
+      ],
+      "description": "Dotter till konsul Carl Adolf Grundfeldt och Pauline Grundfeldt, född Lybeck. Avled 19 maj 1937 vid 81 års ålder."
+    },
+    {
+      "name": "Carl Adolf Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Pauline Grundfeldt",
+      "alternateNames": [
+        "Pauline Lybeck"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ],
+      "description": "Spelade Chopins sorgmarsch vid jordfästningen."
+    },
+    {
+      "name": "Hedman",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ],
+      "description": "Förrättade jordfästningen."
+    },
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [
+        "adoptivson"
+      ],
+      "description": "Har troligen skrivit begravningsreferatet, enligt en kommentar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Grundfeldtska salen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Den största salen i staden före seminariets tillkomst. Användes för konserter och fester."
+    },
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Familjens hem som brann ner 1858 och som Hilma Grundfeldt bevarade i orört skick."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadens brand",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 13,
+        "circa": false,
+        "text": "13 januari 1858"
+      },
+      "people": [
+        "Hilma Grundfeldt",
+        "Carl Adolf Grundfeldt",
+        "Pauline Grundfeldt"
+      ],
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "title": "Avlider i sitt hem",
+      "date": {
+        "year": 1937,
+        "month": 5,
+        "day": 19,
+        "circa": false,
+        "text": "19 maj 1937"
+      },
+      "people": [
+        "Hilma Grundfeldt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den 13 januari 1858 brinner familjen Grundfeldts hem ner till grunden. De räddar sig över isen ur eldhavet med knapp nöd. Endast källaren blir kvar.",
+    "reason": "En dramatisk brandscen med ett personligt minne från ett barn, och starka bilder av isen och elden.",
+    "characters": [
+      "Hilma Grundfeldt",
+      "Carl Adolf Grundfeldt",
+      "Pauline Grundfeldt"
+    ],
+    "places": [
+      "Grundfeldtska gården"
+    ]
+  },
+  "contentHash": "94c1245197d8dc4ec0bf63106eb09a8ecd7a2a55b0c320b481213ce264321bf1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

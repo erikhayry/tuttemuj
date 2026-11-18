@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/forsgard_paul.html",
+  "title": "Minnesord över Paul Forsgård 2016",
+  "summary": "Minnesord i Österbottens Tidning över kantorn och körledaren Paul Forsgård, som under decennier sjöng vid kyrkliga förrättningar i Nykarleby. Han avled i Nykarleby 2016 efter en lång och färgstark karriär.",
+  "topics": [
+    "musik",
+    "kyrkomusik",
+    "kör",
+    "minnesord"
+  ],
+  "people": [
+    {
+      "name": "Paul Forsgård",
+      "alternateNames": [
+        "Director cantus Paul Forsgård"
+      ],
+      "deathYear": 2016,
+      "roles": [
+        "kantor",
+        "körledare",
+        "musiklärare",
+        "barytonsolist"
+      ],
+      "description": "Född i Jeppo. Kom till Nykarleby församling 1958. Kantor i Nykarleby till sommaren 1988. Utexaminerad från Sibelius-akademin 1957."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sparvboet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Barnhem där Forsgård ordnade en välgörenhetskonsert som gav barnen cyklar."
+    },
+    {
+      "name": "Kristliga folkhögskolan i Nykarleby",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Forsgård undervisade i sång och musik."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kommer till Nykarleby församling som kantor",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "people": [
+        "Paul Forsgård"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 2016,
+        "month": 2,
+        "day": 1,
+        "circa": false,
+        "text": "1 februari 2016"
+      },
+      "people": [
+        "Paul Forsgård"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7813f26bc1c398529dc1d531f6e64f4161690d3a47e5a87e7d60c9783c549cdb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

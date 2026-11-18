@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrrome60_40.html",
+  "title": "Einar Hedström 60 år 1940",
+  "summary": "Hyllning i Österbottniska Posten till Einar Hedström på hans sextioårsdag 1940. Notisen beskriver hans insatser som folkhögskoleman, tidningsman, kommunalman, hembygdsvårdare och seglare.",
+  "topics": [
+    "jubileum",
+    "folkhögskola",
+    "hembygd",
+    "segling",
+    "politik"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "roles": [
+        "huvudredaktör",
+        "bankdirektör",
+        "folkhögskoleman",
+        "kommodor",
+        "viceordförande i stadsfullmäktige"
+      ],
+      "description": "Fyllde 60 år söndagen den 28 juli 1940. Föreståndare för Mellersta Österbottens vandrande folkhögskola från 1908. Rektor för Vörå folkhögskola från 1918. Direktör för Helsingfors Aktiebank i Nykarleby från 1921. Ledamot i första folktinget för Svenska Finland."
+    },
+    {
+      "name": "Gånge Rolf",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Besökte Hedströms barndomshem."
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Besökte Hedströms barndomshem."
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Besökte Hedströms barndomshem."
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "seminariedirektor"
+      ],
+      "description": "Hans far. Hade gett honom del i den muntliga traditionen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Långörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Skärgårdsvillan där Hedström tillbringade somrarna.",
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fyller 60 år",
+      "date": {
+        "year": 1940,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "söndagen den 28 juli 1940"
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": [
+        "Långörn"
+      ]
+    },
+    {
+      "title": "Blir föreståndare för Mellersta Österbottens vandrande folkhögskola",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8add77363f645722f58420420967d06825d5c10ca4a8e14446b751acb655c29d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

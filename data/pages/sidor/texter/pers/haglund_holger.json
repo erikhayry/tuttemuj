@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/haglund_holger.html",
+  "title": "Holger Haglund 1912–1995",
+  "summary": "Minnesruna i Jakobstads Tidning över bagarmästaren Holger Haglund, en genuin Nykarlebybo som dokumenterade bygden i bild och var en av grundarna av Nykarleby Rotaryklubb. Han avled 1995 vid 82 års ålder.",
+  "topics": [
+    "minnesruna",
+    "bageri",
+    "fotografi",
+    "föreningsliv",
+    "Rotary"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "birthYear": 1912,
+      "deathYear": 1995,
+      "roles": [
+        "bagarmästare",
+        "fotograf",
+        "stadsfullmäktige"
+      ],
+      "description": "Född och uppvuxen på Högbacken i Nykarleby. Egen bagerifirma på Sollefteågatan och sedan Västra Esplanadgatan. Ordförande i museinämnden. Medlem av Nykarleby manskör. Hedersmedlem i Rotaryklubben."
+    },
+    {
+      "name": "John Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesrunan i Jakobstads Tidning 1995."
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotter till Holger Haglund. Tillhandahöll fotografiet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacken",
+      "kind": "village",
+      "alternateNames": [
+        "Högbacka"
+      ],
+      "description": "Holger Haglund var född och uppvuxen här."
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Holger Haglunds första bageri.",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Holger Haglunds senare bageri."
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Där Holger Haglund först bodde.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby Rotaryklubb bildas och Holger Haglund är en av grundarna",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Holger Haglund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider efter en tids sjukdom",
+      "date": {
+        "year": 1995,
+        "month": 1,
+        "day": 19,
+        "circa": false,
+        "text": "19 januari 1995"
+      },
+      "people": [
+        "Holger Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "32520cd4dd55fed1752c186b99cffcf03168792962809c0755ea336758a164ae",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

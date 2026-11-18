@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ehrola.htm",
+  "title": "Stoor-Ehrola och Engberg",
+  "summary": "Läsarminnen och en fotografi av två originella män, Samuel Arvid Stoor-Ehrola och Alarik Vilhelm Engberg, som arbetade vid busstationen i Nykarleby. Engbergs dödsår och Ehrolas död vid hans grav beskrivs.",
+  "topics": [
+    "busstation",
+    "minnen",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Samuel Arvid Stoor-Ehrola",
+      "alternateNames": [
+        "Stoor-Ehrola",
+        "Ehrola"
+      ],
+      "birthYear": 1897,
+      "deathYear": 1954,
+      "roles": [
+        "munk",
+        "springpojke"
+      ],
+      "description": "Körde godstransporter med en trehjulig flakcykel vid busstationen. Ägnade sig åt konserter."
+    },
+    {
+      "name": "Alarik Vilhelm Engberg",
+      "alternateNames": [
+        "Engberg"
+      ],
+      "birthYear": 1883,
+      "deathYear": 1954,
+      "roles": [
+        "munk",
+        "arbetsledare"
+      ],
+      "description": "Svarade i telefon vid busstationen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Busstationen låg i Glassbaren-Gulf-huset vid esplanaden och Borgaregatan."
+    },
+    {
+      "name": "Glassbaren",
+      "kind": "building",
+      "alternateNames": [
+        "Glassbaren-Gulf"
+      ],
+      "description": "Lokalen där busstationen fanns. Nuvarande Alko."
+    },
+    {
+      "name": "gravgården",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Där Stoor-Ehrola och Engberg är begravda."
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Paret bodde nära granne i Winters hus här.",
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Minnesstund hölls här för Engberg och Ehrola."
+    }
+  ],
+  "events": [
+    {
+      "title": "Engberg avlider",
+      "date": {
+        "year": 1954,
+        "month": 4,
+        "day": 1,
+        "circa": false,
+        "text": "1.4.1954"
+      },
+      "people": [
+        "Alarik Vilhelm Engberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ehrola avlider vid Engbergs grav",
+      "date": {
+        "year": 1954,
+        "month": 9,
+        "day": 8,
+        "circa": false,
+        "text": "8.9.1954"
+      },
+      "people": [
+        "Samuel Arvid Stoor-Ehrola"
+      ],
+      "places": [
+        "gravgården"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "På busstationen i Nykarleby arbetar två originella män: den bildade Engberg, som sköter telefonen och verksamheten, och den konstfulle Ehrola, som kör godset på en trehjulig cykel. När Engberg dör 1954 följer Ehrola honom i döden vid hans grav.",
+    "reason": "Två kontrasterande karaktärer och en stark känslomässig vändning, med vivid detalj från vittnen.",
+    "characters": [
+      "Samuel Arvid Stoor-Ehrola",
+      "Alarik Vilhelm Engberg"
+    ],
+    "places": [
+      "Busstationen",
+      "gravgården"
+    ]
+  },
+  "contentHash": "bbf48308cc0df31bf91456cb9cb45a30c7bdb1037d446c1b9ee0368188f9bf87",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

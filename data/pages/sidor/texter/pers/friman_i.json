@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/friman_i.html",
+  "title": "Ingolf Friman 1897–1974",
+  "summary": "Kort presentation av musikern, författaren och jägaren Ingolf Friman från Jakobstad, med en lista över hans artiklar om Nykarlebys historia från 1959–1960. Det finns ingen tydlig koppling till Nykarleby.",
+  "topics": [
+    "historia",
+    "författare",
+    "artiklar"
+  ],
+  "people": [
+    {
+      "name": "Ingolf Friman",
+      "alternateNames": [
+        "Rufus Ingolf Friman"
+      ],
+      "birthYear": 1897,
+      "deathYear": 1974,
+      "roles": [
+        "musiker",
+        "författare",
+        "jägare"
+      ],
+      "description": "Född och död i Jakobstad."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Artikel: Karl XII-karolin vilar under Nykarleby kyrkgolv",
+      "date": {
+        "year": 1959,
+        "circa": false
+      },
+      "people": [
+        "Ingolf Friman"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Artikel: Drag ur Nykarleby historia",
+      "date": {
+        "year": 1960,
+        "circa": false
+      },
+      "people": [
+        "Ingolf Friman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f5df813f44cd17f0e04cf001ae6ed0b299138cdd8fad05b6ff73a961bfb004da",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

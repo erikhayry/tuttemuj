@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/gyllenberga.html",
+  "title": "Arno Gyllenberg 60 år 1947",
+  "summary": "Gratulationsnotis i Österbottniska Posten till ingenjören Arno Gyllenberg, född i Nykarleby, som fyllde 60 år 1947. Han byggde upp ett eget industriföretag i Kärrfors i Forsby efter en lång karriär som ingenjör i Vasa.",
+  "topics": [
+    "industri",
+    "ingenjör",
+    "jubileum",
+    "Forsby"
+  ],
+  "people": [
+    {
+      "name": "Arno Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör",
+        "industriman",
+        "chef för Vasa Labors tekniska avdelning"
+      ],
+      "description": "Född i Nykarleby. Fyllde 60 år på påsklördagen 1947. Chef för Vasa Labors tekniska avdelning från 1919. Bedrev sågrörelse och senare gjuteri i Kärrfors."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kärrfors",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Industriföretag i Forsby där Gyllenberg bedrev sågrörelse och senare gjuteri."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir chef för Vasa Labors tekniska avdelning",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [
+        "Arno Gyllenberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fyller 60 år",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "påsklördagen 1947"
+      },
+      "people": [
+        "Arno Gyllenberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "43e30646c7485258b8da84876f38570768e7fccedfc38bc3d5c7ace9caf7874b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

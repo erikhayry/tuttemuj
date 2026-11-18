@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/eklund_ernest.html",
+  "title": "Ernest Eklund 1915–1971",
+  "summary": "Minnesruna över Ernest Eklund, Nykarlebys femte stadsdirektör, som tidigare var kommunalsekreterare i Munsala och ledde sjukhusstyrelsen i Nykarleby. Han ägde gården vid Bankgatan 21.",
+  "topics": [
+    "stadsdirektör",
+    "kommunalpolitik",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Ernest Eklund",
+      "alternateNames": [
+        "Ernest Karl Arnold Eklund"
+      ],
+      "birthYear": 1915,
+      "deathYear": 1971,
+      "roles": [
+        "stadsdirektör i Nykarleby",
+        "kommunalsekreterare"
+      ],
+      "description": "Son till bonden Karl Johan Eklund. Utexaminerad från handelsläroverket i Jakobstad 1937. Kommunalsekreterare i Munsala 1945–1955. Stadsdirektör i Nykarleby från 1957 till sin död."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 21",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 21",
+      "description": "Gården som Ernest Eklund ägde."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir stadsdirektör i Nykarleby",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [
+        "Ernest Eklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 1971,
+        "month": 8,
+        "day": 11,
+        "circa": false,
+        "text": "11 augusti 1971"
+      },
+      "people": [
+        "Ernest Eklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d00151c16ecb4decc7a41e7456489d611f23add5f1741b755a0c2abf0dea80b8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

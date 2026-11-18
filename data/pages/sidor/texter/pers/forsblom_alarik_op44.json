@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/forsblom_alarik_op44.html",
+  "title": "Prosten Forsblom 60 år 1944",
+  "summary": "Hyllning i Österbottniska Posten till kyrkoherden Johan Alarik Forsblom när han fyllde sextio år 1944. Texten beskriver hans kyrkliga bana och hans engagemang för sårbara grupper i församlingen.",
+  "topics": [
+    "kyrkan",
+    "präst",
+    "jubileum",
+    "1940-tal"
+  ],
+  "people": [
+    {
+      "name": "Johan Alarik Forsblom",
+      "alternateNames": [
+        "Alarik Forsblom",
+        "Prosten Forsblom"
+      ],
+      "birthYear": 1884,
+      "roles": [
+        "präst",
+        "kyrkoherde",
+        "religionslärare"
+      ],
+      "description": "Född i Borgå 1884. Student 1903. Prästvigd 1908. Kyrkoherde i Nykarleby stads- och landsförsamling från 1 maj 1939."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Prostgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Prostgården på kullen söder om staden, där Forsblom bodde."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir kyrkoherde i Nedervetil",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [
+        "Johan Alarik Forsblom"
+      ],
+      "places": [
+        "Nedervetil"
+      ]
+    },
+    {
+      "title": "Blir kyrkoherde i Tammerfors svenska församling",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "people": [
+        "Johan Alarik Forsblom"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tillträder som kyrkoherde i Nykarleby",
+      "date": {
+        "year": 1939,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "1 maj 1939"
+      },
+      "people": [
+        "Johan Alarik Forsblom"
+      ],
+      "places": [
+        "Prostgården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eaac6906f5903e37a1362a11685ef53a6f18affa2cee9bc8fbd9f8027dde0610",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

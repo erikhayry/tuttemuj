@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagforsksfv.htm",
+  "title": "Minnesruna över K. J. Hagfors 1940",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över seminariedirektor K. J. Hagfors, som var lärare i svenska vid Nykarleby seminarium i 39 år. Den beskriver hans stränga men humoristiska undervisning och hans tidningsarbete i Österbottniska Posten.",
+  "topics": [
+    "seminarium",
+    "modersmålsundervisning",
+    "minnesruna",
+    "tidningar"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Hagfors",
+      "alternateNames": [
+        "K. J. Hagfors"
+      ],
+      "birthYear": 1860,
+      "deathYear": 1939,
+      "roles": [
+        "lektor i svenska",
+        "direktor",
+        "prodirektor",
+        "redaktör",
+        "skriftställare"
+      ],
+      "description": "Född i Nedervetil 17 oktober 1860. Elev vid Nykarleby seminarium 1877–1882. Lektor 1891. Prodirektor 1912–1916 och direktor från 1916 enligt denna minnesruna. Donerade en stipendiefond för lärare till SFV 1937. Avled i Helsingfors 26 oktober 1939."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Donerar en stipendiefond för lärare till Svenska folkskolans vänner",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avgår som direktor för seminariet",
+      "date": {
+        "year": 1930,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "be088a9def9c626eece3bbfa512ebe8801577f5172f2d0d5dcea8ccd9f1309c3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

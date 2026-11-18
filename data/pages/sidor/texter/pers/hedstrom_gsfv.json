@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrom_gsfv.html",
+  "title": "Minnesruna över Gustaf Hedström 1923",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över Gustaf Hedström, född i Jakobstad, som var lektor i gymnastik och sedan direktor vid Nykarleby seminarium 1905–1911. Han var en av grundarna av Helsingfors gymnastikklubb.",
+  "topics": [
+    "gymnastik",
+    "seminarium",
+    "minnesruna",
+    "folkbildning"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "birthYear": 1852,
+      "deathYear": 1923,
+      "roles": [
+        "gymnastiklärare",
+        "lektor i gymnastik och hälsolära",
+        "direktor",
+        "läroboksförfattare"
+      ],
+      "description": "Född i Jakobstad 11 maj 1852. Lektor vid Nykarleby seminarium från 1876. Direktor 1905–1911. Hedersledamot i Helsingfors gymnastikklubb. Avled 3 april 1923."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utnämnd till lektor i gymnastik och hälsolära vid Nykarleby seminarium",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Direktor för Nykarleby seminarium",
+      "date": {
+        "year": 1905,
+        "circa": false,
+        "text": "1905–1911"
+      },
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 1923,
+        "month": 4,
+        "day": 3,
+        "circa": false,
+        "text": "3 april 1923"
+      },
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7087327dad2fe023528d4c2247e2510a60e2122c81af50bb644241f7f1df9738",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

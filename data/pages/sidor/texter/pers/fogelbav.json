@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fogelbav.htm",
+  "title": "Erik Viljam Fågelbärj 1901–1961",
+  "summary": "Minnesbild av Erik Viljam Fågelbärj, som skrev under signaturen Färj-Erik i Österbottniska Posten. Dottern berättar hur familjen fick sitt efternamn efter en händelse på seminariet i Nykarleby.",
+  "topics": [
+    "namn",
+    "skrivande",
+    "seminarium",
+    "minnesbild"
+  ],
+  "people": [
+    {
+      "name": "Erik Viljam Fågelbärj",
+      "alternateNames": [
+        "Färj-Erik",
+        "Erik Fogel"
+      ],
+      "birthYear": 1901,
+      "deathYear": 1961,
+      "roles": [
+        "skribent"
+      ],
+      "description": "Från Hirvlax. Skrev under signaturen Färj-Erik. Gift med Nelly Fågelbärj."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Erik Fogel gick när han fick sitt namn ändrat."
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Under seminarietiden stavar eleven Erik ordet 'bärg' med ä. Lektorn hånar honom inför hela klassen, och Erik reser sig och säger: 'Från och med nu heter jag FågelBÄRJ!'",
+    "reason": "En kort, rolig replik i klassrummet, med en stark poäng om namnet.",
+    "characters": [
+      "Erik Viljam Fågelbärj"
+    ],
+    "places": [
+      "Nykarleby seminarium"
+    ]
+  },
+  "contentHash": "5e37a01876d96b9004991b0d06b65c858b904ca42aa54598f3d554719b17369e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

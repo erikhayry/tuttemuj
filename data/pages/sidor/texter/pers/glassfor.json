@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/glassfor.htm",
+  "title": "Glassvagn på esplanaden",
+  "summary": "Gammalt foto av en glassförsäljerska mitt i esplanaden, där den runda kiosken senare stod. Läsare har föreslagit att bilden är från tiden före kriget och diskuterat vem kvinnan kan vara.",
+  "topics": [
+    "fotografi",
+    "kiosker",
+    "glass",
+    "1940-tal"
+  ],
+  "people": [
+    {
+      "name": "Irene Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "glassförsäljerska"
+      ],
+      "description": "Möjlig identitet för kvinnan på bilden, enligt en kommentar från 2007. Osäkert."
+    },
+    {
+      "name": "Birger Sjöholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nämns i kommentaren 2007 tillsammans med Irene Lundqvist, som gjorde glass ihop."
+    },
+    {
+      "name": "Alf Renvall",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahållare"
+      ],
+      "description": "Tillhandahöll bilden och kommenterade den."
+    },
+    {
+      "name": "Bjarne Knuts",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Fotograf enligt bildtexten."
+    },
+    {
+      "name": "Karl Åke Åström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kommenterade bilden 2007."
+    }
+  ],
+  "places": [
+    {
+      "name": "esplanaden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen där glassvagnen stod och där den runda kiosken senare stod. Sidan nämner inte staden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Glassförsäljningen pingsten 1945",
+      "date": {
+        "year": 1945,
+        "circa": false,
+        "text": "pingsten 1945, enligt en länk på sidan"
+      },
+      "people": [
+        "Irene Lundqvist"
+      ],
+      "places": [
+        "esplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2b359d285987ad67a9043de001273d71f191e5ca7ad80245858dac860b54649",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

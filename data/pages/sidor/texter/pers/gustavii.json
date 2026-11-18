@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/gustavii.htm",
+  "title": "Gustav II Adolf",
+  "summary": "Uppslagsverket Finlands biografi över kung Gustav II Adolf, som grundade Nykarleby 1620. Sidan innehåller också en lokal anmärkning om gatan Gustav Adolfsgatan i Nykarleby och en väggmålning i Brostugan.",
+  "topics": [
+    "historia",
+    "kungar",
+    "städer",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Gustav II Adolf",
+      "alternateNames": [],
+      "birthYear": 1594,
+      "deathYear": 1632,
+      "roles": [
+        "kung av Sverige",
+        "storfurste av Finland"
+      ],
+      "description": "Född i Stockholm 9 december 1594. Sveriges konung från 1611. Stupade vid Lützen 6 november 1632."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatan i Nykarleby sedan 1911.",
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Har en väggmålning av Gustav II Adolf."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby grundas",
+      "date": {
+        "year": 1620,
+        "circa": false
+      },
+      "people": [
+        "Gustav II Adolf"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gustav Adolfsgatan får sitt namn i Nykarleby",
+      "date": {
+        "year": 1911,
+        "circa": false,
+        "text": "enligt sidan"
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan"
+      ]
+    },
+    {
+      "title": "Gustav II Adolf stupar vid Lützen",
+      "date": {
+        "year": 1632,
+        "month": 11,
+        "day": 6,
+        "circa": false,
+        "text": "6 november 1632"
+      },
+      "people": [
+        "Gustav II Adolf"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f7f94ac32119775b7cdf10dc3c7dfb433189b1afc03fb9083e6d9cdc44c2f7c0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

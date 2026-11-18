@@ -1,0 +1,132 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/dyhr_lotte.html",
+  "title": "Lotte Dyhr – liv och testamente",
+  "summary": "Samling av tidningsnotiser om Verna Charlotte 'Lotte' Dyhr, ogift dotter till handlanden Albert Dyhr. Sidan berättar om hennes gård, hennes testamente och de fonder staden och församlingen fick. Texten är hämtad ur Österbottniska Posten.",
+  "topics": [
+    "testamente",
+    "fonder",
+    "stadshistoria",
+    "gårdar"
+  ],
+  "people": [
+    {
+      "name": "Lotte Dyhr",
+      "alternateNames": [
+        "Verna Charlotte Dyhr",
+        "Charlotte Dyhr",
+        "Lotti Dyhr",
+        "Lotta Dyhr"
+      ],
+      "birthYear": 1863,
+      "deathYear": 1933,
+      "roles": [],
+      "description": "Ogift dotter till handlanden Albert Dyhr. Testamenterade stora delar av sin kvarlåtenskap till staden, församlingen och diakonatet."
+    },
+    {
+      "name": "Rosa Backman",
+      "alternateNames": [],
+      "roles": [
+        "lektorska"
+      ],
+      "description": "Köpte gården nr 104 vid Jutasvägen 1892. Lotte Dyhr ärvde gården efter henne."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gården nr 104 vid Jutasvägen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "gården n:o 104 vid Jutasvägen",
+      "description": "Gården ägdes av Lotte Dyhr och såldes på auktion 1934."
+    },
+    {
+      "name": "Forsåkern",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Inlöst av staden från Lotte Dyhrs dödsbo."
+    },
+    {
+      "name": "Storbroåkern",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Inlöst av staden från Lotte Dyhrs dödsbo."
+    },
+    {
+      "name": "Jutas slagfält",
+      "kind": "landmark",
+      "alternateNames": [
+        "Juthas"
+      ],
+      "description": "Bautastenen här restes för omkring femtio år sedan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården nr 104 vid Jutasvägen säljs till Rosa Backman",
+      "date": {
+        "year": 1892,
+        "circa": false
+      },
+      "people": [
+        "Rosa Backman"
+      ],
+      "places": [
+        "Gården nr 104 vid Jutasvägen"
+      ]
+    },
+    {
+      "title": "Avlider efter lång sjukdom",
+      "date": {
+        "year": 1933,
+        "circa": false,
+        "text": "i lördags, notis i Österbottniska Posten 13 oktober 1933"
+      },
+      "people": [
+        "Lotte Dyhr"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården nr 104 vid Jutasvägen säljs på auktion ur dödsboet",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "notis 4 maj 1934"
+      },
+      "people": [],
+      "places": [
+        "Gården nr 104 vid Jutasvägen"
+      ]
+    },
+    {
+      "title": "Staden inlöser Forsåkern och Storbroåkern från dödsboet",
+      "date": {
+        "year": 1935,
+        "circa": false,
+        "text": "stadsfullmäktige 25 februari 1935"
+      },
+      "people": [],
+      "places": [
+        "Forsåkern",
+        "Storbroåkern"
+      ]
+    },
+    {
+      "title": "Frågan om vården av bautastenen på Jutas slagfält",
+      "date": {
+        "year": 1935,
+        "circa": false,
+        "text": "notis 15 november 1935"
+      },
+      "people": [],
+      "places": [
+        "Jutas slagfält"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d9bebf3e1e5534e438edd74ed7f101772570e4c1b0667458804376308613c6c0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/grindvak.htm",
+  "title": "Grindvakterskan 1907",
+  "summary": "Krönika i Österbottniska Posten 1907 om den idylliska sommarstaden Nykarleby och den fattiga, sjuka kvinna som arbetade som tillfällig grindvakt vid vägen till Andrasjön. Krönikören undrar om staden kan ge henne hjälp.",
+  "topics": [
+    "fattigdom",
+    "sjukvård",
+    "1900-tal",
+    "krönika"
+  ],
+  "people": [
+    {
+      "name": "Grindvakterskan",
+      "alternateNames": [],
+      "roles": [
+        "tillfällig grindvakt"
+      ],
+      "description": "En ensam, fattig, sjuk kvinna. Namnet nämns inte."
+    }
+  ],
+  "places": [
+    {
+      "name": "Grinden vid vägen till Andrasjön",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Grinden där grindvakterskan arbetade."
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Vägen från grinden leder dit.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Krönikören möter grindvakterskan som kräks blod vid grinden",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "people": [
+        "Grindvakterskan"
+      ],
+      "places": [
+        "Grinden vid vägen till Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En journalist kommer in till staden och stannar vid grinden för att öppna den. Grindvakterskan står och kräks blod vid kojan. Hon säger att hon inte kan gå bort förrän det går över. När han återvänder är hon borta.",
+    "reason": "En vass och vivid scen med tydlig konflikt och klass mellan den välbeställde resenären och den utsatta kvinnan.",
+    "characters": [
+      "Grindvakterskan"
+    ],
+    "places": [
+      "Grinden vid vägen till Andrasjön"
+    ]
+  },
+  "contentHash": "360dd68284b6aed1ad46ef16bb871c8c6aef3d33373e143e7b35cf7074dee420",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

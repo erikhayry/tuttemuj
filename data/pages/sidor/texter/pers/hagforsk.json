@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagforsk.htm",
+  "title": "Karl Johan Hagfors 1860–1939",
+  "summary": "Uppslagsverket Finlands biografi över skriftställaren och pedagogen Karl Johan Hagfors, som var lektor och direktor vid Nykarleby seminarium. Han skrev historiken till seminariets 50-årsjubileum och en släktutredning över bondesläkter i Nedervetil.",
+  "topics": [
+    "seminarium",
+    "pedagogik",
+    "släktforskning",
+    "tidningar",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Hagfors",
+      "alternateNames": [
+        "K. J. Hagfors",
+        "Kurre"
+      ],
+      "birthYear": 1860,
+      "deathYear": 1939,
+      "roles": [
+        "skriftställare",
+        "pedagog",
+        "lektor",
+        "direktor",
+        "redaktör",
+        "krönikör"
+      ],
+      "description": "Född i Nedervetil 17 oktober 1860. Död i Helsingfors 26 oktober 1939. Filosofie doktor 1894. Lektor i svenska vid Nykarleby seminarium från 1891, direktor 1917–1930. Redaktör för Österbottniska Posten 1905–1911."
+    },
+    {
+      "name": "Betty",
+      "alternateNames": [],
+      "roles": [
+        "hustru"
+      ],
+      "description": "Hustru till K. J. Hagfors. Minnesruna 1923."
+    },
+    {
+      "name": "M. Åström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Författare till en biografi om Hagfors 1972."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusesplanaden 13",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 13",
+      "description": "Hagfors hem enligt en länk på sidan. Fotografi från 1898.",
+      "geo": {
+        "lat": 63.52311510000001,
+        "lng": 22.5314284,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 13",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Historiken till Nykarleby seminariums 50-årsjubileum",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Släktutredningen Några bondsläkter i Nedervetil och Gamlakarleby under 400 år",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nedervetil"
+      ]
+    },
+    {
+      "title": "Avgår som direktor för seminariet",
+      "date": {
+        "year": 1930,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider i Helsingfors",
+      "date": {
+        "year": 1939,
+        "month": 10,
+        "day": 26,
+        "circa": false,
+        "text": "26 oktober 1939"
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16d28049be18876e257d6a341a5aa1e733402653e519cef525aa487280263d44",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

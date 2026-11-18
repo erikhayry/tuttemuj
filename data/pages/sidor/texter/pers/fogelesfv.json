@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fogelesfv.htm",
+  "title": "Minnesruna över Ellen Fogel 1984",
+  "summary": "Minnesruna i Svenska folkskolans vänners kalender över lärarinnan och folkbildaren Ellen Fogel, född i Nykarleby, som talade för kvinnors frihet och gav föredrag över hela Österbotten. Hon avled på Hagalunds åldringscenter i Nykarleby 1983.",
+  "topics": [
+    "minnesruna",
+    "kvinnosak",
+    "folkbildning",
+    "nykterhet"
+  ],
+  "people": [
+    {
+      "name": "Ellen Fogel",
+      "alternateNames": [],
+      "birthYear": 1893,
+      "deathYear": 1983,
+      "roles": [
+        "lärarinna",
+        "folkbildare",
+        "talare",
+        "kvinnosakskvinna"
+      ],
+      "description": "Gift med bonden Johannes Fogel. Skola i Vexala i Munsala, som nu tillhör Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hagalunds åldringscenter",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Ellen Fogel avled 1983."
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Här låg Ellen Fogels skola."
+    }
+  ],
+  "events": [
+    {
+      "title": "Avlider på Hagalunds åldringscenter i Nykarleby",
+      "date": {
+        "year": 1983,
+        "month": 10,
+        "day": 16,
+        "circa": false,
+        "text": "16 oktober 1983"
+      },
+      "people": [
+        "Ellen Fogel"
+      ],
+      "places": [
+        "Hagalunds åldringscenter"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b48bafa88cdbb15b7e78189a6ae1f7f3f9e1992ef71dae4c8801656bbac9a446",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

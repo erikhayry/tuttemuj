@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fougstedt_a_op.html",
+  "title": "Minnesruna över N. A. Fougstedt 1943",
+  "summary": "Minnesruna i Österbottniska Posten över direktor Nils Alarik Fougstedt, som ledde Nykarleby seminarium och var ordförande i stadsfullmäktige. Han föll ihop och dog av hjärtslag på torget i Nykarleby 1943.",
+  "topics": [
+    "seminarium",
+    "stadsfullmäktige",
+    "minnesruna",
+    "skola"
+  ],
+  "people": [
+    {
+      "name": "Nils Alarik Fougstedt",
+      "alternateNames": [
+        "N. A. Fougstedt",
+        "Alarik Fougstedt"
+      ],
+      "birthYear": 1871,
+      "deathYear": 1943,
+      "roles": [
+        "seminariedirektor",
+        "lektor i religion och finska",
+        "ordförande i stadsfullmäktige",
+        "kyrkokassör"
+      ],
+      "description": "Född i Kristinestad 22 februari 1871. Lektor vid Nykarleby seminarium 1908–1938. Direktor från 1931. Ordförande i stadsfullmäktige från 1927."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Här föll direktor Fougstedt ihop 1943."
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Avlider plötsligt på torget",
+      "date": {
+        "year": 1943,
+        "month": 12,
+        "day": 17,
+        "circa": false,
+        "text": "fredagen den 17 december 1943"
+      },
+      "people": [
+        "Nils Alarik Fougstedt"
+      ],
+      "places": [
+        "torget"
+      ]
+    },
+    {
+      "title": "Utnämns till direktor för Nykarleby seminarium",
+      "date": {
+        "year": 1931,
+        "circa": false
+      },
+      "people": [
+        "Nils Alarik Fougstedt"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Direktor Fougstedt ordnar ett långt budgetmöte som stadsfullmäktiges ordförande och håller sig till synes utan ansträngning. Dagen efter faller han plötsligt ihop på torget och dör i hjärtslag.",
+    "reason": "Ett plötsligt och dramatiskt slut på en stark karriär, men sidan är en kort minnesruna.",
+    "characters": [
+      "Nils Alarik Fougstedt"
+    ],
+    "places": [
+      "torget"
+    ]
+  },
+  "contentHash": "143947e398c696601eed95635f21a3f4eda5ed744850aa4cd7321e74f3790bf2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

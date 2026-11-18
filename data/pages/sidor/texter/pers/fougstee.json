@@ -1,0 +1,134 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fougstee.htm",
+  "title": "Ester Fougstedt – inspiratör för föreningslivet",
+  "summary": "Porträtt av Ester Fougstedt, som var hustru till seminariedirektor N. A. Fougstedt och en av Nykarlebys mest engagerade föreningskvinnor. Artikeln ger en annan födelseort än SFV-minnesrunan (Helsingfors i stället för Purmo). Den beskriver också hennes arbete för Lotta Svärd, Marthaföreningen och De gamlas hem.",
+  "topics": [
+    "föreningsliv",
+    "marthaföreningen",
+    "Lotta Svärd",
+    "kvinnohistoria",
+    "seminarium"
+  ],
+  "people": [
+    {
+      "name": "Ester Fougstedt",
+      "alternateNames": [
+        "Ester Johanna Fougstedt",
+        "Ester Sundqvist"
+      ],
+      "birthYear": 1891,
+      "deathYear": 1979,
+      "roles": [
+        "folkskollärarinna",
+        "lärarvikarie",
+        "ordförande i Lotta Svärd",
+        "ordförande i Marthaföreningen",
+        "ordförande i fattigvårdsnämnden"
+      ],
+      "description": "Enligt denna artikel född i Helsingfors 14 april 1891. Gift med N. A. Fougstedt sommaren 1916. Kassör för De gamlas hem under lång tid."
+    },
+    {
+      "name": "Nils Alarik Fougstedt",
+      "alternateNames": [
+        "Alarik Fougstedt"
+      ],
+      "roles": [],
+      "description": "Lektor och senare direktor vid Nykarleby seminarium. Pensionerad 1938. Avled kort före julen 1943."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustaf Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Makarna Fougstedt köpte ett hus vid gatan av målarmästare Örling."
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Föreningen i Nykarleby där Ester Fougstedt var kassör under lång tid. Hon bodde där sina sista år."
+    },
+    {
+      "name": "Lybeckska skaldehemmet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ester Fougstedt var angelägen att det vårdades väl."
+    }
+  ],
+  "events": [
+    {
+      "title": "Avlägger lärarexamen vid Nykarleby seminarium",
+      "date": {
+        "year": 1915,
+        "circa": false,
+        "text": "våren 1915"
+      },
+      "people": [
+        "Ester Fougstedt"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Gifter sig med Alarik Fougstedt och flyttar till Nykarleby",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "sommaren 1916"
+      },
+      "people": [
+        "Ester Fougstedt",
+        "Nils Alarik Fougstedt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Marthaverksamheten påbörjas i Nykarleby",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "people": [
+        "Ester Fougstedt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider den 1 januari 1979",
+      "date": {
+        "year": 1979,
+        "month": 1,
+        "day": 1,
+        "circa": false,
+        "text": "1 januari 1979"
+      },
+      "people": [
+        "Ester Fougstedt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den unga lärarinnan Ester och den ogifta lektorn Alarik Fougstedt inleder ett hemligt förhållande vid seminariet. Rykten går om hans besök i Esse, och sommaren 1916 gifter de sig och flyttar till Nykarleby.",
+    "reason": "En kärlekshistoria med rykten och hemlighet, men sidan berättar det mest i översikt.",
+    "characters": [
+      "Ester Fougstedt",
+      "Nils Alarik Fougstedt"
+    ],
+    "places": [
+      "Nykarleby seminarium"
+    ]
+  },
+  "contentHash": "a40102ccfc9f18ab67b25df27eeb592e4dfca8d596b70676bbe33020ee929e07",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

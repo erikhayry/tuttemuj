@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrrusfv.htm",
+  "title": "Minnesruna över Einar Hedström 1952",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över bankdirektören Einar Hedström, som vårdade Topelius-traditionen och Topeliushemmet på Kuddnäs. Han avled 1951 och vilar på gravgården ovanför forsen.",
+  "topics": [
+    "minnesruna",
+    "Topelius",
+    "hembygd",
+    "sångsamling"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "deathYear": 1951,
+      "roles": [
+        "bankdirektör",
+        "folkhögskoleman",
+        "redaktör"
+      ],
+      "description": "Avled söndagen den 5 augusti 1951 i en ålder av 71 år. Begravd på gravgården ovan Ragnörforsen."
+    },
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "En av hemstadens kulturpersonligheter som Hedström vårdade minnet av."
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "En av de kulturpersonligheter som Hedström vårdade minnet av."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Topeliushemmet som Hedström skötte med pietet."
+    },
+    {
+      "name": "Ragnörforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Gravgården ligger ovanför forsen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1951,
+        "month": 8,
+        "day": 5,
+        "circa": false,
+        "text": "5 augusti 1951"
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2360b07fbe417c8f59de0c8612d0f6fb0f36a38d9ce7ac20cc85d730113e06ac",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

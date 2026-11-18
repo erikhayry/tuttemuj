@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/frilund_kjsfv.html",
+  "title": "Minnesruna över K. J. Frilund 1962",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över folkskolläraren Karl Johan Frilund, som undervisade i Nedervetil i omkring fyrtio år och var ungdomsledare och kommunalpolitiker. Han avled i Nykarleby 1962 vid 81 års ålder.",
+  "topics": [
+    "skola",
+    "lärare",
+    "minnesruna",
+    "nykterhet"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Frilund",
+      "alternateNames": [
+        "K. J. Frilund"
+      ],
+      "deathYear": 1962,
+      "roles": [
+        "folkskollärare",
+        "ungdomsledare",
+        "kommunalpolitiker",
+        "sparbanksman"
+      ],
+      "description": "Född i Hirvlax i Munsala. Dimitterad från Nykarleby seminarium 1903. Lärare i Nedervetil 1903–1943 och återkom till Nykarleby efter pensioneringen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Norrby folkskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Frilunds första tjänst i Nedervetil."
+    },
+    {
+      "name": "Åbacka skola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen där Frilund diskuterade filosofi på vinterkvällspromenader."
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad från Nykarleby seminarium",
+      "date": {
+        "year": 1903,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Frilund"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Lärare vid Åbacka skola",
+      "date": {
+        "year": 1911,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Frilund"
+      ],
+      "places": [
+        "Åbacka skola"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1962,
+        "month": 3,
+        "day": 3,
+        "circa": false,
+        "text": "lördagen den 3 mars 1962"
+      },
+      "people": [
+        "Karl Johan Frilund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4a25c9900fb686e395d6ff8c271b0ada0d62c0de6d5fb137ff3cc99d216f601d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

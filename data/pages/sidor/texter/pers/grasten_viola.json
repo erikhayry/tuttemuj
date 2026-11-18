@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/grasten_viola.html",
+  "title": "Jakten på Viola Gråstens ursprung",
+  "summary": "Läsare och redaktörer letar efter ursprunget till textilkonstnären Viola Gråsten. Det visar sig att hennes farfar föddes i Nykarleby, och en Nykarlebybo med samma efternamn dyker upp i notiser. Uppgifterna om hennes födelseår skiljer sig åt mellan källorna.",
+  "topics": [
+    "släktforskning",
+    "textilkonst",
+    "Viola Gråsten",
+    "familjehistoria"
+  ],
+  "people": [
+    {
+      "name": "Viola Gråsten",
+      "alternateNames": [
+        "Viola Hildegard Forsberg",
+        "Viola Hildegard Gråsten"
+      ],
+      "birthYear": 1910,
+      "roles": [
+        "textilkonstnär",
+        "mönsterformgivare",
+        "ryakonstnär"
+      ],
+      "description": "Född i Keuruu 18 november 1910 enligt boken om henne och Svenskt kvinnobiografiskt lexikon. Allers skriver 1918–1994. Arbetade för NK Textilkammare från 1945."
+    },
+    {
+      "name": "Sigismund Forsberg",
+      "alternateNames": [
+        "Axel Sigismund Forsberg"
+      ],
+      "birthYear": 1885,
+      "deathYear": 1926,
+      "roles": [
+        "telegrafist"
+      ],
+      "description": "Viola Gråstens far. Född i Vasa 6 maj 1885. Död i Helsingfors 26 januari 1926. Enligt sidan född i Gamla Karleby, men sidan föreslår att han i stället var född i Nykarleby."
+    },
+    {
+      "name": "Johan Axel Forsberg",
+      "alternateNames": [],
+      "birthYear": 1859,
+      "deathYear": 1924,
+      "roles": [
+        "handlande"
+      ],
+      "description": "Viola Gråstens farfar. Född i Nykarleby 7 november 1859. Handlande i Vasa en tid. Återvände till Nykarleby och dog där 1924."
+    },
+    {
+      "name": "Sylvia Gråsten",
+      "alternateNames": [
+        "Ilma Sylvia Forsberg",
+        "Sylvia Forsberg"
+      ],
+      "birthYear": 1887,
+      "deathYear": 1941,
+      "roles": [],
+      "description": "Notis 1941: f.d. Nykarlebybo, född Forsberg, död i Helsingfors 1 maj 1941 vid 53 års ålder. Enligt sidan troligen samma person som Ilma Sylvia Forsberg, född i Kristinestad 1887."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Viola Gråsten föds i Keuruu",
+      "date": {
+        "year": 1910,
+        "month": 11,
+        "day": 18,
+        "circa": false,
+        "text": "18 november 1910"
+      },
+      "people": [
+        "Viola Gråsten"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ryan Blå månen komponeras för NK Textilkammare",
+      "date": {
+        "year": 1949,
+        "circa": false
+      },
+      "people": [
+        "Viola Gråsten"
+      ],
+      "places": []
+    },
+    {
+      "title": "Johan Axel Forsberg föds i Nykarleby",
+      "date": {
+        "year": 1859,
+        "month": 11,
+        "day": 7,
+        "circa": false,
+        "text": "7 november 1859"
+      },
+      "people": [
+        "Johan Axel Forsberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Johan Axel Forsberg dör i Nykarleby",
+      "date": {
+        "year": 1924,
+        "circa": false
+      },
+      "people": [
+        "Johan Axel Forsberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b94715bcbfedbf4175baf4a9794ef7fe4c07f8367a4562ebf0ac40c11770fc9d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

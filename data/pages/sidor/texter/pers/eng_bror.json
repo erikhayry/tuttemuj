@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/eng_bror.html",
+  "title": "Bror Eng 1918–2017",
+  "summary": "Minnesord över radioamatören Bror Eng, som enligt sidan sände ett avgörande krigsmeddelande som stoppade ett ryskt genombrott. Sidan innehåller också en gammal bild från ett radiorum och en länk till en bok om veteranernas minnen.",
+  "topics": [
+    "krig",
+    "radio",
+    "veteraner",
+    "minnesord"
+  ],
+  "people": [
+    {
+      "name": "Bror Eng",
+      "alternateNames": [
+        "Bror Eng OH6OB"
+      ],
+      "birthYear": 1918,
+      "deathYear": 2017,
+      "roles": [
+        "radioamatör"
+      ],
+      "description": "Sände meddelandet Torjunta Sorvali till artilleriet vid Tienhaara, enligt sidan."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 2017,
+        "month": 5,
+        "circa": false,
+        "text": "i maj 2017"
+      },
+      "people": [
+        "Bror Eng"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Radioamatören Bror Eng sänder eldordern 'Torjunta Sorvali' till artilleriet, vilket stoppar det ryska genombrottet vid Tienhaara.",
+    "reason": "Ett tydligt krigsögonblick med ett enda meddelande som vänder händelseförloppet, men sidan ger bara några rader.",
+    "characters": [
+      "Bror Eng"
+    ],
+    "places": []
+  },
+  "contentHash": "d0c007a0c3338bd1f78af77fad423653283819d53b3fa83b852384d621fc8a2f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

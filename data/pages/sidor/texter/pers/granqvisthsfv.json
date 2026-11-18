@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/granqvisthsfv.htm",
+  "title": "Håkan Granqvist 1928–",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över läraren och showmakaren Håkan Granqvist, född i Nykarleby 1928. Han blev känd för humoristiska revyer och shower i Österbotten. Sidan saknar sluttid på livet i texten.",
+  "topics": [
+    "minnesruna",
+    "skola",
+    "revy",
+    "idrott",
+    "Munsala"
+  ],
+  "people": [
+    {
+      "name": "Håkan Granqvist",
+      "alternateNames": [
+        "Granki"
+      ],
+      "birthYear": 1928,
+      "roles": [
+        "lärare",
+        "rektor",
+        "showmakare",
+        "revyförfattare",
+        "reseledare"
+      ],
+      "description": "Född i Nykarleby 21 november 1928. Son till Ture Granqvist. Gick ut lärarseminariet i Nykarleby 1950. Rektor vid Vikinga skola i Vasa de sista 18 åren av sin tjänst, pensionerad 1988."
+    },
+    {
+      "name": "Sonja Granqvist",
+      "alternateNames": [
+        "Sonja"
+      ],
+      "roles": [
+        "livskamrat"
+      ],
+      "description": "Från Munsala."
+    },
+    {
+      "name": "Sixten Westerby",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesrunan 2006."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utexaminerad från lärarseminariet i Nykarleby",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "people": [
+        "Håkan Granqvist"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Pensioneras från Vikinga skola",
+      "date": {
+        "year": 1988,
+        "circa": false
+      },
+      "people": [
+        "Håkan Granqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7c79bc55f687c14e202728771e915b69001f71080d13dfe75c58934f08343fbd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

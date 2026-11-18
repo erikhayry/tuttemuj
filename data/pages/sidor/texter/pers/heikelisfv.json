@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/heikelisfv.htm",
+  "title": "Minnesruna över Ivar A. Heikel",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över filologen och folkbildaren Ivar August Heikel, född i Nykarleby landsförsamling. Han var professor i grekiska och ledamot av SFV:s styrelse i över ett kvartssekel. Minnesrunan står i SFV:s kalender för 1929.",
+  "topics": [
+    "minnesruna",
+    "folkbildning",
+    "språk",
+    "nationalitetsfrågan",
+    "socialism"
+  ],
+  "people": [
+    {
+      "name": "Ivar August Heikel",
+      "alternateNames": [
+        "Ivar A. Heikel",
+        "I. A. Heikel"
+      ],
+      "birthYear": 1861,
+      "roles": [
+        "professor i grekiska",
+        "rektor",
+        "lantdagsman",
+        "folkbildare"
+      ],
+      "description": "Född i Nykarleby landsförsamling 16 januari 1861. Son till vicepastor August Heikel. Student från Vasa svenska lyceum 1878. Ledamot av SFV:s styrelse 1885–1902 och 1905–1915, viceordförande under större delen av tiden."
+    },
+    {
+      "name": "Petrus Nordmann",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ],
+      "description": "Nära vän till Heikel. Samarbetade med honom i SFV."
+    },
+    {
+      "name": "August Heikel",
+      "alternateNames": [],
+      "roles": [
+        "vicepastor"
+      ],
+      "description": "Far till Ivar Heikel."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby landsförsamling",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Där Ivar Heikel föddes."
+    }
+  ],
+  "events": [
+    {
+      "title": "Student från Vasa svenska lyceum",
+      "date": {
+        "year": 1878,
+        "circa": false
+      },
+      "people": [
+        "Ivar August Heikel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir professor i grekiska",
+      "date": {
+        "year": 1888,
+        "circa": false,
+        "text": "tio år efter studentexamen"
+      },
+      "people": [
+        "Ivar August Heikel"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c3aca9a80a02ab009516106d56ff96172abb9955b9013ed011a55f288e7222fe",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/eklund_hugo.html",
+  "title": "Hugo Eklund 1891–1932",
+  "summary": "Dödsnotis om folkskolläraren Hugo Eklund, född i Nykarleby, som var lärare vid Forsby folkskola i nitton år och hade många kommunala uppdrag. Han avled 1932 i Jakobstad.",
+  "topics": [
+    "skola",
+    "minnesruna",
+    "Forsby"
+  ],
+  "people": [
+    {
+      "name": "Hugo Eklund",
+      "alternateNames": [
+        "Hugo Ludvig Napoleon Eklund"
+      ],
+      "birthYear": 1891,
+      "deathYear": 1932,
+      "roles": [
+        "folkskollärare",
+        "ordförande i fattigvårdsnämnden",
+        "kommunal yrkesinspektör"
+      ],
+      "description": "Född i Nykarleby 20 november 1891. Dimitterad från Nykarleby seminarium 1913. Deltog i frihetskriget."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsby folkskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skola där Hugo Eklund var lärare i nitton år."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir lärare vid Forsby folkskola",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "people": [
+        "Hugo Eklund"
+      ],
+      "places": [
+        "Forsby folkskola"
+      ]
+    },
+    {
+      "title": "Avlider på Malmska sjukhuset i Jakobstad",
+      "date": {
+        "year": 1932,
+        "circa": false,
+        "text": "notis i Österbottniska Posten 30 december 1932"
+      },
+      "people": [
+        "Hugo Eklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a1ffbaeb960ae473660ed46936a1c0e94fe886e7575399acaefa461be5cba66",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

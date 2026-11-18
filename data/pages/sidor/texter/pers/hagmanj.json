@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagmanj.htm",
+  "title": "Johan Hagman 1852–1889",
+  "summary": "Seminariematrikeln över Johan Hagman, en av de första eleverna vid Nykarleby seminarium, som dimitterades 1877 och dog i lungsot 1889. Han var far till journalisten Einar 'Neger' Hagman.",
+  "topics": [
+    "seminarium",
+    "matrikel",
+    "folkskola",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Johan Hagman",
+      "alternateNames": [],
+      "birthYear": 1852,
+      "deathYear": 1889,
+      "roles": [
+        "folkskollärare",
+        "postföreståndare",
+        "tidningskorrespondent"
+      ],
+      "description": "Född i Munsala 21 juni 1852. Dimitterad 1877, första årgången. Gift 1877 med Augusta Holländer från Sundby. Utgav Mönstring med kämparna i 1808–09 års krig."
+    },
+    {
+      "name": "Augusta Holländer",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med Johan Hagman 1877. Från Sundby."
+    },
+    {
+      "name": "Einar Hagman",
+      "alternateNames": [
+        "Neger"
+      ],
+      "roles": [],
+      "description": "Son till Johan Hagman."
+    },
+    {
+      "name": "Karl Johan Hagfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sammanställde seminariets matrikel 1873–1923."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad från Nykarleby seminarium, första årgången",
+      "date": {
+        "year": 1877,
+        "circa": false
+      },
+      "people": [
+        "Johan Hagman"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Dör i lungsot",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [
+        "Johan Hagman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ccab20158607514e44dea3f0f237c82c575400bbd9e625d74d3f6cd9d44e814c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/granqvistm_sfv.html",
+  "title": "Meri Granqvist 1899–1981",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över folkskollärarinnan Meri Granqvist, född i Esse. Hon var känd för sin sång och sin gästfrihet i Nykarleby och var gift med Ture Granqvist. Hon avled i Nykarleby 1981.",
+  "topics": [
+    "minnesruna",
+    "lärarinna",
+    "sång",
+    "nykterhet"
+  ],
+  "people": [
+    {
+      "name": "Meri Dolores Granqvist",
+      "alternateNames": [
+        "Meri Björklund"
+      ],
+      "birthYear": 1899,
+      "deathYear": 1981,
+      "roles": [
+        "folkskollärarinna",
+        "körledare"
+      ],
+      "description": "Född Björklund i Esse 21 november 1899. Gift 1925 med Ture Granqvist. Mor till Håkan Granqvist."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkby skola",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkby folkskola"
+      ],
+      "description": "Det lärarhem där Meri och Ture Granqvist bodde och arbetade."
+    },
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Meri Granqvist vikarierade."
+    },
+    {
+      "name": "Jutas",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Ungdomsföreningens sångkör som Meri Granqvist ledde i många år."
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad från Ekenäs seminarium",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "people": [
+        "Meri Dolores Granqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gifter sig med Ture Granqvist",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "people": [
+        "Meri Dolores Granqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Nykarleby efter lång sjukdom",
+      "date": {
+        "year": 1981,
+        "month": 7,
+        "day": 11,
+        "circa": false,
+        "text": "11 juli 1981"
+      },
+      "people": [
+        "Meri Dolores Granqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5b6f1fe6472b295774229bab68387f0d2cf4c1136ac6d89d8dbf9e8c34214711",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

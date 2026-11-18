@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedberg_r_sfv.html",
+  "title": "Minnesruna över Runar Hedberg 1983",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över prosten Runar Hedberg, som var rektor för Kristliga folkhögskolan i Nykarleby 1947–1970. Han avled i en olycka 1983 vid 77 års ålder.",
+  "topics": [
+    "minnesruna",
+    "folkhögskola",
+    "kyrka",
+    "musik"
+  ],
+  "people": [
+    {
+      "name": "Runar Hedberg",
+      "alternateNames": [
+        "Prosten Runar Hedberg"
+      ],
+      "deathYear": 1983,
+      "roles": [
+        "prost",
+        "rektor",
+        "kyrkoherde",
+        "musikrecensent"
+      ],
+      "description": "Blev student 1924 i Vasa och prästvigdes 1936. Rektor för Kristliga folkhögskolan i Nykarleby 1947–1970. Kyrkoherde i Munsala 1970–1976. Avled i en olyckshändelse 1 augusti 1983."
+    },
+    {
+      "name": "Svea Hedberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hustru till Runar Hedberg. Dog före honom."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan i Nykarleby",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Himmelsbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Där Runar Hedberg tillbringade 23 år, enligt minnesrunan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir rektor för Kristliga folkhögskolan i Nykarleby",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Runar Hedberg"
+      ],
+      "places": [
+        "Kristliga folkhögskolan i Nykarleby"
+      ]
+    },
+    {
+      "title": "Avlider i en olyckshändelse",
+      "date": {
+        "year": 1983,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "text": "1 augusti 1983"
+      },
+      "people": [
+        "Runar Hedberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6da6c0f558d3977e6d3271fd420532a74b05c984f4d23501d2e2a07125393dff",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

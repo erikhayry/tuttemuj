@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagfornf.htm",
+  "title": "Karl Johan Hagfors 1860–1939",
+  "summary": "Biografi ur Nordisk familjebok om skriftställaren och pedagogen Karl Johan Hagfors från Nedervetil, som var lektor vid Nykarleby seminarium. Han skrev novellen Dagens hjälte och forskade om Gamlakarlebymålet.",
+  "topics": [
+    "pedagogik",
+    "språk",
+    "seminarium",
+    "litteratur"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Hagfors",
+      "alternateNames": [],
+      "birthYear": 1860,
+      "deathYear": 1939,
+      "roles": [
+        "skriftställare",
+        "lektor",
+        "folkskollärare"
+      ],
+      "description": "Född i Nedervetil 17 oktober 1860. Lektor i svenska vid Nykarleby seminarium från 1891."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir student",
+      "date": {
+        "year": 1885,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir lektor vid Nykarleby seminarium",
+      "date": {
+        "year": 1891,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Novellen Dagens hjälte",
+      "date": {
+        "year": 1901,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3abaf4002cdb7fdceea9f8d18a0ddf2b177bc27877375f987fa1b68f84271253",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

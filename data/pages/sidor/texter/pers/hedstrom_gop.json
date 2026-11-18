@@ -1,0 +1,147 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrom_gop.html",
+  "title": "Direktor Gustaf Hedströms begravning 1923",
+  "summary": "Österbottniska Posten rapporterar från begravningen av den tidigare seminariedirektorn Gustaf Hedström i Nykarleby 1923. Notisen räknar upp talare, kransar och en stipendiefond som skapades till hans minne.",
+  "topics": [
+    "begravning",
+    "seminarium",
+    "1920-tal",
+    "folkbildning"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "birthYear": 1852,
+      "deathYear": 1923,
+      "roles": [
+        "seminariedirektor",
+        "lektor"
+      ],
+      "description": "Seminariedirektor i Nykarleby. Begravd 1923."
+    },
+    {
+      "name": "O. Schalin",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ],
+      "description": "Förrättade jordfästningen."
+    },
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [
+        "Karl Johan Hagfors"
+      ],
+      "roles": [
+        "doktor"
+      ],
+      "description": "Meddelade att en stipendiefond bärande den avlidnes namn skulle stiftas."
+    },
+    {
+      "name": "N. A. Fougstedt",
+      "alternateNames": [
+        "Alarik Fougstedt"
+      ],
+      "roles": [
+        "lektor"
+      ],
+      "description": "Lade ned krans från stadsfullmäktige och kyrkorådet."
+    },
+    {
+      "name": "M. Castrén",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ],
+      "description": "Spelade orgel vid begravningen."
+    },
+    {
+      "name": "Karin Sarlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Forna elev vid Nykarleby privata fruntimmersskola. Lade ned krans."
+    },
+    {
+      "name": "Anna Henrikson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Forna elev vid Nykarleby privata fruntimmersskola. Lade ned krans."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "stadens kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "description": "Normalskolan vid Nykarleby seminarium.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Begravning av Gustaf Hedström i Nykarleby stads kyrka",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "en onsdag i april 1923"
+      },
+      "people": [
+        "Gustaf Hedström",
+        "O. Schalin",
+        "K. J. Hagfors"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Stipendiefond stiftas till minne av Gustaf Hedström",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "people": [
+        "Gustaf Hedström",
+        "K. J. Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ed453f4aaaa905ce68d8810e0e1bccf784622bfc4fbe6fd4bcfd5c6b9c4def9d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

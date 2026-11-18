@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagfors70.html",
+  "title": "Karl Johan Hagfors 70 år 1930",
+  "summary": "Hyllning i Österbottniska Posten till seminariedirektor Karl Johan Hagfors på hans sjuttioårsdag 1930, när han lämnade Nykarleby seminarium efter nära fyra decennier. Notisen beskriver hans lärargärning och hans insatser i stadsfullmäktige.",
+  "topics": [
+    "seminarium",
+    "jubileum",
+    "lärare",
+    "stadsfullmäktige",
+    "1930"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Hagfors",
+      "alternateNames": [],
+      "birthYear": 1860,
+      "roles": [
+        "direktor",
+        "lektor i svenska",
+        "filosofie doktor",
+        "redaktör"
+      ],
+      "description": "Fyllde 70 år 17 oktober 1930. Utexaminerad från Nykarleby seminarium 1882. Lektor 1891. Direktor från 1 september 1916 enligt denna notis. Medlem av stadsfullmäktige i 25 år, ordförande i två år. Redaktör för Österbottniska Posten 1905–1911."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fyller 70 år och lämnar sin tjänst vid seminariet",
+      "date": {
+        "year": 1930,
+        "month": 10,
+        "day": 17,
+        "circa": false,
+        "text": "17 oktober 1930"
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Tar över direktorsvården vid seminariet",
+      "date": {
+        "year": 1916,
+        "month": 9,
+        "day": 1,
+        "circa": false,
+        "text": "1 september 1916 enligt notisen"
+      },
+      "people": [
+        "Karl Johan Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cc65c9b2a1c12fbc78ee6971f43a1a0786416b47b1f573761892717e090dcb6d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

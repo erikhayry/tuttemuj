@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/engstroma_ff.html",
+  "title": "Anders Engström – småstadsskildraren",
+  "summary": "Porträtt av filmskaparen Anders Engström från Nykarleby, som gjort filmer om småstadsliv och spelade in TV-serien Småstadsberättelser i sin hemstad. Texten berättar om hans filmer från Flaggstölden till Lonely Planet.",
+  "topics": [
+    "film",
+    "TV",
+    "småstad",
+    "Nykarleby"
+  ],
+  "people": [
+    {
+      "name": "Anders Engström",
+      "alternateNames": [],
+      "birthYear": 1963,
+      "roles": [
+        "filmskapare",
+        "regissör",
+        "manusförfattare"
+      ],
+      "description": "Född i Nykarleby. Utbildad vid Kalix folkhögskola 1983–84 och London International Filmschool 1985–86."
+    },
+    {
+      "name": "Gerald Wilson",
+      "alternateNames": [],
+      "roles": [
+        "manusförfattare"
+      ],
+      "description": "Irländsk manusförfattare som skrev fyra berättelser till Småstadsberättelser."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Filmades som kuliss för TV-serien Småstadsberättelser."
+    }
+  ],
+  "events": [
+    {
+      "title": "Genombrott med filmen Flaggstölden",
+      "date": {
+        "year": 1989,
+        "circa": false
+      },
+      "people": [
+        "Anders Engström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Filmen Korthuset",
+      "date": {
+        "year": 1990,
+        "circa": false
+      },
+      "people": [
+        "Anders Engström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Filmen Lonely Planet",
+      "date": {
+        "year": 1992,
+        "circa": false
+      },
+      "people": [
+        "Anders Engström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Två studenter i Vasa tar en natt en flagga från en bro. Byggmästaren som skulle ta ner flaggorna döms för stölden, och studenterna går själva till polisen. Polisen vägrar tro dem och startar en utredning som pågår i flera år.",
+    "reason": "En rättsfarsa med tydlig ironi och vändningar, där sanningen inte räcker.",
+    "characters": [
+      "Anders Engström"
+    ],
+    "places": []
+  },
+  "contentHash": "30a1df93cb23080a88253976bc45e0462e2fe422772e851e4f29b7f27d36896b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

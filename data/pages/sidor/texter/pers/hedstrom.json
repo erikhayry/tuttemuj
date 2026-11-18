@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrom.htm",
+  "title": "Einar Hedström 1880–1951",
+  "summary": "Porträtt av bankdirektören Einar Hedström, som var seglare, hembygdsforskare och redaktör för Österbottniska Posten. Han hade sin sommarvilla på Långörn i skärgården och var kommodor i Segelsällskapet Ägir.",
+  "topics": [
+    "hembygd",
+    "segling",
+    "Ägir",
+    "tidningar",
+    "folkhögskola"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "deathYear": 1951,
+      "roles": [
+        "bankdirektör",
+        "redaktör",
+        "seglare",
+        "amatörforskare",
+        "t.f. seminariedirektor"
+      ],
+      "description": "Son till seminariedirektor Gustaf Hedström. Gift med Dagny Hedström. Bankdirektör på Helsingfors Aktiebank. Kommodor i Segelsällskapet Ägir från 1913. Pensionerades 1944."
+    },
+    {
+      "name": "Gustav Mauritz Hedström",
+      "alternateNames": [],
+      "roles": [
+        "affärsman",
+        "delpartsredare"
+      ],
+      "description": "Farfar till Einar Hedström. Tillskyndare av Andrasjöhamnen."
+    },
+    {
+      "name": "Dagny Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hustru till Einar Hedström. Gav ut en skrift efter hans död."
+    }
+  ],
+  "places": [
+    {
+      "name": "Långörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Platsen där Einar Hedström hade sin villa.",
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Varvet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Villan på Långörn där Einar Hedström levde."
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Dagny och Einar Hedström ägde gården i hörnet av Mathesius- och Grev Tottgatan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir kommodor i Segelsällskapet Ägir",
+      "date": {
+        "year": 1913,
+        "circa": false,
+        "text": "från 1913"
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": [
+        "Långörn"
+      ]
+    },
+    {
+      "title": "Pensioneras",
+      "date": {
+        "year": 1944,
+        "circa": false
+      },
+      "people": [
+        "Einar Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d008e9fbd1e1313438b85d018e3187bb918d822900760cf744f6d2885d4689b3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

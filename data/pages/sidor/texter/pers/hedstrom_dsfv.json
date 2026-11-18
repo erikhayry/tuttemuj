@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstrom_dsfv.html",
+  "title": "Minnesruna över Dagny Hedström 1972",
+  "summary": "Minnesruna i Svenska Folkskolans vänners kalender över handarbetslärarinnan och museiföreståndarinnan Dagny Hedström, född i Helsingfors. Hon var föreståndare för Kuddnäs och lärare vid seminariets övningsskola i Nykarleby och avled 1971.",
+  "topics": [
+    "minnesruna",
+    "handarbete",
+    "Kuddnäs",
+    "Topelius",
+    "lärare"
+  ],
+  "people": [
+    {
+      "name": "Dagny Hedström",
+      "alternateNames": [
+        "Dagny Hilja Irene Hedström",
+        "Dagny Appelberg"
+      ],
+      "birthYear": 1893,
+      "deathYear": 1971,
+      "roles": [
+        "handarbetslärarinna",
+        "museiföreståndarinna"
+      ],
+      "description": "Född i Helsingfors 20 april 1893. Gift med Einar Hedström. Föreståndare för Kuddnäs till 1952."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Make till Dagny Hedström. Skrev Nykarleby, min barndoms och min ungdomsstad, som Dagny gav ut efter hans död."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Zachris Topelius barndomshem, där Dagny Hedström var föreståndare."
+    },
+    {
+      "name": "Nykarleby seminariums övningsskola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Lärare i handarbete i Nykarleby",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "från 1936"
+      },
+      "people": [
+        "Dagny Hedström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Lärare vid seminariets övningsskola",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "från 1940 in på sextiotalet"
+      },
+      "people": [
+        "Dagny Hedström"
+      ],
+      "places": [
+        "Nykarleby seminariums övningsskola"
+      ]
+    },
+    {
+      "title": "Föreståndare för Kuddnäs",
+      "date": {
+        "year": 1952,
+        "circa": false,
+        "text": "till 1952"
+      },
+      "people": [
+        "Dagny Hedström"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1971,
+        "month": 9,
+        "day": 20,
+        "circa": false,
+        "text": "20 september 1971"
+      },
+      "people": [
+        "Dagny Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b7ec73c16e83aad15de2fb1a3d495ccdad43ca18b3ed233a58d8d3a5f54d96b9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

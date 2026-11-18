@@ -1,0 +1,150 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/friberg_max.html",
+  "title": "Veterinär Max Friberg",
+  "summary": "Porträtt av veterinären Max Friberg, som kom till Nykarleby 1922 som kommunalveterinär. Texten bygger på ett 60-årsreportage och en minnesbild om hans körning runt i distriktet i en öppen bil.",
+  "topics": [
+    "veterinär",
+    "djurhälsa",
+    "1920-tal",
+    "minnesbild"
+  ],
+  "people": [
+    {
+      "name": "Max Friberg",
+      "alternateNames": [],
+      "birthYear": 1888,
+      "roles": [
+        "veterinär",
+        "kommunalveterinär",
+        "distriktsveterinär"
+      ],
+      "description": "Född 20 januari 1888. Kommunalveterinär i Sibbo 1914–1922 och i Nykarleby från 1922. Distriktsdjurläkare i Kristinestad från 1927."
+    },
+    {
+      "name": "Kaarle Laurell",
+      "alternateNames": [],
+      "roles": [
+        "veterinär"
+      ],
+      "description": "Veterinär som avled i juni 1920."
+    },
+    {
+      "name": "Evald Granlund",
+      "alternateNames": [],
+      "roles": [
+        "djurläkare"
+      ],
+      "description": "Stadsveterinär i Jakobstad. Annonserade mottagning i Nykarleby 1921."
+    },
+    {
+      "name": "W. Kranck",
+      "alternateNames": [],
+      "roles": [
+        "veterinärkandidat"
+      ],
+      "description": "Förordnades 1927 att tillfälligt förestå veterinärtjänsten i Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Marielund",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gården som Max Friberg köpte 1926 och ägde ett år."
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Friberg hade sin bostad här 1927.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Telegrafkontorets gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Friberg bodde 1922."
+    }
+  ],
+  "events": [
+    {
+      "title": "Anländer till Nykarleby och har mottagning",
+      "date": {
+        "year": 1922,
+        "month": 9,
+        "day": 15,
+        "circa": false,
+        "text": "15 september 1922"
+      },
+      "people": [
+        "Max Friberg"
+      ],
+      "places": [
+        "Telegrafkontorets gård"
+      ]
+    },
+    {
+      "title": "Köper Marielund",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [
+        "Max Friberg"
+      ],
+      "places": [
+        "Marielund"
+      ]
+    },
+    {
+      "title": "Bortflyttningsauktion på Borgaregatan",
+      "date": {
+        "year": 1927,
+        "month": 5,
+        "day": 21,
+        "circa": false,
+        "text": "lördagen den 21 maj 1927"
+      },
+      "people": [
+        "Max Friberg"
+      ],
+      "places": [
+        "Borgaregatan"
+      ]
+    },
+    {
+      "title": "Fyller 50 år",
+      "date": {
+        "year": 1938,
+        "month": 1,
+        "day": 20,
+        "circa": false,
+        "text": "20 januari, notis i Suomen eläinlääkärilehti 1938"
+      },
+      "people": [
+        "Max Friberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Veterinären Friberg kör runt i distriktet i en öppen bil och kontrollerar noga att alla knappar är knäppta innan han skakar hand. Sedan kommenterar han stammande dagens händelser, bland annat en höna som dött av en hunds bett.",
+    "reason": "En karaktärsbild med tydlig humor, men sidan ger bara några korta rader.",
+    "characters": [
+      "Max Friberg"
+    ],
+    "places": []
+  },
+  "contentHash": "dba2fdf6bc84e7cc46a8ac314da02508d4add1a705751a82cc6e2638fe0a9ced",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

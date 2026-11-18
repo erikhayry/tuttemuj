@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hagmaneu.htm",
+  "title": "Einar 'Neger' Hagman 1887–1963",
+  "summary": "Uppslagsverket Finlands kort om journalisten Einar Hagman, som under signaturen Neger skrev kåserier i Vasabladet i över fyrtio år. Sidan länkar också till flera krönikor om Nykarleby.",
+  "topics": [
+    "journalistik",
+    "kåserier",
+    "Vasabladet",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Einar Hagman",
+      "alternateNames": [
+        "Neger"
+      ],
+      "birthYear": 1887,
+      "deathYear": 1963,
+      "roles": [
+        "journalist",
+        "kåsör"
+      ],
+      "description": "Född i Vörå 22 november 1887. Död i Vasa 1 augusti 1963. Medarbetare i Vasabladet 1906–1955. Enligt en länk på sidan son till Johan Hagman."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Plats för en skylt som Einar Hagman engagerade sig i 1939."
+    }
+  ],
+  "events": [
+    {
+      "title": "Medarbetare i Vasabladet",
+      "date": {
+        "year": 1906,
+        "circa": false,
+        "text": "1906–1955"
+      },
+      "people": [
+        "Einar Hagman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Engagerar sig i en skylt vid Kuddnäs",
+      "date": {
+        "year": 1939,
+        "circa": false
+      },
+      "people": [
+        "Einar Hagman"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1903add566e0543f1327fd1ae66102fb9b7d172ebb445bc76f6a00946cecc3f8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}

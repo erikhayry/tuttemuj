@@ -1,0 +1,147 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/fors_john.html",
+  "title": "John Fors 1921–2010",
+  "summary": "Minnesbild av John Fors, som var klasslärare vid Normens skola i Nykarleby 1953–1981 och föreståndare där fram till 1970. Han satt i hälsovårdsnämnden och trafiknämnden. Texten bygger på uppgifter från hans son och en gammal elev.",
+  "topics": [
+    "skola",
+    "lärare",
+    "minnesbild",
+    "Normen"
+  ],
+  "people": [
+    {
+      "name": "John Fors",
+      "alternateNames": [
+        "John Arvid Fors"
+      ],
+      "birthYear": 1921,
+      "deathYear": 2010,
+      "roles": [
+        "klasslärare",
+        "skolföreståndare",
+        "sergeant"
+      ],
+      "description": "Född i Maxmo 8 juli 1921. Krigstjänst 1941–1944. Gift med Elin Fors (1921–2009). Ordförande i trafiknämnden."
+    },
+    {
+      "name": "Elin Fors",
+      "alternateNames": [
+        "Elin Hägglund"
+      ],
+      "birthYear": 1921,
+      "deathYear": 2009,
+      "roles": [],
+      "description": "Född i Vörå. Dotter till fotografen Erik Hägglund."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normens skola",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "description": "Skola där John Fors var klasslärare 1953–1981.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Veikars folkhögskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Folkhögskola där John Fors var skolföreståndare 1949–1953."
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstadsvägen 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Jakobstadsvägen 3",
+      "description": "John Fors hem där han avled 2010.",
+      "geo": {
+        "lat": 63.5273855,
+        "lng": 22.5332862,
+        "match": "address",
+        "gazetteerName": "jakobstadsvägen 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Examen från Nykarleby folkskollärarseminarium",
+      "date": {
+        "year": 1949,
+        "month": 6,
+        "day": 10,
+        "circa": false,
+        "text": "10/6 1949"
+      },
+      "people": [
+        "John Fors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Skolföreståndare vid Veikars folkhögskola",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "1949–1953"
+      },
+      "people": [
+        "John Fors"
+      ],
+      "places": [
+        "Veikars folkhögskola"
+      ]
+    },
+    {
+      "title": "Börjar som klasslärare vid Normens skola",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [
+        "John Fors"
+      ],
+      "places": [
+        "Normens skola"
+      ]
+    },
+    {
+      "title": "Avlider i sitt hem på Jakobstadsvägen 3",
+      "date": {
+        "year": 2010,
+        "month": 8,
+        "day": 8,
+        "circa": false,
+        "text": "8/8 2010"
+      },
+      "people": [
+        "John Fors"
+      ],
+      "places": [
+        "Jakobstadsvägen 3"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "61127ab8f80841c0297ee8ed2ca0b38fcc232aecec4f06f158fe01fadc23e308",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T20:00:06.078Z"
+}
