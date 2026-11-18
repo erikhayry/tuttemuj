@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorklum.htm",
+  "title": "May Rosqvist (Björklund)",
+  "summary": "May Rosqvist, som drev en barnträdgård i Nykarleby i slutet av 1920-talet och senare var journalist i Sverige. Sidan innehåller också annonser och notiser från 1927 och 1928.",
+  "topics": [
+    "barnträdgård",
+    "journalistik",
+    "familjehistoria"
+  ],
+  "people": [
+    {
+      "name": "May Rosqvist",
+      "alternateNames": [
+        "May Björklund",
+        "Maj Rosqvist",
+        "Mitzi"
+      ],
+      "roles": [
+        "barnträdgårdslärare",
+        "journalist",
+        "vikarierande redaktör"
+      ],
+      "description": "Växte upp hos Woldemar och Elisabeth Backman på Juthbacka. Gift med Göran Björklund."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hos honom och hans fru växte May Rosqvist upp."
+    },
+    {
+      "name": "Elisabeth Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hos henne och hennes man växte May Rosqvist upp."
+    }
+  ],
+  "places": [
+    {
+      "name": "Karin Sarlins gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Den mindre byggnaden på gården användes för barnträdgården 1927."
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Jutbacka"
+      ],
+      "description": "Gården där May Rosqvist växte upp och vistades under sina lov."
+    }
+  ],
+  "events": [
+    {
+      "title": "Öppnar barnträdgård i Nykarleby",
+      "date": {
+        "year": 1927,
+        "month": 10,
+        "circa": false,
+        "text": "början av oktober 1927"
+      },
+      "people": [
+        "May Rosqvist"
+      ],
+      "places": [
+        "Karin Sarlins gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cadc0965efb74dfe5d05407e9e8d3c2e89912a542898c1476c033125959562d0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

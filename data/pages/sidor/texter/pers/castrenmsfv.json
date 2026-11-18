@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/castrenmsfv.htm",
+  "title": "Minnesruna över Maria Castrén 1969",
+  "summary": "Minnesruna över lektorn och director musices Maria Castrén, som var organist i Nykarleby och den första kvinnliga medlemmen i stadsfullmäktige. Hon avled 1969. Ur Svenska Folkskolans vänners kalender.",
+  "topics": [
+    "musik",
+    "minnesruna",
+    "kvinnohistoria"
+  ],
+  "people": [
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "birthYear": 1871,
+      "deathYear": 1969,
+      "roles": [
+        "lektor",
+        "director musices",
+        "organist",
+        "kördirigent"
+      ],
+      "description": "Skrev Visbok för skolan. Första och enda kvinnliga medlemmen i Nykarleby stadsfullmäktige under flera decennier."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir ordinarie organist i Nykarleby",
+      "date": {
+        "year": 1905,
+        "circa": false
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Lektor i sång och musik vid Nykarleby seminarium",
+      "date": {
+        "year": 1933,
+        "circa": false,
+        "text": "1933–1939"
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1969,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "text": "24 februari 1969"
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e0b8101c5754951858a2d476e2d68b207733fb800f9db3c876b318f0103c6a76",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ahlstrom_e.html",
+  "title": "Erik ”Bomba” Ahlström",
+  "summary": "Läsare bidrar med minnen och olika förklaringar till smeknamnet Bomba för Erik Ahlström, och om en lastbil han ägde. Ingen av förklaringarna är bekräftad.",
+  "topics": [
+    "smeknamn",
+    "lastbilar",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Erik Ahlström",
+      "alternateNames": [
+        "Erik \"Bomba\" Ahlström",
+        "Bomba"
+      ],
+      "birthYear": 1924,
+      "deathYear": 1997,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Området där en läsare bodde på 1950-talet, nära Ahlströms.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "dd2aac6851584adb91067dc289cc3badffc5ccfca32bfcafbf72ac327bc31749",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

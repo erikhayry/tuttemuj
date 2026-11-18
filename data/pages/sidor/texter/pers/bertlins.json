@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bertlins.htm",
+  "title": "Sigfrid Bertlin 1912–2009",
+  "summary": "Sigfrid Bertlin drev en matvaruaffär i Nykarleby och samlade cirka 20 000 tidningsurklipp om staden och andra ämnen. Sidan är en kort levnadsbeskrivning.",
+  "topics": [
+    "handel",
+    "urklipp",
+    "kommunalliv"
+  ],
+  "people": [
+    {
+      "name": "Sigfrid Bertlin",
+      "alternateNames": [],
+      "birthYear": 1912,
+      "deathYear": 2009,
+      "roles": [
+        "butiksföreståndare",
+        "föreståndare vid Folkpensionsanstalten"
+      ],
+      "description": "Sammanställde åtskilliga böcker med urklipp om Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan 24",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 24",
+      "description": "Huset där Sigfrid Bertlin hade en matvaruaffär 1950–1958 i källaren, och en begravningsbyrå.",
+      "geo": {
+        "lat": 63.5231213,
+        "lng": 22.5381563,
+        "match": "address",
+        "gazetteerName": "borgaregatan 24",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Driver matvaruaffär i Borgaregatan 24 till 1958",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "people": [
+        "Sigfrid Bertlin"
+      ],
+      "places": [
+        "Borgaregatan 24"
+      ]
+    },
+    {
+      "title": "Blir föreståndare vid Folkpensionsanstalten",
+      "date": {
+        "year": 1951,
+        "circa": false
+      },
+      "people": [
+        "Sigfrid Bertlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Pensioneras",
+      "date": {
+        "year": 1975,
+        "circa": false
+      },
+      "people": [
+        "Sigfrid Bertlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 2009,
+        "month": 12,
+        "day": 18,
+        "circa": false,
+        "text": "18 december 2009"
+      },
+      "people": [
+        "Sigfrid Bertlin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "22bea1619b6c61226288420c85083f8b0358541d891c60dc41c10f879045763c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

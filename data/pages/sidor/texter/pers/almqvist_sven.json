@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/almqvist_sven.html",
+  "title": "Minnesruna över Sven Almqvist 1915–2008",
+  "summary": "Minnesruna över stadsläkaren Sven Almqvist, som verkade i Nykarleby från 1946 och senare i Jakobstad. Texten berättar också om hans krigstid som läkare vid fronten.",
+  "topics": [
+    "läkare",
+    "minnesruna",
+    "vinterkriget",
+    "vårdsektorn"
+  ],
+  "people": [
+    {
+      "name": "Sven Almqvist",
+      "alternateNames": [],
+      "birthYear": 1915,
+      "deathYear": 2008,
+      "roles": [
+        "läkare",
+        "stadsläkare",
+        "kommunalpolitiker"
+      ],
+      "description": "Gift med Else Almqvist. Ledamot i fullmäktige i Nykarleby och Jakobstad."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Blir stadsläkare i Nykarleby",
+      "date": {
+        "year": 1946,
+        "circa": false
+      },
+      "people": [
+        "Sven Almqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir stadsläkare i Jakobstad",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [
+        "Sven Almqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Pensioneras",
+      "date": {
+        "year": 1978,
+        "circa": false
+      },
+      "people": [
+        "Sven Almqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider på sjukhuset i Jakobstad",
+      "date": {
+        "year": 2008,
+        "month": 4,
+        "day": 8,
+        "circa": false,
+        "text": "8.4.2008"
+      },
+      "people": [
+        "Sven Almqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den unge medicinstudenten Sven Almqvist gifter sig hastigt i en källare i Borgå när vinterkriget bryter ut. Han tjänstgör sedan som läkare vid fronten och överfalls en gång utan vapen på väg till permission.",
+    "reason": "Krigsscenerna och bröllopet i källaren är starka, men texten är en minnesruna med få repliker.",
+    "characters": [
+      "Sven Almqvist"
+    ],
+    "places": []
+  },
+  "contentHash": "b8ba60f8e76e4ebd41bd7bd51c8d0e847dc9daa573ea5cf3cf52d44b809b1aa3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

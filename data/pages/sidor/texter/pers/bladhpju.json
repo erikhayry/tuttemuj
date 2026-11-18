@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bladhpju.htm",
+  "title": "Peter Johan Bladh 1746–1816",
+  "summary": "Affärsmannen och ekonomiske skriftställaren Peter Johan Bladh från Kaskö, som kallades den finländska kreatursavelns fader. Hans farfar bodde i Nykarleby och ägde gården Keppo. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "handel",
+    "ekonomi",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Peter Johan Bladh",
+      "alternateNames": [
+        "Bladh, Peter Johan"
+      ],
+      "birthYear": 1746,
+      "deathYear": 1816,
+      "roles": [
+        "affärsman",
+        "ekonomisk skriftställare",
+        "riksdagsman"
+      ],
+      "description": "Representerade Kaskö vid riksdagarna 1786, 1789, 1792 och 1800."
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppo gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Keppo"
+      ],
+      "description": "Ägdes av Bladhs farfar, som bodde i Nykarleby i början av 1700-talet.",
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Invald i Svenska Vetenskapsakademien",
+      "date": {
+        "year": 1779,
+        "circa": false
+      },
+      "people": [
+        "Peter Johan Bladh"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården Benvik bränns av ryssarna",
+      "date": {
+        "year": 1808,
+        "circa": false
+      },
+      "people": [
+        "Peter Johan Bladh"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Kaskös affärsman Peter Johan Bladh ser sin gård Benvik brännas av ryssarna 1808, som misstänker honom för att ha stött väpnat motstånd. Han och hans yngste son förs fångna till Åbo.",
+    "reason": "Brand, fångenskap och misstänkt uppror ger ett starkt drama, men texten är kortfattad.",
+    "characters": [
+      "Peter Johan Bladh"
+    ],
+    "places": []
+  },
+  "contentHash": "dd95bef99500e1da8be1716796cf5813aef25880cac6214ddea13c6ccd5b7625",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

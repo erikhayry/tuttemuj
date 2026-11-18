@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ahlbeckr.htm",
+  "title": "Rafael Ahlbeck 1909–2004",
+  "summary": "Minnesruna över lektor Rafael Ahlbeck, som undervisade många musiklärare vid Nykarleby seminarium och var en energisk dirigent. Han avled 2004.",
+  "topics": [
+    "musik",
+    "seminarium",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Rafael Ahlbeck",
+      "alternateNames": [],
+      "birthYear": 1909,
+      "deathYear": 2004,
+      "roles": [
+        "lektor i musik",
+        "dirigent"
+      ],
+      "description": "Lärare vid Nykarleby seminarium från 1939 till pensioneringen 1971."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariesalen",
+      "kind": "building",
+      "alternateNames": [
+        "Ahlbecksalen"
+      ],
+      "description": "Före detta seminariets festsal. Omdöptes till Seminariesalen 2024."
+    },
+    {
+      "name": "Kubban",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Sommarstället i Nykarleby skärgård."
+    }
+  ],
+  "events": [
+    {
+      "title": "Utnämns till lektor i musik vid Nykarleby seminarium",
+      "date": {
+        "year": 1939,
+        "circa": false
+      },
+      "people": [
+        "Rafael Ahlbeck"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Pensioneras när seminariet läggs ned",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "people": [
+        "Rafael Ahlbeck"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3101b78238be020f309d54a82d2cf347d46ed05618ac82bf71ef3e5853f057e5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

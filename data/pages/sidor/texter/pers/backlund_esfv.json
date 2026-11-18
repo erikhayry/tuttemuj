@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/backlund_esfv.html",
+  "title": "Eliel Backlund – minnesruna 1983",
+  "summary": "Minnesruna över Eliel Backlund, verkmästare i träslöjd vid Nykarleby seminarium i över 35 år och stadens äldsta invånare när han dog 1983.",
+  "topics": [
+    "slöjd",
+    "seminarium",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Eliel Backlund",
+      "alternateNames": [
+        "Jakob Eliel Backlund"
+      ],
+      "birthYear": 1883,
+      "deathYear": 1983,
+      "roles": [
+        "verkmästare i träslöjd",
+        "snickare"
+      ],
+      "description": "Ledamot i Nykarleby drätselkammare och taxeringsnämnd."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ålderdomshem där Eliel Backlund bodde sina sista år."
+    },
+    {
+      "name": "Östervall",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stadens åldringshem, där Eliel Backlund bodde efter De gamlas hem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Får gesällbrev i Nykarleby",
+      "date": {
+        "year": 1902,
+        "circa": false
+      },
+      "people": [
+        "Eliel Backlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir verkmästare vid Nykarleby seminarium",
+      "date": {
+        "year": 1917,
+        "month": 6,
+        "day": 1,
+        "circa": false,
+        "text": "1 juni 1917"
+      },
+      "people": [
+        "Eliel Backlund"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Pensioneras från verkmästartjänsten",
+      "date": {
+        "year": 1952,
+        "month": 7,
+        "day": 31,
+        "circa": false,
+        "text": "31 juli 1952"
+      },
+      "people": [
+        "Eliel Backlund"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1983,
+        "month": 2,
+        "day": 7,
+        "circa": false,
+        "text": "7 februari 1983"
+      },
+      "people": [
+        "Eliel Backlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "647f1514480f8f07bd1f072911637120e343a3eae0f56ad1790130c50ef1dcff",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

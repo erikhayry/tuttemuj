@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/book_niilo.html",
+  "title": "Minnesruna över Niilo Böök 1932",
+  "summary": "Minnesruna över lektor Niilo Böök, gymnastiklärare vid Nykarleby seminarium som också deltog i frihetskriget. Han avled 1932. Ur Österbottniska Posten.",
+  "topics": [
+    "idrott",
+    "gymnastik",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Niilo Böök",
+      "alternateNames": [],
+      "birthYear": 1884,
+      "deathYear": 1932,
+      "roles": [
+        "lektor i gymnastik och hälsolära",
+        "gymnastiklärare"
+      ],
+      "description": "Ledamot i hälsovårdsnämnden och brandkommissionen i Nykarleby. Ägde gården på Gustav Adolfsgatan 41."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "description": "Gården som Niilo Böök ägde.",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tillträder lektorstjänsten vid Nykarleby seminarium",
+      "date": {
+        "year": 1917,
+        "circa": false,
+        "text": "höstterminens början 1917"
+      },
+      "people": [
+        "Niilo Böök"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 1932,
+        "month": 8,
+        "day": 24,
+        "circa": false,
+        "text": "24 augusti 1932"
+      },
+      "people": [
+        "Niilo Böök"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "56e6759b5ee7fb4dffcffe58d9f82ba063d14ef3364741cd064fb60c130e97d1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

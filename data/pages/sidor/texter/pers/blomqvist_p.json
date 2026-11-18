@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/blomqvist_p.html",
+  "title": "Peter Blomqvist 1857–1893",
+  "summary": "Handlanden Peter Blomqvist i Nykarleby på 1880- och 1890-talen, som bland annat drev vinhandel och var agent för flera företag. Sidan är en samling annonser och notiser.",
+  "topics": [
+    "handel",
+    "1800-tal",
+    "annonser"
+  ],
+  "people": [
+    {
+      "name": "Peter Blomqvist",
+      "alternateNames": [
+        "Petter Blomqvist"
+      ],
+      "birthYear": 1857,
+      "deathYear": 1893,
+      "roles": [
+        "handlande",
+        "bokhållare",
+        "agent"
+      ],
+      "description": "Född i Oravais. Ägare av gården 18 enligt uppgift."
+    }
+  ],
+  "places": [
+    {
+      "name": "Marielund",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Sommarvärdshus där Peter Blomqvist hade restaurationsrätt."
+    }
+  ],
+  "events": [
+    {
+      "title": "Får restaurationsrättigheter på Marielund",
+      "date": {
+        "year": 1892,
+        "month": 5,
+        "day": 20,
+        "circa": false,
+        "text": "den 20 maj 1892"
+      },
+      "people": [
+        "Peter Blomqvist"
+      ],
+      "places": [
+        "Marielund"
+      ]
+    },
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 1893,
+        "circa": false
+      },
+      "people": [
+        "Peter Blomqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f08247077710205e29e1037a2c3d6fe93254f99b35f2aa412d168236be799bb7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

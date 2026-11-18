@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/borkland.htm",
+  "title": "Kapten Andrew J. Borkland – Nykarlebypojken",
+  "summary": "Kaptenen Andrew J. Borkland från Nykarleby, som förde president Harding till Alaska 1923 och senare ledde transporter till Stillahavsöarna. Ur tidningen Norden,.",
+  "topics": [
+    "sjöfart",
+    "emigration",
+    "Alaska",
+    "Stillahavet"
+  ],
+  "people": [
+    {
+      "name": "Andrew J. Borkland",
+      "alternateNames": [
+        "Andrew Julius Borkland",
+        "Borkland",
+        "Andrew J. Borkland (Björklund)"
+      ],
+      "birthYear": 1880,
+      "deathYear": 1943,
+      "roles": [
+        "kapten",
+        "fartygsbefälhavare"
+      ],
+      "description": "Befälhavare för transportångaren Henderson när president Warren G. Harding reste till Alaska 1923."
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelns gränd",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "En av platserna han minns från sin barndom i Nykarleby."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Nämns bland de minnen han bar med sig från Nykarleby."
+    }
+  ],
+  "events": [
+    {
+      "title": "Befordras till kapten",
+      "date": {
+        "year": 1912,
+        "circa": false
+      },
+      "people": [
+        "Andrew J. Borkland"
+      ],
+      "places": []
+    },
+    {
+      "title": "Leder transportångaren Henderson på presidentens resa till Alaska",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "people": [
+        "Andrew J. Borkland"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Seattle",
+      "date": {
+        "year": 1943,
+        "month": 3,
+        "day": 15,
+        "circa": false,
+        "text": "15 mars 1943"
+      },
+      "people": [
+        "Andrew J. Borkland"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Kapten Andrew Borkland från Nykarleby får befälet när president Harding ska resa till Alaska 1923. En envis dimma håller honom på bryggan i tre dagar. Senare ska hans fartyg föra en last till ödsliga Stillahavsöar, och i Wake tar havet fem ankare innan lasten kan landsättas.",
+    "reason": "Två episoder med spänning och fara, och kaptenens egna ord ger en levande röst åt berättelsen.",
+    "characters": [
+      "Andrew J. Borkland"
+    ],
+    "places": []
+  },
+  "contentHash": "d5a0581a465dddb4a55708d1a3c51ef8cd65ef5be8aa6c92c04465e20d732d33",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

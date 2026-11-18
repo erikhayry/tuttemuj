@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/brann_boris.html",
+  "title": "Boris Bränn – teaterkarriär",
+  "summary": "Porträtt av skådespelaren och regissören Boris Bränn, som var ordförande i Juthbacka Teater i tolv år och fick Nykarleby stads kulturpris 2004.",
+  "topics": [
+    "teater",
+    "amatörteater",
+    "Juthbacka teater"
+  ],
+  "people": [
+    {
+      "name": "Boris Bränn",
+      "alternateNames": [],
+      "birthYear": 1942,
+      "roles": [
+        "skådespelare",
+        "regissör",
+        "scenograf",
+        "snickare"
+      ],
+      "description": "Ordförande i Juthbacka Teater i tolv år. Pensionerad snickare."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Juthbacka Teater spelade sommarteater i parken nedanför Juthbacka gård."
+    },
+    {
+      "name": "Scala",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gamla biografen som Juthbacka Teater köpte 1984."
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Café i centrala Nykarleby där Boris Bränn planerade teater på tisdagskvällar."
+    }
+  ],
+  "events": [
+    {
+      "title": "Får en roll i Österbottningar på Nykarlebydagarna",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "people": [
+        "Boris Bränn"
+      ],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Juthbacka Teater köper den gamla biografen Scala",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "people": [
+        "Boris Bränn"
+      ],
+      "places": [
+        "Scala"
+      ]
+    },
+    {
+      "title": "Får Nykarleby stads kulturpris",
+      "date": {
+        "year": 2004,
+        "circa": false
+      },
+      "people": [
+        "Boris Bränn"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Boris Bränn får 1971 en roll i en pjäs i Nykarleby efter ett brev och blir amatörskådespelare på allvar. Över en natt förlorar han nästan all hörsel, men ställer sig på scen igen 2004.",
+    "reason": "En tydlig vändning och en känslosam resa, men texten är en levnadsbeskrivning med lösa anekdoter.",
+    "characters": [
+      "Boris Bränn"
+    ],
+    "places": [
+      "Juthbacka",
+      "Scala"
+    ]
+  },
+  "contentHash": "126d6075b2702913f098c9a0f3000ab60fe32ebff65f4d8f22291f54716f5958",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

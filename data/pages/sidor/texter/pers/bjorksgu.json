@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorksgu.htm",
+  "title": "Gustav Björkstrand 1941",
+  "summary": "Präst som var rektor för Kristliga folkhögskolan i Nykarleby, senare undervisningsminister och biskop i Borgå stift. Utdrag ur Uppslagsverket Finland, Supplement.",
+  "topics": [
+    "kyrkan",
+    "folkhögskola",
+    "politik",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Gustav Björkstrand",
+      "alternateNames": [
+        "Hilding Gustav Mattias Björkstrand"
+      ],
+      "birthYear": 1941,
+      "roles": [
+        "präst",
+        "rektor",
+        "undervisningsminister",
+        "biskop"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Kristliga folkhögskolan i Nykarleby"
+      ],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir rektor för Kristliga folkhögskolan i Nykarleby",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "people": [
+        "Gustav Björkstrand"
+      ],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Utnämns till undervisningsminister",
+      "date": {
+        "year": 1983,
+        "circa": false
+      },
+      "people": [
+        "Gustav Björkstrand"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir biskop i Borgå stift",
+      "date": {
+        "year": 2006,
+        "circa": false
+      },
+      "people": [
+        "Gustav Björkstrand"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6be1db38b96498bfb81c751ee288e9da0565da2403b52533be0551067c7b1ee5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

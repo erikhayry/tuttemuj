@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/chaffisar.html",
+  "title": "Långtradarchaufförer i Nykarleby",
+  "summary": "Fotografier på lastbilar och chaufförer från Nykarleby, bland annat Magnus och Olof Frostdahl och Erik 'Tusi' Suomivirta. Bilderna är skickade av en släkting.",
+  "topics": [
+    "lastbilar",
+    "transport",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Magnus Frostdahl",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägare till en Scania som fotograferades vid torget."
+    },
+    {
+      "name": "Olof Frostdahl",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Körde en Volvo F1210 ombord på en färja år 1996."
+    },
+    {
+      "name": "Erik Suomivirta",
+      "alternateNames": [
+        "Erik \"Tusi\" Suomivirta"
+      ],
+      "roles": [
+        "långtradarchaufför"
+      ],
+      "description": "Körde en långtradare till Norge 1971–72."
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Nykarleby torg, där en av lastbilarna fotograferades."
+    },
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i högra kanten på ett foto vid torget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kör långtradare till Norge",
+      "date": {
+        "year": 1971,
+        "circa": false,
+        "text": "1971–72"
+      },
+      "people": [
+        "Erik Suomivirta"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7da92fc1f5df277e7800b342cf19fc0934f415123c451ec1f50af59d4e05ddf7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

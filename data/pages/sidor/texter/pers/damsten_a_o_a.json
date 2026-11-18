@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/damsten_a_o_a.html",
+  "title": "Anton och Aline Damstén",
+  "summary": "Minnesnotiser om bankdirektören Anton Damstén, som var föreståndare för Vasa Aktiebanks kontor i Nykarleby i arton år, och hans hustru Aline Damstén. Ur Österbottniska Posten.",
+  "topics": [
+    "bank",
+    "dödsannons",
+    "familjehistoria"
+  ],
+  "people": [
+    {
+      "name": "Anton Damstén",
+      "alternateNames": [],
+      "birthYear": 1862,
+      "deathYear": 1927,
+      "roles": [
+        "bankdirektör",
+        "bankman"
+      ],
+      "description": "Föreståndare för Vasa Aktiebanks filialkontor i Nykarleby 1904–1922. Ledamot i drätselkammaren och stadsfullmäktige."
+    },
+    {
+      "name": "Aline Damstén",
+      "alternateNames": [
+        "Aline Malm"
+      ],
+      "birthYear": 1864,
+      "deathYear": 1936,
+      "roles": [],
+      "description": "Född i Jakobstad. Gift med Anton Damstén 1899."
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Aline Damstén avled."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gifter sig med Anton Damstén",
+      "date": {
+        "year": 1899,
+        "circa": false
+      },
+      "people": [
+        "Aline Damstén",
+        "Anton Damstén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir föreståndare för Vasa Aktiebanks kontor i Nykarleby",
+      "date": {
+        "year": 1904,
+        "circa": false
+      },
+      "people": [
+        "Anton Damstén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Vasa",
+      "date": {
+        "year": 1927,
+        "circa": false,
+        "text": "natten till onsdagen"
+      },
+      "people": [
+        "Anton Damstén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b3d278b9416e9befb65cb775ce0aaebcaaa0d32c273c72ac7dc1482cc20e09ad",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

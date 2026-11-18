@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/broman_svea.html",
+  "title": "Minnesord över Svea Elisabet Broman",
+  "summary": "Minnesord över läraren Svea Elisabet Broman, som undervisade i Nykarleby och längst vid Skogsparkens skola. Sidan innehåller också en berättelse om hennes påsktroll.",
+  "topics": [
+    "skola",
+    "lärare",
+    "minnesord"
+  ],
+  "people": [
+    {
+      "name": "Svea Elisabet Broman",
+      "alternateNames": [
+        "Svea Broman",
+        "Tant Svea"
+      ],
+      "birthYear": 1921,
+      "deathYear": 2011,
+      "roles": [
+        "lärare"
+      ],
+      "description": "Född Ingerström. Gift med Verner. Lärare i Jeppo, Ytterjeppo och Markby innan Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogsparkens skola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolan där Svea Broman var lärare längst."
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skola dit Svea Broman kom 1970.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kommer till Normen när Markby skola stängs",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "people": [
+        "Svea Elisabet Broman"
+      ],
+      "places": [
+        "Normen"
+      ]
+    },
+    {
+      "title": "Avlider",
+      "date": {
+        "year": 2011,
+        "month": 10,
+        "day": 20,
+        "circa": false,
+        "text": "20 oktober 2011"
+      },
+      "people": [
+        "Svea Elisabet Broman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16fb3af08934a3b8ab6bf23f232fc67520bd3bff618159d4ebe01f158f64acde",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

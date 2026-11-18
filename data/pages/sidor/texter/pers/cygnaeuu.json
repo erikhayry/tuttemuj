@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/cygnaeuu.htm",
+  "title": "Uno Cygnæus 1810–1888",
+  "summary": "Skolmannen Uno Cygnaeus, kallad folkskolans fader i Finland, som låg bakom den första folkskolförordningen. Han höll invigningstalet när seminariet i Nykarleby öppnades 1873. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "skolväsen",
+    "folkbildning",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Uno Cygnaeus",
+      "alternateNames": [
+        "Uno Cygnæus"
+      ],
+      "birthYear": 1810,
+      "deathYear": 1888,
+      "roles": [
+        "skolman",
+        "präst",
+        "överinspektor för folkskolorna"
+      ],
+      "description": "Kallad folkskolans fader i Finland. Kusin till Fredrik Cygnaeus."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Finlands första folkskolförordning utfärdas på grundval av hans förslag",
+      "date": {
+        "year": 1866,
+        "month": 5,
+        "day": 11,
+        "circa": false,
+        "text": "11 maj 1866"
+      },
+      "people": [
+        "Uno Cygnaeus"
+      ],
+      "places": []
+    },
+    {
+      "title": "Håller invigningstalet vid seminariet i Nykarleby",
+      "date": {
+        "year": 1873,
+        "month": 9,
+        "day": 1,
+        "circa": false,
+        "text": "1 september 1873"
+      },
+      "people": [
+        "Uno Cygnaeus"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Blir överinspektor för folkskolorna",
+      "date": {
+        "year": 1870,
+        "circa": false
+      },
+      "people": [
+        "Uno Cygnaeus"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9c2c3bb1618001d2f718b95c142381dcf48460cebed8450aa6bc98311d78a053",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

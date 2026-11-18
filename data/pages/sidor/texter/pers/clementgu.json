@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/clementgu.htm",
+  "title": "Gunnar Clément 1906–1982",
+  "summary": "Konstnären Gunnar Clément, känd för väggmålningar och för målningar i Brostugan och Nykarleby stadshotell. Han gjorde också ett vapenförslag för Nykarleby stad 1942.",
+  "topics": [
+    "konst",
+    "väggmålning",
+    "heraldik",
+    "bygdeforskning"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Clément",
+      "alternateNames": [],
+      "birthYear": 1906,
+      "deathYear": 1982,
+      "roles": [
+        "konstnär",
+        "muralmålare",
+        "scenbildkonstnär",
+        "heraldiker",
+        "bygdeforskare"
+      ],
+      "description": "Född i Åbo."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Clément målade här, bland annat under militärförläggningsperioden 1941."
+    },
+    {
+      "name": "Stadshotellet i Nykarleby",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Clément målade väggmålningar här, delvis bevarade."
+    }
+  ],
+  "events": [
+    {
+      "title": "Målar i Brostugan under militärförläggningsperioden",
+      "date": {
+        "year": 1941,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Clément"
+      ],
+      "places": [
+        "Brostugan"
+      ]
+    },
+    {
+      "title": "Föreslår vapen för Nykarleby stad",
+      "date": {
+        "year": 1942,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Clément"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9b99136f8f46dad2b18e9991647eb1320655b7a8e8eee81ef62bd99871ad0fa1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

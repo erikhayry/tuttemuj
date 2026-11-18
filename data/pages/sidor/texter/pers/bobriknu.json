@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bobriknu.htm",
+  "title": "Nikolaj Bobrikov 1839–1904",
+  "summary": "Den ryske generalguvernören Nikolaj Bobrikov, som försökte förrysk Finland och mördades 1904. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "historia",
+    "Finland under ryskt styre",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Nikolaj Bobrikov",
+      "alternateNames": [
+        "Nikolaj Ivanovitj Bobrikov"
+      ],
+      "birthYear": 1839,
+      "deathYear": 1904,
+      "roles": [
+        "rysk militär",
+        "generalguvernör i Finland"
+      ]
+    },
+    {
+      "name": "Eugen Schauman",
+      "alternateNames": [],
+      "roles": [
+        "f.d. senatstjänsteman"
+      ],
+      "description": "Nedsköt Bobrikov i juni 1904."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Utnämns till generalguvernör i Finland",
+      "date": {
+        "year": 1898,
+        "circa": false
+      },
+      "people": [
+        "Nikolaj Bobrikov"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nedskjuten i senatshusets trapphus",
+      "date": {
+        "year": 1904,
+        "month": 6,
+        "day": 16,
+        "circa": false,
+        "text": "16 juni 1904"
+      },
+      "people": [
+        "Nikolaj Bobrikov",
+        "Eugen Schauman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Generalguvernör Bobrikov, som vill göra Finland till en rysk provins, skjuts i senatshusets trapphus av den unge f.d. senatstjänstemannen Eugen Schauman i juni 1904. Han dör dagen därpå.",
+    "reason": "Ett politiskt mord i en trapp ger en stark scen, men texten är kort och saknar dialog.",
+    "characters": [
+      "Nikolaj Bobrikov",
+      "Eugen Schauman"
+    ],
+    "places": []
+  },
+  "contentHash": "4b7c5e7e43b1dd35defa70f1241dab897075694f6a2ed552ecfbbd396665b144",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

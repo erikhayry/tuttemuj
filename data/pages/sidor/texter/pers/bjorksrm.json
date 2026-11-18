@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorksrm.htm",
+  "title": "Mats Björkstrand 1969",
+  "summary": "Mats Björkstrand, som bodde i Nykarleby 1970–1990 och har skrivit uppsatser om kyrkomusiken och musiken vid seminariet i Nykarleby. Sidan är en presentation av hans skrifter.",
+  "topics": [
+    "musikhistoria",
+    "kyrkomusik",
+    "seminarium"
+  ],
+  "people": [
+    {
+      "name": "Mats Björkstrand",
+      "alternateNames": [],
+      "birthYear": 1969,
+      "roles": [
+        "student i musikvetenskap och teologi"
+      ],
+      "description": "Född i Helsingfors. Bosatt i Nykarleby 1970–1990."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Orglarna i kyrkan är ämne för en av Mats Björkstrands uppsatser.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Ämne för flera av Mats Björkstrands uppsatser om musiken."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6a50c770ecdf52ccb993793d8ee418155fc40261ddca12b66d810d169e63c803",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

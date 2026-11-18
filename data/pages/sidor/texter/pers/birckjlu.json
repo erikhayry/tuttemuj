@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/birckjlu.htm",
+  "title": "Johan Ludvig Birck 1886–1971",
+  "summary": "Skolmannen Johan Ludvig Birck, som utbildade sig vid Nykarleby seminarium och skrev många lokalhistoriska arbeten. Sidan innehåller också fotografier ur ett fotoalbum. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "skolväsen",
+    "lokalhistoria",
+    "fotoalbum",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Johan Ludvig Birck",
+      "alternateNames": [
+        "J. L. Birck"
+      ],
+      "birthYear": 1886,
+      "deathYear": 1971,
+      "roles": [
+        "skolman",
+        "folkskollärare",
+        "släktforskare"
+      ],
+      "description": "Far till Erik Birck."
+    },
+    {
+      "name": "Ida Birck",
+      "alternateNames": [
+        "Ida Källström",
+        "Ida Elisabet Källström"
+      ],
+      "roles": [],
+      "description": "Född Källström. Gift med J. L. Birck 1947."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utexamineras från Nykarleby seminarium",
+      "date": {
+        "year": 1909,
+        "circa": false
+      },
+      "people": [
+        "Johan Ludvig Birck"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Gifter sig med Ida Källström",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Johan Ludvig Birck",
+        "Ida Birck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bd755af1744c2e107a3f684e83f2d84bce9bfe0b77d6226cbf96dbcf36e5bb41",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/conradi_sfv.html",
+  "title": "Minnesruna över Frans Edvard Conradi 1888",
+  "summary": "Minnesruna över Frans Edvard Conradi, seminariedirektor i Nykarleby från 1873 till 1880 och en av stiftarna av Svenska folkskolans vänner. Han avled 1888.",
+  "topics": [
+    "skolväsen",
+    "seminarium",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Frans Edvard Conradi",
+      "alternateNames": [],
+      "birthYear": 1812,
+      "deathYear": 1888,
+      "roles": [
+        "seminariedirektor",
+        "lärare",
+        "skolman"
+      ],
+      "description": "Seminariedirektor i Nykarleby. Tidigare direktor för tekniska realskolan i Vasa i 24 år."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utnämns till seminariedirektor i Nykarleby",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "mars 1873"
+      },
+      "people": [
+        "Frans Edvard Conradi"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Tar avsked som seminariedirektor",
+      "date": {
+        "year": 1880,
+        "circa": false,
+        "text": "slutet av år 1880"
+      },
+      "people": [
+        "Frans Edvard Conradi"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider i Vasa",
+      "date": {
+        "year": 1888,
+        "month": 2,
+        "day": 29,
+        "circa": false,
+        "text": "29 februari 1888"
+      },
+      "people": [
+        "Frans Edvard Conradi"
+      ],
+      "places": []
+    },
+    {
+      "title": "Begravs i Nykarleby",
+      "date": {
+        "year": 1888,
+        "month": 3,
+        "day": 28,
+        "circa": false,
+        "text": "den 28 mars 1888"
+      },
+      "people": [
+        "Frans Edvard Conradi"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "91f5a88e889454d900d7e6db1b1e663bccfe3c84065ee50fe5d0834a89e4fb04",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

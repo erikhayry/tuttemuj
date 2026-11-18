@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorklunda.html",
+  "title": "Alexander Björklund – minnesruna 1934",
+  "summary": "Minnesruna över läraren Alexander Björklund vid Nykarleby seminariums övningsskola. Texten berättar om hans roll i lärarutbildningen och i frihetskriget. Ur Svenska Folkskolans vänners kalender.",
+  "topics": [
+    "skolväsen",
+    "frihetskriget",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Alexander Björklund",
+      "alternateNames": [],
+      "birthYear": 1868,
+      "deathYear": 1934,
+      "roles": [
+        "lärare",
+        "stadsfullmäktig"
+      ],
+      "description": "Lärare i sammansatta klassen vid seminariets övningsskola från 1900. Ordförande i förmyndarnämnden och drätselkammaren."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Blir lärare vid Nykarleby seminariums övningsskola",
+      "date": {
+        "year": 1900,
+        "circa": false
+      },
+      "people": [
+        "Alexander Björklund"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider i sitt hem i Nykarleby",
+      "date": {
+        "year": 1934,
+        "month": 6,
+        "day": 25,
+        "circa": false,
+        "text": "25 juni 1934"
+      },
+      "people": [
+        "Alexander Björklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Under frihetskriget, när Nykarleby skulle befrias, är läraren Alexander Björklund en av dem som planerar attackerna mot förtryckets företrädare. En av hans söner stupar i striden.",
+    "reason": "Konflikt, fara och förlust ger ett starkt drama, men texten är kort och saknar scener.",
+    "characters": [
+      "Alexander Björklund"
+    ],
+    "places": [
+      "Nykarleby seminarium"
+    ]
+  },
+  "contentHash": "e5c2abe601f3415d089f5206093a5cd1a6fc85400fd96e1fa55479447a42c713",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

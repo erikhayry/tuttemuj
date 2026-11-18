@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/castrenm_us.html",
+  "title": "Maria Castrén av Ulf Sundstén",
+  "summary": "Kort porträtt av Maria Castrén, den första kvinnliga ordinarie organisten i Finland och lektor i sång och musik vid Nykarleby seminarium. Texten är skriven av kaplanen Ulf Sundstén.",
+  "topics": [
+    "musik",
+    "kyrkomusik",
+    "kvinnohistoria"
+  ],
+  "people": [
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "birthYear": 1871,
+      "deathYear": 1969,
+      "roles": [
+        "organist",
+        "lektor i sång och musik"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Får dispens att söka organisttjänsten",
+      "date": {
+        "year": 1902,
+        "month": 1,
+        "day": 20,
+        "circa": false,
+        "text": "20.1.1902"
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "54d791ecafe5624c00d027d2329066846b7075c57a6a4b81557a9f527ff47db3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

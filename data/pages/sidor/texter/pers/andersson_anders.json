@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/andersson_anders.html",
+  "title": "Anders Andersson Forsbacka – minnesnotis 1889",
+  "summary": "Minnesnotis om bonden och kyrkovärden Anders Andersson Forsbacka, som tjänstgjorde i Nykarleby församling i femton år. Sidan är ett utdrag ur Österbottniska Posten 1889.",
+  "topics": [
+    "kyrkan",
+    "bondesamhället",
+    "dödsannons"
+  ],
+  "people": [
+    {
+      "name": "Anders Andersson Forsbacka",
+      "alternateNames": [],
+      "deathYear": 1889,
+      "roles": [
+        "bonde",
+        "kyrkovärd"
+      ],
+      "description": "Kyrkovärd i Nykarleby församling i femton år. Hans dotter Sanna nämns på sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemmanet där Anders Andersson bodde."
+    },
+    {
+      "name": "Kyrkbyn",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Avlider i Kyrkbyn",
+      "date": {
+        "year": 1889,
+        "month": 4,
+        "day": 6,
+        "circa": false,
+        "text": "den 6 april"
+      },
+      "people": [
+        "Anders Andersson Forsbacka"
+      ],
+      "places": [
+        "Kyrkbyn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d4235e71fb2c8b0f0bc1e23c4cdd51176d1119e3be76f1915a2908af4795a39d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/backmanw.htm",
+  "title": "Woldemar Backman 1870–1946",
+  "summary": "Läkaren Woldemar Backman, provinsialläkare i Nykarleby och e.o. professor, som också forskade i genealogi och befolkningsstatistik. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "läkare",
+    "genealogi",
+    "befolkningsstatistik",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [
+        "Herman Woldemar Backman"
+      ],
+      "birthYear": 1870,
+      "deathYear": 1946,
+      "roles": [
+        "läkare",
+        "e.o. professor",
+        "provinsialläkare"
+      ],
+      "description": "Gift med läkaren Elisabet Backman, född Nylund."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Jutbacka"
+      ],
+      "description": "Fädernegården, där Woldemar Backman bosatte sig."
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Här hade Woldemar Backman mottagning.",
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Erhåller titeln e.o. professor",
+      "date": {
+        "year": 1918,
+        "circa": false
+      },
+      "people": [
+        "Woldemar Backman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir förste överläkare vid Malmska sjukhuset",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "people": [
+        "Woldemar Backman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bff473b4e6a5fac03aebd0f7af6ebc3646f43036603fd79b2efde33d9c9e62c4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

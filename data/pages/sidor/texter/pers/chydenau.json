@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/chydenau.htm",
+  "title": "Anders Chydenius 1729–1803",
+  "summary": "Prästen och den politiske tänkaren Anders Chydenius, som ville ha fri handel och skrev om samhällets lägre klasser. Han var kyrkoherde i Gamlakarleby. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "politik",
+    "ekonomi",
+    "prästerskap",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Anders Chydenius",
+      "alternateNames": [],
+      "birthYear": 1729,
+      "deathYear": 1803,
+      "roles": [
+        "prästman",
+        "politisk tänkare",
+        "riksdagsman",
+        "nationalekonom"
+      ],
+      "description": "Prästvigd till predikant i Nedervetil. Kyrkoherde i Gamlakarleby från 1770."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Chydenius prästvigdes till predikant här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Utses till representant för kapellanerna i Österbotten vid riksdagen",
+      "date": {
+        "year": 1765,
+        "circa": false,
+        "text": "1765–66"
+      },
+      "people": [
+        "Anders Chydenius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stapeltvånget upphävs genom hans påverkan",
+      "date": {
+        "year": 1765,
+        "circa": false
+      },
+      "people": [
+        "Anders Chydenius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir kyrkoherde i Gamlakarleby",
+      "date": {
+        "year": 1770,
+        "circa": false
+      },
+      "people": [
+        "Anders Chydenius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d39ab55f31bb5f41778d567609a3c799d3587b81ad9993fbde6f84c75a5445e7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

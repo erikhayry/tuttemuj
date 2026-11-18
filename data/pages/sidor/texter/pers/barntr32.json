@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/barntr32.htm",
+  "title": "Barnträdgårdsbarn 1932",
+  "summary": "Fotografi från 1932 av barnträdgårdsbarn med May Rosqvist vid korsningen Gustav Adolfsgatan–Borgaregatan. Sidan beskriver också gårdarna i bilden.",
+  "topics": [
+    "barnträdgård",
+    "gatubild",
+    "1930-tal"
+  ],
+  "people": [
+    {
+      "name": "May Rosqvist",
+      "alternateNames": [
+        "May Björklund"
+      ],
+      "roles": [],
+      "description": "Gift Björklund. Var med barnträdgårdsbarnen på fotot från 1932."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högboms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Gleisners gård"
+      ],
+      "description": "Gården till vänster i bilden, senare Gleisners gård."
+    },
+    {
+      "name": "Kristoffer Södermans gård",
+      "kind": "building",
+      "alternateNames": [
+        "Per-Erik Villmans gård"
+      ],
+      "description": "Före detta kantor Kristoffer Södermans gård, till höger i bilden."
+    },
+    {
+      "name": "Barnträdgården",
+      "kind": "building",
+      "alternateNames": [
+        "Höglunds gård",
+        "Strandéns gård"
+      ],
+      "description": "Barnträdgården låg i den tidigare Holstius/Strandén/Höglunds gård."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "073eb7e1c41947813de59399b34139e4ee9efcf0bc63b656a339315d4e5d61da",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

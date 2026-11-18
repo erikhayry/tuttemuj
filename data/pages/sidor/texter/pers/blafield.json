@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/blafield.html",
+  "title": "Dr Otto Blåfield 1936",
+  "summary": "Dödsannons för doktor Otto Blåfield, förre provinsialläkaren i Gamlakarleby distrikt, som avled 1936 på Fäboda kuranstalt. Ur Österbottniska Posten.",
+  "topics": [
+    "läkare",
+    "dödsannons",
+    "tandläkare"
+  ],
+  "people": [
+    {
+      "name": "Otto Blåfield",
+      "alternateNames": [
+        "Otto Johan Blåfield"
+      ],
+      "birthYear": 1867,
+      "deathYear": 1936,
+      "roles": [
+        "läkare",
+        "provinsialläkare",
+        "tandläkare"
+      ],
+      "description": "Läkare vid Fäboda kuranstalt. Grundade Fäboda kuranstalt enligt en länk på sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Fäboda kuranstalt",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kuranstalt där Otto Blåfield avled 1936."
+    }
+  ],
+  "events": [
+    {
+      "title": "Avlägger tandläkarexamen som den förste i Finland",
+      "date": {
+        "year": 1894,
+        "circa": false
+      },
+      "people": [
+        "Otto Blåfield"
+      ],
+      "places": []
+    },
+    {
+      "title": "Blir medicine licentiat",
+      "date": {
+        "year": 1900,
+        "circa": false
+      },
+      "people": [
+        "Otto Blåfield"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider på Fäboda kuranstalt",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "people": [
+        "Otto Blåfield"
+      ],
+      "places": [
+        "Fäboda kuranstalt"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En morgon på Fäboda kuranstalt hörs starka snarkningar från doktor Blåfields rum. En timme senare är det tyst, ingen öppnar när man knackar, och personalen tar sig in genom fönstret. Doktorn ligger död i sin säng.",
+    "reason": "En levande och spännande scen med vardagliga detaljer och en tydlig gåta i början.",
+    "characters": [
+      "Otto Blåfield"
+    ],
+    "places": [
+      "Fäboda kuranstalt"
+    ]
+  },
+  "contentHash": "646c638cd5bb8511dd940dc7dffa962961a09219ba8a269f7c3569d1443d60ca",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hus/ga41ca1970.html",
+  "title": "Korsningen Gustav Adolfsgatan – Fiskaregränd ca 1970",
+  "summary": "Ett foto från omkring 1970 av korsningen Gustav Adolfsgatan och Fiskaregränd, med plåtar och en vindflöjel från ett rivet hus.",
+  "topics": [
+    "gatubild",
+    "fotografi",
+    "1970-tal"
+  ],
+  "people": [
+    {
+      "name": "Sigfrid Bertlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hjälpte till att rikta plåtarna så att de kunde sättas upp."
+    },
+    {
+      "name": "Raul Olson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Satte upp vindflöjeln i den bortre stolpen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fiskaregränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52688,
+        "lng": 22.5351826,
+        "match": "name",
+        "gazetteerName": "fiskaregränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 25",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 25",
+      "description": "Femvåningshuset här revs. Plåtarna vid stenfoten kom från det huset.",
+      "geo": {
+        "lat": 63.52529850000001,
+        "lng": 22.5324888,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9e6f1ac0bd80a495573e04c910a19e400aa808f19763e45ab21fa9ff3f5aca95",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

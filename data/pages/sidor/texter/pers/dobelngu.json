@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/dobelngu.htm",
+  "title": "Georg Carl von Döbeln 1758–1820",
+  "summary": "Militären Georg Carl von Döbeln, som vann slaget vid Jutas 1808 och var en av de främsta svenska befälhavarna under 1808–09 års krig. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "1808–09 års krig",
+    "militär",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [
+        "G. C. von Döbeln"
+      ],
+      "birthYear": 1758,
+      "deathYear": 1820,
+      "roles": [
+        "militär",
+        "generallöjtnant"
+      ],
+      "description": "Chef för 3:e brigaden vid krigsutbrottet 1808."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas",
+      "kind": "landmark",
+      "alternateNames": [
+        "Jutas"
+      ],
+      "description": "Slaget vid Jutas 13 september 1808. Monument över Döbeln vid Juthas."
+    }
+  ],
+  "events": [
+    {
+      "title": "Vinner segern vid Jutas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "13/9 1808"
+      },
+      "people": [
+        "Georg Carl von Döbeln"
+      ],
+      "places": [
+        "Juthas"
+      ]
+    },
+    {
+      "title": "Utnämns till generallöjtnant",
+      "date": {
+        "year": 1813,
+        "circa": false
+      },
+      "people": [
+        "Georg Carl von Döbeln"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den sjuke generalen Döbeln, med ett muskötskott i pannan och en svart binda över såret, leder sina trupper vid Jutas i september 1808. Segern räddar den retirerande hären från att bli inringad. Senare för han trupperna över isen till Sverige.",
+    "reason": "Strid, sjukdom och en flykt över isen ger konkreta och spännande scener.",
+    "characters": [
+      "Georg Carl von Döbeln"
+    ],
+    "places": [
+      "Juthas"
+    ]
+  },
+  "contentHash": "a9efe7ed0269db7fbfcb6f165c41bb0e4d3632945703a2be160612690eee06a4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/brahee.htm",
+  "title": "Om Ebba Brahe – J. J. Huldén 1957",
+  "summary": "Hembygdsskildring om Ebba Brahe, som gifte sig med Jakob de la Gardie och skötte hans gods med skicklighet. Texten är från en skrift av Ebba Brahesamfundet i Jakobstad 1957.",
+  "topics": [
+    "historia",
+    "adel",
+    "Jakobstad",
+    "kulturhistoria"
+  ],
+  "people": [
+    {
+      "name": "Ebba Brahe",
+      "alternateNames": [],
+      "birthYear": 1596,
+      "deathYear": 1674,
+      "roles": [
+        "adelsdam",
+        "godsförvaltare"
+      ],
+      "description": "Gift med Jakob de la Gardie 1618. Hade 14 barn."
+    },
+    {
+      "name": "Jakob de la Gardie",
+      "alternateNames": [],
+      "roles": [
+        "fältherre",
+        "riksmarsk"
+      ],
+      "description": "Make till Ebba Brahe."
+    },
+    {
+      "name": "Gustaf II Adolf",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ],
+      "description": "Ebba Brahes ungdomsälskade."
+    }
+  ],
+  "places": [
+    {
+      "name": "Ebba Brahes ruddamm",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Ruddammen i Nykarleby, som en målning av Gunnar Clément visar."
+    }
+  ],
+  "events": [
+    {
+      "title": "Bröllop med Jakob de la Gardie",
+      "date": {
+        "year": 1618,
+        "circa": false,
+        "text": "Midsommardagen 1618"
+      },
+      "people": [
+        "Ebba Brahe",
+        "Jakob de la Gardie"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den unge Ebba Brahe blir kungens ungdomsälskade, men fadern tvekar och änkedrottning Kristina varnar henne för att lita på kungens känslor. Efter att kungen gett sig av i kriget ristar hon i ett fönster på Stockholms slott att hon är nöjd med sin lott, när hon i stället gifts med Jakob de la Gardie.",
+    "reason": "Ett kärleksdrama med brev, varningar och en fönsterruta som ger starka och konkreta scener.",
+    "characters": [
+      "Ebba Brahe",
+      "Gustaf II Adolf"
+    ],
+    "places": []
+  },
+  "contentHash": "ef2fdc9fd59378a9f33b212f731a99f9ae9ea1ab9f12da86cc5733129928e316",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

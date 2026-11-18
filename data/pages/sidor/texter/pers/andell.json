@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/andell.htm",
+  "title": "Familjen Andell",
+  "summary": "Ett brev från en läsare med uppgifter om familjen Andell, bland annat om två systrar som skrev hälsningar på ett vykort. Sidan visar också ett foto på familjens sommarstuga vid Andra sjön.",
+  "topics": [
+    "familjehistoria",
+    "vykort",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Toini Andell",
+      "alternateNames": [],
+      "birthYear": 1894,
+      "deathYear": 1988,
+      "roles": [],
+      "description": "Syster till Astrid Andell."
+    },
+    {
+      "name": "Astrid Andell",
+      "alternateNames": [],
+      "birthYear": 1898,
+      "deathYear": 1987,
+      "roles": [],
+      "description": "Syster till Toini Andell."
+    },
+    {
+      "name": "Hilda Andell",
+      "alternateNames": [
+        "Hilda Björkman"
+      ],
+      "birthYear": 1865,
+      "deathYear": 1948,
+      "roles": [],
+      "description": "Född Björkman. Mor till Toini och Astrid Andell."
+    },
+    {
+      "name": "Wilhelm Andell",
+      "alternateNames": [
+        "Wilhelm Andersson"
+      ],
+      "birthYear": 1864,
+      "deathYear": 1938,
+      "roles": [],
+      "description": "Far till Toini och Astrid Andell. Tidigare Andersson."
+    },
+    {
+      "name": "Maria Björkman",
+      "alternateNames": [],
+      "birthYear": 1843,
+      "deathYear": 1902,
+      "roles": [],
+      "description": "Mormor till Toini och Astrid Andell."
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Familjen Andells sommarstuga låg vid sjön.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "31c6d2efd396353262b188aacf2bc396b9935a2725c9892c6ca44720eeb36077",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

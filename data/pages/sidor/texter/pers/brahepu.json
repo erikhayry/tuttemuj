@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/brahepu.htm",
+  "title": "Per Brahe 1602–1680",
+  "summary": "Greven och generalguvernören Per Brahe, som var Åbo akademis förste kansler och lät inrätta nya städer och skolor i Finland. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "historia",
+    "utbildning",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Per Brahe",
+      "alternateNames": [],
+      "birthYear": 1602,
+      "deathYear": 1680,
+      "roles": [
+        "greve",
+        "riksdrots",
+        "generalguvernör i Finland"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby trivialskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "En av de trivialskolor som enligt sidan inrättades under Per Brahes tid."
+    }
+  ],
+  "events": [
+    {
+      "title": "Leder Finland som generalguvernör",
+      "date": {
+        "year": 1637,
+        "circa": false,
+        "text": "1637–1641"
+      },
+      "people": [
+        "Per Brahe"
+      ],
+      "places": []
+    },
+    {
+      "title": "Åbo akademi grundas",
+      "date": {
+        "year": 1640,
+        "circa": false
+      },
+      "people": [
+        "Per Brahe"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e8e3763ce42908a2adbb455c254d2aa945bdf25169a1c0cb97855a679af9c930",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

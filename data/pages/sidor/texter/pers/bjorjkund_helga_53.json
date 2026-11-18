@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorjkund_helga_53.html",
+  "title": "Helga Björklund – 60 år 1953",
+  "summary": "Lärarinnan Helga Björklund vid Forsby folkskola hyllades 1953 på sin sextioårsdag. Hon hade tidigare undervisat i Soklot och var aktiv i Frälsningsarmén.",
+  "topics": [
+    "skola",
+    "lärare",
+    "Forsby"
+  ],
+  "people": [
+    {
+      "name": "Helga Björklund",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna",
+        "folkskollärare"
+      ],
+      "description": "Dimitterad från seminariet i Vasa 1921. Verksam i Frälsningsarmén och söndagsskolan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsby folkskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skola där Helga Björklund var lärarinna i ungefär 20 år."
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Lägre skolan i Soklot, där Helga Björklund tjänstgjorde i 15 år."
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitteras från seminariet i Vasa och får anställning i Soklot",
+      "date": {
+        "year": 1921,
+        "circa": false
+      },
+      "people": [
+        "Helga Björklund"
+      ],
+      "places": [
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Hyllas på sin 60-årsdag",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [
+        "Helga Björklund"
+      ],
+      "places": [
+        "Forsby folkskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "313136d3369c5bf4125724cd7fd4f48f0f41769d9aa9bda1ecf96fb15f66c9ff",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

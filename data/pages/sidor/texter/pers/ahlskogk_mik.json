@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ahlskogk_mik.html",
+  "title": "Karl Ahlskog – byggmästare i Karlebynejden",
+  "summary": "Byggmästaren och arkitekten Karl Johan Ahlskog, som ritade många byggnader i Jakobstad och Helsingfors och flyttade till Nykarleby 1945. Sidan är ett utdrag ur Märkesmän och -kvinnor i Karlebynejden.",
+  "topics": [
+    "arkitektur",
+    "byggnadshistoria",
+    "märkesmän"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Ahlskog",
+      "alternateNames": [
+        "K. J. Ahlskog",
+        "Karl-Johan Ahlskog"
+      ],
+      "birthYear": 1883,
+      "deathYear": 1955,
+      "roles": [
+        "byggmästare",
+        "arkitekt",
+        "entreprenör"
+      ],
+      "description": "Född i Nedervetil. Gift med Maria Sofia Stenström."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Födelseort för Karl Johan Ahlskog."
+    }
+  ],
+  "events": [
+    {
+      "title": "Flyttar till Nykarleby",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "people": [
+        "Karl Johan Ahlskog"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2db3304bf199629451eb16a808e936507139d4d9acf948c3324d64346c32bdc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

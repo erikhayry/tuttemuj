@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/andersson_axel.html",
+  "title": "Axel Andersson i Colorado",
+  "summary": "Bildserie och familjeuppgifter om Axel Andersson från Kovjoki, som arbetade i Colorado och sedan innehade hemmanet Högbacka. Bilderna kommer från dottern Elnas kvarlåtenskap.",
+  "topics": [
+    "emigration",
+    "gruvarbete",
+    "familjehistoria"
+  ],
+  "people": [
+    {
+      "name": "Axel Edvard Andersson",
+      "alternateNames": [],
+      "birthYear": 1882,
+      "deathYear": 1952,
+      "roles": [
+        "hemmansägare"
+      ],
+      "description": "Född i Kovjoki. Innehade Högbacka hemman från 1931 till sin död."
+    },
+    {
+      "name": "Johanna Heinul",
+      "alternateNames": [
+        "Johanna Johansdotter Heinul"
+      ],
+      "birthYear": 1888,
+      "deathYear": 1957,
+      "roles": [],
+      "description": "Född i Wörå. Gift med Axel Edvard Andersson 1913."
+    },
+    {
+      "name": "Elna Andersson",
+      "alternateNames": [],
+      "birthYear": 1915,
+      "deathYear": 2013,
+      "roles": [],
+      "description": "Dotter till Axel och Johanna Andersson. Hennes kvarlåtenskap är källan till bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Axel Edvard Anderssons födelseort.",
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemmanet som Axel Andersson innehade från 1931 till sin död."
+    }
+  ],
+  "events": [
+    {
+      "title": "Gifter sig i Colorado",
+      "date": {
+        "year": 1913,
+        "month": 8,
+        "day": 15,
+        "circa": false,
+        "text": "15 augusti 1913"
+      },
+      "people": [
+        "Axel Edvard Andersson",
+        "Johanna Heinul"
+      ],
+      "places": []
+    },
+    {
+      "title": "Övertar hemmanet Högbacka del A1",
+      "date": {
+        "year": 1931,
+        "circa": false
+      },
+      "people": [
+        "Axel Edvard Andersson"
+      ],
+      "places": [
+        "Högbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "385a8566bd6a1388233a98417a55a3f3e6e7177dfad9a938da65cb7bede3b7f0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

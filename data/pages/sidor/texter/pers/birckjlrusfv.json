@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/birckjlrusfv.htm",
+  "title": "Minnesruna över J. L. Birck 1971",
+  "summary": "Minnesruna över skolmannen J. L. Birck, född i Nykarleby 1886 och föreståndare för en folkskola i Jakobstad. Han var far till historikern Erik Birck.",
+  "topics": [
+    "skolväsen",
+    "minnesruna",
+    "Jakobstad"
+  ],
+  "people": [
+    {
+      "name": "Johan Ludvig Birck",
+      "alternateNames": [
+        "J. L. Birck",
+        "Ludvig Birck"
+      ],
+      "birthYear": 1886,
+      "deathYear": 1971,
+      "roles": [
+        "folkskolföreståndare",
+        "skolråd",
+        "publicist"
+      ],
+      "description": "Far till Erik Birck."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimitterad från Nykarleby seminarium",
+      "date": {
+        "year": 1909,
+        "circa": false
+      },
+      "people": [
+        "Johan Ludvig Birck"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Får skolrådstiteln",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [
+        "Johan Ludvig Birck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avlider i Jakobstad",
+      "date": {
+        "year": 1971,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "1 maj 1971"
+      },
+      "people": [
+        "Johan Ludvig Birck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "086499bc62758dcf0126ecb7dee6ff56358e449c191fc6b995bd50619a6c818d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

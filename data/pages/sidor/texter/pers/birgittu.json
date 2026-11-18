@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/birgittu.htm",
+  "title": "Heliga Birgitta 1303–1373",
+  "summary": "Svenska helgonet Birgitta, stiftare av Birgittinorden, vars kult kom till Finland. Sidan kopplar också henne till Leppå by, Nykarlebys föregångare. Utdrag ur Uppslagsverket Finland.",
+  "topics": [
+    "helgon",
+    "medeltid",
+    "religion",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Birgitta",
+      "alternateNames": [
+        "Heliga Birgitta"
+      ],
+      "birthYear": 1303,
+      "deathYear": 1373,
+      "roles": [
+        "helgon",
+        "stiftare av Birgittinorden"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Leppå",
+      "kind": "village",
+      "alternateNames": [
+        "Leppå by"
+      ],
+      "description": "Nykarlebys föregångare. Ett av Birgittas mirakel hörde till byn."
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Har en Birgitta-bild helgad åt Birgitta.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Vistas i Rom",
+      "date": {
+        "year": 1349,
+        "circa": false
+      },
+      "people": [
+        "Birgitta"
+      ],
+      "places": []
+    },
+    {
+      "title": "Dör i Rom",
+      "date": {
+        "year": 1373,
+        "month": 7,
+        "day": 23,
+        "circa": false,
+        "text": "23/7 1373"
+      },
+      "people": [
+        "Birgitta"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0b49a134a58f4e8ec210cffc23cc35937866360fd3c5a3467c392c8378e8b27a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

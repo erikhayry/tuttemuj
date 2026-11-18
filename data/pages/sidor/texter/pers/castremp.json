@@ -1,0 +1,157 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/castremp.htm",
+  "title": "Maria Castrén – första kvinnliga organisten",
+  "summary": "Porträtt av Maria Castrén, som blev Finlands första kvinnliga ordinarie organist i en lutherska kyrka och var lektor i sång och musik vid Nykarleby seminarium. Texten är skriven av Carita Björkstrand.",
+  "topics": [
+    "musik",
+    "kyrkomusik",
+    "kvinnohistoria",
+    "seminarium"
+  ],
+  "people": [
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "birthYear": 1871,
+      "deathYear": 1969,
+      "roles": [
+        "organist",
+        "lektor i sång och musik",
+        "lärare i spelning",
+        "director musices"
+      ],
+      "description": "Första kvinnliga ordinarie organisten i Finlands evangelisk-lutherska kyrka. Enda kvinnan i Nykarleby stadsfullmäktige under 27 år."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Solbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Maria Castréns gård i Nykarleby."
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Hon seglade ofta till Andra sjön.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gatunamnet kommer från ett badhus i närheten.",
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäs",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Där hon ibland fick paddla iland när det var stiltje."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kallas som organist till Nykarleby",
+      "date": {
+        "year": 1899,
+        "circa": false
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Får dispens från Kejserliga senaten att söka organisttjänsten",
+      "date": {
+        "year": 1902,
+        "month": 1,
+        "day": 20,
+        "circa": false,
+        "text": "20 januari 1902"
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lektor i sång och musik vid Nykarleby seminarium",
+      "date": {
+        "year": 1933,
+        "circa": false
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Avlider i Nykarleby",
+      "date": {
+        "year": 1969,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "text": "24 februari 1969"
+      },
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "År 1899 kallas Maria Castrén som organist till Nykarleby kyrka, men kyrkolagen tillåter bara män att söka ordinarie tjänst. Hon ansöker om dispens från Kejserliga senaten, får den i januari 1902 och vinner tjänsten över en manlig konkurrent.",
+    "reason": "En konflikt mot regler och konkurrent med en tydlig seger, och ett personligt porträtt med många konkreta detaljer.",
+    "characters": [
+      "Maria Castrén"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "contentHash": "75b65cb5093f972629c0f6ecbb66a0644d5b1fa5762bdf02236103a9679a9bec",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}

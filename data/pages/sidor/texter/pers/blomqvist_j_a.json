@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/blomqvist_j_a.html",
+  "title": "I väntans tider – sommaren 1946",
+  "summary": "En familjebild från juni 1946, då Jan-Anders Blomqvist sitter på trappan till posten i Nykarleby. Sidan berättar också om familjens sommar i staden.",
+  "topics": [
+    "sommar",
+    "fotografi",
+    "1940-tal"
+  ],
+  "people": [
+    {
+      "name": "Jan-Anders Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferad på trappan till posten i juni 1946."
+    },
+    {
+      "name": "Gerda Mattson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Posten",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Posten och telegrafen, vars trappa Jan-Anders sitter på."
+    },
+    {
+      "name": "Nybo",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Dit tog familjen taxi från stationen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen anländer till Nykarleby för sommaren",
+      "date": {
+        "year": 1946,
+        "month": 6,
+        "circa": false,
+        "text": "tidig juni 1946"
+      },
+      "people": [
+        "Jan-Anders Blomqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dc3867955f7aca9cb4fa52d916efc73a4d52ea7a33d88e707b06739fdbdf450f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-18T19:04:21.451Z"
+}
