@@ -11,6 +11,7 @@
     "gazetteer:build": "tsx src/cli/gazetteer-build.ts",
     "dates:backfill": "tsx src/cli/dates-backfill.ts",
     "entities:build": "tsx src/cli/entities-build.ts",
+    "page-groups:build": "tsx src/cli/page-groups-build.ts",
     "places:geocode": "tsx src/cli/places-geocode.ts",
     "places:unlocated": "tsx src/cli/places-unlocated.ts",
     "places:unmatched": "tsx src/cli/places-unmatched.ts",
