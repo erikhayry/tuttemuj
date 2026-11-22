@@ -13,7 +13,15 @@
       "name": "nykarleby seminarium",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huvudbyggnaden på teckningen."
+      "description": "Huvudbyggnaden på teckningen.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

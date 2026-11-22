@@ -29,7 +29,15 @@
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Clément målade här, bland annat under militärförläggningsperioden 1941."
+      "description": "Clément målade här, bland annat under militärförläggningsperioden 1941.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadshotellet i Nykarleby",

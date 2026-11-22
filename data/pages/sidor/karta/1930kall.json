@@ -80,7 +80,15 @@
     {
       "name": "Grev Tottgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Borgaregatan",

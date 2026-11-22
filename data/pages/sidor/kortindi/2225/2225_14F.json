@@ -21,7 +21,15 @@
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Övertog Älvbranten efter det misslyckade bostadsprojektet."
+      "description": "Övertog Älvbranten efter det misslyckade bostadsprojektet.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Brunnsholmen",

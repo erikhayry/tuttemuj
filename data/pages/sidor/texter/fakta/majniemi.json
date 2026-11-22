@@ -24,7 +24,15 @@
       "name": "majniemi",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Motivet för akvarellen."
+      "description": "Motivet för akvarellen.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

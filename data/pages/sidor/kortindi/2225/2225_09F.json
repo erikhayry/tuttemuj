@@ -16,7 +16,15 @@
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Bron vars balkar och lock byttes ut 2019."
+      "description": "Bron vars balkar och lock byttes ut 2019.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Borgaregatan",

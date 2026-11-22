@@ -84,7 +84,15 @@
       "name": "Södra Tullhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Doktor Topelius hyrde det innan han flyttade till Kuddnäs."
+      "description": "Doktor Topelius hyrde det innan han flyttade till Kuddnäs.",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kryddgården",

@@ -32,7 +32,15 @@
       "name": "Brunnsholmarna",
       "kind": "island",
       "alternateNames": [],
-      "description": "Fotograferade från nordost."
+      "description": "Fotograferade från nordost.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

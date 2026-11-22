@@ -26,7 +26,15 @@
         "Jutas",
         "Juuttaa"
       ],
-      "description": "Platsen för slaget 1808, med ett minnesmonument och inskriptioner på stenar i närheten."
+      "description": "Platsen för slaget 1808, med ett minnesmonument och inskriptioner på stenar i närheten.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

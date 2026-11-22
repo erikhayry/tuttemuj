@@ -828,7 +828,15 @@
       "name": "Nykarleby",
       "kind": "other",
       "alternateNames": [],
-      "description": "Stadens centrum dominerades 1750 av handels- och rådmännens stora gårdar."
+      "description": "Stadens centrum dominerades 1750 av handels- och rådmännens stora gårdar.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

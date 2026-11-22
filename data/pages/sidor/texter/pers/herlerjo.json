@@ -88,12 +88,28 @@
       "kind": "building",
       "alternateNames": [
         "Herlers museum"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Josef Herlers bokhandel",
@@ -120,7 +136,15 @@
       "kind": "landmark",
       "alternateNames": [
         "Brostugan"
-      ]
+      ],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Herlerska gården",
@@ -137,7 +161,15 @@
       "name": "Stadskvarnen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ett av motiven i Herlers målningar."
+      "description": "Ett av motiven i Herlers målningar.",
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kuddnäs",
@@ -178,7 +210,15 @@
       "kind": "district",
       "alternateNames": [
         "Nkby"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

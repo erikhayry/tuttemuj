@@ -31,13 +31,29 @@
       "name": "Döbelns gård",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gård i nederkant av bilden."
+      "description": "Gård i nederkant av bilden.",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Rådhus med kringbyggd gårdsplan."
+      "description": "Rådhus med kringbyggd gårdsplan.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Sankta Birgitta kyrka",
@@ -57,7 +73,15 @@
       "name": "Klockstapeln",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Syns i bilden vid kyrkan."
+      "description": "Syns i bilden vid kyrkan.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadsbrunnen",
@@ -85,7 +109,15 @@
       "name": "Apoteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gård på Kyrkogatans östra sida. Brann 4 december 1995."
+      "description": "Gård på Kyrkogatans östra sida. Brann 4 december 1995.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Henriksnäs",

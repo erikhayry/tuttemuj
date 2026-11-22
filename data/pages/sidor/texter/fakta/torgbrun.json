@@ -27,7 +27,15 @@
       "name": "torget",
       "kind": "other",
       "alternateNames": [],
-      "description": "Brunnen låg vid hörnet."
+      "description": "Brunnen låg vid hörnet.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

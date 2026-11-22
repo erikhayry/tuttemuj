@@ -79,7 +79,15 @@
     {
       "name": "Grev Tottgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Gustav Adolfsgatan",
@@ -180,7 +188,15 @@
     {
       "name": "Vattentornet",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

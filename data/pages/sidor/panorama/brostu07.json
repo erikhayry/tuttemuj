@@ -15,13 +15,29 @@
       "name": "brostuguberget",
       "kind": "other",
       "alternateNames": [],
-      "description": "Fotografiet är taget här."
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid brostugan hälsas våren välkommen."
+      "description": "Vid brostugan hälsas våren välkommen.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "kärleksstigen",
@@ -33,7 +49,15 @@
       "name": "vattentornet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns i bilden."
+      "description": "Syns i bilden.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

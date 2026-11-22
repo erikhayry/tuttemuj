@@ -14,12 +14,28 @@
       "name": "Majniemi",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Topelius sommarställe på Alörn."
+      "description": "Topelius sommarställe på Alörn.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthas slagfält",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "juthas slagfält",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

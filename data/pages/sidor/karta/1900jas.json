@@ -22,12 +22,28 @@
       "kind": "other",
       "alternateNames": [
         "N. Karleby"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Jutas",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

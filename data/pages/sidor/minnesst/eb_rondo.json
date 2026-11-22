@@ -35,7 +35,15 @@
       "name": "topeliusparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Tänkt plats för minnesmärket Rondo."
+      "description": "Tänkt plats för minnesmärket Rondo.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

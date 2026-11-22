@@ -13,7 +13,15 @@
       "name": "Kraftverket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Kraftverksbyggnaden på kortet."
+      "description": "Kraftverksbyggnaden på kortet.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

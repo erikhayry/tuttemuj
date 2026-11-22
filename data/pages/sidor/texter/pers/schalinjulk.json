@@ -45,7 +45,15 @@
       "name": "Djupsten",
       "kind": "other",
       "alternateNames": [],
-      "description": "Familjens sommarställe."
+      "description": "Familjens sommarställe.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

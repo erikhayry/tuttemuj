@@ -64,7 +64,15 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Kyrkogatan 7–11",
-      "description": "Tomt nr 62 vid korsningen med Borgaregatan."
+      "description": "Tomt nr 62 vid korsningen med Borgaregatan.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "apoteket vid torget",

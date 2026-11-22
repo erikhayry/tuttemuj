@@ -61,7 +61,15 @@
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huvudbyggnad och uthus syns i bilden, med kosthållsbyggnaden längst bort."
+      "description": "Huvudbyggnad och uthus syns i bilden, med kosthållsbyggnaden längst bort.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Övergaards uthus",

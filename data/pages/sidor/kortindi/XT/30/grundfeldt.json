@@ -30,7 +30,15 @@
       "alternateNames": [
         "Grundfeldtska gården"
       ],
-      "description": "Motivet på vykortet från Nykarleby."
+      "description": "Motivet på vykortet från Nykarleby.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "knapebysten",

@@ -16,7 +16,15 @@
       "kind": "landmark",
       "alternateNames": [
         "Topelius Park"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Källbacken",
@@ -53,7 +61,15 @@
       "kind": "street",
       "alternateNames": [
         "Gref Tottgatan"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Källbackgatan",

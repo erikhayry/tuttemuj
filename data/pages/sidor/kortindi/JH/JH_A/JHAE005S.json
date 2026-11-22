@@ -24,7 +24,15 @@
       "name": "Esplanaden",
       "kind": "street",
       "alternateNames": [],
-      "description": "Gatan på kortet."
+      "description": "Gatan på kortet.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Levhemsbackan",
@@ -38,7 +46,15 @@
       "name": "Topeliusparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Syns till höger på kortet."
+      "description": "Syns till höger på kortet.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Synnerbergska huset",

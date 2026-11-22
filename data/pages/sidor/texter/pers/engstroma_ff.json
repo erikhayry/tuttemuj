@@ -34,7 +34,15 @@
       "name": "Nykarleby",
       "kind": "village",
       "alternateNames": [],
-      "description": "Filmades som kuliss för TV-serien Småstadsberättelser."
+      "description": "Filmades som kuliss för TV-serien Småstadsberättelser.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

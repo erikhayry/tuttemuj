@@ -30,7 +30,15 @@
       "name": "Nykarleby museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Här finns ett porträtt av Viktor Malmberg målat av Werner Åström."
+      "description": "Här finns ett porträtt av Viktor Malmberg målat av Werner Åström.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

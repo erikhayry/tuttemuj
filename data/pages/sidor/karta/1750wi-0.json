@@ -108,18 +108,42 @@
       "name": "Döbelns gård",
       "kind": "building",
       "alternateNames": [],
-      "description": "Den södra tullstugan."
+      "description": "Den södra tullstugan.",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Museet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Den norra tullstugan."
+      "description": "Den norra tullstugan.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bron över älven",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybrobacken",
@@ -151,7 +175,15 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Wislander mätte även upp gårdarna kring torget."
+      "description": "Wislander mätte även upp gårdarna kring torget.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Tomt 10",

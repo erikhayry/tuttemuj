@@ -33,19 +33,43 @@
       "name": "storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Fotografiet är taget här."
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "stadskvarnen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns till vänster."
+      "description": "Syns till vänster.",
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "brunnsholmarna",
       "kind": "district",
       "alternateNames": [],
-      "description": "Syns till höger."
+      "description": "Syns till höger.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [

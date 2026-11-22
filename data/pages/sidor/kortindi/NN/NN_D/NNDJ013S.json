@@ -11,7 +11,15 @@
     {
       "name": "Monumentet vid Juthas",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "monumentet vid juthas",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -36,7 +36,15 @@
       "alternateNames": [
         "Döbelnmonumentet"
       ],
-      "description": "Vid slagfältet ca 3 km utanför staden."
+      "description": "Vid slagfältet ca 3 km utanför staden.",
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "döbelnmonumentet vid juthas",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

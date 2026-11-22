@@ -35,7 +35,15 @@
       "name": "fåfängan",
       "kind": "other",
       "alternateNames": [],
-      "description": "Isen togs upp nedanför."
+      "description": "Isen togs upp nedanför.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "mejeriet",
@@ -47,7 +55,15 @@
       "name": "kraftverksdammen",
       "kind": "other",
       "alternateNames": [],
-      "description": "Isen hämtades strax söder om den."
+      "description": "Isen hämtades strax söder om den.",
+      "geo": {
+        "lat": 63.5255386,
+        "lng": 22.5281527,
+        "match": "name",
+        "gazetteerName": "kraftverksdammen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

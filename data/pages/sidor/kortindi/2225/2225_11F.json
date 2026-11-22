@@ -15,7 +15,15 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Motiv för flygbilden."
+      "description": "Motiv för flygbilden.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Sarlinska gården",
@@ -27,7 +35,15 @@
       "name": "Grundfeldtska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gård vid Lybecksgatan."
+      "description": "Gård vid Lybecksgatan.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Östra Esplanadgatan",

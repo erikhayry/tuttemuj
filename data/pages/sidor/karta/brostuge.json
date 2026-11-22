@@ -23,13 +23,29 @@
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Brovaktarens bostad; i dag sommarkafé i stadens ägo, känt för sina väggmålningar."
+      "description": "Brovaktarens bostad; i dag sommarkafé i stadens ägo, känt för sina väggmålningar.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bron över älven",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Ny bro byggd 1817."
+      "description": "Ny bro byggd 1817.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -65,7 +65,15 @@
       "name": "nykarleby",
       "kind": "other",
       "alternateNames": [],
-      "description": "Slaget vid Nykarleby 24 juni 1808."
+      "description": "Slaget vid Nykarleby 24 juni 1808.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

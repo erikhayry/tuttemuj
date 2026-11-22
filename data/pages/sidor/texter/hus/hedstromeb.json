@@ -237,7 +237,15 @@
     {
       "name": "Torget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Sollefteågatan",
@@ -272,7 +280,15 @@
     {
       "name": "Brunnsholmarna",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Gamla hamnen",

@@ -12,12 +12,28 @@
     {
       "name": "Kraftverket",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybroviken",
       "kind": "waterbody",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Lybeckska gården",

@@ -41,12 +41,12 @@
       "kind": "building",
       "alternateNames": [],
       "geo": {
-        "lat": 63.527452,
-        "lng": 22.5269353,
+        "lat": 63.5275083,
+        "lng": 22.5269437,
         "match": "name",
-        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
         "gazetteerKind": "building",
-        "source": "nkby-2018"
+        "source": "manual"
       }
     },
     {
@@ -65,7 +65,15 @@
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

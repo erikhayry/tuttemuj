@@ -68,13 +68,29 @@
       "kind": "building",
       "alternateNames": [
         "Nykarleby folkskoleseminarium"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rummelbacken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Platsen för den triangelformade kojan som Reipsar tog initiativ till."
+      "description": "Platsen för den triangelformade kojan som Reipsar tog initiativ till.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadsbiblioteket",

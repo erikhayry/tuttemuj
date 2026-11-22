@@ -25,7 +25,15 @@
       "alternateNames": [
         "kraftverket"
       ],
-      "description": "Kraftverket i Nykarleby, med minnestavlan från 1926."
+      "description": "Kraftverket i Nykarleby, med minnestavlan från 1926.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

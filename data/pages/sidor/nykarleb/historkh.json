@@ -69,7 +69,15 @@
       "name": "seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Öppnades hösten 1873."
+      "description": "Öppnades hösten 1873.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

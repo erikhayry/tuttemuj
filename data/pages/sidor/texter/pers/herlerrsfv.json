@@ -70,7 +70,15 @@
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Herlers gård",
@@ -133,12 +141,28 @@
     {
       "name": "De gamlas hem",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

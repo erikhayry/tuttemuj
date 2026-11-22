@@ -29,7 +29,15 @@
       "alternateNames": [
         "Jutas"
       ],
-      "description": "Slaget vid Jutas 13 september 1808. Monument över Döbeln vid Juthas."
+      "description": "Slaget vid Jutas 13 september 1808. Monument över Döbeln vid Juthas.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

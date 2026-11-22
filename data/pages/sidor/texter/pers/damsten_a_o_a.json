@@ -35,7 +35,15 @@
       "name": "De gamlas hem",
       "kind": "building",
       "alternateNames": [],
-      "description": "Där Aline Damstén avled."
+      "description": "Där Aline Damstén avled.",
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -15,7 +15,15 @@
       "name": "Fåfängan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gässen simmade i ån nedanför huset."
+      "description": "Gässen simmade i ån nedanför huset.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

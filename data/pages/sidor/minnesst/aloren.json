@@ -40,7 +40,15 @@
       "alternateNames": [
         "Alörn"
       ],
-      "description": "Ö i Nykarlebys skärgård. Namnberget ligger på norra Alörn."
+      "description": "Ö i Nykarlebys skärgård. Namnberget ligger på norra Alörn.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "namnberget",

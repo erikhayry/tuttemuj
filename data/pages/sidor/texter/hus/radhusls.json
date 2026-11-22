@@ -26,7 +26,15 @@
       "kind": "building",
       "alternateNames": [
         "Rådhuset"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkogatan",

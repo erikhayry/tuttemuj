@@ -36,7 +36,15 @@
       "kind": "building",
       "alternateNames": [],
       "address": "tomten No 62 i 17 de quarteret",
-      "description": "Hörnbyggnaden vid apoteket."
+      "description": "Hörnbyggnaden vid apoteket.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

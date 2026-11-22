@@ -21,12 +21,28 @@
       "name": "Majniemi",
       "kind": "building",
       "alternateNames": [],
-      "description": "Zacharias Topelius sommarstuga på Alörn."
+      "description": "Zacharias Topelius sommarstuga på Alörn.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Alörn",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Kuddnäs",

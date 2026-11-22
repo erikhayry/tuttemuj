@@ -15,7 +15,15 @@
       "alternateNames": [
         "nykarleby vattentorn"
       ],
-      "description": "Vattentorn med en volym på 600 kubikmeter, uppfört 1963–1964. Höjd över havet: +69,00 m."
+      "description": "Vattentorn med en volym på 600 kubikmeter, uppfört 1963–1964. Höjd över havet: +69,00 m.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

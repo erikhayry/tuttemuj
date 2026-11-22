@@ -50,7 +50,15 @@
       "name": "Fåfängan",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Apotekets trädgård, mitt i kortet."
+      "description": "Apotekets trädgård, mitt i kortet.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

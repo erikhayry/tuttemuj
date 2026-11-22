@@ -104,7 +104,15 @@
       "name": "klockstapeln",
       "kind": "building",
       "alternateNames": [],
-      "description": "Från år 1702 med tre klockor."
+      "description": "Från år 1702 med tre klockor.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

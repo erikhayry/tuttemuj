@@ -13,7 +13,15 @@
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huvudbyggnaden och kosthållet syns på kortet."
+      "description": "Huvudbyggnaden och kosthållet syns på kortet.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

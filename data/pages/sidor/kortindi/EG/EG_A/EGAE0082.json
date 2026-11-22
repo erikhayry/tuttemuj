@@ -14,7 +14,15 @@
       "name": "Grundfeldtska huset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Revs i mars 1961."
+      "description": "Revs i mars 1961.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Aravahus",

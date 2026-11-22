@@ -44,7 +44,15 @@
     {
       "name": "Nykarleby",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

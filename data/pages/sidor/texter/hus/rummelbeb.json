@@ -140,7 +140,15 @@
       "alternateNames": [
         "Koppelbacken"
       ],
-      "description": "Stenbunden mark öster om staden med fattiga stugor utanför stadsplanen; allmän promenad i 1912 års plan."
+      "description": "Stenbunden mark öster om staden med fattiga stugor utanför stadsplanen; allmän promenad i 1912 års plan.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Storstein",

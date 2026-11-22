@@ -58,7 +58,15 @@
     {
       "name": "Nykarleby museum",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthbacka Teater",
@@ -68,7 +76,15 @@
     {
       "name": "De Gamlas Hem",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Vasa",
@@ -78,7 +94,15 @@
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

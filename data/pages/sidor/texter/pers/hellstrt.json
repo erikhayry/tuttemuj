@@ -67,7 +67,15 @@
         "Gamla Grundfeldtska gården"
       ],
       "address": "Topeliusesplanaden 20 vid korsningen med Lybecksgatan",
-      "description": "Ägdes av magister Torkel Hellström."
+      "description": "Ägdes av magister Torkel Hellström.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusesplanaden",
@@ -98,7 +106,15 @@
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

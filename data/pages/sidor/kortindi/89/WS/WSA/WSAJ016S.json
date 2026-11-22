@@ -17,7 +17,15 @@
         "Juutas slagfält",
         "Juthas slagfält"
       ],
-      "description": "Platsen där den ryska styrkan anföll från söder."
+      "description": "Platsen där den ryska styrkan anföll från söder.",
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "slagfältet vid juthas",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthas",
@@ -25,7 +33,15 @@
       "alternateNames": [
         "Juutas"
       ],
-      "description": "Byn där slagfältet ligger."
+      "description": "Byn där slagfältet ligger.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

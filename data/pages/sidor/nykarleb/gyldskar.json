@@ -14,7 +14,15 @@
       "name": "djupsten",
       "kind": "island",
       "alternateNames": [],
-      "description": "Holme i skärgården, som på kartan fortfarande är en holme."
+      "description": "Holme i skärgården, som på kartan fortfarande är en holme.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "älvmynningen",

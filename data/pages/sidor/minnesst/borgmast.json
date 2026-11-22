@@ -15,7 +15,15 @@
       "alternateNames": [
         "Nykarlebys rådhus"
       ],
-      "description": "Tavlan med borgmästarna hänger i rummet för släkt- och bygdeforskare."
+      "description": "Tavlan med borgmästarna hänger i rummet för släkt- och bygdeforskare.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

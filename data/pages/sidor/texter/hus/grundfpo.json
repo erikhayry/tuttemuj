@@ -54,7 +54,15 @@
       "alternateNames": [
         "Grundfältska gården"
       ],
-      "description": "Hörngården Västra Esplanadgatan–Lybecksgatan söder om Topeliusparken; ca 325 m² med 14 eldstäder och en stor sal; riven i mars 1961."
+      "description": "Hörngården Västra Esplanadgatan–Lybecksgatan söder om Topeliusparken; ca 325 m² med 14 eldstäder och en stor sal; riven i mars 1961.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Grundfeldtska gårdens norra port",
@@ -70,12 +78,28 @@
     {
       "name": "Nykarleby museum",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusparken",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybro Boulevarden",

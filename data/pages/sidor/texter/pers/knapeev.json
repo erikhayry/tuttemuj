@@ -64,7 +64,15 @@
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Gamlakarleby",
@@ -78,7 +86,15 @@
       "name": "Juthas",
       "kind": "village",
       "alternateNames": [],
-      "description": "Slaget vid Juthas firades med minnesfest 1908."
+      "description": "Slaget vid Juthas firades med minnesfest 1908.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Helsingfors",

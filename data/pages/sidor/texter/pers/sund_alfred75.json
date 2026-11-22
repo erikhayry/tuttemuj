@@ -88,7 +88,15 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Torgets sydvästra hörn, där R. R. Eklunds barndomshem låg."
+      "description": "Torgets sydvästra hörn, där R. R. Eklunds barndomshem låg.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Kisors affär",

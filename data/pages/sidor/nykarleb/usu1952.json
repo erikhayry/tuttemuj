@@ -28,7 +28,15 @@
       "name": "torget",
       "kind": "other",
       "alternateNames": [],
-      "description": "Bilden visar torget och kvarteren mot sydväst."
+      "description": "Bilden visar torget och kvarteren mot sydväst.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "hanséns café",

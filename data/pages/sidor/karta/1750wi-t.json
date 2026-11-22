@@ -830,7 +830,15 @@
       "name": "Nykarleby",
       "kind": "other",
       "alternateNames": [],
-      "description": "Staden uppmättes geometriskt med gator och gränder 1750."
+      "description": "Staden uppmättes geometriskt med gator och gränder 1750.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Skolmästargården",

@@ -33,7 +33,15 @@
       "name": "nybroviken",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Fotografiet är taget här."
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "nybroforsen",
@@ -59,7 +67,15 @@
       "name": "alörn",
       "kind": "island",
       "alternateNames": [],
-      "description": "Familjen Lybeck flyttade hit."
+      "description": "Familjen Lybeck flyttade hit.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [

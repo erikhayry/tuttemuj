@@ -51,7 +51,15 @@
       "name": "esplanaden",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Platsen där glassvagnen stod och där den runda kiosken senare stod. Sidan nämner inte staden."
+      "description": "Platsen där glassvagnen stod och där den runda kiosken senare stod. Sidan nämner inte staden.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

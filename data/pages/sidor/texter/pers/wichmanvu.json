@@ -52,13 +52,29 @@
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Gamla begravningsplatsen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Wichmanns gravsten finns på nya delen, nära Sandudds begravningskapell."
+      "description": "Wichmanns gravsten finns på nya delen, nära Sandudds begravningskapell.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Sandudds begravningskapell",
@@ -75,7 +91,15 @@
       "name": "Högbacka",
       "kind": "district",
       "alternateNames": [],
-      "description": "Wichmann hyrde den vita gården här efter landsförvisningen."
+      "description": "Wichmann hyrde den vita gården här efter landsförvisningen.",
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

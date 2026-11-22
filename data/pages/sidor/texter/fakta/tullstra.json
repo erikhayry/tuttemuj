@@ -27,13 +27,29 @@
       "name": "tullstranden",
       "kind": "other",
       "alternateNames": [],
-      "description": "Fotografiet är taget mot Tullstranden."
+      "description": "Fotografiet är taget mot Tullstranden.",
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Till höger på andra sidan älven."
+      "description": "Till höger på andra sidan älven.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "köttkontrollen",

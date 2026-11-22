@@ -25,13 +25,29 @@
       "name": "torget",
       "kind": "other",
       "alternateNames": [],
-      "description": "Platsen där Eklunds barndomshem låg."
+      "description": "Platsen där Eklunds barndomshem låg.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Där minnestavlan förvaras sedan barndomshemmet revs."
+      "description": "Där minnestavlan förvaras sedan barndomshemmet revs.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

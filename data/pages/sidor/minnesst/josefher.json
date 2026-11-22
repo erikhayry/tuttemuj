@@ -29,7 +29,15 @@
       "alternateNames": [
         "Nykarleby museum"
       ],
-      "description": "Museet som Josef Herler skapade. Bronsreliefen sitter på en klippa intill."
+      "description": "Museet som Josef Herler skapade. Bronsreliefen sitter på en klippa intill.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

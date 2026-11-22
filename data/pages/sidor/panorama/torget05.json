@@ -13,7 +13,15 @@
       "name": "torget",
       "kind": "other",
       "alternateNames": [],
-      "description": "Fotografiet är taget här."
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby wärdshus",

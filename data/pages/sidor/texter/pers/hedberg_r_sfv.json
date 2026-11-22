@@ -34,7 +34,15 @@
     {
       "name": "Kristliga folkhögskolan i Nykarleby",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5275083,
+        "lng": 22.5269437,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Himmelsbacken",

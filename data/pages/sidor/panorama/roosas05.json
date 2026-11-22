@@ -55,7 +55,15 @@
       "name": "grev tottgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Annexet mot gatan."
+      "description": "Annexet mot gatan.",
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "mathesiusgatan",

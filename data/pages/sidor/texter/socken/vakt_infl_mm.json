@@ -67,7 +67,15 @@
     {
       "name": "Djupsten",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkoby",
@@ -81,10 +89,10 @@
         "Socklot"
       ],
       "geo": {
-        "lat": 63.5702,
-        "lng": 22.5524,
+        "lat": 63.5756575,
+        "lng": 22.5491757,
         "match": "name",
-        "gazetteerName": "socklot",
+        "gazetteerName": "soklot",
         "gazetteerKind": "village",
         "source": "manual"
       }

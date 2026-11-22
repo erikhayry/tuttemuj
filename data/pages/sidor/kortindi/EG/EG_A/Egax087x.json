@@ -14,7 +14,15 @@
       "name": "Brunnsholmarna",
       "kind": "island",
       "alternateNames": [],
-      "description": "Motiv på ett av korten."
+      "description": "Motiv på ett av korten.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhusboulevarden",
@@ -26,7 +34,15 @@
       "name": "Grundfeldtska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns från norr på kortet vid Rådhusboulevarden."
+      "description": "Syns från norr på kortet vid Rådhusboulevarden.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kuddnäs",
@@ -46,7 +62,15 @@
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huvudbyggnaden och kosthållet syns på ett av korten."
+      "description": "Huvudbyggnaden och kosthållet syns på ett av korten.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Sankta Birgitta kyrka",
@@ -69,7 +93,15 @@
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Syns tillsammans med kyrkan från sydväst."
+      "description": "Syns tillsammans med kyrkan från sydväst.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

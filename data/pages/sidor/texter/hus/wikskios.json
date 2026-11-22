@@ -89,7 +89,15 @@
     {
       "name": "Djupsten",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusesplanaden",

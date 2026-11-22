@@ -41,19 +41,43 @@
       "name": "grev tottgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Korsningen med Topeliusesplanaden."
+      "description": "Korsningen med Topeliusesplanaden.",
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "topeliusparken",
       "kind": "other",
       "alternateNames": [],
-      "description": "Parken med stakettet, anlagd 1864."
+      "description": "Parken med stakettet, anlagd 1864.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "grundfeldtska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Längst till vänster i bilden."
+      "description": "Längst till vänster i bilden.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "lybeckska gården",

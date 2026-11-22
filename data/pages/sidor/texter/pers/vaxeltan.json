@@ -68,7 +68,15 @@
       "name": "Rummelbacken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Brunn där vatten hämtades."
+      "description": "Brunn där vatten hämtades.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Klarakvarteren",

@@ -13,18 +13,42 @@
     {
       "name": "Döbelnmonumentet vid Juthas",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "döbelnmonumentet vid juthas",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthas",
       "kind": "other",
       "alternateNames": [],
-      "description": "Ca 4 km söder om Nykarleby vid korsningen mellan gamla vägarna mot Vasa och Lappo."
+      "description": "Ca 4 km söder om Nykarleby vid korsningen mellan gamla vägarna mot Vasa och Lappo.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Slagfältet vid Juthas",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "slagfältet vid juthas",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

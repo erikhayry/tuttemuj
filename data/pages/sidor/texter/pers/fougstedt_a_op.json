@@ -31,12 +31,28 @@
       "name": "torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Här föll direktor Fougstedt ihop 1943."
+      "description": "Här föll direktor Fougstedt ihop 1943.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

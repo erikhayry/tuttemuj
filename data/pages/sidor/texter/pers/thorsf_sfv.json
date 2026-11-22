@@ -25,7 +25,15 @@
       "name": "Nykarleby seminarium",
       "kind": "building",
       "alternateNames": [],
-      "description": "Thors dimitterades därifrån 1899."
+      "description": "Thors dimitterades därifrån 1899.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

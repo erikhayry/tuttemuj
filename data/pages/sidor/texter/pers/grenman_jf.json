@@ -28,7 +28,15 @@
       "name": "rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Där Grenman var vaktmästare och där lantdagsvalet hölls."
+      "description": "Där Grenman var vaktmästare och där lantdagsvalet hölls.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

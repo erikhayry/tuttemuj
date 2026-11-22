@@ -62,7 +62,15 @@
       "alternateNames": [
         "Nykarleby museum"
       ],
-      "description": "Huset där Hilda Olson föddes. Minnestavlan sitter på museets sydgavel."
+      "description": "Huset där Hilda Olson föddes. Minnestavlan sitter på museets sydgavel.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -20,7 +20,15 @@
       "name": "vattentornet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Fotografiet är taget härifrån."
+      "description": "Fotografiet är taget härifrån.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

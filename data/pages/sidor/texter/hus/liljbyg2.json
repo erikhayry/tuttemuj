@@ -141,7 +141,15 @@
     {
       "name": "Gamla begravningsplatsen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Forsbergs kiosk",
@@ -187,7 +195,15 @@
     {
       "name": "Ämbetshuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthbacka",

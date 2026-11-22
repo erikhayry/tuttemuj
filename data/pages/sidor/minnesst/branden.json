@@ -23,7 +23,15 @@
       "name": "floraparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Branden startade på en plats nära parken, där minnesplattan står."
+      "description": "Branden startade på en plats nära parken, där minnesplattan står.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

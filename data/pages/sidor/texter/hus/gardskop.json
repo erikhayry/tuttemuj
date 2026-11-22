@@ -127,7 +127,15 @@
       "name": "Grundfeldtska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "En av få gårdar vid esplanaden som inte såldes under perioden."
+      "description": "En av få gårdar vid esplanaden som inte såldes under perioden.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bankgatan 4",
@@ -304,7 +312,15 @@
     {
       "name": "Nystaden",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Gustav Adolfsgatan 13",

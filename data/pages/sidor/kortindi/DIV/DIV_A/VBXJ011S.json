@@ -14,7 +14,15 @@
       "name": "Juthas",
       "kind": "village",
       "alternateNames": [],
-      "description": "Minnesmärke från kriget."
+      "description": "Minnesmärke från kriget.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

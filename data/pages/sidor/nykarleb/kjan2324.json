@@ -13,7 +13,15 @@
       "name": "brunnsholmarna",
       "kind": "island",
       "alternateNames": [],
-      "description": "Namnet förekommer i annonsen från 1914."
+      "description": "Namnet förekommer i annonsen från 1914.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -27,7 +27,15 @@
       "name": "djupsten",
       "kind": "island",
       "alternateNames": [],
-      "description": "Holme där skeppshamnen och varvet låg."
+      "description": "Holme där skeppshamnen och varvet låg.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

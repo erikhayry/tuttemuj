@@ -14,13 +14,29 @@
       "name": "Topeliusparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Parken som syns på kortet. Björkskogen i norra änden."
+      "description": "Parken som syns på kortet. Björkskogen i norra änden.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Grundfeldtska huset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Fönstret i bakgrunden hör till huset."
+      "description": "Fönstret i bakgrunden hör till huset.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

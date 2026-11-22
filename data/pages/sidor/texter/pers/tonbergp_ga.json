@@ -49,7 +49,15 @@
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kristliga folkhögskolan",
@@ -59,18 +67,26 @@
       ],
       "description": "Låg bredvid seminariet, åtskilt av en granhäck.",
       "geo": {
-        "lat": 63.527452,
-        "lng": 22.5269353,
+        "lat": 63.5275083,
+        "lng": 22.5269437,
         "match": "name",
-        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
         "gazetteerKind": "building",
-        "source": "nkby-2018"
+        "source": "manual"
       }
     },
     {
       "name": "Florahemmet",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "florahemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby stadsbibliotek",

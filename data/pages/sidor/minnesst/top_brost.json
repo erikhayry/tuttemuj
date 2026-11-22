@@ -27,13 +27,29 @@
       "alternateNames": [
         "brostugoberget"
       ],
-      "description": "Berget där skulpturen står, på en hylla vid bergets vänsterkant."
+      "description": "Berget där skulpturen står, på en hylla vid bergets vänsterkant.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "brostubacken",
       "kind": "street",
       "alternateNames": [],
-      "description": "Gatan under berget, där skulpturen ser ut över trafiken."
+      "description": "Gatan under berget, där skulpturen ser ut över trafiken.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostubacken",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     }
   ],
   "events": [

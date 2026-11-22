@@ -48,7 +48,15 @@
       "name": "gamla begravningsplatsen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Minnesmärke från 1995."
+      "description": "Minnesmärke från 1995.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "spöpålen",

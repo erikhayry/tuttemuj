@@ -32,13 +32,29 @@
       "name": "tullstranden",
       "kind": "other",
       "alternateNames": [],
-      "description": "Platsen för magasinet."
+      "description": "Platsen för magasinet.",
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Norra delen syns till höger."
+      "description": "Norra delen syns till höger.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

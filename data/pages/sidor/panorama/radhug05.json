@@ -27,7 +27,15 @@
       "name": "rådhusgården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Fotografiet är taget här."
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhusgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "kyrkogatan",

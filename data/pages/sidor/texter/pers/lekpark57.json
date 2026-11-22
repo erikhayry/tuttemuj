@@ -142,7 +142,15 @@
       "alternateNames": [
         "Rummelbackens lekpark"
       ],
-      "description": "Plats för Röda Korsets nya lekpark; även en terräng som länge varit uppskattad lekplats."
+      "description": "Plats för Röda Korsets nya lekpark; även en terräng som länge varit uppskattad lekplats.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Karleborg",
@@ -220,7 +228,15 @@
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

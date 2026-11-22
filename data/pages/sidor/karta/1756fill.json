@@ -106,13 +106,29 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Nykarleby stads torg, med landsvägen rakt över torget."
+      "description": "Nykarleby stads torg, med landsvägen rakt över torget.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Med rådhustrappa vid torget."
+      "description": "Med rådhustrappa vid torget.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Skampålen",

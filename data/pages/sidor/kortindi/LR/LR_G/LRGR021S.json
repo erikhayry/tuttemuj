@@ -13,7 +13,15 @@
     {
       "name": "Nybroviken",
       "kind": "waterbody",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybrobacken",

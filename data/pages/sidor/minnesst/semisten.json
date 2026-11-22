@@ -43,7 +43,15 @@
       "alternateNames": [
         "seminariet"
       ],
-      "description": "Seminariet som verkade i Nykarleby 1873–1971."
+      "description": "Seminariet som verkade i Nykarleby 1873–1971.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -26,13 +26,29 @@
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "De gamlas hem",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ålderdomshem där Eliel Backlund bodde sina sista år."
+      "description": "Ålderdomshem där Eliel Backlund bodde sina sista år.",
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Östervall",

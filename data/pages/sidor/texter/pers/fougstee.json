@@ -40,7 +40,15 @@
     {
       "name": "Nykarleby seminarium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Gustaf Adolfsgatan",
@@ -52,7 +60,15 @@
       "name": "De gamlas hem",
       "kind": "building",
       "alternateNames": [],
-      "description": "Föreningen i Nykarleby där Ester Fougstedt var kassör under lång tid. Hon bodde där sina sista år."
+      "description": "Föreningen i Nykarleby där Ester Fougstedt var kassör under lång tid. Hon bodde där sina sista år.",
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Lybeckska skaldehemmet",

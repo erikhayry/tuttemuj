@@ -40,7 +40,15 @@
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Har en väggmålning av Gustav II Adolf."
+      "description": "Har en väggmålning av Gustav II Adolf.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

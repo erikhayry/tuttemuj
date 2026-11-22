@@ -25,13 +25,29 @@
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huvudbyggnaden syns i en vinjett."
+      "description": "Huvudbyggnaden syns i en vinjett.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybroviken",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Viken som syns i en vinjett."
+      "description": "Viken som syns i en vinjett.",
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Samskolan",

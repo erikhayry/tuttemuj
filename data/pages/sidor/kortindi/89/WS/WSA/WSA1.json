@@ -25,7 +25,15 @@
       "alternateNames": [
         "Juutas"
       ],
-      "description": "Serien börjar med kort från Juthas."
+      "description": "Serien börjar med kort från Juthas.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

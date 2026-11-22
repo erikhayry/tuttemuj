@@ -55,7 +55,15 @@
         "topeliusparken i nykarleby",
         "topeliparken"
       ],
-      "description": "Parken där minnesstenen står, i dess norra ände."
+      "description": "Parken där minnesstenen står, i dess norra ände.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "synnerbergska gården",

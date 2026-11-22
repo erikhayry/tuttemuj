@@ -141,7 +141,15 @@
       "kind": "building",
       "alternateNames": [
         "Döbeln-huset"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Lövhyddan",

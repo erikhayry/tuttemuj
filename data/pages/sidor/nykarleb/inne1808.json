@@ -14,7 +14,15 @@
       "name": "jutas",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Slagfält med minnesmärke. Nämns i skildringarna av kriget."
+      "description": "Slagfält med minnesmärke. Nämns i skildringarna av kriget.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -137,22 +137,38 @@
     {
       "name": "Alörn",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Högbacka hemman",
       "kind": "farm",
       "alternateNames": [
         "Högbacka"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Socklot",
       "kind": "village",
       "alternateNames": [],
       "geo": {
-        "lat": 63.5702,
-        "lng": 22.5524,
+        "lat": 63.5756575,
+        "lng": 22.5491757,
         "match": "name",
         "gazetteerName": "socklot",
         "gazetteerKind": "village",

@@ -23,7 +23,15 @@
       "name": "gamla begravningsplatsen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Stadens gamla begravningsplats nära centrum. Minnesstenen står bredvid en gång här."
+      "description": "Stadens gamla begravningsplats nära centrum. Minnesstenen står bredvid en gång här.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -14,7 +14,15 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Bilden är tagen mot torget från korsningen Esplanaden–Sollefteågatan."
+      "description": "Bilden är tagen mot torget från korsningen Esplanaden–Sollefteågatan.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Sollefteågatan",

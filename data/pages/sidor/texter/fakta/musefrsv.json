@@ -45,7 +45,15 @@
       "name": "nykarleby museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Förr Norra tullhuset."
+      "description": "Förr Norra tullhuset.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "köttkontrollen",

@@ -172,12 +172,28 @@
     {
       "name": "Storbron",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadskvarnen",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Åminne lastageplats",
@@ -194,7 +210,15 @@
     {
       "name": "Seminariet",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kärrfors",
@@ -237,7 +261,15 @@
     {
       "name": "Nystaden",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadens badhus",
@@ -342,7 +374,15 @@
     {
       "name": "Apoteket",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "UNO-kiosken",
@@ -416,10 +456,10 @@
       "kind": "village",
       "alternateNames": [],
       "geo": {
-        "lat": 63.5702,
-        "lng": 22.5524,
+        "lat": 63.5756575,
+        "lng": 22.5491757,
         "match": "name",
-        "gazetteerName": "socklot",
+        "gazetteerName": "soklot",
         "gazetteerKind": "village",
         "source": "manual"
       }

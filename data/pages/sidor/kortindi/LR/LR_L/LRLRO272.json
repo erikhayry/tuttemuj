@@ -71,7 +71,15 @@
       "name": "Kraftverket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gamla kraftverket och den nya dammen."
+      "description": "Gamla kraftverket och den nya dammen.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nålören",
@@ -83,7 +91,15 @@
       "name": "Vattentornet",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Observationspost under andra världskriget."
+      "description": "Observationspost under andra världskriget.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

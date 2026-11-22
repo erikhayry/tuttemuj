@@ -46,7 +46,15 @@
       "alternateNames": [
         "Lybeckska gården"
       ],
-      "description": "Den före detta Lybeckska gården vid norra älvstranden. Minnestavlan sitter på väggen här."
+      "description": "Den före detta Lybeckska gården vid norra älvstranden. Minnestavlan sitter på väggen här.",
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "florahemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

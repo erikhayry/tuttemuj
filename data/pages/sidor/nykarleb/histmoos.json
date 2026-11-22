@@ -31,13 +31,29 @@
       "name": "torget",
       "kind": "district",
       "alternateNames": [],
-      "description": "Stadens torg."
+      "description": "Stadens torg.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ligger på torgets östra sida."
+      "description": "Ligger på torgets östra sida.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -58,7 +58,15 @@
         "nybro- eller allmänna promenaden",
         "parken"
       ],
-      "description": "Parken där bysten står. Kallades ”Parken” från 1914."
+      "description": "Parken där bysten står. Kallades ”Parken” från 1914.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

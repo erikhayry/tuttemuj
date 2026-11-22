@@ -27,7 +27,15 @@
       "name": "rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Rådhuset där uret fanns före stadsbranden 1858. Lodet stod på gårdsplanen till 2003."
+      "description": "Rådhuset där uret fanns före stadsbranden 1858. Lodet stod på gårdsplanen till 2003.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "andrasjön",
@@ -49,7 +57,15 @@
       "name": "floraparken",
       "kind": "other",
       "alternateNames": [],
-      "description": "Platsen där branden 1858 började, enligt Lars Pensar föreslagen plats för lodet."
+      "description": "Platsen där branden 1858 började, enligt Lars Pensar föreslagen plats för lodet.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

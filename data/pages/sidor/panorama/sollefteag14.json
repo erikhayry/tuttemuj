@@ -38,7 +38,15 @@
       "name": "torget",
       "kind": "other",
       "alternateNames": [],
-      "description": "Mot torget."
+      "description": "Mot torget.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "normen",

@@ -38,7 +38,15 @@
       "name": "Rummelbacken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Smedjan ligger här."
+      "description": "Smedjan ligger här.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Sollefteågatan",

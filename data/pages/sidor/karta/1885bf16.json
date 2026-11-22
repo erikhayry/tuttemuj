@@ -60,7 +60,15 @@
         "Skol- och Rådhusbyggnad"
       ],
       "address": "gården N:o 16 i åttonde qvarteret och första stadsdelen, vid Södra torggatan",
-      "description": "Försäkrad redan 1844. Husen klarade sig i stadsbranden 1858; mellandelen mellan husen tillkom 1891."
+      "description": "Försäkrad redan 1844. Husen klarade sig i stadsbranden 1858; mellandelen mellan husen tillkom 1891.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Södra Torggatan",
@@ -90,7 +98,15 @@
       "name": "Klockstapeln",
       "kind": "building",
       "alternateNames": [],
-      "description": "Av stock, på kyrkoplan."
+      "description": "Av stock, på kyrkoplan.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

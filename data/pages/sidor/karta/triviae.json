@@ -23,7 +23,15 @@
         "Rådhuset",
         "F.d. Rådhuset"
       ],
-      "description": "Det före detta rådhuset."
+      "description": "Det före detta rådhuset.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

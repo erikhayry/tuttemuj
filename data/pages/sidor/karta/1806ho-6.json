@@ -42,7 +42,15 @@
         "Begrafnings plats",
         "Gravgården"
       ],
-      "description": "Ca 52x72 m, öster om nuvarande torget där bl.a. restaurang v. Döbeln och poliskammaren (Ämbetshuset) senare låg."
+      "description": "Ca 52x72 m, öster om nuvarande torget där bl.a. restaurang v. Döbeln och poliskammaren (Ämbetshuset) senare låg.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Restaurang von Döbeln",
@@ -56,7 +64,15 @@
       "kind": "building",
       "alternateNames": [
         "poliskammaren"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Repslagarbanan",

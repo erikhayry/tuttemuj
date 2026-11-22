@@ -128,7 +128,15 @@
       "name": "Torget före branden",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Låg ungefär vid korsningen Kyrkogatan–Borgaregatan."
+      "description": "Låg ungefär vid korsningen Kyrkogatan–Borgaregatan.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget före branden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

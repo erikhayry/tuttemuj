@@ -20,7 +20,15 @@
       "name": "apoteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Nykarleby apotek."
+      "description": "Nykarleby apotek.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

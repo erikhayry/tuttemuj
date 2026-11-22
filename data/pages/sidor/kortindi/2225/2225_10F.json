@@ -51,19 +51,43 @@
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns i bildens övre del."
+      "description": "Syns i bildens övre del.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kraftverket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns i bildens övre del."
+      "description": "Syns i bildens övre del.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Apoteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Apotekets uthus revs och apoteket brann 1995."
+      "description": "Apotekets uthus revs och apoteket brann 1995.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströms uthus",
@@ -75,7 +99,15 @@
       "name": "Klockstapeln",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Holmströms uthus låg bakom den."
+      "description": "Holmströms uthus låg bakom den.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

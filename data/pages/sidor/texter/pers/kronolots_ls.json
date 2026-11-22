@@ -211,8 +211,8 @@
       "kind": "village",
       "alternateNames": [],
       "geo": {
-        "lat": 63.5702,
-        "lng": 22.5524,
+        "lat": 63.5756575,
+        "lng": 22.5491757,
         "match": "name",
         "gazetteerName": "socklot",
         "gazetteerKind": "village",
@@ -246,7 +246,15 @@
       "name": "Alörn",
       "kind": "island",
       "alternateNames": [],
-      "description": "Där en flaggstång restes på norra udden under Krimkriget."
+      "description": "Där en flaggstång restes på norra udden under Krimkriget.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Tufvans grund",
@@ -267,7 +275,15 @@
       "name": "Djupsten",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Ankarställe vid Nykarleby."
+      "description": "Ankarställe vid Nykarleby.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Tomt nr 82",
@@ -283,7 +299,15 @@
     {
       "name": "Nykarleby",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

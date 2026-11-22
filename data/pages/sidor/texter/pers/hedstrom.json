@@ -65,7 +65,15 @@
       "name": "Grev Tottgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Dagny och Einar Hedström ägde gården i hörnet av Mathesius- och Grev Tottgatan."
+      "description": "Dagny och Einar Hedström ägde gården i hörnet av Mathesius- och Grev Tottgatan.",
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     }
   ],
   "events": [

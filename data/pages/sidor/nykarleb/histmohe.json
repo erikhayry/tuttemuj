@@ -32,19 +32,43 @@
       "name": "torget",
       "kind": "district",
       "alternateNames": [],
-      "description": "Stadens torg. Husen runt torget visas på modellerna."
+      "description": "Stadens torg. Husen runt torget visas på modellerna.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Rådhuset på torget. Finns med i modellerna."
+      "description": "Rådhuset på torget. Finns med i modellerna.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "apoteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Apoteket vid torget."
+      "description": "Apoteket vid torget.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -13,7 +13,15 @@
       "name": "Grundfeldtska huset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huset som syns i förgrunden."
+      "description": "Huset som syns i förgrunden.",
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhusboulevarden",

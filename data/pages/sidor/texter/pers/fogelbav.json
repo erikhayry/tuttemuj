@@ -28,7 +28,15 @@
       "name": "Nykarleby seminarium",
       "kind": "building",
       "alternateNames": [],
-      "description": "Där Erik Fogel gick när han fick sitt namn ändrat."
+      "description": "Där Erik Fogel gick när han fick sitt namn ändrat.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

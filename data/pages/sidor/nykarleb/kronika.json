@@ -100,7 +100,15 @@
       "name": "brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Väggmålningarna där är nämnda 1941."
+      "description": "Väggmålningarna där är nämnda 1941.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "juthbacka",
@@ -120,13 +128,29 @@
       "name": "apoteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Apoteket brann 1995."
+      "description": "Apoteket brann 1995.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "majniemi",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Topelius köpte Majniemi 1846 och ägde det från 1855."
+      "description": "Topelius köpte Majniemi 1846 och ägde det från 1855.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "andrasjön",
@@ -146,7 +170,15 @@
       "name": "nykarleby seminarium",
       "kind": "building",
       "alternateNames": [],
-      "description": "Flyttades till Vasa 1971."
+      "description": "Flyttades till Vasa 1971.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -214,7 +214,15 @@
       "name": "Juthas",
       "kind": "other",
       "alternateNames": [],
-      "description": "Vägskälet där kustvägen och inlandsvägen möttes."
+      "description": "Vägskälet där kustvägen och inlandsvägen möttes.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Gula byggningen vid Kuddnäs",

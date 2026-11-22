@@ -57,7 +57,15 @@
       "alternateNames": [
         "Juthas"
       ],
-      "description": "Bautastenen här restes för omkring femtio år sedan."
+      "description": "Bautastenen här restes för omkring femtio år sedan.",
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "juthas slagfält",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

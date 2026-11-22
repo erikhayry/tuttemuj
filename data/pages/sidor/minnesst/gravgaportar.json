@@ -25,7 +25,15 @@
       "alternateNames": [
         "Gravgården"
       ],
-      "description": "Lång och smal begravningsplats med fem portar i stenmuren."
+      "description": "Lång och smal begravningsplats med fem portar i stenmuren.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "södra porten",

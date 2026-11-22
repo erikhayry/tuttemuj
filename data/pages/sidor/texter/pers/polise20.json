@@ -75,14 +75,30 @@
       "name": "Rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Rådhustrappan; skribenten tvivlar på att fotot är taget där."
+      "description": "Rådhustrappan; skribenten tvivlar på att fotot är taget där.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusparken",
       "kind": "landmark",
       "alternateNames": [
         "Topelii park"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

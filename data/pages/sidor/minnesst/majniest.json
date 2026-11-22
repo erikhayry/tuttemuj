@@ -49,7 +49,15 @@
       "alternateNames": [
         "Majniemi"
       ],
-      "description": "Sten med årtal och initialer på Alörn, hugget 1877."
+      "description": "Sten med årtal och initialer på Alörn, hugget 1877.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "alören",
@@ -57,7 +65,15 @@
       "alternateNames": [
         "Alörn"
       ],
-      "description": "Ö i Nykarlebys skärgård där stenen står."
+      "description": "Ö i Nykarlebys skärgård där stenen står.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [

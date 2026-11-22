@@ -27,7 +27,15 @@
       "name": "Juthas",
       "kind": "village",
       "alternateNames": [],
-      "description": "Monumentet vid Juthas syns på affischen."
+      "description": "Monumentet vid Juthas syns på affischen.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

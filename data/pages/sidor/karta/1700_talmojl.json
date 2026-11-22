@@ -62,7 +62,15 @@
       "alternateNames": [
         "Allianceholmen"
       ],
-      "description": "F.d. ö som via Bådan förenats med fastlandet."
+      "description": "F.d. ö som via Bådan förenats med fastlandet.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Lodön",
@@ -106,7 +114,15 @@
     {
       "name": "Lill Alörn",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Rödklubben",

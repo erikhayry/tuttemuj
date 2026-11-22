@@ -31,7 +31,15 @@
       "name": "nykarleby samskola",
       "kind": "building",
       "alternateNames": [],
-      "description": "Skolan som verkade 1920–1970 på platsen vid Borgaregatan. Grundades 1919 och började i rådhuset."
+      "description": "Skolan som verkade 1920–1970 på platsen vid Borgaregatan. Grundades 1919 och började i rådhuset.",
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "borgaregatan",

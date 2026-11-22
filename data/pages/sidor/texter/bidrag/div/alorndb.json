@@ -62,13 +62,29 @@
         "Stora Alören",
         "Lilla Alören"
       ],
-      "description": "Var förr två öar, Lilla och Stora Alören."
+      "description": "Var förr två öar, Lilla och Stora Alören.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Majniemi",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "På Lilla Alören, där Topelius bodde."
+      "description": "På Lilla Alören, där Topelius bodde.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Frihemmet",

@@ -30,13 +30,29 @@
       "name": "klockstapeln",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns i bilden."
+      "description": "Syns i bilden.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "stadskvarnen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid älvstranden i bilden."
+      "description": "Vid älvstranden i bilden.",
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

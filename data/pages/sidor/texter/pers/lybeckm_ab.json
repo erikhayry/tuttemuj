@@ -29,7 +29,15 @@
       "name": "Esplanaden",
       "kind": "street",
       "alternateNames": [],
-      "description": "Nämns i hans dikt om småstadens idyll, med korna på esplanaden."
+      "description": "Nämns i hans dikt om småstadens idyll, med korna på esplanaden.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

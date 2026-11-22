@@ -37,7 +37,15 @@
       "alternateNames": [
         "storbron"
       ],
-      "description": "Bron framför kyrkan som brändes under striden 1808. Ett minnesmärke vid klippan intill bron planerades."
+      "description": "Bron framför kyrkan som brändes under striden 1808. Ett minnesmärke vid klippan intill bron planerades.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

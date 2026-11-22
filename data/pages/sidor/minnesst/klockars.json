@@ -31,7 +31,15 @@
       "alternateNames": [
         "Nykarlebys rådhus"
       ],
-      "description": "Minnestavlan över Klockars sitter i rådhusets sessionssal sedan 1975."
+      "description": "Minnestavlan över Klockars sitter i rådhusets sessionssal sedan 1975.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

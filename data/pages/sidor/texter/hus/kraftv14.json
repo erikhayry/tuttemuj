@@ -150,7 +150,15 @@
       "name": "Kraftverket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vattenkraftverket i Stadsforsen; första kraftverket 1926, nytt 1984, ny turbin 2020."
+      "description": "Vattenkraftverket i Stadsforsen; första kraftverket 1926, nytt 1984, ny turbin 2020.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Ljusparken",
@@ -161,7 +169,15 @@
     {
       "name": "Kraftverksdammen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5255386,
+        "lng": 22.5281527,
+        "match": "name",
+        "gazetteerName": "kraftverksdammen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Kraftverksbron",
@@ -207,7 +223,15 @@
     {
       "name": "Topeliusparken",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Alörsfjärden",

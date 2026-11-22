@@ -23,19 +23,43 @@
       "name": "Rummelbacken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Smedjan ligger här."
+      "description": "Smedjan ligger här.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Esplanaden",
       "kind": "street",
       "alternateNames": [],
-      "description": "Husen mitt emot Topeliusparken."
+      "description": "Husen mitt emot Topeliusparken.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Mitt emot husen vid Esplanaden."
+      "description": "Mitt emot husen vid Esplanaden.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

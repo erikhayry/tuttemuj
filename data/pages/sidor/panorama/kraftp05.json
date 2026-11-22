@@ -43,7 +43,15 @@
       "name": "tullstranden",
       "kind": "other",
       "alternateNames": [],
-      "description": "Thulins garveri låg här."
+      "description": "Thulins garveri låg här.",
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "färgargrundet",

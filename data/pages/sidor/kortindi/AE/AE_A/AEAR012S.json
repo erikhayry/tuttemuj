@@ -62,7 +62,15 @@
       "alternateNames": [
         "Floraparken"
       ],
-      "description": "Apotekets trädgård. Öppnades för allmänheten och kallades senare Floraparken."
+      "description": "Apotekets trädgård. Öppnades för allmänheten och kallades senare Floraparken.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Florahemmet",
@@ -70,7 +78,15 @@
       "alternateNames": [
         "De gamlas hem"
       ],
-      "description": "Byggnaden används i dag som åldringshem."
+      "description": "Byggnaden används i dag som åldringshem.",
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "florahemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

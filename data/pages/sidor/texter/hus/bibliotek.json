@@ -146,7 +146,15 @@
       "name": "Ämbetshuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Stadsbiblioteket låg här 1981–2016."
+      "description": "Stadsbiblioteket låg här 1981–2016.",
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Haglunds bageri",

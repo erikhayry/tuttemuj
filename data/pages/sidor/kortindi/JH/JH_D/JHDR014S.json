@@ -23,13 +23,29 @@
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Fotografen stod här."
+      "description": "Fotografen stod här.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadskvarnen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns på östra stranden."
+      "description": "Syns på östra stranden.",
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bryggeriet",
@@ -53,7 +69,15 @@
       "name": "Brunnsholmarna",
       "kind": "island",
       "alternateNames": [],
-      "description": "Mitt i älven."
+      "description": "Mitt i älven.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [

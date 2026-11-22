@@ -61,7 +61,15 @@
       "name": "torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Nykarleby torg, där tre travare fotograferades."
+      "description": "Nykarleby torg, där tre travare fotograferades.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Hugos lindo",

@@ -63,14 +63,30 @@
       "name": "Klockstapeln",
       "kind": "building",
       "alternateNames": [],
-      "description": "Från 1702."
+      "description": "Från 1702.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Södra tullhuset",
       "kind": "building",
       "alternateNames": [
         "Döbelns hus"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Scholan",
@@ -90,7 +106,15 @@
       "alternateNames": [
         "Storbron"
       ],
-      "description": "Hade endast en kista med en utbyggnad."
+      "description": "Hade endast en kista med en utbyggnad.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Skolgatan",

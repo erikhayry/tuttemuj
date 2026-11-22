@@ -27,7 +27,15 @@
       "alternateNames": [
         "apoteket"
       ],
-      "description": "Malmbergs hemgård, där minnestavlan sattes upp 1952."
+      "description": "Malmbergs hemgård, där minnestavlan sattes upp 1952.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

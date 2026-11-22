@@ -42,7 +42,15 @@
       "alternateNames": [
         "Högbacka"
       ],
-      "description": "Holger Haglund var född och uppvuxen här."
+      "description": "Holger Haglund var född och uppvuxen här.",
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Sollefteågatan",

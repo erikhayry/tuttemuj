@@ -26,7 +26,15 @@
       "name": "Nykarleby seminarium",
       "kind": "building",
       "alternateNames": [],
-      "description": "Romanen Gunnel utmanar ödet utspelar sig här."
+      "description": "Romanen Gunnel utmanar ödet utspelar sig här.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

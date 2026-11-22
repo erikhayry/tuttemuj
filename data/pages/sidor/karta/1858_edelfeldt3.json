@@ -88,14 +88,30 @@
     {
       "name": "Brunnsholmarna",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [
         "Stortorg"
-      ]
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Vattenuppfordringsverket",
@@ -113,7 +129,15 @@
     {
       "name": "Rådhustomten",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhustomten",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Sockenstugan",
@@ -124,7 +148,15 @@
       "name": "Brostuguberget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Redan 1858 fanns planer på att spränga bort det."
+      "description": "Redan 1858 fanns planer på att spränga bort det.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Gamla kyrkan",
@@ -134,7 +166,15 @@
     {
       "name": "Klockstapeln",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

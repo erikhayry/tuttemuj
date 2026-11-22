@@ -14,7 +14,15 @@
       "alternateNames": [
         "Lärarseminariet"
       ],
-      "description": "Seminariets lokaler används nu av Nykarleby gymnasium och högstadiet."
+      "description": "Seminariets lokaler används nu av Nykarleby gymnasium och högstadiet.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

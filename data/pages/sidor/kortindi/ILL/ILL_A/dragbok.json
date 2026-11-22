@@ -14,19 +14,43 @@
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Motiv på ett av korten."
+      "description": "Motiv på ett av korten.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Motiv på ett av korten, tillsammans med kyrkan och centrum från sydväst."
+      "description": "Motiv på ett av korten, tillsammans med kyrkan och centrum från sydväst.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Motiv på ett av korten, med omkringliggande byggnader från nordväst."
+      "description": "Motiv på ett av korten, med omkringliggande byggnader från nordväst.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthbacka herrgård",

@@ -25,7 +25,15 @@
       "name": "Nykarleby",
       "kind": "village",
       "alternateNames": [],
-      "description": "R. R. Eklunds hemstad, vars miljö han skildrar i diktsamlingen Det unga ögat och romanen Liten drömmarpilt."
+      "description": "R. R. Eklunds hemstad, vars miljö han skildrar i diktsamlingen Det unga ögat och romanen Liten drömmarpilt.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

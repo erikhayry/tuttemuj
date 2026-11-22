@@ -82,7 +82,15 @@
       "name": "Döbelns hus",
       "kind": "building",
       "alternateNames": [],
-      "description": "Söder om kyrkan nära bron."
+      "description": "Söder om kyrkan nära bron.",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nystan",

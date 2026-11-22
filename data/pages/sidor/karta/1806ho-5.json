@@ -33,19 +33,43 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Ca 36x47 m (1692 m²); jämte Kyrkotorget stadens enda öppna plats. Täckte nästan helt den senare apotekstomten."
+      "description": "Ca 36x47 m (1692 m²); jämte Kyrkotorget stadens enda öppna plats. Täckte nästan helt den senare apotekstomten.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid torgets östra sida."
+      "description": "Vid torgets östra sida.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Apoteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Låg nedanför rådhuset."
+      "description": "Låg nedanför rådhuset.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Apotekstomten",

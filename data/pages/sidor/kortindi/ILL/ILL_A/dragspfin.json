@@ -14,13 +14,29 @@
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Vyn från Brostugan på bildbandet."
+      "description": "Vyn från Brostugan på bildbandet.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vyn på bildbandet är tagen från här."
+      "description": "Vyn på bildbandet är tagen från här.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

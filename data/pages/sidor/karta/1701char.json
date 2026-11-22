@@ -24,7 +24,15 @@
       "alternateNames": [
         "Ny Karby"
       ],
-      "description": "Kartan placerar Ny Karby mellan Wasa och Jacobstad."
+      "description": "Kartan placerar Ny Karby mellan Wasa och Jacobstad.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Östersjön",

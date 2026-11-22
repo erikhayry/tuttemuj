@@ -21,7 +21,15 @@
       "name": "nykarleby museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Stjärnan hänger över grinden."
+      "description": "Stjärnan hänger över grinden.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

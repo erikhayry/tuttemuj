@@ -124,13 +124,29 @@
       "name": "klockstapeln",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ny klockstapel byggdes 1702."
+      "description": "Ny klockstapel byggdes 1702.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Syns på det första fotot."
+      "description": "Syns på det första fotot.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

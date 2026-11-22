@@ -15,19 +15,43 @@
       "name": "Brunnsholmarna",
       "kind": "island",
       "alternateNames": [],
-      "description": "Holmarna på kortet, med landgång från roddbåten."
+      "description": "Holmarna på kortet, med landgång från roddbåten.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadskvarnen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Kvarnen vid kvarndammen."
+      "description": "Kvarnen vid kvarndammen.",
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Bron som syns på kortet."
+      "description": "Bron som syns på kortet.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

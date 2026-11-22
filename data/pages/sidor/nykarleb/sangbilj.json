@@ -15,7 +15,15 @@
       "name": "rummelbacken",
       "kind": "other",
       "alternateNames": [],
-      "description": "Plats för sångfester 1919 och 1928."
+      "description": "Plats för sångfester 1919 och 1928.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "kristliga folkhögskolan",
@@ -23,12 +31,12 @@
       "alternateNames": [],
       "description": "Plats för sångfester 1923 och senare.",
       "geo": {
-        "lat": 63.527452,
-        "lng": 22.5269353,
+        "lat": 63.5275083,
+        "lng": 22.5269437,
         "match": "name",
-        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
         "gazetteerKind": "building",
-        "source": "nkby-2018"
+        "source": "manual"
       }
     },
     {
@@ -51,8 +59,8 @@
       "alternateNames": [],
       "description": "Plats för sångfesten 1933.",
       "geo": {
-        "lat": 63.5702,
-        "lng": 22.5524,
+        "lat": 63.5756575,
+        "lng": 22.5491757,
         "match": "name",
         "gazetteerName": "socklot",
         "gazetteerKind": "village",

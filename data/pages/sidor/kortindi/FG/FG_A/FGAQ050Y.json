@@ -22,7 +22,15 @@
       "name": "Majniemi",
       "kind": "building",
       "alternateNames": [],
-      "description": "Topelius sommarvilla."
+      "description": "Topelius sommarvilla.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

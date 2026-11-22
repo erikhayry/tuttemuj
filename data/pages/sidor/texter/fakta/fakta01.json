@@ -75,25 +75,57 @@
       "name": "brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "brunnsholmarna",
       "kind": "district",
       "alternateNames": [],
-      "description": "Med hälsobrunnen."
+      "description": "Med hälsobrunnen.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "djupsten",
       "kind": "island",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "fåfängan",
       "kind": "other",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "gamla hamn",
@@ -105,7 +137,15 @@
       "name": "gravgården",
       "kind": "other",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "kuddnäs",
@@ -125,13 +165,29 @@
       "name": "nystaden",
       "kind": "district",
       "alternateNames": [],
-      "description": "Området väster om älven."
+      "description": "Området väster om älven.",
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "rummelbacken",
       "kind": "other",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "topeliusesplanaden",
@@ -151,13 +207,29 @@
       "name": "storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby seminarium",
       "kind": "building",
       "alternateNames": [],
-      "description": "Grundades 1873."
+      "description": "Grundades 1873.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "prästgården",

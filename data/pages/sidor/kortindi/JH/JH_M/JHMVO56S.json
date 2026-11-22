@@ -36,7 +36,15 @@
       "alternateNames": [
         "Det gamla tullhuset"
       ],
-      "description": "Kallas även det gamla tullhuset."
+      "description": "Kallas även det gamla tullhuset.",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

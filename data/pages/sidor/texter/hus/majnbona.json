@@ -52,7 +52,15 @@
       "name": "Majniemi",
       "kind": "building",
       "alternateNames": [],
-      "description": "Topelius sommarstuga, flyttad till Bonäs lötet 1877."
+      "description": "Topelius sommarstuga, flyttad till Bonäs lötet 1877.",
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Platsen för Majniemistugan i Bonäs",

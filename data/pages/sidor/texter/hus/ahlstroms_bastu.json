@@ -76,14 +76,30 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Gref Tottgatan",
-      "description": "Liten grå bastu utanför Roosas lindo nedanför backkrönet; ägd av familjerna Andell och Ahlström, riven troligen före 1972."
+      "description": "Liten grå bastu utanför Roosas lindo nedanför backkrönet; ägd av familjerna Andell och Ahlström, riven troligen före 1972.",
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "address",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Grev Tottgatan",
       "kind": "street",
       "alternateNames": [
         "Gref Tottgatan"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Roosas lindo",
@@ -121,7 +137,15 @@
     {
       "name": "Florahemmet",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "florahemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Svanströms mangelstuga",

@@ -23,13 +23,29 @@
       "name": "Nybroviken",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Viken som syns från Topelius vindsfönster."
+      "description": "Viken som syns från Topelius vindsfönster.",
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Tullstranden",
       "kind": "district",
       "alternateNames": [],
-      "description": "Stranden som syns på kortet."
+      "description": "Stranden som syns på kortet.",
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

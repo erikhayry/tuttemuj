@@ -109,19 +109,43 @@
       "name": "topeliusparken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Parken med Topeliusbysten."
+      "description": "Parken med Topeliusbysten.",
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "fåfängan",
       "kind": "district",
       "alternateNames": [],
-      "description": "Parken på älvstranden ovanför dammen, där Flora-statyn står."
+      "description": "Parken på älvstranden ovanför dammen, där Flora-statyn står.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "döbelns gård",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gården till höger om bron. Enligt traditionen låg von Döbeln sjuk här före slaget vid Jutas."
+      "description": "Gården till höger om bron. Enligt traditionen låg von Döbeln sjuk här före slaget vid Jutas.",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "kyrkan",
@@ -147,7 +171,15 @@
       "name": "jutas",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Slagfält med minnesmärke på älvens västra strand, 3,5 km söder om staden."
+      "description": "Slagfält med minnesmärke på älvens västra strand, 3,5 km söder om staden.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

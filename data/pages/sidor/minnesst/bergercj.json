@@ -25,7 +25,15 @@
       "alternateNames": [
         "Alörn"
       ],
-      "description": "Ö i Nykarlebys skärgård där ristningen finns."
+      "description": "Ö i Nykarlebys skärgård där ristningen finns.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

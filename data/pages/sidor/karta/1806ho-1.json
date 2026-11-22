@@ -62,7 +62,15 @@
       "alternateNames": [
         "Tullhus"
       ],
-      "description": "Nuvarande Nykarleby museum."
+      "description": "Nuvarande Nykarleby museum.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadsbäcken",
@@ -73,7 +81,15 @@
     {
       "name": "Grev Tottgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     }
   ],
   "events": [

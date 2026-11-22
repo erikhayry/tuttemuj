@@ -16,7 +16,15 @@
       "name": "Torget",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Stadens centrum, motiv för flygbilden."
+      "description": "Stadens centrum, motiv för flygbilden.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Normalskolan",

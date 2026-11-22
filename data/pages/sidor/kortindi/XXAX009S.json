@@ -29,7 +29,15 @@
       "name": "storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Bron som syns på kortet tillsammans med kyrkan."
+      "description": "Bron som syns på kortet tillsammans med kyrkan.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby kyrka",

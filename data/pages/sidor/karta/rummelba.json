@@ -12,7 +12,15 @@
       "name": "Rummelbacken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Park i östra delen av staden med stenblock från senaste istiden."
+      "description": "Park i östra delen av staden med stenblock från senaste istiden.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

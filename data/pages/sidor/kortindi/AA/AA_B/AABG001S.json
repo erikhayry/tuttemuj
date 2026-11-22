@@ -24,7 +24,15 @@
       "name": "Kraftverket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Kraftverksbyggnaden med stockrännan framför."
+      "description": "Kraftverksbyggnaden med stockrännan framför.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Tvättinrättningen",

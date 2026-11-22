@@ -28,7 +28,15 @@
       "name": "gamla begravningsplatsen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Platsen norr om ämbetshuset där stadens begravningsplats låg fram till mitten av 1800-talet."
+      "description": "Platsen norr om ämbetshuset där stadens begravningsplats låg fram till mitten av 1800-talet.",
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

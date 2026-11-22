@@ -64,7 +64,15 @@
       "name": "klockstapeln",
       "kind": "building",
       "alternateNames": [],
-      "description": "Från 1702."
+      "description": "Från 1702.",
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "sandqvistska gården",

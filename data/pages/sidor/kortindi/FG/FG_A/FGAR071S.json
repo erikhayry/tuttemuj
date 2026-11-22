@@ -15,13 +15,29 @@
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Byggnaden på kortet. En pumpanordning för lokomotivens vattentankar fanns till höger förr."
+      "description": "Byggnaden på kortet. En pumpanordning för lokomotivens vattentankar fanns till höger förr.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Storbron",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Bron som barnen klättrade under. Byggdes om och höjdes."
+      "description": "Bron som barnen klättrade under. Byggdes om och höjdes.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

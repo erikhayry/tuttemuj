@@ -32,7 +32,15 @@
       "name": "ämbetshuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Tavlan sitter på väggen mot sessionssalen."
+      "description": "Tavlan sitter på väggen mot sessionssalen.",
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

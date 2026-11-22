@@ -28,7 +28,15 @@
       "name": "rådhuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Centralen fanns här från början."
+      "description": "Centralen fanns här från början.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "smedsbacka",
@@ -40,7 +48,15 @@
       "name": "högbacka",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Ledningar drogs hit."
+      "description": "Ledningar drogs hit.",
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "andrasjön",
