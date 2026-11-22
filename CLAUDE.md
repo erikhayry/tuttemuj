@@ -26,6 +26,7 @@ The analysis runs manually in Claude Code with the `/extract-pages` skill, on th
 - Run TS directly with `tsx` and use `.ts` import extensions. `tsc` is used only for type-checking.
 - Biome handles lint and format (`pnpm format`). Vitest handles tests (`*.test.ts` next to the source).
 - Use conventional commits (`feat:`, `fix:`, `chore:`, `docs:`) and a branch per change, opened as a PR to `main`.
+  - Exception: data-only commits (`data:`), i.e. `/extract-pages` results and the nightly crawl, are committed and pushed straight to `main`, with no branch or PR.
 - Source data is Swedish. The user-facing apps are multi-language (sv, fi, en to start).
 
 ## Commands
