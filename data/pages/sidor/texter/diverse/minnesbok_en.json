@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/minnesbok_en.html",
+  "title": "En minnesbok",
+  "summary": "En minnesbok kallad Förgät mig ej som tillhört Eva Nylund, med namn och födelsedagar för skolkamrater i fruntimmersskolan, som ger en bild av det unga Nykarleby kring sekelskiftet.",
+  "topics": [
+    "minnesbok",
+    "fruntimmersskolan",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "Eva Nylund",
+      "alternateNames": [
+        "Eva Nessler"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Fruntimmersskolan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ce32eeeb0f379756257befc33cc008c7fbed591ef33c352d1aa4923a16f99b43",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

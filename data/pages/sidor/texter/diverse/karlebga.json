@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/karlebga.htm",
+  "title": "Östra Lång gatan och Karleborgsgatan",
+  "summary": "Foto av Östra Långgatan från omkring 1900 jämfört med ett nytt foto från januari 2024, där högra sidan nästan är oförändrad.",
+  "topics": [
+    "Östra Långgatan",
+    "jämförelsebild",
+    "gatuvy"
+  ],
+  "people": [
+    {
+      "name": "Teodor Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Georg Karlsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bjarne Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bo Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Östra Långgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Karleborgsgatan"
+      ],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Karlssons smedja",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Georg Karlsson byggde en gård",
+      "date": {
+        "year": 1961,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Jämförelsefoto togs under Topeliusveckan",
+      "date": {
+        "year": 2024,
+        "month": 1,
+        "day": 13,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "66a4111088841c4158a204c86399424051e227bbdd8e5ed0dde5291758ce45fa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

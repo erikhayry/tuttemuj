@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/inforkommsam.html",
+  "title": "Inför kommunsammanslagningen av Stig Haglund",
+  "summary": "Stig Haglund sammanställer uppgifter som Nykarleby stad, Jeppo, Munsala och landskommunen lämnade inför kommunsammanslagningen, med areal, befolkning, skolor, ekonomi och mer, mest från 1960-talet.",
+  "topics": [
+    "kommunsammanslagning",
+    "statistik",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Levlin",
+      "alternateNames": [],
+      "roles": [
+        "stadsbyggmästare"
+      ]
+    },
+    {
+      "name": "Kurt Levlin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Uppgifter lämnades inför kommunsammanslagningen",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f912fb8c65a788a7885220121a75c307af56f596ee1c83d0b288fec989e5ecb7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

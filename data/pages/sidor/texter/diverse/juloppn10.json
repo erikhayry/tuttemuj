@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/juloppn10.html",
+  "title": "Julöppning den 27 november 2010",
+  "summary": "Lars Pensars bilder från julöppningen 2010 med grötkö, försäljning i Normen och minnen från skolhuset, bland annat kraftmannen Hautaviita.",
+  "topics": [
+    "julöppning",
+    "Normen",
+    "2010"
+  ],
+  "people": [
+    {
+      "name": "Yvonne Lönnqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tomas Knuts",
+      "alternateNames": [],
+      "roles": [
+        "stadssekreterare"
+      ]
+    },
+    {
+      "name": "Hautaviita",
+      "alternateNames": [],
+      "roles": [
+        "kraftman"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "M-market",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Julöppningen",
+      "date": {
+        "year": 2010,
+        "month": 11,
+        "day": 27,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    },
+    {
+      "title": "Normen renoverades och fick fast scen",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a60bc8e0bab1b18c2cfb2b2491812bdc10bd4d7e24a0a196332500bf28e8ec54",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

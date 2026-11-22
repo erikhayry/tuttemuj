@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/markkulasminnen.html",
+  "title": "Lars Markkulas minnen",
+  "summary": "Lars Markkulas minnen från ett liv som sjöman, hundmatsfabrikör och bolagsbildare i Sovjet, med berättelser om hans far och uppväxten i Nykarleby.",
+  "topics": [
+    "minnen",
+    "uppväxt",
+    "sjöman"
+  ],
+  "people": [
+    {
+      "name": "Lars Markkula",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Frans Mäkinen",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Mariehamn",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Markkulas far föddes",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fec7e967a641fcfc5b005c1b930325b6e2fcfd6150c80739d90c2d572f4a00fa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

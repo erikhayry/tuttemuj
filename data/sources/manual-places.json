@@ -71,6 +71,10 @@
     "note": "Candy factory of Alfred Herler."
   },
   {
+    "name": "alholmen",
+    "kind": "island"
+  },
+  {
     "name": "alisvaj",
     "kind": "other",
     "note": "Popular bathing place a few hundred metres west of Kuddnäs."
@@ -301,6 +305,10 @@
   {
     "name": "backlunds gård",
     "kind": "building"
+  },
+  {
+    "name": "backlunds stranden",
+    "kind": "landmark"
   },
   {
     "name": "backmans bageri",
@@ -911,6 +919,10 @@
     "kind": "building"
   },
   {
+    "name": "cikoriamuseet",
+    "kind": "building"
+  },
+  {
     "name": "club halwar",
     "kind": "building"
   },
@@ -1203,6 +1215,10 @@
     "kind": "building"
   },
   {
+    "name": "fagerudd",
+    "kind": "building"
+  },
+  {
     "name": "fattig",
     "kind": "farm",
     "note": "Farm (hemman) in Vexala."
@@ -1477,7 +1493,10 @@
   },
   {
     "name": "furuskärshällarna",
-    "kind": "other"
+    "kind": "other",
+    "alternateNames": [
+      "furuskärshällan"
+    ]
   },
   {
     "name": "furuskärssundet",
@@ -1500,7 +1519,8 @@
     "kind": "landmark",
     "alternateNames": [
       "floraparken",
-      "park"
+      "park",
+      "lilla fåfängan"
     ]
   },
   {
@@ -1591,6 +1611,10 @@
   {
     "name": "gamla kovjokivägen",
     "kind": "street"
+  },
+  {
+    "name": "gamla kraftverket",
+    "kind": "building"
   },
   {
     "name": "gamla kyrkan",
@@ -1840,7 +1864,10 @@
   },
   {
     "name": "gula byggningen vid kuddnäs",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "gula byggnaden"
+    ]
   },
   {
     "name": "guldpennan",
@@ -2056,6 +2083,10 @@
   {
     "name": "harald",
     "kind": "farm"
+  },
+  {
+    "name": "haralden",
+    "kind": "landmark"
   },
   {
     "name": "haralds fors",
@@ -2408,6 +2439,10 @@
     "note": "Källbackgatan between Karleborgsgatan and Mathesiusgatan."
   },
   {
+    "name": "jeansborgs bröståkers mark",
+    "kind": "other"
+  },
+  {
     "name": "jeansborgs prästgård",
     "kind": "building",
     "alternateNames": [
@@ -2499,6 +2534,14 @@
     "name": "jut",
     "kind": "farm",
     "note": "On the 1841 Gyldén map, west of the river."
+  },
+  {
+    "name": "jutas småhus",
+    "kind": "building"
+  },
+  {
+    "name": "jutashallen",
+    "kind": "building"
   },
   {
     "name": "jutasvägen",
@@ -2663,6 +2706,10 @@
       "kaffetallen vid munsalavägen"
     ],
     "note": "Pine at the start of Munsalavägen, felled in 2019."
+  },
+  {
+    "name": "kaitfors",
+    "kind": "district"
   },
   {
     "name": "kajutan på nybo",
@@ -2966,7 +3013,10 @@
   },
   {
     "name": "kombikiosken",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "kombi-kiosken"
+    ]
   },
   {
     "name": "kommunalgården",
@@ -3295,6 +3345,10 @@
   },
   {
     "name": "källbackens kulturstuga",
+    "kind": "building"
+  },
+  {
+    "name": "källbackgatan 2",
     "kind": "building"
   },
   {
@@ -3876,6 +3930,10 @@
     "kind": "building"
   },
   {
+    "name": "manteres gård",
+    "kind": "farm"
+  },
+  {
     "name": "marielund",
     "kind": "building",
     "note": "Estate."
@@ -3921,7 +3979,19 @@
     ]
   },
   {
+    "name": "matapall",
+    "kind": "district"
+  },
+  {
     "name": "matapallbackan",
+    "kind": "landmark"
+  },
+  {
+    "name": "matapallberget",
+    "kind": "landmark"
+  },
+  {
+    "name": "matapallmossen",
     "kind": "landmark"
   },
   {
@@ -3977,7 +4047,10 @@
   {
     "name": "mikkilä i soklot",
     "kind": "farm",
-    "note": "Farm in Soklot."
+    "note": "Farm in Soklot.",
+    "alternateNames": [
+      "mickilä"
+    ]
   },
   {
     "name": "milstenen i sollefteågatan",
@@ -4047,7 +4120,10 @@
   {
     "name": "monumentet vid juthas",
     "kind": "landmark",
-    "note": "War memorial at Juthas."
+    "note": "War memorial at Juthas.",
+    "alternateNames": [
+      "juthasmonumentet"
+    ]
   },
   {
     "name": "monå folkskola",
@@ -4479,6 +4555,13 @@
     "name": "nykarleby karamellfabrik",
     "kind": "building",
     "note": "Candy factory in Nykarleby. Might be one of the Herler factories; check."
+  },
+  {
+    "name": "nykarleby koski",
+    "kind": "district",
+    "alternateNames": [
+      "koski"
+    ]
   },
   {
     "name": "nykarleby kraftverk",
@@ -5633,12 +5716,19 @@
   {
     "name": "smedjan i rummelbacken",
     "kind": "building",
-    "note": "Smithy built 1875 by J. Karlsson, closed 1912."
+    "note": "Smithy built 1875 by J. Karlsson, closed 1912.",
+    "alternateNames": [
+      "karlssons smedja"
+    ]
   },
   {
     "name": "smedjan på kuddnäs",
     "kind": "building",
     "note": "Smithy at Kuddnäs, demolished long ago."
+  },
+  {
+    "name": "smeds gård",
+    "kind": "farm"
   },
   {
     "name": "smeds gårdsmuseum",
@@ -6448,6 +6538,10 @@
   {
     "name": "tidningstryckeriet",
     "kind": "building"
+  },
+  {
+    "name": "timmerbackan",
+    "kind": "landmark"
   },
   {
     "name": "timmerkojan",

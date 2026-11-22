@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/juloppn08.html",
+  "title": "Julöppning 2008",
+  "summary": "Stig och Lars skriver om julöppningen 2008 med grötrally på torget, julmarknad i Normen och en kortlek med vyer från Nykarlebynejden gjord av ett UF-företag.",
+  "topics": [
+    "julöppning",
+    "julmarknad",
+    "Ung Företagsamhet"
+  ],
+  "people": [
+    {
+      "name": "Tina Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lisen Julin-Qvarnström",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stig",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgymnasiet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Julöppning i staden",
+      "date": {
+        "year": 2008,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bb6e1cabc74e2df908b807114dfca9a591be4ffb04e6fdae6037db0c18ec715a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

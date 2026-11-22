@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/juloppn14.html",
+  "title": "Julöppning den 29 och 30 november 2014",
+  "summary": "Om julöppningen 2014, då julmarknaden hölls i Stjärnhallen eftersom Normen var evakuerad på grund av mögelskador.",
+  "topics": [
+    "julöppning",
+    "Stjärnhallen",
+    "mögelskador"
+  ],
+  "people": [
+    {
+      "name": "Linda Salo",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tomas Warg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Stjärnhallen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Julöppning och julmarknad i Stjärnhallen",
+      "date": {
+        "year": 2014,
+        "month": 11,
+        "day": 29,
+        "circa": false,
+        "text": "29 och 30 november 2014"
+      },
+      "people": [],
+      "places": [
+        "Stjärnhallen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "be42a9b9f85dcc06b5ed6606a8c248e7ab9c272d762810bd1c322d9880c7abab",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

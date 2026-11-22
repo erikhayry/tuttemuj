@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kalk08.html",
+  "title": "Vägen, vägen till NyCarleby. Dramaspel tre kvällar i kyrkan",
+  "summary": "Om dramaspelet Vägen, vägen till NyCarleby som Juthbacka teater och församlingen framförde i kyrkan i november 2008, med ett fiktivt alternativ om hur nattvardskalken kom till staden.",
+  "topics": [
+    "dramaspel",
+    "församlingens jubileum",
+    "1600-talet"
+  ],
+  "people": [
+    {
+      "name": "Lena Frilund",
+      "alternateNames": [],
+      "roles": [
+        "manusförfattare"
+      ]
+    },
+    {
+      "name": "Frits Olaussen",
+      "alternateNames": [],
+      "roles": [
+        "regissör"
+      ]
+    },
+    {
+      "name": "Camilla Cederholm",
+      "alternateNames": [],
+      "roles": [
+        "tonsättare"
+      ]
+    },
+    {
+      "name": "Lars-Johan Sandvik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthbacka teater",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dramaspelet framfördes i kyrkan",
+      "date": {
+        "year": 2008,
+        "month": 11,
+        "circa": false,
+        "text": "21–23 november"
+      },
+      "people": [],
+      "places": [
+        "Sankta Birgitta kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e6fe06073357cde2fb73739fb0645a69deb2da73272ca50db4c3250e911bd2a5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

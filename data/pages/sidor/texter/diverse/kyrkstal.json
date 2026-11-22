@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kyrkstal.htm",
+  "title": "Byggnadsställningar",
+  "summary": "Lars Pensars foto av kyrktornet med stora ställningar av lösvirke under renoveringen 1992.",
+  "topics": [
+    "kyrktornet",
+    "renovering",
+    "byggnadsställningar"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Henry Byskata",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotot togs under tornrenoveringen",
+      "date": {
+        "year": 1992,
+        "month": 5,
+        "day": 11,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "26ecb16f8303a52c15f957370b70708fcca2d4df7299c5c007f29b8d293f149e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

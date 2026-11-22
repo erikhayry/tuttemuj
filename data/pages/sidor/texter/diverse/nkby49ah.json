@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nkby49ah.html",
+  "title": "Nykarleby av Alfred Huldén.",
+  "summary": "Alfred Huldéns översikt av Nykarleby, dess grundande, läge vid Lappo älv, grannkommuner och att staden numera är Finlands minsta.",
+  "topics": [
+    "översikt",
+    "stadens grundande",
+    "Lappo älv"
+  ],
+  "people": [
+    {
+      "name": "Alfred Huldén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustav II Adolf",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lappo älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Nykarleby älv"
+      ]
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby fick stadsprivilegier",
+      "date": {
+        "year": 1620,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8823c9757fe4a9bbd8f94ea04d2649a36eb34ccbb9440e60540e1617b3fe0091",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

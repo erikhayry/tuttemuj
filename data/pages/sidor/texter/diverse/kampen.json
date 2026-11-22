@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kampen.html",
+  "title": "Företagen på Kampen",
+  "summary": "En omfattande genomgång av företagen på Kampen, östra stadsdelen, gata för gata och bransch för bransch, med milstolpar, brandhistorik och hallarnas tillkomst.",
+  "topics": [
+    "Kampen",
+    "företag",
+    "näringsliv"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kvarnvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5226926,
+        "lng": 22.5472926,
+        "match": "name",
+        "gazetteerName": "kvarnvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fabriksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5270731,
+        "lng": 22.5457636,
+        "match": "name",
+        "gazetteerName": "fabriksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frillmossavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5291159,
+        "lng": 22.5510306,
+        "match": "name",
+        "gazetteerName": "frillmossavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pälsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329542,
+        "lng": 22.5446337,
+        "match": "name",
+        "gazetteerName": "pälsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sandvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52065889999999,
+        "lng": 22.547444,
+        "match": "name",
+        "gazetteerName": "sandvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Åminnevägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5580228,
+        "lng": 22.5428763,
+        "match": "name",
+        "gazetteerName": "åminnevägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Heselius kvarn",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f5544145a3079903628a84e70462a201e62ed9b3a79b5e42b853bbced567ac62",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

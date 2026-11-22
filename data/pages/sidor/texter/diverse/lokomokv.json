@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/lokomokv.htm",
+  "title": "Lokomobil i gamla kraftverket",
+  "summary": "Lars Pensar berättar om lokomobilen i gamla kraftverket, som ursprungligen fanns i Kovjoki och nu restaureras av Nykarleby Jernväg.",
+  "topics": [
+    "lokomobil",
+    "kraftverket",
+    "Nykarleby Jernväg"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0548f949fbd367403b472917c850a0eb6bdf9cdc82f456d6fe0981b6828b3c5d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

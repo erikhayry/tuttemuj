@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kyrkobysk_tg_63.html",
+  "title": "Kyrkoby skola 100 år 2023. En 40-års översikt av Ture Granqvist 1963",
+  "summary": "Ture Granqvists tal 1963 om Kyrkoby folkskolans första fyrtio år, från bygget 1922–23 till skolans liv, med en bild som markerar hundraårsjubileet 2023.",
+  "topics": [
+    "Kyrkoby skola",
+    "folkskola",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Ture Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Stella Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkoby skola",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkoby folkskola"
+      ]
+    },
+    {
+      "name": "Rajåkersvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5149339,
+        "lng": 22.5313058,
+        "match": "name",
+        "gazetteerName": "rajåkersvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kommunalgården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeansborgs bröståkers mark",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkoby skola öppnade sina dörrar",
+      "date": {
+        "year": 1923,
+        "month": 8,
+        "day": 29,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kyrkoby skola"
+      ]
+    },
+    {
+      "title": "Skolan byggdes",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "1922–23"
+      },
+      "people": [],
+      "places": [
+        "Kyrkoby skola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a5577222605b6f7d14c97ce98a59f38bacc0d21e804f6452aabef8dabc40133",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

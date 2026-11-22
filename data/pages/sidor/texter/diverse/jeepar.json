@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/jeepar.htm",
+  "title": "Nykarleby kraftverks jeepar",
+  "summary": "Om kraftverkets första jeepar, den första inköpt 1946 ur amerikanska arméns överskott, och stadsdirektör Mouritzens förkärlek för åkturer, men inget foto av jeepen har hittats.",
+  "topics": [
+    "kraftverket",
+    "jeep",
+    "1946"
+  ],
+  "people": [
+    {
+      "name": "Mouritzen",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Erik Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kaitfors",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden beslöt köpa den första kraftverksjeepen",
+      "date": {
+        "year": 1946,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Beslut om ny jeep",
+      "date": {
+        "year": 1957,
+        "month": 5,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Stadsdirektören älskar att åka med kraftverkets högljudda jeep. En gång anländer han i hög fart sent till De stupades dag vid begravningsplatsen, lägger ned en krans och försvinner i ett dammoln.",
+    "reason": "En komisk scen med en tydlig karaktär och ett färgstarkt fordon.",
+    "characters": [
+      "Mouritzen"
+    ],
+    "places": []
+  },
+  "contentHash": "b9f081790573a619e8aeab9bc09ed8f285a23ae0e65d25292e0176b00026cdf6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

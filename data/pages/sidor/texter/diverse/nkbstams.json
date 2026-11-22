@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nkbstams.htm",
+  "title": "Nykarlebystjärnan",
+  "summary": "Sida om Nykarlebystjärnan, dess tradition från 1700-talet och Topelius uttryck Betlehem, samt rättelse av påståendet om Nordens Betlehem.",
+  "topics": [
+    "Nykarlebystjärnan",
+    "tradition",
+    "jul"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [],
+      "roles": [
+        "läkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius berättar att julen inleddes med att stjärnan tändes på Kuddnäs",
+      "date": {
+        "year": 1835,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3fad261c02fd9c3e6c4360d798d190748f5e5c0f65b7777a513621b17151a169",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/luftskyd.htm",
+  "title": "Luftskyddschefen",
+  "summary": "Luftskyddschefens skrivelse 1944 med förslag på kustbevakning vid Nykarleby skärgård, med vilka fiskare och poster som kunde rapportera.",
+  "topics": [
+    "luftskydd",
+    "kustbevakning",
+    "1944"
+  ],
+  "people": [
+    {
+      "name": "V. Willman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Olof Mårtens",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklothällan",
+      "kind": "island",
+      "alternateNames": [
+        "Hällgrund"
+      ]
+    },
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Furuskärshällan",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Frösön",
+      "kind": "island",
+      "alternateNames": [
+        "Frösö"
+      ]
+    },
+    {
+      "name": "Torsö",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Kubban",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Åminne",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Grisselören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.61204689999999,
+        "lng": 22.4921221,
+        "match": "name",
+        "gazetteerName": "grisselören",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sandören",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skrivelse om kustbevakning",
+      "date": {
+        "year": 1944,
+        "month": 6,
+        "day": 27,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e2d3ecd5a580f09a67abd08b5bad3574e8e8cef66aabf31cb4b9d92fd2a8879a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

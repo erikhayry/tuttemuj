@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/juloppn11.html",
+  "title": "Julöppning den 26 november 2011",
+  "summary": "Lars Pensars bilder och kommentarer från julöppningen 2011, med ponnyridning, gröt och funderingar kring stadens planerade nya bibliotek.",
+  "topics": [
+    "julöppning",
+    "2011",
+    "gröt"
+  ],
+  "people": [
+    {
+      "name": "Kjell Lindroos",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Christian Westerqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Willman",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Britt Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Palm-Nygård",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kjell Forsgård",
+      "alternateNames": [],
+      "roles": [
+        "årets Jeppobo"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Julöppningen",
+      "date": {
+        "year": 2011,
+        "month": 11,
+        "day": 26,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9f0b5c95874f093ce7411f106b361238713e44906d2319df4ee273759508d3fb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

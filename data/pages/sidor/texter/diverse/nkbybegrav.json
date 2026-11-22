@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nkbybegrav.html",
+  "title": "Nykarleby begravningsbyrå",
+  "summary": "Historik över Nykarleby begravningsbyrå som grundades av Sigfrid och Aura Bertlin på 1950-talet vid Borgaregatan 24 intill sjukhuset.",
+  "topics": [
+    "begravningsbyrå",
+    "Bertlin",
+    "familjeföretag"
+  ],
+  "people": [
+    {
+      "name": "Sigfrid Bertlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aura Bertlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ahlström",
+      "alternateNames": [],
+      "roles": [
+        "snickare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan 24",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 24",
+      "geo": {
+        "lat": 63.5231213,
+        "lng": 22.5381563,
+        "match": "address",
+        "gazetteerName": "borgaregatan 24",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby sjukhus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Snickaren bjöd ut likkistor",
+      "date": {
+        "year": 1951,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Borgaregatan 24"
+      ]
+    },
+    {
+      "title": "Butiken upphörde",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4994f9864c021488e3383522863a08f1368248fc00298d64edf03d895b2343c0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

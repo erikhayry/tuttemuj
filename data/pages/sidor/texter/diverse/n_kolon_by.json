@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/n_kolon_by.html",
+  "title": "N:BY",
+  "summary": "Fredrik besöker Cikoriamuseet vid Alholmen 2017 och hittar schabloner för destinationsmärkning, bland annat N:BY.",
+  "topics": [
+    "Cikoriamuseet",
+    "Alholmen",
+    "industriminne"
+  ],
+  "people": [
+    {
+      "name": "Fredrik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Cikoriamuseet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Alholmen",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Cikoriamuseet öppnades",
+      "date": {
+        "year": 1985,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fredrik besökte museet",
+      "date": {
+        "year": 2017,
+        "month": 6,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5d5a3a2cdfa0987c46841c72e2de6157e818a8ba4cbdceb075c290c7481b7a69",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

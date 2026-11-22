@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kulhisvm.htm",
+  "title": "Kultur- och byggnadshistoriskt värdefulla objekt i Nykarleby",
+  "summary": "Förteckning över kultur- och byggnadshistoriskt värdefulla objekt i Nykarleby med katalogiseringsgrunder och skyddsrekommendationer, bland annat seminariebyggnaderna och gamla trästaden.",
+  "topics": [
+    "byggnadsskydd",
+    "kulturmiljö",
+    "byggnadshistoria"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Florahemmet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminariets huvudbyggnad uppfördes",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0fb6e82014c1056f8d23a938f9492b714e6354dd09742fc04c544841e91b13b4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

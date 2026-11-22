@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/koddordb.html",
+  "title": "Koddpråmen av Dage Byggmästar",
+  "summary": "Dage Byggmästar visar bilder av Grahns koddpråm som fraktade kor till sommarbete på Alören, och berättar att pråmen togs av en storm 1967 och att resterna återfanns 2005.",
+  "topics": [
+    "koddpråm",
+    "Alören",
+    "sommarbete"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Grahn",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karin Grahn",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustav Grahn",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dage Byggmästar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnel Byggmästar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Alören",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Charlottenlund",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "En storm tog pråmen",
+      "date": {
+        "year": 1967,
+        "month": 8,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Alören"
+      ]
+    },
+    {
+      "title": "Resterna av pråmen återfanns vid Djupsten",
+      "date": {
+        "year": 2005,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Djupsten"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ffde76a8d346bb35b11c4d9612c536fb4305294d8f1d432ca2b260fc6b673cb6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kovjojul.htm",
+  "title": "Julafton 1953 i Kovjoki av Sven Lind",
+  "summary": "Sven Lind skildrar julafton 1953 i Kovjoki, från julstöket i hemmet till ett besök på Kovjoki station.",
+  "topics": [
+    "julafton",
+    "Kovjoki",
+    "1953"
+  ],
+  "people": [
+    {
+      "name": "Sven Lind",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jan",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Runar Romar",
+      "alternateNames": [],
+      "roles": [
+        "stationspersonal"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Timmerbackan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Julafton i Kovjoki",
+      "date": {
+        "year": 1953,
+        "month": 12,
+        "day": 24,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1c3db8e1897a85bc678c43458471c01516454084f3bced670003c1719a3d30d4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

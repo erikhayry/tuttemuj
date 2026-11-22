@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kultna05.htm",
+  "title": "Kulturnatten lördagen den 20 augusti 2005",
+  "summary": "Lars Pensars bilder från Kulturnatten den 20 augusti 2005 med tjärbränning vid Bankgatan 2 och Lasse Huldéns kvällslyrik på Rådhuset.",
+  "topics": [
+    "Kulturnatten",
+    "tjära",
+    "2005"
+  ],
+  "people": [
+    {
+      "name": "Hilding Wiklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eirik Granqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl-Gustav Blom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lasse Huldén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kulturnatten",
+      "date": {
+        "year": 2005,
+        "month": 8,
+        "day": 20,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8c1a206e055d2c1fec1833bd66e29f805e9267f4f8c2a9a4f4964e0acba48658",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

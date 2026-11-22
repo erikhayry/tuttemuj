@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/natingkw.htm",
+  "title": "Nättingfiske på 1990-talet av Karl O. J. Wenelius",
+  "summary": "Karl O. J. Wenelius berättar om sitt nättingfiske med mjärdar i Ragnörsforsen kring 1990, trots dammhöjningen, och om att plocka nejonögon med ullvante i ungdomen.",
+  "topics": [
+    "nättingfiske",
+    "nejonögon",
+    "Ragnörsforsen"
+  ],
+  "people": [
+    {
+      "name": "Karl O. J. Wenelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Storå",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Georg Högbom",
+      "alternateNames": [],
+      "roles": [
+        "alkodirektör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ragnörsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5358546,
+        "lng": 22.5325748,
+        "match": "name",
+        "gazetteerName": "ragnörsforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wenelius fiskade nättingar i Ragnörsforsen",
+      "date": {
+        "year": 1990,
+        "circa": true
+      },
+      "people": [],
+      "places": [
+        "Ragnörsforsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7e1afc973120b9a3183dc774a796dce4cf6239b4985afc6a0aa2b1fbb2845e82",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

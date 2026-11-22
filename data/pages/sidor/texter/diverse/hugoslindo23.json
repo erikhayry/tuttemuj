@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/hugoslindo23.html",
+  "title": "Hugos lindo våren 2023 av Ann-Britt Enlund",
+  "summary": "Ann-Britt Enlund visar vyer från Hugos lindo våren 2023 efter röjningen i Frill natur- och landskapsområde, och minns tillsammansodlingen som startade 2019.",
+  "topics": [
+    "Hugos lindo",
+    "Frill",
+    "röjning",
+    "tillsammansodling"
+  ],
+  "people": [
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ulf Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hugo",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ida Holmström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hugos lindo",
+      "kind": "landmark",
+      "alternateNames": [
+        "Hugos lindon"
+      ]
+    },
+    {
+      "name": "Frill natur- och landskapsområde",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Tallkorset",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bostads Ab Jönsas",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jöns Drakes väg",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5287676,
+        "lng": 22.5356601,
+        "match": "name",
+        "gazetteerName": "jöns drakes väg",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tillsammansodlingen inleddes",
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "305472af868f191126636a44f001fc821e8b18d0eb2da8ba59782db74ebb6b8b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}

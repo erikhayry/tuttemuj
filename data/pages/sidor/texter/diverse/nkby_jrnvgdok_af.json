@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nkby_jrnvgdok_af.html",
+  "title": "Några dokument från Nykarleby Jernväg",
+  "summary": "Dokument från Nykarleby Jernväg: intyg om tryckprovning av loksoch pannor från Baldwin Locomotive Works och ett cirkulär om provisorisk trafik 1899.",
+  "topics": [
+    "Nykarleby Jernväg",
+    "lok",
+    "dokument"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby Jernväg",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första lokets ångpanna tryckprovades",
+      "date": {
+        "year": 1898,
+        "month": 9,
+        "day": 20,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Andra lokets ångpanna tryckprovades",
+      "date": {
+        "year": 1900,
+        "month": 1,
+        "day": 11,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Banan Kovjoki–Nykarleby upplöts för provisorisk trafik",
+      "date": {
+        "year": 1899,
+        "month": 12,
+        "day": 14,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0e855c58041c68c11a1c42e3836f71ef57fe575185b0c1d435cf59697babf1fa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T19:56:46.504Z"
+}
