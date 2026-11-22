@@ -28,7 +28,15 @@
       "name": "Kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Plats för en skylt som Einar Hagman engagerade sig i 1939."
+      "description": "Plats för en skylt som Einar Hagman engagerade sig i 1939.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

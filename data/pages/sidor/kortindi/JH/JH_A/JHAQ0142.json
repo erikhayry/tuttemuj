@@ -14,7 +14,15 @@
       "name": "Kuddnäs",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Brygga och uthus på kortet."
+      "description": "Brygga och uthus på kortet.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Östervall",

@@ -43,7 +43,15 @@
       "alternateNames": [
         "Kuddnäs gård"
       ],
-      "description": "Topelius födelsehem nära Nykarleby."
+      "description": "Topelius födelsehem nära Nykarleby.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

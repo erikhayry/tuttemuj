@@ -32,7 +32,15 @@
       "name": "Kuddnäs",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Motiv på ett av korten, från väster."
+      "description": "Motiv på ett av korten, från väster.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Seminariet",

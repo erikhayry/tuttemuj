@@ -35,13 +35,29 @@
       "name": "kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Plats för sångfesten 1953."
+      "description": "Plats för sångfesten 1953.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "socklot",
       "kind": "village",
       "alternateNames": [],
-      "description": "Plats för sångfesten 1933."
+      "description": "Plats för sångfesten 1933.",
+      "geo": {
+        "lat": 63.5702,
+        "lng": 22.5524,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

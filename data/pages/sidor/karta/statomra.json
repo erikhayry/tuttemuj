@@ -33,7 +33,15 @@
       "kind": "building",
       "alternateNames": [
         "Järnvägsstationen"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Lokstallet",

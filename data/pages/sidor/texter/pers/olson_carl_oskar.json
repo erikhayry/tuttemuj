@@ -46,7 +46,15 @@
       "kind": "farm",
       "alternateNames": [
         "Kuddnäs gård"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

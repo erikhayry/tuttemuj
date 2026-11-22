@@ -1760,7 +1760,15 @@
         "Kuddnissas hemman",
         "Nils Olofssons hemman"
       ],
-      "description": "Hemman nr 10 i Kyrkoby norr om centrum; Topelius födelsehem."
+      "description": "Hemman nr 10 i Kyrkoby norr om centrum; Topelius födelsehem.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Jeansborg",
@@ -1874,7 +1882,15 @@
     {
       "name": "Juthbacka",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Kisors brygga",

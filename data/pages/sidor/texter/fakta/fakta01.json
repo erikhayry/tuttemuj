@@ -111,7 +111,15 @@
       "name": "kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "nystaden",

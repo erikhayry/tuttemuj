@@ -31,7 +31,15 @@
       "alternateNames": [
         "Kuddnäs"
       ],
-      "description": "Park och udde i Nykarleby, fotograferad från väster."
+      "description": "Park och udde i Nykarleby, fotograferad från väster.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "blåfinobärji",

@@ -55,7 +55,15 @@
       "name": "Juthbacka",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Gård som ligger mörk och dyster i juletid."
+      "description": "Gård som ligger mörk och dyster i juletid.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströms",

@@ -26,7 +26,15 @@
       "name": "Vexala",
       "kind": "village",
       "alternateNames": [],
-      "description": "Ellen Fogel var lärare här sedan 1919."
+      "description": "Ellen Fogel var lärare här sedan 1919.",
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

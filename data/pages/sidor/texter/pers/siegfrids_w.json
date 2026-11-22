@@ -42,7 +42,15 @@
       "kind": "village",
       "alternateNames": [
         "Socklot"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5702,
+        "lng": 22.5524,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Kovjoki",

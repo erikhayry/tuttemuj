@@ -143,7 +143,15 @@
       "name": "Kuddnäs",
       "kind": "other",
       "alternateNames": [],
-      "description": "Motiv i en av Herlers målningar."
+      "description": "Motiv i en av Herlers målningar.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Grisselören",

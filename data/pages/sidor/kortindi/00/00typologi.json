@@ -13,7 +13,15 @@
       "kind": "building",
       "alternateNames": [
         "Josef Herlers bokhandel"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5234,
+        "lng": 22.5306,
+        "match": "name",
+        "gazetteerName": "herlers bokhandel",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

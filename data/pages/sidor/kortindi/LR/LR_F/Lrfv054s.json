@@ -29,7 +29,15 @@
       "name": "Stationshuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Byggdes 1898, revs 1986 eller 1987."
+      "description": "Byggdes 1898, revs 1986 eller 1987.",
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Lokstallet",

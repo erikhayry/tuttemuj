@@ -32,7 +32,15 @@
       "name": "Jutbacka",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Hemman på Gyldéns karta från 1841."
+      "description": "Hemman på Gyldéns karta från 1841.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Sten Träsket",

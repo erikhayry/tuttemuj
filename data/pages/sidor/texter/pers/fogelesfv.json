@@ -34,7 +34,15 @@
       "name": "Vexala",
       "kind": "village",
       "alternateNames": [],
-      "description": "Här låg Ellen Fogels skola."
+      "description": "Här låg Ellen Fogels skola.",
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

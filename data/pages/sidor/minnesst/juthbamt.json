@@ -26,7 +26,15 @@
       "alternateNames": [
         "Juthbacka"
       ],
-      "description": "Gården där minnestavlan sitter, till höger om huvudentrén."
+      "description": "Gården där minnestavlan sitter, till höger om huvudentrén.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

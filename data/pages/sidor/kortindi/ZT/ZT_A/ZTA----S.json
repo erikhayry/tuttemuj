@@ -29,7 +29,15 @@
       "alternateNames": [
         "Kuddnäs"
       ],
-      "description": "Platsen där Topelius föddes."
+      "description": "Platsen där Topelius föddes.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

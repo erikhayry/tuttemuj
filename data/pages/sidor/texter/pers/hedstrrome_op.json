@@ -34,7 +34,15 @@
       "name": "Kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Topeliushemmet där Einar Hedström skötte om traditionen."
+      "description": "Topeliushemmet där Einar Hedström skötte om traditionen.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Ragnörforsen",

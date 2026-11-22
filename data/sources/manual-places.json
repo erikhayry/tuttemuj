@@ -2195,7 +2195,12 @@
     "kind": "building",
     "alternateNames": [
       "nykarleby bokhandel"
-    ]
+    ],
+    "location": {
+      "lat": 63.5234,
+      "lng": 22.5306
+    },
+    "note": "Coordinates from OpenStreetMap."
   },
   {
     "name": "herlers bryggeri",
@@ -2659,7 +2664,11 @@
     "alternateNames": [
       "jutbacka"
     ],
-    "note": "Juthbacka manor."
+    "note": "Juthbacka manor. Coordinates from OpenStreetMap.",
+    "location": {
+      "lat": 63.5157,
+      "lng": 22.5246
+    }
   },
   {
     "name": "juthbacka camping",
@@ -3237,7 +3246,12 @@
   },
   {
     "name": "kuddnäs",
-    "kind": "farm"
+    "kind": "farm",
+    "location": {
+      "lat": 63.5303,
+      "lng": 22.5337
+    },
+    "note": "Coordinates from OpenStreetMap."
   },
   {
     "name": "kuddnäs fattiggård",
@@ -4629,10 +4643,14 @@
   {
     "name": "nykarleby järnvägsstation",
     "kind": "building",
-    "note": "Station of the Nykarleby railway.",
+    "note": "Station of the Nykarleby railway. Coordinates from OpenStreetMap.",
     "alternateNames": [
       "stationshuset"
-    ]
+    ],
+    "location": {
+      "lat": 63.5264,
+      "lng": 22.5446
+    }
   },
   {
     "name": "nykarleby karamellfabrik",
@@ -5893,7 +5911,12 @@
     "name": "socklot",
     "alternateNames": [
       "soklot"
-    ]
+    ],
+    "location": {
+      "lat": 63.5702,
+      "lng": 22.5524
+    },
+    "note": "Coordinates from OpenStreetMap."
   },
   {
     "name": "socklothällan",
@@ -7066,7 +7089,12 @@
     "kind": "village",
     "alternateNames": [
       "wexala landet"
-    ]
+    ],
+    "location": {
+      "lat": 63.4826,
+      "lng": 22.3829
+    },
+    "note": "Coordinates from OpenStreetMap."
   },
   {
     "name": "vexala folkskola",

@@ -31,7 +31,15 @@
       "name": "kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Motivet för målningen."
+      "description": "Motivet för målningen.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "tullstranden",

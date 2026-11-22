@@ -70,7 +70,15 @@
       "name": "Kuddnäs",
       "kind": "building",
       "alternateNames": [],
-      "description": "Topelius barndomshem."
+      "description": "Topelius barndomshem.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby gravgård",

@@ -26,7 +26,15 @@
       "name": "Juthbacka",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Juthbacka Teater spelade sommarteater i parken nedanför Juthbacka gård."
+      "description": "Juthbacka Teater spelade sommarteater i parken nedanför Juthbacka gård.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Scala",

@@ -46,7 +46,15 @@
       "name": "Kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Diktens dag hölls ofta här."
+      "description": "Diktens dag hölls ofta här.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Öjskatan",

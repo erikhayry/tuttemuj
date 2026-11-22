@@ -119,7 +119,15 @@
       "name": "Kuddnäs",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Fattiggård dit Anna Lovisa troligen flyttades."
+      "description": "Fattiggård dit Anna Lovisa troligen flyttades.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

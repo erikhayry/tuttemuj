@@ -30,7 +30,15 @@
       "name": "Kuddnäs",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Kuddnäs från älven och lusthuset i trädgården."
+      "description": "Kuddnäs från älven och lusthuset i trädgården.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Lusthuset på Kuddnäs",

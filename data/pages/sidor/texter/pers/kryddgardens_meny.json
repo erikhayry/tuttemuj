@@ -255,7 +255,15 @@
       "name": "Kuddnäs",
       "kind": "building",
       "alternateNames": [],
-      "description": "Där Doktors Stina var tjänarinna; akvarellen finns på Kuddnäs museum."
+      "description": "Där Doktors Stina var tjänarinna; akvarellen finns på Kuddnäs museum.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Kuddnäs museum",

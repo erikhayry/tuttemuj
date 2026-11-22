@@ -36,7 +36,15 @@
       "name": "Kuddnäs",
       "kind": "district",
       "alternateNames": [],
-      "description": "Nämns bland de minnen han bar med sig från Nykarleby."
+      "description": "Nämns bland de minnen han bar med sig från Nykarleby.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

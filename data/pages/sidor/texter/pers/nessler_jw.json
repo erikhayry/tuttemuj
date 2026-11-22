@@ -34,7 +34,15 @@
       "name": "Soklot",
       "kind": "village",
       "alternateNames": [],
-      "description": "Nessler hade en ångsåg nära Soklot."
+      "description": "Nessler hade en ångsåg nära Soklot.",
+      "geo": {
+        "lat": 63.5702,
+        "lng": 22.5524,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

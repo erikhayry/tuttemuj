@@ -48,7 +48,15 @@
       "name": "Kuddnäs",
       "kind": "building",
       "alternateNames": [],
-      "description": "Topelius barndomshem; Schalin skrev en bok om det."
+      "description": "Topelius barndomshem; Schalin skrev en bok om det.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

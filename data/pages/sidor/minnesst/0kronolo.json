@@ -76,7 +76,15 @@
       "alternateNames": [
         "Juthbacka"
       ],
-      "description": "Minnesmärke omkring 1961."
+      "description": "Minnesmärke omkring 1961.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

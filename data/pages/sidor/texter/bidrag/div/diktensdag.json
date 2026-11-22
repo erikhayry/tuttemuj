@@ -67,7 +67,15 @@
       "name": "Kuddnäs",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Plats för parkfesten Diktens dag."
+      "description": "Plats för parkfesten Diktens dag.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Gymnasiet",

@@ -22,7 +22,15 @@
       "name": "Kuddnäs",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Topelius födelsehem; museum sedan 1934, ägt av staden."
+      "description": "Topelius födelsehem; museum sedan 1934, ägt av staden.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [
