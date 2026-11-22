@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/wahlberg_ww.html",
+  "title": "Om fabrikören Walfrid Wilhelm Wahlberg av Mats Blomqvist",
+  "summary": "Mats Blomqvist skildrar fabrikören Walfrid Wilhelm Wahlberg, född i Nykarleby 1861, som började som filhuggare och grundade Dahlfors filhuggeri i Vanda.",
+  "topics": [
+    "filhuggeri",
+    "industri",
+    "personhistoria"
+  ],
+  "people": [
+    {
+      "name": "Walfrid Wilhelm Wahlberg",
+      "alternateNames": [],
+      "birthYear": 1861,
+      "deathYear": 1922,
+      "roles": [
+        "fabrikör",
+        "filhuggare"
+      ]
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "filhuggeriägare"
+      ]
+    },
+    {
+      "name": "Hilda Augusta Bäckman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Irene",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nesslers filhuggeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadsforsen",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Walfrid föddes i Nykarleby",
+      "date": {
+        "year": 1861,
+        "month": 5,
+        "day": 25,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Wahlberg anlade filhuggeri vid Vandaforsen",
+      "date": {
+        "year": 1882,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Wahlberg gifte sig i Helsinge",
+      "date": {
+        "year": 1890,
+        "month": 6,
+        "day": 9,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9de06bde6084dd065bd52f13f4d4cda3fd27bdd6f8931e2142ab4628fd6e1c6d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

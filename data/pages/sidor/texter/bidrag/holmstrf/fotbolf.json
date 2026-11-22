@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/fotbolf.htm",
+  "title": "En halvsekellång fotbollskrönika från Nykarleby av Folke Holmström",
+  "summary": "Folke Holmström skriver en krönika över fotbollen i Nykarleby, från NIK:s grundande 1917 till spel på torget med våghuset som omklädningsrum.",
+  "topics": [
+    "fotboll",
+    "idrott",
+    "torget"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Våghuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Älvbranten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby Idrottsklubb grundades",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0c01616cae24741b5e28ba0a4699125e3d18d91c00ecc1f810b5ba44d6b733d4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

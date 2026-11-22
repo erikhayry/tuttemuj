@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/andrasjon1.html",
+  "title": "Några drag ur Andra sjöns historia av Lars Pensar",
+  "summary": "Lars Pensar skriver om Andra sjöns historia: hur hamnen kom till, hamnområdet och anläggningarna, med fortsättning i senare kapitel.",
+  "topics": [
+    "Andrasjön",
+    "hamn",
+    "lokalhistoria"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Anni Markkula",
+      "alternateNames": [],
+      "roles": [
+        "grindvakt"
+      ]
+    },
+    {
+      "name": "Johanna Holmbom",
+      "alternateNames": [
+        "Laama-Hanna"
+      ],
+      "roles": [
+        "grindvakt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Rehmalsbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Frösön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gustaf II Adolf gav dekret om att staden skulle anläggas",
+      "date": {
+        "year": 1617,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Vägen till stranden anlades",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "1864–66"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ae550d07437df0bee82191e4df86efb19d720cea11b62bd2ba9071fa3303fad6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

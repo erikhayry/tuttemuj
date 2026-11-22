@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/notdrag2012_kf.html",
+  "title": "Notdragning på Torsöfjärden i mars 2012 av Kenneth Frostdahl",
+  "summary": "Kenneth Frostdahl dokumenterar notdragning på Torsöfjärden i mars 2012 med Socklot not och fångsten på cirka 4 200 kg.",
+  "topics": [
+    "fiske",
+    "notdragning",
+    "Socklot"
+  ],
+  "people": [
+    {
+      "name": "Kenneth Frostdahl",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Roger Frostdahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sten Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Hällgrund",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Notdragning på Torsöfjärden",
+      "date": {
+        "year": 2012,
+        "month": 3,
+        "day": 4,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Torsöfjärden"
+      ]
+    },
+    {
+      "title": "Socklot tog upp notdragningen igen på hobbynivå",
+      "date": {
+        "year": 2005,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1b575d558f6a8b8769287d1083a0c89c1a138cf18c570beddf53561d2ff6e625",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

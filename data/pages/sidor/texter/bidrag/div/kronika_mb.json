@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/kronika_mb.html",
+  "title": "När hände vad på Nybo och kring Nykarleby av Mats Blomqvist",
+  "summary": "Mats Blomqvists kronologi över vad som hände på familjens villa Nybo vid Andrasjön och i Nykarleby, från första sommaren 1943 och framåt.",
+  "topics": [
+    "villa Nybo",
+    "Andrasjön",
+    "familjehistoria",
+    "kronologi"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Mika Heikel",
+      "alternateNames": [],
+      "roles": [
+        "professor",
+        "slagrutemästare"
+      ]
+    },
+    {
+      "name": "Dagny Hedström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Familjen Blomqvists villa."
+    },
+    {
+      "name": "Barlastgrundet",
+      "kind": "island",
+      "alternateNames": [
+        "Lövgrundet"
+      ]
+    },
+    {
+      "name": "Hällören",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nybo köptes för 40 000 mark",
+      "date": {
+        "year": 1943,
+        "circa": false,
+        "text": "1943–44"
+      },
+      "people": [],
+      "places": [
+        "Nybo"
+      ]
+    },
+    {
+      "title": "Brunn grävdes med hjälp av slagruta",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Familjen köpte holmen Barlastgrundet av Dagny Hedström",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Barlastgrundet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "96b92b1b7bbb9451856675c3d59b682648e2d19c2c3313f8aa418048c0bb6c24",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

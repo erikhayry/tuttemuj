@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/mjolken.htm",
+  "title": "Den goda sommarmjölken av Mats Blomqvist",
+  "summary": "Mats Blomqvist minns hur sommargästerna vid Andrasjön hämtade mjölk från Östmans gård på 1950-talet.",
+  "topics": [
+    "sommarminnen",
+    "mjölk",
+    "Andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Mildrid Asplund",
+      "alternateNames": [
+        "Mildrid Östman"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Östmans gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.50741889999999,
+        "lng": 22.4570607,
+        "match": "name",
+        "gazetteerName": "bonäsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "1d1286ba9ad53fd0425e38482f87a82618c5a7d76c2e781dfb27363756d722bf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

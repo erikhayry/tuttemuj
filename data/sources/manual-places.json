@@ -58,6 +58,10 @@
     "kind": "building"
   },
   {
+    "name": "ahlströmska huset",
+    "kind": "building"
+  },
+  {
     "name": "alfred herlers karamellfabrik",
     "kind": "building",
     "note": "Candy factory of Alfred Herler."
@@ -131,6 +135,10 @@
     "name": "andrasjö strandväg 277 b",
     "kind": "building",
     "note": "Summer cottage built from parts of the old station house."
+  },
+  {
+    "name": "andrasjö strandväg 92",
+    "kind": "building"
   },
   {
     "name": "andrasjöhamnen",
@@ -442,6 +450,10 @@
     "kind": "building"
   },
   {
+    "name": "bjarne fors bilverkstad",
+    "kind": "building"
+  },
+  {
     "name": "bjerkbackan",
     "kind": "landmark"
   },
@@ -449,6 +461,10 @@
     "name": "bjons",
     "kind": "farm",
     "note": "Farm in Ytterjeppo."
+  },
+  {
+    "name": "björkholmarna",
+    "kind": "island"
   },
   {
     "name": "björkholmen",
@@ -717,6 +733,10 @@
     "kind": "landmark"
   },
   {
+    "name": "bryggeribacken",
+    "kind": "landmark"
+  },
+  {
     "name": "bryggeriet",
     "kind": "building"
   },
@@ -735,6 +755,10 @@
   },
   {
     "name": "bröderna engs tellblockfabrik",
+    "kind": "building"
+  },
+  {
+    "name": "bröderna engs tellfabrik",
     "kind": "building"
   },
   {
@@ -1405,6 +1429,10 @@
     ]
   },
   {
+    "name": "furuskär",
+    "kind": "island"
+  },
+  {
     "name": "furuskären",
     "kind": "island",
     "note": "Outermost skerry in the Nykarleby archipelago."
@@ -1816,6 +1844,10 @@
     "note": "Gunnar Willman's house just south of Salem, built c. 1967."
   },
   {
+    "name": "gustav adolfsgatan 31",
+    "kind": "building"
+  },
+  {
     "name": "gustav adolfsgatan 36b",
     "kind": "building",
     "alternateNames": [
@@ -1970,6 +2002,10 @@
   {
     "name": "haralds fors",
     "kind": "waterbody"
+  },
+  {
+    "name": "haralds såg",
+    "kind": "building"
   },
   {
     "name": "haralds såg och kvarn",
@@ -2185,6 +2221,10 @@
     "name": "häggbloms resandehem",
     "kind": "building",
     "note": "Travellers' lodging on Köpmansgatan."
+  },
+  {
+    "name": "hällören",
+    "kind": "island"
   },
   {
     "name": "hälsovårdscentralen",
@@ -2674,6 +2714,10 @@
     "kind": "street"
   },
   {
+    "name": "karlssons hus",
+    "kind": "building"
+  },
+  {
     "name": "karlstorp",
     "kind": "farm",
     "alternateNames": [
@@ -2800,6 +2844,10 @@
     "name": "knarken",
     "kind": "building",
     "note": "Seminary boarding house under the director's residence."
+  },
+  {
+    "name": "knarkon",
+    "kind": "building"
   },
   {
     "name": "knock",
@@ -3428,6 +3476,10 @@
     "kind": "building"
   },
   {
+    "name": "lillkungs konditori",
+    "kind": "building"
+  },
+  {
     "name": "lillollas i forsby",
     "kind": "farm",
     "note": "Farm in Forsby."
@@ -3577,6 +3629,10 @@
     "alternateNames": [
       "nordea"
     ]
+  },
+  {
+    "name": "lybeckska lindan",
+    "kind": "landmark"
   },
   {
     "name": "lybeckska skaldehemmet",
@@ -3883,6 +3939,10 @@
     "kind": "landmark"
   },
   {
+    "name": "munsala kommundel",
+    "kind": "district"
+  },
+  {
     "name": "munsalavägen 26",
     "kind": "building"
   },
@@ -3948,6 +4008,10 @@
     "alternateNames": [
       "nejon ögonfiske"
     ]
+  },
+  {
+    "name": "nesslers filhuggeri",
+    "kind": "building"
   },
   {
     "name": "nesslers tryckeri",
@@ -4029,6 +4093,10 @@
   {
     "name": "norra torggatan",
     "kind": "street"
+  },
+  {
+    "name": "norra tullen",
+    "kind": "landmark"
   },
   {
     "name": "norra tullgården",
@@ -4204,6 +4272,10 @@
     "kind": "building"
   },
   {
+    "name": "nykarleby församlingshem",
+    "kind": "building"
+  },
+  {
     "name": "nykarleby gravgård",
     "kind": "other",
     "note": "Cemetery where the old plåtkors and the Russian soldiers' grave stand."
@@ -4303,6 +4375,10 @@
     ]
   },
   {
+    "name": "nykarleby telegrafkontor",
+    "kind": "building"
+  },
+  {
     "name": "nykarleby trivialskola",
     "kind": "building",
     "note": "Trivial school founded under Per Brahe."
@@ -4348,6 +4424,10 @@
   },
   {
     "name": "nymans gård",
+    "kind": "building"
+  },
+  {
+    "name": "nymanska slakthuset",
     "kind": "building"
   },
   {
@@ -4484,6 +4564,10 @@
   {
     "name": "pensars gård",
     "kind": "building"
+  },
+  {
+    "name": "pentzinsgrundet",
+    "kind": "island"
   },
   {
     "name": "pihlainens skoaffär",
@@ -4660,7 +4744,10 @@
   },
   {
     "name": "remahlsbacken",
-    "kind": "landmark"
+    "kind": "landmark",
+    "alternateNames": [
+      "rehmalsbacken"
+    ]
   },
   {
     "name": "renvaktars",
@@ -4795,6 +4882,10 @@
     "note": "Pond south-west of Älvbranten."
   },
   {
+    "name": "rudnäs affär",
+    "kind": "building"
+  },
+  {
     "name": "rudnäs gård",
     "kind": "building"
   },
@@ -4842,6 +4933,10 @@
     ]
   },
   {
+    "name": "rådhusgalleriet",
+    "kind": "building"
+  },
+  {
     "name": "rådhusgatan",
     "kind": "street"
   },
@@ -4849,6 +4944,10 @@
     "name": "rådhusgården",
     "kind": "building",
     "note": "Courtyard behind the town hall."
+  },
+  {
+    "name": "rådhusknuten",
+    "kind": "landmark"
   },
   {
     "name": "rådhustomten",
@@ -4873,6 +4972,10 @@
   {
     "name": "rådman neumans byggning",
     "kind": "building"
+  },
+  {
+    "name": "rådman nylunds linda",
+    "kind": "landmark"
   },
   {
     "name": "rådman rydmans byggning",
@@ -5318,6 +5421,10 @@
     "note": "Smithy at Kuddnäs, demolished long ago."
   },
   {
+    "name": "smeds gårdsmuseum",
+    "kind": "building"
+  },
+  {
     "name": "smeds i soklot",
     "kind": "farm",
     "note": "Farm in Soklot."
@@ -5357,6 +5464,13 @@
     "name": "socklot",
     "alternateNames": [
       "soklot"
+    ]
+  },
+  {
+    "name": "socklothällan",
+    "kind": "island",
+    "alternateNames": [
+      "socklot hällarne"
     ]
   },
   {
@@ -5427,6 +5541,10 @@
     "name": "solvins gård",
     "kind": "farm",
     "note": "Farm in Högbacka."
+  },
+  {
+    "name": "sowo ab:s snickeriverkstad",
+    "kind": "building"
   },
   {
     "name": "sowo:s snickeri",
@@ -5679,6 +5797,10 @@
     ]
   },
   {
+    "name": "stinäs",
+    "kind": "building"
+  },
+  {
     "name": "stjärnhallen",
     "kind": "building"
   },
@@ -5686,6 +5808,10 @@
     "name": "stockrännan",
     "kind": "landmark",
     "note": "Log chute past the dam."
+  },
+  {
+    "name": "stoltsborg",
+    "kind": "building"
   },
   {
     "name": "stor alörn",
@@ -5806,6 +5932,10 @@
   {
     "name": "strandliden",
     "kind": "landmark"
+  },
+  {
+    "name": "stubben",
+    "kind": "island"
   },
   {
     "name": "ständerhuset",
@@ -6447,6 +6577,10 @@
     "kind": "building"
   },
   {
+    "name": "vernamo prästgård",
+    "kind": "building"
+  },
+  {
     "name": "vernamo-kämppät",
     "kind": "building"
   },
@@ -6516,6 +6650,10 @@
     "alternateNames": [
       "wipplusti"
     ]
+  },
+  {
+    "name": "visten",
+    "kind": "village"
   },
   {
     "name": "våghuset",
@@ -6847,6 +6985,10 @@
   {
     "name": "östervallsgränd",
     "kind": "street"
+  },
+  {
+    "name": "östmans gård",
+    "kind": "farm"
   },
   {
     "name": "östra esplanaden",

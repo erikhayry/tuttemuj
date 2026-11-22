@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/hallonakbw.html",
+  "title": "Socklothällans båk 200 år av Bjarne Wikström",
+  "summary": "Bjarne Wikströms föredrag om farlederna i Nykarleby skärgård och om Socklothällans båk, som byggdes 1824, samt om de andra båkarna i området.",
+  "topics": [
+    "båk",
+    "sjöfart",
+    "skärgård",
+    "farleder"
+  ],
+  "people": [
+    {
+      "name": "Bjarne Wikström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklothällan",
+      "kind": "island",
+      "alternateNames": [
+        "Socklot Hällarne"
+      ]
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": [
+        "Bådan",
+        "Kasgrundet",
+        "Båken"
+      ],
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stubben",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Mässkär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Grisselön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Borgerskapet uppsatte ett litet torn som båk på Tornskär",
+      "date": {
+        "year": 1693,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ny båk byggdes på Socklothällan",
+      "date": {
+        "year": 1824,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Socklothällan"
+      ]
+    },
+    {
+      "title": "Båkarna på Stubben och Mässkär revs under Krimkriget",
+      "date": {
+        "year": 1854,
+        "circa": false,
+        "text": "1854–55"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Grisselöfesten med föredrag om båken",
+      "date": {
+        "year": 2024,
+        "circa": false,
+        "text": "28 juli"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "02712773d0f0e929029b259808511056d691e388fdb7a284f133e91c4e959a16",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

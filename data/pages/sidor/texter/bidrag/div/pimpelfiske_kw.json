@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/pimpelfiske_kw.html",
+  "title": "Tema pimpelfiske av Karl Wenelius",
+  "summary": "Karl Wenelius berättar om pimpelfiskets historia i Nykarleby från 1950-talet, pimpeltävlingen 1956 och striden om lakpimpling som slutade med förbud 1981.",
+  "topics": [
+    "fiske",
+    "pimpelfiske",
+    "skärgård"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Georg Högbom",
+      "alternateNames": [],
+      "roles": [
+        "alkodirektör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kråkskärssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Loppan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5189373,
+        "lng": 22.4200284,
+        "match": "name",
+        "gazetteerName": "loppan",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Möte om att bilda Nykarleby Sportfiskare",
+      "date": {
+        "year": 1956,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Pimpeltävling",
+      "date": {
+        "year": 1956,
+        "month": 3,
+        "day": 4,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nykarleby Fiskelag förbjöd lakpimpling",
+      "date": {
+        "year": 1981,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d2db3dbdb155b4bd6f310a0c36628576afeb1719c752aeffe9ecd8581b89eaba",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

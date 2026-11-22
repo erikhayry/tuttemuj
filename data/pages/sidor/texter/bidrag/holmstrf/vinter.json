@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/vinter.htm",
+  "title": "Vinter med snö och is av Folke Holmström",
+  "summary": "Folke Holmström minns vintrarna som barn: kälkåkning i Apoteksbacken, sparkstötting och bandy.",
+  "topics": [
+    "barndomsminnen",
+    "vinter",
+    "kälkåkning"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Harriet Gleisner",
+      "alternateNames": [
+        "Harriet Holmström"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Liam Walberg",
+      "alternateNames": [],
+      "roles": [
+        "koloristerade"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteksbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "71af68f5f7ee5f6a7a9c8d48a1495fa9382b40cfd945aecd99601883fe8029ad",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

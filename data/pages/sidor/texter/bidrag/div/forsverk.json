@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/forsverk.html",
+  "title": "Bjarne Fors bilverkstad av Stefan Fors",
+  "summary": "Stefan Fors berättar om farfar Erik Fors bilverkstad, som byggdes från 1929, och om konkursen, ägarbytena och minnen från verkstaden med många bilder.",
+  "topics": [
+    "bilverkstad",
+    "företagshistoria",
+    "familjeminnen"
+  ],
+  "people": [
+    {
+      "name": "Erik Fors",
+      "alternateNames": [],
+      "roles": [
+        "taxichaufför",
+        "bilverkstadsägare"
+      ]
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Heldine Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bjarne Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Toivo Storskrubb",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Verner Åhman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bjarne Fors bilverkstad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggdes på tomt 24, västra delen."
+    },
+    {
+      "name": "Karlssons hus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Fors började bygga verkstaden",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [
+        "Erik Fors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Verkstaden såldes på exekutiv auktion till Verner Åhman",
+      "date": {
+        "year": 1935,
+        "month": 3,
+        "day": 23,
+        "circa": false
+      },
+      "people": [
+        "Verner Åhman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Heldine Fors köpte egendomen",
+      "date": {
+        "year": 1936,
+        "month": 8,
+        "day": 11,
+        "circa": false
+      },
+      "people": [
+        "Heldine Fors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6bc5eebd52b6ead8bcd8629d54b9a10bf81136e06c546e0a45f378b947d99ff2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

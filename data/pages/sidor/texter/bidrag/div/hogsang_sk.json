@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/hogsang_sk.html",
+  "title": "Högsängen av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen visar en våningssäng som snickaren Rafael Riissanen gjorde 1953 och som flyttade med familjen till Lappfjärd.",
+  "topics": [
+    "snickeri",
+    "möbler",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Rafael Riissanen",
+      "alternateNames": [],
+      "roles": [
+        "snickare"
+      ]
+    },
+    {
+      "name": "Sakari Kuusinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Markus Riissanen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sowo Ab:s snickeriverkstad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "På östra sidan av Seminariegatan."
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rafael Riissanen gjorde våningssängen",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [
+        "Rafael Riissanen"
+      ],
+      "places": []
+    },
+    {
+      "title": "Familjen flyttade till Lappfjärd",
+      "date": {
+        "year": 1954,
+        "month": 6,
+        "circa": false,
+        "text": "juni 1954"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ad547502cee62c20ba46d0cb3db8c48e51edf6a70a96bb0736e7637ab4ba387c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

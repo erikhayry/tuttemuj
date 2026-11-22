@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/tradgard_mb.html",
+  "title": "Nybo – bärskörden 1948 från egna odlingar av Mats Blomqvist",
+  "summary": "Mats Blomqvist berättar om köksträdgården på Nybo, som hans far Hjalmar Blomqvist anlade 1944, och bärskörden 1948 som skickades till Helsingfors.",
+  "topics": [
+    "trädgård",
+    "Nybo",
+    "1940-talet"
+  ],
+  "people": [
+    {
+      "name": "Hjalmar Blomqvist",
+      "alternateNames": [],
+      "birthYear": 1907,
+      "deathYear": 2005,
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybo",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Östmans gård",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hjalmar Blomqvist köpte f.d. Nylunds villa",
+      "date": {
+        "year": 1944,
+        "circa": false
+      },
+      "people": [
+        "Hjalmar Blomqvist"
+      ],
+      "places": [
+        "Nybo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6f89e52f5d5ce99f2242b20129bf6a949d150e978554af922753fef2c2c0ea59",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

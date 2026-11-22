@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/karlgudb.htm",
+  "title": "Anteckningar från emigranten Viktor Käldströms besök i Alaska av Dage Byggmästar",
+  "summary": "Anteckningar om emigranten Viktor Käldström som i Alaska hittade en teckning av segelfartyget Karl Gustav från Nykarleby, ritad av en annan nykarlebybo, medan han sökte guld.",
+  "topics": [
+    "emigration",
+    "Alaska",
+    "guldletning",
+    "segelfartyg"
+  ],
+  "people": [
+    {
+      "name": "Viktor Käldström",
+      "alternateNames": [],
+      "roles": [
+        "emigrant",
+        "guldgrävare"
+      ]
+    },
+    {
+      "name": "Joel Westerlund",
+      "alternateNames": [
+        "Jeppo"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Frank Lawrence",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dage Byggmästar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Karl Käldström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Karl Gustav",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Segelfartyg från Nykarleby."
+    },
+    {
+      "name": "Redmond Creek",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Fairbanks",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Käldström reste hem till julen efter guldfyndet nära Tenderfoot Creek",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Käldström lämnade Alaska för gott",
+      "date": {
+        "year": 1909,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Mitt i vildmarken i Alaska hittar en guldgrävare i ett övergivet skjul en teckning av ett skepp med texten Karl Gustav Nykarleby – ritad av en gammal bekant från hemstaden.",
+    "reason": "Överraskande tillfälligheter i en dramatisk miljö.",
+    "characters": [
+      "Viktor Käldström",
+      "Joel Westerlund"
+    ],
+    "places": [
+      "Karl Gustav"
+    ]
+  },
+  "contentHash": "9762f7ce7a1b725ac778afbbc5353336dea9099006b7fd2be63559305fdeb4b6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

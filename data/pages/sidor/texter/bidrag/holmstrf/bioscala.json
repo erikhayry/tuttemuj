@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/bioscala.htm",
+  "title": "Några filmminnen - ur ett historiskt perspektiv av Folke Holmström",
+  "summary": "Folke Holmström berättar om filmens historia och om biograferna i Nykarleby, bland annat Anttilas biograf från 1921 vid Karleborgsgatan 1.",
+  "topics": [
+    "film",
+    "biograf",
+    "nöjesliv"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "A. Anttila",
+      "alternateNames": [],
+      "roles": [
+        "biografägare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ringska gården",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Karleborgsgatan 1",
+      "geo": {
+        "lat": 63.5198641,
+        "lng": 22.5342084,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "A. Anttila startade biograf i f.d. Ringska gården",
+      "date": {
+        "year": 1921,
+        "circa": false
+      },
+      "people": [
+        "A. Anttila"
+      ],
+      "places": [
+        "Ringska gården"
+      ]
+    },
+    {
+      "title": "Ett försök till biograf lades ner",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3793fe745e732064a9b79fa434851505eeae2a91159d39c6ca2b0dcf50c8431b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

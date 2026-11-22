@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/kyrkbran.htm",
+  "title": "När kyrkan brann av Lars Olav Schalin",
+  "summary": "Lars O. Schalin minns som åttaåring branden i Nykarleby kyrka 1929, hur familjen såg röken från vinden och släckningen med hinkkedjor.",
+  "topics": [
+    "kyrkbrand",
+    "barndomsminnen",
+    "brandkår"
+  ],
+  "people": [
+    {
+      "name": "Lars Olav Schalin",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Ingrid Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Vernamo prästgård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan brann",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Barn ser röken stiga från kyrktornet från vindskammaren, tills modern tar dem till brandplatsen där hinkkedjor och handdrivna sprutor kämpar.",
+    "reason": "Dramatisk scen sedd med barnets ögon.",
+    "characters": [
+      "Lars Olav Schalin"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "contentHash": "f656adb9c36d33308dfb6bce0e7601c6b8e193b42ac331d58ffe6c74e4e93a33",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

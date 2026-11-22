@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/sockenfh.htm",
+  "title": "Sockenstugan som \"klubblokal\" av Folke Holmström",
+  "summary": "Folke Holmström skriver om sockenstugan på Sockenstuguberget, som revs på 1970-talet, och om biljardens historia i Nykarleby.",
+  "topics": [
+    "sockenstuga",
+    "biljard",
+    "Lucia"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sockenstugan revs",
+      "date": {
+        "year": 1973,
+        "circa": false,
+        "text": "riven 73"
+      },
+      "people": [],
+      "places": [
+        "Sockenstugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a0670e75e91ced1b133c22f2c81dab56ca8b4f6150ea1e170e45371e21050c82",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

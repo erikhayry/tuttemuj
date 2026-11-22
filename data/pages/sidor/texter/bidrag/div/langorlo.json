@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/langorlo.htm",
+  "title": "Minnen från Långörn av Lars Östman",
+  "summary": "Lars Östman minns farfars torp på Långörn med huggormar, mygg och möss, och hur han och en kamrat rev det omkring 1959–61.",
+  "topics": [
+    "Långörn",
+    "skärgård",
+    "torp",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Lars Östman",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Rainer Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils-Olof Östman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Långörn",
+      "kind": "island",
+      "alternateNames": [
+        "Långön"
+      ],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Torpet på Långörn revs",
+      "date": {
+        "year": 1960,
+        "circa": true,
+        "text": "någon gång mellan 1959 och 1961"
+      },
+      "people": [
+        "Lars Östman",
+        "Rainer Nyman"
+      ],
+      "places": [
+        "Långörn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4c83cbe4c9b4bb5b04f835c2ec317111394ae1a647b73fe48003ee39a153d74b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

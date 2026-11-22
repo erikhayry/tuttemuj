@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/fhklappb.htm",
+  "title": "Folkes hågkomster",
+  "summary": "Folke Holmström minns lekkamrater och grannar, familjen Finström med skräddare, och somrarna vid Andra sjön.",
+  "topics": [
+    "barndomsminnen",
+    "Andrasjön",
+    "skräddare"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Bo Finström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Finström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sömno-Lennart",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c6b845a19b96b558908d6aa586144dbca513f6e631357b3df8955e0a558935b8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

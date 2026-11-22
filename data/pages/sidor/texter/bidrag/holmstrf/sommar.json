@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/sommar.htm",
+  "title": "Sommar vid vatten och hav av Folke Holmström",
+  "summary": "Folke Holmström minns barndomssomrarna vid älven norr om kyrkan, med vårflod, fiske vid klappbryggan och bad.",
+  "topics": [
+    "barndomsminnen",
+    "älven",
+    "fiske"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helena Pensar",
+      "alternateNames": [
+        "Helena Nihtilä"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Birgitta Lundell",
+      "alternateNames": [
+        "Birgitta Kuronen"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klappbryggan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Nedanför kraftverket."
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "03b2fd35734d04a2e89fdb6d60c8a15f0c6c21555fc6cbf772f57b65f9c851d2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/fhposten.htm",
+  "title": "Posten i Nykarleby - en historisk tillbakablick av Folke Holmström",
+  "summary": "Folke Holmström ger en historisk tillbakablick på postväsendet och på posten i Nykarleby, som han som barn bodde bredvid.",
+  "topics": [
+    "post",
+    "postväsen",
+    "historia"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Per Brahe",
+      "alternateNames": [],
+      "roles": [
+        "generalguvernör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Postkontoret",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg i Holmströms gård längs Kyrkogatan."
+    }
+  ],
+  "events": [
+    {
+      "title": "Finlands postväsen grundades",
+      "date": {
+        "year": 1638,
+        "circa": false
+      },
+      "people": [
+        "Per Brahe"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ccc567d36f6f495a106862ac565d4bb62ca36831a66a33ffdf19c48a49957667",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

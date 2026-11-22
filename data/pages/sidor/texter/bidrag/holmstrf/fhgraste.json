@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/fhgraste.htm",
+  "title": "Gråstenskällaren av Folke Holmström",
+  "summary": "Folke Holmström minns gråstenskällaren nedanför kyrkan, en lekplats och vattenkälla för Holmströms gård, som försvann när vattennivån höjdes på 1980-talet.",
+  "topics": [
+    "gråstenskällare",
+    "älven",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": [
+        "farfar"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Holmströms gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundströms gård",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Källaren försvann vid vattennivåhöjning",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "början på 1980-talet"
+      },
+      "people": [],
+      "places": [
+        "Gråstenskällaren"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bc38cf94690b62852f2424a141b4dce7c4523a5825c5dbe9beec0071aaf66c11",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

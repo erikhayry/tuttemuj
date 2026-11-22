@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/alko32_lp.html",
+  "title": "Ett 80-årsminne: Alko i Nykarleby 1932 av Lars Pensar",
+  "summary": "Lars Pensar minns hur Alko öppnade i Nykarleby i april 1932 efter att förbudslagen avskaffats, och var försäljningsstället sedan flyttade.",
+  "topics": [
+    "alkohol",
+    "Alko",
+    "1930-talet"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Georg Högbom",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kisors gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Ostro-center",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nya alkohollagen godkändes och förbudslagen avskaffades",
+      "date": {
+        "year": 1932,
+        "month": 1,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Alkoholiliike öppnade i Kisors gård i Nykarleby",
+      "date": {
+        "year": 1932,
+        "month": 4,
+        "day": 5,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kisors gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b411d8e7a28e2ed982720ada733ae644a4dab386f94f1b300446f50a9ecfc546",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

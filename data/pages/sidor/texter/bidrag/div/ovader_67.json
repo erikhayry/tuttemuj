@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/ovader_67.html",
+  "title": "Ovädrets makter 1967 av Mats Blomqvist",
+  "summary": "Mats Blomqvist minns skyfallet den 7 augusti 1967 då 150 mm regn svepte bort vägar och trummor vid Andrasjön.",
+  "topics": [
+    "oväder",
+    "Andrasjön",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Erkki Lindell",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bonäsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.50741889999999,
+        "lng": 22.4570607,
+        "match": "name",
+        "gazetteerName": "bonäsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybo",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skyfall med 150 mm regn",
+      "date": {
+        "year": 1967,
+        "month": 8,
+        "day": 7,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nuvarande Bonäsvägen blev klar",
+      "date": {
+        "year": 1968,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dd85609c3303f1def9af3fbe359365c45e08dff760fc358f8826ddb6af5894e5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

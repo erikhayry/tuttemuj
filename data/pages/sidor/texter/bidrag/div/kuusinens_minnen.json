@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/kuusinens_minnen.html",
+  "title": "Familjen Kuusinen i Nykarleby av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen berättar om familjens liv i Nykarleby på 1940- och 50-talen, fadern Viktors väg från Kanada och Nedervetil, bostäderna och vännerna.",
+  "topics": [
+    "familjehistoria",
+    "barndomsminnen",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Viktor Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skogsarbetsledare"
+      ]
+    },
+    {
+      "name": "Annikki Kuusinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vieno Huovinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Markus Riissanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelnsgränd",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsgränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5279455,
+        "lng": 22.5215628,
+        "match": "name",
+        "gazetteerName": "smedsgränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybergska huset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Viktor reste till Kanada för att söka sin far",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Viktor kom tillbaka till Finland",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Viktor och Annikki gifte sig i Helsingfors",
+      "date": {
+        "year": 1944,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Treåriga Seppo försvinner på sin trehjuling i flera timmar efter att ha följt med seminaristerna till Juthbacka.",
+    "reason": "Kort men tydlig episod med humor och oro.",
+    "characters": [
+      "Seppo Kuusinen"
+    ],
+    "places": [
+      "Juthbacka"
+    ]
+  },
+  "contentHash": "f55e832f0fd828d4d4c02c484dd6372db8574de1d2581440569d2154aa03bec5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

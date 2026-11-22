@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/sahlbom_ls.html",
+  "title": "Slussbyggmästaren Nils Sahlbom av Lars Smeds",
+  "summary": "Lars Smeds berättar om slussbyggmästaren Nils Sahlbom som arbetade vid bränneriet i Nykarleby 1783 och gifte sig med Anna Nyman.",
+  "topics": [
+    "slussbyggare",
+    "personhistoria",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Nils Sahlbom",
+      "alternateNames": [],
+      "birthYear": 1761,
+      "roles": [
+        "slussbyggmästare"
+      ]
+    },
+    {
+      "name": "Anna Maria Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Susanna Sahlbom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Smeds",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Haraldsholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Trollhättan",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nils Sahlbom och Anna Nyman gifte sig",
+      "date": {
+        "year": 1783,
+        "month": 10,
+        "day": 23,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Forsbacka"
+      ]
+    },
+    {
+      "title": "Nils Sahlbom arbetade i Nykarleby",
+      "date": {
+        "year": 1783,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fcb8ca192298e018abd93a27001cc974a7b757bcca1423f9684f7069ab206262",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

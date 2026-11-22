@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gyllene_sk.html",
+  "title": "En gyllene Nykarlebysommar av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen berättar om sommaren 2017 då han ordnade en återträff med barndomsvänner från Nykarleby och återsåg Vieno Huovinen.",
+  "topics": [
+    "återträff",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Vieno Huovinen",
+      "alternateNames": [
+        "Vieno Björkbacka"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Camilla Heikius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helena Lillrank",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lillkungs konditori",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Återträff på Lillkungs konditori",
+      "date": {
+        "year": 2017,
+        "month": 7,
+        "day": 8,
+        "circa": false
+      },
+      "people": [
+        "Seppo Kuusinen"
+      ],
+      "places": [
+        "Lillkungs konditori"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "59b2d98d16e1daf50ee58ebd8910dac9737cd624bf638d681ec9014f15bf81c2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

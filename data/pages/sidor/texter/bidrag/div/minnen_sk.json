@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/minnen_sk.html",
+  "title": "Barndomsminnen från Nykaabi av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen delar barndomsminnen från Nykarleby i början av 1950-talet, till exempel hur han som treåring försvann på sin trehjuling och besök hos slaktarna Eng.",
+  "topics": [
+    "barndomsminnen",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Markus Riissanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Annikki Kuusinen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminariums övningsskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Seppo började skolan",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Familjens flyttlass kördes till Lappfjärd",
+      "date": {
+        "year": 1954,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En liten pojke kommer hem med blodigt ansikte efter att ha druckit varmt slaktarblod hos bröderna Eng, och modern blir chockad.",
+    "reason": "Humoristisk barndomsscen.",
+    "characters": [
+      "Seppo Kuusinen",
+      "Annikki Kuusinen"
+    ],
+    "places": [
+      "Smedsbacken"
+    ]
+  },
+  "contentHash": "486faa09d81a429255dcfc4b8c4f52a6b4662788b487e94494a48d2dbfe0a94a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

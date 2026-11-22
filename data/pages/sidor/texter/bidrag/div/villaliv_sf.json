@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/villaliv_sf.html",
+  "title": "Villaliv på 60- och 70-talen av Stefan Fors",
+  "summary": "Stefan Fors minns villalivet vid Andrasjön 1965–1975, bygget av familjens villa med återanvänt virke och livet vid sjön.",
+  "topics": [
+    "villaliv",
+    "Andrasjön",
+    "1960-talet",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "birthYear": 1960,
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Bjarne Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elof Broman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjö strandväg 92",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Andrasjö strandväg 92"
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Sjöön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen började bygga villan",
+      "date": {
+        "year": 1965,
+        "circa": true,
+        "text": "gissningsvis 1965 eller 1966"
+      },
+      "people": [
+        "Bjarne Fors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ff3b41f7bbd890d7241fe1206752a50a77558bf4b1bb256267a22fec88334a6a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

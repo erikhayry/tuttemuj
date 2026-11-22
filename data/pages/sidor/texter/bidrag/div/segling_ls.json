@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/segling_ls.html",
+  "title": "Navigare necesse est av Leif Söderlund",
+  "summary": "Leif Söderlund minns segling på Andra sjön, från Comet-båtar och Oslojolle till Snipes och en kantring under en tävling.",
+  "topics": [
+    "segling",
+    "Andrasjön",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Nisse Luoma",
+      "alternateNames": [],
+      "roles": [
+        "seglare"
+      ]
+    },
+    {
+      "name": "Stefan Winqvist",
+      "alternateNames": [],
+      "roles": [
+        "seglare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Loppan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5189373,
+        "lng": 22.4200284,
+        "match": "name",
+        "gazetteerName": "loppan",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Två bröder seglar en hemmabyggd Snipe med halva båten full av vatten eftersom de inte hade råd med självlänsar, kommer först till kryssmärket men kantrar på slören.",
+    "reason": "Humoristisk seglingsmiss med tydligt förlopp.",
+    "characters": [
+      "Leif Söderlund"
+    ],
+    "places": [
+      "Andrasjön"
+    ]
+  },
+  "contentHash": "2dc8cc9a09503d06090319f97208d249bb19724162071b1f3c3a7da694750d52",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

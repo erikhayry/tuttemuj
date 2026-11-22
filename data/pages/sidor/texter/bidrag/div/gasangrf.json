@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gasangrf.htm",
+  "title": "Minnen från \"Gasängs-kvänen\" av Ragnar Fors",
+  "summary": "Ragnar Fors minns Gasängs kvarn, där hans far var mjölnare, med sågen, päronmalningen under kriget och roliga episoder bland kunderna.",
+  "topics": [
+    "kvarn",
+    "barndomsminnen",
+    "krigstiden"
+  ],
+  "people": [
+    {
+      "name": "Ragnar Fors",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Kvänasjoel",
+      "alternateNames": [
+        "Joel Forslund"
+      ],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Gunnar Rönn",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Oskar Siffris",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gasängs kvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Gasängs-kvänen"
+      ]
+    },
+    {
+      "name": "Haralds såg",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Fors far och mor gifte sig",
+      "date": {
+        "year": 1922,
+        "month": 5,
+        "day": 7,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En kund backar kärran mot ån för att skölja potatisen före rivning, och halva lasset hamnar i vattnet så att potatisen glänser på bred front hela hösten.",
+    "reason": "Humoristisk episod med tydlig komik.",
+    "characters": [
+      "Ragnar Fors"
+    ],
+    "places": [
+      "Gasängs kvarn"
+    ]
+  },
+  "contentHash": "98a36b95e0a75592744951efcf55efff59bf12c20cd2fea229aa4cfac49d9aef",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

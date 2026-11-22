@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/ballon03.htm",
+  "title": "Varmluftsballong över Nykarleby av Lars Pensar",
+  "summary": "Bilder av en varmluftsballong som sändes upp vid Juthbackamarknaden 2003, med en ballongfärd som vinstlott.",
+  "topics": [
+    "ballong",
+    "Juthbackamarknaden",
+    "2003"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Anders Fors d.ä.",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Klockaregränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51818359999999,
+        "lng": 22.5337715,
+        "match": "name",
+        "gazetteerName": "klockaregränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Varmluftsballongen över Nykarleby",
+      "date": {
+        "year": 2003,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Juthbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5311a8ba605a1425e1a7f7478904043483a31b951804f7fadc5d9366221f6019",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

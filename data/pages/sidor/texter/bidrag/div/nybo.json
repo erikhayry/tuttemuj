@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/nybo.htm",
+  "title": "Villa Blomqvist/Nylund/Ahlqvist vid Andra Sjön av Mats Blomqvist",
+  "summary": "Mats Blomqvist berättar om villan Nybo vid Andra sjön och dess ägare från handlanden Ahlqvist och konsul Carl Nylund till familjen Blomqvist.",
+  "topics": [
+    "villa",
+    "Andrasjön",
+    "byggnadshistoria"
+  ],
+  "people": [
+    {
+      "name": "Richard Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "partsredare",
+        "rådman",
+        "vicekonsul"
+      ]
+    },
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybo",
+      "kind": "building",
+      "alternateNames": [
+        "Villa Nybo"
+      ]
+    },
+    {
+      "name": "Marielund",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bonäsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.50741889999999,
+        "lng": 22.4570607,
+        "match": "name",
+        "gazetteerName": "bonäsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan 8",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Sollefteågatan 8",
+      "geo": {
+        "lat": 63.52180139999999,
+        "lng": 22.530978,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 8",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Alören",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hustimran flyttades till Andra sjön",
+      "date": {
+        "year": 1864,
+        "circa": true
+      },
+      "people": [
+        "Richard Ahlqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Marielund byggdes troligen",
+      "date": {
+        "year": 1870,
+        "circa": true
+      },
+      "people": [
+        "Richard Ahlqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "06674ca6fafdcb506d0582f9ba77b0f43f144102904f80f110210f92470d6b06",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

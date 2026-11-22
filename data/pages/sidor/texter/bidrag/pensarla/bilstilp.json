@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/bilstilp.htm",
+  "title": "Bilstickor",
+  "summary": "Lars Pensar visar en bevarad bilsticka, en stor tändsticka för att tända gengasaggregat, som pojkarna också använde som pyroteknisk bomb.",
+  "topics": [
+    "gengas",
+    "bilstickor",
+    "krigstiden"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Johan Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e6c58b076f99e7f2eecb2868d755022964b4d6875d94dfd6667039b4ae40eb75",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

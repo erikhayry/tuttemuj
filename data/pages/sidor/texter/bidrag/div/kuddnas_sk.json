@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/kuddnas_sk.html",
+  "title": "Kuddnäs, Topelius och jag av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen skriver om sitt skrivande, sin koppling till Topelius och Kuddnäs och en inträdesbiljett från 1946 då han ännu inte var född.",
+  "topics": [
+    "Topelius",
+    "Kuddnäs",
+    "barndomsminnen",
+    "journalistik"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent",
+        "tidningsman"
+      ]
+    },
+    {
+      "name": "Annikki Kuusinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vieno Björkbacka",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminariums övningsskola",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Annikki besökte Kuddnäs och skrev datum på inträdesbiljetten",
+      "date": {
+        "year": 1946,
+        "month": 7,
+        "day": 21,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "083520aa9f27ead325289edaf2e0334fdab9741056287f7943a71b17651f7e2b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/bomanspk.htm",
+  "title": "Maria Bomans pepparkakor",
+  "summary": "Maria Bomans pepparkaksrecept och en kort levnadsteckning över henne som seminariets husmor och matlagare.",
+  "topics": [
+    "recept",
+    "pepparkakor",
+    "seminariet"
+  ],
+  "people": [
+    {
+      "name": "Maria Boman",
+      "alternateNames": [],
+      "birthYear": 1900,
+      "deathYear": 1968,
+      "roles": [
+        "husmor",
+        "kokerska"
+      ]
+    },
+    {
+      "name": "Jan-Erik Solvin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan 11",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 11",
+      "geo": {
+        "lat": 63.52474589999999,
+        "lng": 22.524375,
+        "match": "address",
+        "gazetteerName": "seminariegatan 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nystan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221564,
+        "lng": 22.5200469,
+        "match": "name",
+        "gazetteerName": "nystan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Maria Boman kom tillbaka till hemstaden",
+      "date": {
+        "year": 1943,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "142ca015ca8b31732ebaefa7a9755a561a2a84952b992e33854527145b4e6857",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

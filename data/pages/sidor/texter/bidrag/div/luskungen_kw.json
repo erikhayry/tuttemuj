@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/luskungen_kw.html",
+  "title": "Luskungen av Karl Wenelius",
+  "summary": "Karl Wenelius berättar om sina två möten med fenomenet luskungen (härmasken) vid Andrasjön, bland annat 1988, och om folktron kring det.",
+  "topics": [
+    "natur",
+    "folktro",
+    "Andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Luskung observerades på villagården vid Andrasjön",
+      "date": {
+        "year": 1988,
+        "month": 7,
+        "day": 1,
+        "circa": false
+      },
+      "people": [
+        "Karl Wenelius"
+      ],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "61b63bbbb2526250449f95439054298007194795ad4ab228defe6a5332baa31c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

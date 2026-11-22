@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/lippjarv_kalle_kw.html",
+  "title": "Lippjärv-Kalle av Karl Wenelius",
+  "summary": "Karl Wenelius skildrar originalet Lippjärv-Kalle på Källbacken, känd för sina vilda skrönor om jakt och sparsamhet.",
+  "topics": [
+    "original",
+    "skrönor",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Karl Granlund",
+      "alternateNames": [
+        "Lippjärv-Kalle"
+      ],
+      "roles": [
+        "berättare"
+      ]
+    },
+    {
+      "name": "Maria Granlund",
+      "alternateNames": [],
+      "roles": [
+        "hustru"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Ahlströmska huset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Lippjärv-Kalle berättar hur han fick fyra orrar uppträdda på en brandstake med ett enda skott, och hur hustrun Mari lyfts av en vindpust och seglar över honom medan han ropar att hon ska släppa höfånget.",
+    "reason": "Absurda skrönor med stark komisk potential.",
+    "characters": [
+      "Karl Granlund",
+      "Maria Granlund"
+    ],
+    "places": [
+      "Grev Tottgatan"
+    ]
+  },
+  "contentHash": "c55d6ee13ab0e77b5d1670a361634287d15aa0f57b438051662d01837c68a1e8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/bomberlp.htm",
+  "title": "Bomber över Nykarleby av Lars Pensar",
+  "summary": "Lars Pensar berättar om bombningen av Nykarleby natten mot 22 februari 1944 och om civilförsvaret och luftbevakningen i staden under kriget.",
+  "topics": [
+    "krigstiden",
+    "bombningar",
+    "civilförsvar"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Oskar Holmqvist",
+      "alternateNames": [],
+      "roles": [
+        "chef för skyddskåren"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skyddskårsgården."
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sovjetisk bombning av Kronoby, Jakobstad och Nykarleby",
+      "date": {
+        "year": 1944,
+        "month": 2,
+        "day": 22,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Karleborg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7f9677d8903620b766d1dcd6bc567f89e672e755098d56714571bae885c098f4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

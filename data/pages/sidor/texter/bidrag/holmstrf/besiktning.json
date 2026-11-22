@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/besiktning.html",
+  "title": "I backspegeln – bilbesiktning av Folke Holmström",
+  "summary": "Folke Holmström minns bilbesiktning på torget i Nykarleby och bakgrunden till fordonsbesiktningen i Finland.",
+  "topics": [
+    "bilbesiktning",
+    "torget",
+    "bilism"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "G. M. Bergroth",
+      "alternateNames": [],
+      "roles": [
+        "besiktningsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Besiktning av fordon började i Helsingfors",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Landsomfattande förordning om fordonstrafik",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9ab872d52a6f2a6a7c50782ea8f1528b4061f0de0e11969825360668b0249994",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

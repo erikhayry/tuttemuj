@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/totti.html",
+  "title": "Några bilder från minnesutställningen Om Totti av Folke Holmström",
+  "summary": "Folke Holmström visar bilder från minnesutställningen Om Totti och minns Torsten Korsström, som hyrde i gården på Kyrkogatan 6.",
+  "topics": [
+    "Torsten Korsström",
+    "konst",
+    "utställning"
+  ],
+  "people": [
+    {
+      "name": "Torsten Korsström",
+      "alternateNames": [
+        "Totti"
+      ],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Tuva Korsström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkogatan 6",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 6",
+      "geo": {
+        "lat": 63.52252730000001,
+        "lng": 22.5272383,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhusgalleriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnesutställningen Om Totti på Rådhusgalleriet",
+      "date": {
+        "year": 2009,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rådhusgalleriet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0a9d3eb36a09b3726fe75756db5085a27fecee422df556f73e0c5eca542ab3c9",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

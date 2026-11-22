@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/willmansper.html",
+  "title": "Per-Erik Willman och hans företag Maskinröjning Lindvall & Willman av Kenneth Frostdahl",
+  "summary": "Kenneth Frostdahl presenterar Per-Erik Willman och grävmaskinsfirman Lindvall & Willman som verkade 1961–1997, med maskinlista och minnen.",
+  "topics": [
+    "entreprenad",
+    "grävmaskiner",
+    "företag"
+  ],
+  "people": [
+    {
+      "name": "Per-Erik Willman",
+      "alternateNames": [],
+      "roles": [
+        "grävmaskinsentreprenör"
+      ]
+    },
+    {
+      "name": "Bror Lindvall",
+      "alternateNames": [],
+      "roles": [
+        "kusin",
+        "kompanjon"
+      ]
+    },
+    {
+      "name": "Kenneth Frostdahl",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bådan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Willman köpte sin första Pikku-Jussi",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Firman Lindvall & Willman verkade",
+      "date": {
+        "year": 1961,
+        "circa": false,
+        "text": "1961–1997"
+      },
+      "people": [
+        "Per-Erik Willman",
+        "Bror Lindvall"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fb3d2e82660fe20cd7c2f807c29af98ba110e87e717dd1028c03d5bedbd1d8cf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

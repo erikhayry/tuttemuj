@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gakabomb.html",
+  "title": "DX-minnen från kriget av Arne Krokfors",
+  "summary": "Arne Krokfors berättar hur en radiomottagare 1944 gav förvarning om ett flyganfall så att Gamlakarleby mörklades och bomberna föll på landsbygden. Texten handlar om grannstaden men tas med på sajten.",
+  "topics": [
+    "krigstiden",
+    "radioamatörer",
+    "luftförsvar"
+  ],
+  "people": [
+    {
+      "name": "Arne Krokfors",
+      "alternateNames": [],
+      "roles": [
+        "radioamatör"
+      ]
+    },
+    {
+      "name": "Sixten Nyman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Jakobstad",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Radiovarning om flyganfall mot Gamlakarleby",
+      "date": {
+        "year": 1944,
+        "circa": false,
+        "text": "fastlagstisdagen 1944"
+      },
+      "people": [
+        "Arne Krokfors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Radioamatören hör ett radiomeddelande om trettio bombplan på väg, men bevakningen vägrar tro honom. Han tvingar fram släckt belysning och staden räddas.",
+    "reason": "Spännande scen med varning, tvekan och räddning.",
+    "characters": [
+      "Arne Krokfors"
+    ],
+    "places": []
+  },
+  "contentHash": "f9850692c17e5e96ce15b497bd7e76463c1d47013a3ebd6e446a8fb235897bca",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

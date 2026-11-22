@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/takmalmn.htm",
+  "title": "Takmålningar i Nykarleby kyrka",
+  "summary": "Sida om takmålningarna i Nykarleby kyrka, målade av Daniel Hjulström 1749, med en bild av treenighetssymbolen.",
+  "topics": [
+    "kyrka",
+    "takmålningar",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Lars-Johan Sandvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikaela Nyman",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Takmålningarna målades",
+      "date": {
+        "year": 1749,
+        "circa": false
+      },
+      "people": [
+        "Daniel Hjulström"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a31d6215c3f7730935a03075abfafe3d4629c764f5761bcd3efec0118afbfdcf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

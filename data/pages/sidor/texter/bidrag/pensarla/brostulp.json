@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/brostulp.htm",
+  "title": "Brostugan - Stora bron av Lars Pensar",
+  "summary": "Lars Pensar skriver om Brostugan och Stora bron, bland annat om striden vid Nykarleby 1808 då bron sattes i brand och von Döbeln nästan drunknade.",
+  "topics": [
+    "Brostugan",
+    "Stora bron",
+    "1808–09 års krig"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Adlercreutz",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 2"
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråstenskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nya bron byggdes",
+      "date": {
+        "year": 1805,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Striden vid Nykarleby; ryssarna satte eld på bron",
+      "date": {
+        "year": 1808,
+        "circa": false,
+        "text": "midsommaren 1808"
+      },
+      "people": [
+        "Georg Carl von Döbeln",
+        "Adlercreutz"
+      ],
+      "places": [
+        "Stora bron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "När ryssarna bränner bron rusar von Döbeln ned i älven för att ingripa, förlorar sin värja och håller på att drunkna tills en soldat får tag i hans rock och drar honom i land.",
+    "reason": "Dramatisk historisk scen med en känd person.",
+    "characters": [
+      "Georg Carl von Döbeln"
+    ],
+    "places": [
+      "Stora bron"
+    ]
+  },
+  "contentHash": "9b793bc654fd54b978dab88522182d047381b5f78c6b761fdded4c0652d741f3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

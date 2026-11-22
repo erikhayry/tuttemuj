@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/altartav.htm",
+  "title": "Altartavlor och andra tavlor i Nykarleby kyrka av Lars Pensar",
+  "summary": "Lars Pensar jämför måtten på altartavlorna i Nykarleby kyrka och en tidigare altartavla som mätts upp i Alajärvi.",
+  "topics": [
+    "kyrka",
+    "altartavlor",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Uppmätning av tavlan i Alajärvi",
+      "date": {
+        "year": 2007,
+        "month": 9,
+        "day": 3,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Uppmätning av altartavlan i Nykarleby kyrka",
+      "date": {
+        "year": 2007,
+        "month": 10,
+        "day": 22,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f29cc34df5e82495df9c6449157a134cc2c651b54dc31c2197f2c32656a9f2dd",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

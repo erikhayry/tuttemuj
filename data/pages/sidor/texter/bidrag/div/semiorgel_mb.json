@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/semiorgel_mb.html",
+  "title": "Orgeln vid Nykarleby seminarium av Mats Björkstrand",
+  "summary": "Mats Björkstrand beskriver piporgeln vid Nykarleby seminarium, som byggdes 1964–66 av Hans Heinrich och invigdes 1966.",
+  "topics": [
+    "orgel",
+    "seminariet",
+    "musikundervisning"
+  ],
+  "people": [
+    {
+      "name": "Mats Björkstrand",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Hans Heinrich",
+      "alternateNames": [],
+      "roles": [
+        "orgelbyggare"
+      ]
+    },
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [
+        "rektor"
+      ]
+    },
+    {
+      "name": "Rafael Ahlbeck",
+      "alternateNames": [],
+      "roles": [
+        "musiklektor"
+      ]
+    },
+    {
+      "name": "Göran Wikström",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Orgeln byggdes",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "1964–66"
+      },
+      "people": [
+        "Hans Heinrich"
+      ],
+      "places": []
+    },
+    {
+      "title": "Orgeln invigdes",
+      "date": {
+        "year": 1966,
+        "month": 9,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "da8dd0ffb22ce2f8647c2812633e1e1d6cac09c82f3074bfe5ab23706d2e8a85",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

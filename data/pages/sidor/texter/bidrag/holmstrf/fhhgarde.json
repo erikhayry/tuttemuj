@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/fhhgarde.htm",
+  "title": "Holmströms trädgård",
+  "summary": "Folke Holmström minns farfar Victors trädgård på Holmströms gård vid Kyrkogatan, med tomathuset och lekstugan, som numera är borta.",
+  "topics": [
+    "trädgård",
+    "Holmströms gård",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": [
+        "farfar"
+      ]
+    },
+    {
+      "name": "Harriet Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rudolf Holmström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Holmströms gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströms magasin",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "083a06be4331cec3af4b158ba4ebcdd848effc0594d07db642828b6de113a8ff",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

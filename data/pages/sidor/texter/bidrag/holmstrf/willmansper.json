@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/willmansper.html",
+  "title": "Tre möten med Per-Erik Willman av Folke Holmström",
+  "summary": "Folke Holmström berättar om tre möten med grävmaskinsföretagaren Per-Erik Willman, bland annat när Willman hjälpte att hitta ett vattenläckage och en rundtur 2008.",
+  "topics": [
+    "Per-Erik Willman",
+    "grävmaskiner",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Per-Erik Willman",
+      "alternateNames": [],
+      "roles": [
+        "grävmaskinsentreprenör"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Nils Levlin",
+      "alternateNames": [],
+      "roles": [
+        "stadsbyggmästare"
+      ]
+    },
+    {
+      "name": "Matts Carlsson Holmström",
+      "alternateNames": [],
+      "birthYear": 1819,
+      "deathYear": 1868,
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan 6",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 6",
+      "geo": {
+        "lat": 63.52252730000001,
+        "lng": 22.5272383,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sorvist",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49449620000001,
+        "lng": 22.6505617,
+        "match": "name",
+        "gazetteerName": "sorvist",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Visten",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Besök i Sorvist och Visten med Per-Erik Willman",
+      "date": {
+        "year": 2008,
+        "month": 10,
+        "circa": false
+      },
+      "people": [
+        "Per-Erik Willman",
+        "Folke Holmström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4791e8bd692133b7ec9e52852fea54a98ba6aac17c610e8b85dde4f16f19bb7b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

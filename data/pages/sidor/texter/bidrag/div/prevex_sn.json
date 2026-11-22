@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/prevex_sn.htm",
+  "title": "Prevex-produkter av Stefan Nyman",
+  "summary": "Stefan Nyman, vd för Prevex 1980–2004, berättar om företagets produkter som golvbrunnar, yxskaft och vattenlås.",
+  "topics": [
+    "Prevex",
+    "industri",
+    "plast"
+  ],
+  "people": [
+    {
+      "name": "Stefan Nyman",
+      "alternateNames": [],
+      "roles": [
+        "vd för Prevex"
+      ]
+    },
+    {
+      "name": "Torsten Sundell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Lillvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Josef Nyman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Prevex",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Åminnevägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5580228,
+        "lng": 22.5428763,
+        "match": "name",
+        "gazetteerName": "åminnevägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Torsun-golvbrunnens formar blev klara",
+      "date": {
+        "year": 1969,
+        "circa": true,
+        "text": "slutet på 60-talet"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "df12d07ead14c9d964aed3aea6727e74634bb33b882af286c21d19ee3e5eaf8c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

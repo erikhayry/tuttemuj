@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/sondiden.htm",
+  "title": "Försök till identifikation av barnen i söndagsskolan anno 1946?",
+  "summary": "Försök att identifiera barnen på ett söndagsskolefoto från 1946 med namnlista och uppgifter om vilka delar av staden de bodde i.",
+  "topics": [
+    "söndagsskola",
+    "fotografi",
+    "identifiering"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Adèle Broman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helena Nihtilä",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Anttila",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nystan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221564,
+        "lng": 22.5200469,
+        "match": "name",
+        "gazetteerName": "nystan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedsbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Högbacka",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Söndagsskolans foto",
+      "date": {
+        "year": 1946,
+        "circa": true,
+        "text": "1946?"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4010e42f7b17cf4a09a3205bd3fd8eb3330d5870e9c8b1154ebadd3f055276c7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

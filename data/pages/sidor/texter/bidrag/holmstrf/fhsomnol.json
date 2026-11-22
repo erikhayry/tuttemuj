@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/fhsomnol.htm",
+  "title": "Ernst Lennart Holmström (f. 21.4.1904. d. 29.12.1964) alias \"Sömno-Lennart\"",
+  "summary": "Folke Holmström berättar om sin släkting Ernst Lennart Holmström, kallad Sömno-Lennart, en blygsam reparatör och handlare som bodde ensam i en stuga i Nystan.",
+  "topics": [
+    "personminnen",
+    "Nystan",
+    "handel"
+  ],
+  "people": [
+    {
+      "name": "Ernst Lennart Holmström",
+      "alternateNames": [
+        "Sömno-Lennart"
+      ],
+      "birthYear": 1904,
+      "deathYear": 1964,
+      "roles": [
+        "reparatör",
+        "handlare"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Edward Holmström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nystan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221564,
+        "lng": 22.5200469,
+        "match": "name",
+        "gazetteerName": "nystan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lennart föddes",
+      "date": {
+        "year": 1904,
+        "month": 4,
+        "day": 21,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lennart avled",
+      "date": {
+        "year": 1964,
+        "month": 12,
+        "day": 29,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "21a719b7260f3b93ec84cacfca1e67083f805766a020eb185f27f5a67d77f284",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

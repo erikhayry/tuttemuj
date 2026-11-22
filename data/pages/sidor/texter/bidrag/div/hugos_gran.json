@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/hugos_gran.html",
+  "title": "Hugos gran",
+  "summary": "En gammal gran vid Gustav Adolfsgatan 31 som Hugo Liljeström minns att hans far planterade fälldes 2025; sidan följer fällningen i bilder.",
+  "topics": [
+    "träd",
+    "landmärke",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "birthYear": 1906,
+      "roles": []
+    },
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jim Björklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kenneth Frostdahl",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 31",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 31"
+    },
+    {
+      "name": "Långön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Granen fälldes",
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 3,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan 31"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e1ef9aeb23613a4cdd8d98d11fb51b48f0ac4096e66ca97fcc4ce8cfde55abbb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

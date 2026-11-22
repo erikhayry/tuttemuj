@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/holmstrf/korvkop.html",
+  "title": "Nattkorv med förhinder av Folke Holmström",
+  "summary": "Folke Holmström minns hur han en sommarkväll på 1950-talet blev gripen i korvkön vid Lundqvists korvkiosk för att ha kört motorcykel efter klockan 20.",
+  "topics": [
+    "korvkiosk",
+    "torget",
+    "1950-talet",
+    "polis"
+  ],
+  "people": [
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Antti Vironen",
+      "alternateNames": [
+        "V-u"
+      ],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Teodor Lund",
+      "alternateNames": [],
+      "roles": [
+        "konstapel"
+      ]
+    },
+    {
+      "name": "Elof Ohls",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lundqvists korvkiosk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Poliskammaren",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En ung man står i kö vid korvkiosken när polisen kommer springande över esplanaden och för honom till poliskammaren för att ha kört motorcykel efter klockan 20. Någon korv blir det aldrig, men länsmannen ber till slut om ursäkt.",
+    "reason": "Komisk incident med polisjakt, förhör och oväntad upplösning.",
+    "characters": [
+      "Folke Holmström",
+      "Antti Vironen",
+      "Teodor Lund",
+      "Elof Ohls"
+    ],
+    "places": [
+      "Lundqvists korvkiosk",
+      "Torget",
+      "Poliskammaren"
+    ]
+  },
+  "contentHash": "a145c37a0ec3706b92b979b49fba44e1f9956d76c5d7cecf823ae44b4699d8f3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

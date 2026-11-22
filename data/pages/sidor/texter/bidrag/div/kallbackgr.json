@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/kallbackgr.html",
+  "title": "Källbacksgrannar av Karl Wenelius",
+  "summary": "Karl Wenelius beskriver grannarna i sitt kvarter på Källbacken under barn- och ungdomstiden, från hästbytarna till originalen i området.",
+  "topics": [
+    "Källbacken",
+    "grannar",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Dimitri Knutar",
+      "alternateNames": [
+        "Dimi"
+      ],
+      "birthYear": 1902,
+      "deathYear": 1945,
+      "roles": []
+    },
+    {
+      "name": "Edvard Markkula",
+      "alternateNames": [],
+      "roles": [
+        "poliskonstapel"
+      ]
+    },
+    {
+      "name": "Blåbäri-Aina",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lippjärv-Kalle",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Nikonen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [
+        "Nälkämäki"
+      ],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 30",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 30",
+      "geo": {
+        "lat": 63.52497169999999,
+        "lng": 22.5340416,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 30",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Dimi Knutars",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dimi Knutars hus revs",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Småpojkar leker och hoppar från höskullen i Dimis stora lada och en klackjärnsko slår ut en framtand, medan hästbytarna svär på gatan utanför.",
+    "reason": "Livfulla barndomsscener med humor.",
+    "characters": [
+      "Karl Wenelius",
+      "Dimitri Knutar"
+    ],
+    "places": [
+      "Dimi Knutars"
+    ]
+  },
+  "contentHash": "01d004179935dfebcda3cf97c341ab8309570b366446592172ed522effdcbf13",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}

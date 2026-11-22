@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/hugolilj.htm",
+  "title": "Minnen av Hugo Liljeström av Karl Wenelius",
+  "summary": "Karl Wenelius minns grannen Hugo Liljeström på Källbacken: hjälpsam, humoristisk och intresserad av lokalhistoria, med kvällsbesök av äldre män.",
+  "topics": [
+    "personminnen",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": [
+        "granne"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbackgatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Källbackgatan 3",
+      "geo": {
+        "lat": 63.52522889999999,
+        "lng": 22.5354757,
+        "match": "address",
+        "gazetteerName": "källbackgatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Potatistalko på Kampen",
+      "date": {
+        "year": 1981,
+        "circa": false
+      },
+      "people": [
+        "Hugo Liljeström",
+        "Håkan Wenelius"
+      ],
+      "places": [
+        "Kampen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f64b615cfab124938f831c216504e860b7bc4da99d227868b2450dda00fbd563",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:47:14.839Z"
+}
