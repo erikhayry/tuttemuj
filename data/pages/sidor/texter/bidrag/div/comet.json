@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/comet.htm",
+  "title": "Om Comet",
+  "summary": "Kommentarer och brev om Comet-båtarna som syntes vid Andra sjön på 1950-talet, ritade av Nils Börje Wiklund som också byggde dem med en kompanjon i Jakobstad.",
+  "topics": [
+    "båtar",
+    "Comet",
+    "Andrasjön",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Nils Börje Wiklund",
+      "alternateNames": [],
+      "deathYear": 1988,
+      "roles": [
+        "båtkonstruktör"
+      ]
+    },
+    {
+      "name": "Nisse Kronholm",
+      "alternateNames": [],
+      "roles": [
+        "båtbyggare"
+      ]
+    },
+    {
+      "name": "Ann-Mari Backlund",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skutnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Dåvarande Pedersöre, numera Jakobstad; här fanns Wiklunds och Kronholms båtbyggeri."
+    }
+  ],
+  "events": [
+    {
+      "title": "Wiklund ritade Comet-båten",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "i slutet av 40-talet"
+      },
+      "people": [
+        "Nils Börje Wiklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Wiklund flyttade till Sverige",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "people": [
+        "Nils Börje Wiklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e6b53265e3730dde5ce51c782a332f285118695986035cd18ea11b9158d07c20",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

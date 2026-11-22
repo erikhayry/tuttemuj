@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
+  "title": "Skalden Zacharias Topelius 1818–1898, född på Kuddnäs",
+  "summary": "Uppslagsverkets omfattande artikel om Topelius liv och författarskap, med noteringen att Kuddnäs låg strax utanför stadsgränsen, samt bilder av Edelfelts porträtt av skalden.",
+  "topics": [
+    "Topelius",
+    "litteratur",
+    "historia",
+    "Kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zachris Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "författare",
+        "tidningsman",
+        "historiker",
+        "professor"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius d.ä.",
+      "alternateNames": [],
+      "roles": [
+        "läkare",
+        "runosamlare"
+      ]
+    },
+    {
+      "name": "Sofie Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "Topelius mor"
+      ]
+    },
+    {
+      "name": "Albert Edelfelt",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Topelius födelsegård, strax utanför Nykarlebys stadsgräns."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius föddes på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "f. 14/1 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Topelius avled på Björkudden i Sibbo",
+      "date": {
+        "year": 1898,
+        "month": 3,
+        "day": 12,
+        "circa": false,
+        "text": "d. 12/3 1898"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Edelfelt målade Topelius porträtt",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius",
+        "Albert Edelfelt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9f858a02b923ab35c535bf0a523222df456a069c86023e4c9de61160874b1667",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/vaxeltan.htm",
+  "title": "\"Växeltanten\" Vieno Birck",
+  "summary": "Jorma Metsos minnen av växeltelefonisten Vieno Birck och av boendet i huset vid Topeliusesplanaden, intill Rudnäs ur och Pitkänens sportaffär, tillsammans med kommentarer om kvarteren runt omkring.",
+  "topics": [
+    "barndomsminnen",
+    "telefon",
+    "stadsmiljö",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Vieno Birck",
+      "alternateNames": [],
+      "roles": [
+        "telefonist"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Pitkänen",
+      "alternateNames": [],
+      "roles": [
+        "sportaffärsinnehavare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Trivialskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset där den manuella telefonväxeln fanns."
+    },
+    {
+      "name": "Rudnäs ur & guld",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Plast och sport",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Pitkänens sportaffär."
+    },
+    {
+      "name": "Björkvalls gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "I Borgaregatslängan."
+    },
+    {
+      "name": "Bircks bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid Jakobstadsvägen, en bit före kvarnen."
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Brunn där vatten hämtades."
+    },
+    {
+      "name": "Klarakvarteren",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nordlings gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 6",
+      "description": "Vid korsningen med Sollefetågatan.",
+      "geo": {
+        "lat": 63.5215507,
+        "lng": 22.5298476,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "be64498465dd8daab730b91435756b9db52141eb57a73e5d7b4ff7c7fce5699c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/dominionbrev.html",
+  "title": "Dominion Creek 1 april 1903",
+  "summary": "Brev från Klondyke 1903 där en man från Bonäs berättar för sin far om resan till Dawson och Dominion Creek och arbetet på guldfälten.",
+  "topics": [
+    "Klondyke",
+    "utvandring",
+    "guldrush",
+    "brev"
+  ],
+  "people": [
+    {
+      "name": "August Johnson",
+      "alternateNames": [],
+      "roles": [
+        "brevskrivare",
+        "guldgrävare"
+      ]
+    },
+    {
+      "name": "Alfred",
+      "alternateNames": [],
+      "roles": [
+        "guldgrävare"
+      ]
+    },
+    {
+      "name": "Arne Nylund",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bonäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Långbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bjerkbackan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "August Johnson kom till Dominion Creek",
+      "date": {
+        "year": 1903,
+        "month": 3,
+        "day": 10,
+        "circa": false,
+        "text": "10 mars"
+      },
+      "people": [
+        "August Johnson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Två män från Bonäs tar sig till Klondyke med båt, tåg och häst på sex dagar, medan Alfred går den långa vägen till fots, och börjar genast arbeta på guldfälten i den hårda vintern.",
+    "reason": "Brevet beskriver en äventyrlig färd och en främmande miljö men är mest en reseskildring.",
+    "characters": [
+      "August Johnson",
+      "Alfred"
+    ],
+    "places": [
+      "Bonäs"
+    ]
+  },
+  "contentHash": "74190027b3733b6092f0127d88e045f3bf4f3e26eb834c009092cddc7f88411b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

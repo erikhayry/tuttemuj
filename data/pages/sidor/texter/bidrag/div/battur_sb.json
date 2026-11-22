@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/battur_sb.html",
+  "title": "En roddtur på älven sommaren 1972 av Sven Bertlin",
+  "summary": "Fotoserie från en roddtur på älven 1972 med stopp vid Brunnsholmarna, stadskvarnen, storbron, kyrkan, Floraparken, kraftverket, Kuddnäs och hamnen, med kommentarer om hur miljön förändrats.",
+  "topics": [
+    "älven",
+    "fotografi",
+    "kraftverket",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerade fotona"
+      ]
+    },
+    {
+      "name": "Fredrik Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikael Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Engs garveri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlerska gården",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bro från 1817."
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Sankta Birgitta kyrka"
+      ],
+      "description": "Kyrka från 1708.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströms magasin",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Holmströmska gården",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Fåfängan"
+      ],
+      "description": "Statyn Flora restes 1937."
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frihetsmonumentet",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsvik",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Nedanför Badhusstigen."
+    }
+  ],
+  "events": [
+    {
+      "title": "Roddtur på älven med båten Joh-Anna",
+      "date": {
+        "year": 1972,
+        "circa": false
+      },
+      "people": [
+        "Sven Bertlin",
+        "Lars Pensar"
+      ],
+      "places": []
+    },
+    {
+      "title": "Floraparken fick statyn Flora",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [
+        "Viktor Malmberg"
+      ],
+      "places": [
+        "Floraparken"
+      ]
+    },
+    {
+      "title": "Kraftverket byggdes ut",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6d730e33b89fe471eab529ee868fef8ee655aeaaaef38edd1537e673ea5aaefa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

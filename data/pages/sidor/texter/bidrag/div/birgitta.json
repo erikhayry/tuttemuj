@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/birgitta.htm",
+  "title": "Heliga Birgitta i Nykarleby kyrka",
+  "summary": "En ny målning av heliga Birgitta av Helge Hedman hängdes upp i Nykarleby kyrka 2003; kyrkan bär helgonets namn.",
+  "topics": [
+    "kyrka",
+    "konst",
+    "Birgitta"
+  ],
+  "people": [
+    {
+      "name": "Helge Hedman",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Lars-Johan Sandvik",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Sankta Birgitta kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Birgittabilden hängdes upp på kyrkans södra vägg",
+      "date": {
+        "year": 2003,
+        "month": 9,
+        "day": 27,
+        "circa": false,
+        "text": "lördagen den 27 september 2003"
+      },
+      "people": [
+        "Helge Hedman"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a1f1fb69489f43e7c83893530ef3c8aeb6994e01fc444321bb966c105feba45c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

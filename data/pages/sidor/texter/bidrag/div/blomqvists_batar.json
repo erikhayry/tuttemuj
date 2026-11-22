@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/blomqvists_batar.html",
+  "title": "Blomqvists båtar av Mats Blomqvist",
+  "summary": "Familjen Blomqvists båtar genom tiderna, från farens motorbåt på 1950-talet till roddbåten som vilar på Barlastgrundet, med kommentar av holmens nuvarande ägare.",
+  "topics": [
+    "båtar",
+    "skärgård",
+    "Andrasjön",
+    "familjeminnen"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    },
+    {
+      "name": "Hjalmar Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "båtägare"
+      ]
+    },
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": [
+        "ägare till Barlastgrundet"
+      ]
+    },
+    {
+      "name": "Lena Sjöskog",
+      "alternateNames": [],
+      "roles": [
+        "ägare till Barlastgrundet"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Barlastgrundet",
+      "kind": "island",
+      "alternateNames": [
+        "Lövgrund"
+      ]
+    },
+    {
+      "name": "Nybo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Båtskjul."
+    },
+    {
+      "name": "Andrasjöstranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Spitilinkgrundet",
+      "kind": "island",
+      "alternateNames": [
+        "Grannholmen"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Hjalmar Blomqvist ägde motorbåten",
+      "date": {
+        "year": 1953,
+        "circa": false,
+        "text": "1953–1962"
+      },
+      "people": [
+        "Hjalmar Blomqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Familjen Sjöskog köpte Barlastgrundet",
+      "date": {
+        "year": 1982,
+        "circa": false
+      },
+      "people": [
+        "Lena Sjöskog"
+      ],
+      "places": [
+        "Barlastgrundet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5138e52eb216f4de4d91a5657ebef3f9978e58536f361be09bd82fd7265d6d45",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

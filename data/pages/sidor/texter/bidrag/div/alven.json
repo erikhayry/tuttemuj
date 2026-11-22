@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/alven.htm",
+  "title": "Kommer ni hem och har drunknat får ni stryk! av Solveig Sjöskog",
+  "summary": "Solveig Sjöskog minns sin barndom vid ån på 1950-talet: ett fall genom isen vid isvaken, de dolda torkade byxorna, seminariedirektören som sett alltihop och lekarna vid dammen.",
+  "topics": [
+    "barndomsminnen",
+    "ån",
+    "dammen",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Schantzen",
+      "alternateNames": [],
+      "roles": [
+        "direktör för seminariet"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "ån",
+      "kind": "waterbody",
+      "alternateNames": [
+        "älven"
+      ]
+    },
+    {
+      "name": "dammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Magadaskar",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Liten holme på andra sidan ån där barnen metade."
+    }
+  ],
+  "events": [
+    {
+      "title": "Solveig föll genom den tunna isen vid isvaken",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "i början på 50-talet"
+      },
+      "people": [
+        "Solveig Sjöskog",
+        "Schantzen"
+      ],
+      "places": [
+        "ån"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En flicka går på den svarta, genomskinliga isen vid isvaken trots pappas varning om Näcken, och trillar i med ena benet. Hon smyger hem och torkar byxorna på elementet, men dagen därpå viskar seminariedirektören något som avslöjar att han sett allt.",
+    "reason": "Rolig och spännande barndomsscen med förbjudet äventyr, hemlighet och ett skämtsamt avslöjande.",
+    "characters": [
+      "Solveig Sjöskog",
+      "Schantzen"
+    ],
+    "places": [
+      "ån"
+    ]
+  },
+  "contentHash": "8fb94b59cdae5a25ed2e8f049d44f7aa19288bedbc379624cd6e8770fe9da9ed",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

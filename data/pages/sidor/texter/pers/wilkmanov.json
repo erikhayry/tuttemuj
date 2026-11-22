@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/wilkmanov.html",
+  "title": "Minnesruna över Oskar Valdemar Wilkman (1940)",
+  "summary": "Dödsruna över apotekaren och stadsdirektören Oskar Wilkman, som drev stamapoteket i Nykarleby, grundade Nykarleby Stevedoring och var stadens direktör från 1931.",
+  "topics": [
+    "apotek",
+    "stadsförvaltning",
+    "stevedoring",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Oskar Valdemar Wilkman",
+      "alternateNames": [],
+      "birthYear": 1887,
+      "deathYear": 1940,
+      "roles": [
+        "apotekare",
+        "stadsdirektör",
+        "affärsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "stamapoteket",
+      "kind": "building",
+      "alternateNames": [
+        "apoteket"
+      ],
+      "description": "Nykarlebys apotek, vars privilegier Wilkman fick 1917."
+    },
+    {
+      "name": "Nykarleby Stevedoring Ab",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Wilkman fick privilegierna på apoteket i Nykarleby",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "people": [
+        "Oskar Valdemar Wilkman"
+      ],
+      "places": [
+        "stamapoteket"
+      ]
+    },
+    {
+      "title": "Wilkman grundade Nykarleby Stevedoring Ab",
+      "date": {
+        "year": 1920,
+        "circa": false
+      },
+      "people": [
+        "Oskar Valdemar Wilkman"
+      ],
+      "places": [
+        "Nykarleby Stevedoring Ab"
+      ]
+    },
+    {
+      "title": "Wilkman blev stadsdirektör",
+      "date": {
+        "year": 1931,
+        "circa": false
+      },
+      "people": [
+        "Oskar Valdemar Wilkman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Wilkman avled",
+      "date": {
+        "year": 1940,
+        "month": 11,
+        "day": 1,
+        "circa": false,
+        "text": "den 1 november"
+      },
+      "people": [
+        "Oskar Valdemar Wilkman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e028a9dff6aa06f88d37619d607efa30efe52e67e080941ffbbb7f5a0953101f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

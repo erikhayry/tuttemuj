@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/zittraf.htm",
+  "title": "Minnesruna över Fjalar Zittra av Allan Zittra",
+  "summary": "Minnesord över forsttekniker Fjalar Zittra, som vårdade Nykarleby stads skogar, sjöng i manskören, spelade amatörteater och som soldat undkom de omringade i Miljonkorsun under vinterkriget.",
+  "topics": [
+    "skogsvård",
+    "vinterkriget",
+    "manskör",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Fjalar Zittra",
+      "alternateNames": [],
+      "birthYear": 1913,
+      "roles": [
+        "forsttekniker",
+        "stadsfullmäktige",
+        "körordförande"
+      ]
+    },
+    {
+      "name": "Allan Zittra",
+      "alternateNames": [],
+      "roles": [
+        "skribent",
+        "brorson"
+      ]
+    },
+    {
+      "name": "Anna Zittra",
+      "alternateNames": [
+        "Anna Vik"
+      ],
+      "roles": [
+        "hustru"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby manskör",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka teater",
+      "kind": "building",
+      "alternateNames": [
+        "Juthbacka Teater"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Zittra första verksamhetsledare för Esse skogsvårdsförening",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "1936–1945"
+      },
+      "people": [
+        "Fjalar Zittra"
+      ],
+      "places": []
+    },
+    {
+      "title": "Zittra klarade sig från Miljonkorsun till Larsmokorsun under vinterkriget",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "vinterkriget"
+      },
+      "people": [
+        "Fjalar Zittra"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Under vinterkriget tvingas en eldledare lämna en omringad ställning i sista stund och tar sig till nästa, men blir inte insläppt i den överfulla ställningen – och undgår därmed tragedin.",
+    "reason": "Starkt dramatiskt ögonblick med fara och slumpens roll, men sidan nämner det bara i några rader.",
+    "characters": [
+      "Fjalar Zittra"
+    ],
+    "places": []
+  },
+  "contentHash": "62d4248334b8fded611381d2515537546a07ccf0a633ce1de58aefdc32571772",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelius_mr_98.html",
+  "title": "Minnesruna över Zacharias Topelius i Nya Pressen 1898",
+  "summary": "Lång tidningsnekrolog över Zacharias Topelius vid hans död 1898, som tecknar hans liv från barndomen på Kuddnäs till professorstiden samt hans författarskap som lyriker, historieskrivare och sagoberättare.",
+  "topics": [
+    "Topelius",
+    "nekrolog",
+    "litteratur",
+    "1898"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zachris Topelius",
+        "farbror Zachris"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald",
+        "professor",
+        "tidningsutgivare",
+        "sagoberättare"
+      ]
+    },
+    {
+      "name": "Katarina Sofia Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "Topelius mor"
+      ]
+    },
+    {
+      "name": "J. L. Runeberg",
+      "alternateNames": [],
+      "roles": [
+        "skald",
+        "Topelius lärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Kuddnäs gård"
+      ],
+      "description": "Topelius födelsegård nära Nykarleby."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius föddes på Kuddnäs gård",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "14 jan. 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Topelius far dog och Topelius kom till Helsingfors",
+      "date": {
+        "year": 1831,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Topelius blev student",
+      "date": {
+        "year": 1833,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Topelius dog",
+      "date": {
+        "year": 1898,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4075426467bcb2e5d751825196e3ce1e0dece3bfb2d771274a8409ddee92b158",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

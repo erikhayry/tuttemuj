@@ -1,0 +1,143 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/forsslakt26.html",
+  "title": "Ditt och datt om Forsarna från Kovjoki av Stefan Fors",
+  "summary": "Stefan Fors presenterar släkten Fors från Kovjoki, från Johan Svensson Kassnäs på 1600-/1700-talet till Erik Hansson Rundt och August Fors, vid släktmötet 2026.",
+  "topics": [
+    "släktforskning",
+    "Kovjoki",
+    "släkten Fors"
+  ],
+  "people": [
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Johan Svensson Kassnäs",
+      "alternateNames": [],
+      "birthYear": 1686,
+      "deathYear": 1713,
+      "roles": []
+    },
+    {
+      "name": "Lisa Andersdotter Kassnäs",
+      "alternateNames": [],
+      "birthYear": 1688,
+      "deathYear": 1713,
+      "roles": []
+    },
+    {
+      "name": "Erik Hansson Rundt",
+      "alternateNames": [
+        "Erik Hansson Lillkassnäs"
+      ],
+      "birthYear": 1831,
+      "deathYear": 1914,
+      "roles": [
+        "sexman"
+      ]
+    },
+    {
+      "name": "Lisa Stina Andersdotter Raij",
+      "alternateNames": [],
+      "birthYear": 1830,
+      "deathYear": 1908,
+      "roles": []
+    },
+    {
+      "name": "August Fors",
+      "alternateNames": [
+        "August Eriksson Rundt"
+      ],
+      "birthYear": 1864,
+      "deathYear": 1925,
+      "roles": []
+    },
+    {
+      "name": "Ida Maria Karlsdotter Gunn",
+      "alternateNames": [],
+      "birthYear": 1878,
+      "deathYear": 1933,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kassnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gård i nuvarande Sundby."
+    },
+    {
+      "name": "Rundt",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman nr 3 i Kovjoki."
+    },
+    {
+      "name": "Stampas",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Plats för Fors släktmöte."
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik och Lisa Stina flyttade till Kovjoki",
+      "date": {
+        "year": 1860,
+        "circa": true,
+        "text": "ungefär 1860–61"
+      },
+      "people": [
+        "Erik Hansson Rundt",
+        "Lisa Stina Andersdotter Raij"
+      ],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Fors släktmöte i Tullmagasinet",
+      "date": {
+        "year": 2026,
+        "month": 7,
+        "day": 16,
+        "circa": false,
+        "text": "16 juli 2026"
+      },
+      "people": [
+        "Stefan Fors"
+      ],
+      "places": [
+        "Tullmagasinet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "17f5bc6aac290c9d4424b3fe5c414645c047a6324d7fec7cf46fc398a38eb182",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

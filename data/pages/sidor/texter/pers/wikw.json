@@ -1,0 +1,126 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/wikw.htm",
+  "title": "William Wik 1903–1996",
+  "summary": "Minnesord över direktör William Wik, som växte upp på Ollas i Socklot, blev bussbolagsdirektör i Jakobstad och forskade i kyrkobyggaren Jacob Rijfs släkt.",
+  "topics": [
+    "buss",
+    "släktforskning",
+    "Socklot",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "William Wik",
+      "alternateNames": [
+        "William Johannes Wik"
+      ],
+      "birthYear": 1903,
+      "deathYear": 1996,
+      "roles": [
+        "direktör",
+        "släktforskare"
+      ]
+    },
+    {
+      "name": "Jacob Rijf",
+      "alternateNames": [],
+      "roles": [
+        "kyrkobyggare"
+      ]
+    },
+    {
+      "name": "Helmi Wik",
+      "alternateNames": [
+        "Helmi Ahlnäs"
+      ],
+      "roles": [
+        "hustru"
+      ]
+    },
+    {
+      "name": "Håkan Ahlnäs",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ollas",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Jordbrukarhem i Socklot där Wik föddes."
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Sandkubban",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Familjens sommarställe i Socklot."
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wik gick Kristliga folkhögskolan i Nykarleby",
+      "date": {
+        "year": 1922,
+        "circa": false,
+        "text": "1922–1923"
+      },
+      "people": [
+        "William Wik"
+      ],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Wik köpte in sig i Haldin & Roses bussbolag",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [
+        "William Wik"
+      ],
+      "places": []
+    },
+    {
+      "title": "Wiks bok om Jakob Rijfs kyrkobyggnadsverksamhet utkom",
+      "date": {
+        "year": 1972,
+        "circa": false
+      },
+      "people": [
+        "William Wik",
+        "Jacob Rijf"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8a683e3b3239e87f3c013e8de8aac7c65792db1f49a5ec46bac8cd5bdd85207e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/fiskelyc.htm",
+  "title": "Fiskelycka för 40 år sedan vid Aspskärs östra strand",
+  "summary": "Gästboksberättelse om hur tre män 1965 fick en 15,3 kilos lax i ett abborrnät vid Aspskär och fick äta ärtsoppa till frukost.",
+  "topics": [
+    "fiske",
+    "skärgård",
+    "Aspskär",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Julius Sund",
+      "alternateNames": [
+        "Julle Sund"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Gösta Malmberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Markku Vikström",
+      "alternateNames": [
+        "Nappe"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Thor Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Olof Mårtens",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Brynolf Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Thors stuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grisselön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Laxfångst på 15,3 kilo vid Aspskär",
+      "date": {
+        "year": 1965,
+        "month": 6,
+        "day": 10,
+        "circa": false,
+        "text": "10.6.1965"
+      },
+      "people": [
+        "Julius Sund",
+        "Gösta Malmberg",
+        "Markku Vikström"
+      ],
+      "places": [
+        "Aspskär"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Tre män hittar en gigantisk lax som fastnat i ett abborrnät, försöker få upp den med kex och håv och lyckas till slut vräka in den i båten – och får äta ärtsoppa till frukost.",
+    "reason": "Humoristiskt fiskeäventyr med tydligt händelseförlopp i en tidstypisk skärgårdsmiljö.",
+    "characters": [
+      "Julius Sund",
+      "Gösta Malmberg",
+      "Markku Vikström"
+    ],
+    "places": [
+      "Aspskär"
+    ]
+  },
+  "contentHash": "dda99de868dbb6bec0047bd64ece6593c104ccbbad1f72ce151f542ca30530b8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/bagarstug_sk.html",
+  "title": "Bagarstugan som blev bostad av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen undersöker historien för huset vid Västanlid nedanför Smedsbacken, som varit bagarstuga till Nybergska huset och sedan bostad för bland annat familjerna Paulsen och Hernberg.",
+  "topics": [
+    "gårdshistoria",
+    "bagarstuga",
+    "Smedsbacken"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Signhild Hernberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ernst Paulsen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ulla Paulsen",
+      "alternateNames": [],
+      "roles": [
+        "konstnärinna"
+      ]
+    },
+    {
+      "name": "Camilla Heikius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Viktor Kuusinen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bagarstugan vid Västanlid",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hus nedanför Smedsbacken som tillhört Nybergska huset."
+    },
+    {
+      "name": "Västanlid",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52898070000001,
+        "lng": 22.5233536,
+        "match": "name",
+        "gazetteerName": "västanlid",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedsbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Huset byggdes",
+      "date": {
+        "year": 1850,
+        "circa": true,
+        "text": "kring 1850-talet"
+      },
+      "people": [],
+      "places": [
+        "Bagarstugan vid Västanlid"
+      ]
+    },
+    {
+      "title": "Familjen Hernberg flyttade in",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "people": [
+        "Signhild Hernberg"
+      ],
+      "places": [
+        "Bagarstugan vid Västanlid"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ff54895fa9cbc308e072b7d6c7dca4bf904ebfe9de315468bcab3756576525ec",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

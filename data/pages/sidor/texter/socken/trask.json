@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/socken/trask.html",
+  "title": "Träsken, förr en attraktiv resurs av Lars Pensar",
+  "summary": "Lars Pensar skriver om hur träsk och kärrmarker förr gav mossa, strå och foder, med utdrag ur byalagsprotokoll från 1800-talet.",
+  "topics": [
+    "träsk",
+    "byalag",
+    "1800-talet",
+    "naturresurser"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius d.ä.",
+      "alternateNames": [
+        "Doktor Topelius"
+      ],
+      "roles": [
+        "läkare"
+      ]
+    },
+    {
+      "name": "Elias Jeremiasson Höökärr",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Johansson Sorvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kapten Kerrman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hysal träsk",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Hysalträsk"
+      ]
+    },
+    {
+      "name": "Juth träsk",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Juthträsket"
+      ]
+    },
+    {
+      "name": "Stenäs träsk",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stenästräsket"
+      ]
+    },
+    {
+      "name": "Andrasjöns ångbåtsbrygga",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "gråstenskvarnen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra Tullhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Doktor Topelius hyrde det innan han flyttade till Kuddnäs."
+    },
+    {
+      "name": "Kryddgården",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Del vid Södra Tullhuset som lånades ut till doktor Topelius 1817."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Sorvist",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49449620000001,
+        "lng": 22.6505617,
+        "match": "name",
+        "gazetteerName": "sorvist",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Doktor Topelius fick nyttja del av Kryddgården",
+      "date": {
+        "year": 1817,
+        "month": 6,
+        "day": 13,
+        "circa": false,
+        "text": "13 juni 1817"
+      },
+      "people": [
+        "Zacharias Topelius d.ä."
+      ],
+      "places": [
+        "Kryddgården",
+        "Södra Tullhuset"
+      ]
+    },
+    {
+      "title": "Hysal träsk arrenderades ut",
+      "date": {
+        "year": 1849,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "första maj 1849"
+      },
+      "people": [
+        "Elias Jeremiasson Höökärr"
+      ],
+      "places": [
+        "Hysal träsk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1bc94431df3973346d0100977f39fd7723b7e590ce2ded2a03a43c9b3e07e0c8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

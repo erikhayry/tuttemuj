@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/falckkw.htm",
+  "title": "Petter Jacob Falck – Tullförvaltare och personlighet i 1800-talets Nykarleby",
+  "summary": "Karl Wenelius omfattande porträtt av tullförvaltaren Petter Jacob Falck, byggt på brev och papper som räddades när huset vid Seminariegatan revs 1954.",
+  "topics": [
+    "tullväsen",
+    "personhistoria",
+    "1800-talet",
+    "Topelius"
+  ],
+  "people": [
+    {
+      "name": "Petter Jacob Falck",
+      "alternateNames": [
+        "Pehr Falck"
+      ],
+      "birthYear": 1801,
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "tecknare"
+      ]
+    },
+    {
+      "name": "Elias Falck",
+      "alternateNames": [],
+      "roles": [
+        "apotekare",
+        "far"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan 13",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 13",
+      "description": "Hus där Wenelius föddes och som revs 1954; på vinden fanns tullarkivet.",
+      "geo": {
+        "lat": 63.52503599999999,
+        "lng": 22.5245136,
+        "match": "address",
+        "gazetteerName": "seminariegatan 13",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby sjötullkammare",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Petter Jacob Falck föddes i Heinola",
+      "date": {
+        "year": 1801,
+        "month": 10,
+        "day": 13,
+        "circa": false,
+        "text": "13 oktober 1801"
+      },
+      "people": [
+        "Petter Jacob Falck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Huset vid Seminariegatan revs och tullpapperen räddades",
+      "date": {
+        "year": 1954,
+        "circa": false
+      },
+      "people": [
+        "Karl Wenelius"
+      ],
+      "places": [
+        "Seminariegatan 13",
+        "Nykarleby sjötullkammare"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "20f2c685647f7a6a2b07fadf585e13003c073564331b26f1c687facc2979a697",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

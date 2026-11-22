@@ -1,0 +1,126 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/bruceboc.htm",
+  "title": "En osannolik historia av Bruce Muller",
+  "summary": "Bruce Muller berättar hur Woldemar Backmans släktutredningar om Nykarlebyfamiljer genom en lång kedja av tillfälligheter, bland annat en garageförsäljning och en webbfråga om en brevlåda i Brooklyn, hamnade hos honom i USA.",
+  "topics": [
+    "släktforskning",
+    "utvandring",
+    "USA",
+    "Woldemar Backman"
+  ],
+  "people": [
+    {
+      "name": "Bruce Muller",
+      "alternateNames": [],
+      "roles": [
+        "släktforskare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "släktforskare"
+      ]
+    },
+    {
+      "name": "Carl Finnström",
+      "alternateNames": [],
+      "roles": [
+        "morbror"
+      ]
+    },
+    {
+      "name": "Oscar Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Diana Riggle",
+      "alternateNames": [
+        "Diana Finstrom Riggle"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Pat Sprague",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Carl Finnström träffade Oscar Fors under sin Finlandsresa",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "people": [
+        "Carl Finnström",
+        "Oscar Fors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Diana Riggles papper hittades på en garageförsäljning och skickades till Bruce Muller",
+      "date": {
+        "year": 2004,
+        "month": 4,
+        "circa": false,
+        "text": "april"
+      },
+      "people": [
+        "Pat Sprague",
+        "Bruce Muller"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Efter en kedja av tillfälligheter – en kusins död, ett garagesäljbord i Nevada och en fråga på en webbplats om en brevlåda i Brooklyn – hittar gamla släktböcker från Nykarleby hem till sin rätta släkting i USA.",
+    "reason": "Sidan innehåller en komplett händelsekedja med slump och överraskande vändningar.",
+    "characters": [
+      "Bruce Muller",
+      "Pat Sprague",
+      "Diana Riggle"
+    ],
+    "places": []
+  },
+  "contentHash": "36f69e6b60f0689f115b27f2ef9d1b679bac606d40ad459f874a2cf226b8cd23",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

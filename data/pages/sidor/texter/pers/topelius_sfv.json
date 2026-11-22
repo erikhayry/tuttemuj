@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelius_sfv.html",
+  "title": "Minnesruna över Zachris Topelius i SFV-kalendern (1898)",
+  "summary": "Minnesord ur Svenska Folkskolans vänners kalender om Topelius sista tid, hans 80-årsdag och död, med hans egen korta självbiografi och en dikt vid begravningen.",
+  "topics": [
+    "Topelius",
+    "minnesruna",
+    "folkskola",
+    "1898"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Zachris Topelius"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald",
+        "historiker",
+        "pedagog",
+        "publicist"
+      ]
+    },
+    {
+      "name": "R. v. Willebrand",
+      "alternateNames": [],
+      "roles": [
+        "friherre",
+        "författare till hyllningssång"
+      ]
+    },
+    {
+      "name": "P. Nordmann",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Björkudden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topelius hem vid havet utanför Helsingfors."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hyllningsfest för Topelius 80-årsdag i Helsingfors",
+      "date": {
+        "year": 1898,
+        "month": 1,
+        "day": 22,
+        "circa": false,
+        "text": "22 januari"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Topelius avled",
+      "date": {
+        "year": 1898,
+        "month": 3,
+        "day": 12,
+        "circa": false,
+        "text": "12 mars"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Björkudden"
+      ]
+    },
+    {
+      "title": "Topelius begravning",
+      "date": {
+        "year": 1898,
+        "month": 3,
+        "day": 21,
+        "circa": false,
+        "text": "21 mars 1898"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "99442690ebd68ea67724c1896b0b3ce0a189a61142b537d92485238776cf4a31",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

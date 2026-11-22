@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/thorsf_sfv.html",
+  "title": "Minnesruna över Fredrik Thors (1950)",
+  "summary": "Minnesruna över Nykarlebyfödda folkskolläraren Fredrik Thors, som under drygt fyra decennier verkade vid Jungar högre folkskola i Jeppo och engagerade sig i bygdens föreningar och kommunalliv.",
+  "topics": [
+    "folkskola",
+    "lärare",
+    "minnesruna",
+    "Jeppo"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Thors",
+      "alternateNames": [],
+      "birthYear": 1877,
+      "deathYear": 1949,
+      "roles": [
+        "folkskollärare",
+        "kommunalfullmäktige"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Thors dimitterades därifrån 1899."
+    }
+  ],
+  "events": [
+    {
+      "title": "Thors föddes i Nykarleby",
+      "date": {
+        "year": 1877,
+        "month": 7,
+        "day": 18,
+        "circa": false,
+        "text": "18 juli 1877"
+      },
+      "people": [
+        "Fredrik Thors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Thors dimitterades från Nykarleby seminarium",
+      "date": {
+        "year": 1899,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Thors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Thors avled i Jeppo",
+      "date": {
+        "year": 1949,
+        "month": 12,
+        "day": 6,
+        "circa": false,
+        "text": "6 december 1949"
+      },
+      "people": [
+        "Fredrik Thors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b80f4920200bff5fd1555e34ca6fdbc6953bab89787e1579929038ca329b57f6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

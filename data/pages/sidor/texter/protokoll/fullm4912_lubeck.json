@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/protokoll/fullm4912_lubeck.html",
+  "title": "Ur stadsfullmäktiges protokoll december 1949",
+  "summary": "Utdrag ur stadsfullmäktiges protokoll från 1949 om tomtarrenden, bland annat T. A. Lybecks ansökan om en industritomt vid stationen och tomtmark för Älvbranten, med kommentarer om vad som blev av planerna.",
+  "topics": [
+    "stadsfullmäktige",
+    "tomter",
+    "1940-talet",
+    "Älvbranten"
+  ],
+  "people": [
+    {
+      "name": "T. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Industritomten skulle ligga invid vägen och järnvägsvallen.",
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Älvbranten",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bostadsaktiebolag, två halvfärdiga hus."
+    },
+    {
+      "name": "Holmströmska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Posten renoverades här året efter."
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsalavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.514881,
+        "lng": 22.5096763,
+        "match": "name",
+        "gazetteerName": "munsalavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fullmäktige godkände arrende av industritomt åt T. A. Lybeck",
+      "date": {
+        "year": 1949,
+        "month": 12,
+        "circa": false,
+        "text": "december 1949"
+      },
+      "people": [
+        "T. A. Lybeck"
+      ],
+      "places": [
+        "Kovjokivägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "328776d34cb54d2320f23a0a90d9b2a5a812b3900e7f7ab08f8938ed86fcfb34",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

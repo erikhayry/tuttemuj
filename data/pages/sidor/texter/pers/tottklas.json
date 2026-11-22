@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/tottklas.html",
+  "title": "Klas Åkesson Tott 1630–1674",
+  "summary": "Lexikonartikel om greve Klas Tott, riksråd och fältmarskalk, vars grevskap Karleborg från 1652 omfattade Nykarleby stad.",
+  "topics": [
+    "adel",
+    "1600-talet",
+    "Karleborg",
+    "grevskap"
+  ],
+  "people": [
+    {
+      "name": "Klas Åkesson Tott",
+      "alternateNames": [
+        "Clas Åkesson Tott"
+      ],
+      "birthYear": 1630,
+      "deathYear": 1674,
+      "roles": [
+        "greve",
+        "riksråd",
+        "fältmarskalk",
+        "generalguvernör i Livland"
+      ]
+    },
+    {
+      "name": "Drottning Kristina",
+      "alternateNames": [],
+      "roles": [
+        "drottning"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "district",
+      "alternateNames": [
+        "Karleborgs grevskap"
+      ],
+      "description": "Grevskap som från början omfattade Ny Karleby stad och delar av Ny Karleby och Lappo socknar."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tott upphöjdes till greve med Karleborg till grevskap",
+      "date": {
+        "year": 1652,
+        "circa": false
+      },
+      "people": [
+        "Klas Åkesson Tott"
+      ],
+      "places": [
+        "Karleborg"
+      ]
+    },
+    {
+      "title": "Karleborgs grevskap utvidgades",
+      "date": {
+        "year": 1653,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Karleborg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "675cb9065dc8e498c5bbb0e9e407df40098238371dbdd16394f92892d1f949ef",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

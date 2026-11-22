@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/wangel_b_o_m.html",
+  "title": "Minnesrunor över Brutus och May Wangel",
+  "summary": "Minnesord över tandläkaren och seglaren Brutus Wangel och hans hustru May, som älskade Nykarleby skärgård och sommarvillan Kåtaskär, samt en minnesfond inom Segelsällskapet Ägir.",
+  "topics": [
+    "skärgård",
+    "segling",
+    "minnesruna",
+    "Segelsällskapet Ägir"
+  ],
+  "people": [
+    {
+      "name": "Brutus Wangel",
+      "alternateNames": [],
+      "birthYear": 1890,
+      "roles": [
+        "tandläkare",
+        "seglare",
+        "vicekommodor"
+      ]
+    },
+    {
+      "name": "May Wangel",
+      "alternateNames": [
+        "May Dahl"
+      ],
+      "birthYear": 1908,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kåtaskär",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Wangels sommarvilla i Nykarleby skärgård."
+    },
+    {
+      "name": "Segelsällskapet Ägir",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Wangel slog sig ned som tandläkare i Jakobstad",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [
+        "Brutus Wangel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Minnesfond bildades för Brutus och May Wangel",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Brutus Wangel",
+        "May Wangel"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c7590e00eeaa90c33c65a81bcff35ac6e3d4c1df3d3e013ef6ce245f3b8cfdd5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

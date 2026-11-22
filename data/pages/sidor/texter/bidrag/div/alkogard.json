@@ -1,0 +1,150 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/alkogard.htm",
+  "title": "Gleisners – Alkogården av Kerstin Åström",
+  "summary": "Kerstin Åström berättar om gården vid Borgaregatan som kallades Alkogården eller Gleisners, om dess äldre ägare, Alkos filial från 1937 och hennes barndom där.",
+  "topics": [
+    "gårdshistoria",
+    "Alko",
+    "Borgaregatan",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Karl Hammarlund",
+      "alternateNames": [],
+      "roles": [
+        "postiljon",
+        "ursprunglig ägare"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handlande",
+        "konsul"
+      ]
+    },
+    {
+      "name": "Maria Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Oskar Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "apotekare",
+        "ägare"
+      ]
+    },
+    {
+      "name": "Georg Högbom",
+      "alternateNames": [],
+      "roles": [
+        "filialföreståndare"
+      ]
+    },
+    {
+      "name": "Agnes Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "kassörska"
+      ]
+    },
+    {
+      "name": "Kerstin Åström",
+      "alternateNames": [
+        "Kerstin Högbom"
+      ],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alkogården",
+      "kind": "farm",
+      "alternateNames": [
+        "Gleisners"
+      ],
+      "description": "Gård med fasad mot Borgaregatan och flygel mot Gustav Adolfsgatan."
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården byggdes",
+      "date": {
+        "year": 1860,
+        "circa": false,
+        "text": "byggnadsåret 1860"
+      },
+      "people": [
+        "Karl Hammarlund"
+      ],
+      "places": [
+        "Alkogården"
+      ]
+    },
+    {
+      "title": "Alkoholiliikes filial flyttade till gården",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [
+        "Oskar Wilkman"
+      ],
+      "places": [
+        "Alkogården"
+      ]
+    },
+    {
+      "title": "Alko köpte gården av apotekare Wilkman",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "i början av 1940-talet"
+      },
+      "people": [
+        "Oskar Wilkman"
+      ],
+      "places": [
+        "Alkogården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5def5ff21e111e453217cba59c819be205c3763b5b34748f3442574012a5244d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

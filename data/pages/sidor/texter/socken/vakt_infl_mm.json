@@ -1,0 +1,175 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/socken/vakt_infl_mm.html",
+  "title": "Plock ur gamla protokoll av Lars Pensar",
+  "summary": "Lars Pensars utdrag ur sockenstämmo- och byastämmoprotokoll från 1800-talet om bland annat bådavakt för kreatur, remmare i farleden vid Djupsten och ett förbud mot inflyttning.",
+  "topics": [
+    "protokoll",
+    "byalag",
+    "1800-talet",
+    "sockenstämma"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    },
+    {
+      "name": "Johan Isacksson",
+      "alternateNames": [],
+      "roles": [
+        "vakt"
+      ]
+    },
+    {
+      "name": "Jacob Ohls",
+      "alternateNames": [],
+      "roles": [
+        "byålderman"
+      ]
+    },
+    {
+      "name": "Susanna Danielsdotter",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bådan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Betesmark där kreatur vaktades; vid Läppogubben.",
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Läppogubben",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sikgrundet",
+      "kind": "landmark",
+      "alternateNames": [
+        "Sijkgrundet"
+      ],
+      "description": "På Djupstens yttersta spets; behövde en ny remmare."
+    },
+    {
+      "name": "Djupsten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Strömmen",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kantlax",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sockenstämman yttrade sig om Kovjoki och Strömmens överföring till Pedersöre tingslag",
+      "date": {
+        "year": 1821,
+        "month": 3,
+        "day": 18,
+        "circa": false,
+        "text": "18 mars 1821"
+      },
+      "people": [],
+      "places": [
+        "Kovjoki",
+        "Strömmen"
+      ]
+    },
+    {
+      "title": "Bådavakt anställdes",
+      "date": {
+        "year": 1848,
+        "month": 5,
+        "day": 1,
+        "circa": false,
+        "text": "1 maj 1848"
+      },
+      "people": [
+        "Johan Isacksson"
+      ],
+      "places": [
+        "Bådan",
+        "Läppogubben"
+      ]
+    },
+    {
+      "title": "Borgmästaren krävde nya remmare i farleden",
+      "date": {
+        "year": 1826,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Sikgrundet",
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Avslag på ansökan om bosättning i Kantlax",
+      "date": {
+        "year": 1826,
+        "month": 3,
+        "day": 27,
+        "circa": false,
+        "text": "1826 den 27 mars"
+      },
+      "people": [
+        "Susanna Danielsdotter"
+      ],
+      "places": [
+        "Kantlax"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1777cdae5829e16a053d01bbcfa8aa8be2a0c0184d023e25369749b07643c483",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

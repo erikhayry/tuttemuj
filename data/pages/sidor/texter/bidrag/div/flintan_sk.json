@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/flintan_sk.html",
+  "title": "Flintstenen som jag hittade två gånger av Seppo Kuusinen",
+  "summary": "Seppo Kuusinen hittar en gammal flintsten och andra barndomssaker och får reda på att stenen troligen kom med barlast till Andra sjön.",
+  "topics": [
+    "barndomsminnen",
+    "barlast",
+    "Andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Seppo Kuusinen",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Canne Lundberg",
+      "alternateNames": [],
+      "roles": [
+        "biolog"
+      ]
+    },
+    {
+      "name": "Signhild Hernberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tanja Hernberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Annikki Kuusinen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Västanlid",
+      "kind": "street",
+      "alternateNames": [
+        "Västanlind"
+      ],
+      "geo": {
+        "lat": 63.52898070000001,
+        "lng": 22.5233536,
+        "match": "name",
+        "gazetteerName": "västanlid",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedsbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybergska huset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kuusinen hittade flintstenen",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "troligtvis i början av 1950-talet"
+      },
+      "people": [
+        "Seppo Kuusinen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4eca2e35e75d6ddf6deadea43590e9985de9013e89e03940f74b7e28e03455e2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

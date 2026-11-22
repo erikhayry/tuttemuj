@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/trenymfer.htm",
+  "title": "Tre nymfer",
+  "summary": "Ett stämningsfullt foto av tre flickor med blombuketter vid älven, identifierade som systrar Ahlström och daterat före dammbygget 1925.",
+  "topics": [
+    "fotografi",
+    "älven",
+    "Nybroforsen"
+  ],
+  "people": [
+    {
+      "name": "Aili",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Ågholm",
+      "alternateNames": [],
+      "roles": [
+        "bidragsgivare"
+      ]
+    },
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": [
+        "identifierade personerna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Forsen strömmade fritt när fotot togs.",
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ahlströms hus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dammbyggnadsarbetena vid älven inleddes",
+      "date": {
+        "year": 1925,
+        "circa": false,
+        "text": "försommaren 1925"
+      },
+      "people": [],
+      "places": [
+        "Nybroforsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "34c60089ae9c9d77926fe340cf64972627d6aba82aff1abf1f30432b374664ed",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

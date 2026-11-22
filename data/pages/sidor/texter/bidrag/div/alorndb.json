@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/alorndb.htm",
+  "title": "Alörn av Dage Byggmästar",
+  "summary": "Dage Byggmästar skildrar sin sommarstuga på Alören i Nykarleby skärgård och öns historia: Donila Brita, stenar från segelfartygens barlast, ryska kanoner och Topelius vistelse.",
+  "topics": [
+    "skärgård",
+    "Alören",
+    "Topelius",
+    "sommarstuga"
+  ],
+  "people": [
+    {
+      "name": "Dage Byggmästar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Gunnar Grahn",
+      "alternateNames": [],
+      "roles": [
+        "byggde sommarstugan"
+      ]
+    },
+    {
+      "name": "Brita Broo",
+      "alternateNames": [
+        "Donila Brita"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Carl Johan Berger",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Frans Granvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "M. G. Fillmer",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Alören",
+      "kind": "island",
+      "alternateNames": [
+        "Alörn",
+        "Stora Alören",
+        "Lilla Alören"
+      ],
+      "description": "Var förr två öar, Lilla och Stora Alören."
+    },
+    {
+      "name": "Majniemi",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "På Lilla Alören, där Topelius bodde."
+    },
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråsören",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Läppogubben",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Här byggdes ett batteri under Krimkriget."
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gunnar Grahn byggde upp stugan på Alören",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Grahn"
+      ],
+      "places": [
+        "Alören"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5d6252ed19979a8f218bf673ae44091f928c8ae607ae25c0343d58af79b3a07f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

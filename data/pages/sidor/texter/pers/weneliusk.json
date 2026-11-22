@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/weneliusk.htm",
+  "title": "Karl Wenelius 1928–2014",
+  "summary": "Kort personpresentation av Karl Wenelius, född i Nykarleby, diplomekonom och mångårig sommargäst i familjevillan vid Andrasjön.",
+  "topics": [
+    "personpresentation",
+    "Andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "birthYear": 1928,
+      "deathYear": 2014,
+      "roles": [
+        "diplomekonom"
+      ]
+    },
+    {
+      "name": "Sigurd Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "far"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Wenelius villa",
+      "kind": "building",
+      "alternateNames": [
+        "familjevillan vid Andrasjön"
+      ],
+      "description": "Familjevilla vid Andrasjön."
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "df800258e51331d58cc65cd84e12358fa7ac4284bacc5b12204d80e905515eeb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

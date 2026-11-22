@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/altaremn.htm",
+  "title": "Altaret i Nykarleby kyrka",
+  "summary": "Bild av altaret i Nykarleby kyrka med uppgiften att altartavlan målades av Daniel Hjulström på 1750-talet.",
+  "topics": [
+    "kyrka",
+    "altartavla",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Altartavlan målades",
+      "date": {
+        "year": 1750,
+        "circa": true,
+        "text": "i början på 1750-talet"
+      },
+      "people": [
+        "Daniel Hjulström"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ab79802009e6e80f748f64fc3144e3fb32bab585860a65df0c39e2e7f9728803",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

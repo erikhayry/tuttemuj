@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/westberwsfv.htm",
+  "title": "Minnesruna över Valdemar Westberg (1944)",
+  "summary": "Minnesruna över prosten, bankdirektören och rektorn Valdemar Westberg, som ledde Nykarleby samskola och drev på en om- och tillbyggnad av skolan.",
+  "topics": [
+    "skolväsen",
+    "bank",
+    "präster",
+    "minnesruna"
+  ],
+  "people": [
+    {
+      "name": "Valdemar Westberg",
+      "alternateNames": [],
+      "birthYear": 1891,
+      "roles": [
+        "prost",
+        "bankdirektör",
+        "rektor",
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nordiska Föreningsbankens kontor",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Westberg första rektor för mellanskolan i Nykarleby",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [
+        "Valdemar Westberg"
+      ],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    },
+    {
+      "title": "Westberg föreståndare för Nordiska Föreningsbankens kontor",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [
+        "Valdemar Westberg"
+      ],
+      "places": [
+        "Nordiska Föreningsbankens kontor"
+      ]
+    },
+    {
+      "title": "Westberg åter rektor för samskolan",
+      "date": {
+        "year": 1934,
+        "circa": false
+      },
+      "people": [
+        "Valdemar Westberg"
+      ],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7b34c541ec927b0be2c58c23f8331b6e1177e508ef8a20fcb84abb2ea9f1d22d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/aspfynd2.htm",
+  "title": "Fynd från Aspskär",
+  "summary": "Brynolf Blomqvist visar föremål som hittats på Aspskär, möjligen från en tullstuga på Larsmårsholmen från 1600-talet, och frågar efter hjälp att datera dem.",
+  "topics": [
+    "skärgård",
+    "arkeologiska fynd",
+    "Aspskär",
+    "tullstuga"
+  ],
+  "people": [
+    {
+      "name": "Brynolf Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "fotograf",
+        "bidragsgivare"
+      ]
+    },
+    {
+      "name": "Julius Sund",
+      "alternateNames": [
+        "Julle Sund"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Larsmårsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Lars Mårs Holmen"
+      ],
+      "description": "Numera sammanvuxen med Aspskär; här låg en tullstuga."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tullstugan fanns troligen på 1600-talet",
+      "date": {
+        "year": 1600,
+        "circa": true,
+        "text": "troligen på 1600-talet"
+      },
+      "people": [],
+      "places": [
+        "Larsmårsholmen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1583d73514891ca18443cec0304b89c44a1dca96ed63383a441448cc9d7ac1bf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

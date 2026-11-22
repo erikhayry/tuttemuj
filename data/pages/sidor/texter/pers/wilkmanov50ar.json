@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/wilkmanov50ar.html",
+  "title": "Oskar Wilkman 50 år (1937)",
+  "summary": "Hyllningsartikel till apotekaren och stadsdirektören Oskar Wilkman på 50-årsdagen, med hans affärsföretag, kommunala uppdrag och rollen vid avväpningen av de ryska trupperna i Nykarleby.",
+  "topics": [
+    "stadsförvaltning",
+    "apotek",
+    "skyddskår",
+    "1910-talet"
+  ],
+  "people": [
+    {
+      "name": "Oskar Wilkman",
+      "alternateNames": [
+        "Oskar Valdemar Wilkman"
+      ],
+      "birthYear": 1887,
+      "roles": [
+        "apotekare",
+        "stadsdirektör",
+        "skyddskårschef"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "stamapoteket",
+      "kind": "building",
+      "alternateNames": [
+        "apoteket"
+      ]
+    },
+    {
+      "name": "Nykarleby Stevedoring Ab",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "fånglägret för avväpnade ryska trupper",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Nykarleby var förläggningsort; Wilkman var första chef."
+    }
+  ],
+  "events": [
+    {
+      "title": "Wilkman chef för Nykarleby skyddskår",
+      "date": {
+        "year": 1917,
+        "circa": false,
+        "text": "1917—19"
+      },
+      "people": [
+        "Oskar Wilkman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ryska trupper avväpnades i Nykarleby utan blodsutgjutelse",
+      "date": {
+        "year": 1918,
+        "circa": true,
+        "text": "i samband med skyddskårens tid"
+      },
+      "people": [
+        "Oskar Wilkman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Wilkman grundade Nykarleby Stevedoring Ab",
+      "date": {
+        "year": 1920,
+        "circa": false
+      },
+      "people": [
+        "Oskar Wilkman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Wilkman utsågs till stadsdirektör",
+      "date": {
+        "year": 1931,
+        "circa": false
+      },
+      "people": [
+        "Oskar Wilkman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Skyddskårens män planerar att avväpna de ryska trupperna i staden och genomför det utan att ett skott avlossas; därefter förvandlas Nykarleby till fångläger för de avväpnade soldaterna, med apotekaren Wilkman som första chef.",
+    "reason": "Spännande vändpunkt med planering, risk och ovanlig utgång, men sidan ger bara några rader.",
+    "characters": [
+      "Oskar Wilkman"
+    ],
+    "places": [
+      "fånglägret för avväpnade ryska trupper"
+    ]
+  },
+  "contentHash": "5e41f5819ae6aaca331738f8077b6f61566e6aa9f218ae27d283b4298d5c96fa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

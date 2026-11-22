@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/utfard2.htm",
+  "title": "Skärgårdsutflykt",
+  "summary": "Gamla fotografier ur Gunnar Granlunds album av en skärgårdsutflykt, sannolikt en seminarieutflykt till Krokesund 1925, med funderingar kring båtarna och platsen.",
+  "topics": [
+    "fotografi",
+    "skärgård",
+    "seminarister",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Granlund",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "Alf Grop",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Krokesund",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Plats där båtar kan angöra vid stranden."
+    },
+    {
+      "name": "Nålörssågen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminarietutflykt till Krokesund",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Krokesund"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a1cfe649ed723b0d4cf40462a9af82999dfff39c1a335e6225c65ac4a6b176b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

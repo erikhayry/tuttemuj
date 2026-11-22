@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/djuriskt_kw.html",
+  "title": "Djuriskt vid Andrasjön av Karl Wenelius",
+  "summary": "Karl Wenelius berättar om djurmöten under sina somrar vid Andrasjön, bland annat katten Jontti som skrämmer bort en räv och slår undan huggormens huvud.",
+  "topics": [
+    "djur",
+    "Andrasjön",
+    "berättelser",
+    "Laxön"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Laxö-Anders",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Laxön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Karl sitter med kaffekoppen på verandan när en räv dyker upp vid husknuten – och då kommer katten Jontti runt andra hörnet. Räven flyr, och vid ett annat tillfälle slår Jontti oberört undan huggormens huvud gång på gång.",
+    "reason": "Humoristiska scener med tydlig upptrappning och överraskande vinnare.",
+    "characters": [
+      "Karl Wenelius"
+    ],
+    "places": [
+      "Andrasjön"
+    ]
+  },
+  "contentHash": "15c0b8b8b57ffa9a4ba40ef2e854e195a481d8ca82727b74d367132d6542d306",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

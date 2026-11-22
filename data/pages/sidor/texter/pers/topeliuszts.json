@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/topeliuszts.htm",
+  "title": "Zacharias Topelius i Nya Trollsländan 1887",
+  "summary": "Barntidningens berättelse om Topelius uppväxt på Kuddnäs, skolåren i Uleåborg, studietiden hos Runeberg och hur han blev barnens sagoberättare.",
+  "topics": [
+    "Topelius",
+    "barndom",
+    "sagor",
+    "barntidning"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "roles": [
+        "skald",
+        "professor",
+        "sagoberättare"
+      ]
+    },
+    {
+      "name": "J. L. Runeberg",
+      "alternateNames": [],
+      "roles": [
+        "skald",
+        "Topelius lärare"
+      ]
+    },
+    {
+      "name": "Doktor Topelius",
+      "alternateNames": [],
+      "roles": [
+        "läkare",
+        "Topelius far"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Kuddnäs gård"
+      ],
+      "description": "Topelius födelsehem nära Nykarleby."
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius föddes på Kuddnäs",
+      "date": {
+        "year": 1818,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "14 januari 1818"
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Topelius far dog",
+      "date": {
+        "year": 1831,
+        "circa": false,
+        "text": "13 års ålder"
+      },
+      "people": [
+        "Zacharias Topelius",
+        "Doktor Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Första diktsamlingen Ljungblommor utkom",
+      "date": {
+        "year": 1845,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den unge Zacharias ser en stor stjärna falla ner framför sig på den tomma gatan på väg till skolan, och vid sin fars begravning faller en silverstjärna från kistan ner vid hans fötter. Pojken försöker förstå vad tecknen betyder.",
+    "reason": "Två små magiska ögonblick i barndomen ger en stämningsfull och visuell scen.",
+    "characters": [
+      "Zacharias Topelius",
+      "Doktor Topelius"
+    ],
+    "places": []
+  },
+  "contentHash": "a3eb0d4981389bbadf3cc4070c3c4e8bd5f22f89d6294529029b1443e01866df",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

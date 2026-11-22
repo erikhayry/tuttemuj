@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/erik_bjorn.html",
+  "title": "Komplettering om Erik Johan Bäck av Lars Smed",
+  "summary": "Lars Smed visar att den unge Erik Johan Bäck skrev ungefär hälften av skaderapporterna i Socklot efter krigshändelserna 1808, och återger en förteckning över vad ryska trupper tog hos Erik Björn.",
+  "topics": [
+    "1808–09 års krig",
+    "Socklot",
+    "skadeanmälningar",
+    "Erik Johan Bäck"
+  ],
+  "people": [
+    {
+      "name": "Erik Johan Bäck",
+      "alternateNames": [],
+      "roles": [
+        "skrivare"
+      ]
+    },
+    {
+      "name": "Fredrik Basilier",
+      "alternateNames": [],
+      "roles": [
+        "fältkamrer"
+      ]
+    },
+    {
+      "name": "Jacob Rijf",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Björn",
+      "alternateNames": [],
+      "roles": [
+        "hemmansägare"
+      ]
+    },
+    {
+      "name": "Jacob Ahrenberg",
+      "alternateNames": [],
+      "roles": [
+        "berättare"
+      ]
+    },
+    {
+      "name": "Lars Smed",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Lillsoklot",
+      "kind": "village",
+      "alternateNames": [
+        "Lillsocklot"
+      ]
+    },
+    {
+      "name": "Ransvik",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skador på civilbefolkningen i Socklot upptecknades",
+      "date": {
+        "year": 1808,
+        "month": 11,
+        "circa": false,
+        "text": "november 1808"
+      },
+      "people": [
+        "Fredrik Basilier",
+        "Erik Johan Bäck"
+      ],
+      "places": [
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Ryska armén vistades åtta dagar i Lillsoklot",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 17,
+        "circa": false,
+        "text": "September 17"
+      },
+      "people": [
+        "Erik Björn"
+      ],
+      "places": [
+        "Lillsoklot"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8299322e5f4b6e093ec612897afac62d10ed1b1e5be033e4e858b056a9589742",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

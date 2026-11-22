@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/tuominen.htm",
+  "title": "Mirjam Tuominen 1913–1967",
+  "summary": "Uppslagsverkets artikel om författaren Mirjam Tuominen, som bodde i Nykarleby på 1940-talet, och en lista över hennes verk som utspelar sig i en anonym småstad och litteratur om henne.",
+  "topics": [
+    "litteratur",
+    "författare",
+    "Mirjam Tuominen"
+  ],
+  "people": [
+    {
+      "name": "Mirjam Tuominen",
+      "alternateNames": [
+        "Mirjam Irene Tuominen"
+      ],
+      "birthYear": 1913,
+      "deathYear": 1967,
+      "roles": [
+        "författare",
+        "litteraturkritiker",
+        "fil.mag."
+      ]
+    },
+    {
+      "name": "Torsten Korsström",
+      "alternateNames": [],
+      "roles": [
+        "make"
+      ]
+    },
+    {
+      "name": "Tuva Korsström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gata där Tuominens hem låg.",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tuominen debuterade med novellsamlingen Tidig tvekan",
+      "date": {
+        "year": 1938,
+        "circa": false
+      },
+      "people": [
+        "Mirjam Tuominen"
+      ],
+      "places": []
+    },
+    {
+      "title": "Betraktelseboken Besk brygd utkom",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Mirjam Tuominen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "647a17637332b60dcfd242054136daca42d207a97772bd2b55222e9bf941bfc6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

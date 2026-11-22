@@ -1,0 +1,151 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/thunberg_gerda.html",
+  "title": "Thunbergs",
+  "summary": "Gårdshistoria för Juthasvägen 11 med seminarieträdgårdsmästaren Axel Thunberg och hans dotter Gerda, som drev bokhandel, samt gårdens senare ägare fram till i dag.",
+  "topics": [
+    "gårdshistoria",
+    "trädgård",
+    "bokhandel",
+    "Juthasvägen"
+  ],
+  "people": [
+    {
+      "name": "Axel Thunberg",
+      "alternateNames": [],
+      "birthYear": 1841,
+      "deathYear": 1915,
+      "roles": [
+        "seminarieträdgårdsmästare"
+      ]
+    },
+    {
+      "name": "Anna Charlotta Thunberg",
+      "alternateNames": [],
+      "birthYear": 1844,
+      "deathYear": 1925,
+      "roles": []
+    },
+    {
+      "name": "Gerda Thunberg",
+      "alternateNames": [],
+      "birthYear": 1886,
+      "deathYear": 1941,
+      "roles": [
+        "bokhandlare",
+        "söndagsskollärarinna"
+      ]
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ]
+    },
+    {
+      "name": "Hannes Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ida Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hilding Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ronny Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Josefin Westin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthasvägen 11",
+      "kind": "farm",
+      "alternateNames": [
+        "Thunbergs"
+      ],
+      "address": "Juthasvägen 11",
+      "description": "Gård vid korsningen Juthasvägen–Badhusstigen."
+    },
+    {
+      "name": "Badhusstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52254449999999,
+        "lng": 22.5185687,
+        "match": "name",
+        "gazetteerName": "badhusstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Josef Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Axel Thunberg seminarieträdgårdsmästare",
+      "date": {
+        "year": 1890,
+        "circa": false,
+        "text": "1890–1908"
+      },
+      "people": [
+        "Axel Thunberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gerda Thunberg tog över Herlers bokhandel",
+      "date": {
+        "year": 1913,
+        "month": 1,
+        "circa": false,
+        "text": "januari 1913"
+      },
+      "people": [
+        "Gerda Thunberg",
+        "Josef Herler"
+      ],
+      "places": [
+        "Josef Herlers bokhandel"
+      ]
+    },
+    {
+      "title": "Gården köptes av Ida och Hannes Liljeström",
+      "date": {
+        "year": 1959,
+        "circa": false
+      },
+      "people": [
+        "Ida Liljeström",
+        "Hannes Liljeström"
+      ],
+      "places": [
+        "Juthasvägen 11"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ba2dd6f29064c8b89c92664bd635cbf5e687604ea734cd1b7bb4a6ddcf5eec29",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}

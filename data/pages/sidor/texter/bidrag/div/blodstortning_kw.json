@@ -1,0 +1,146 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/blodstortning_kw.html",
+  "title": "Blodstörtning av Karl Wenelius",
+  "summary": "Karl Wenelius minns hur han och en kamrat under krigsåren välte en kälke med en hink kreatursblod på en vit trottoar och hur pappan, poliskommissarien, först trodde att något hänt.",
+  "topics": [
+    "barndomsminnen",
+    "krigstiden",
+    "slakteri",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Hugo Gleisner",
+      "alternateNames": [],
+      "roles": [
+        "slaktare",
+        "kötthandlare"
+      ]
+    },
+    {
+      "name": "Göran Gleisner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hugo Strandberg",
+      "alternateNames": [],
+      "roles": [
+        "kolonialvaruhandlare"
+      ]
+    },
+    {
+      "name": "Sigurd Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "poliskommissarie"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Köttboden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bakom Hugo Strandbergs butik vid Bankgatan."
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Dimi Knutars",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "poliskammaren",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Blodhinken välte på trottoaren vid Topeliusgatan",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "under något av krigsåren"
+      },
+      "people": [
+        "Karl Wenelius",
+        "Göran Gleisner"
+      ],
+      "places": [
+        "Topeliusgatan",
+        "Gustav Adolfsgatan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Två småpojkar får dra en hink kreatursblod på en vattenkälke genom staden en midvinterdag, men kälken välter och en enorm blodröd fläck sprider sig över den vita snön. Pappan, som är poliskommissarie, undrar om ett mord har skett.",
+    "reason": "Sidan har en komplett komisk berättelse med scen, misstag och uppföljning.",
+    "characters": [
+      "Karl Wenelius",
+      "Göran Gleisner",
+      "Hugo Gleisner",
+      "Sigurd Wenelius"
+    ],
+    "places": [
+      "Topeliusgatan",
+      "Gustav Adolfsgatan"
+    ]
+  },
+  "contentHash": "8c8cc66f1152ce5864c639fce39193feec76bbbb2f4b592fa04e57c9e8e5c9c8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:40:45.053Z"
+}
