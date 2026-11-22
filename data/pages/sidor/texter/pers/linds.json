@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/linds.htm",
+  "title": "Sven Lind 1932",
+  "summary": "Kort biografi över läraren och skribenten Sven Lind från Kovjoki, som utbildades vid Nykarleby seminarium och gav ut sånger och minnen från seminarietiden.",
+  "topics": [
+    "lärare",
+    "seminariet",
+    "Kovjoki"
+  ],
+  "people": [
+    {
+      "name": "Sven Lind",
+      "alternateNames": [
+        "Sven Johan Lind"
+      ],
+      "birthYear": 1932,
+      "roles": [
+        "lärare",
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Sven Lind dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1954,
+        "circa": false
+      },
+      "people": [
+        "Sven Lind"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "70751a25d653b4468d5f6ba32ecf1ce4b50b6c44de12091fb2bea7be258aa4da",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

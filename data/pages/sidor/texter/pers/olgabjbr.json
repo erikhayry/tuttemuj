@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/olgabjbr.htm",
+  "title": "Edvard Björklunds och Olga Liljeströms bröllop på Källbacken i juli 1906",
+  "summary": "Bröllopsfoto från juli 1906 på gården vid Gustav Adolfsgatan 35, där berättelsen följer brudgummen Edvards släkt. Sidan handlar bland annat om mostrarna som tog hand om honom, \"Peppartanten\" och tvångsvräkningen av stugorna på Rummelbacken när stationen byggdes.",
+  "topics": [
+    "bröllop",
+    "släkthistoria",
+    "Källbacken",
+    "Rummelbacken",
+    "järnvägsstationen"
+  ],
+  "people": [
+    {
+      "name": "Edvard Björklund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Brudgum 1906, uppvuxen hos sina mostrar."
+    },
+    {
+      "name": "Olga Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Brud 1906."
+    },
+    {
+      "name": "Lovisa Granholm",
+      "alternateNames": [
+        "Lovisa Björklund"
+      ],
+      "roles": [],
+      "description": "Brudgummens moster, ägare till gården."
+    },
+    {
+      "name": "Lisa Granholm",
+      "alternateNames": [
+        "Lisa Björklund"
+      ],
+      "roles": [],
+      "description": "Brudgummens moster, ägare till gården."
+    },
+    {
+      "name": "Anna Henrika Björklund",
+      "alternateNames": [
+        "Peppartanten"
+      ],
+      "roles": [],
+      "description": "Edvards ogifta syster."
+    },
+    {
+      "name": "Henrik Björklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Julius Björklund",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Staka Jepp",
+      "alternateNames": [
+        "Jakob Abrahamsson Gästgivars"
+      ],
+      "birthYear": 1841,
+      "roles": []
+    },
+    {
+      "name": "Anna Lovisa Sund",
+      "alternateNames": [],
+      "birthYear": 1839,
+      "deathYear": 1922,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 35",
+      "kind": "building",
+      "alternateNames": [
+        "Källbacken"
+      ],
+      "address": "Gustav Adolfsgatan 35",
+      "description": "Före detta Agnes Ek; gården där bröllopsfotot togs.",
+      "geo": {
+        "lat": 63.525761,
+        "lng": 22.5348299,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 35",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla station",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbackavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.529766,
+        "lng": 22.5223752,
+        "match": "name",
+        "gazetteerName": "smedsbackavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Fattiggård dit Anna Lovisa troligen flyttades."
+    }
+  ],
+  "events": [
+    {
+      "title": "Edvard Björklund och Olga Liljeström gifter sig",
+      "date": {
+        "year": 1906,
+        "month": 7,
+        "circa": false
+      },
+      "people": [
+        "Edvard Björklund",
+        "Olga Liljeström"
+      ],
+      "places": [
+        "Gustav Adolfsgatan 35"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "När järnvägsstationen byggs tvångsvräks stugorna på Rummelbacken, men den gamla Anna Lovisa vägrar flytta och förs, sägs det, bort med våld.",
+    "reason": "En tydlig konflikt mellan framsteg och en envis gammal kvinna.",
+    "characters": [
+      "Anna Lovisa Sund",
+      "Henrik Björklund"
+    ],
+    "places": [
+      "Rummelbacken",
+      "Gamla station"
+    ]
+  },
+  "contentHash": "812e423e050a449d30451e66c55f9054c8f9368df30917cbcbe423476494ecb6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

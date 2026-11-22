@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nylundg_sfv.html",
+  "title": "Minnesruna över Gunnar Nylund i Svenska Folkskolans vänners kalender",
+  "summary": "Minnesord över folkskolläraren och författaren Gunnar Nylund, född på Bjons i Ytterjeppo, som skrev dikter, berättelser och böcker om hembygden vid Nykarleby älv.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "författare",
+    "Ytterjeppo"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Nylund",
+      "alternateNames": [
+        "Gunnar Isak Georg Nylund"
+      ],
+      "birthYear": 1916,
+      "deathYear": 2002,
+      "roles": [
+        "folkskollärare",
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bjons",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Födelsehemmet i Ytterjeppo."
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Gunnar Nylund föds på Bjons i Ytterjeppo",
+      "date": {
+        "year": 1916,
+        "month": 6,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": [
+        "Bjons"
+      ]
+    },
+    {
+      "title": "Nylund utexamineras från Nykarleby seminarium",
+      "date": {
+        "year": 1944,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Gunnar Nylund avlider i Vasa",
+      "date": {
+        "year": 2002,
+        "month": 2,
+        "day": 21,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "372de9b08de6c7b5198617c997b84b2144e10e291be2edbb71ee2f81c34d1ae9",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

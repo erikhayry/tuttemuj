@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nordkvista_sfv.html",
+  "title": "Minnesruna över Anna Nordkvist i Svenska Folkskolans vänners kalender (1966)",
+  "summary": "Minnesord över barnhemsföreståndarinnan Anna Nordkvist, som grundade \"Tant Annas barnhem\" i Nykarleby och tog hand om närmare 400 barn. Barnhemmet Sparvboet flyttade in i en ny fastighet 1963.",
+  "topics": [
+    "barnhem",
+    "minnesruna",
+    "socialt arbete",
+    "Svenska Folkskolans vänner"
+  ],
+  "people": [
+    {
+      "name": "Anna Nordkvist",
+      "alternateNames": [],
+      "birthYear": 1878,
+      "deathYear": 1966,
+      "roles": [
+        "barnhemsföreståndare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sparvboet",
+      "kind": "building",
+      "alternateNames": [
+        "Tant Annas barnhem"
+      ],
+      "description": "Barnhem i Nykarleby; flyttade in i en ny fastighet 1963."
+    }
+  ],
+  "events": [
+    {
+      "title": "Anna Nordkvist föds i Oravais",
+      "date": {
+        "year": 1878,
+        "month": 1,
+        "day": 5,
+        "circa": false
+      },
+      "people": [
+        "Anna Nordkvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Barnhemmet Sparvboet flyttar in i en ny fastighet",
+      "date": {
+        "year": 1963,
+        "circa": false
+      },
+      "people": [
+        "Anna Nordkvist"
+      ],
+      "places": [
+        "Sparvboet"
+      ]
+    },
+    {
+      "title": "Anna Nordkvist avlider i Nykarleby",
+      "date": {
+        "year": 1966,
+        "month": 3,
+        "day": 13,
+        "circa": false
+      },
+      "people": [
+        "Anna Nordkvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Med bara 25 mark i kassan tar Anna Nordkvist emot tolv fattiga, trasklädda barn i sitt nya barnhem och lyckas med hjälp av vänliga medmänniskor bygga upp \"Tant Annas barnhem\".",
+    "reason": "En envis kvinnas kamp mot fattigdom med tydlig början och ett stort mål.",
+    "characters": [
+      "Anna Nordkvist"
+    ],
+    "places": [
+      "Sparvboet"
+    ]
+  },
+  "contentHash": "a37b0b80061060565c71e61fa141a0ec5905024f9003e84218032e9b7af6066e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nylundju.htm",
+  "title": "John Nylund 1880–1940 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om affärsmannen John Nylund, född i Nykarleby, som grundade enhetsprisaffären Tempo. Sidan listar hans donationer, bland annat till statyn Flora, De gamlas hem och Nykarleby samskola.",
+  "topics": [
+    "affärsmän",
+    "donationer",
+    "Tempo",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "John Nylund",
+      "alternateNames": [
+        "John Eliel Nylund"
+      ],
+      "birthYear": 1880,
+      "deathYear": 1940,
+      "roles": [
+        "affärsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Florastatyn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Flora"
+      ]
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Roparsand",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Folkhälsans sommarkoloni."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nylund grundar egen textilaffär i Vasa",
+      "date": {
+        "year": 1911,
+        "circa": false
+      },
+      "people": [
+        "John Nylund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nylund öppnar enhetsprisaffären Tempo",
+      "date": {
+        "year": 1933,
+        "circa": false
+      },
+      "people": [
+        "John Nylund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2ada90f8ff3a6ef4c9638ca068e4831922f4239efa8bdd24a041ff5797773b37",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

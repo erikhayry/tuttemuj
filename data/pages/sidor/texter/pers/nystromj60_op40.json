@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nystromj60_op40.html",
+  "title": "Johannes Nyström 60 år i Österbottniska Posten 1940",
+  "summary": "Hyllning till pastorn och folkhögskoleföreståndaren Johannes Nyström på 60-årsdagen. Texten följer hans väg från Nykarleby seminarium via flykt från värnplikten till studier och prästvigning i Amerika och ledarskapet för Kristliga folkhögskolan.",
+  "topics": [
+    "födelsedag",
+    "folkhögskola",
+    "emigration",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "Johannes Nyström",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "roles": [
+        "pastor",
+        "folkhögskoleföreståndare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Nyström dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1902,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Nyström prästvigs i Amerika",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kristliga folkhögskolan i Nykarleby startar",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Nyström blir föreståndare för Kristliga folkhögskolan",
+      "date": {
+        "year": 1920,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Johannes Nyström fyller 60 år",
+      "date": {
+        "year": 1940,
+        "month": 7,
+        "day": 29,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "90da46846641103b143bc62e41b143bcdbde5642053ae5b30632ecca29257aad",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

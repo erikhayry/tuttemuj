@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/malmbevu.htm",
+  "title": "Viktor Malmberg 1867–1936",
+  "summary": "Uppslagsverksartikel om skulptören Viktor Malmberg, med länkar till bland annat minnesruna, minnesplatta och sidor om statyn Flora. Sidan nämner att han växte upp i apoteksgården.",
+  "topics": [
+    "skulptör",
+    "konst",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [
+        "Nils Viktor Albin Malmberg"
+      ],
+      "birthYear": 1867,
+      "deathYear": 1936,
+      "roles": [
+        "skulptör",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Nils Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Rob. Stigell",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Malmbergs första lärare."
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteksgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Viktor Malmberg växte upp."
+    },
+    {
+      "name": "Florastatyn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Flora"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Viktor Malmberg föds i Nykarleby",
+      "date": {
+        "year": 1867,
+        "month": 6,
+        "day": 20,
+        "circa": false
+      },
+      "people": [
+        "Viktor Malmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Malmbergs byst av C.E. Sjöstrand utförs i marmor",
+      "date": {
+        "year": 1894,
+        "circa": false
+      },
+      "people": [
+        "Viktor Malmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Viktor Malmberg avlider i Helsingfors",
+      "date": {
+        "year": 1936,
+        "month": 10,
+        "day": 30,
+        "circa": false
+      },
+      "people": [
+        "Viktor Malmberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dd4f514bbdbf021fcc33901e9d1cc07db0f9d3d22772f8185b4a115703b32a16",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

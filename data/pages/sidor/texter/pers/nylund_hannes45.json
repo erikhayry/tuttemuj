@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nylund_hannes45.html",
+  "title": "Hannes Nylund 50 år i Österbottniska Posten 1945",
+  "summary": "Hyllning till Hannes Nylund på 50-årsdagen, faktor vid J. W. Nesslers tryckeri sedan 1917 och kommunalkassör. Sidan återger också en notis om bonden Johan Nylund i Lillsoklot.",
+  "topics": [
+    "födelsedag",
+    "tryckeri",
+    "kommunalförvaltning",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "Hannes Nylund",
+      "alternateNames": [],
+      "roles": [
+        "faktor",
+        "kommunalkassör"
+      ]
+    },
+    {
+      "name": "Johan Nylund",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Bonde i Lillsoklot som fyllde 70 år."
+    }
+  ],
+  "places": [
+    {
+      "name": "J. W. Nesslers tryckeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkoby folkskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lillsoklot",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hannes Nylund börjar som tryckeripojke på Nesslers tryckeri",
+      "date": {
+        "year": 1909,
+        "circa": false
+      },
+      "people": [
+        "Hannes Nylund"
+      ],
+      "places": [
+        "J. W. Nesslers tryckeri"
+      ]
+    },
+    {
+      "title": "Hannes Nylund blir faktor",
+      "date": {
+        "year": 1917,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [
+        "Hannes Nylund"
+      ],
+      "places": [
+        "J. W. Nesslers tryckeri"
+      ]
+    },
+    {
+      "title": "Nylund blir kommunalkassör",
+      "date": {
+        "year": 1924,
+        "circa": false
+      },
+      "people": [
+        "Hannes Nylund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hannes Nylund fyller 50 år",
+      "date": {
+        "year": 1945,
+        "month": 7,
+        "day": 13,
+        "circa": false
+      },
+      "people": [
+        "Hannes Nylund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e0985f13fa8f4ad867a4b901873d29de863ba34409e3a1c8d81a1c5bb4ec5070",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

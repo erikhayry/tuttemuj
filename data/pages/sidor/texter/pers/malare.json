@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/malare.html",
+  "title": "Normen målas och målare i staden",
+  "summary": "Minnen och bilder från när Normen målades 1961 på en lift som hissades upp med taljor. Sidan reder ut vilka målare som var med och samlar släktingars minnen av stadens målare.",
+  "topics": [
+    "Normen",
+    "målare",
+    "minnen",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Mauritz Siegfrids",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Kurt Rinne",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Tage Lahtinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Atte Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Jan-Erik Solvin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabeth King",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mauritz Siegfrids dotter."
+    },
+    {
+      "name": "Hannes Ringvall",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolbyggnaden som målades 1961.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källargrillen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bådavägen",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Normen målas av Mauritz Siegfrids",
+      "date": {
+        "year": 1961,
+        "circa": false
+      },
+      "people": [
+        "Mauritz Siegfrids",
+        "Atte Kronqvist",
+        "Kurt Rinne",
+        "Tage Lahtinen"
+      ],
+      "places": [
+        "Normen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5af213b0ef6b0d481252173675658c3b2cbf9a40b88d109592c6eb9377e060c3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

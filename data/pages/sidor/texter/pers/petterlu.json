@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/petterlu.htm",
+  "title": "Lars Pettersson 1918–1993",
+  "summary": "Uppslagsverksartikel om konsthistorikern Lars Pettersson, professor vid Helsingfors universitet. Sidan hänvisar till hans text om Nykarleby kyrka av år 1708.",
+  "topics": [
+    "konsthistoria",
+    "kyrkor",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Lars Pettersson",
+      "alternateNames": [
+        "Lars Karl Johan Pettersson"
+      ],
+      "birthYear": 1918,
+      "deathYear": 1993,
+      "roles": [
+        "konsthistoriker",
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kyrkan av år 1708.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f7ef4cebb24f9a997264a8efca7d866f61e5fbad4a465bfbc73a263ac5327472",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

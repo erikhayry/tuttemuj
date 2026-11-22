@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/pettersson_birck.htm",
+  "title": "Petterssons och Bircks på Seminariegatan 5 av Lena Salo",
+  "summary": "Lena Salo berättar om släkterna Pettersson och Birck i huset på Seminariegatan 5, med dödsannonser, en bibel och brev. Berättelsen rör bland annat Viktoria Birck, vars fästman arkebuserades våren 1918 innan hon födde sonen Ragnar.",
+  "topics": [
+    "släkthistoria",
+    "Seminariegatan",
+    "1918",
+    "inbördeskriget"
+  ],
+  "people": [
+    {
+      "name": "Lena Salo",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Alexander Pettersson",
+      "alternateNames": [],
+      "birthYear": 1847,
+      "deathYear": 1894,
+      "roles": [
+        "folkskollärare"
+      ]
+    },
+    {
+      "name": "Anna Katarina Pettersson",
+      "alternateNames": [
+        "Anna Nylund"
+      ],
+      "birthYear": 1847,
+      "deathYear": 1932,
+      "roles": []
+    },
+    {
+      "name": "Viktoria Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Annas systerdotter, som bodde hos henne."
+    },
+    {
+      "name": "Ragnar Birck",
+      "alternateNames": [],
+      "birthYear": 1918,
+      "roles": [],
+      "description": "Viktorias son, adoptivfar till skribenten."
+    },
+    {
+      "name": "Rut Kujala",
+      "alternateNames": [
+        "Rut Nygård"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Pjotr Popoff",
+      "alternateNames": [
+        "Peter Popoff"
+      ],
+      "roles": [],
+      "description": "Ruts far, som dödades."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan 5",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 5",
+      "geo": {
+        "lat": 63.5238844,
+        "lng": 22.5239311,
+        "match": "address",
+        "gazetteerName": "seminariegatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Döbelns hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Söder om kyrkan nära bron."
+    },
+    {
+      "name": "Nystan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221564,
+        "lng": 22.5200469,
+        "match": "name",
+        "gazetteerName": "nystan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fästmannen arkebuseras tillsammans med andra män",
+      "date": {
+        "year": 1918,
+        "circa": false,
+        "text": "vårvintern 1918"
+      },
+      "people": [
+        "Viktoria Birck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ragnar föds på Seminariegatan 5",
+      "date": {
+        "year": 1918,
+        "month": 7,
+        "day": 17,
+        "circa": false
+      },
+      "people": [
+        "Ragnar Birck"
+      ],
+      "places": [
+        "Seminariegatan 5"
+      ]
+    },
+    {
+      "title": "Anna Katarina Pettersson avlider i sitt hem",
+      "date": {
+        "year": 1932,
+        "month": 9,
+        "day": 19,
+        "circa": false
+      },
+      "people": [
+        "Anna Katarina Pettersson"
+      ],
+      "places": [
+        "Seminariegatan 5"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Våren 1918 skjuts Viktorias fästman ihjäl. Hon är gravid och flyttar hem till sin moster Anna på Seminariegatan, där sonen Ragnar föds mitt i kriget.",
+    "reason": "Ett dramatiskt vändpunkts-ögonblick i inbördeskriget sett genom en ensam kvinnas liv.",
+    "characters": [
+      "Viktoria Birck",
+      "Anna Katarina Pettersson"
+    ],
+    "places": [
+      "Seminariegatan 5"
+    ]
+  },
+  "contentHash": "1345fe2b6ef09fbde34bdc01cfe9e6e7d315c349072dc3da3eeec7682fc3474e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

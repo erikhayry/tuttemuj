@@ -178,6 +178,11 @@
     "note": "Pharmacy entrance from 1861 at the corner of Kyrkogatan and Borgaregatan."
   },
   {
+    "name": "apoteksgården",
+    "kind": "building",
+    "note": "The apothecary's farm where Viktor Malmberg grew up."
+  },
+  {
     "name": "apotekskällaren",
     "kind": "building"
   },
@@ -414,6 +419,11 @@
     "kind": "building"
   },
   {
+    "name": "bjons",
+    "kind": "farm",
+    "note": "Farm in Ytterjeppo."
+  },
+  {
     "name": "björkholmen",
     "kind": "island",
     "alternateNames": [
@@ -445,6 +455,11 @@
     "name": "bloms cementgjuteri",
     "kind": "building",
     "note": "Founded 1958 by Stig and Magda Blom; first at Willman's workshop on Nålön, then in Kovjoki next to the station."
+  },
+  {
+    "name": "blomströms gård",
+    "kind": "farm",
+    "note": "Next to Gustav Adolfsgatan 10."
   },
   {
     "name": "blomströmska gården",
@@ -736,6 +751,10 @@
     "kind": "waterbody"
   },
   {
+    "name": "bådavägen",
+    "kind": "street"
+  },
+  {
     "name": "båthusen vid nålörn",
     "kind": "building"
   },
@@ -919,7 +938,8 @@
     "name": "döbelnmonumentet vid juthas",
     "kind": "landmark",
     "alternateNames": [
-      "döbelnmonumentet"
+      "döbelnmonumentet",
+      "monumentet över slaget vid juthas"
     ],
     "note": "Monument to G. C. von Döbeln at the Juthas battlefield, about 3 km outside the town."
   },
@@ -1084,6 +1104,11 @@
   {
     "name": "fagerholms uthus",
     "kind": "building"
+  },
+  {
+    "name": "fattig",
+    "kind": "farm",
+    "note": "Farm (hemman) in Vexala."
   },
   {
     "name": "fattigsmåbarnsskolan",
@@ -1456,7 +1481,10 @@
   },
   {
     "name": "gamla stationshuset",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "gamla station"
+    ]
   },
   {
     "name": "gammelgården",
@@ -1687,6 +1715,11 @@
     "kind": "building"
   },
   {
+    "name": "gunnar folkskola",
+    "kind": "building",
+    "note": "School in Jeppo."
+  },
+  {
     "name": "gunnar kronqvists gård",
     "kind": "building",
     "note": "Farm built by Gunnar Kronqvist, under construction in 1968."
@@ -1867,6 +1900,11 @@
   {
     "name": "haralds såg och kvarn",
     "kind": "building"
+  },
+  {
+    "name": "haraldsfors såg",
+    "kind": "building",
+    "note": "Sawmill at Haraldsfors."
   },
   {
     "name": "haraldsholmen",
@@ -2178,6 +2216,14 @@
     "note": "By Karleborgsgatan; replaced by Granviks gård."
   },
   {
+    "name": "jeppo centralfolkskola",
+    "kind": "building"
+  },
+  {
+    "name": "jeppo kyrka",
+    "kind": "building"
+  },
+  {
     "name": "jeppo ullspinneri",
     "kind": "building"
   },
@@ -2485,6 +2531,11 @@
     "alternateNames": [
       "tomt 74"
     ]
+  },
+  {
+    "name": "karleborgsgatan 18",
+    "kind": "building",
+    "note": "Mattsson's cottage on the southern part of Tomt 51."
   },
   {
     "name": "karleborgsgatan 22",
@@ -2887,6 +2938,11 @@
     "kind": "island"
   },
   {
+    "name": "kyrkoherdebolet",
+    "kind": "farm",
+    "note": "Vicarage farm."
+  },
+  {
     "name": "kyrkoherdebolets åker",
     "kind": "other",
     "alternateNames": [
@@ -2984,6 +3040,14 @@
     "name": "kärlekstallen",
     "kind": "landmark",
     "note": "Protected tree on the Juthbacka path."
+  },
+  {
+    "name": "kärr i forsby",
+    "kind": "farm",
+    "alternateNames": [
+      "lindfors i kärr"
+    ],
+    "note": "Farm in Forsby."
   },
   {
     "name": "kärras",
@@ -3217,6 +3281,11 @@
     "kind": "farm"
   },
   {
+    "name": "lillsoklot",
+    "kind": "district",
+    "note": "Part of Soklot."
+  },
+  {
     "name": "lindbohms gård",
     "kind": "building",
     "alternateNames": [
@@ -3444,6 +3513,10 @@
     "name": "marielund",
     "kind": "building",
     "note": "Estate."
+  },
+  {
+    "name": "markby samlingshus",
+    "kind": "building"
   },
   {
     "name": "marken i markby",
@@ -3694,7 +3767,10 @@
   },
   {
     "name": "nesslers tryckeri",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "j w nesslers tryckeri"
+    ]
   },
   {
     "name": "nesslerska gården",
@@ -4070,6 +4146,11 @@
   {
     "name": "nystaden",
     "kind": "district"
+  },
+  {
+    "name": "nyströms villa",
+    "kind": "building",
+    "note": "Villa of Johannes Nyström, head of the Christian folk high school."
   },
   {
     "name": "nätön",
@@ -4452,6 +4533,11 @@
     ]
   },
   {
+    "name": "roparsand",
+    "kind": "landmark",
+    "note": "Site of Folkhälsan's summer colony."
+  },
+  {
     "name": "rosa öhmans gård",
     "kind": "building",
     "alternateNames": [
@@ -4657,7 +4743,10 @@
   {
     "name": "sankta birgitta kyrkan",
     "kind": "building",
-    "note": "Church shown in the Kyrkogatan panorama, from 1708 according to the page."
+    "note": "Church shown in the Kyrkogatan panorama, from 1708 according to the page.",
+    "alternateNames": [
+      "s:ta birgitta kyrka"
+    ]
   },
   {
     "name": "sarlinska gården",
@@ -4800,6 +4889,11 @@
     "name": "seminariets verkstadsbyggnad",
     "kind": "building",
     "note": "On the seminary grounds."
+  },
+  {
+    "name": "sigfrids i soklot",
+    "kind": "farm",
+    "note": "Farm in Soklot."
   },
   {
     "name": "sigrid sandviks gård",

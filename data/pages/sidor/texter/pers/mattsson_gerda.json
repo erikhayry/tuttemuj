@@ -1,0 +1,144 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/mattsson_gerda.html",
+  "title": "Gerda Blomqvist 1910–1984",
+  "summary": "Livsberättelse om fotografen Gerda Mattsson, som växte upp hos sin moster på Karleborgsgatan efter moderns död och öppnade fotoateljé i mitten av 1930-talet. Sidan går också igenom släkten och faderns emigration till Amerika.",
+  "topics": [
+    "fotograf",
+    "släkthistoria",
+    "emigration",
+    "Karleborgsgatan"
+  ],
+  "people": [
+    {
+      "name": "Gerda Blomqvist",
+      "alternateNames": [
+        "Gerda Mattsson",
+        "Gerda Helena Blomqvist"
+      ],
+      "birthYear": 1910,
+      "deathYear": 1984,
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Johannes Mattsson",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "deathYear": 1954,
+      "roles": [
+        "parcellägare"
+      ],
+      "description": "Gerdas far, som emigrerade till Amerika."
+    },
+    {
+      "name": "Hulda Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "sömmerska"
+      ],
+      "description": "Gerdas moster."
+    },
+    {
+      "name": "Julius Sund",
+      "alternateNames": [
+        "Julle"
+      ],
+      "roles": [
+        "tullare"
+      ]
+    },
+    {
+      "name": "Reinhold Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "Birger Mattsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gerdas bror."
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborgsgatan 18",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Karleborgsgatan 18",
+      "description": "Mattssons stuga, södra delen av Tomt 51."
+    },
+    {
+      "name": "Fattig",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman i Vexala."
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gerda Mattsson föds",
+      "date": {
+        "year": 1910,
+        "month": 12,
+        "day": 20,
+        "circa": false
+      },
+      "people": [
+        "Gerda Blomqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gerdas mor dör och fadern emigrerar till Amerika",
+      "date": {
+        "year": 1915,
+        "circa": false
+      },
+      "people": [
+        "Johannes Mattsson",
+        "Gerda Blomqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gerda öppnar fotoateljé",
+      "date": {
+        "year": 1935,
+        "circa": true,
+        "text": "mitten på 1930-talet"
+      },
+      "people": [
+        "Gerda Blomqvist"
+      ],
+      "places": [
+        "Karleborgsgatan 18"
+      ]
+    },
+    {
+      "title": "Gerda Blomqvist avlider",
+      "date": {
+        "year": 1984,
+        "month": 8,
+        "day": 11,
+        "circa": false
+      },
+      "people": [
+        "Gerda Blomqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "024a14a6b38b9b6d2e5cad6573dd46e74633dbe96381d46ef70b50e6a0988310",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

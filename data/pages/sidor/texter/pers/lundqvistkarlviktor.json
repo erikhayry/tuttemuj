@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/lundqvistkarlviktor.html",
+  "title": "Karl Viktor Lundqvist 1909–",
+  "summary": "Matrikeluppgifter om läraren Karl Viktor Lundqvist, född i Nykarleby landskommun, som var lärare i Jakobstad och vid Nykarleby seminarium samt skrev läroböcker.",
+  "topics": [
+    "lärare",
+    "seminariet",
+    "matrikel"
+  ],
+  "people": [
+    {
+      "name": "Karl Viktor Lundqvist",
+      "alternateNames": [],
+      "birthYear": 1909,
+      "roles": [
+        "lärare",
+        "seminariefolkskoleföreståndare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Lundqvist föds i Nykarleby landskommun",
+      "date": {
+        "year": 1909,
+        "month": 9,
+        "day": 7,
+        "circa": false
+      },
+      "people": [
+        "Karl Viktor Lundqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lundqvist blir lärare vid Nykarleby seminarium",
+      "date": {
+        "year": 1959,
+        "circa": false
+      },
+      "people": [
+        "Karl Viktor Lundqvist"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "55705327a17d5ac929f9e296f72347fd161e5132ad88d0398e9de1bbf0821729",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

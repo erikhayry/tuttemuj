@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/malmbergv.html",
+  "title": "Minnesruna över Viktor Malmberg i Svenska Folkskolans vänners kalender (1937)",
+  "summary": "Minnesord över skulptören Viktor Malmberg, född i Nykarleby, som verkade som lärare i Helsingfors och skapade bland annat Vattenbärerskan. Texten nämner att statyetten Flora ställts upp utanför hans barndomshem i Nykarleby.",
+  "topics": [
+    "minnesruna",
+    "skulptör",
+    "konst",
+    "Svenska Folkskolans vänner"
+  ],
+  "people": [
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "birthYear": 1867,
+      "deathYear": 1936,
+      "roles": [
+        "skulptör",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Nils Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ],
+      "description": "Viktor Malmbergs far."
+    }
+  ],
+  "places": [
+    {
+      "name": "Florastatyn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Flora"
+      ],
+      "description": "Statyetten Flora, skänkt till staden av nykarlebybor och uppställd utanför skulptörens barndomshem."
+    }
+  ],
+  "events": [
+    {
+      "title": "Viktor Malmberg föds i Nykarleby",
+      "date": {
+        "year": 1867,
+        "month": 6,
+        "day": 20,
+        "circa": false
+      },
+      "people": [
+        "Viktor Malmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Viktor Malmberg avlider i Helsingfors",
+      "date": {
+        "year": 1936,
+        "month": 10,
+        "day": 30,
+        "circa": false
+      },
+      "people": [
+        "Viktor Malmberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3b101491394e8d065354d4ccfc2d5955bdb87bbf59721c7aeaf22b6d920a280d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

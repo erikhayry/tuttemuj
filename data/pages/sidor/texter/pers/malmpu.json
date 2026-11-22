@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/malmpu.htm",
+  "title": "Peter Malm 1800–1868 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om skeppsredaren Peter Malm i Jakobstad, vars flotta var landets största 1840. Sidan nämner att han hade affärer ihop med nykarlebyköpmannen Collander.",
+  "topics": [
+    "rederi",
+    "handel",
+    "Jakobstad",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Peter Malm",
+      "alternateNames": [],
+      "birthYear": 1800,
+      "deathYear": 1868,
+      "roles": [
+        "skeppsredare",
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "Collander",
+      "alternateNames": [],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "Kilian Matiasson Malm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedsbacka hemman",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Barken Hercules gör den första finländska världsomseglingen",
+      "date": {
+        "year": 1845,
+        "circa": false,
+        "text": "1845–47"
+      },
+      "people": [
+        "Peter Malm"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "82e031b6572e79e893d06c3eca585fb8ec8981ef4b429a4b05c67a7adf3cad5d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

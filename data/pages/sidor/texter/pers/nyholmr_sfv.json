@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nyholmr_sfv.html",
+  "title": "Minnesruna över Runar Nyholm i Svenska Folkskolans vänners kalender (2001)",
+  "summary": "Minnesord över läraren Runar Nyholm, utexaminerad från Nykarleby seminarium, som verkade i Jeppo till 1973 och skrev bygdens historia. Han drev på för hembygdsföreningen, ett hembygdsmuseum och en hembygdsfilm.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "hembygdsforskning",
+    "Jeppo"
+  ],
+  "people": [
+    {
+      "name": "Runar Nyholm",
+      "alternateNames": [],
+      "birthYear": 1913,
+      "deathYear": 1999,
+      "roles": [
+        "lärare",
+        "föreståndare",
+        "hembygdsforskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Gunnar folkskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skola i Jeppo där Nyholm var lärare och föreståndare."
+    },
+    {
+      "name": "Jeppo Centralfolkskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppo kyrka",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Runar Nyholm dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "people": [
+        "Runar Nyholm"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Nyholm blir lärare och föreståndare vid Gunnar folkskola i Jeppo",
+      "date": {
+        "year": 1946,
+        "circa": false
+      },
+      "people": [
+        "Runar Nyholm"
+      ],
+      "places": [
+        "Gunnar folkskola"
+      ]
+    },
+    {
+      "title": "Nyholm går i pension",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "people": [
+        "Runar Nyholm"
+      ],
+      "places": []
+    },
+    {
+      "title": "Runar Nyholm avlider",
+      "date": {
+        "year": 1999,
+        "month": 10,
+        "day": 5,
+        "circa": false
+      },
+      "people": [
+        "Runar Nyholm"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8296939ae07c09aaf95f892fc470450da1b43eb23be198bd6ef04936635d8c1f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

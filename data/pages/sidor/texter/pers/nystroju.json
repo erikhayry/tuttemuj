@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nystroju.htm",
+  "title": "Johannes Nyström 1880–1948 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om Johannes Nyström, föreståndare för Kristliga folkhögskolan i Nykarleby 1920–47. Sidan samlar länkar till minnesrunor, historik och hans villa.",
+  "topics": [
+    "folkhögskola",
+    "Kristliga folkhögskolan",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Johannes Nyström",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "deathYear": 1948,
+      "roles": [
+        "folkhögskoleföreståndare",
+        "präst"
+      ]
+    },
+    {
+      "name": "Runar Hedberg",
+      "alternateNames": [],
+      "roles": [
+        "efterträdare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nyströms villa",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Nyström utexamineras från Nykarleby seminarium",
+      "date": {
+        "year": 1902,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Nyström föreståndare för Kristliga folkhögskolan",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920–47"
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1cfbeafcc08fa7220e0ca6437da75a1a6b4b19796e1cad0cd51a800507143dcb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

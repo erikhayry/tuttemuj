@@ -1,0 +1,116 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/liljestrom_elisabeth.html",
+  "title": "Elisabeth Liljeström i Finska-Amerikanaren",
+  "summary": "Porträtt av Elisabeth Liljeström, född på ett torp under Forsbacka, som emigrerade till USA 1910. Sidan samlar notiser ur Finska-Amerikanaren om hennes liv i Brooklyn, där hon bland annat uppträdde med deklamationer.",
+  "topics": [
+    "emigration",
+    "USA",
+    "Finska-Amerikanaren",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Elisabeth Liljeström",
+      "alternateNames": [],
+      "birthYear": 1891,
+      "deathYear": 1980,
+      "roles": [
+        "deklamatör"
+      ],
+      "description": "Emigrerade till USA 1910, verksam i Svensk-finska församlingen i Brooklyn."
+    },
+    {
+      "name": "Sigurd Karlson",
+      "alternateNames": [],
+      "roles": [
+        "minkfarmare"
+      ],
+      "description": "Från Västanfjärd, gift med Elisabeth från november 1918."
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Elisabeth föddes på ett torp under Forsbacka mellan Andrasjön och Bonäs."
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäs",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Elisabeth Liljeström föds",
+      "date": {
+        "year": 1891,
+        "month": 10,
+        "day": 7,
+        "circa": false
+      },
+      "people": [
+        "Elisabeth Liljeström"
+      ],
+      "places": [
+        "Forsbacka"
+      ]
+    },
+    {
+      "title": "Elisabeth Liljeström emigrerar till USA",
+      "date": {
+        "year": 1910,
+        "circa": false
+      },
+      "people": [
+        "Elisabeth Liljeström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Elisabeth gifter sig med Sigurd Karlson",
+      "date": {
+        "year": 1918,
+        "month": 11,
+        "circa": false
+      },
+      "people": [
+        "Elisabeth Liljeström",
+        "Sigurd Karlson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Elisabeth Liljeström dör",
+      "date": {
+        "year": 1980,
+        "month": 10,
+        "day": 24,
+        "circa": false
+      },
+      "people": [
+        "Elisabeth Liljeström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "83e9989f103611f19887bd13be2a4d0bb087fa4dab67ae559e12106c5de83bf7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

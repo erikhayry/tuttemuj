@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nystromj_sfv.html",
+  "title": "Minnesruna över Johannes Nyström i Svenska Folkskolans vänners kalender (1949)",
+  "summary": "Minnesord över Johannes Nyström, folkhögskolans föreståndare som aldrig lade av arbetsdräkten. Han tvingades av politiska skäl lämna landet, blev präst i Amerika och byggde upp Kristliga folkhögskolan i Nykarleby.",
+  "topics": [
+    "minnesruna",
+    "folkhögskola",
+    "emigration",
+    "Svenska Folkskolans vänner"
+  ],
+  "people": [
+    {
+      "name": "Johannes Nyström",
+      "alternateNames": [],
+      "birthYear": 1880,
+      "roles": [
+        "folkhögskoleföreståndare",
+        "präst"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Nyström föds i Nedervetil",
+      "date": {
+        "year": 1880,
+        "month": 7,
+        "day": 29,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nyström dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1902,
+        "circa": false
+      },
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ung lärare tvingas fly landet av politiska skäl, blir präst i Amerika och återvänder för att bygga landets största svenskspråkiga folkhögskola, där han tar emot utländska gäster i arbetskläderna.",
+    "reason": "Politisk flykt och hemkomst ger en tydlig båge med en lite komisk detalj.",
+    "characters": [
+      "Johannes Nyström"
+    ],
+    "places": [
+      "Kristliga folkhögskolan"
+    ]
+  },
+  "contentHash": "505e0707f8924392a7e1efc80e017011c6b6934094fbe111fd94251ee6fee49c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nessler_jw.html",
+  "title": "J. W. Nessler 31/1 1848 – 9/4 1910",
+  "summary": "Samling dödsnotiser över kantor Johan Wilhelm Nessler, tidningsutgivare och företagare i Nykarleby. Sidan visar vilka tidningar som skrev om hans bortgång och återger en av runorna med hans fabriker och sågar.",
+  "topics": [
+    "dödsruna",
+    "kantor",
+    "Österbottniska Posten",
+    "industri"
+  ],
+  "people": [
+    {
+      "name": "Johan Wilhelm Nessler",
+      "alternateNames": [
+        "J. W. Nessler"
+      ],
+      "birthYear": 1848,
+      "deathYear": 1910,
+      "roles": [
+        "kantor",
+        "klockare",
+        "tidningsutgivare",
+        "företagare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Haraldsfors såg",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Nessler hade en ångsåg nära Soklot."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nessler blir klockare i Nykarleby",
+      "date": {
+        "year": 1874,
+        "circa": false
+      },
+      "people": [
+        "Johan Wilhelm Nessler"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nessler grundar tidningen Mellersta Österbotten",
+      "date": {
+        "year": 1882,
+        "circa": false
+      },
+      "people": [
+        "Johan Wilhelm Nessler"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tidningen börjar kallas Österbottniska Posten",
+      "date": {
+        "year": 1885,
+        "circa": false
+      },
+      "people": [
+        "Johan Wilhelm Nessler"
+      ],
+      "places": []
+    },
+    {
+      "title": "Johan Wilhelm Nessler avlider i Jakobstad",
+      "date": {
+        "year": 1910,
+        "month": 4,
+        "day": 9,
+        "circa": false
+      },
+      "people": [
+        "Johan Wilhelm Nessler"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "de5ddd1007f8381115533a8aac1e2e90c2b4ed31d055fff2657d20f48cde181d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

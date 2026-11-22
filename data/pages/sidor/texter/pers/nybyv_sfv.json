@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nybyv_sfv.html",
+  "title": "Minnesruna över Vilhelm Nyby i Svenska Folkskolans vänners kalender (2001)",
+  "summary": "Minnesord över redaktören och bonden Vilhelm Nyby från Vexala, som skrev dikter och blev redaktör för Österbottniska Posten 1955. Texten skildrar hans väg till journalistiken och hans intresse för samhälle och natur.",
+  "topics": [
+    "minnesruna",
+    "journalistik",
+    "dikter",
+    "Österbottniska Posten",
+    "Svenska Folkskolans vänner"
+  ],
+  "people": [
+    {
+      "name": "Vilhelm Nyby",
+      "alternateNames": [],
+      "birthYear": 1919,
+      "deathYear": 2001,
+      "roles": [
+        "redaktör",
+        "bonde",
+        "diktare"
+      ]
+    },
+    {
+      "name": "Anders Svedberg",
+      "alternateNames": [],
+      "roles": [
+        "redaktör"
+      ],
+      "description": "Vilhelm Nybys företrädare på Österbottniska Posten."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vilhelm Nyby föds i Vexala",
+      "date": {
+        "year": 1919,
+        "month": 12,
+        "day": 26,
+        "circa": false
+      },
+      "people": [
+        "Vilhelm Nyby"
+      ],
+      "places": [
+        "Vexala"
+      ]
+    },
+    {
+      "title": "Nyby blir redaktör för Österbottniska Posten",
+      "date": {
+        "year": 1955,
+        "circa": false
+      },
+      "people": [
+        "Vilhelm Nyby"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nyby blir lokalredaktör för Hufvudstadsbladet i Österbotten",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [
+        "Vilhelm Nyby"
+      ],
+      "places": []
+    },
+    {
+      "title": "Vilhelm Nyby avlider",
+      "date": {
+        "year": 2001,
+        "month": 5,
+        "day": 5,
+        "circa": false
+      },
+      "people": [
+        "Vilhelm Nyby"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a7bba7e776ea9b0cf211f8eabc072a2b995fa4b9625585be313d366796cc4435",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

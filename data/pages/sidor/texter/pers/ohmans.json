@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ohmans.html",
+  "title": "Rosa och Vendla Öhman målar staketet",
+  "summary": "Foton av systrarna Rosa och Vendla Öhman som målar staketet vid sin gård vid Gustav Adolfsgatan 10, troligen i slutet av 1950-talet. I bakgrunden syns skylten Hanséns Cafe och prästgårdens rivna fähus.",
+  "topics": [
+    "fotografi",
+    "Gustav Adolfsgatan",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Rosa Öhman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vendla Öhman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilderna ur Holger Haglunds samlingar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 10",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 10",
+      "description": "Nuvarande Adèle och Elof Bromans hus byggdes 1962.",
+      "geo": {
+        "lat": 63.5211648,
+        "lng": 22.5322224,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Blomströms gård",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Rosa och Vendla Öhman målar staketet",
+      "date": {
+        "year": 1959,
+        "circa": true,
+        "text": "slutet på 1950-talet"
+      },
+      "people": [
+        "Rosa Öhman",
+        "Vendla Öhman"
+      ],
+      "places": [
+        "Gustav Adolfsgatan 10"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ffb6feeb7919ad0a405cf7cbf12c2f8f3c0a588ddf86806cdee77d5aeb2e89c1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

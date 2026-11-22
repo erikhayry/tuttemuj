@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/pensarl_fl.html",
+  "title": "Lars Pensar 1940–2021",
+  "summary": "Personlig hyllning till läraren och lokalhistorikern Lars Pensar av en tidigare elev, som minns skolåren i Normen och högstadiet. Texten berättar om samarbetet kring Nykarlebyvyer från 2002.",
+  "topics": [
+    "minnesord",
+    "lärare",
+    "Nykarlebyvyer",
+    "Normen",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "birthYear": 1940,
+      "deathYear": 2021,
+      "roles": [
+        "lärare",
+        "lokalhistoriker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sågholmen",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skribenten börjar första klass i Normen",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normen"
+      ]
+    },
+    {
+      "title": "Skribenten börjar i högstadiet",
+      "date": {
+        "year": 1976,
+        "month": 8,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Arbetet med Nykarlebyvyer inleds",
+      "date": {
+        "year": 2002,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4e02f29d3e669e2bbcbc9c5611b8454d3ad9240eded5881dd5aa7f2848353d1d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

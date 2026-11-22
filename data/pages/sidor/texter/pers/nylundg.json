@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nylundg.htm",
+  "title": "Gunnar Nylund 1916–2002",
+  "summary": "Dottern Gunilla Heick berättar om läraren och författaren Gunnar Nylund från Ytterjeppo och går igenom hans böcker, inklusive Ringen från 1999 med berättelser om Ytterjeppobor.",
+  "topics": [
+    "författare",
+    "lärare",
+    "Ytterjeppo",
+    "dialekt"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Nylund",
+      "alternateNames": [
+        "Gunnar Isak Georg Nylund",
+        "Gunnar Isak"
+      ],
+      "birthYear": 1916,
+      "deathYear": 2002,
+      "roles": [
+        "folkskollärare",
+        "författare"
+      ]
+    },
+    {
+      "name": "Gunilla Heick",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gunnar Nylunds dotter."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bjons",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gunnar Nylund föds på Bjons i Ytterjeppo",
+      "date": {
+        "year": 1916,
+        "month": 6,
+        "day": 2,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": [
+        "Bjons"
+      ]
+    },
+    {
+      "title": "Boken Vår by vid älven – Ytterjeppo ges ut",
+      "date": {
+        "year": 1985,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": [
+        "Ytterjeppo"
+      ]
+    },
+    {
+      "title": "Boken Ringen ges ut",
+      "date": {
+        "year": 1999,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gunnar Nylund avlider i Vasa",
+      "date": {
+        "year": 2002,
+        "month": 2,
+        "day": 21,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Nylund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f60c22c5a058ae5d494722243afc0d40559ce577662b9fc596bca85abf62a766",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

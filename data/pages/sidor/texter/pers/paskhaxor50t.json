@@ -1,0 +1,174 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/paskhaxor50t.html",
+  "title": "Påskhäxor och -brasor",
+  "summary": "Foton av påskhäxor från 1950-talet och minnen av barnens påskbrasa vid Storstein bakom Lahtinens hus på Skeppsgatan. Sidan namnger flickorna på bilden och har bilder från Bankgatan–Karleborgsgatan 1957.",
+  "topics": [
+    "påsk",
+    "påskbrasa",
+    "fotografi",
+    "1950-talet",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Rose-Marie Marklund",
+      "alternateNames": [
+        "Rose-Marie Herr"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Gunilla Damberg",
+      "alternateNames": [
+        "Gunilla Teckenberg"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Birgitta Svensson",
+      "alternateNames": [
+        "Birgitta Häger"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Marita Bertlin",
+      "alternateNames": [
+        "Marita Junell"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Regina Nybäck",
+      "alternateNames": [
+        "Regina Sjöblom"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Benita Willman",
+      "alternateNames": [
+        "Benita Fors"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Maureen Rönn",
+      "alternateNames": [
+        "Maureen Krokvik"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Ulla Rönn",
+      "alternateNames": [
+        "Ulla Östman"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Sven Bertlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Rönn",
+      "alternateNames": [],
+      "roles": [
+        "hästkarl"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Skeppsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Lahtinens hus, bakom vilket påskbrasan gjordes.",
+      "geo": {
+        "lat": 63.5230506,
+        "lng": 22.5392948,
+        "match": "name",
+        "gazetteerName": "skeppsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storstein",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Platsen för barnens påskbrasa bakom Lahtinens."
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Påskhäxor vid korsningen Bankgatan–Karleborgsgatan",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Bankgatan",
+        "Karleborgsgatan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ungarna på Källbacken bygger en flera meter hög påskbrasa med hjälp av hästkarlen Gunnar Rönn, men oroar sig för att konkurrerande gäng ska bränna ner den på förhand.",
+    "reason": "Barnens rivalitet kring påskbrasan ger en lekfull och spännande berättelse.",
+    "characters": [
+      "Sven Bertlin",
+      "Gunnar Rönn"
+    ],
+    "places": [
+      "Källbacken",
+      "Storstein"
+    ]
+  },
+  "contentHash": "fa4e7ccb538807df8379551d31701dd836dfc9ab6b0f18ecdd8d8daa694ef19e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

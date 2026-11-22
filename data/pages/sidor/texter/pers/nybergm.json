@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nybergm.htm",
+  "title": "Minnesruna över Matts Edvard Nyberg i Österbottniska Posten 1943",
+  "summary": "Dödsruna över skogsvakten Matts Edvard Nyberg, som gick till sjöss som ung och var med om skeppsbrott på Nykarleby-barken Usko. Han tjänade sedan staden som brandvakt, banmästare och skogsvakt.",
+  "topics": [
+    "dödsruna",
+    "sjöfart",
+    "skeppsbrott",
+    "stadens järnväg"
+  ],
+  "people": [
+    {
+      "name": "Matts Edvard Nyberg",
+      "alternateNames": [
+        "Mats Nyberg"
+      ],
+      "deathYear": 1943,
+      "roles": [
+        "sjöman",
+        "brandvakt",
+        "banmästare",
+        "skogsvakt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedsbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Där Nyberg bodde vid sin död."
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nyberg mönstrar på barken Usko på Torsöfjärden; Usko förliser vid Doggerbank",
+      "date": {
+        "year": 1883,
+        "circa": false
+      },
+      "people": [
+        "Matts Edvard Nyberg"
+      ],
+      "places": [
+        "Torsöfjärden"
+      ]
+    },
+    {
+      "title": "Nyberg lämnar sjömanslivet och blir brandvakt",
+      "date": {
+        "year": 1904,
+        "circa": false
+      },
+      "people": [
+        "Matts Edvard Nyberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nyberg blir banmästare på stadens järnväg och skogsvakt",
+      "date": {
+        "year": 1905,
+        "circa": false
+      },
+      "people": [
+        "Matts Edvard Nyberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nyberg går i pension",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "people": [
+        "Matts Edvard Nyberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En 17-åring från Nykarleby mönstrar på barken Usko, som förliser vid Doggerbank redan på första resan, och blir sjöman i över tjugo år innan han landar som stadens brandvakt.",
+    "reason": "Ett skeppsbrott och ett äventyrligt sjömansliv med kontrast mot ett lugnt jobb i hemstaden.",
+    "characters": [
+      "Matts Edvard Nyberg"
+    ],
+    "places": [
+      "Torsöfjärden"
+    ]
+  },
+  "contentHash": "fdd6464f54b6df3028d51bd6712f28445acd4be952048f919701f27dd18f99b1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

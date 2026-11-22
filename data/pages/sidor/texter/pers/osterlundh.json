@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/osterlundh.html",
+  "title": "Henrik Österlund död i Österbottniska Posten 1944",
+  "summary": "Dödsnotis över maskinmästaren Henrik Österlund, som var vaktmästare vid Nykarleby seminariums övningsskola i 36 år. Han satt i stadsfullmäktige och i många styrelser och var skyddskårens rustmästare.",
+  "topics": [
+    "dödsfall",
+    "seminariet",
+    "skyddskåren",
+    "kommunalpolitik"
+  ],
+  "people": [
+    {
+      "name": "Henrik Österlund",
+      "alternateNames": [],
+      "roles": [
+        "maskinmästare",
+        "vaktmästare",
+        "stadsfullmäktig"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Övningsskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normalskolan"
+      ],
+      "description": "Nykarleby seminariums övningsskola.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby handelslag",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Österlund vistas i Amerika",
+      "date": {
+        "year": 1902,
+        "circa": false,
+        "text": "1902–1907"
+      },
+      "people": [
+        "Henrik Österlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Österlund blir rustmästare för Nykarleby skyddskår",
+      "date": {
+        "year": 1918,
+        "circa": false
+      },
+      "people": [
+        "Henrik Österlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Henrik Österlund avlider efter en operation i Vasa",
+      "date": {
+        "year": 1944,
+        "month": 3,
+        "circa": false
+      },
+      "people": [
+        "Henrik Österlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0ae3c4e935cda58465b0c024c740d6cc1a31b9b4e983e82fb09aa524a50c1cd2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

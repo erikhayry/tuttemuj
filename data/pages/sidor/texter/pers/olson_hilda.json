@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/olson_hilda.htm",
+  "title": "Hilda Olson 1832–1915",
+  "summary": "Dödsrunor över målarinnan Hilda Olson, som nekades statsstipendium men 1878 reste till London ändå. Hon tecknade planscher åt professor von Nordmann och gav en skärm till prinsen av Wales.",
+  "topics": [
+    "konst",
+    "dödsruna",
+    "London",
+    "kvinnor"
+  ],
+  "people": [
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [
+        "Hilda Katarina Olson"
+      ],
+      "birthYear": 1832,
+      "deathYear": 1915,
+      "roles": [
+        "målare",
+        "tecknare"
+      ]
+    },
+    {
+      "name": "Alexander von Nordmann",
+      "alternateNames": [],
+      "roles": [
+        "zoolog",
+        "professor"
+      ]
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Hilda Olson föds i Nykarleby",
+      "date": {
+        "year": 1832,
+        "month": 10,
+        "day": 4,
+        "circa": false
+      },
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hilda Olson reser till London",
+      "date": {
+        "year": 1878,
+        "circa": false
+      },
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hilda Olson avlider i London",
+      "date": {
+        "year": 1915,
+        "month": 9,
+        "day": 24,
+        "circa": false
+      },
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Hilda Olson nekas statsstipendium för att studera i London och svarar att hon ska visa dem att hon reser ändå. Hon sparar ihop pengarna, tar sig dit 1878 och blir en känd tecknare som ger prinsen av Wales en dekorerad skärm.",
+    "reason": "En stolt kvinna som vägrar ta nej och en tydlig seger med en lysande scen.",
+    "characters": [
+      "Hilda Olson"
+    ],
+    "places": []
+  },
+  "contentHash": "f75205d99990cdd450335a87894c023dba3d3f559b77ca81b23a56f9a5520fa8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

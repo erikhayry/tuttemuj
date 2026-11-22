@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nilsson_jakob.html",
+  "title": "Jakob Nilsson 1847–1933",
+  "summary": "Dödsnotis över timmermannen, sotaren och brandvakten Jakob Nilsson, född i Vexala, som arbetade på många orter och som ung deltog i raseringen av Bomarsund. Han var känd för sin vänlighet och goda humor.",
+  "topics": [
+    "dödsfall",
+    "brandkår",
+    "timmerman",
+    "Bomarsund"
+  ],
+  "people": [
+    {
+      "name": "Jakob Nilsson",
+      "alternateNames": [],
+      "birthYear": 1847,
+      "deathYear": 1933,
+      "roles": [
+        "timmerman",
+        "sotare",
+        "brandvakt"
+      ]
+    },
+    {
+      "name": "Sofia Matilda Forsman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avled i sitt hem på Drakabacka, 80 år gammal."
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Jakob Nilssons son."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "uppgiftslämnare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Drakabacka",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Jakob Nilsson avlider av hjärtsjukdom",
+      "date": {
+        "year": 1933,
+        "circa": false
+      },
+      "people": [
+        "Jakob Nilsson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ung timmerman från Vexala är med när fästningen Bomarsund raseras och berättar senare om midnattssol, myggsvärmar och norrsken efter två år bland lapparna i Enare.",
+    "reason": "Äventyrliga minnen från krig och Lappland som en man bär med sig till sitt jobb som brandvakt i småstaden.",
+    "characters": [
+      "Jakob Nilsson"
+    ],
+    "places": []
+  },
+  "contentHash": "22cabd1aeae13e0899a8f8b79a37a4f912d9df589130a58bf1a5ff119d0c4efa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

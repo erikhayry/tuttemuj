@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/olson_hilda_op.html",
+  "title": "Minnesruna över Hilda Olson i Österbottniska Posten 1915",
+  "summary": "Dödsruna över målarinnan Hilda Olson från Nykarleby, som bodde i London i decennier. Sidan visar också hennes självporträtt, en notis om hennes besök 1906 och en brittisk folkräkningsblankett från 1911.",
+  "topics": [
+    "dödsruna",
+    "konst",
+    "London",
+    "emigration"
+  ],
+  "people": [
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [
+        "Hilda Katarina Olson"
+      ],
+      "birthYear": 1832,
+      "deathYear": 1915,
+      "roles": [
+        "målare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hildas självporträtt från 1885 finns här."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hilda Olson skänker en tavelsamling till Svenska folkskolans vänner",
+      "date": {
+        "year": 1909,
+        "circa": false
+      },
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hilda Olson besöker anhöriga i Nykarleby",
+      "date": {
+        "year": 1906,
+        "circa": false
+      },
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dd68ff66ab00a75a56fdccbd02b24c2d952cae41259fc7527332d1cb083cdfa3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

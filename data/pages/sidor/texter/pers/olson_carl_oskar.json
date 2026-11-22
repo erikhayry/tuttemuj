@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/olson_carl_oskar.html",
+  "title": "Minnesruna över Carl Oskar Olson i Österbottniska Posten 1907",
+  "summary": "Dödsruna över sjökapten Carl Oskar Olson, som förde fartyg som Österbotten i 16 år och sedan köpte Kuddnäs gård, där han byggde båtar. Han var bror till målarinnan Hilda Olson.",
+  "topics": [
+    "dödsruna",
+    "sjökapten",
+    "båtbyggeri",
+    "Kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Carl Oskar Olson",
+      "alternateNames": [],
+      "birthYear": 1822,
+      "deathYear": 1907,
+      "roles": [
+        "sjökapten",
+        "båtbyggare"
+      ]
+    },
+    {
+      "name": "Charlotta von Schantz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Carl Oskar Olsons hustru."
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "målarinna"
+      ],
+      "description": "Syster till Carl Oskar Olson."
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminnegård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Där Olson avled."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Kuddnäs gård"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Carl Oskar Olson föds i Gamlakarleby",
+      "date": {
+        "year": 1822,
+        "month": 1,
+        "day": 4,
+        "circa": false
+      },
+      "people": [
+        "Carl Oskar Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Olson blir befälhavare på Österbotten",
+      "date": {
+        "year": 1857,
+        "circa": false
+      },
+      "people": [
+        "Carl Oskar Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Olson köper Kuddnäs gård",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "people": [
+        "Carl Oskar Olson"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Carl Oskar Olson avlider på Åminnegård",
+      "date": {
+        "year": 1907,
+        "month": 8,
+        "day": 24,
+        "circa": false
+      },
+      "people": [
+        "Carl Oskar Olson"
+      ],
+      "places": [
+        "Åminnegård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1deba4476a836288fc0f69be62279d7ba053ef1a78575818ee37dc2864843abe",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

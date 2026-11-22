@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nylund_isak.html",
+  "title": "Isak Nylund i Kovjoki 90 år i Österbottniska Posten 1943",
+  "summary": "Hyllning till förre bonden Isak Nylund i Kovjoki på 90-årsdagen. Som ung arbetade han på skeppsvarv i S:t Petersburg och Kronstadt och reste tre gånger till Amerika, där familjen bodde 13 år.",
+  "topics": [
+    "födelsedag",
+    "emigration",
+    "skeppsbyggeri",
+    "Kovjoki"
+  ],
+  "people": [
+    {
+      "name": "Isak Nylund",
+      "alternateNames": [],
+      "roles": [
+        "bonde",
+        "skeppstimmerman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Isak Nylund fyller 90 år",
+      "date": {
+        "year": 1943,
+        "month": 3,
+        "day": 2,
+        "circa": false
+      },
+      "people": [
+        "Isak Nylund"
+      ],
+      "places": [
+        "Kovjoki"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En torparson från Kovjoki åker som 18-åring till S:t Petersburg för att bygga fartyg, gifter sig i Kronstadt och korsar Atlanten tre gånger innan han återvänder hem.",
+    "reason": "En lång resa genom varv, storstad och emigration som ger många scener.",
+    "characters": [
+      "Isak Nylund"
+    ],
+    "places": [
+      "Kovjoki"
+    ]
+  },
+  "contentHash": "ae8edeb03104b45009804d153c27ae12c3e05c3932ab19f99ef83f23a3a6d82b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

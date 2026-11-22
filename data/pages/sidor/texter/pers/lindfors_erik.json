@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/lindfors_erik.html",
+  "title": "Minnesruna över Erik Lindfors i Österbottniska Posten 1944",
+  "summary": "Dödsruna över bonden Erik Lindfors i Forsby, som var smed, timmerman och uppförde många gårdar i byn. Han reste över Atlanten flera gånger och prövade även på guldgräveri i Sydafrika.",
+  "topics": [
+    "dödsruna",
+    "Forsby",
+    "emigration",
+    "timmerman",
+    "smed"
+  ],
+  "people": [
+    {
+      "name": "Erik Lindfors",
+      "alternateNames": [],
+      "roles": [
+        "bonde",
+        "smed",
+        "timmerman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kärr i Forsby",
+      "kind": "farm",
+      "alternateNames": [
+        "Lindfors i Kärr"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Lindfors avlider i sitt hem i Forsby",
+      "date": {
+        "year": 1944,
+        "month": 3,
+        "day": 3,
+        "circa": false
+      },
+      "people": [
+        "Erik Lindfors"
+      ],
+      "places": [
+        "Forsby"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En bonde och smed från Forsby korsar Atlanten gång på gång och hamnar som guldgrävare i Sydafrika, men bygger ändå gård efter gård hemma i byn.",
+    "reason": "Ett äventyrligt liv med kontrast mellan den lilla byn och världens ände.",
+    "characters": [
+      "Erik Lindfors"
+    ],
+    "places": [
+      "Forsby"
+    ]
+  },
+  "contentHash": "f2191aacc8ef42850d1776ba79a9f6d104466a3ab43d43497417699b76ecedd7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

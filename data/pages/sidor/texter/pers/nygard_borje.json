@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/nygard_borje.html",
+  "title": "Börje Nygård 1930–1995",
+  "summary": "Dödsruna över stadsdirektören Börje Nygård, som ledde Nykarleby stad under en tillväxtperiod med bland annat stadshus, högstadium och Skogsvallen. Han var också känd som fotbollsspelare och vann Finlands cup med IF Drott 1957.",
+  "topics": [
+    "dödsruna",
+    "stadsdirektör",
+    "idrott",
+    "fotboll"
+  ],
+  "people": [
+    {
+      "name": "Börje Nygård",
+      "alternateNames": [],
+      "birthYear": 1930,
+      "deathYear": 1995,
+      "roles": [
+        "stadsdirektör",
+        "diplomekonom",
+        "fotbollsspelare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogsvallen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Idrottsanläggning som byggdes under Nygårds tid."
+    },
+    {
+      "name": "Stadshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Börje Nygård föds i Nykarleby",
+      "date": {
+        "year": 1930,
+        "month": 4,
+        "day": 21,
+        "circa": false
+      },
+      "people": [
+        "Börje Nygård"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nygård tillträder som stadsdirektör i Nykarleby",
+      "date": {
+        "year": 1972,
+        "circa": false
+      },
+      "people": [
+        "Börje Nygård"
+      ],
+      "places": []
+    },
+    {
+      "title": "IF Drott vinner Finlands cup",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [
+        "Börje Nygård"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nygård går i pension",
+      "date": {
+        "year": 1991,
+        "month": 10,
+        "circa": false
+      },
+      "people": [
+        "Börje Nygård"
+      ],
+      "places": []
+    },
+    {
+      "title": "Börje Nygård avlider",
+      "date": {
+        "year": 1995,
+        "month": 7,
+        "day": 11,
+        "circa": false
+      },
+      "people": [
+        "Börje Nygård"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7dcb9ed2dbd381d0d77cb5bf2d921b54b9c7e901cad23771518fe211872d3901",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}

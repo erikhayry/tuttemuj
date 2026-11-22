@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/petrell_karl_v.html",
+  "title": "Karl V. Petrell",
+  "summary": "Tacknotis till prosten Karl V. Petrell, som lämnar Nykarleby efter 20 år som kyrkoherde. Texten räknar upp hans insatser för församlingen, fattigvården, sparbanken och småskolorna.",
+  "topics": [
+    "kyrkoherde",
+    "avtackning",
+    "församling",
+    "sparbanken"
+  ],
+  "people": [
+    {
+      "name": "Karl V. Petrell",
+      "alternateNames": [],
+      "roles": [
+        "prost",
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkoherdebolet",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Den gamla sätesbyggnaden där Petrell bodde."
+    },
+    {
+      "name": "Nykarleby sparbank",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Petrell tillträder som kyrkoherde i Nykarleby",
+      "date": {
+        "year": 1896,
+        "month": 5,
+        "circa": false
+      },
+      "people": [
+        "Karl V. Petrell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Petrell är religionslärare vid seminariet",
+      "date": {
+        "year": 1904,
+        "circa": false,
+        "text": "1904–1908"
+      },
+      "people": [
+        "Karl V. Petrell"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "81d853768ced8888157ef07e38cb05c7ac0d5c2cd9e90b372f7fb2270779171f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:53:44.898Z"
+}
