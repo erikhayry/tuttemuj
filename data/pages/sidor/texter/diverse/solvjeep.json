@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/solvjeep.html",
+  "title": "Solvins jeep",
+  "summary": "Om en Austin Gipsy-jeep från 1960 som landskommunen använde för motorsprutan och som Solvin köpte 1973.",
+  "topics": [
+    "fordon",
+    "brandväsen",
+    "jeep"
+  ],
+  "people": [
+    {
+      "name": "Kurt Solvin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eliel Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Jeepen köps av Solvin",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9198b2a6e22bdd6ebcbf41d2e2efb37d5e40ab3ae9dbc7342c4eae9e2c646070",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

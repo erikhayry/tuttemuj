@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ryssfang.htm",
+  "title": "Ryssfångens teckningar av Lars Pensar",
+  "summary": "Om ryssfången Timofej Witushekins teckningar och hans flykt från en arkebusering i mars 1918, då han sprang över staketet vid begravningsplatsen.",
+  "topics": [
+    "1918",
+    "fångläger",
+    "teckningar",
+    "inbördeskriget"
+  ],
+  "people": [
+    {
+      "name": "Timofej Witushekin",
+      "alternateNames": [],
+      "roles": [
+        "rysk fånge"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holländer",
+      "alternateNames": [],
+      "roles": [
+        "cykelhandlare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Timofej rymmer vid en iscensatt arkebusering",
+      "date": {
+        "year": 1918,
+        "month": 3,
+        "circa": true,
+        "text": "i mitten av mars 1918"
+      },
+      "people": [
+        "Timofej Witushekin"
+      ],
+      "places": [
+        "Begravningsplatsen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En dödsdömd rysk fånge flyr i strumpfötterna över ett staket när arkebuseringsplutonen är full. Han hittar skydd i Socklot men blir anmäld, och två bröder argumenterar för hans liv med Genèvekonventionen.",
+    "reason": "Spännande flykt med tydlig sekvens, risk och ett oväntat juridiskt vändpunkt.",
+    "characters": [
+      "Timofej Witushekin",
+      "Holländer"
+    ],
+    "places": [
+      "Begravningsplatsen",
+      "Socklot"
+    ]
+  },
+  "contentHash": "5650cc5644ad9051c58a24e36e1bdd083706683ac662fe100c3f4e8718c6bbbb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/normen100_sf.html",
+  "title": "Festtal vid Normens 100-årsjubileum av Steven Frostdahl",
+  "summary": "Festtal vid Normalskolans 100-årsjubileum 2008 som följer pojken Otto på väg till sin första skoldag i det nybyggda skolhuset vid torget.",
+  "topics": [
+    "Normalskolan",
+    "skola",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "Steven Frostdahl",
+      "alternateNames": [],
+      "roles": [
+        "talare"
+      ]
+    },
+    {
+      "name": "Otto",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Normalskolans 100-årsjubileum firas",
+      "date": {
+        "year": 2008,
+        "month": 4,
+        "day": 17,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Första skoldagen i det nya skolhuset",
+      "date": {
+        "year": 1908,
+        "month": 1,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En liten pojke går i vintermorgonen till sin första skoldag i det nybyggda skolhuset vid torget.",
+    "reason": "Stämningsfull barnperspektiv-scen i en stad i förändring.",
+    "characters": [
+      "Otto"
+    ],
+    "places": [
+      "Normalskolan",
+      "Stora bron"
+    ]
+  },
+  "contentHash": "09adcd44987fda914f7b8e89eb29b0d399ece0647ae1826f2c2d1583f6298b90",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

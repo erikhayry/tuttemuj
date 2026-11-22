@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/semigat76.html",
+  "title": "Seminariegatan 1978",
+  "summary": "Bilder från när Seminariegatan rätades ut 1978 och Brostuguberget delvis sprängdes, med byggmästare och lokalbor på plats.",
+  "topics": [
+    "gator",
+    "vägbygge",
+    "Brostuguberget",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Nils Levlin",
+      "alternateNames": [],
+      "roles": [
+        "stadsbyggmästare"
+      ]
+    },
+    {
+      "name": "Bjarne Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Matias Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Roger Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminariegatan rätas ut",
+      "date": {
+        "year": 1978,
+        "circa": false,
+        "text": "sommaren 1978"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Brostuguberget sprängs",
+      "date": {
+        "year": 1981,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "000a9152d7dd2f3ac2bc79e4949992eef2d9a4405945b507a300825df64a4b0f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

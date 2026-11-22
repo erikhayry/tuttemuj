@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/siegfrids.html",
+  "title": "Mauritz Siegfrids barndomsminnen",
+  "summary": "Mauritz Siegfrids minnen från barndomshemmet i Liljeqvistska gården vid Rådhusboulevarden och familjens flytt till Döbelnsgården vid älven 1918.",
+  "topics": [
+    "barndomsminnen",
+    "handel",
+    "1910-talet"
+  ],
+  "people": [
+    {
+      "name": "Mauritz Siegfrids",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm Siegfrids",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Alexandra Siegfrids",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Simon Anders Liljeqvist",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Liljeqvistska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelnsgården",
+      "kind": "building",
+      "alternateNames": [
+        "gamla tullhuset"
+      ]
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": [
+        "Bankgatan"
+      ],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Esplanadgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen köper Liljeqvistska gården",
+      "date": {
+        "year": 1910,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gården säljs till AB Lantmannagården",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Familjen flyttar till Döbelnsgården",
+      "date": {
+        "year": 1918,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4b94073abb3a9d32233119b5110e61a2ad1da1716c5df8d48e193a5eccb9992c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

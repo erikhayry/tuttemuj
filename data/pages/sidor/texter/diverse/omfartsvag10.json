@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/omfartsvag10.html",
+  "title": "Södra Ringvägen 2010",
+  "summary": "Bild av vägbygget för Södra Ringvägen i oktober 2010 och vilka gator som kommer att ansluta.",
+  "topics": [
+    "vägbygge",
+    "Södra Ringvägen"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Södra Ringvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157136,
+        "lng": 22.540447,
+        "match": "name",
+        "gazetteerName": "södra ringvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rajåkersstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5156053,
+        "lng": 22.5328651,
+        "match": "name",
+        "gazetteerName": "rajåkersstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rajåkersgränden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5152071,
+        "lng": 22.5345699,
+        "match": "name",
+        "gazetteerName": "rajåkersgränden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkoby skola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av vägbygget",
+      "date": {
+        "year": 2010,
+        "month": 10,
+        "day": 31,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16b42577be8df4fdf1551dd00be21a26efc26fc0591f76a0c6f0f1094ba996ff",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

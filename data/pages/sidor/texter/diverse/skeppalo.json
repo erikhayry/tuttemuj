@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/skeppalo.htm",
+  "title": "Ett Nykarlebyskepp utanför Alörn",
+  "summary": "Ett fotografi omkring 1890 av ett Nykarlebyskepp, en bark, på Alörsfjärden, med ett ögonvittnes minne av ett barkskepp som vände vid Lybeckska bryggan.",
+  "topics": [
+    "sjöfart",
+    "skepp",
+    "Alörn"
+  ],
+  "people": [
+    {
+      "name": "Abraham Andersson Gästgivars",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybeckska bryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av barkskepp på Alörsfjärden",
+      "date": {
+        "year": 1890,
+        "circa": true,
+        "text": "omkring 1890"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En vacker sommarafton står en man på bryggan vid Alörn och ser ett stort barkskepp kryssa in så nära att han hör kommandoropen.",
+    "reason": "En kort men vacker scen med fartyg, hav och rop.",
+    "characters": [
+      "Abraham Andersson Gästgivars"
+    ],
+    "places": [
+      "Lybeckska bryggan",
+      "Alörsfjärden"
+    ]
+  },
+  "contentHash": "696153a52560d7d2f5a6860073b3aa06de6147484c2b43368c38e995b983b033",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/normen100.htm",
+  "title": "Normen 100 år av Maria Sjöblom och Ulla-Maj Broo.",
+  "summary": "Rapport från Normens 100-årsfest i april 2008 med lunch, fest, kantat, historik och utställning av elevarbeten.",
+  "topics": [
+    "Normalskolan",
+    "jubileum"
+  ],
+  "people": [
+    {
+      "name": "Maria Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ulla-Maj Broo",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars-Johan Sandvik",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Eva Sundstén",
+      "alternateNames": [],
+      "roles": [
+        "rektor"
+      ]
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lena Frilund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Frej Högdahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Christin Julin-Häggman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Normens 100-årsfest",
+      "date": {
+        "year": 2008,
+        "month": 4,
+        "day": 18,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ca40ee3b392fd88b48268c797f68e67525e6b8f2b580462a5cad46e1e9874d9f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

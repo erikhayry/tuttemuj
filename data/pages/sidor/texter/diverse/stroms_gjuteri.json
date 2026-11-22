@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/stroms_gjuteri.html",
+  "title": "Gjuteri/Valimo R Ström av Carita Sundstén",
+  "summary": "Historik över Ströms gjuteri, i dag Pepparkakshuset vid Kovjokivägen, som byggdes 1962 och senare blev ungdomslokal, med beskrivning av gjutarbetet.",
+  "topics": [
+    "gjuteri",
+    "industri",
+    "Pepparkakshuset"
+  ],
+  "people": [
+    {
+      "name": "Rudolf Ström",
+      "alternateNames": [],
+      "birthYear": 1919,
+      "deathYear": 2007,
+      "roles": [
+        "gjuteriägare"
+      ]
+    },
+    {
+      "name": "Joel Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "husbyggare"
+      ]
+    },
+    {
+      "name": "Carita Sundstén",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Pepparkakshuset",
+      "kind": "building",
+      "alternateNames": [
+        "Gjuteri R Ström"
+      ]
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kvarnvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5226926,
+        "lng": 22.5472926,
+        "match": "name",
+        "gazetteerName": "kvarnvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gjuterifastigheten uppförs",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gjuteriet säljs",
+      "date": {
+        "year": 1982,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eb527bb364483f1060bdeda2dbfbd4b2e7b1b32e0aaeab9f13f8f0faf7133700",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

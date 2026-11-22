@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/omfartsvag12_j_k.html",
+  "title": "Nya omfartsvägen mellan Kovjokivägen och Jeppovägen",
+  "summary": "Nyhetsnotis och bildserie om andra etappen av Södra Ringvägen mellan Kovjokivägen och Jeppovägen, byggd 2011–2012.",
+  "topics": [
+    "vägbygge",
+    "Södra Ringvägen"
+  ],
+  "people": [
+    {
+      "name": "Britt Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Södra Ringvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157136,
+        "lng": 22.540447,
+        "match": "name",
+        "gazetteerName": "södra ringvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Järnvägsgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra Åvägen",
+      "kind": "street",
+      "alternateNames": [
+        "Jeppovägen"
+      ],
+      "geo": {
+        "lat": 63.47834529999999,
+        "lng": 22.5318815,
+        "match": "name",
+        "gazetteerName": "östra åvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rajåkern",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Ängsbrinken",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Andra etappen av Södra Ringvägen inleds",
+      "date": {
+        "year": 2011,
+        "month": 9,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6b06fddfefea3550016b2c082f424fd5d6faf507c38ea76548a3c7187bd7529b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/rvd_files/valkommen.htm",
+  "title": "Restaurang von Döbeln",
+  "summary": "Välkomstsida för Restaurang von Döbeln på Bankgatan 6 med kontaktuppgifter på svenska och finska.",
+  "topics": [
+    "restaurang"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan 6",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 6",
+      "geo": {
+        "lat": 63.5228929,
+        "lng": 22.5293227,
+        "match": "address",
+        "gazetteerName": "bankgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b69f20cce6f6aa96f91681e9b12486ad41bb42d0fbb593af078c302d04d535df",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:42.278Z"
+}

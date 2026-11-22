@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nygardsv.htm",
+  "title": "Nygårdsvägen i början av 1930-talet",
+  "summary": "Fotografi av Nygårdsvägen, den gamla infarten från Jeppo och Lappo, med diskussion om vilka byggnader som syns och hur bilden kan dateras.",
+  "topics": [
+    "gator",
+    "fotografi",
+    "bebyggelse"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tage",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eirik Granqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårdsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5194967,
+        "lng": 22.5270853,
+        "match": "name",
+        "gazetteerName": "nygårdsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Älvgränd",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Hagagatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5180894,
+        "lng": 22.5365936,
+        "match": "name",
+        "gazetteerName": "hagagatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kommunalgården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jukkasbackan",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "7c0cc5fc9a1665854138c3bff4489b829db8600bb0938fc5b44b5d82c8554ac9",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:42.278Z"
+}

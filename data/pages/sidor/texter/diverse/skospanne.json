@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/skospanne.html",
+  "title": "Skospänne tillverkat av Anders Tidström",
+  "summary": "Ett silverskospänne stämplat AT, tillverkat av Anders Tidström, som hittades på en åker i Socklot tillsammans med andra 1700-talsföremål.",
+  "topics": [
+    "fynd",
+    "silversmed",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Anders Tidström",
+      "alternateNames": [],
+      "roles": [
+        "silversmed"
+      ]
+    },
+    {
+      "name": "Lars Smeds",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminnevägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5580228,
+        "lng": 22.5428763,
+        "match": "name",
+        "gazetteerName": "åminnevägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rijfsvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Föremål från 1700-talet hittas på en åker",
+      "date": {
+        "year": 1915,
+        "circa": false,
+        "text": "våren 1915"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fe3ae9e3a88827af6a651a2e8127ac392c92b312a99695827f24b59a2a2a22d3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

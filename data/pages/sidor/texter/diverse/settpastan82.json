@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/settpastan82.html",
+  "title": "Nykarleby 1982. Sett på sta'n av Wolmar Strengell",
+  "summary": "Stillbildsversion av Wolmar Strengells Super 8-film från Nykarleby sommaren 1982, med bildtexter om miljöer som delvis försvunnit.",
+  "topics": [
+    "film",
+    "1980-talet",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Wolmar Strengell",
+      "alternateNames": [],
+      "roles": [
+        "filmare"
+      ]
+    },
+    {
+      "name": "Leif Strengell",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torghallen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kombikiosken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Filmen spelas in",
+      "date": {
+        "year": 1982,
+        "circa": false,
+        "text": "sommaren 1982"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3e8505fd164b9764585aecbd6add490582eeaa068a57732ffadb322e3dfe6d63",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/sladpart.htm",
+  "title": "Slädparti",
+  "summary": "Lekskolbarn åker släde runt i Nykarleby på fastlagstisdagen med kusken Hans Hansén, en tidningsnotis från omkring 1969–70.",
+  "topics": [
+    "lekskola",
+    "barn",
+    "fastlagstisdag"
+  ],
+  "people": [
+    {
+      "name": "Hans Hansén",
+      "alternateNames": [],
+      "roles": [
+        "kusk"
+      ]
+    },
+    {
+      "name": "Rigmor Schauman",
+      "alternateNames": [
+        "tant Tytti"
+      ],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Marita Wiklund",
+      "alternateNames": [],
+      "roles": [
+        "lektant"
+      ]
+    },
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": [
+        "lokalreporter"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Slädparti för lekskolbarn",
+      "date": {
+        "year": 1969,
+        "circa": true,
+        "text": "1969 eller -70"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b11b04e6da8b0b9b88c18b210ef96df3eb86ebeb8e6b850a0e13d8307dd9d264",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

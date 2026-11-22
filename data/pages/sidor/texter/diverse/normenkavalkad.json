@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/normenkavalkad.html",
+  "title": "Normalskolan / NORMEN 1908–2018 av Maria Sjöblom m.fl.",
+  "summary": "Manus till en minnesfest 2018 som berättar Normalskolans historia från 1908, med krigsåren, ryska soldater och lösenord på Stora bron.",
+  "topics": [
+    "Normalskolan",
+    "skola",
+    "första världskriget"
+  ],
+  "people": [
+    {
+      "name": "Maria Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nystan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221564,
+        "lng": 22.5200469,
+        "match": "name",
+        "gazetteerName": "nystan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedsbackan",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Högbackan",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nya Normalskolan invigs på torget",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Skolan används som kasern av ryska soldater",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Minnesfest när skolorna slås samman till Zachrisskolan",
+      "date": {
+        "year": 2018,
+        "month": 6,
+        "day": 2,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Skolbarn måste säga ett lösenord till ryska soldater för att komma över Stora bron till skolan.",
+    "reason": "Barnens vardag möter krigstida maktutövning med en tydlig, visuell detalj.",
+    "characters": [],
+    "places": [
+      "Stora bron",
+      "Normalskolan"
+    ]
+  },
+  "contentHash": "e423a313349277273740ce1a7d846271fd554597bdd1c51158c3cf33d36eaafc",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

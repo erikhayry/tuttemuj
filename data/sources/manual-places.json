@@ -34,6 +34,10 @@
     "kind": "building"
   },
   {
+    "name": "ahlbeckssalen",
+    "kind": "building"
+  },
+  {
     "name": "ahlnäs",
     "kind": "farm",
     "alternateNames": [
@@ -151,6 +155,10 @@
   {
     "name": "andrasjö strandväg 92",
     "kind": "building"
+  },
+  {
+    "name": "andrasjögrundet",
+    "kind": "other"
   },
   {
     "name": "andrasjöhamnen",
@@ -784,6 +792,10 @@
     "note": "Distillery house at the Regale distillery, 1788."
   },
   {
+    "name": "brännskata fiskehamn",
+    "kind": "landmark"
+  },
+  {
     "name": "bröderna engs tellblockfabrik",
     "kind": "building"
   },
@@ -858,6 +870,10 @@
   },
   {
     "name": "bönehuset",
+    "kind": "building"
+  },
+  {
+    "name": "bönehuset i socklot",
     "kind": "building"
   },
   {
@@ -1060,6 +1076,14 @@
     "name": "döbelnsgränd",
     "kind": "street",
     "note": "Lane between Döbelns hus and the river."
+  },
+  {
+    "name": "döbelnsgården",
+    "kind": "building",
+    "alternateNames": [
+      "gamla tullhuset"
+    ],
+    "note": "Old customs house by the river."
   },
   {
     "name": "ebba brahes ruddamm",
@@ -1640,6 +1664,10 @@
     ]
   },
   {
+    "name": "gammegård",
+    "kind": "building"
+  },
+  {
     "name": "gammelgården",
     "kind": "farm",
     "alternateNames": [
@@ -1728,6 +1756,10 @@
   },
   {
     "name": "granbergs gård",
+    "kind": "building"
+  },
+  {
+    "name": "granbergs kafé",
     "kind": "building"
   },
   {
@@ -1877,6 +1909,10 @@
       "kuddnäsrondellen"
     ],
     "note": "Monument at the Kuddnäs roundabout."
+  },
+  {
+    "name": "gulf-stationen",
+    "kind": "building"
   },
   {
     "name": "gulfs verkstad",
@@ -2214,6 +2250,11 @@
     "note": "Farm in Soklot."
   },
   {
+    "name": "hjältegravarna",
+    "kind": "landmark",
+    "note": "War graves in the cemetery."
+  },
+  {
     "name": "hjältegraven",
     "kind": "landmark",
     "note": "War memorial grave for the fallen."
@@ -2376,6 +2417,10 @@
     ]
   },
   {
+    "name": "högbackan",
+    "kind": "district"
+  },
+  {
     "name": "högstadieskolan",
     "kind": "building",
     "note": "Lower secondary school in Stadsträdgården, finished autumn 1978."
@@ -2529,6 +2574,10 @@
     "alternateNames": [
       "jufvas backen"
     ]
+  },
+  {
+    "name": "jukkasbackan",
+    "kind": "district"
   },
   {
     "name": "jut",
@@ -2685,6 +2734,10 @@
   },
   {
     "name": "k j pensars bensinmack",
+    "kind": "building"
+  },
+  {
+    "name": "k-market torghallen",
     "kind": "building"
   },
   {
@@ -2955,6 +3008,10 @@
     "kind": "district"
   },
   {
+    "name": "klockars gästgiveri",
+    "kind": "building"
+  },
+  {
     "name": "klockars hemman",
     "kind": "farm",
     "alternateNames": [
@@ -3036,6 +3093,10 @@
       "carl nylunds gård",
       "gård nr 19"
     ]
+  },
+  {
+    "name": "koppelbacken",
+    "kind": "district"
   },
   {
     "name": "korsåkern",
@@ -3590,6 +3651,10 @@
     "kind": "building"
   },
   {
+    "name": "liljeqvistska gården",
+    "kind": "building"
+  },
+  {
     "name": "liljeqvistska huset",
     "kind": "building"
   },
@@ -3675,6 +3740,10 @@
   {
     "name": "lillollas kaplansbol",
     "kind": "farm"
+  },
+  {
+    "name": "lillsocklot",
+    "kind": "village"
   },
   {
     "name": "lillsoklot",
@@ -3806,6 +3875,10 @@
     "alternateNames": [
       "tomt 76"
     ]
+  },
+  {
+    "name": "lybeckska bryggan",
+    "kind": "landmark"
   },
   {
     "name": "lybeckska gården",
@@ -4283,9 +4356,19 @@
     "alternateNames": [
       "normalskolan",
       "normens matsal",
-      "övningsskolan"
+      "övningsskolan",
+      "normentomten",
+      "normens gårdsplan"
     ],
     "note": "Normalskolan, built 1908."
+  },
+  {
+    "name": "normens gårdsplan",
+    "kind": "other"
+  },
+  {
+    "name": "normentomten",
+    "kind": "other"
   },
   {
     "name": "norra gatan",
@@ -4714,6 +4797,10 @@
     ]
   },
   {
+    "name": "nålörnsåkern",
+    "kind": "other"
+  },
+  {
     "name": "nålörssågen",
     "kind": "building"
   },
@@ -4839,6 +4926,14 @@
   {
     "name": "pentzinsgrundet",
     "kind": "island"
+  },
+  {
+    "name": "pepparkakshuset",
+    "kind": "building",
+    "alternateNames": [
+      "gjuteri r ström"
+    ],
+    "note": "Former foundry at Kovjokivägen/Kvarnvägen, now youth premises."
   },
   {
     "name": "pettersborg",
@@ -5067,6 +5162,10 @@
   {
     "name": "rian-rian",
     "kind": "building"
+  },
+  {
+    "name": "rijfsvägen",
+    "kind": "street"
   },
   {
     "name": "rikets sal",
@@ -5461,6 +5560,10 @@
     ]
   },
   {
+    "name": "seminariegranen",
+    "kind": "landmark"
+  },
+  {
     "name": "seminarieidrottsplanen",
     "kind": "landmark"
   },
@@ -5591,6 +5694,10 @@
     ]
   },
   {
+    "name": "sjöbloms gård",
+    "kind": "farm"
+  },
+  {
     "name": "sjöboda",
     "kind": "island",
     "note": "Skerry shown on the 1789 postcard."
@@ -5660,6 +5767,10 @@
   {
     "name": "skogsparkens skola",
     "kind": "building"
+  },
+  {
+    "name": "skogsparksdammen",
+    "kind": "waterbody"
   },
   {
     "name": "skogsvallen",
@@ -5751,6 +5862,10 @@
   {
     "name": "smedsbackagatan",
     "kind": "street"
+  },
+  {
+    "name": "smedsbackan",
+    "kind": "district"
   },
   {
     "name": "smedsbackaängarna",
@@ -6091,6 +6206,10 @@
     "note": "Lake on the 1841 Gyldén map."
   },
   {
+    "name": "stenbackaåkern",
+    "kind": "other"
+  },
+  {
     "name": "stenbacksåkern",
     "kind": "other"
   },
@@ -6114,6 +6233,10 @@
     "name": "stenkulverten",
     "kind": "landmark",
     "note": "Stone culvert that carries the brook under the town."
+  },
+  {
+    "name": "stenskatan",
+    "kind": "other"
   },
   {
     "name": "stenäs träsk",
@@ -7265,6 +7388,10 @@
   },
   {
     "name": "ångbåtsbryggan",
+    "kind": "landmark"
+  },
+  {
+    "name": "ångfartygsbryggan",
     "kind": "landmark"
   },
   {

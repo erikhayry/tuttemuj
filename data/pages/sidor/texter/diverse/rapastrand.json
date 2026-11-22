@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/rapastrand.html",
+  "title": "”Våra kära rapastränder – vad vi älskar dem ändå!”",
+  "summary": "Lars Pensars bilder av rapastränder vid Andrasjön vid extra lågt vatten 2018, med platser markerade på karta.",
+  "topics": [
+    "strand",
+    "Andrasjön",
+    "lågvatten"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Häradsskrivarberget",
+      "kind": "landmark",
+      "alternateNames": [
+        "Berget"
+      ]
+    },
+    {
+      "name": "Andrasjögrundet",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Stenskatan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Ångbåtsbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Gammegård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.53014539999999,
+        "lng": 22.4622755,
+        "match": "name",
+        "gazetteerName": "andrasjöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Foton vid extra lågt vatten",
+      "date": {
+        "year": 2018,
+        "month": 6,
+        "day": 6,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9bf034e8122e0d575edaebc179e56e7f8daef5ed0fefc8941f6690096677c4d8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

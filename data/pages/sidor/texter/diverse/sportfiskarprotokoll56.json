@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/sportfiskarprotokoll56.html",
+  "title": "Nykarleby Sportfiskares sammanträde 1956",
+  "summary": "Protokoll från Nykarleby Sportfiskares sammanträde 1956 om arrangemang av pimpeltävlingar vid Andrasjön.",
+  "topics": [
+    "sportfiske",
+    "pimpel",
+    "föreningar"
+  ],
+  "people": [
+    {
+      "name": "G. J. Holländer",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ragnar Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "ordförande"
+      ]
+    },
+    {
+      "name": "Berndt Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "sekreterare"
+      ]
+    },
+    {
+      "name": "L. Blomström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hanséns Café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Loppan",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5189373,
+        "lng": 22.4200284,
+        "match": "name",
+        "gazetteerName": "loppan",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sammanträde om pimpeltävlingar",
+      "date": {
+        "year": 1956,
+        "month": 2,
+        "day": 28,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4290f2a1005fc8986984a834cc21b38d313529cf3b67b6e58e317289e3e0dd2f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

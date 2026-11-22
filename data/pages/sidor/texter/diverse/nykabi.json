@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nykabi.htm",
+  "title": "Nykabi",
+  "summary": "Samling bilder med namnvarianten Nykabi, bland annat ett motorsågsskrivet bänkbudskap vid Skogsvallen och motiv ur Albert Brauns fotoutställning.",
+  "topics": [
+    "stadsnamn",
+    "fotografi",
+    "utställning"
+  ],
+  "people": [
+    {
+      "name": "Albert Braun",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Hannes Nylund",
+      "alternateNames": [],
+      "roles": [
+        "faktor",
+        "nätingfiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogsvallen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusesplanaden 17",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Albert Brauns fotoutställning visas i Björneborg",
+      "date": {
+        "year": 2006,
+        "circa": false,
+        "text": "27/1–19/3 2006"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a8f0c69fba53618dc6d54896925019b23328caae40a584bb4b2bc21f9c4c630",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

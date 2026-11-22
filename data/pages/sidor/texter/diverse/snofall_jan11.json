@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/snofall_jan11.html",
+  "title": "Snörik onsdag i Nykarleby i ÖT januari 2011",
+  "summary": "Nyhetsartikel om en rekordartad snörik onsdag i januari 2011 då snöröjare och postutdelare hade svårt att ta sig fram.",
+  "topics": [
+    "snö",
+    "väder",
+    "2011"
+  ],
+  "people": [
+    {
+      "name": "Roger Nynäs",
+      "alternateNames": [],
+      "roles": [
+        "snöröjare"
+      ]
+    },
+    {
+      "name": "Gunnar Backlund",
+      "alternateNames": [],
+      "roles": [
+        "brandchef"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kraftigt snöfall",
+      "date": {
+        "year": 2011,
+        "month": 1,
+        "day": 19,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e183ee3b7750d63fc7002a03da052e2e163910fb21c510fdbf2871026ddade48",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ssarsb35.htm",
+  "title": "Utdrag från stadsstyrelsens årsberättelse 1935",
+  "summary": "Utdrag ur stadsstyrelsens årsberättelse för 1935 om skogsarbeten, reparationer, markinlösen, hamnbesök och kraftverkets drift.",
+  "topics": [
+    "stadsförvaltning",
+    "1935",
+    "skogsbruk",
+    "hamn"
+  ],
+  "people": [
+    {
+      "name": "J. E. Nordling",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Johan Nyman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stenbackaåkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Koppelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nålörnsåkern",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsstyrelsens årsberättelse",
+      "date": {
+        "year": 1935,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "79eb0d97ca7869754aea52b09339896f9308485ac5bb24c6f908ea52fbf1e4c8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

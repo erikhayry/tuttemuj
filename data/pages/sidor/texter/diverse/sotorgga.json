@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/sotorgga.htm",
+  "title": "Södra Torggatan före 1889",
+  "summary": "Bild av Södra Torggatan före 1889, numera Sollefteågatan, med uppgift om gatans namnbyte 1948.",
+  "topics": [
+    "gator",
+    "gatunamn"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan",
+        "Köpmansgatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gatan byter namn som tack till fadderorten",
+      "date": {
+        "year": 1948,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8f55af104174fd88ea9c8b9067a8019939932570a416fcce6b1d001eb6de827b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

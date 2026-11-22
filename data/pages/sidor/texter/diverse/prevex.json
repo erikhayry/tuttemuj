@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/prevex.html",
+  "title": "Prevex-historik",
+  "summary": "Historik över plastföretaget Prevex från grundandet 1955, med grundarnas förarbete och byggandet av fabriken i Jeppo.",
+  "topics": [
+    "industri",
+    "Prevex",
+    "plast",
+    "företag"
+  ],
+  "people": [
+    {
+      "name": "Sven J. Nyman",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Manne Bergman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Norrback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm Åkerman",
+      "alternateNames": [],
+      "roles": [
+        "tekniskt ledare",
+        "diplomingenjör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Oy Prevex Ab grundas officiellt",
+      "date": {
+        "year": 1955,
+        "month": 3,
+        "day": 31,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "00e12b525af5a9d6e6a31876b3f66d52283ba0f4173bd2068059c8c642f8ce06",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

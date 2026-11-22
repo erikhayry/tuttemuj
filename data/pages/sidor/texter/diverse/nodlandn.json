@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nodlandn.htm",
+  "title": "Nödlandning i Socklot 1943",
+  "summary": "Ett tyskt spaningsplan nödlandade bakom bönehuset i Socklot i november 1943. Sidan berättar om familjen Ekströms möte med piloterna och hur flygbensinen göms i en gödselhög.",
+  "topics": [
+    "andra världskriget",
+    "flygplan",
+    "Socklot"
+  ],
+  "people": [
+    {
+      "name": "Runar Ekström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elvi Ekström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Thordis Ekström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Bönehuset i Socklot",
+      "kind": "building",
+      "alternateNames": [
+        "bönehuset i socklot"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Tyskt spaningsplan nödlandar bakom bönehuset",
+      "date": {
+        "year": 1943,
+        "month": 11,
+        "circa": false,
+        "text": "i november 1943"
+      },
+      "people": [
+        "Runar Ekström"
+      ],
+      "places": [
+        "Bönehuset i Socklot"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Ett tyskt spaningsplan landar nödtvunget i Socklot och två flickor gömmer sig bakom en sten. Runar, som är i Helsingfors, kommer hem till en gödselhög full av gömd flygbensin.",
+    "reason": "Dramatisk händelse med gömställen, krigstida smuggling och en humoristisk twist.",
+    "characters": [
+      "Runar Ekström",
+      "Elvi Ekström",
+      "Thordis Ekström"
+    ],
+    "places": [
+      "Socklot",
+      "Bönehuset i Socklot"
+    ]
+  },
+  "contentHash": "fc22cd7c83da71c370c37c90c3d4ae8f9ef1fb0e4cafc794d072cafbef3265c0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

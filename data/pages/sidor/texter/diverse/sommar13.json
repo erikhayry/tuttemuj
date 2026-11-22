@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/sommar13.html",
+  "title": "Sommaren 2013 i Nykarleby",
+  "summary": "Nyheter från sommaren 2013 med nya lekredskap, plantering i Topeliusparken och en ny toalett och ett nytt båthus vid Andrasjön, plus senare tillägg efter en brand 2014.",
+  "topics": [
+    "stadsbild",
+    "Andrasjön",
+    "2013"
+  ],
+  "people": [
+    {
+      "name": "Gunder Levlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normens gårdsplan",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Toaletten vid Andrasjön förstörs av brand",
+      "date": {
+        "year": 2014,
+        "month": 10,
+        "day": 13,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "acf4bfa0f761ac79d06827504061683d2a87d900b31009d06d131bf152d355fb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nybroboul.htm",
+  "title": "Asfaltering av esplanaden",
+  "summary": "Om grundförbättring, belysning och asfaltering av esplanadgatorna 1964–1967 och vad som syns på ett foto av Topeliusgatan.",
+  "topics": [
+    "gator",
+    "asfaltering",
+    "stadsplanering"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eivor Lund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Östra esplanadgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Västra esplanadgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Östra esplanadgatan grundrenoveras och får lysrörsarmaturer",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Esplanadgatorna asfalteras",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "03b4504c28c92d48d22dc1d06594e9c777e296ca91e3f63a37d3dd60e3e358ef",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

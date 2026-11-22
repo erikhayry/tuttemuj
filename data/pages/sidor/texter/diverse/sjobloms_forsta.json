@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/sjobloms_forsta.html",
+  "title": "Rafael Sjöbloms färgbilder från tidigt sextiotal",
+  "summary": "Rafael Sjöbloms färgbilder från omkring 1963 med sonen Ronnys kommentarer om Åminne, Topeliusparken, Sjöbloms gård och Seminariegatan.",
+  "topics": [
+    "fotografi",
+    "1960-talet",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Ronny Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ann-Sophie Sandström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kjell Lindroos",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminne",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sjöbloms gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Mathesiusgatan 12"
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nålörssågen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Färgbilderna tas",
+      "date": {
+        "year": 1963,
+        "circa": true,
+        "text": "troligen från 1963"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7ffa75736ba9a4b8d8fea2629f487ef1292e290042ab7b2890f3168b7b2be533",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/notdrag.html",
+  "title": "Notdragning på Torsöfjärden",
+  "summary": "Fotografier från notdragning på Torsöfjärden 1939 med Socklotfiskare, samt identifiering av några av männen.",
+  "topics": [
+    "fiske",
+    "notdragning",
+    "Socklot"
+  ],
+  "people": [
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Åke Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Wikblad",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elias Wik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Martin Gleisner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hannes Sundqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ragnar Eriksson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Notdragning på Torsöfjärden",
+      "date": {
+        "year": 1939,
+        "month": 3,
+        "day": 28,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fda98c891a77f3ab604c747345f4223d25bee80e58fb5a726a532fc4175f3352",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

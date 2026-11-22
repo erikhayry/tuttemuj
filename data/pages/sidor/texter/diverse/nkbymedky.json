@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/nkbymedky.html",
+  "title": "Nykarleby-medalj med kyrkan och Storbron.",
+  "summary": "En medalj med motiv av kyrkan och Storbron som såldes på auktion; skribenten vet inte vad den är och frågar läsarna.",
+  "topics": [
+    "medalj",
+    "numismatik"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3d1b1ba5a3566f43fae82bb6d7f76192ed6c47b984cb77d0e86b87f22d9c3801",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:42.278Z"
+}

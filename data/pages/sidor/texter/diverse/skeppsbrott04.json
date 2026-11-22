@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/skeppsbrott04.html",
+  "title": "Sjönöd anno 1904",
+  "summary": "Ett brev från 1904 där skribenten berättar om en nära dödsfärd över Kvarken mot Umeå med en höpråm, då trossen kapas och en uppsprättad bolster blir segel.",
+  "topics": [
+    "sjönöd",
+    "brev",
+    "1904",
+    "Kvarken"
+  ],
+  "people": [
+    {
+      "name": "Acke",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Harald",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Långörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brudholmarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingkallan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Ritgrundsbåk",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ångbåtsbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Brev om sjönöd på väg till Umeå",
+      "date": {
+        "year": 1904,
+        "month": 10,
+        "day": 17,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Ungdomar på en pråm full av hö på väg till Umeå hamnar i storm. De kapar trossen och hissar en matta och en bolster som segel för att överleva.",
+    "reason": "Ett förstahandsvittnesmål med storm, beslut under press och improviserad räddning.",
+    "characters": [
+      "Acke",
+      "Harald"
+    ],
+    "places": [
+      "Brudholmarna",
+      "Ritgrundsbåk"
+    ]
+  },
+  "contentHash": "307719a5491e96483810e1bc83ceb67c43d9bf177b549dcf3e1000dae7f4450f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

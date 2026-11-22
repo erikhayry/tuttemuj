@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/olyespen.htm",
+  "title": "Bilolyckor vid esplanaden på 1950-talet",
+  "summary": "Foton av bilolyckor vid esplanaden på 1950-talet, bland annat en lastbil med lokomobil som välte vid Gulf-stationen.",
+  "topics": [
+    "olyckor",
+    "trafik",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden 17",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gulf-stationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Lastbil med lokomobil välter",
+      "date": {
+        "year": 1950,
+        "circa": true,
+        "text": "1950-talet"
+      },
+      "people": [],
+      "places": [
+        "Gulf-stationen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fa337572ef392bc888fe21f0a595d7ec522c5df0b16f64c3422f7dd0741f1c48",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}

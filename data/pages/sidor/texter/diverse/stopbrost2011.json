@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/stopbrost2011.html",
+  "title": "STOP",
+  "summary": "Om trafikmärket väjningsplikt som byttes mot STOP vid Seminariegatan i november 2013 och stadens första hastighetsmätare.",
+  "topics": [
+    "trafik",
+    "Seminariegatan",
+    "2013"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Herlerska gården",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Väjningsplikt byts mot STOP",
+      "date": {
+        "year": 2013,
+        "month": 11,
+        "day": 15,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadens första hastighetsmätare monteras",
+      "date": {
+        "year": 2013,
+        "month": 11,
+        "day": 21,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "51a6b989d4693674a1592778c8c002a33cacddf99af83dbbc181acd39ad144e4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T20:55:51.507Z"
+}
