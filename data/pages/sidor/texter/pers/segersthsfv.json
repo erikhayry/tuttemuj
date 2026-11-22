@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/segersthsfv.htm",
+  "title": "Minnesruna över Helen Segerstam i Svenska Folkskolans vänners kalender (1983)",
+  "summary": "Minnesruna över Helen Segerstam från Soklot, som ledde marthaföreningen och marthadistriktet, sålde grönsaker på torget i Jakobstad och skrev flitigt i Jakobstads Tidning.",
+  "topics": [
+    "minnesruna",
+    "marthaförening",
+    "hemslöjd",
+    "Soklot"
+  ],
+  "people": [
+    {
+      "name": "Helen Segerstam",
+      "alternateNames": [
+        "Helen Kronqvist"
+      ],
+      "birthYear": 1908,
+      "deathYear": 1982,
+      "roles": [
+        "marthaledare",
+        "trädgårdsodlare",
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Nykarleby sjukhus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Helen Segerstam avlider på Nykarleby sjukhus",
+      "date": {
+        "year": 1982,
+        "month": 11,
+        "day": 11,
+        "circa": false
+      },
+      "people": [
+        "Helen Segerstam"
+      ],
+      "places": [
+        "Nykarleby sjukhus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ec705e980e714d11a00f482db9dfce5c08c4a3b3efd8160b33aa1458785d1d50",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

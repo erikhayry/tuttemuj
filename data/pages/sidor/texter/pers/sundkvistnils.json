@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sundkvistnils.html",
+  "title": "Nils Sundkvist 1917–1988",
+  "summary": "Personuppgifter om läraren Nils Sundkvist i Soklot, med exakta tjänstetider i Larsmo och Soklot och en kort karaktärsteckning. Texten är hämtad ur skolans 100-årshistorik.",
+  "topics": [
+    "lärare",
+    "Soklot",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Nils Sundkvist",
+      "alternateNames": [
+        "Nils Klas Ingemar Sundkvist"
+      ],
+      "birthYear": 1917,
+      "deathYear": 1988,
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Olav Sundkvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son; berättade."
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Soklot skola",
+      "kind": "building",
+      "alternateNames": [
+        "Socklot skola"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Sundkvist blir t.f. lärare i Soklot",
+      "date": {
+        "year": 1946,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": [
+        "Soklot skola"
+      ]
+    },
+    {
+      "title": "Sundkvist blir ordinarie lärare i Soklot",
+      "date": {
+        "year": 1949,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": [
+        "Soklot skola"
+      ]
+    },
+    {
+      "title": "Sundkvist avgår med pension",
+      "date": {
+        "year": 1977,
+        "month": 10,
+        "day": 31,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": [
+        "Soklot skola"
+      ]
+    },
+    {
+      "title": "Nils Sundkvist avlider",
+      "date": {
+        "year": 1988,
+        "month": 7,
+        "day": 3,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8814b99a72bfcbc6c0bfd76f9c8187bb2a850bfa255ecd0c906c04622b05b8ca",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

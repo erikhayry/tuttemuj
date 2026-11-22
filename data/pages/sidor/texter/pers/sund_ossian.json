@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sund_ossian.html",
+  "title": "Nekrolog över Ossian Sund i Österbottniska Posten 1950",
+  "summary": "Nekrolog över tulluppsyningsmannen Ossian Sund, som förestod busstationen och verkade i stadsfullmäktige. Barnbarnet Brynolf Blomqvist berättar om arrendemarken i Lippjärv och ovanför Farm-Frys.",
+  "topics": [
+    "nekrolog",
+    "tullverket",
+    "busstationen",
+    "arrendemark"
+  ],
+  "people": [
+    {
+      "name": "Ossian Sund",
+      "alternateNames": [],
+      "birthYear": 1876,
+      "deathYear": 1950,
+      "roles": [
+        "tulluppsyningsman",
+        "stadsfullmäktig",
+        "busstationsföreståndare"
+      ]
+    },
+    {
+      "name": "Brynolf Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotterson."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade nekrologen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Där Sund arrenderade en linda.",
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Farm-Frys",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Sund arrenderade en linda ovanför den."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ossian Sund föds",
+      "date": {
+        "year": 1876,
+        "month": 12,
+        "day": 25,
+        "circa": false
+      },
+      "people": [
+        "Ossian Sund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ossian Sund avlider",
+      "date": {
+        "year": 1950,
+        "month": 8,
+        "day": 21,
+        "circa": false
+      },
+      "people": [
+        "Ossian Sund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "78dd2fbae75f032803c8b69386e25afb73caa7658dc29fe4b349f9d68af2a986",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

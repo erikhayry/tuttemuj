@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalisu.htm",
+  "title": "Olav, Sigmund, Bengt, Arnold och Wilhelm Schalin",
+  "summary": "Uppslagsverkets artiklar om bröderna Schalin: prästen Olav, ingenjören Sigmund, trädgårdsarkitekten Bengt och prosten Arnold samt sonen Wilhelm. Sigmund hade en viktig roll i att rädda Topelius barndomshem Kuddnäs.",
+  "topics": [
+    "släkt",
+    "präst",
+    "Kuddnäs",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Olav Schalin",
+      "alternateNames": [
+        "Olav Daniel Schalin"
+      ],
+      "birthYear": 1894,
+      "deathYear": 1979,
+      "roles": [
+        "präst",
+        "domprost",
+        "teol.dr"
+      ]
+    },
+    {
+      "name": "Sigmund Schalin",
+      "alternateNames": [
+        "Sigmund Rafael Schalin"
+      ],
+      "birthYear": 1892,
+      "deathYear": 1983,
+      "roles": [
+        "diplomingenjör"
+      ]
+    },
+    {
+      "name": "Bengt Schalin",
+      "alternateNames": [
+        "Bengt Michael Schalin"
+      ],
+      "birthYear": 1889,
+      "deathYear": 1982,
+      "roles": [
+        "trädgårdsarkitekt",
+        "stadsträdgårdsmästare"
+      ]
+    },
+    {
+      "name": "Arnold Schalin",
+      "alternateNames": [
+        "E. Arnold Schalin"
+      ],
+      "roles": [
+        "prost",
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Wilhelm Schalin",
+      "alternateNames": [],
+      "birthYear": 1926,
+      "deathYear": 1978,
+      "roles": [
+        "folktingssekreterare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topelius barndomshem."
+    },
+    {
+      "name": "Nykarleby gravgård",
+      "kind": "landmark",
+      "alternateNames": [
+        "Gravgården"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Olav Schalin är kaplan i Nykarleby",
+      "date": {
+        "year": 1922,
+        "circa": false,
+        "text": "1922–30"
+      },
+      "people": [
+        "Olav Schalin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Bengt Schalin planerar gravgårdsutvidgningen, klar 1924",
+      "date": {
+        "year": 1924,
+        "circa": false
+      },
+      "people": [
+        "Bengt Schalin"
+      ],
+      "places": [
+        "Nykarleby gravgård"
+      ]
+    },
+    {
+      "title": "Sigmund Schalin hjälper till att rädda Kuddnäs",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "på 1930-talet"
+      },
+      "people": [
+        "Sigmund Schalin"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "57de4eeb99f92e5d2f15e754472697d3014c3ee9dfc24fb344bd110c55485cab",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

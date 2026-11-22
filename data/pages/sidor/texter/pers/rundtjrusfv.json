@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/rundtjrusfv.htm",
+  "title": "Minnesruna över Joel Rundt i Svenska Folkskolans vänners kalender",
+  "summary": "Minnesruna över skalden och folkbildaren Joel Rundt, född i Kovjoki, som var lärare och sekreterare i Svenska folkskolans vänner innan han ägnade sig åt diktning. Runan lyfter också fram hans översättningar av finsk lyrik.",
+  "topics": [
+    "minnesruna",
+    "författare",
+    "folkbildning",
+    "Kovjoki"
+  ],
+  "people": [
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [
+        "Anders Joel Rundt"
+      ],
+      "birthYear": 1879,
+      "deathYear": 1971,
+      "roles": [
+        "författare",
+        "skald",
+        "folkskollärare",
+        "översättare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Joel Rundt föds i Kovjoki",
+      "date": {
+        "year": 1879,
+        "month": 12,
+        "day": 3,
+        "circa": false
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Rundt dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1903,
+        "circa": false
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Rundt blir sekreterare i Svenska folkskolans vänner",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Joel Rundt avlider i Vasa",
+      "date": {
+        "year": 1971,
+        "month": 6,
+        "day": 2,
+        "circa": false
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e6ea5b0a838497407d5a9d7a6814cfe36e5acadc5d0a41e31e66d604736c3f5c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

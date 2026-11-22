@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/svedberh.htm",
+  "title": "Hugo Svedberg 1904–1949",
+  "summary": "Dödsnotis över läraren Hugo Svedberg, som utexaminerades från Nykarleby seminarium 1926 och sedan undervisade i Monå, Storsved och Vexala före Helsingfors.",
+  "topics": [
+    "dödsnotis",
+    "lärare",
+    "Munsala",
+    "fredsarbete"
+  ],
+  "people": [
+    {
+      "name": "Hugo Svedberg",
+      "alternateNames": [],
+      "birthYear": 1904,
+      "deathYear": 1949,
+      "roles": [
+        "folkskollärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Storsved folkskola",
+      "kind": "building",
+      "alternateNames": [
+        "Svedbergska skolan",
+        "Storsved skola"
+      ]
+    },
+    {
+      "name": "Monå folkskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala folkskola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Svedberg dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [
+        "Hugo Svedberg"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Svedberg blir lärare vid Vexala folkskola",
+      "date": {
+        "year": 1946,
+        "circa": false
+      },
+      "people": [
+        "Hugo Svedberg"
+      ],
+      "places": [
+        "Vexala folkskola"
+      ]
+    },
+    {
+      "title": "Svedberg blir lärare i Helsingfors",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Hugo Svedberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f887704d4c016c4d4a0572efba60463008995f4b3883f9c008dad069f05232d3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

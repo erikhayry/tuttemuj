@@ -1285,6 +1285,10 @@
     "kind": "building"
   },
   {
+    "name": "fougstedts trädgård",
+    "kind": "landmark"
+  },
+  {
     "name": "fougstedtska gården",
     "kind": "building"
   },
@@ -2633,6 +2637,13 @@
     "kind": "street"
   },
   {
+    "name": "kivinens gård",
+    "kind": "farm",
+    "alternateNames": [
+      "kivinens"
+    ]
+  },
+  {
     "name": "kjellbergs villa",
     "kind": "building"
   },
@@ -2743,6 +2754,11 @@
     "kind": "island"
   },
   {
+    "name": "kovjoki museigård",
+    "kind": "building",
+    "note": "Museum farm in Kovjoki with Joel Rundt's memorial room."
+  },
+  {
     "name": "kovjoki resår",
     "kind": "building",
     "note": "Leaf-spring works in Kovjoki."
@@ -2810,6 +2826,14 @@
       "per-erik villmans gård"
     ],
     "note": "Farm, also called Per-Erik Villmans gård."
+  },
+  {
+    "name": "krokösund",
+    "kind": "landmark",
+    "alternateNames": [
+      "krokö sund"
+    ],
+    "note": "Rocky shore recreation area in Vexala."
   },
   {
     "name": "kronomagasinet",
@@ -3191,6 +3215,11 @@
   {
     "name": "liima-jannes snickeri",
     "kind": "building"
+  },
+  {
+    "name": "liljedahls",
+    "kind": "building",
+    "note": "Liljedahl building by the market square (Liljedahls nybygge)."
   },
   {
     "name": "liljedahls affär",
@@ -3681,6 +3710,10 @@
     "alternateNames": [
       "monäs fjärden"
     ]
+  },
+  {
+    "name": "monå folkskola",
+    "kind": "building"
   },
   {
     "name": "mossahagan",
@@ -4526,6 +4559,14 @@
     "note": "By Jakobstadsvägen."
   },
   {
+    "name": "roos gård",
+    "kind": "farm"
+  },
+  {
+    "name": "roos villa",
+    "kind": "building"
+  },
+  {
     "name": "roosas lindo",
     "kind": "farm",
     "alternateNames": [
@@ -4925,7 +4966,10 @@
   },
   {
     "name": "sjukhuset",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "nykarleby sjukhus"
+    ]
   },
   {
     "name": "sjöboda",
@@ -5101,6 +5145,13 @@
   {
     "name": "soklot",
     "kind": "village"
+  },
+  {
+    "name": "soklot skola",
+    "kind": "building",
+    "alternateNames": [
+      "socklot skola"
+    ]
   },
   {
     "name": "soklot ungdomshus",
@@ -5658,6 +5709,14 @@
     "kind": "street"
   },
   {
+    "name": "tallbo",
+    "kind": "building",
+    "alternateNames": [
+      "schantz villa"
+    ],
+    "note": "Hans von Schantz's villa."
+  },
+  {
     "name": "tallgrens",
     "kind": "building"
   },
@@ -6132,6 +6191,10 @@
     ]
   },
   {
+    "name": "vexala folkskola",
+    "kind": "building"
+  },
+  {
     "name": "vexala skola",
     "kind": "building"
   },
@@ -6299,6 +6362,11 @@
     "name": "wernamo",
     "kind": "building",
     "note": "Housed the länsman and chaplains; demolished 1978."
+  },
+  {
+    "name": "westerlunds el-affär",
+    "kind": "building",
+    "note": "Electrical shop near the police station by the square."
   },
   {
     "name": "westerlunds snickeri",

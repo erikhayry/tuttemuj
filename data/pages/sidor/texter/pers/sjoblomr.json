@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sjoblomr.htm",
+  "title": "Rafael Sjöblom 1923–2011",
+  "summary": "Uppslagsverksartikel om fotografen Rafael Sjöblom, som drev fotoateljé i Nykarleby och har lämnat efter sig tusentals negativ av staden. Sidan har en lång lista över hans bilder av stadsmiljöer och yrkesutövare.",
+  "topics": [
+    "fotograf",
+    "fotografi",
+    "stadsmiljöer",
+    "Nykarleby"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "birthYear": 1923,
+      "deathYear": 2011,
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mathesiusgatan 12",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Mathesiusgatan 12",
+      "description": "Sjöbloms verksamhet 1956–66; numera Sandström/Lindroos."
+    },
+    {
+      "name": "Bangatan 5",
+      "kind": "building",
+      "alternateNames": [
+        "Bangatan 11"
+      ],
+      "address": "Bangatan 5",
+      "description": "Verksamhet till pensioneringen 1983; numret ändrades på 1990-talet till 11.",
+      "geo": {
+        "lat": 63.5206944,
+        "lng": 22.5291949,
+        "match": "address",
+        "gazetteerName": "bangatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Hotel Eden",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sjöblom börjar fotografera",
+      "date": {
+        "year": 1952,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sjöbloms verksamhet på Mathesiusgatan 12",
+      "date": {
+        "year": 1956,
+        "circa": false,
+        "text": "1956–66"
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": [
+        "Mathesiusgatan 12"
+      ]
+    },
+    {
+      "title": "Sjöblom pensioneras",
+      "date": {
+        "year": 1983,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": [
+        "Bangatan 5"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d49741f3132056d98cff590e876b6ea480b8557f29e46c75377d82bbf5b5c133",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

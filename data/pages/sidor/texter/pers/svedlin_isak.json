@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/svedlin_isak.html",
+  "title": "Minnesruna över Isak Svedlin",
+  "summary": "Nyhetsnotis om disponenten Isak Svedlin, som dog under ett morgonbad vid Mickelskär i Helsingfors skärgård 1911. Därefter följde en tvist med försäkringsbolaget Sampo om utbetalningen.",
+  "topics": [
+    "drunkning",
+    "dödsfall",
+    "försäkring",
+    "Munsala"
+  ],
+  "people": [
+    {
+      "name": "Isak Svedlin",
+      "alternateNames": [],
+      "birthYear": 1857,
+      "deathYear": 1911,
+      "roles": [
+        "disponent",
+        "handelsresande"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ],
+      "description": "Svedlin arbetade hos honom i Nykarleby."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Isak Svedlin drunknar vid Mickelskär",
+      "date": {
+        "year": 1911,
+        "month": 7,
+        "day": 30,
+        "circa": false
+      },
+      "people": [
+        "Isak Svedlin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Svedlin tar ett morgonbad vid Mickelskär och dör hastigt, men bolaget vägrar betala ut olycksfallsförsäkringen med hänvisning till sjukdom.",
+    "reason": "Ett plötsligt dödsfall följt av en byråkratisk konflikt med bolaget.",
+    "characters": [
+      "Isak Svedlin"
+    ],
+    "places": []
+  },
+  "contentHash": "301fbc19a770aa2cb4df7de01b04a75e26590e34ce50a4cbbfe13dca296d7fa7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

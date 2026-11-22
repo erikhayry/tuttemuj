@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/soderman_anton.html",
+  "title": "Anton Söderman 50 år",
+  "summary": "Födelsedagsnotis om kantorn i Nykarleby församling, Anton Söderman, som tillträdde tjänsten 1922 efter sin bror som stupade 1918. Notisen räknar upp hans förtroendeuppdrag och tidigare arbeten.",
+  "topics": [
+    "kantor",
+    "födelsedag",
+    "kyrkomusik",
+    "Nykarleby kyrka"
+  ],
+  "people": [
+    {
+      "name": "Anton Söderman",
+      "alternateNames": [],
+      "roles": [
+        "kantor",
+        "rådman",
+        "kyrkokassör"
+      ]
+    },
+    {
+      "name": "Kristoffer Söderman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Antons bror, föregående kantor; stupade i kriget 1918."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Söderman tillträder som kantor i Nykarleby",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "people": [
+        "Anton Söderman"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Kristoffer Söderman stupar i kriget",
+      "date": {
+        "year": 1918,
+        "circa": false
+      },
+      "people": [
+        "Kristoffer Söderman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Söderman pensioneras",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [
+        "Anton Söderman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "01879a9eb28c68485f9e1a9441b26099ec6efc2e5843b15815d459d2a4497a22",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

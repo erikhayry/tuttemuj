@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sannelis.htm",
+  "title": "Sanna och Elisabeth Liljeström",
+  "summary": "Två fotografier av Sanna Liljeström och hennes svägerska Elisabeth framför Sannas gård vid Juthasvägen. Bilderna är odaterade, men kan vara tagna när Elisabeth reste till Amerika 1910.",
+  "topics": [
+    "fotografi",
+    "emigration",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Sanna Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabeth Liljeström",
+      "alternateNames": [
+        "Elisabeth Karlsson"
+      ],
+      "roles": [],
+      "description": "Farfars syster, senare gift Karlsson."
+    },
+    {
+      "name": "Bruce",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickade bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Sannas gård låg vid vägen.",
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Elisabeth reser till Amerika",
+      "date": {
+        "year": 1910,
+        "circa": false,
+        "text": "troligen"
+      },
+      "people": [
+        "Elisabeth Liljeström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "029c956cdc8ac5058756ddeefb724db0e944e6439b740b8fd2c9ae526b38dde6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

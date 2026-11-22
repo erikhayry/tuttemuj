@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sjoblomr_lp.html",
+  "title": "Rafael Sjöblom – fotograf",
+  "summary": "Levnadsteckning över fotografen Rafael Sjöblom från Lill-Soklot, som drabbades av hörselskada, tuberkulos och flera år på sanatorium. Texten skildrar hans ungdom och intressen innan han blev fotograf.",
+  "topics": [
+    "fotograf",
+    "levnadsteckning",
+    "tuberkulos",
+    "Soklot"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "birthYear": 1923,
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Petter Klockars",
+      "alternateNames": [],
+      "roles": [
+        "lantdagsman"
+      ],
+      "description": "Rafaels förfader."
+    },
+    {
+      "name": "John Sundkvist",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lillsoklot",
+      "kind": "village",
+      "alternateNames": [
+        "Lill-Soklot"
+      ]
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [
+        "kommunalgården Kuddnäs"
+      ],
+      "description": "Där \"Gula huset\" fungerade som karantän."
+    }
+  ],
+  "events": [
+    {
+      "title": "Rafael Sjöblom föds i Lill-Soklot",
+      "date": {
+        "year": 1923,
+        "month": 8,
+        "day": 31,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": [
+        "Lillsoklot"
+      ]
+    },
+    {
+      "title": "Sjöblom inkallas som B-karl",
+      "date": {
+        "year": 1943,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sjöblom diagnostiseras med tuberkulos",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sjöbloms ena lunga avlägsnas",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Pojken Rafael får scharlakansfeber och läggs i karantän i Gula huset, förlorar delvis hörseln och bär sedan på sjukdomar genom livet, bland annat fyra år på sanatorium.",
+    "reason": "En livsberättelse där sjukdom, tekniknyfikenhet och musik driver en trovärdig huvudperson.",
+    "characters": [
+      "Rafael Sjöblom"
+    ],
+    "places": [
+      "Kuddnäs"
+    ]
+  },
+  "contentHash": "90b6b3ec4ac263d5295628d0660b6d8d2d06b1184ad34c4a8f245afefd6a1e09",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

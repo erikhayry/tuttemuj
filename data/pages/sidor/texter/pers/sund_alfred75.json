@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sund_alfred75.html",
+  "title": "Födelsedagar: Alfred Sund 75 år",
+  "summary": "Födelsedagsnotis om chauffören Alfred Sund, bussförarpionjär på 1920-talet med turer till Andrasjön, Åminne och Jakobstad. Han bor på Källbacken med sina barn, och bildtexten diskuterar var fotot togs vid torget.",
+  "topics": [
+    "busstrafik",
+    "födelsedag",
+    "chaufför",
+    "torget"
+  ],
+  "people": [
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [
+        "chaufför",
+        "bussförare"
+      ]
+    },
+    {
+      "name": "Elsa Granroth",
+      "alternateNames": [],
+      "roles": [
+        "lotta"
+      ]
+    },
+    {
+      "name": "Elna Andersson",
+      "alternateNames": [],
+      "roles": [
+        "lotta"
+      ]
+    },
+    {
+      "name": "Linnea Österlund",
+      "alternateNames": [
+        "Nenna"
+      ],
+      "roles": [
+        "lotta"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Där Sund bodde i en under kriget nybyggd gård.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Torgets sydvästra hörn, där R. R. Eklunds barndomshem låg."
+    },
+    {
+      "name": "Kisors affär",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Alfred Sund startar busstrafik till Andrasjön, Åminne och Jakobstad",
+      "date": {
+        "year": 1920,
+        "circa": true,
+        "text": "i början på 20-talet"
+      },
+      "people": [
+        "Alfred Sund"
+      ],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "517e67ac4e91d9a74a06e22c45bd1a245d5247173b05832086e1fff2fecaf600",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

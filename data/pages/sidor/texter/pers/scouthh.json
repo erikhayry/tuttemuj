@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/scouthh.htm",
+  "title": "Scouter ur Holger Haglunds samlingar",
+  "summary": "Scoutbilder från läger 1929, scoutflickor på 1930-talet och ett läger vid Krokösund omkring 1965, med Stig Haglunds minnen. Sidan citerar också en naturinventering som beskriver Krokösund som utflyktsmål.",
+  "topics": [
+    "scouter",
+    "fotografi",
+    "Krokösund",
+    "scoutläger"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lennart Blomström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maj-Lis Örndahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Marianne Wiklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickade bilderna 2010."
+    }
+  ],
+  "places": [
+    {
+      "name": "Krokösund",
+      "kind": "landmark",
+      "alternateNames": [
+        "Krokö sund"
+      ],
+      "description": "Klippstrandsområde i Vexala med hällkar; ett utflyktsområde."
+    }
+  ],
+  "events": [
+    {
+      "title": "Scoutläger",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [
+        "Holger Haglund",
+        "Lennart Blomström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Scoutläger vid Krokösund",
+      "date": {
+        "year": 1965,
+        "circa": true,
+        "text": "cirka 1965"
+      },
+      "people": [
+        "Stig Haglund"
+      ],
+      "places": [
+        "Krokösund"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "324cfb2df473c8ddd4c2419528b6c3a0e8d6adef0a48dbb9150741a9df7ee910",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

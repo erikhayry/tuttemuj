@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sjoholml.htm",
+  "title": "Leif Sjöholm",
+  "summary": "Presentation av Leif Sjöholm från Soklot, som drivit Fiskboden och Hotell Eden, varit pälsdjursfarmare och lokalredaktör samt skrivit flera böcker om Nykarleby.",
+  "topics": [
+    "författare",
+    "lokalredaktör",
+    "hotell",
+    "pälsdjur"
+  ],
+  "people": [
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "lokalredaktör",
+        "fotograf",
+        "pälsdjursfarmare",
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Hotell Eden",
+      "kind": "building",
+      "alternateNames": [
+        "Hotel Eden"
+      ]
+    },
+    {
+      "name": "Fiskboden",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sjöholm ger ut Norcar-BSB 25 år",
+      "date": {
+        "year": 2004,
+        "circa": false
+      },
+      "people": [
+        "Leif Sjöholm"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sjöholm ger ut Medströms i 80 år om Nykarleby Kraftverk",
+      "date": {
+        "year": 2006,
+        "circa": false
+      },
+      "people": [
+        "Leif Sjöholm"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sjöholm ger ut Boken om Nykarleby landskommun 1865–1974",
+      "date": {
+        "year": 2020,
+        "circa": false
+      },
+      "people": [
+        "Leif Sjöholm"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac6ecb1434b1d2582911c4012bbee8c43aa29ce3c8279125fbefd774092c0a1d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

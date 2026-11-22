@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/saltinau.htm",
+  "title": "Alexandra Frosterus-Såltin 1837–1916 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om målarinnan Alexandra Frosterus-Såltin, som målade ett femtiotal altartavlor, bland annat den i Nykarleby kyrka. Sidan har en lista över hennes altartavlor i olika kyrkor.",
+  "topics": [
+    "konst",
+    "altartavla",
+    "kyrkokonst",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Alexandra Frosterus-Såltin",
+      "alternateNames": [
+        "Alexandra Theodora Frosterus-Såltin"
+      ],
+      "birthYear": 1837,
+      "deathYear": 1916,
+      "roles": [
+        "målarinna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Såltin målar altartavlan Kristi förklaring för Nykarleby kyrka",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [
+        "Alexandra Frosterus-Såltin"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Altartavlan i Nykarleby kyrka degraderas till vanlig målning",
+      "date": {
+        "year": 1928,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3659b424eba7a5e8b6871ff23d43dc2131bb727eecf7a255905ff0e403412101",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

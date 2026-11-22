@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sundwallssfv.html",
+  "title": "Minnesruna över F. W. Sundwall i Svenska Folkskolans vänners kalender (1929)",
+  "summary": "Minnesruna över seminariedirektorn Fredrik Wilhelm Sundwall, som tvingades lämna Ekenäs seminarium under Bobrikovs tryck på grund av sin fasta hållning. Runan hyllar honom som förgrundsgestalt för folkundervisningen.",
+  "topics": [
+    "minnesruna",
+    "seminariet",
+    "folkundervisning",
+    "ryska förtrycket"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Wilhelm Sundwall",
+      "alternateNames": [
+        "F. W. Sundwall"
+      ],
+      "birthYear": 1843,
+      "deathYear": 1929,
+      "roles": [
+        "seminariedirektor"
+      ]
+    },
+    {
+      "name": "Johan Mathias Sundwall",
+      "alternateNames": [],
+      "roles": [
+        "teologieprofessor"
+      ],
+      "description": "Fadern."
+    },
+    {
+      "name": "Johanna Wilhelmina Aejmelaeus",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Modern."
+    },
+    {
+      "name": "Nikolaj Bobrikov",
+      "alternateNames": [],
+      "roles": [
+        "generalguvernör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Sundwall utnämns till lektor vid Nykarleby seminarium",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Wilhelm Sundwall"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Sundwall blir direktor för Nykarleby seminarium",
+      "date": {
+        "year": 1881,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Wilhelm Sundwall"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Seminariedirektorn Sundwall vägrar böja sig under det ryska förtrycket, och på Bobrikovs tillskyndan tvingas han lämna sin post i Ekenäs.",
+    "reason": "En tydlig konflikt mellan en principfast lärare och en makthavare under ofärdstiden.",
+    "characters": [
+      "Fredrik Wilhelm Sundwall",
+      "Nikolaj Bobrikov"
+    ],
+    "places": []
+  },
+  "contentHash": "40f16afa7dbf4c0baf0e5091ffb2fe32751a1e0018d115c81a96648fa4368a6e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

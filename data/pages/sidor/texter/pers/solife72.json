@@ -1,0 +1,115 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/solife72.htm",
+  "title": "Solifer 72 4-speed",
+  "summary": "Foto av en Solifer-moped från 1972 hösten 1980, med mopedens ägarhistoria från Munsala till Nykarleby och Sixten Nymans minnen av trimning och nattliga rundor. Bilden togs vid Gustav Adolfsgatan 41.",
+  "topics": [
+    "moped",
+    "fotografi",
+    "ungdomsminnen",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade."
+    },
+    {
+      "name": "Dagny Saarikoski",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Saarikoski",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Heimo Oksanen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mopedens förste ägare, från Munsala."
+    },
+    {
+      "name": "Sulo Oksanen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Heimos far, medlem av fotoklubben."
+    },
+    {
+      "name": "Sixten Nyman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte mopeden av Heimo 1976."
+    },
+    {
+      "name": "Ole Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Borrade förgasaren."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sixten Nyman köper mopeden av Heimo Oksanen",
+      "date": {
+        "year": 1976,
+        "circa": false
+      },
+      "people": [
+        "Sixten Nyman",
+        "Heimo Oksanen"
+      ],
+      "places": []
+    },
+    {
+      "title": "Mopeden fotograferas före försäljning",
+      "date": {
+        "year": 1980,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Liljeström"
+      ],
+      "places": [
+        "Gustav Adolfsgatan 41"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En pojke kör hem sin nyköpta moped från Munsala och den stannar efter fem kilometer, tills kompisarna visar att det bara var \"låppån\" på tändstiftet.",
+    "reason": "En lättsam ungdomshistoria med tydlig komik och ett lugnt slut.",
+    "characters": [
+      "Sixten Nyman",
+      "Heimo Oksanen"
+    ],
+    "places": []
+  },
+  "contentHash": "004e7f0005ce4e53d09485cccea7aa764833de877a49e57f14d4e94cc8d44bbb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

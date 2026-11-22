@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sjoblomro.htm",
+  "title": "New Charles Village",
+  "summary": "Foto av en abiturient-klasströja från Nykarleby gymnasium 1977 på Ronny Sjöblom, tagen utanför Normen 2004. Sidan leker med en engelsk variant av stadens namn.",
+  "topics": [
+    "fotografi",
+    "gymnasiet",
+    "klasströja",
+    "stadsnamnet"
+  ],
+  "people": [
+    {
+      "name": "Ronny Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby gymnasium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gymnasiets abiturienter har klasströja",
+      "date": {
+        "year": 1977,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby gymnasium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "817228b3d8cca9bec1c66cbd8afba1edb7256b57a44671bde5d53b11c2445b63",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

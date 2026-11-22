@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/roos_ge.html",
+  "title": "Minnesruna över Gustav Eliel Roos i Österbottniska Posten 1932",
+  "summary": "Dödsruna över apotekaren Gustav Eliel Roos, född i Nykarleby, som drev apoteket i hemstaden 1901–1916 och satt i stadsfullmäktige.",
+  "topics": [
+    "dödsruna",
+    "apotek",
+    "stadsfullmäktige"
+  ],
+  "people": [
+    {
+      "name": "Gustav Eliel Roos",
+      "alternateNames": [
+        "Gustaf Roos"
+      ],
+      "birthYear": 1861,
+      "deathYear": 1932,
+      "roles": [
+        "apotekare",
+        "stadsfullmäktig"
+      ]
+    },
+    {
+      "name": "Elias Roos",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "rådman"
+      ],
+      "description": "Gustav Eliels far."
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby apotek"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Gustav Eliel Roos föds i Nykarleby",
+      "date": {
+        "year": 1861,
+        "month": 10,
+        "day": 21,
+        "circa": false
+      },
+      "people": [
+        "Gustav Eliel Roos"
+      ],
+      "places": []
+    },
+    {
+      "title": "Roos köper apoteket i Nykarleby",
+      "date": {
+        "year": 1901,
+        "circa": false
+      },
+      "people": [
+        "Gustav Eliel Roos"
+      ],
+      "places": [
+        "Apoteket"
+      ]
+    },
+    {
+      "title": "Roos flyttar till Vasa",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "people": [
+        "Gustav Eliel Roos"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gustav Eliel Roos avlider i Vasa",
+      "date": {
+        "year": 1932,
+        "circa": false
+      },
+      "people": [
+        "Gustav Eliel Roos"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "87040cb28c53c9288a60132ffe5e95ce87e267e2aa1625a3de8d7c3ebc19c928",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

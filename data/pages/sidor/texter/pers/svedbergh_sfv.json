@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/svedbergh_sfv.html",
+  "title": "Minnesruna över Hugo Svedberg i Svenska Folkskolans vänners kalender",
+  "summary": "Minnesruna över folkskolläraren Hugo Svedberg, sonson till Anders Svedberg, som dog hastigt i Munsala på midsommardagen 1949. Familjen Svedberg hade då varit knuten till Storsved folkskola i 82 år.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "Munsala",
+    "Storsved"
+  ],
+  "people": [
+    {
+      "name": "Hugo Svedberg",
+      "alternateNames": [],
+      "birthYear": 1904,
+      "deathYear": 1949,
+      "roles": [
+        "folkskollärare"
+      ]
+    },
+    {
+      "name": "Anders Svedberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Farfar; grundade Storsved folkskola."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storsved folkskola",
+      "kind": "building",
+      "alternateNames": [
+        "Svedbergska skolan",
+        "Storsved skola"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Hugo Svedberg avlider i Munsala",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "midsommardagen"
+      },
+      "people": [
+        "Hugo Svedberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5090090ae77d801d6c71912022dbb3dc039347140bbf7609c072450dcc44ed89",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

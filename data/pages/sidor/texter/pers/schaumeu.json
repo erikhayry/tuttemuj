@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/schaumeu.htm",
+  "title": "Eugen Schauman 1875–1904 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om aktivisten Eugen Schauman, som sköt generalguvernör Bobrikov i senatshuset 1904 och sedan tog sitt eget liv. Sidan nämner att han inspirerats av Fänrik Ståls sägner.",
+  "topics": [
+    "aktivist",
+    "ryska förtrycket",
+    "Bobrikov",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Eugen Schauman",
+      "alternateNames": [
+        "Eugen Waldemar Schauman"
+      ],
+      "birthYear": 1875,
+      "deathYear": 1904,
+      "roles": [
+        "aktivist"
+      ]
+    },
+    {
+      "name": "Nikolaj Bobrikov",
+      "alternateNames": [],
+      "roles": [
+        "generalguvernör"
+      ]
+    },
+    {
+      "name": "Waldemar Schauman",
+      "alternateNames": [],
+      "roles": [
+        "general"
+      ],
+      "description": "Eugens far, fängslades av myndigheterna."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Schauman skjuter generalguvernör Bobrikov i senatshuset och tar sedan sitt liv",
+      "date": {
+        "year": 1904,
+        "month": 6,
+        "day": 16,
+        "circa": false
+      },
+      "people": [
+        "Eugen Schauman",
+        "Nikolaj Bobrikov"
+      ],
+      "places": []
+    },
+    {
+      "title": "Schaumans stoft flyttas till familjegraven i Borgå",
+      "date": {
+        "year": 1906,
+        "circa": false
+      },
+      "people": [
+        "Eugen Schauman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ensam ung tjänsteman, uppfostrad på Fänrik Ståls sägner, går in i senatshuset 1904, skjuter generalguvernören och tar sedan sitt liv med ett brev till tsaren i fickan.",
+    "reason": "Ett dramatiskt, välkänt ögonblick med ett tydligt moraliskt val och ett brev som nyckelprop.",
+    "characters": [
+      "Eugen Schauman",
+      "Nikolaj Bobrikov"
+    ],
+    "places": []
+  },
+  "contentHash": "3cc965f3725352faaadfe0293841d65305c1d77f3802c78efa79de11273482a9",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

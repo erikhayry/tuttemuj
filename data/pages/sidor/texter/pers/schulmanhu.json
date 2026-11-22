@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/schulmanhu.html",
+  "title": "Hugo Schulman 1850–1919",
+  "summary": "Uppslagsverksartikel om generalmajoren och krigshistorikern Hugo Schulman, som skrev om kriget 1808–09. Sidan länkar till hans beskrivning av striden vid Nykarleby och von Döbelns seger vid Juthas.",
+  "topics": [
+    "militär",
+    "krigshistoria",
+    "1808–09 års krig",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Hugo Schulman",
+      "alternateNames": [
+        "Carl Magnus Hugo Schulman"
+      ],
+      "birthYear": 1850,
+      "deathYear": 1919,
+      "roles": [
+        "generalmajor",
+        "krigshistoriker"
+      ]
+    },
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Räddade återtågsvägen och segrade vid Juthas."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Schulman är chef för kadettkåren i Fredrikshamn",
+      "date": {
+        "year": 1881,
+        "circa": false,
+        "text": "1881–1902"
+      },
+      "people": [
+        "Hugo Schulman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "77275f38f3c2540151e23bc1d59c36f816f8fcd7606602dcd82a22a5f51406e8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

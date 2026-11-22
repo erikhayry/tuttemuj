@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/skridsto.htm",
+  "title": "Skridskoåkare på torget",
+  "summary": "Fotografi av klasskamrater som skridskoåker på torget vintern 1962, med Jorma Metsos minnen av skridskobanans tidigare plats, bandymatcher och NIK mot seminaristerna. Texten berättar hur banan flyttade till torget när Liljedahls nybygge kom.",
+  "topics": [
+    "skridskoåkning",
+    "bandy",
+    "torget",
+    "1960-talet",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade, kommenterade och tillhandahöll."
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [
+        "Jan Metso"
+      ],
+      "roles": [],
+      "description": "Delar minnen av skridskoåkning."
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Skridskobanan förlades hit efter Liljedahls nybygge."
+    },
+    {
+      "name": "Liljedahls",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nybygge på tomten där skridskobanan tidigare låg."
+    },
+    {
+      "name": "Poliskammaren",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Westerlunds el-affär",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skridskoövningar på torget under gymnastiken",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Pojkar spelar bandy med gummistövlar som mål på älvens is i månljus, och hatar de kvällar då skridskoåkning till musik förbjuder klubbor.",
+    "reason": "Barndomsminnen med tydliga visuella detaljer och en lätt rivalitet mellan NIK och seminaristerna.",
+    "characters": [
+      "Jorma Metso"
+    ],
+    "places": [
+      "Torget"
+    ]
+  },
+  "contentHash": "b7b866694bf52726246f099e9af47b9a62bee8cfdb9afd3b3be112fed591c9a8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

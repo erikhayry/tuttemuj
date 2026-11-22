@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalinzsfv.htm",
+  "title": "Minnesruna över Zacharias Schalin i Svenska Folkskolans vänners kalender (1939)",
+  "summary": "Minnesruna över seminariedirektorn Zacharias Schalin, Topelius systerson, som växte upp med besök hos mormor på Kuddnäs. Runan beskriver hans bana som folkbildare.",
+  "topics": [
+    "minnesruna",
+    "folkbildning",
+    "seminariet",
+    "Topelius",
+    "Kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Schalin",
+      "alternateNames": [],
+      "birthYear": 1854,
+      "deathYear": 1938,
+      "roles": [
+        "seminariedirektor",
+        "folkbildare"
+      ]
+    },
+    {
+      "name": "L. W. Schalin",
+      "alternateNames": [],
+      "roles": [
+        "prost",
+        "predikant"
+      ],
+      "description": "Fadern."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Morbror."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topelius barndomshem; Schalin skrev en bok om det."
+    }
+  ],
+  "events": [
+    {
+      "title": "Zacharias Schalin föds i Kaskö",
+      "date": {
+        "year": 1854,
+        "month": 3,
+        "day": 2,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Schalin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Schalin blir student vid svenska normallyceum",
+      "date": {
+        "year": 1870,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Schalin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Zacharias Schalin avlider i Åbo",
+      "date": {
+        "year": 1938,
+        "month": 9,
+        "day": 21,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Schalin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a1f8ce48fe10f2bf3b2b364550d022d09fcfa4a3ad3e834b5383e62502df0ea5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

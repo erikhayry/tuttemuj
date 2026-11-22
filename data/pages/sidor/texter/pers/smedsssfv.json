@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/smedsssfv.htm",
+  "title": "Minnesruna över Selim Smeds i Svenska Folkskolans vänners kalender (1983)",
+  "summary": "Minnesruna över folkskolläraren Selim Smeds, född i Soklot, som dimitterades från Nykarleby seminarium 1932 och blev lärare, läroboksförfattare och förlagschef.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "läroböcker",
+    "Soklot"
+  ],
+  "people": [
+    {
+      "name": "Selim Smeds",
+      "alternateNames": [
+        "Jakob Selim Smeds"
+      ],
+      "birthYear": 1906,
+      "deathYear": 1969,
+      "roles": [
+        "folkskollärare",
+        "förlagschef"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Selim Smeds föds i Soklot",
+      "date": {
+        "year": 1906,
+        "month": 6,
+        "day": 19,
+        "circa": false
+      },
+      "people": [
+        "Selim Smeds"
+      ],
+      "places": [
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Smeds dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1932,
+        "circa": false
+      },
+      "people": [
+        "Selim Smeds"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Selim Smeds avlider",
+      "date": {
+        "year": 1969,
+        "month": 1,
+        "day": 20,
+        "circa": false
+      },
+      "people": [
+        "Selim Smeds"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "66618212b65382eace3085cbf542d4db017ca701b390981b8ddff321cfaa7616",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

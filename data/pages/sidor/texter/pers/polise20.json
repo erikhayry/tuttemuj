@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/polise20.htm",
+  "title": "Poliser på 1920- och 30-talen",
+  "summary": "Foton av stadens poliser på 1920- och 30-talen, bland annat hela kåren söder om kyrkan och en bild från Topelii park. Bildtexterna bjuder på anekdoter, till exempel om polisen som gick omkring i full uniform men barfota.",
+  "topics": [
+    "polisen",
+    "fotografi",
+    "1920-talet",
+    "1930-talet",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Edvard Björklund",
+      "alternateNames": [],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "August Svanbäck",
+      "alternateNames": [],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Edvard Markkula",
+      "alternateNames": [
+        "Stumpin"
+      ],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "Alex. Björklund",
+      "alternateNames": [],
+      "roles": [
+        "normalskollärare"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [
+        "kumisariens Kalli"
+      ],
+      "roles": [],
+      "description": "Tillhandahöll bilderna och berättade; son till kommissarien."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Där de två poliserna Edvard bodde och hade fähus på sina stadstomter.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Rådhustrappan; skribenten tvivlar på att fotot är taget där."
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Topelii park"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Polisen Svanbäck, en original som struntade i konvenans, promenerar genom staden en sommardag i full polismundering men barfota.",
+    "reason": "En liten, rolig och lätt visuell anekdot om en uniformsklädd småstadspolis.",
+    "characters": [
+      "August Svanbäck"
+    ],
+    "places": []
+  },
+  "contentHash": "cf439457a3808e2b7eef8e9730946ea7afaefdf01f0691eacf5739b076a3a614",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

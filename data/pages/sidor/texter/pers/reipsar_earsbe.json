@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/reipsar_earsbe.html",
+  "title": "Minnesruna över Erik Reipsar i Normens årsberättelse våren 1975",
+  "summary": "Minnesord över skolföreståndaren Erik Reipsar, som oväntat dog 36 år gammal. Han var lärare vid stadens lågstadieskola från 1970 och dess föreståndare de sista tre åren.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "Normen",
+    "skola"
+  ],
+  "people": [
+    {
+      "name": "Erik Reipsar",
+      "alternateNames": [],
+      "deathYear": 1975,
+      "roles": [
+        "skolföreståndare",
+        "lärare i slöjd och teckning"
+      ]
+    },
+    {
+      "name": "Helena Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Elev till Reipsar, tillhandahöll minnesrunan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Reipsar anställs som lärare vid stadens lågstadieskola",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [
+        "Erik Reipsar"
+      ],
+      "places": [
+        "Normen"
+      ]
+    },
+    {
+      "title": "Erik Reipsar avlider oväntat",
+      "date": {
+        "year": 1975,
+        "month": 2,
+        "day": 28,
+        "circa": false
+      },
+      "people": [
+        "Erik Reipsar"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "65445fd5f1277bb2883c2bd6633836f095c3a40a8c368f364ed70118897318b0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

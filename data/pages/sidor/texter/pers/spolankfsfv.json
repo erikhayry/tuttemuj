@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/spolankfsfv.htm",
+  "title": "Minnesruna över Karl Fredrik Spolander i Svenska Folkskolans vänners kalender (1929)",
+  "summary": "Minnesruna över Karl Fredrik Spolander, överlärare vid seminariets övningsskola och senare bankföreståndare, som var stadsfullmäktig i 40 år och trafikchef vid Nykarleby järnväg.",
+  "topics": [
+    "minnesruna",
+    "kommunalman",
+    "järnväg",
+    "bank"
+  ],
+  "people": [
+    {
+      "name": "Karl Fredrik Spolander",
+      "alternateNames": [
+        "K. F. Spolander"
+      ],
+      "birthYear": 1858,
+      "roles": [
+        "överlärare",
+        "bankföreståndare",
+        "stadsfullmäktig",
+        "trafikchef"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Seminariets övningsskola",
+      "kind": "building",
+      "alternateNames": [
+        "övningsskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": [
+        "Nordiska Föreningsbanken"
+      ]
+    },
+    {
+      "name": "Nykarleby järnväg",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Spolander dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1880,
+        "circa": false
+      },
+      "people": [
+        "Karl Fredrik Spolander"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Spolander blir lärare vid seminariets övningsskola",
+      "date": {
+        "year": 1884,
+        "circa": false
+      },
+      "people": [
+        "Karl Fredrik Spolander"
+      ],
+      "places": [
+        "Seminariets övningsskola"
+      ]
+    },
+    {
+      "title": "Spolander är trafikchef vid Nykarleby järnväg",
+      "date": {
+        "year": 1901,
+        "circa": false,
+        "text": "1901–15"
+      },
+      "people": [
+        "Karl Fredrik Spolander"
+      ],
+      "places": [
+        "Nykarleby järnväg"
+      ]
+    },
+    {
+      "title": "Spolander tar avsked från övningsskolan",
+      "date": {
+        "year": 1910,
+        "circa": false
+      },
+      "people": [
+        "Karl Fredrik Spolander"
+      ],
+      "places": [
+        "Seminariets övningsskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bb7d74d9d044aefb9910b5d3e7bf92fc72c4ca70aa8161bbb47850b727d3c4c2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

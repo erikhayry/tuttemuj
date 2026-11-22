@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalizu.htm",
+  "title": "Zacharias Schalin 1854–1938 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om skolmannen Zacharias Schalin, direktor för Nykarleby seminarium 1886–1904 och författare till barnböcker i Topelius anda. Sidan har många länkar till bilder och texter om familjen Schalin.",
+  "topics": [
+    "skolman",
+    "seminariet",
+    "släkt",
+    "Topelius",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Schalin",
+      "alternateNames": [],
+      "birthYear": 1854,
+      "deathYear": 1938,
+      "roles": [
+        "seminariedirektor",
+        "skolman",
+        "folkskolinspektor"
+      ]
+    },
+    {
+      "name": "Alma Schalin",
+      "alternateNames": [
+        "Alma Montin"
+      ],
+      "roles": [],
+      "description": "Gift med Zacharias."
+    },
+    {
+      "name": "Teodor Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Morbror."
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "John Ternstedt",
+      "alternateNames": [],
+      "roles": [
+        "teol.dr"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Seminariets direktorsbostad",
+      "kind": "building",
+      "alternateNames": [
+        "direktorsbostaden"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Zacharias Schalin är direktor för Nykarleby seminarium",
+      "date": {
+        "year": 1886,
+        "circa": false,
+        "text": "1886–1904"
+      },
+      "people": [
+        "Zacharias Schalin"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Schalin och Alma firar silverbröllop",
+      "date": {
+        "year": 1905,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Schalin",
+        "Alma Schalin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a413161b04aa1801bad238346382e8842759f23a10a6561a315c288eebface04",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

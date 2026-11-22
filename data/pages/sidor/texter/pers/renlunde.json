@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/renlunde.html",
+  "title": "Renlunds Erik",
+  "summary": "Porträtt av originalet Erik Renlund, som bodde i en röd stuga mellan Forsbacka och Isakas, odlade jordgubbar, jagade och spelade mandolin. Fotografen Leif Söderlund minns besöket i hans kök, med en pistol under bordet.",
+  "topics": [
+    "original",
+    "fotografi",
+    "Forsbacka",
+    "skärgård"
+  ],
+  "people": [
+    {
+      "name": "Erik Renlund",
+      "alternateNames": [
+        "Renlunds Erik"
+      ],
+      "birthYear": 1912,
+      "deathYear": 1996,
+      "roles": [
+        "jordgubbsodlare",
+        "jägare",
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerare"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Isakas",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Renlund föds",
+      "date": {
+        "year": 1912,
+        "month": 9,
+        "day": 30,
+        "circa": false
+      },
+      "people": [
+        "Erik Renlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Erik Renlund avlider",
+      "date": {
+        "year": 1996,
+        "month": 7,
+        "day": 7,
+        "circa": false
+      },
+      "people": [
+        "Erik Renlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ensamma originalet Erik, som bor i en inrökt stuga och en gång skjutit en tumlare ute i skärgården, visar fotografen sin \"livförsäkring\", en pistol fastsatt under köksbordet.",
+    "reason": "En färgstark figur med en rolig, lätt visualiserad detalj.",
+    "characters": [
+      "Erik Renlund",
+      "Leif Söderlund"
+    ],
+    "places": [
+      "Forsbacka",
+      "Isakas"
+    ]
+  },
+  "contentHash": "d43df98c9c98024ac630cea208658d0dc31d10bd00b4aa877abe20043defa7a8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

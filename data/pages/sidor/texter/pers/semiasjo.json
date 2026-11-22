@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/semiasjo.htm",
+  "title": "Seminarister på utfärd",
+  "summary": "Foto av Gunnar Granlund och seminaristkamrater på utfärd vid Andrasjön i slutet av 1920-talet. Bildtexten ger Granlunds senare lärarbana.",
+  "topics": [
+    "seminarister",
+    "fotografi",
+    "Andrasjön",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Granlund",
+      "alternateNames": [],
+      "birthYear": 1908,
+      "roles": [
+        "seminarist",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Aili Östman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med Gunnar."
+    },
+    {
+      "name": "Gunborg Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Barn; tillhandahöll bilden."
+    },
+    {
+      "name": "Bo-Erik Ganlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Barn; tillhandahöll bilden."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminaristerna på utfärd vid Andrasjön",
+      "date": {
+        "year": 1929,
+        "circa": true,
+        "text": "i slutet på 1920-talet"
+      },
+      "people": [
+        "Gunnar Granlund"
+      ],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bc8234ede0e3b37e222e20ec4801da6a2756337d05d2778a8de5b6f1b697da3b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

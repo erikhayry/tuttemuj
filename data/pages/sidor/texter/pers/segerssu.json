@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/segerssu.htm",
+  "title": "Selim Segerstam 1904–1963 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om sångläraren och tonsättaren Selim Segerstam från Soklot, känd för Vår sångbok. Sidan nämner ett minnesprogram i Ahlbecksalen 2004.",
+  "topics": [
+    "kompositör",
+    "sånglärare",
+    "körsång",
+    "Soklot",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Selim Segerstam",
+      "alternateNames": [
+        "Selim Johannes Segerstam"
+      ],
+      "birthYear": 1904,
+      "deathYear": 1963,
+      "roles": [
+        "sånglärare",
+        "kompositör",
+        "kördirigent"
+      ]
+    },
+    {
+      "name": "Viola Segerstam",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hustru."
+    },
+    {
+      "name": "Leif Segerstam",
+      "alternateNames": [],
+      "roles": [
+        "dirigent"
+      ],
+      "description": "Son."
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Ahlbecksalen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka teater",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Segerstam utexamineras från Nykarleby seminarium",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [
+        "Selim Segerstam"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Selim Segerstam avlider",
+      "date": {
+        "year": 1963,
+        "month": 10,
+        "day": 2,
+        "circa": false
+      },
+      "people": [
+        "Selim Segerstam"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hundraårsminne av Selim och Viola Segerstam med sång- och musikspel",
+      "date": {
+        "year": 2004,
+        "month": 7,
+        "circa": false
+      },
+      "people": [
+        "Selim Segerstam",
+        "Viola Segerstam",
+        "Leif Segerstam"
+      ],
+      "places": [
+        "Ahlbecksalen",
+        "Juthbacka teater"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6e8eadbfe75af4372e48c969f39f4e303d8d11f71bd98178479feb621741e11b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sundkvistn_sfv.html",
+  "title": "Minnesruna över Nils Sundkvist i Svenska Folkskolans vänners kalender (1988)",
+  "summary": "Minnesruna över skolföreståndaren Nils Sundkvist, som lärde i hembyn Soklot och skrev skolans 100-årshistorik. Runan lyfter fram hans engagerade undervisning, körsång och intresse för byns historia.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "Soklot",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Nils Sundkvist",
+      "alternateNames": [
+        "Nisse"
+      ],
+      "birthYear": 1917,
+      "deathYear": 1988,
+      "roles": [
+        "skolföreståndare",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesrunan."
+    },
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll runan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    },
+    {
+      "name": "Soklot skola",
+      "kind": "building",
+      "alternateNames": [
+        "Socklot skola"
+      ]
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Nils Sundkvist dimitteras från Nykarleby seminarium",
+      "date": {
+        "year": 1941,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Sundkvist går i pension",
+      "date": {
+        "year": 1977,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": [
+        "Soklot skola"
+      ]
+    },
+    {
+      "title": "Nils Sundkvist avlider",
+      "date": {
+        "year": 1988,
+        "month": 7,
+        "day": 3,
+        "circa": false
+      },
+      "people": [
+        "Nils Sundkvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6de978a878369bacd2f3605ac06b77506a166155c5d284db546ea8e3e5252564",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

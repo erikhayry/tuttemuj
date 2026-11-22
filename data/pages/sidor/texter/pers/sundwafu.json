@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sundwafu.htm",
+  "title": "Fredrik Sundwall 1843–1929",
+  "summary": "Uppslagsverksartikel om skolmannen Fredrik Sundwall, lektor och sedan direktor vid Nykarleby seminarium innan han blev direktor i Ekenäs. Han var också redaktör, läroboksförfattare och lantdagsman.",
+  "topics": [
+    "skolman",
+    "seminariet",
+    "folkskollärare",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Sundwall",
+      "alternateNames": [
+        "Fredrik Wilhelm Sundwall",
+        "F. W. Sundwall"
+      ],
+      "birthYear": 1843,
+      "deathYear": 1929,
+      "roles": [
+        "seminariedirektor",
+        "lektor",
+        "skolman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Sundwall blir lektor vid Nykarleby seminarium",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Sundwall"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Sundwall blir direktor för Nykarleby seminarium",
+      "date": {
+        "year": 1881,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Sundwall"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Sundwall blir direktor för Ekenäs seminarium",
+      "date": {
+        "year": 1886,
+        "circa": false
+      },
+      "people": [
+        "Fredrik Sundwall"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dd2a609ab6c2531b501830ece38f6ae441c20b642e62f9d11f6c9ffe2dd6f39a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

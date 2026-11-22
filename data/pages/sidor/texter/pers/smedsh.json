@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/smedsh.htm",
+  "title": "Helmer Smeds 1908–1967",
+  "summary": "Uppslagsverksartikel om geografen Helmer Smeds, som ledde verket Den Österbottniska byn, där Kovjoki och Soklot ingår.",
+  "topics": [
+    "geograf",
+    "kulturgeografi",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Helmer Smeds",
+      "alternateNames": [],
+      "birthYear": 1908,
+      "deathYear": 1967,
+      "roles": [
+        "geograf",
+        "professor",
+        "riksdagsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "7958606345544ae3bfa1032107faa3a57a19c0753d2f9961ff4becc8c1ab00a5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

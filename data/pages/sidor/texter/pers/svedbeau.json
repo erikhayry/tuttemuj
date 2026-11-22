@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/svedbeau.htm",
+  "title": "Anders Svedberg 1832–1889 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om läraren och tidningsmannen Anders Svedberg från Munsala, som grundade Österbottens första fasta folkskola 1862 och tidningen Österbotten. Hans skola är sedan 1977 skolmuseum.",
+  "topics": [
+    "folkskola",
+    "tidningsman",
+    "Munsala",
+    "skolmuseum",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Anders Svedberg",
+      "alternateNames": [],
+      "birthYear": 1832,
+      "deathYear": 1889,
+      "roles": [
+        "lärare",
+        "tidningsman",
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "A. Setterberg",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ],
+      "description": "Ritade skolan."
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev skådespelet En folkets man."
+    },
+    {
+      "name": "Hugo Svedberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sonson."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skolmuseet i Storsved",
+      "kind": "building",
+      "alternateNames": [
+        "Finlands svenska skolmuseum",
+        "Anders Svedbergs gamla folkskola"
+      ],
+      "description": "Svedbergs skola, skolmuseum sedan 1977."
+    },
+    {
+      "name": "Storsved",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Svedberg blir lärare vid ambulatoriska folkskolan",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "people": [
+        "Anders Svedberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Svedberg grundar en fast folkskola i Munsala",
+      "date": {
+        "year": 1862,
+        "circa": false
+      },
+      "people": [
+        "Anders Svedberg"
+      ],
+      "places": [
+        "Skolmuseet i Storsved"
+      ]
+    },
+    {
+      "title": "Svedberg är redaktör för Österbotten",
+      "date": {
+        "year": 1861,
+        "circa": false,
+        "text": "1861–78"
+      },
+      "people": [
+        "Anders Svedberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Skådespelet En folkets man spelas vid skolmuseet",
+      "date": {
+        "year": 2001,
+        "circa": false
+      },
+      "people": [
+        "Anders Svedberg",
+        "Lars Huldén"
+      ],
+      "places": [
+        "Skolmuseet i Storsved"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d098f460b39bf478380f7aa74848bbd468715e12c3bab34ebe7f081b7dfa5d03",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

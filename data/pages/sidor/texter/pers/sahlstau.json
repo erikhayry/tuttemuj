@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/sahlstau.htm",
+  "title": "Anna-Lisa Sahlström 1942",
+  "summary": "Uppslagsverksartikel om journalisten och författaren Anna-Lisa Sahlström, kulturredaktör vid Vasabladet. Sidan listar hennes böcker och länkar till hennes översättning och sidor om Lippjärv.",
+  "topics": [
+    "journalist",
+    "författare",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Anna-Lisa Sahlström",
+      "alternateNames": [],
+      "birthYear": 1942,
+      "roles": [
+        "journalist",
+        "författare",
+        "kulturredaktör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Där Sahlström bor.",
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sahlström debuterar med Arbetarstaden",
+      "date": {
+        "year": 1975,
+        "circa": false
+      },
+      "people": [
+        "Anna-Lisa Sahlström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d5f5df8e17b92e7bdd05949825933b7e2513855348ce407486dc092ed28d57ed",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

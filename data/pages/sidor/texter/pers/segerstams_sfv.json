@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/segerstams_sfv.html",
+  "title": "Minnesruna över Selim Segerstam i Folkskolans vänners kalender (1964)",
+  "summary": "Minnesruna över sångläraren och tonsättaren Selim Segerstam, som utvecklade sina musikaliska anlag vid Nykarleby seminarium och gav ut Vår sångbok.",
+  "topics": [
+    "minnesruna",
+    "musik",
+    "kompositör",
+    "sångbok"
+  ],
+  "people": [
+    {
+      "name": "Selim Segerstam",
+      "alternateNames": [],
+      "roles": [
+        "sånglärare",
+        "kompositör"
+      ]
+    },
+    {
+      "name": "Gunnar Vikström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ],
+      "description": "Vägledde Segerstam vid seminariet."
+    },
+    {
+      "name": "Erik Furuhjelm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Segerstams kompositionslärare."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Selim Segerstam avlider plötsligt",
+      "date": {
+        "year": 1963,
+        "month": 10,
+        "circa": false
+      },
+      "people": [
+        "Selim Segerstam"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ded62559e8af1c29dcd42114f62dc71d7e13dc398db37e4a9a4d895d42de7f3a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

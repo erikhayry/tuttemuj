@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalidb.htm",
+  "title": "Familjen Schalin utanför direktorsbostaden omkring 1902",
+  "summary": "Fotografi av familjen Zacharias Schalin framför seminariets direktorsbostad, där Topelius 90-åriga syster Sofi är på besök. Bildtexten namnger varje person i kärran och framför huset.",
+  "topics": [
+    "fotografi",
+    "seminariet",
+    "släkt",
+    "Topelius"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Schalin",
+      "alternateNames": [
+        "Zachris"
+      ],
+      "roles": [
+        "seminariedirektor"
+      ]
+    },
+    {
+      "name": "Alma Schalin",
+      "alternateNames": [
+        "Alma Helena Montin"
+      ],
+      "roles": [],
+      "description": "Zacharias hustru."
+    },
+    {
+      "name": "Sofi Topelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skaldens syster; på besök som 90-åring."
+    },
+    {
+      "name": "Mirjam Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotter."
+    },
+    {
+      "name": "Sigmund Schalin",
+      "alternateNames": [
+        "Sim"
+      ],
+      "roles": [],
+      "description": "Son."
+    },
+    {
+      "name": "Olav Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son."
+    },
+    {
+      "name": "Sundberg",
+      "alternateNames": [],
+      "roles": [
+        "kusk"
+      ]
+    },
+    {
+      "name": "John Ternstedt",
+      "alternateNames": [],
+      "roles": [
+        "teol.dr"
+      ]
+    },
+    {
+      "name": "Mikael Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariets direktorsbostad",
+      "kind": "building",
+      "alternateNames": [
+        "direktorsbostaden"
+      ]
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sofi Topelius besöker Nykarleby som 90-åring",
+      "date": {
+        "year": 1902,
+        "circa": true,
+        "text": "omkring 1902"
+      },
+      "people": [
+        "Sofi Topelius",
+        "Zacharias Schalin"
+      ],
+      "places": [
+        "Seminariets direktorsbostad"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "73ecd14552173b0195c06256a6e16bba336e3254338c4bad50170b97efd4af14",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/svedlitu.htm",
+  "title": "Thure Svedlin 1891–1959",
+  "summary": "Uppslagsverksartikel om förlagschefen Thure Svedlin, född i Nykarleby, som verkade för jägar- och skyddskårsrörelserna och ledde Schildts förlag. Sidan länkar bland annat till hans donation till statyn Flora.",
+  "topics": [
+    "förlagschef",
+    "skyddskåren",
+    "jägarrörelsen",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Thure Svedlin",
+      "alternateNames": [
+        "Thure William Svedlin"
+      ],
+      "birthYear": 1891,
+      "deathYear": 1959,
+      "roles": [
+        "förlagschef",
+        "fil.mag."
+      ]
+    },
+    {
+      "name": "Isak Svedlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fadern."
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Florastatyn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Flora"
+      ],
+      "description": "Svedlin donerade medel till statyn."
+    }
+  ],
+  "events": [
+    {
+      "title": "Svedlin börjar vid Holger Schildts förlag",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "people": [
+        "Thure Svedlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Svedlin blir VD för Schildts förlag",
+      "date": {
+        "year": 1931,
+        "circa": false
+      },
+      "people": [
+        "Thure Svedlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Svedlin lägger ner en krans vid R. R. Eklunds begravning",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [
+        "Thure Svedlin",
+        "R. R. Eklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ed92d0bf4c4084660f4bf063e7a7b3a238239bee7090252019ce41055eeb4802",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

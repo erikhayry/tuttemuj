@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/rundtju.htm",
+  "title": "Joel Rundt 1879–1971 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om författaren Joel Rundt från Kovjoki, vars dikt skildrar det österbottniska landskapet. Sidan visar även hans minnesrum på Kovjoki Museigård och en bronsbyst vid Nykarleby kyrka.",
+  "topics": [
+    "författare",
+    "lyrik",
+    "Kovjoki",
+    "Uppslagsverket Finland"
+  ],
+  "people": [
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [
+        "Anders Joel Rundt"
+      ],
+      "birthYear": 1879,
+      "deathYear": 1971,
+      "roles": [
+        "författare",
+        "folkbildare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "T. Helenelund",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki Museigård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här finns Joel Rundts minnesrum."
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Rundt debuterar med diktsamlingen Ödemark",
+      "date": {
+        "year": 1912,
+        "circa": false
+      },
+      "people": [
+        "Joel Rundt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Bronsbyst av Rundt reses invid Nykarleby kyrka",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "people": [
+        "Joel Rundt",
+        "T. Helenelund"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8ff055114e022cbeb2be0d088cf34486f09b8e8f5943daa4d621c424c17dc2ee",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}

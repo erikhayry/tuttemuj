@@ -1,0 +1,142 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/reipsare.html",
+  "title": "Minnesruna över Erik Reipsar i Jakobstads Tidning 1975",
+  "summary": "Minnesruna över Erik Reipsar, lärare i slöjd och teckning och föreståndare för skolan, känd för sina tennsmycken och filmer för skol-TV. Sidan har bilder av hans tennfjärilar och minnen från hans dödsdag.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "konsthantverk",
+    "Normen"
+  ],
+  "people": [
+    {
+      "name": "Erik Reipsar",
+      "alternateNames": [],
+      "birthYear": 1938,
+      "deathYear": 1975,
+      "roles": [
+        "skolföreståndare",
+        "lektor",
+        "konsthantverkare"
+      ]
+    },
+    {
+      "name": "Irja Reipsar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hustru."
+    },
+    {
+      "name": "Peter Reipsar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son, tillhandahöll bilderna."
+    },
+    {
+      "name": "Eva Sundstén",
+      "alternateNames": [],
+      "roles": [
+        "vice skolföreståndare"
+      ],
+      "description": "Efterträdde Reipsar."
+    },
+    {
+      "name": "John Fors",
+      "alternateNames": [],
+      "roles": [
+        "föreståndare"
+      ],
+      "description": "Föreståndare fram till 1970."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby folkskoleseminarium"
+      ]
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Platsen för den triangelformade kojan som Reipsar tog initiativ till."
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Reipsar föds i Gamlakarleby",
+      "date": {
+        "year": 1938,
+        "month": 4,
+        "day": 3,
+        "circa": false
+      },
+      "people": [
+        "Erik Reipsar"
+      ],
+      "places": []
+    },
+    {
+      "title": "Reipsar blir lektor i teckning och manlig slöjd vid seminariet",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [
+        "Erik Reipsar"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Reipsar blir föreståndare för skolan",
+      "date": {
+        "year": 1972,
+        "circa": false
+      },
+      "people": [
+        "Erik Reipsar"
+      ],
+      "places": []
+    },
+    {
+      "title": "Erik Reipsar avlider på väg till sjukhus",
+      "date": {
+        "year": 1975,
+        "month": 2,
+        "day": 28,
+        "circa": false
+      },
+      "people": [
+        "Erik Reipsar"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7464b267ac96a1d9629217456f7e78d2a36d1f76a98ea66208c33c214785fee6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:22:55.374Z"
+}
