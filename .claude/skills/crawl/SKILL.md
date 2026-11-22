@@ -1,4 +1,5 @@
 ---
+
 name: crawl
 description: Run the nightly crawl now, exactly as the scheduled launchd job does (pull, crawl the next batch, commit and push data/). Use when the user asks to crawl, run the nightly job or fetch more pages now, e.g. "/crawl".
 ---
@@ -27,9 +28,11 @@ A run takes about 2.5–3 hours (1000 pages × 5 s pause plus fetch time). Don't
 2. **Note where the log ends**, so you can show only this run's output: `wc -c < .cache/nightly.log` (use 0 if the file is missing).
 3. **Start the job:** `launchctl kickstart gui/$(id -u)/tuttemuj.crawl`
 4. **Wait without polling in the foreground.** Run this in the background (`run_in_background`). You'll be notified when it exits:
+
    ```sh
    sleep 5; until launchctl print gui/$(id -u)/tuttemuj.crawl | grep -q 'state = not running'; do sleep 30; done; tail -c +$((OFFSET+1)) .cache/nightly.log | tail -n 40
    ```
+
    Tell the user the crawl has started and roughly how long it takes. Never report results before the background command has finished.
 5. **Report** once it's done:
    - The new line in `data/runs.jsonl`: fetched, failed, gone, new URLs, pending.

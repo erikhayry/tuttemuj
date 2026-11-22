@@ -8,15 +8,15 @@ Answer "what happened here?" and other history questions for a person walking ar
 
 ## Where we are (2026-11-15)
 
-| Data | Count |
-| --- | --- |
-| Pages analysed (`data/pages`) | 311 of ~8,400 known URLs |
-| People mentioned | 1,523 |
-| Events | 846 |
-| Place mentions | 1,667, of which 452 (27%) have coordinates |
-| Gazetteer names | 1,227, of which 327 have coordinates |
+| Data                                    | Count                                                        |
+| --------------------------------------- | ------------------------------------------------------------ |
+| Pages analysed (`data/pages`)           | 311 of ~8,400 known URLs                                     |
+| People mentioned                        | 1,523                                                        |
+| Events                                  | 846                                                          |
+| Place mentions                          | 1,667, of which 452 (27%) have coordinates                   |
+| Gazetteer names                         | 1,227, of which 327 have coordinates                         |
 | Gazetteer names waiting for coordinates | 670 added by hand, 23 geocoder fallbacks, 1 outside the area |
-| Comic candidates | 37 |
+| Comic candidates                        | 37                                                           |
 
 The crawl adds about 1000 pages a night (about 8 more nights). Analysis is manual and slower. **Phase 2 does not wait for the crawl to finish.** It is built on what exists and loads new pages as they come.
 
