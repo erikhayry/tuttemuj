@@ -3,15 +3,25 @@ import { PlaceGeo } from "./gazetteer.ts";
 import { PlaceKind } from "./place-kind.ts";
 import { SourceUrl } from "./source.ts";
 
-/** A date as precise as the source allows, e.g. "ca 1850", "maj 1918". */
-export const HistoricalDate = z.object({
-  year: z.int(),
-  month: z.int().min(1).max(12).optional(),
-  day: z.int().min(1).max(31).optional(),
-  circa: z.boolean().default(false),
-  /** Original wording from the source. */
-  text: z.string().optional(),
-});
+/**
+ * A date as precise as the source allows, e.g. "ca 1850", "maj 1918".
+ * A span ("1873–1971", "1830-talet", "1600-talet") has `year` as its start and `endYear` as its end.
+ */
+export const HistoricalDate = z
+  .object({
+    year: z.int(),
+    month: z.int().min(1).max(12).optional(),
+    day: z.int().min(1).max(31).optional(),
+    /** Last year of a span. Only set when the source states a span. */
+    endYear: z.int().optional(),
+    circa: z.boolean().default(false),
+    /** Original wording from the source. */
+    text: z.string().optional(),
+  })
+  .refine((d) => d.endYear === undefined || d.endYear > d.year, {
+    message: "endYear must be after year",
+    path: ["endYear"],
+  });
 export type HistoricalDate = z.infer<typeof HistoricalDate>;
 
 export const PersonMention = z.object({

@@ -9,6 +9,7 @@
     "crawl": "tsx src/cli/crawl.ts",
     "images:backfill": "tsx src/cli/images-backfill.ts",
     "gazetteer:build": "tsx src/cli/gazetteer-build.ts",
+    "dates:backfill": "tsx src/cli/dates-backfill.ts",
     "entities:build": "tsx src/cli/entities-build.ts",
     "places:geocode": "tsx src/cli/places-geocode.ts",
     "places:unlocated": "tsx src/cli/places-unlocated.ts",

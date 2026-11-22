@@ -49,6 +49,7 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
   - `year` is required.
   - Set `circa: true` for "omkring", "ca" and similar.
   - Put the original wording in `date.text`.
+  - For a span the page states ("1873–1971", "på 1830-talet", "1600-talet"), put the first year in `year` and the last in `endYear`. A decade is 1830–1839 and a century 1800–1899. Leave `endYear` out for a single year, and when the page only says "början av 1830-talet" or similar, since that is not the whole decade.
   - `people` and `places` reference names used in the lists above.
 
 - `comicCandidate`: **always set it**: `null`, or an object if the page tells a story that could become a comic. The user turns local stories into comics in another project.
