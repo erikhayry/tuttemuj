@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hemming.htm",
+  "title": "Biskop Hemming",
+  "summary": "Uppslagsverksartikel om Hemming, biskop i Åbo under medeltiden, som stärkte kyrkans ställning, inrättade domprosteämbetet och skrev Finlands första kända synodalordning. Han var vän med den heliga Birgitta och dyrkades som helgon efter sin död.",
+  "topics": [
+    "biskop",
+    "medeltiden",
+    "kyrka",
+    "Åbo",
+    "helgon"
+  ],
+  "people": [
+    {
+      "name": "Hemming",
+      "alternateNames": [
+        "Biskop Hemming"
+      ],
+      "deathYear": 1366,
+      "roles": [
+        "biskop i Åbo"
+      ],
+      "description": "Rubriken anger ca 1230–1366, medan texten säger att han föddes ca 1290 i Bälinge socken i Uppland."
+    },
+    {
+      "name": "Birgitta",
+      "alternateNames": [
+        "den heliga Birgitta"
+      ],
+      "roles": [],
+      "description": "Hemmings vän."
+    },
+    {
+      "name": "Magnus Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Förde ett misslyckat krig mot Ryssland 1348–51."
+    },
+    {
+      "name": "Clemens VI",
+      "alternateNames": [],
+      "roles": [
+        "påve"
+      ]
+    },
+    {
+      "name": "B. Klockars",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev boken Biskop H. av Åbo (1960)."
+    },
+    {
+      "name": "Ivar Heikel",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans mor hade en relik av Hemming."
+    }
+  ],
+  "places": [
+    {
+      "name": "Åbo",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Bälinge socken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Socken i Uppland."
+    }
+  ],
+  "events": [
+    {
+      "title": "Hemming avled i Åbo",
+      "date": {
+        "year": 1366,
+        "month": 5,
+        "day": 21,
+        "circa": false,
+        "text": "21/5 1366"
+      },
+      "people": [
+        "Hemming"
+      ],
+      "places": [
+        "Åbo"
+      ]
+    },
+    {
+      "title": "Hemming blev biskop i Åbo",
+      "date": {
+        "year": 1338,
+        "circa": false,
+        "text": "från 1338"
+      },
+      "people": [
+        "Hemming"
+      ],
+      "places": [
+        "Åbo"
+      ]
+    },
+    {
+      "title": "Domprosteämbetet inrättades i Åbo",
+      "date": {
+        "year": 1340,
+        "circa": false,
+        "text": "1340"
+      },
+      "people": [
+        "Hemming"
+      ],
+      "places": [
+        "Åbo"
+      ]
+    },
+    {
+      "title": "Finlands första kända synodalordning utarbetades",
+      "date": {
+        "year": 1352,
+        "circa": false,
+        "text": "1352"
+      },
+      "people": [
+        "Hemming"
+      ],
+      "places": []
+    },
+    {
+      "title": "Finland fick samma rättigheter som övriga svenska landskap",
+      "date": {
+        "year": 1362,
+        "circa": false,
+        "text": "1362"
+      },
+      "people": [
+        "Hemming"
+      ],
+      "places": []
+    },
+    {
+      "title": "Magnus Erikssons krig mot Ryssland",
+      "date": {
+        "year": 1348,
+        "circa": false,
+        "text": "1348—51"
+      },
+      "people": [
+        "Magnus Eriksson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hemming saligförklarades",
+      "date": {
+        "year": 1514,
+        "circa": false,
+        "text": "1514"
+      },
+      "people": [
+        "Hemming"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5c699b81d248e3a2b8c3181efbfb9d2bfb1d48a60c559336c343239d4fc9a14d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

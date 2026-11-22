@@ -1,0 +1,167 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/jernstrom_a37.html",
+  "title": "Minnesruna över Arne Jernström, Oskar Wilkmans 50-årsfirande och Folkhälsans kolonibygge i Österbottniska Posten 1937",
+  "summary": "Tre notiser ur Österbottniska Posten 1937: en minnesruna över Arne Jernström, lektor i teckning och slöjd vid Nykarleby seminarium och porträttmålare, en hyllning till stadsdirektör Oskar Wilkman på 50-årsdagen och en notis om byggstarten för Folkhälsans kolonigård i Vexala.",
+  "topics": [
+    "minnesruna",
+    "lektor",
+    "konst",
+    "hyllning",
+    "Folkhälsan",
+    "kolonibygge"
+  ],
+  "people": [
+    {
+      "name": "Arne Jernström",
+      "alternateNames": [
+        "Lars Arne Jernström"
+      ],
+      "birthYear": 1879,
+      "deathYear": 1937,
+      "roles": [
+        "lektor i teckning, välskrivning och slöjd vid Nykarleby seminarium",
+        "målare",
+        "porträttmålare"
+      ]
+    },
+    {
+      "name": "Oskar Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ],
+      "description": "Hyllades på sin 50-årsdag."
+    },
+    {
+      "name": "Joel Holm",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare från Jakobstad",
+        "kontrollör för Folkhälsan"
+      ]
+    },
+    {
+      "name": "John Nylund",
+      "alternateNames": [],
+      "roles": [
+        "affärsman i Helsingfors"
+      ],
+      "description": "Före detta Nykarlebybo som donerade 20 000 mk till kolonibygget."
+    },
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Arne Jernström i en länkad text."
+    },
+    {
+      "name": "Ture Granqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Kolonin."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby stadsbibliotek",
+      "kind": "building",
+      "alternateNames": [
+        "stadsbiblioteket"
+      ]
+    },
+    {
+      "name": "Folkhälsans kolonigård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kolonigård i Vexala där byggarbetena inleddes 1937."
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Viborg",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Arne Jernström föddes i Viborg",
+      "date": {
+        "year": 1879,
+        "circa": false,
+        "text": "född i Viborg 1879"
+      },
+      "people": [
+        "Arne Jernström"
+      ],
+      "places": [
+        "Viborg"
+      ]
+    },
+    {
+      "title": "Jernström tillträdde tjänsten vid Nykarleby seminarium",
+      "date": {
+        "year": 1922,
+        "month": 2,
+        "day": 1,
+        "circa": false,
+        "text": "den 1 februari 1922"
+      },
+      "people": [
+        "Arne Jernström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Arne Jernström avled i Nykarleby",
+      "date": {
+        "year": 1937,
+        "month": 9,
+        "day": 18,
+        "circa": false,
+        "text": "Natten mot den 18 dennes [september 1937]"
+      },
+      "people": [
+        "Arne Jernström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Arbetena på Folkhälsans kolonigård i Vexala inleddes",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "1937"
+      },
+      "people": [
+        "Joel Holm"
+      ],
+      "places": [
+        "Folkhälsans kolonigård",
+        "Vexala"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "08fc38663402b4b02ff201c3e279be75a964d8dd7ea568ef46b1e271b80f7fd0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

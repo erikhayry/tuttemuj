@@ -1,0 +1,148 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/laurell_kaarle.html",
+  "title": "Kaarle Laurell 1881–1933 i Österbottniska Posten",
+  "summary": "Dödsruna över veterinären Kaarle Laurell, som dog hastigt av hjärtförlamning under en motorbåtsfärd till Jakobstad för att besöka sin maka på barnbördshuset. Texten berättar också att han under ryska tidens sista skede fördes fängslad till Vasa och Petersburg.",
+  "topics": [
+    "dödsruna",
+    "veterinär",
+    "jägarrörelsen",
+    "fängelse",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "Kaarle Laurell",
+      "alternateNames": [
+        "K. Laurell"
+      ],
+      "birthYear": 1881,
+      "roles": [
+        "veterinär",
+        "viceordförande i stadens drätselkammare",
+        "ledamot i stadsfullmäktige och hälsovårdsnämnden"
+      ],
+      "description": "Rubriken anger 1881–1933, men dödsrunan är daterad 26.06.1920 och anger att han blev 39 år, så dödsåret utelämnas här."
+    },
+    {
+      "name": "Josef S. Laurell",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ],
+      "description": "Kaarles far, som också dog hastigt, under en färd till ett sjukbesök i Lappfjärd."
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Därifrån avreste Laurell med motorbåt kl. 2 på natten.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Där båten rastade."
+    },
+    {
+      "name": "Barnbördshuset i Jakobstad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nystad",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Uleåborgs finska lyceum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Petersburg",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Lappfjärd",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kaarle Laurell föddes i Nystad",
+      "date": {
+        "year": 1881,
+        "month": 7,
+        "day": 26,
+        "circa": false,
+        "text": "den 26 juli 1881"
+      },
+      "people": [
+        "Kaarle Laurell"
+      ],
+      "places": [
+        "Nystad"
+      ]
+    },
+    {
+      "title": "Laurell avled under motorbåtsfärden till Jakobstad",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "natten till den 22 d:s (artikel 26.06.1920)"
+      },
+      "people": [
+        "Kaarle Laurell"
+      ],
+      "places": [
+        "Andra sjön",
+        "Aspskär",
+        "Jakobstad"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Mitt i natten lägger en veterinär ut med motorbåt från Andra sjön för att hinna besöka sin hustru på barnbördshuset i Jakobstad. På vägen vilar han i kajutan, men när båten lägger till kan ingen väcka honom.",
+    "reason": "En kort men gripande nattlig färd med ett oväntat och sorgligt slut.",
+    "characters": [
+      "Kaarle Laurell"
+    ],
+    "places": [
+      "Andra sjön",
+      "Aspskär",
+      "Jakobstad"
+    ]
+  },
+  "contentHash": "14a73426dc8db1f493f24d606052a047a2307e1dbc9181cdcfffccfbda6ac57b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

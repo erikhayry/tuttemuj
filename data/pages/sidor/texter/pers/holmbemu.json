@@ -1,0 +1,136 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/holmbemu.htm",
+  "title": "Mårten Holmberg 1854–1932",
+  "summary": "Uppslagsverksartikel om skolmannen Mårten Holmberg, som gick Nykarleby seminarium och blev folkskollärare i Helsingfors. Han var en framträdande gestalt i arbetarrörelsen och grundade lärarföreningar; även sonen Håkan Holmberg presenteras.",
+  "topics": [
+    "folkskollärare",
+    "arbetarrörelsen",
+    "lärarföreningar",
+    "Nykarleby seminarium",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Mårten Holmberg",
+      "alternateNames": [
+        "Mårten Henriksson Holmberg"
+      ],
+      "birthYear": 1854,
+      "deathYear": 1932,
+      "roles": [
+        "skolman",
+        "fil.kand.",
+        "folkskollärare i Helsingfors"
+      ]
+    },
+    {
+      "name": "Håkan Holmberg",
+      "alternateNames": [],
+      "birthYear": 1898,
+      "deathYear": 1976,
+      "roles": [
+        "ämbetsman",
+        "jur.lic.",
+        "genealog",
+        "chef för statsrådets translatorsbyrå"
+      ],
+      "description": "Mårten Holmbergs son; skrev faderns biografi och en matrikel över Finlands häradshövdingar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vörå",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": [
+        "Hfrs"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Mårten Holmberg föddes i Vörå",
+      "date": {
+        "year": 1854,
+        "month": 8,
+        "day": 13,
+        "circa": false,
+        "text": "13/8 1854"
+      },
+      "people": [
+        "Mårten Holmberg"
+      ],
+      "places": [
+        "Vörå"
+      ]
+    },
+    {
+      "title": "Holmberg var folkskollärare i Helsingfors",
+      "date": {
+        "year": 1877,
+        "circa": false,
+        "text": "1877—1927"
+      },
+      "people": [
+        "Mårten Holmberg"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    },
+    {
+      "title": "Holmberg medverkade till att stifta Finlands folkskollärare- och lärarinneförening",
+      "date": {
+        "year": 1893,
+        "circa": false,
+        "text": "1893"
+      },
+      "people": [
+        "Mårten Holmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Holmberg grundade Finlands svenska allmänna folkskollärarförening",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "1900"
+      },
+      "people": [
+        "Mårten Holmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Mårten Holmberg avled i Helsingfors",
+      "date": {
+        "year": 1932,
+        "month": 4,
+        "day": 30,
+        "circa": false,
+        "text": "30/4 1932"
+      },
+      "people": [
+        "Mårten Holmberg"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "83ca0a1ebc238c04889d4995d93fd38d902fb7926fdb59feece6cc481aeb78b1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

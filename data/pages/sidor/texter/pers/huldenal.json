@@ -1,0 +1,184 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/huldenal.htm",
+  "title": "Alfred Huldén 1888–1970",
+  "summary": "Biografi över skolmannen och författaren Alfred Huldén, lektor i historia och pedagogik vid Nykarleby seminarium, med en presentation av honom som riksdagskandidat 1945. Sidan nämner hans skrifter om byalag och var han bodde.",
+  "topics": [
+    "lektor",
+    "författare",
+    "riksdagskandidat",
+    "byalag",
+    "Nykarleby seminarium"
+  ],
+  "people": [
+    {
+      "name": "Alfred Huldén",
+      "alternateNames": [],
+      "birthYear": 1888,
+      "deathYear": 1970,
+      "roles": [
+        "skolman",
+        "författare",
+        "lektor i historia och pedagogik",
+        "ordförande för Svenska folkpartiets lokalavdelning i Nykarleby",
+        "viceordförande i stadsfullmäktige",
+        "riksdagskandidat"
+      ]
+    },
+    {
+      "name": "Evert Huldén",
+      "alternateNames": [
+        "Evert H."
+      ],
+      "roles": [],
+      "description": "Alfred Huldéns bror."
+    },
+    {
+      "name": "Gustav Häggblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägare till gården där Huldén bodde."
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Lämnade uppgifterna i februari 2003."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Häggbloms gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Huldén bodde här vid Rummelbacken."
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan 19",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Sollefteågatan 19",
+      "description": "Hulden bodde här."
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hirvlax",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Alfred Huldén föddes i Munsala",
+      "date": {
+        "year": 1888,
+        "month": 4,
+        "day": 14,
+        "circa": false,
+        "text": "14/4 1888"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": [
+        "Munsala"
+      ]
+    },
+    {
+      "title": "Huldén utgav Självstyrelse inom byalagen i Nykarleby och Munsala efter 1742",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "1928"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Huldén utgav Några österbottniska byordningar",
+      "date": {
+        "year": 1932,
+        "circa": false,
+        "text": "1932"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Huldén presenterades som riksdagskandidat för Nykarlebynejden",
+      "date": {
+        "year": 1945,
+        "circa": false,
+        "text": "mars 1945"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Alfred Huldén avled i Munsala",
+      "date": {
+        "year": 1970,
+        "month": 2,
+        "day": 8,
+        "circa": false,
+        "text": "8/2 1970"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": [
+        "Munsala"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "06282ead2c487269ffbb75eb329d378e842cce3c5be7ca3621980f7b568f3351",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

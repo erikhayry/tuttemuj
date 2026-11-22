@@ -1,0 +1,208 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/holmbergo_sfv.html",
+  "title": "Minnesruna över Otto G. Holmberg i Svenska Folkskolans vänners kalender (1957)",
+  "summary": "Minnesruna över överläraren Otto G. Holmberg från Nagu, som under decennier undervisade vid Nykarleby seminariums övningsskola och utbildade nära tusen folkskollärare. Han beskrivs som anspråkslös, med en stilla humor och en särskild förmåga att undervisa i räkning, naturlära och biologi.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "Nykarleby seminarium",
+    "övningsskolan",
+    "lärarutbildning"
+  ],
+  "people": [
+    {
+      "name": "Otto G. Holmberg",
+      "alternateNames": [
+        "Otto Georg Holmberg",
+        "Otto G."
+      ],
+      "birthYear": 1889,
+      "deathYear": 1956,
+      "roles": [
+        "överlärare vid seminariets övningsskola",
+        "lärare",
+        "timlärare i biologi vid Nykarleby mellanskola",
+        "observatör vid arméns meteorologiska station"
+      ]
+    },
+    {
+      "name": "A. Diesterweg",
+      "alternateNames": [],
+      "roles": [
+        "tysk seminarie- och skolman"
+      ],
+      "description": "Hans sats citeras som motto."
+    },
+    {
+      "name": "Johannes Åbonde",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesrunan i Svenska Folkskolans vänners kalender (1957)."
+    },
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll materialet."
+    },
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Holmberg i en länkad källa."
+    },
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Elevmatrikel i Nykarleby folkskolseminarium 1873–1957."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminariums övningsskola",
+      "kind": "building",
+      "alternateNames": [
+        "övningsskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby mellanskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nagu",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Iniö",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Otto G. Holmberg föddes i Nagu",
+      "date": {
+        "year": 1889,
+        "month": 9,
+        "day": 21,
+        "circa": false,
+        "text": "21 september 1889"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": [
+        "Nagu"
+      ]
+    },
+    {
+      "title": "Holmberg dimitterades från seminariet och blev lärare i Iniö",
+      "date": {
+        "year": 1912,
+        "circa": false,
+        "text": "1912"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": [
+        "Iniö"
+      ]
+    },
+    {
+      "title": "Holmberg knöts till övningsskolan vid Nykarleby seminarium",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": [
+        "Nykarleby seminariums övningsskola"
+      ]
+    },
+    {
+      "title": "Holmberg förordnades till t.f. överlärare",
+      "date": {
+        "year": 1943,
+        "circa": false,
+        "text": "År 1943"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Holmberg mottog riddartecknet av Finlands vita ros' orden",
+      "date": {
+        "year": 1949,
+        "circa": false,
+        "text": "år 1949"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Holmberg erhöll pension",
+      "date": {
+        "year": 1956,
+        "month": 8,
+        "day": 1,
+        "circa": false,
+        "text": "Den 1 augusti 1956"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Otto G. Holmberg avled",
+      "date": {
+        "year": 1956,
+        "month": 12,
+        "day": 21,
+        "circa": false,
+        "text": "den 21 december 1956"
+      },
+      "people": [
+        "Otto G. Holmberg"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "60868dd266f441fbdbb84d361cd7042ab0db1e6a6843746e2ec688afc423d81a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

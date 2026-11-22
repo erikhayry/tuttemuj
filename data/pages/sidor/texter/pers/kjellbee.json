@@ -1,0 +1,148 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellbee.htm",
+  "title": "Emil Kjellberg 1873–1945",
+  "summary": "Matrikeluppgifter om Emil Kjellberg, som var lärare i Kovjoki i 41 år och ordförande i flera kommunala nämnder i Nykarleby landskommun. Sidan länkar till flera artiklar om honom, bland annat om Sångfesten 1928 och Kovjoki ungdomsförening.",
+  "topics": [
+    "seminariematrikel",
+    "lärare",
+    "Kovjoki",
+    "kommunalpolitik",
+    "ungdomsförening"
+  ],
+  "people": [
+    {
+      "name": "Emil Kjellberg",
+      "alternateNames": [
+        "Emil Alexander Kjellberg"
+      ],
+      "birthYear": 1873,
+      "roles": [
+        "lärare i Kovjoki",
+        "ordförande i kommunalfullmäktige",
+        "körledare vid Sångfesten 1928",
+        "ordförande för Kovjoki ungdoms- och nykterhetsförening"
+      ],
+      "description": "Rubriken anger 1873–1945, men texten anger dödsdatum 15.2.1946, så dödsåret utelämnas här."
+    },
+    {
+      "name": "Senna Josefina Öhman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med Emil Kjellberg 1900."
+    },
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Nykarleby folkskolseminarium. Matrikel 1873–1957 (1958)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki ungdoms- och nykterhetsförening",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Förening, ibland kallad Kovjoki ungdomsförening."
+    },
+    {
+      "name": "Kjellbergs villa",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Korsholm",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby landskommun",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Emil Kjellberg föddes i Korsholm",
+      "date": {
+        "year": 1873,
+        "month": 9,
+        "day": 11,
+        "circa": false,
+        "text": "11.9 1873"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": [
+        "Korsholm"
+      ]
+    },
+    {
+      "title": "Kjellberg dimitterades",
+      "date": {
+        "year": 1899,
+        "circa": false,
+        "text": "1899"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Emil Kjellberg gifte sig med Senna Josefina Öhman",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "1900"
+      },
+      "people": [
+        "Emil Kjellberg",
+        "Senna Josefina Öhman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kjellberg gick i pension",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "Pension 1940"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kjellberg var körledare vid Sångfesten",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "Sångfesten 1928"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "36f3a455e631a0aefa16428cc46fc44ea46c136b2d1ea6fd5bd62842bd94f4e1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/lauren_georg.html",
+  "title": "Georg Laurén 60 år i Österbottniska Posten 1923",
+  "summary": "Kort hyllningsnotis ur Österbottniska Posten 1923 till prosten Georg Laurén i Lappfjärd på hans 60-årsdag. Han var i början av 1890-talet kyrkoherde i Nykarleby, undervisade i religion vid fruntimmersskolan och var aktiv i nykterhetsrörelsen. Sidans rubrik, Erik Ågren, stämmer inte med innehållet.",
+  "topics": [
+    "hyllning",
+    "präst",
+    "nykterhetsrörelsen",
+    "kyrkoherde",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "Georg Laurén",
+      "alternateNames": [],
+      "roles": [
+        "prost i Lappfjärd",
+        "kyrkoherde i Nykarleby",
+        "ordförande för Södra Österbottens nykterhetskrets",
+        "ledamot i E. S. N:s centralstyrelse"
+      ],
+      "description": "Fyllde 60 år den 12:e i månaden enligt notisen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby fruntimmersskola",
+      "kind": "building",
+      "alternateNames": [
+        "fruntimmersskolan"
+      ],
+      "description": "Laurén undervisade i religion här."
+    },
+    {
+      "name": "Lappfjärd",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Georg Laurén fyllde 60 år",
+      "date": {
+        "year": 1923,
+        "month": 8,
+        "day": 12,
+        "circa": false,
+        "text": "den 12 dennes (artikel 17.08.1923)"
+      },
+      "people": [
+        "Georg Laurén"
+      ],
+      "places": [
+        "Lappfjärd"
+      ]
+    },
+    {
+      "title": "Laurén var kyrkoherde i Nykarleby",
+      "date": {
+        "year": 1890,
+        "circa": true,
+        "text": "i början av 1890-talet"
+      },
+      "people": [
+        "Georg Laurén"
+      ],
+      "places": [
+        "Nykarleby",
+        "Nykarleby fruntimmersskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8ee48e082260f0e95be0ecb990a6effd76e09c9eb74ecada5ae9aba1806de3b5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

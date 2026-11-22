@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/gestrin_frans.html",
+  "title": "Minnesruna över Frans Gestrin i Österbottniska Posten 1925",
+  "summary": "En dödsruna ur Österbottniska Posten över inspektor Frans Gestrin, som föddes i Nykarleby, arbetade i södra Finland som egendomsinspektor och återvände som äldre till sin födelsestad. Sidan visar även ett vykort av Sippola herrgård där han verkade.",
+  "topics": [
+    "dödsruna",
+    "Österbottniska Posten",
+    "elverk",
+    "gårdsinspektor"
+  ],
+  "people": [
+    {
+      "name": "Frans Gestrin",
+      "alternateNames": [],
+      "birthYear": 1853,
+      "deathYear": 1925,
+      "roles": [
+        "inspektor",
+        "egendomsinspektor",
+        "kassör och bokförare vid elektricitetsverket"
+      ]
+    },
+    {
+      "name": "v. Daehn",
+      "alternateNames": [],
+      "roles": [
+        "ministerstatssekreterare"
+      ],
+      "description": "Gestrins arbetsgivare i södra Finland."
+    },
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Frans Gestrins far, enligt hänvisning på sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Sippola gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Sippola herrgård"
+      ]
+    },
+    {
+      "name": "stadens elektricitetsverk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gestrins gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gården ärvdes av De Gamlas hem r.f."
+    }
+  ],
+  "events": [
+    {
+      "title": "Frans Gestrin avled",
+      "date": {
+        "year": 1925,
+        "circa": false,
+        "text": "Den 15 dns"
+      },
+      "people": [
+        "Frans Gestrin"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6e890ec06a9775f3a44ff8982571cc0e338702c5b67e4518a0838e3af89d5071",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

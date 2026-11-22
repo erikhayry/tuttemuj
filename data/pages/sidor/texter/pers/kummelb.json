@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kummelb.html",
+  "title": "Bengt Kummel 1939",
+  "summary": "Kort presentation av Bengt Kummel, född i Övermark, lektor vid Nykarleby gymnasium och i historia vid Åbo Akademi. Sidan listar hans böcker om den allsvenska rörelsen och om Georg Carl von Döbeln samt länkar till hans texter om striden vid Nykarleby och Nykarlebys ryska år.",
+  "topics": [
+    "historiker",
+    "lektor",
+    "von Döbeln",
+    "allsvenska rörelsen",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Bengt Kummel",
+      "alternateNames": [],
+      "birthYear": 1939,
+      "roles": [
+        "lektor vid Nykarleby gymnasium",
+        "lektor i historia vid Åbo Akademi",
+        "fil.dr"
+      ]
+    },
+    {
+      "name": "Vilhelm Lundström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ämne för Kummels bok om den allsvenska rörelsen (1994)."
+    },
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [],
+      "birthYear": 1758,
+      "deathYear": 1820,
+      "roles": [],
+      "description": "Ämne för Kummels biografi Liv och känsla (1998)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby gymnasium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Övermark",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Jutas",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Döbeln vid Jutas."
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bengt Kummel föddes i Övermark",
+      "date": {
+        "year": 1939,
+        "circa": false,
+        "text": "f. 1939"
+      },
+      "people": [
+        "Bengt Kummel"
+      ],
+      "places": [
+        "Övermark"
+      ]
+    },
+    {
+      "title": "Kummel blev fil.dr och utgav boken om Vilhelm Lundström",
+      "date": {
+        "year": 1994,
+        "circa": false,
+        "text": "1994"
+      },
+      "people": [
+        "Bengt Kummel",
+        "Vilhelm Lundström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kummels biografi över Georg Carl von Döbeln utkom",
+      "date": {
+        "year": 1998,
+        "circa": false,
+        "text": "1998"
+      },
+      "people": [
+        "Bengt Kummel",
+        "Georg Carl von Döbeln"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "46b34c20967863e64a5c3efe1c29400228f8b7d5e7c9dd46de5748477ad5cc68",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

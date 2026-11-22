@@ -1,0 +1,116 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_magnus.html",
+  "title": "Minnesruna över Magnus Kjellman 1843–1888",
+  "summary": "Dödsruna över Magnus Kjellman, född på Juthbacka, som var kollega i matematik och naturkunnighet vid reallyceet i Åbo. Han beskrivs som varmhjärtad och en god lärare för yngre elever. Sidan illustreras med en bild från en sommarfest på Arenan 1965.",
+  "topics": [
+    "dödsruna",
+    "lärare",
+    "Åbo",
+    "Juthbacka",
+    "Nya Pressen"
+  ],
+  "people": [
+    {
+      "name": "Magnus Kjellman",
+      "alternateNames": [],
+      "birthYear": 1843,
+      "deathYear": 1888,
+      "roles": [
+        "fil. magister",
+        "kollega i elementär matematik och naturkunnighet vid reallyceum i Åbo"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tipsade om bilden."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev En släkt Backman jämte ättlingar på kvinnolinjen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Kjellman föddes här."
+    },
+    {
+      "name": "Reallyceum i Åbo",
+      "kind": "building",
+      "alternateNames": [
+        "realskolan i Åbo"
+      ]
+    },
+    {
+      "name": "Arenan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Plats för Sommarfest och marknad 2 augusti 1965."
+    },
+    {
+      "name": "Åbo",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Magnus Kjellman utnämndes till kollega vid realskolan i Åbo",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "1873"
+      },
+      "people": [
+        "Magnus Kjellman"
+      ],
+      "places": [
+        "Reallyceum i Åbo"
+      ]
+    },
+    {
+      "title": "Magnus Kjellman avled i Åbo",
+      "date": {
+        "year": 1888,
+        "circa": false,
+        "text": "I förgår morse (artikel 23.01.1888)"
+      },
+      "people": [
+        "Magnus Kjellman"
+      ],
+      "places": [
+        "Åbo"
+      ]
+    },
+    {
+      "title": "Sommarfest och marknad på Arenan",
+      "date": {
+        "year": 1965,
+        "month": 8,
+        "day": 2,
+        "circa": false,
+        "text": "2 augusti 1965"
+      },
+      "people": [],
+      "places": [
+        "Arenan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "350b71168ae61a5207f1859f809490bf1d11a49b5c9741f95b5ac704ecea032f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

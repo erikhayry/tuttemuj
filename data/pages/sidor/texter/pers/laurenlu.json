@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/laurenlu.htm",
+  "title": "Ludvig Leonard Laurén 1824–1884",
+  "summary": "Uppslagsverksartikel om skolmannen och författaren Ludvig Leonard Laurén, lärare och rektor vid Vasa lyceum, som skrev läroböcker, dikter och memoarer. Sidan nämner att han skrivit om när Vasa trivialskola verkade i Nykarleby efter Vasa brand 1852.",
+  "topics": [
+    "skolman",
+    "författare",
+    "Vasa lyceum",
+    "Vasa brand",
+    "Vasabladet"
+  ],
+  "people": [
+    {
+      "name": "Ludvig Leonard Laurén",
+      "alternateNames": [],
+      "birthYear": 1824,
+      "deathYear": 1884,
+      "roles": [
+        "skolman",
+        "författare",
+        "lärare i franska",
+        "lektor i religion",
+        "rektor för Vasa svenska lyceum",
+        "redaktör för Vasabladet"
+      ]
+    },
+    {
+      "name": "Ivar A. Heikel",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nämner Laurén i Minnen från min barndom och skoltid."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vasa svenska lyceum",
+      "kind": "building",
+      "alternateNames": [
+        "Vasa högre elementarskola och gymnasium"
+      ]
+    },
+    {
+      "name": "Vasa trivialskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Verkade tidvis i Nykarleby på grund av Vasa brand 1852."
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ludvig Leonard Laurén föddes i Vasa",
+      "date": {
+        "year": 1824,
+        "month": 5,
+        "day": 13,
+        "circa": false,
+        "text": "13/5 1824"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    },
+    {
+      "title": "Laurén blev lärare i franska vid Vasa högre elementarskola",
+      "date": {
+        "year": 1850,
+        "circa": false,
+        "text": "1850"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Vasa brand gjorde att Vasa trivialskola verkade i Nykarleby",
+      "date": {
+        "year": 1852,
+        "circa": false,
+        "text": "Vasa brand 1852"
+      },
+      "people": [],
+      "places": [
+        "Vasa trivialskola",
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Laurén redigerade Vasabladet",
+      "date": {
+        "year": 1863,
+        "circa": false,
+        "text": "1863—71 och 1877—80"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Laurén utsågs till lektor i religion",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "1867"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Laurén var rektor för Vasa svenska lyceum",
+      "date": {
+        "year": 1876,
+        "circa": false,
+        "text": "1876—84"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": [
+        "Vasa svenska lyceum"
+      ]
+    },
+    {
+      "title": "Minnen från skolan och universitetet utkom",
+      "date": {
+        "year": 1877,
+        "circa": false,
+        "text": "1877"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ludvig Leonard Laurén avled i Vasa",
+      "date": {
+        "year": 1884,
+        "month": 5,
+        "day": 7,
+        "circa": false,
+        "text": "7/5 1884"
+      },
+      "people": [
+        "Ludvig Leonard Laurén"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "39af5a4ea58ca76074b08fd5985086bc311cb3c2a72923976cd05f82f4448fed",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

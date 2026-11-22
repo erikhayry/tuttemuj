@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/jernstrom_sr.html",
+  "title": "Sven Runo Jernström 1867–1955",
+  "summary": "Kort personhistoria över Sven Runo Jernström, tjänsteman som blev häradsskrivare och kronofogde. Sidan visar att han talade till soldaterna framför Föreningsbanken den 19 mars 1918.",
+  "topics": [
+    "tjänsteman",
+    "häradsskrivare",
+    "1918",
+    "personhistoria"
+  ],
+  "people": [
+    {
+      "name": "Sven Runo Jernström",
+      "alternateNames": [
+        "S. R. Jernström"
+      ],
+      "birthYear": 1867,
+      "deathYear": 1955,
+      "roles": [
+        "häradsskrivare i Närpes distrikt",
+        "häradsskrivare i Lappo härad",
+        "kronofogde i Korsholm"
+      ],
+      "description": "Rubriken anger 1818–1955, men texten säger att han föddes 1867."
+    }
+  ],
+  "places": [
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Närpes",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Lappo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Korsholm",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sven Runo Jernström föddes i Vasa",
+      "date": {
+        "year": 1867,
+        "month": 1,
+        "day": 11,
+        "circa": false,
+        "text": "11 januari 1867"
+      },
+      "people": [
+        "Sven Runo Jernström"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    },
+    {
+      "title": "Jernström blev häradsskrivare i Närpes distrikt",
+      "date": {
+        "year": 1903,
+        "circa": false,
+        "text": "1903"
+      },
+      "people": [
+        "Sven Runo Jernström"
+      ],
+      "places": [
+        "Närpes"
+      ]
+    },
+    {
+      "title": "Jernström talade till soldaterna framför Föreningsbanken",
+      "date": {
+        "year": 1918,
+        "month": 3,
+        "day": 19,
+        "circa": false,
+        "text": "den 19 mars 1918"
+      },
+      "people": [
+        "Sven Runo Jernström"
+      ],
+      "places": [
+        "Föreningsbanken"
+      ]
+    },
+    {
+      "title": "Jernström blev häradsskrivare i Lappo härad",
+      "date": {
+        "year": 1918,
+        "circa": false,
+        "text": "1918"
+      },
+      "people": [
+        "Sven Runo Jernström"
+      ],
+      "places": [
+        "Lappo"
+      ]
+    },
+    {
+      "title": "Sven Runo Jernström avled i Vasa",
+      "date": {
+        "year": 1955,
+        "month": 2,
+        "day": 19,
+        "circa": false,
+        "text": "19 februari 1955"
+      },
+      "people": [
+        "Sven Runo Jernström"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16ba672a08c53ca3ee77df1189251ffe9638237f37daca9a3fcadd4bbfda93c2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/levlink.htm",
+  "title": "Kurt Levlin 1961",
+  "summary": "Presentation av författaren Kurt Levlin, född i Helsingfors men uppvuxen i Nykarleby, som flyttade till Sverige 1996 och numera är bibliotekarie i Umeå. Sidan listar hans noveller, romaner, ungdomsböcker och lyriksamlingar från 2000 till 2026.",
+  "topics": [
+    "författare",
+    "lyrik",
+    "noveller",
+    "ungdomsböcker",
+    "bibliotekarie"
+  ],
+  "people": [
+    {
+      "name": "Kurt Levlin",
+      "alternateNames": [],
+      "birthYear": 1961,
+      "roles": [
+        "författare",
+        "bibliotekarie i Umeå",
+        "bokbusschaufför"
+      ]
+    },
+    {
+      "name": "Nils Levlin",
+      "alternateNames": [],
+      "roles": [
+        "stadsbyggmästare"
+      ],
+      "description": "Kurts far."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Umeå",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Lycksele",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Lokstallsvägen 3",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Lokstallsvägen 3",
+      "description": "Titel på en novellsamling (2011)."
+    }
+  ],
+  "events": [
+    {
+      "title": "Kurt Levlin föddes i Helsingfors",
+      "date": {
+        "year": 1961,
+        "circa": false,
+        "text": "född 1961"
+      },
+      "people": [
+        "Kurt Levlin"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    },
+    {
+      "title": "Levlin flyttade till Sverige",
+      "date": {
+        "year": 1996,
+        "circa": false,
+        "text": "1996"
+      },
+      "people": [
+        "Kurt Levlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Novellsamlingen En andra chans utkom",
+      "date": {
+        "year": 2000,
+        "circa": false,
+        "text": "2000"
+      },
+      "people": [
+        "Kurt Levlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Romanen Hälsningar från Döda havet utkom",
+      "date": {
+        "year": 2003,
+        "circa": false,
+        "text": "2003"
+      },
+      "people": [
+        "Kurt Levlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Novellsamlingen Lokstallsvägen 3 utkom",
+      "date": {
+        "year": 2011,
+        "circa": false,
+        "text": "2011"
+      },
+      "people": [
+        "Kurt Levlin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6652705cf6d6a5a99dcc556248a7d7a44cce157ca13727ddc7414e588ca3b8f1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

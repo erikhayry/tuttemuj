@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/juthfrok.htm",
+  "title": "Herrskapsfröknar på Juthbacka",
+  "summary": "Ett fotografi och minnen av de \"herrskapsfröknar\" som levde på Juthbacka, systrar till Woldemar Backman, och som senare bodde som hyresgäster i den lilla byggnaden mot Holmströms. Lars Pensar skriver om hur det en gång var liv och rörelse på gården.",
+  "topics": [
+    "Juthbacka",
+    "fotografi",
+    "minnen",
+    "herrgårdsliv"
+  ],
+  "people": [
+    {
+      "name": "Helga Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Syster till Woldemar; dog i den lilla byggnaden mot Holmströms."
+    },
+    {
+      "name": "Ester Backman",
+      "alternateNames": [],
+      "deathYear": 1957,
+      "roles": [],
+      "description": "Syster till Woldemar; bodde de sista åren på De gamlas hem."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans systrar levde på Juthbacka."
+    },
+    {
+      "name": "Berta Herler",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elise Söderström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karin Sarlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev texten och tillhandahöll bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gård som ligger mörk och dyster i juletid."
+    },
+    {
+      "name": "Holmströms",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Grannen mot vilken den lilla byggnaden låg."
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där bilden finns."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ester Backman avled",
+      "date": {
+        "year": 1957,
+        "circa": false,
+        "text": "till sin död 1957"
+      },
+      "people": [
+        "Ester Backman"
+      ],
+      "places": [
+        "De gamlas hem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "82e306baa6e9c726db7065d5f4279fed4c8be2cd544227cc29ad13f136ee61d1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

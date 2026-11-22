@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kerrman_ah.html",
+  "title": "Nekrolog över Anna Helena Kerrman 1881",
+  "summary": "Nekrolog över änkefru Anna Helena Kerrman, som dog i Nykarleby drygt 95 år gammal och beskrivs som en samtida till Fänrik Ståls tid. Notisen nämner också den nästan lika gamla mamsell Lovise Sigström, som kan berätta om tiden under kriget 1808–09.",
+  "topics": [
+    "nekrolog",
+    "Fänrik Stål",
+    "1808–09 års krig",
+    "tidningsnotis",
+    "samtidsvittnen"
+  ],
+  "people": [
+    {
+      "name": "Anna Helena Kerrman",
+      "alternateNames": [],
+      "deathYear": 1881,
+      "roles": [
+        "änkefru",
+        "kaptenska"
+      ],
+      "description": "Dog i en ålder av något över 95 år; var bekant med skalden Choræus."
+    },
+    {
+      "name": "Kulneff",
+      "alternateNames": [],
+      "roles": [
+        "överste"
+      ],
+      "description": "Drack sin avskedsskål ur mamsell Roos' sko på en bal som Anna Helena var med på."
+    },
+    {
+      "name": "Roos",
+      "alternateNames": [],
+      "roles": [
+        "mamsell"
+      ]
+    },
+    {
+      "name": "Choræus",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nämns bland krigets hjältar."
+    },
+    {
+      "name": "Adlercreutz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nämns bland krigets hjältar."
+    },
+    {
+      "name": "Lovise Sigström",
+      "alternateNames": [],
+      "roles": [
+        "mamsell"
+      ],
+      "description": "Fyller 95 år nästa höst; ortens äldsta person; kan berätta om flydda tider."
+    },
+    {
+      "name": "Gufar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Signatur för notisen i Åbo Underrättelser."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Harald och släkten Kerrman. Några anteckningar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kronoby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Anna Helena Kerrman avled i Nykarleby",
+      "date": {
+        "year": 1881,
+        "circa": false,
+        "text": "I går på morgonen (notis från Nykarleby skrifves den 3 d:s)"
+      },
+      "people": [
+        "Anna Helena Kerrman"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Notisen återgavs i Norrköpings Tidningar",
+      "date": {
+        "year": 1881,
+        "month": 4,
+        "day": 18,
+        "circa": false,
+        "text": "den 18 april 1881"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d66da8e4923cbdf0f8eef56f5bacfb890764a333ad04eaa2ae8c180f57ed5e86",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

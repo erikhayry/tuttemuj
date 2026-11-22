@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/helenetu.htm",
+  "title": "Tea Helenelund 1917",
+  "summary": "Kort biografi över skulptören Tea Helenelund, född i Solf, som bland annat skapade minnesmärken över österbottniska kulturpersonligheter och många medaljer. Sidan nämner hennes bronsrelief av Josef Herler och byst av Joel Rundt.",
+  "topics": [
+    "skulptör",
+    "konst",
+    "minnesmärken",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Tea Helenelund",
+      "alternateNames": [
+        "Tea Helenelund-Suominen",
+        "Helenelund-Suominen, Tea Regina Emilia"
+      ],
+      "birthYear": 1917,
+      "deathYear": 2010,
+      "roles": [
+        "skulptör",
+        "fil.mag.",
+        "amanuens vid Österbottens museum",
+        "läroverkslärare"
+      ]
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avbildad i en bronsrelief av Helenelund."
+    },
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avbildad i en bronsbyst av Helenelund."
+    }
+  ],
+  "places": [
+    {
+      "name": "Solf",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tea Helenelund föddes i Solf",
+      "date": {
+        "year": 1917,
+        "month": 2,
+        "day": 18,
+        "circa": false,
+        "text": "18/2 1917"
+      },
+      "people": [
+        "Tea Helenelund"
+      ],
+      "places": [
+        "Solf"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d1bbcac90de03ab979676162a13f4b23d66542c39c275abc306123c58b3dd03c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

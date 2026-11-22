@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/huldeneu.htm",
+  "title": "Evert Huldén 1895–1967 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om författaren och jordbrukaren Evert Huldén från Munsala, som debuterade som diktare vid 56 års ålder med Jord och drömmar. Hans diktning kretsar kring hembygden, bonden och fredstanken, och han var även verksam inom kommunalpolitik, nykterhetsrörelse och kooperation.",
+  "topics": [
+    "författare",
+    "diktare",
+    "Munsala",
+    "nykterhetsrörelsen",
+    "fredsrörelsen"
+  ],
+  "people": [
+    {
+      "name": "Evert Huldén",
+      "alternateNames": [
+        "Elis Evert Huldén"
+      ],
+      "birthYear": 1895,
+      "deathYear": 1967,
+      "roles": [
+        "författare",
+        "diktare",
+        "jordbrukare",
+        "grundare av Svenska Österbottens litteraturförening"
+      ]
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Evert Huldéns son; utgav ett urval dikter 1980."
+    },
+    {
+      "name": "Emil Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev E. H:s liv och diktning på Nörråkers (1971)."
+    },
+    {
+      "name": "Thomas Warburton",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Åttio år finlandssvensk litteratur."
+    },
+    {
+      "name": "Nils Jaakkola",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Evert Huldéns far, enligt en länk på sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nörråkers",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Fädernegården i Munsala."
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Evert Huldén föddes i Munsala",
+      "date": {
+        "year": 1895,
+        "month": 6,
+        "day": 23,
+        "circa": false,
+        "text": "23/6 1895"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": [
+        "Munsala"
+      ]
+    },
+    {
+      "title": "Huldén övertog fädernegården i Munsala",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "1928"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": [
+        "Munsala"
+      ]
+    },
+    {
+      "title": "Huldén grundade Svenska Österbottens litteraturförening",
+      "date": {
+        "year": 1950,
+        "circa": false,
+        "text": "1950"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Huldén debuterade som diktare med Jord och drömmar",
+      "date": {
+        "year": 1951,
+        "circa": false,
+        "text": "1951"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Småbönders, Huldéns första prosabok, utkom",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Emigrantöden utkom",
+      "date": {
+        "year": 1961,
+        "circa": false,
+        "text": "1961"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Evert Huldén avled i Vasa",
+      "date": {
+        "year": 1967,
+        "month": 11,
+        "day": 26,
+        "circa": false,
+        "text": "26/11 1967"
+      },
+      "people": [
+        "Evert Huldén"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "01c3a6e9cbb797be4fbf450bc78f77fa8bcf059e60c221a0cc59d3c5a7f1a720",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

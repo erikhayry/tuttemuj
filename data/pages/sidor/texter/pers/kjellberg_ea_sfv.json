@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellberg_ea_sfv.html",
+  "title": "Minnesruna över Emil Kjellberg i Svenska Folkskolans vänners kalender (1947)",
+  "summary": "Minnesruna över läraren Emil Kjellberg, som under fyra decennier undervisade vid Kovjoki folkskola och ledde många av byns föreningar. Han var också intresserad av hembygds- och fornforskning, bland annat grävningar på Helga berget i Kovjoki.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "Kovjoki",
+    "fornforskning",
+    "hembygd",
+    "föreningsliv"
+  ],
+  "people": [
+    {
+      "name": "Emil Kjellberg",
+      "alternateNames": [
+        "Emil Alexander Kjellberg"
+      ],
+      "birthYear": 1873,
+      "deathYear": 1946,
+      "roles": [
+        "lärare vid Kovjoki folkskola",
+        "ordförande i kommunalstämman och vårdnämnden",
+        "ledare för Fria vården",
+        "ledamot i kyrkorådet"
+      ]
+    },
+    {
+      "name": "T. G.",
+      "alternateNames": [
+        "Ture Granqvist"
+      ],
+      "roles": [],
+      "description": "Skrev minnesrunan; namnet Ture Granqvist anges med reservation på sidan."
+    },
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll materialet."
+    },
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Kjellberg i en länkad text."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki folkskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Helga berget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Fornfynd har gjorts vid grävningar här."
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby landskommun",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Korsholm",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Emil Kjellberg föddes i Korsholm",
+      "date": {
+        "year": 1873,
+        "month": 9,
+        "day": 11,
+        "circa": false,
+        "text": "den 11 sept. 1873"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": [
+        "Korsholm"
+      ]
+    },
+    {
+      "title": "Kjellberg dimitterades från Nykarleby seminarium och blev lärare vid Kovjoki folkskola",
+      "date": {
+        "year": 1899,
+        "circa": false,
+        "text": "1899"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": [
+        "Nykarleby seminarium",
+        "Kovjoki folkskola"
+      ]
+    },
+    {
+      "title": "Kjellberg gick i pension",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "1940"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Emil Kjellberg avled i Nykarleby",
+      "date": {
+        "year": 1946,
+        "month": 2,
+        "day": 15,
+        "circa": false,
+        "text": "den 15 februari 1946"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ae4b18139bd553f337648dd46d77d44343cb1a5f1900e80601f18021cdcff3b0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,134 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kullmu.htm",
+  "title": "Magnus Kull 1924 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om skolmannen och politikern Magnus Kull, född i Korsholm, som var rektor vid Svenska social- och kommunalhögskolan, riksdagsman och andre socialminister. Sidan nämner att han var en av undertecknarna av gåvobrevet när Nykarleby stad övertog de före detta seminariebyggnaderna.",
+  "topics": [
+    "skolman",
+    "politiker",
+    "socialminister",
+    "Nykarleby seminarium",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Magnus Kull",
+      "alternateNames": [
+        "Magnus Ingmar Kull"
+      ],
+      "birthYear": 1924,
+      "roles": [
+        "skolman",
+        "pol.kand.",
+        "ekon.lic.",
+        "rektor vid Svenska social- och kommunalhögskolan",
+        "riksdagsman (sfp)",
+        "andre socialminister"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggnaderna övertogs av staden genom ett gåvobrev som Kull undertecknade."
+    },
+    {
+      "name": "Svenska social- och kommunalhögskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nordiska kultursekretariatet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Köpenhamn."
+    },
+    {
+      "name": "Korsholm",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Köpenhamn",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Magnus Kull föddes i Korsholm",
+      "date": {
+        "year": 1924,
+        "month": 4,
+        "day": 12,
+        "circa": false,
+        "text": "12/4 1924"
+      },
+      "people": [
+        "Magnus Kull"
+      ],
+      "places": [
+        "Korsholm"
+      ]
+    },
+    {
+      "title": "Kull var andre socialminister",
+      "date": {
+        "year": 1963,
+        "circa": false,
+        "text": "1963—64"
+      },
+      "people": [
+        "Magnus Kull"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kull var riksdagsman",
+      "date": {
+        "year": 1966,
+        "circa": false,
+        "text": "1966—70"
+      },
+      "people": [
+        "Magnus Kull"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kull var rektor och överlärare vid Svenska social- och kommunalhögskolan",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958—69"
+      },
+      "people": [
+        "Magnus Kull"
+      ],
+      "places": [
+        "Svenska social- och kommunalhögskolan"
+      ]
+    },
+    {
+      "title": "Kull var direktör för Nordiska kultursekretariatet i Köpenhamn",
+      "date": {
+        "year": 1972,
+        "circa": false,
+        "text": "1972—75"
+      },
+      "people": [
+        "Magnus Kull"
+      ],
+      "places": [
+        "Nordiska kultursekretariatet",
+        "Köpenhamn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1a9d85aeb12ddeaa7809aaf363126cf8bb1c09fc47a727e040e2d5190aa7495c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

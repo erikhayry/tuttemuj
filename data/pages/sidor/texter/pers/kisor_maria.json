@@ -1,0 +1,121 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kisor_maria.html",
+  "title": "Minnesruna över Maria Kisor i Österbottniska Posten 1935",
+  "summary": "Dödsruna över Maria Kisor, född Kronholm i Jakobstad, som arbetade som kontorist hos handlanden A. M. Gyllenberg i Nykarleby och gifte sig med Axel Kisor 1889. Hon var särskilt engagerad i föreningen De gamlas hem.",
+  "topics": [
+    "dödsruna",
+    "De gamlas hem",
+    "Kisor",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "Maria Kisor",
+      "alternateNames": [
+        "Maria Kronholm"
+      ],
+      "birthYear": 1858,
+      "roles": [
+        "kontorist",
+        "småbarnsskollärare"
+      ],
+      "description": "Född Kronholm i Jakobstad. Sidans rubrik anger dödsdatum 22/11 1934 men tidningsnotisen är från 29.11.1935, så dödsåret utelämnas här."
+    },
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Marias make sedan 1889."
+    },
+    {
+      "name": "A. M. Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Maria var kontorist hos honom."
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Tal till Kvinnan, där Maria omnämns."
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Maria Kronholm föddes i Jakobstad",
+      "date": {
+        "year": 1858,
+        "month": 11,
+        "day": 12,
+        "circa": false,
+        "text": "12/11 1858"
+      },
+      "people": [
+        "Maria Kisor"
+      ],
+      "places": [
+        "Jakobstad"
+      ]
+    },
+    {
+      "title": "Maria Kronholm gifte sig med handlanden Axel Kisor",
+      "date": {
+        "year": 1889,
+        "circa": false,
+        "text": "År 1889"
+      },
+      "people": [
+        "Maria Kisor",
+        "Axel Kisor"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tal till Kvinnan hölls vid Nykarleby stads 350-årsjubileumsmiddag på restaurang von Döbeln",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 23,
+        "circa": false,
+        "text": "den 23 augusti 1970"
+      },
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": [
+        "Restaurang von Döbeln"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "da261858d961e6ffc7c0f33f179e5c5cc466d61e10de14776fbfd393f094d7b1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

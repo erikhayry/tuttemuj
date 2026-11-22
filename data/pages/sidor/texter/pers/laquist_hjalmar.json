@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/laquist_hjalmar.html",
+  "title": "Minnesruna över C. Hjalmar Laquist",
+  "summary": "Kort dödsruna ur Österbottniska Posten över bryggmästaren C. Hjalmar Laquist, född i Stockholm, som övertog Nygårds bryggeri i Nykarleby 1915. Han beskrivs som anspråkslös, stillsam och trofast.",
+  "topics": [
+    "dödsruna",
+    "bryggeri",
+    "Nygårds bryggeri",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "C. Hjalmar Laquist",
+      "alternateNames": [],
+      "roles": [
+        "bryggmästare"
+      ],
+      "description": "Född i Stockholm; avled 71 år gammal i sitt hem i Nykarleby."
+    },
+    {
+      "name": "Mimmi Laquist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hjalmar Laquists maka."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårds bryggeri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Laquist övertog det 1915 och sålde det senare på grund av ohälsa."
+    },
+    {
+      "name": "Laquists gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Stockholm",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Laquist övertog Nygårds bryggeri i Nykarleby",
+      "date": {
+        "year": 1915,
+        "circa": false,
+        "text": "1915"
+      },
+      "people": [
+        "C. Hjalmar Laquist"
+      ],
+      "places": [
+        "Nygårds bryggeri"
+      ]
+    },
+    {
+      "title": "C. Hjalmar Laquist avled i Nykarleby",
+      "date": {
+        "year": 1937,
+        "circa": false,
+        "text": "Senaste tisdag (artikel 26.02.1937)"
+      },
+      "people": [
+        "C. Hjalmar Laquist"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "02123f5ed9accc43cb2fd435311afac7efdbd339b516f48789094e6f4406d4b6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

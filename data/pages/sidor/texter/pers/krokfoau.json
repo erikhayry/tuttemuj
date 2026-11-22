@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/krokfoau.htm",
+  "title": "Annie Krokfors 1901–1994 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om målaren Annie Krokfors, född i Kronoby, som utförde väggmålningar för offentliga institutioner i svenska Österbotten och gärna målade religiösa motiv. Sidan nämner att en stor målning av henne finns i sällskapsrummet i folkhögskolans internat.",
+  "topics": [
+    "målare",
+    "väggmålningar",
+    "religiös konst",
+    "Österbotten",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Annie Krokfors",
+      "alternateNames": [
+        "Annie Viola Krokfors"
+      ],
+      "birthYear": 1901,
+      "deathYear": 1994,
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Hjalmar Krokfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Annie Krokfors bror."
+    },
+    {
+      "name": "C. G. Krokfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Släkting; har utfört en väggmålning i Nykarleby."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gav uppgiften om målningen i folkhögskolans internat."
+    }
+  ],
+  "places": [
+    {
+      "name": "Folkhögskolans internat",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I sällskapsrummet finns en stor målning av Annie Krokfors."
+    },
+    {
+      "name": "Konstindustriella läroverket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Konsthögskolan i Stockholm",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Fria målarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Helsingfors."
+    },
+    {
+      "name": "Kronoby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Annie Krokfors föddes i Kronoby",
+      "date": {
+        "year": 1901,
+        "month": 2,
+        "day": 26,
+        "circa": false,
+        "text": "26/2 1901"
+      },
+      "people": [
+        "Annie Krokfors"
+      ],
+      "places": [
+        "Kronoby"
+      ]
+    },
+    {
+      "title": "Krokfors utexaminerades från Konstindustriella läroverket",
+      "date": {
+        "year": 1927,
+        "circa": false,
+        "text": "1927"
+      },
+      "people": [
+        "Annie Krokfors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Krokfors studerade vid Konsthögskolan i Stockholm",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934—36"
+      },
+      "people": [
+        "Annie Krokfors"
+      ],
+      "places": [
+        "Konsthögskolan i Stockholm"
+      ]
+    },
+    {
+      "title": "Krokfors besökte Fria målarskolan i Helsingfors",
+      "date": {
+        "year": 1941,
+        "circa": false,
+        "text": "1941—42"
+      },
+      "people": [
+        "Annie Krokfors"
+      ],
+      "places": [
+        "Fria målarskolan"
+      ]
+    },
+    {
+      "title": "Annie Krokfors avled",
+      "date": {
+        "year": 1994,
+        "month": 8,
+        "day": 3,
+        "circa": false,
+        "text": "3 augusti 1994"
+      },
+      "people": [
+        "Annie Krokfors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9f1a167b4776b5a7bc6c2b9e3ef84fa7688f8d17238c5eaa0539ccb7abff3783",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

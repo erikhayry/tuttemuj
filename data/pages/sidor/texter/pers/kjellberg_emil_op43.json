@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellberg_emil_op43.html",
+  "title": "Emil Kjellberg 70 år i Österbottniska Posten 1943",
+  "summary": "Hyllningsnotis ur Österbottniska Posten till läraren Emil Kjellberg på hans 70-årsdag, som tackar honom för fyra decennier som lärare i Kovjoki och många kommunala och föreningsuppdrag. Han bodde då i Nykarleby, var slöjdlärare vid Kristliga folkhögskolan och inspektör för ett livbolag.",
+  "topics": [
+    "hyllning",
+    "födelsedag",
+    "lärare",
+    "Kovjoki",
+    "föreningsliv"
+  ],
+  "people": [
+    {
+      "name": "Emil Kjellberg",
+      "alternateNames": [],
+      "birthYear": 1873,
+      "roles": [
+        "lärare",
+        "slöjdlärare vid Kristliga folkhögskolan",
+        "ordförande i vårdnämnden",
+        "ledare för Kovjoki sångkör",
+        "skyddskårschef i Kovjoki",
+        "inspektör vid livbolaget Verdandi"
+      ]
+    },
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Kjellberg i en länkad text."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki folkskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Emil Kjellberg fyllde 70 år",
+      "date": {
+        "year": 1943,
+        "month": 9,
+        "day": 11,
+        "circa": false,
+        "text": "i morgon den 11 dennes [september 1943]"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kjellberg lämnade sin befattning vid Kovjoki folkskola",
+      "date": {
+        "year": 1940,
+        "circa": false,
+        "text": "för tre år sedan"
+      },
+      "people": [
+        "Emil Kjellberg"
+      ],
+      "places": [
+        "Kovjoki folkskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eb8079a6f3a978ed6f0b44cfb2d9bf030e264d63369f4d6538337c1360cc1b60",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

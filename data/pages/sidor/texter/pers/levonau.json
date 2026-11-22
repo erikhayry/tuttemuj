@@ -1,0 +1,208 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/levonau.htm",
+  "title": "August Levón 1820–1875",
+  "summary": "Uppslagsverksartikel om industrimannen och kommerserådet August Levón, som grundade en kemisk fabrik, Vasa ångkvarn och Vasa bomull och efter Vasa brand 1852 ett tegelbruk och sågverk vid Sandviken. Sidan nämner att han hade affärer med Nykarlebyköpmannen Collander och att en gata på Brändö i Vasa är uppkallad efter honom.",
+  "topics": [
+    "industriman",
+    "Vasa",
+    "ångkraft",
+    "Vasa brand",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "August Levón",
+      "alternateNames": [
+        "August Alexander Levón",
+        "Levon"
+      ],
+      "birthYear": 1820,
+      "deathYear": 1875,
+      "roles": [
+        "industriman",
+        "kommerseråd",
+        "provisor"
+      ]
+    },
+    {
+      "name": "Collander",
+      "alternateNames": [],
+      "roles": [
+        "köpman i Nykarleby"
+      ],
+      "description": "Hade affärer tillsammans med Levón."
+    },
+    {
+      "name": "O. Bruun",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev A.A.L. och hans fabriksanläggning på Alkula (1947)."
+    },
+    {
+      "name": "K. Alho",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Suomen teollisuuden suurmiehiä (1961)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vasa ångkvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa bomull",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sandviken",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Tegelbruk och ångsåg grundades här i Vasa."
+    },
+    {
+      "name": "Alkula",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Plats för Levóns fabriksanläggning."
+    },
+    {
+      "name": "Brändö",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Stadsdel i Vasa där en gata är uppkallad efter Levón."
+    },
+    {
+      "name": "Brahestad",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "August Levón föddes i Brahestad",
+      "date": {
+        "year": 1820,
+        "month": 11,
+        "day": 14,
+        "circa": false,
+        "text": "14/11 1820"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": [
+        "Brahestad"
+      ]
+    },
+    {
+      "title": "Levón grundade en kemisk fabrik",
+      "date": {
+        "year": 1846,
+        "circa": false,
+        "text": "från 1846"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": []
+    },
+    {
+      "title": "Vasa ångkvarn grundades",
+      "date": {
+        "year": 1849,
+        "circa": false,
+        "text": "1849"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": [
+        "Vasa ångkvarn"
+      ]
+    },
+    {
+      "title": "Vasa brand; Levón grundade därefter ett tegelbruk vid Sandviken",
+      "date": {
+        "year": 1852,
+        "circa": false,
+        "text": "Vasa brand 1852"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": [
+        "Sandviken",
+        "Vasa"
+      ]
+    },
+    {
+      "title": "Vasa bomull grundades",
+      "date": {
+        "year": 1857,
+        "circa": false,
+        "text": "1857"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": [
+        "Vasa bomull"
+      ]
+    },
+    {
+      "title": "Ett sågverk, en av landets första ångsågar, tillkom vid Sandviken",
+      "date": {
+        "year": 1860,
+        "circa": false,
+        "text": "1860"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": [
+        "Sandviken"
+      ]
+    },
+    {
+      "title": "Levón blev kommerseråd",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "1864"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": []
+    },
+    {
+      "title": "August Levón avled i Vasa",
+      "date": {
+        "year": 1875,
+        "month": 8,
+        "day": 30,
+        "circa": false,
+        "text": "30/8 1875"
+      },
+      "people": [
+        "August Levón"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2c764cac3b140fb70826ac3a47ad96dc3107006f33ea1f3c1a9fe58743362d66",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

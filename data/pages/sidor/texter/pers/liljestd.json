@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/liljestd.htm",
+  "title": "Doris Liljeström 1932–2019",
+  "summary": "Minnessida över Doris Liljeström, född Nylund i Sundby, som skrev ned sina barndoms- och krigstidsminnen och som 79-åring debuterade med boken Livet på Pysbacka. Sidan länkar till hennes kapitel om släktingar och bygden.",
+  "topics": [
+    "memoarer",
+    "Sundby",
+    "krigstiden",
+    "släkt",
+    "Pysbacka"
+  ],
+  "people": [
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [
+        "Doris Nylund"
+      ],
+      "birthYear": 1932,
+      "deathYear": 2019,
+      "roles": [
+        "författare"
+      ],
+      "description": "Född Nylund i Sundby; debuterade som 79-åring med Livet på Pysbacka: Pärlor och törnen ur minnenas korg."
+    },
+    {
+      "name": "Lina Ringvall",
+      "alternateNames": [
+        "Mormor Lina"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Rosa Holländer",
+      "alternateNames": [
+        "Moster Rosa"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Johannes Sundsten",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sundby",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Hör till Pedersöre."
+    },
+    {
+      "name": "Pysbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Titel på Doris Liljeströms bok."
+    },
+    {
+      "name": "Pedersöre",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Doris Nylund föddes i Sundby",
+      "date": {
+        "year": 1932,
+        "month": 12,
+        "day": 27,
+        "circa": false,
+        "text": "27/12 1932"
+      },
+      "people": [
+        "Doris Liljeström"
+      ],
+      "places": [
+        "Sundby"
+      ]
+    },
+    {
+      "title": "Doris Liljeström avled i Nykarleby",
+      "date": {
+        "year": 2019,
+        "month": 9,
+        "day": 12,
+        "circa": false,
+        "text": "12/9 2019"
+      },
+      "people": [
+        "Doris Liljeström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "acdfeb2ec74ade4b8be8b5a0ce7129e7c7db8e9dda0036f964aa6fb1eb2cd8a6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

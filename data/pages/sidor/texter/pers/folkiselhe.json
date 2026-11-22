@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/folkiselhe.html",
+  "title": "Grundarbeten vid folkhögskolans blivande elevhem 1941",
+  "summary": "Ett fotografi av byggarbetare som gör grundarbeten för folkhögskolans framtida elevhem år 1941. Sidan namnger flera av männen på bilden, medan några är okända.",
+  "topics": [
+    "folkhögskola",
+    "byggande",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Hannes Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Albert Hagen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "John Fagerholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emil Wik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilden."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och kommenterade bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "folkhögskolans elevhem",
+      "kind": "building",
+      "alternateNames": [
+        "folkhögskolan"
+      ],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Grundarbeten för folkhögskolans elevhem",
+      "date": {
+        "year": 1941,
+        "circa": false,
+        "text": "1941"
+      },
+      "people": [
+        "Hannes Liljeström",
+        "Albert Hagen",
+        "John Fagerholm",
+        "Emil Wik"
+      ],
+      "places": [
+        "folkhögskolans elevhem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c26208f12c42ca364e986fcf559c05677acb25226a39f8bd078c04fe0fd062cb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

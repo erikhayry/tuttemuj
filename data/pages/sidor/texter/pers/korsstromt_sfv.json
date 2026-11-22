@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/korsstromt_sfv.html",
+  "title": "Minnesruna över Torsten Korsström i Folkskolans vänners kalender (1965)",
+  "summary": "Minnesruna över seminarielektorn Torsten \"Totti\" Korsström, lärare i teckning, kalligrafi och slöjd vid Nykarleby seminarium, som uppmuntrade eleverna till fritt skapande. Texten skildrar hans pedagogik, den väggmålning som övningsskolans elever gjorde i matsalen och hans breda bildning.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "teckning",
+    "Nykarleby seminarium",
+    "pedagogik"
+  ],
+  "people": [
+    {
+      "name": "Torsten Korsström",
+      "alternateNames": [
+        "Totti Korsström"
+      ],
+      "birthYear": 1909,
+      "deathYear": 1964,
+      "roles": [
+        "seminarielektor",
+        "lektor i teckning, kalligrafi och slöjd",
+        "teckningslärare",
+        "löjtnant"
+      ]
+    },
+    {
+      "name": "Ines Sjöblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev minnesrunan i Svenska Folkskolans vänners kalender (1965)."
+    },
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll materialet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Övningsskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Eleverna gjorde väggmålningar i matsalen.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pyhäjärvi",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Korpo",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Den fäderneärvda gården låg här."
+    },
+    {
+      "name": "Ålands lyceum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Torsten Korsström föddes i Pyhäjärvi",
+      "date": {
+        "year": 1909,
+        "month": 11,
+        "day": 24,
+        "circa": false,
+        "text": "den 24 november 1909"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": [
+        "Pyhäjärvi"
+      ]
+    },
+    {
+      "title": "Korsström blev student från Ålands lyceum",
+      "date": {
+        "year": 1927,
+        "circa": false,
+        "text": "1927"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": [
+        "Ålands lyceum"
+      ]
+    },
+    {
+      "title": "Korsström dimitterades som teckningslärare från Centralskolan för konstflit",
+      "date": {
+        "year": 1935,
+        "circa": false,
+        "text": "1935"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Korsström förordnades som lektor vid Nykarleby seminarium",
+      "date": {
+        "year": 1938,
+        "circa": false,
+        "text": "1938"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Korsström blev löjtnant efter att ha deltagit i krigen",
+      "date": {
+        "year": 1944,
+        "circa": false,
+        "text": "1939—44 års krig, befordrad 1944"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Torsten Korsström avled i Nykarleby",
+      "date": {
+        "year": 1964,
+        "month": 8,
+        "day": 24,
+        "circa": false,
+        "text": "Den 24 augusti 1964"
+      },
+      "people": [
+        "Torsten Korsström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "678e034e3019c94aa4ffaec92ec833a040f1a6df19a182c7f60e590508a9053c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

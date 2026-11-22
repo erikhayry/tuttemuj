@@ -1,0 +1,203 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/jakobsson_torsten_o_eng_ester_brollop.htm",
+  "title": "Ett bröllopsfoto väcker minnen av Berith Grensjö",
+  "summary": "Berith Grensjö berättar om ett bröllopsfoto av Torsten Jakobsson och Ester Eng, taget på Engs gård vid ån, och minns grannskapet, bastun och \"Engas mamm\". Hon beskriver också en natt då blixten slog ner i en björk och en stuga brann ner.",
+  "topics": [
+    "bröllopsfoto",
+    "grannskap",
+    "minnen",
+    "Engs gård",
+    "brand"
+  ],
+  "people": [
+    {
+      "name": "Torsten Jakobsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Brudgum på bröllopsfotot."
+    },
+    {
+      "name": "Ester Eng",
+      "alternateNames": [
+        "Engas Ester"
+      ],
+      "roles": [],
+      "description": "Bruden på fotot."
+    },
+    {
+      "name": "Brita Slotte",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Brudparets dotter; identifierade personerna på fotot."
+    },
+    {
+      "name": "Johanna Jacobsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sylvia Forssten",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Svea Edman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alice Jacobsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Ivar Edman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Brederholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elis Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jarl Eng",
+      "alternateNames": [
+        "Jallo"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Elina Eng",
+      "alternateNames": [
+        "Elli",
+        "Engas mamm"
+      ],
+      "roles": [],
+      "description": "Från Teisko; talade inte svenska så bra."
+    },
+    {
+      "name": "Ingvor Edman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sören Forssten",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Krister Forssten",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eivor Edman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Trygve Forssten",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Berith Grensjö",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättade och tillhandahöll fotot; född på Orisberg."
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Engs."
+    }
+  ],
+  "places": [
+    {
+      "name": "Engs gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Engas"
+      ],
+      "description": "Gård vid ån med åbrant; bastun stod på kanten och rian låg bakom den."
+    },
+    {
+      "name": "Orisberg",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Där Berith Grensjö föddes; familjen flyttade därifrån 5 maj 1945."
+    },
+    {
+      "name": "Timmerkojan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Grensjös hem; Jakobssons hade villan nära den."
+    },
+    {
+      "name": "Teisko",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Grensjö flyttade från Orisberg",
+      "date": {
+        "year": 1945,
+        "month": 5,
+        "day": 5,
+        "circa": false,
+        "text": "den 5 maj 1945"
+      },
+      "people": [
+        "Berith Grensjö"
+      ],
+      "places": [
+        "Orisberg"
+      ]
+    },
+    {
+      "title": "Blixten slog ner i Jakobssons björk och stugan brann ner",
+      "date": {
+        "year": 1970,
+        "circa": true,
+        "text": "I början på sjuttiotalet"
+      },
+      "people": [
+        "Torsten Jakobsson",
+        "Berith Grensjö"
+      ],
+      "places": [
+        "Engs gård"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En natt med åska och spöregn slår blixten ner i björken vid huset. Hunden väcker familjen, och Torsten cyklar i regnet för att ringa efter hjälp, men telefonen är död och grannens bil stannar när vatten stänker in under huven. Brandbilen hinner inte rädda stugan.",
+    "reason": "En kort men spännande scen med oväder, kapplöpning mot tiden och ett sorgligt slut.",
+    "characters": [
+      "Torsten Jakobsson",
+      "Berith Grensjö"
+    ],
+    "places": [
+      "Engs gård"
+    ]
+  },
+  "contentHash": "6f3138949e598df5ba4108298a511eae588bb5b07c4f8580d15ced03e7f2ad8d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

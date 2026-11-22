@@ -1,0 +1,180 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hulden_asfv.html",
+  "title": "Minnesruna över Alfred Huldén i Svenska Folkskolans vänners kalender (1970)",
+  "summary": "Minnesruna över lektorn och fil. dr Alfred Huldén, som växte upp i Monå och var lektor i historia vid Nykarleby seminarium 1929–53. Hans undervisning beskrivs som livsnära och förankrad i hembygdens historia.",
+  "topics": [
+    "minnesruna",
+    "lektor",
+    "historia",
+    "Nykarleby seminarium",
+    "Monå"
+  ],
+  "people": [
+    {
+      "name": "Alfred Huldén",
+      "alternateNames": [
+        "Isak Alfred Huldén"
+      ],
+      "birthYear": 1888,
+      "roles": [
+        "lektor i historia",
+        "fil. dr",
+        "lärare"
+      ],
+      "description": "Dödsdatumet anges på sidan som 8 februari 1910, vilket uppenbarligen är ett skrivfel, så det utelämnas här."
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Alfred Huldén i en länkad text."
+    },
+    {
+      "name": "Rabbe Sandelin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och tillhandahöll materialet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nörråkers",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gård i Monå där Huldén växte upp."
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Föglö",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Finns folkhögskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Esbo."
+    },
+    {
+      "name": "Åbolands folkhögskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Pargas."
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Alfred Huldén föddes i Munsala",
+      "date": {
+        "year": 1888,
+        "month": 4,
+        "day": 12,
+        "circa": false,
+        "text": "den 12 april 1888"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": [
+        "Munsala"
+      ]
+    },
+    {
+      "title": "Huldén fick lärarbetyg vid Nykarleby seminarium",
+      "date": {
+        "year": 1913,
+        "circa": false,
+        "text": "1913"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Huldén avlade filosofie kandidatexamen",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Huldén var lektor i historia vid Nykarleby seminarium",
+      "date": {
+        "year": 1929,
+        "circa": false,
+        "text": "1929—53"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Huldén förvärvade en doktorsgrad i utlandet",
+      "date": {
+        "year": 1960,
+        "circa": false,
+        "text": "1960"
+      },
+      "people": [
+        "Alfred Huldén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3bf23273e19bcbc0b5c812440fe0f524dafe3cddf2ef0b6dc326576e2dfd62e1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

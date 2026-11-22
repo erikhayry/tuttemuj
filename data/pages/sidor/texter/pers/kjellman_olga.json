@@ -1,0 +1,162 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_olga.html",
+  "title": "Olga Kjellman 1855–1927",
+  "summary": "Dödsruna över Olga Kjellman, född på Juthbacka, som blev första föreståndarinna för kommunalhemmet på Kuddnäs och sedan husmoder vid Kristliga Folkhögskolan i Nykarleby. Eleverna kallade henne \"Mor\". Sidan nämner också att Juthbacka gård såldes till provinsialläkaren Woldemar Backman.",
+  "topics": [
+    "dödsruna",
+    "Kuddnäs",
+    "Kristliga folkhögskolan",
+    "Juthbacka",
+    "husmoder"
+  ],
+  "people": [
+    {
+      "name": "Olga Kjellman",
+      "alternateNames": [
+        "Olga Alexandra Kjellman"
+      ],
+      "birthYear": 1855,
+      "deathYear": 1927,
+      "roles": [
+        "första föreståndarinna för kommunalhemmet på Kuddnäs",
+        "husmoder vid Kristliga Folkhögskolan"
+      ]
+    },
+    {
+      "name": "Gustaf Adolf Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "häradsskrivare"
+      ],
+      "description": "Olgas far."
+    },
+    {
+      "name": "Karolina Vilhelmina Backman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Olgas mor."
+    },
+    {
+      "name": "J. N.",
+      "alternateNames": [
+        "Johannes Nyström"
+      ],
+      "roles": [],
+      "description": "Skrev minnesorden; namnet Johannes Nyström anges med reservation på sidan."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "provinsialläkare"
+      ],
+      "description": "Köpte Juthbacka gård tillsammans med Elisabet Backman."
+    },
+    {
+      "name": "Elisabet Backman",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Jutbacka"
+      ],
+      "description": "Olgas födelsehem."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kommunalhemmet där Olga var föreståndarinna."
+    },
+    {
+      "name": "Kristliga Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Nykarleby; Olga var husmoder där.",
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Berget",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Olga ägde Berget."
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Olga Kjellman föddes på Juthbacka",
+      "date": {
+        "year": 1855,
+        "month": 5,
+        "day": 4,
+        "circa": false,
+        "text": "den 4 maj 1855"
+      },
+      "people": [
+        "Olga Kjellman"
+      ],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Olga var föreståndarinna för kommunalhemmet på Kuddnäs",
+      "date": {
+        "year": 1900,
+        "circa": false,
+        "text": "från 1900 till 1907 och från 1917 till 1921"
+      },
+      "people": [
+        "Olga Kjellman"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Olga Kjellman avled",
+      "date": {
+        "year": 1927,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "text": "den 24 febr. 1927"
+      },
+      "people": [
+        "Olga Kjellman"
+      ],
+      "places": [
+        "Kristliga Folkhögskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fda4fddc1766b09888dd24a1974ed8aea5385581fff9ed8d6be65a93873a39e2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

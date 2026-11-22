@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/leoogosta.html",
+  "title": "Leo och Gösta Ågren i Österbottniska Posten 1960",
+  "summary": "Notis ur Österbottniska Posten från september 1960 om bröderna Leo och Gösta Ågrens debutböcker hos Söderströms förlag. Leo debuterade med lyriksamlingen Stämmor i nordannatten och Gösta med reseskildringen Emigrantresa från British Columbia.",
+  "topics": [
+    "debut",
+    "litteratur",
+    "Söderströms förlag",
+    "Österbotten",
+    "emigration"
+  ],
+  "people": [
+    {
+      "name": "Leo Ågren",
+      "alternateNames": [],
+      "roles": [
+        "lyriker"
+      ],
+      "description": "Debuterade med Stämmor i nordannatten."
+    },
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Leos bror; kom med Emigrantresa."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och tillhandahöll materialet."
+    }
+  ],
+  "places": [
+    {
+      "name": "British Columbia",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Gösta Ågren besökte provinsen för Emigrantresa."
+    }
+  ],
+  "events": [
+    {
+      "title": "Leo Ågren debuterade med Stämmor i nordannatten och Gösta Ågren utgav Emigrantresa",
+      "date": {
+        "year": 1960,
+        "month": 9,
+        "circa": false,
+        "text": "september 1960"
+      },
+      "people": [
+        "Leo Ågren",
+        "Gösta Ågren"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3c2bf1ed28af523008455bb59d6152c47c715c90b899a0478c0e78fd9f58e930",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

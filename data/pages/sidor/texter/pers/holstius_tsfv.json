@@ -1,0 +1,174 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/holstius_tsfv.html",
+  "title": "Minnesruna över Torkel Holstius i Svenska Folkskolans vänners kalender (1950)",
+  "summary": "Minnesruna över Torkel Holstius, som i 25 år var lärare vid Ytterjeppo folkskola och dessutom hade många förtroendeuppdrag i kommunen, bland annat inom hälsovården och biblioteket. Han beskrivs som noggrann, hjärtevarm och en sammanhållande kraft bland lärarna.",
+  "topics": [
+    "minnesruna",
+    "lärare",
+    "Ytterjeppo",
+    "folkskola",
+    "samhällsengagemang"
+  ],
+  "people": [
+    {
+      "name": "Torkel Holstius",
+      "alternateNames": [
+        "Torkel Johannes Holstius"
+      ],
+      "birthYear": 1901,
+      "deathYear": 1949,
+      "roles": [
+        "lärare vid Ytterjeppo folkskola",
+        "ordförande för hälsovårdsnämnden",
+        "bokförare för Nykarleby-Purmo kommunalhem",
+        "kamrerare i Nykarleby andelskassa",
+        "ombud för Svenska folkskolans vänner"
+      ]
+    },
+    {
+      "name": "T. G.",
+      "alternateNames": [
+        "Ture Granqvist"
+      ],
+      "roles": [],
+      "description": "Skrev minnesrunan; namnet Ture Granqvist anges med frågetecken på sidan."
+    },
+    {
+      "name": "Rabbe Sandelin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och tillhandahöll materialet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Ytterjeppo folkskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstads samlyceum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby-Purmo kommunalhem",
+      "kind": "building",
+      "alternateNames": [
+        "Östervall"
+      ]
+    },
+    {
+      "name": "Jakobstadsnejdens epidemisjukhus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Östanlid sanatorium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby andelskassa",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bennäs",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "I Pedersöre."
+    },
+    {
+      "name": "Pedersöre",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby landskommun",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Torkel Holstius föddes i Bennäs",
+      "date": {
+        "year": 1901,
+        "month": 8,
+        "day": 27,
+        "circa": false,
+        "text": "den 27 augusti 1901"
+      },
+      "people": [
+        "Torkel Holstius"
+      ],
+      "places": [
+        "Bennäs"
+      ]
+    },
+    {
+      "title": "Holstius vann lärarkompetens och antogs till lärare vid Ytterjeppo folkskola",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "1923"
+      },
+      "people": [
+        "Torkel Holstius"
+      ],
+      "places": [
+        "Ytterjeppo folkskola"
+      ]
+    },
+    {
+      "title": "Holstius deltog som frivillig i 1918 års krig",
+      "date": {
+        "year": 1918,
+        "circa": false,
+        "text": "1918 års krig"
+      },
+      "people": [
+        "Torkel Holstius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Torkel Holstius avled oväntat i sitt hem",
+      "date": {
+        "year": 1949,
+        "month": 12,
+        "day": 29,
+        "circa": false,
+        "text": "natten mot den 29 dec. 1949"
+      },
+      "people": [
+        "Torkel Holstius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3ae472b5283b4017bdbf13e8e72156473e13979a22d12030e0e81cd9766a6981",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

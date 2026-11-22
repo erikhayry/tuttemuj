@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hogbackabarn.html",
+  "title": "Högbackabor",
+  "summary": "Ett luckinlägg i adventskalendern 2012 med fotografier av människor från Högbacka vid infarten till familjens gård. Bildtexterna namnger släktingarna och grannarna och nämner det gamla huset som revs 1962.",
+  "topics": [
+    "adventskalendern",
+    "Högbacka",
+    "fotografi",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Irene Backlund",
+      "alternateNames": [
+        "Irene Finne"
+      ],
+      "roles": [],
+      "description": "Född Finne; skildrad i det gamla huset."
+    },
+    {
+      "name": "Harald Ekblad",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Klara Ekblad",
+      "alternateNames": [
+        "Klara Mårtens"
+      ],
+      "roles": [],
+      "description": "Född Mårtens."
+    },
+    {
+      "name": "Maria Sjöblom",
+      "alternateNames": [
+        "Maria Backlund"
+      ],
+      "roles": [],
+      "description": "Född Backlund; tillhandahöll bilderna."
+    },
+    {
+      "name": "Mats Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Pelle",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bodde på Solvins gård."
+    },
+    {
+      "name": "Frans Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vilhelm Nyby",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev På besök hos Frans och Irene Backlund."
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacka",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Backlunds gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gården vid vars infart fotografiet togs."
+    },
+    {
+      "name": "Solvins gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Mårtens gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Mårtens"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Det gamla huset revs",
+      "date": {
+        "year": 1962,
+        "circa": false,
+        "text": "revs 1962"
+      },
+      "people": [
+        "Irene Backlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "520cf8f5c32d4e95cd00be731c2352c002ae642eddb0aae4e54da03faa333eb0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

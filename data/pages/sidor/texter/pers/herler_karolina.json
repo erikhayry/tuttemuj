@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/herler_karolina.html",
+  "title": "Minnesruna över Karolina Elisabet (Lina) Herler 1843–1943",
+  "summary": "Dödsruna över Lina Herler, som avled som Nykarlebys äldsta invånare vid 99 års ålder. Hon mindes händelser från 1850-talet, bland annat stadens brand, och hade i decennier skött det herlerska hemmet vid älven efter makens död.",
+  "topics": [
+    "dödsruna",
+    "Herler",
+    "stadsbranden",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Karolina Elisabet Herler",
+      "alternateNames": [
+        "Lina Herler",
+        "Karolina Elisabet (Lina) Herler",
+        "Karolina Silfverberg"
+      ],
+      "birthYear": 1843,
+      "deathYear": 1943,
+      "roles": [
+        "änkefru",
+        "ortens äldsta invånare"
+      ],
+      "description": "Född Silfverberg; avled 99 år och 10 dagar gammal."
+    },
+    {
+      "name": "Josef Herler (ölbryggaren)",
+      "alternateNames": [
+        "Josef Herler"
+      ],
+      "deathYear": 1899,
+      "roles": [
+        "ölbryggare"
+      ],
+      "description": "Karolina Herlers make; hon var änka efter honom sedan 1899. Sonen Josef Herler nämns separat i en länk."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och tillhandahöll materialet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Herlerska hemmet",
+      "kind": "farm",
+      "alternateNames": [
+        "det herlerska hemmet vid älvens strand"
+      ],
+      "description": "Hem vid älvens strand."
+    }
+  ],
+  "events": [
+    {
+      "title": "Karolina Herler avled",
+      "date": {
+        "year": 1943,
+        "circa": false,
+        "text": "1843–1943"
+      },
+      "people": [
+        "Karolina Elisabet Herler"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ölbryggaren Josef Herler avled och Karolina blev änka",
+      "date": {
+        "year": 1899,
+        "circa": false,
+        "text": "Änka sedan 1899"
+      },
+      "people": [
+        "Karolina Elisabet Herler",
+        "Josef Herler (ölbryggaren)"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b78eadff489c2dc2f8879eeea6b0a370656748e21b55dc498369a9e54171b2fc",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hongelau.htm",
+  "title": "Alma Hongell 1849–1935",
+  "summary": "Uppslagsverksartikel om Alma Hongell, född i Nykarleby, som var lärarinna, missionsvän och författare av religiösa barnböcker. Även dottern Ada Hongell, lektor och rektor i Gamlakarleby, presenteras.",
+  "topics": [
+    "författare",
+    "barnböcker",
+    "mission",
+    "nykterhet",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Alma Hongell",
+      "alternateNames": [
+        "Alma Alexandra Hongell",
+        "A***"
+      ],
+      "birthYear": 1849,
+      "deathYear": 1935,
+      "roles": [
+        "religiös författarinna",
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Ada Hongell",
+      "alternateNames": [],
+      "birthYear": 1879,
+      "deathYear": 1930,
+      "roles": [
+        "fil.kand.",
+        "lektor i svenska och historia",
+        "rektor vid Svenska samskolan i Gamlakarleby"
+      ],
+      "description": "Almas dotter; engagerad i den aktivistiska verksamheten i seklets början."
+    },
+    {
+      "name": "J.J. Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Österbottningar i vardagsdräkt (1934)."
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Minnen från stadsbiblioteket i Nykarleby."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Fattigsmåbarnsskolan eller Backlunds skola i Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [
+        "Nkby"
+      ]
+    },
+    {
+      "name": "Karleby",
+      "kind": "district",
+      "alternateNames": [
+        "Gamlakarleby"
+      ]
+    },
+    {
+      "name": "Svenska samskolan i Gamlakarleby",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Fattigsmåbarnsskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Backlunds skola"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Alma Hongell föddes i Nykarleby",
+      "date": {
+        "year": 1849,
+        "month": 10,
+        "day": 15,
+        "circa": false,
+        "text": "15/10 1849"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Alma Hongell gifte sig med en sjökapten",
+      "date": {
+        "year": 1877,
+        "circa": false,
+        "text": "1877"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Alma Hongell grundade en missionssyförening i Karleby",
+      "date": {
+        "year": 1883,
+        "circa": false,
+        "text": "1883"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": [
+        "Karleby"
+      ]
+    },
+    {
+      "title": "Almas make sjökaptenen avled under en resa till Indien",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "1895"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lilla Rosas födelsedag utgavs",
+      "date": {
+        "year": 1908,
+        "circa": false,
+        "text": "1908"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Majdrottningen utgavs",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "1919"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Alma Hongell avled i Karleby",
+      "date": {
+        "year": 1935,
+        "month": 1,
+        "day": 6,
+        "circa": false,
+        "text": "6/1 1935"
+      },
+      "people": [
+        "Alma Hongell"
+      ],
+      "places": [
+        "Karleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "796da597fb69644b489491eeb7d0fa4a217d35ce42c0a43d7ce750e86efe8b20",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,155 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hjortdu.htm",
+  "title": "Daniel Hjort –1615",
+  "summary": "Uppslagsverksartikel om Daniel Hjort, tjänsteman hos Karl IX, som var förebild för hjälten i J. J. Wecksells sorgespel. Han deltog i belägringen av Åbo slott, reste till Lappland och Ryssland och dödades i ett kroggräl i Stockholm.",
+  "topics": [
+    "Daniel Hjort",
+    "Karl IX",
+    "Åbo slott",
+    "Wecksell",
+    "historia"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hjort",
+      "alternateNames": [
+        "Hjortwipa"
+      ],
+      "deathYear": 1615,
+      "roles": [
+        "tjänsteman hos Karl IX"
+      ],
+      "description": "Bördig från Småland; adlad under namnet Hjortwipa."
+    },
+    {
+      "name": "Karl IX",
+      "alternateNames": [
+        "hertig Karl"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Sigfrid Forsius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickades tillsammans med Hjort till Lappland 1601."
+    },
+    {
+      "name": "J. J. Wecksell",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev sorgespelet Daniel Hjort."
+    },
+    {
+      "name": "Klas Fleming",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "N. Ahnlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Svensk sägen och hävd (1928)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Åbo slott",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lappland",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Daniel Hjort avled i Stockholm",
+      "date": {
+        "year": 1615,
+        "month": 1,
+        "day": 28,
+        "circa": false,
+        "text": "28/l 1615"
+      },
+      "people": [
+        "Daniel Hjort"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hertig Karls belägring av Åbo slott",
+      "date": {
+        "year": 1597,
+        "circa": false,
+        "text": "1597"
+      },
+      "people": [
+        "Daniel Hjort",
+        "Karl IX"
+      ],
+      "places": [
+        "Åbo slott"
+      ]
+    },
+    {
+      "title": "Hjort och Sigfrid Forsius skickades till Lappland",
+      "date": {
+        "year": 1601,
+        "circa": false,
+        "text": "1601"
+      },
+      "people": [
+        "Daniel Hjort",
+        "Sigfrid Forsius"
+      ],
+      "places": [
+        "Lappland"
+      ]
+    },
+    {
+      "title": "Hjort sändes på diplomatisk mission till Ryssland",
+      "date": {
+        "year": 1606,
+        "circa": false,
+        "text": "År 1606"
+      },
+      "people": [
+        "Daniel Hjort"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hjort befullmäktigades att inspektera lappfogdarna",
+      "date": {
+        "year": 1610,
+        "circa": false,
+        "text": "1610"
+      },
+      "people": [
+        "Daniel Hjort"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ung man får veta att hans far, en österbottnisk bonde, dödats av Klas Flemings knektar. Han förråder det belägrade slottet för att utkräva hämnd men dödas själv av en adelsman.",
+    "reason": "Hämnd, svek och ett tragiskt slut ger en stark dramatisk båge, även om sidan bara återger pjäsens handling i korthet.",
+    "characters": [
+      "Daniel Hjort",
+      "Klas Fleming"
+    ],
+    "places": [
+      "Åbo slott"
+    ]
+  },
+  "contentHash": "a28c00de66a2e17a9af6979e606b66758b464a85c503259746a39a1924263f60",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

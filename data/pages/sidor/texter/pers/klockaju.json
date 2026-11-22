@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/klockaju.htm",
+  "title": "Johannes Klockars 1867–1932 i Uppslagsverket Finland",
+  "summary": "Uppslagsverksartikel om folkbildaren och nykterhetsmannen Johannes Klockars, som grundade Finlands första svenska ungdomsförening och ledde Kronoby folkhögskola. Han var också riksdagsman och redaktör, och sidan nämner sonen Bertel Klockars från Nykarleby.",
+  "topics": [
+    "folkbildning",
+    "nykterhetsrörelsen",
+    "ungdomsföreningar",
+    "riksdagsman",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Johannes Klockars",
+      "alternateNames": [],
+      "birthYear": 1867,
+      "deathYear": 1932,
+      "roles": [
+        "folkbildare",
+        "nykterhetsman",
+        "fil.kand.",
+        "föreståndare för Kronoby folkhögskola",
+        "huvudredaktör för Vasa-Posten",
+        "riksdagsman",
+        "kommunalråd"
+      ]
+    },
+    {
+      "name": "Bertel Klockars",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Johannes Klockars son, bosatt i Nykarleby."
+    },
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Refererar till Klockars verk i Nykarlebymålet Ett språkeri."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kronoby folkhögskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Malax",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": [
+        "Hfrs"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Johannes Klockars föddes i Malax",
+      "date": {
+        "year": 1867,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "text": "7/9 1867"
+      },
+      "people": [
+        "Johannes Klockars"
+      ],
+      "places": [
+        "Malax"
+      ]
+    },
+    {
+      "title": "Klockars grundade den första svenska ungdomsföreningen i Finland",
+      "date": {
+        "year": 1888,
+        "circa": false,
+        "text": "1888"
+      },
+      "people": [
+        "Johannes Klockars"
+      ],
+      "places": []
+    },
+    {
+      "title": "Klockars var föreståndare för Kronoby folkhögskola",
+      "date": {
+        "year": 1891,
+        "circa": false,
+        "text": "1891—1918"
+      },
+      "people": [
+        "Johannes Klockars"
+      ],
+      "places": [
+        "Kronoby folkhögskola"
+      ]
+    },
+    {
+      "title": "Klockars var huvudredaktör för Vasa-Posten",
+      "date": {
+        "year": 1920,
+        "circa": false,
+        "text": "1920—26"
+      },
+      "people": [
+        "Johannes Klockars"
+      ],
+      "places": []
+    },
+    {
+      "title": "Klockars var riksdagsman",
+      "date": {
+        "year": 1924,
+        "circa": false,
+        "text": "1924—27"
+      },
+      "people": [
+        "Johannes Klockars"
+      ],
+      "places": []
+    },
+    {
+      "title": "Johannes Klockars avled i Helsingfors",
+      "date": {
+        "year": 1932,
+        "month": 10,
+        "day": 20,
+        "circa": false,
+        "text": "20/10 1932"
+      },
+      "people": [
+        "Johannes Klockars"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f79a4aee7c6f0f6130e25612f438bc6194cf0261c70f49de120a82749da44e48",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

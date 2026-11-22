@@ -1,0 +1,152 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/hellstrt.htm",
+  "title": "Torkel Hellström 1890–1945",
+  "summary": "Personhistoria om magister Torkel Hellström, löjtnant och redaktör, som gifte sig med nykarlebybon Marita Granberg. Sidan visar bilder av Grundfeldtska gården på Topeliusesplanaden och länkar till hans prosa, brev och nekrolog.",
+  "topics": [
+    "personhistoria",
+    "släkt",
+    "redaktör",
+    "Grundfeldtska gården",
+    "Topeliusbysten"
+  ],
+  "people": [
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [
+        "Torkel Edmund Hellström"
+      ],
+      "birthYear": 1890,
+      "deathYear": 1945,
+      "roles": [
+        "fil. mag.",
+        "löjtnant",
+        "redaktör för Österbottniska Pressen",
+        "ordförande för insamlingskommittén för Topeliusbysten"
+      ]
+    },
+    {
+      "name": "Marita Granberg",
+      "alternateNames": [],
+      "birthYear": 1912,
+      "roles": [],
+      "description": "Gift med Torkel Hellström; född i Nykarleby."
+    },
+    {
+      "name": "Karl Arvid Uno Granberg",
+      "alternateNames": [],
+      "roles": [
+        "konditor"
+      ],
+      "description": "Maritas far, från Nykarleby."
+    },
+    {
+      "name": "Albertina Harald",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Maritas mor, född Harald."
+    },
+    {
+      "name": "Hilma Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "amatörfotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll material till sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Gamla Grundfeldtska gården"
+      ],
+      "address": "Topeliusesplanaden 20 vid korsningen med Lybecksgatan",
+      "description": "Ägdes av magister Torkel Hellström."
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Torkel Hellström föddes i Gamla Karleby",
+      "date": {
+        "year": 1890,
+        "month": 11,
+        "day": 9,
+        "circa": false,
+        "text": "9/11 1890"
+      },
+      "people": [
+        "Torkel Hellström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Torkel Hellström var redaktör för Österbottniska Pressen",
+      "date": {
+        "year": 1934,
+        "circa": false,
+        "text": "1934—35"
+      },
+      "people": [
+        "Torkel Hellström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Torkel Hellström och Marita Granberg gifte sig",
+      "date": {
+        "year": 1938,
+        "month": 6,
+        "day": 24,
+        "circa": false,
+        "text": "24/6 1938"
+      },
+      "people": [
+        "Torkel Hellström",
+        "Marita Granberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1d29b24d132ee298eed507df77cf41018ac50afe23d80ed62499c6bbd9b92146",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

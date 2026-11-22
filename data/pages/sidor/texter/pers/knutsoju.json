@@ -1,0 +1,156 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/knutsoju.htm",
+  "title": "Johan Knutson 1816–1899",
+  "summary": "Uppslagsverksartikel om målaren Johan Knutson, född i Skåne, som flyttade till Finland för att illustrera planschverket Finland framstäldt i teckningar och var teckningslärare i Borgå. Han gjorde porträtt av bland andra Runeberg och blev senare landskapsmålare.",
+  "topics": [
+    "målare",
+    "grafik",
+    "Borgå",
+    "porträtt",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Johan Knutson",
+      "alternateNames": [],
+      "birthYear": 1816,
+      "deathYear": 1899,
+      "roles": [
+        "målare",
+        "lärare i teckning vid Borgå gymnasium",
+        "porträttmålare",
+        "landskapsmålare"
+      ]
+    },
+    {
+      "name": "P.A. Kruskopf",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Stod vid sidan av Knutson för de flesta illustrationerna i planschverket."
+    },
+    {
+      "name": "Runeberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Knutson gjorde flera porträtt och figurbilder av honom."
+    }
+  ],
+  "places": [
+    {
+      "name": "Alverum",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "I Skåne; Knutsons födelseort."
+    },
+    {
+      "name": "Lund",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Köpenhamn",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Stockholm",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgå gymnasium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgå",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": [
+        "Hfrs"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Johan Knutson föddes i Alverum, Skåne",
+      "date": {
+        "year": 1816,
+        "month": 9,
+        "day": 28,
+        "circa": false,
+        "text": "28/9 1816"
+      },
+      "people": [
+        "Johan Knutson"
+      ],
+      "places": [
+        "Alverum"
+      ]
+    },
+    {
+      "title": "Knutson flyttade till Finland",
+      "date": {
+        "year": 1840,
+        "circa": false,
+        "text": "1840"
+      },
+      "people": [
+        "Johan Knutson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Finland framstäldt i teckningar utkom",
+      "date": {
+        "year": 1845,
+        "circa": false,
+        "text": "1845—52"
+      },
+      "people": [
+        "Johan Knutson",
+        "P.A. Kruskopf"
+      ],
+      "places": []
+    },
+    {
+      "title": "Knutson var lärare i teckning vid Borgå gymnasium",
+      "date": {
+        "year": 1844,
+        "circa": false,
+        "text": "1844—90"
+      },
+      "people": [
+        "Johan Knutson"
+      ],
+      "places": [
+        "Borgå gymnasium"
+      ]
+    },
+    {
+      "title": "Johan Knutson avled i Helsingfors",
+      "date": {
+        "year": 1899,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "13/9 1899"
+      },
+      "people": [
+        "Johan Knutson"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2486168396213d8b7bb3a3a01fd3f2ee736731ad2511521d6cd084b631ac5ad6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/herlerj_jt59.html",
+  "title": "Josef Herler i Jakobstads Tidning 1959",
+  "summary": "Ett porträtt av Josef Herler i Jakobstads Tidning 1959, som beskriver honom som skådespelare, regissör, bokhandlare, kaféägare, lärare i recitation och drivande kraft bakom Nykarleby stads museum. Artikeln firar också hans huvudroll i Swedenhielms.",
+  "topics": [
+    "teater",
+    "porträtt",
+    "museum",
+    "recitation",
+    "tidningsartikel"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "skådespelare",
+        "regissör",
+        "bokhandlare",
+        "kaféägare",
+        "sceninstruktör",
+        "lärare i recitation"
+      ]
+    },
+    {
+      "name": "Hjalmar Bergman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev komedin Swedenhielms."
+    },
+    {
+      "name": "Dan Kronqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll tidningsklippet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Café som Herler drev under en tid."
+    },
+    {
+      "name": "Nykarleby stads museum",
+      "kind": "building",
+      "alternateNames": [
+        "Herlers museum"
+      ]
+    },
+    {
+      "name": "Arkadiateatern",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Svenska inhemska teatern i Åbo",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Svenska teatern i Helsingfors",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Herler spelade huvudrollen i Swedenhielms",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "senaste söndag (artikel 18 april 1959)"
+      },
+      "people": [
+        "Josef Herler",
+        "Hjalmar Bergman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5d3296346627f56754acb3a0cec3119d5a171270d3a7ccf0c14b72136a0509bf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

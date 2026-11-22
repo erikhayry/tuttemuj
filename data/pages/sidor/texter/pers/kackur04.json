@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kackur04.htm",
+  "title": "Kackurdunten den 16 juli 2004",
+  "summary": "Ett fotografi och en kort berättelse från en årlig tur till Kackurdunten den 16 juli 2004, där besökarna skriver sina namn i ett häfte. Sidan nämner även andra platser med liknande lådor, som Banvallen och Bådasvängen.",
+  "topics": [
+    "Kackurdunten",
+    "utflykt",
+    "natur",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Eva Wahlberg Sandberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Sandström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leo Östman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Följde med på turen."
+    },
+    {
+      "name": "Boris Nyman",
+      "alternateNames": [],
+      "roles": [
+        "förre byggnadsinspektör"
+      ],
+      "description": "Brukar ha flest namnteckningar i häftet."
+    },
+    {
+      "name": "Bertel Klockars",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Naturglimt."
+    },
+    {
+      "name": "Karl Björnvik",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Leo Östmans mormorsfar."
+    },
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Lådminnen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kackurdunten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Mål för den årliga turen; där finns en låda med häfte för namnteckningar."
+    },
+    {
+      "name": "Banvallen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Plats med låda."
+    },
+    {
+      "name": "Bådasvängen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Plats med låda.",
+      "geo": {
+        "lat": 63.5408541,
+        "lng": 22.5064349,
+        "match": "name",
+        "gazetteerName": "bådasvängen",
+        "gazetteerKind": "other",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Roskgrävsinfarten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Plats med låda."
+    }
+  ],
+  "events": [
+    {
+      "title": "Den årliga turen till Kackurdunten",
+      "date": {
+        "year": 2004,
+        "month": 7,
+        "day": 16,
+        "circa": false,
+        "text": "den 16 juli 2004 klockan 20.03"
+      },
+      "people": [
+        "Eva Wahlberg Sandberg",
+        "Peter Sandström",
+        "Leo Östman"
+      ],
+      "places": [
+        "Kackurdunten"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ec1dfb71d49ba3cf26e1877e10b3bb22821f578fd3cd4817f37e27e9b48ca894",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

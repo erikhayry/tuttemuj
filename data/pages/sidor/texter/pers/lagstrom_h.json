@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/lagstrom_h.html",
+  "title": "Hugo Lagström 1894–1967",
+  "summary": "Kort personnotis om Hugo Lagström, född i Jakobstad, som var lärare och senare lektor vid Björneborgs svenska samskola och forskarledamot av Genealogiska Samfundet. Sidan länkar till en nekrolog och hans artiklar.",
+  "topics": [
+    "lärare",
+    "genealogi",
+    "Björneborg",
+    "personhistoria"
+  ],
+  "people": [
+    {
+      "name": "Hugo Lagström",
+      "alternateNames": [
+        "Hugo Bernhard Lagström"
+      ],
+      "birthYear": 1894,
+      "deathYear": 1967,
+      "roles": [
+        "lärare",
+        "lektor vid Björneborgs svenska samskola",
+        "forskarledamot av Genealogiska Samfundet i Finland"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Björneborgs svenska samskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Björneborg",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hugo Lagström föddes i Jakobstad",
+      "date": {
+        "year": 1894,
+        "month": 9,
+        "day": 11,
+        "circa": false,
+        "text": "11.9.1894"
+      },
+      "people": [
+        "Hugo Lagström"
+      ],
+      "places": [
+        "Jakobstad"
+      ]
+    },
+    {
+      "title": "Lagström kallades till forskarledamot av Genealogiska Samfundet",
+      "date": {
+        "year": 1957,
+        "circa": false,
+        "text": "1957"
+      },
+      "people": [
+        "Hugo Lagström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hugo Lagström avled i Björneborg",
+      "date": {
+        "year": 1967,
+        "month": 6,
+        "day": 21,
+        "circa": false,
+        "text": "21 juni 1967"
+      },
+      "people": [
+        "Hugo Lagström"
+      ],
+      "places": [
+        "Björneborg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bc307405a714bfa8ec08b396a0f8aed9f4a2a61618e330cca2568128696d3494",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

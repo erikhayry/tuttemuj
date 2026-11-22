@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kankkonen_a.html",
+  "title": "Minnesrunor över Anders Kankkonen och Sofia Erika Kankkonen",
+  "summary": "Två dödsrunor ur Österbottniska Posten över makarna Anders och Sofia Erika Kankkonen, som drev gästgiveriet i Nykarleby. Anders hade tidigare varit affärsman i Vasa och Gamlakarleby, och Sofia kom från Sverige och blev matmor på gästgiveriet.",
+  "topics": [
+    "dödsruna",
+    "gästgiveri",
+    "handlande",
+    "Österbottniska Posten",
+    "Stadshotellet"
+  ],
+  "people": [
+    {
+      "name": "Anders Kankkonen",
+      "alternateNames": [
+        "Anders Kankkunen"
+      ],
+      "roles": [
+        "handlande",
+        "gästgivare i Nykarleby"
+      ],
+      "description": "Född på Kankkos hemman i Gamlakarleby landsförsamling; avled i sitt 53:e levnadsår."
+    },
+    {
+      "name": "Sofia Erika Kankkonen",
+      "alternateNames": [
+        "Sofia Erika Dillée"
+      ],
+      "roles": [
+        "matmor vid gästgiveriet"
+      ],
+      "description": "Född Dillée i Sverige; avled i Nykarleby efter långvarigt lidande."
+    },
+    {
+      "name": "Karl Finnilä",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägare av firman där Anders var anställd i ett tiotal år."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gästgiveriet i Nykarleby",
+      "kind": "building",
+      "alternateNames": [
+        "Stadshotellet"
+      ],
+      "description": "Anders Kankkonen förestod det 1894–1905."
+    },
+    {
+      "name": "Kankkos hemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "I Gamlakarleby landsförsamling."
+    },
+    {
+      "name": "Dalabacka hemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "I Nykarleby landsförsamling."
+    },
+    {
+      "name": "Svedbergska skolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I Munsala."
+    },
+    {
+      "name": "Gamlakarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sofia Erika Kankkonen avled i Nykarleby",
+      "date": {
+        "year": 1903,
+        "circa": false,
+        "text": "den 9:de dennes (artikel 13.11.1903)"
+      },
+      "people": [
+        "Sofia Erika Kankkonen"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Anders Kankkonen flyttade till Nykarleby och övertog gästgiveriet",
+      "date": {
+        "year": 1894,
+        "circa": false,
+        "text": "År 1894"
+      },
+      "people": [
+        "Anders Kankkonen"
+      ],
+      "places": [
+        "Gästgiveriet i Nykarleby",
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Kankkonen förestod gästgiveriet till detta år",
+      "date": {
+        "year": 1905,
+        "circa": false,
+        "text": "till 1905"
+      },
+      "people": [
+        "Anders Kankkonen"
+      ],
+      "places": [
+        "Gästgiveriet i Nykarleby"
+      ]
+    },
+    {
+      "title": "Anders Kankkonen avled",
+      "date": {
+        "year": 1911,
+        "circa": false,
+        "text": "i onsdags (artikel 17.02.1911)"
+      },
+      "people": [
+        "Anders Kankkonen"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "99d32f09f95f9721c175431addc50834990f51c53e2782048ef979d807a4cfd7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

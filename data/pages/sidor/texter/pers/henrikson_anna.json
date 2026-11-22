@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/henrikson_anna.html",
+  "title": "Minnesruna över Anna Henrikson 1931",
+  "summary": "Dödsruna över lärarinnan Anna Henrikson, som nästan hela sitt yrkesliv undervisade i Nykarleby, särskilt vid fruntimmersskolan där hon var både första elev och sista lärarinna. Hon engagerade sig också i söndagsskola, sjömansmission och föreningen De gamlas hem.",
+  "topics": [
+    "dödsruna",
+    "lärarinna",
+    "fruntimmersskolan",
+    "skolväsen",
+    "De gamlas hem"
+  ],
+  "people": [
+    {
+      "name": "Anna Henrikson",
+      "alternateNames": [
+        "Anna Henriksson"
+      ],
+      "deathYear": 1931,
+      "roles": [
+        "lärarinna",
+        "föreståndarinna vid Nykarleby fruntimmersskola",
+        "ordförande för De gamlas hem"
+      ]
+    },
+    {
+      "name": "Jakob Henrikson",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ],
+      "description": "Annas far."
+    },
+    {
+      "name": "Maria Sofia",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Annas mor, gift med Jakob Henrikson."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby fruntimmersskola",
+      "kind": "building",
+      "alternateNames": [
+        "fruntimmersskolan"
+      ]
+    },
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "stadens kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Anna Henrikson avled",
+      "date": {
+        "year": 1931,
+        "month": 4,
+        "day": 4,
+        "circa": false,
+        "text": "Den 4 april"
+      },
+      "people": [
+        "Anna Henrikson"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Anna Henrikson blev lärarinna i tyska vid fruntimmersskolan",
+      "date": {
+        "year": 1883,
+        "circa": false,
+        "text": "År 1883"
+      },
+      "people": [
+        "Anna Henrikson"
+      ],
+      "places": [
+        "Nykarleby fruntimmersskola"
+      ]
+    },
+    {
+      "title": "Fruntimmersskolan upphörde",
+      "date": {
+        "year": 1909,
+        "circa": false,
+        "text": "våren 1909"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby fruntimmersskola"
+      ]
+    },
+    {
+      "title": "Anna Henrikson anställdes vid Nykarleby samskola",
+      "date": {
+        "year": 1919,
+        "circa": false,
+        "text": "år 1919"
+      },
+      "people": [
+        "Anna Henrikson"
+      ],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    },
+    {
+      "title": "Anna Henriksons tid vid samskolan tog slut",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "t. o. m. vårterminen 1928"
+      },
+      "people": [
+        "Anna Henrikson"
+      ],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "75fc5f752747afaa081c8209f88933dfbb07ebba31e88a8ad10820c64de8e127",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

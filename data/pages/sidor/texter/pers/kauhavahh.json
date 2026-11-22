@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kauhavahh.html",
+  "title": "Utfärder till Kauhava",
+  "summary": "Fotografier från en eller två utfärder till Kauhava runt 1930, troligen med Alfred Sunds buss som Nykarlebys ungdomar hade hyrt. Sidan frågar efter vilka pojkarna på bilderna är och nämner Bjarnes minne av att springa efter flygblad.",
+  "topics": [
+    "utfärd",
+    "Kauhava",
+    "buss",
+    "fotografi",
+    "ungdom"
+  ],
+  "people": [
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans buss användes troligen för utfärden; står längst fram i mitten på bilden."
+    },
+    {
+      "name": "Bjarne",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Minns hur det värkte i halsen när han sprang efter flygbladen."
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och tillhandahöll bilderna."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Kauhavakråkor över Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kauhava",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utfärder med Nykarlebys ungdomar till Kauhava",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "runt 1930"
+      },
+      "people": [
+        "Alfred Sund"
+      ],
+      "places": [
+        "Kauhava"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b2fee53d9fa08d012fe10eff210c36bb3e0bdc1f51239f250565d53d1812472e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/ilkkajau.htm",
+  "title": "Jakob Ilkka 1545[?]–1597",
+  "summary": "Uppslagsverksartikel om Jakob Ilkka, storbonde och ledare för de österbottniska bönderna under klubbekriget, som tillfångatogs, flydde och till sist avrättades vid Storkyro kyrka. Ett minnesmärke över honom restes i Ilmola.",
+  "topics": [
+    "klubbekriget",
+    "bondeuppror",
+    "Klas Fleming",
+    "1500-talet",
+    "Österbotten"
+  ],
+  "people": [
+    {
+      "name": "Jakob Ilkka",
+      "alternateNames": [
+        "Jakob Bengtsson Ilkka"
+      ],
+      "birthYear": 1545,
+      "deathYear": 1597,
+      "roles": [
+        "bondeledare",
+        "storbonde"
+      ],
+      "description": "Födelseåret 1545 anges enligt Wikipedia och med frågetecken; född troligen i Ilmola."
+    },
+    {
+      "name": "Klas Fleming",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "M. Visanti",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde minnesmärket över Ilkka (1924)."
+    },
+    {
+      "name": "P. Renvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Kuninkaanmiehiä ja kapinoitsijoita (1949)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Ilmola",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Ilkkas troliga födelseort."
+    },
+    {
+      "name": "Ilmola kyrkby",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Plats för minnesmärket över Ilkka."
+    },
+    {
+      "name": "Storkyro",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Där Ilkka avrättades invid kyrkan."
+    },
+    {
+      "name": "Storkyro kyrka",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nokia gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Dit Klas Fleming anlände."
+    },
+    {
+      "name": "Rautalampi",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Österbotten",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ilkka deltog i ryska kriget",
+      "date": {
+        "year": 1591,
+        "circa": false,
+        "text": "1591—94"
+      },
+      "people": [
+        "Jakob Ilkka"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ilkka tillfångatogs efter en resning men lyckades fly",
+      "date": {
+        "year": 1596,
+        "month": 1,
+        "circa": false,
+        "text": "i januari 1596"
+      },
+      "people": [
+        "Jakob Ilkka"
+      ],
+      "places": [
+        "Österbotten",
+        "Rautalampi"
+      ]
+    },
+    {
+      "title": "Klas Fleming anlände till Nokia gård och uppmanade bönderna att utlämna Ilkka",
+      "date": {
+        "year": 1596,
+        "month": 12,
+        "day": 31,
+        "circa": false,
+        "text": "31/12"
+      },
+      "people": [
+        "Klas Fleming",
+        "Jakob Ilkka"
+      ],
+      "places": [
+        "Nokia gård"
+      ]
+    },
+    {
+      "title": "Jakob Ilkka avrättades vid Storkyro kyrka",
+      "date": {
+        "year": 1597,
+        "month": 1,
+        "circa": false,
+        "text": "jan. 1597"
+      },
+      "people": [
+        "Jakob Ilkka"
+      ],
+      "places": [
+        "Storkyro kyrka"
+      ]
+    },
+    {
+      "title": "Ett minnesmärke över Ilkka restes i Ilmola kyrkby",
+      "date": {
+        "year": 1924,
+        "circa": false,
+        "text": "1924"
+      },
+      "people": [
+        "Jakob Ilkka",
+        "M. Visanti"
+      ],
+      "places": [
+        "Ilmola kyrkby"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En österbottnisk storbonde tar befälet över bondehären och marscherar mot Klas Fleming, men tvingas fly när Fleming kräver att ledarna lämnas ut. Han hinns upp och avrättas vid Storkyro kyrka, enligt uppgift mot Flemings uttryckliga förbud.",
+    "reason": "Ett uppror, en flykt och ett dödligt slut ger ett tydligt spänningsbåge, men sidan ger bara en kortfattad sammanfattning.",
+    "characters": [
+      "Jakob Ilkka",
+      "Klas Fleming"
+    ],
+    "places": [
+      "Storkyro kyrka",
+      "Nokia gård"
+    ]
+  },
+  "contentHash": "1656e0890ad3063405a10a5d12fd5b83c3d68dcf6012c34cbe7b843cd17737f0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

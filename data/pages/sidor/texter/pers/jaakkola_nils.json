@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/jaakkola_nils.html",
+  "title": "Minnesruna över Nils Jaakkola 1849–1928",
+  "summary": "Dödsruna över häradsdomaren Nils Jaakkola från Monå, som kom upp från armod till välstånd genom hårt arbete och fostrade sina barn strängt. Sidan förklarar också att släktnamnet Huldén antogs av hans söner och att hans eget efternamn är hemmansnamnet Jaakkola.",
+  "topics": [
+    "dödsruna",
+    "häradsdomare",
+    "Monå",
+    "släktnamn",
+    "Huldén"
+  ],
+  "people": [
+    {
+      "name": "Nils Jaakkola",
+      "alternateNames": [
+        "Nils Jaakola",
+        "Nils Jakkola",
+        "Nils Jackola"
+      ],
+      "birthYear": 1849,
+      "deathYear": 1928,
+      "roles": [
+        "häradsdomare",
+        "nämndeman i häradsrätten",
+        "bonde"
+      ]
+    },
+    {
+      "name": "Barck",
+      "alternateNames": [],
+      "roles": [
+        "domare"
+      ],
+      "description": "Prisade Jaakkola vid hans avgång."
+    },
+    {
+      "name": "J. J. Huldén",
+      "alternateNames": [
+        "Johan Jakob Huldén"
+      ],
+      "roles": [],
+      "description": "Nils Jaakkolas son; tog initiativ till att bröderna antog namnet Huldén och tog fotot."
+    },
+    {
+      "name": "Evert Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nils Jaakkolas son."
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nils Jaakkolas sonson."
+    }
+  ],
+  "places": [
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala gravgård",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Där Jaakkolas gravsten finns."
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Jaakkola ägde den sedermera."
+    },
+    {
+      "name": "Nylunds gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Jaakkola ägde den därefter."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nils Jaakkola avled",
+      "date": {
+        "year": 1928,
+        "month": 2,
+        "day": 14,
+        "circa": false,
+        "text": "Den 14 febr."
+      },
+      "people": [
+        "Nils Jaakkola"
+      ],
+      "places": [
+        "Monå"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "beb82b26496298a1544a3cc812ee5e36d8009fb1cb239a956eabcae47d6ba13e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

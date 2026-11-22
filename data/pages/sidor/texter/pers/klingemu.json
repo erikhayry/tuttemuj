@@ -1,0 +1,142 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/klingemu.htm",
+  "title": "Matti Klinge 1936",
+  "summary": "Uppslagsverksartikel om historikern Matti Klinge, professor i historia vid Helsingfors universitet, som forskat i finländsk idéhistoria och nationell identitet. Sidan nämner också hans bok Idyll och hot om Zacharias Topelius.",
+  "topics": [
+    "historiker",
+    "professor",
+    "idéhistoria",
+    "nationell identitet",
+    "Topelius"
+  ],
+  "people": [
+    {
+      "name": "Matti Klinge",
+      "alternateNames": [],
+      "birthYear": 1936,
+      "roles": [
+        "historiker",
+        "fil.dr",
+        "professor i historia vid Helsingfors universitet",
+        "gästprofessor vid Sorbonne"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Klinge har skrivit boken Idyll och hot om honom."
+    },
+    {
+      "name": "J.L. Runeberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Klinge skrev Runebergs två fosterland (1982)."
+    }
+  ],
+  "places": [
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": [
+        "Hfrs"
+      ]
+    },
+    {
+      "name": "Sorbonne",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Universitet i Paris."
+    }
+  ],
+  "events": [
+    {
+      "title": "Matti Klinge föddes i Helsingfors",
+      "date": {
+        "year": 1936,
+        "month": 8,
+        "day": 31,
+        "circa": false,
+        "text": "31/8 1936"
+      },
+      "people": [
+        "Matti Klinge"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    },
+    {
+      "title": "Klinge var forskare vid Studentkåren vid Helsingfors universitet",
+      "date": {
+        "year": 1960,
+        "circa": false,
+        "text": "1960—68"
+      },
+      "people": [
+        "Matti Klinge"
+      ],
+      "places": []
+    },
+    {
+      "title": "Klinge blev fil.dr",
+      "date": {
+        "year": 1969,
+        "circa": false,
+        "text": "1969"
+      },
+      "people": [
+        "Matti Klinge"
+      ],
+      "places": []
+    },
+    {
+      "title": "Klinge var gästprofessor vid Sorbonne",
+      "date": {
+        "year": 1970,
+        "circa": false,
+        "text": "1970—72"
+      },
+      "people": [
+        "Matti Klinge"
+      ],
+      "places": [
+        "Sorbonne"
+      ]
+    },
+    {
+      "title": "Klinge blev innehavare av den svenskspråkiga professuren i historia",
+      "date": {
+        "year": 1975,
+        "circa": false,
+        "text": "1975"
+      },
+      "people": [
+        "Matti Klinge"
+      ],
+      "places": [
+        "Helsingfors"
+      ]
+    },
+    {
+      "title": "Runebergs två fosterland utkom",
+      "date": {
+        "year": 1982,
+        "circa": false,
+        "text": "1982"
+      },
+      "people": [
+        "Matti Klinge",
+        "J.L. Runeberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a15b11404bd9411c95781cd1ecf84b8aebb51a1500c77430c31c5e9e9e3049a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

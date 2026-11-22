@@ -1,0 +1,115 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/levling.htm",
+  "title": "Gunnar Levlin 1916–2008",
+  "summary": "Kort presentation av Gunnar Levlin, född i Ytterjeppo, som var kyrkoherde i Korpo och Västanfjärd och efter pensioneringen flyttade till Nykarleby. Han gav ut diktböcker och medverkade i antologin Röster.",
+  "topics": [
+    "kyrkoherde",
+    "lyrik",
+    "Ytterjeppo",
+    "Nykarleby",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Levlin",
+      "alternateNames": [],
+      "birthYear": 1916,
+      "deathYear": 2008,
+      "roles": [
+        "kyrkoherde i Korpo och Västanfjärd",
+        "diktare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Korpo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Västanfjärd",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gunnar Levlin föddes i Ytterjeppo",
+      "date": {
+        "year": 1916,
+        "month": 1,
+        "day": 31,
+        "circa": false,
+        "text": "31/1 1916"
+      },
+      "people": [
+        "Gunnar Levlin"
+      ],
+      "places": [
+        "Ytterjeppo"
+      ]
+    },
+    {
+      "title": "Syner på vägen utkom",
+      "date": {
+        "year": 1969,
+        "circa": false,
+        "text": "1969"
+      },
+      "people": [
+        "Gunnar Levlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Dikterna är fåglar utkom",
+      "date": {
+        "year": 1990,
+        "circa": false,
+        "text": "1990"
+      },
+      "people": [
+        "Gunnar Levlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gunnar Levlin avled",
+      "date": {
+        "year": 2008,
+        "month": 2,
+        "day": 24,
+        "circa": false,
+        "text": "24/2 2008"
+      },
+      "people": [
+        "Gunnar Levlin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d0aeeb9bca23fd69b790d09a6fe515088a6bb98ca39da426724d799fba339bcf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

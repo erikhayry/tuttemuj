@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/jagaresw.htm",
+  "title": "Sigurd Wenelius i Kungliga preussiska jägarbataljonen 27",
+  "summary": "Amatörfoton ur familjealbumet från Sigurd Weneliusʼ tid i Jägarbataljon 27, som visar vardagen i fält under första världskriget. Bilderna kommer från marsch vid Rigabukten, skyttegravsgrävning, Runebergsdagsfest och hemfärden till Finland 1918.",
+  "topics": [
+    "jägarrörelsen",
+    "Jägarbataljon 27",
+    "första världskriget",
+    "fotografi",
+    "Kurland"
+  ],
+  "people": [
+    {
+      "name": "Sigurd Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "jägare",
+        "Hilfsgruppenführer i den tyska armén",
+        "fänrik i finländska armén"
+      ],
+      "description": "Bodde i Nykarleby."
+    },
+    {
+      "name": "Roley Sandström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gamlakarlebybo; vapenbroder till Sigurd Wenelius i Libau."
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rigabukten",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kurland",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Nutida Lettland."
+    },
+    {
+      "name": "Libau",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fest i \"korsun\" på Runebergsdagen",
+      "date": {
+        "year": 1917,
+        "circa": false,
+        "text": "Runebergsdagen 1917"
+      },
+      "people": [
+        "Sigurd Wenelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hemfärden till Finland och Weneliusʼ befordran till fänrik",
+      "date": {
+        "year": 1918,
+        "month": 2,
+        "circa": false,
+        "text": "februari 1918"
+      },
+      "people": [
+        "Sigurd Wenelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fe6af8fdcd4cc240608437ce9d4e7ab08e402a2fff5e6852d7fb1b3b06ff012d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

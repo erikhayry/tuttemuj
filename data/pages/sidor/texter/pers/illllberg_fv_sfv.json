@@ -1,0 +1,185 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/illllberg_fv_sfv.html",
+  "title": "Minnesruna över Fredrik Vilhelm Illberg",
+  "summary": "Kort minnesruna över Fredrik Vilhelm Illberg, förre lektor i sång vid Nykarleby seminarium och tonsättare till sånger av bland andra Runeberg. Sidan citerar också August Malmströms förord till Fänrik Ståls sägner, där han tackar lektor Illberg i Nykarleby för hjälp under sina resor till de historiska slagfälten.",
+  "topics": [
+    "minnesruna",
+    "sånglärare",
+    "Nykarleby seminarium",
+    "Fänrik Ståls sägner",
+    "Runeberg"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Vilhelm Illberg",
+      "alternateNames": [
+        "lektor Illberg"
+      ],
+      "roles": [
+        "lektor i sång vid Nykarleby seminarium",
+        "tonsättare"
+      ],
+      "description": "Avled i Helsingfors den 27 januari, 67 år gammal; året anges inte i texten."
+    },
+    {
+      "name": "J.L. Runeberg",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ],
+      "description": "Illberg komponerade till hans sånger."
+    },
+    {
+      "name": "K. R. Malmström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Illberg komponerade till hans sånger."
+    },
+    {
+      "name": "August Malmström",
+      "alternateNames": [
+        "Aug. Malmström",
+        "A. Malmström"
+      ],
+      "roles": [
+        "tecknare"
+      ],
+      "description": "Illustrerade Fänrik Ståls sägner; förordet är daterat Stockholm i november 1883."
+    },
+    {
+      "name": "A. Hertzberg",
+      "alternateNames": [],
+      "roles": [
+        "literatör i Helsingfors"
+      ],
+      "description": "Hjälpte Malmström under hans resor."
+    },
+    {
+      "name": "Rancken",
+      "alternateNames": [],
+      "roles": [
+        "doktor i Vasa"
+      ],
+      "description": "Hjälpte Malmström under hans resor."
+    },
+    {
+      "name": "Mats Björkstrand",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll materialet."
+    },
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om Fredrik Vilhelm Illberg i en länkad text."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Ala Lemo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Willmanstrand",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Idensalmi",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Wirta bro."
+    },
+    {
+      "name": "Siikajoki",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Oravais",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Lappo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Alavo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Ruovesi",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Runebergs ungdomshem."
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Motiv i bilden Döbeln vid Juthas."
+    }
+  ],
+  "events": [
+    {
+      "title": "Malmström reste i Finland för att besöka slagfält från kriget 1808–09",
+      "date": {
+        "year": 1880,
+        "circa": false,
+        "text": "åren 1880 och 1881"
+      },
+      "people": [
+        "August Malmström"
+      ],
+      "places": [
+        "Nykarleby",
+        "Oravais",
+        "Siikajoki",
+        "Vasa"
+      ]
+    },
+    {
+      "title": "Förordet till den illustrerade utgåvan av Fänrik Ståls sägner skrevs",
+      "date": {
+        "year": 1883,
+        "month": 11,
+        "circa": false,
+        "text": "Stockholm i november 1883"
+      },
+      "people": [
+        "August Malmström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "afa1d0f67d407d17fc676097d97ad8cbd24a55d7c969a6d8714868645a60c78a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

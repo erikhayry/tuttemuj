@@ -1,0 +1,183 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kisor_axel47.html",
+  "title": "Axel Kisor död i Österbottniska Posten 1947",
+  "summary": "Dödsruna över handlanden Axel Kisor, som i över fem decennier var en av förgrundsmännen i Nykarlebys liv. Han drev en affär i kolonialvaror, manufakturer och järn och satt i stadsfullmäktige, drätselkammaren och Nykarleby Sparbanks styrelse. Notisen nämner också seminaristernas sånguppvaktning vid Florastatyn på Floradagen.",
+  "topics": [
+    "dödsruna",
+    "handlande",
+    "kommunalpolitik",
+    "sparbank",
+    "Florastatyn"
+  ],
+  "people": [
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "birthYear": 1864,
+      "deathYear": 1947,
+      "roles": [
+        "handlande",
+        "ledamot och ordförande i stadsfullmäktige",
+        "ordförande i drätselkammaren",
+        "kontrollant i Nordiska föreningsbanken",
+        "principal i Nykarleby Sparbank"
+      ]
+    },
+    {
+      "name": "A. M. Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Kisors arbetsgivare från 1880."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Kisor, till stor del citat av dödsrunan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kisors affär",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Affär i kolonialvaror, manufakturer och järn; upphörde 1932."
+    },
+    {
+      "name": "Nykarleby Sparbank",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nordiska föreningsbanken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Florastatyn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Flora"
+      ],
+      "description": "I Fåfängan; seminaristerna sjöng där på Floradagen."
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Pedersöre",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Axel Kisor föddes i Jakobstad",
+      "date": {
+        "year": 1864,
+        "circa": false,
+        "text": "år 1864"
+      },
+      "people": [
+        "Axel Kisor"
+      ],
+      "places": [
+        "Jakobstad"
+      ]
+    },
+    {
+      "title": "Kisor flyttade till Nykarleby och fick anställning hos A. M. Gyllenberg",
+      "date": {
+        "year": 1880,
+        "circa": false,
+        "text": "redan 1880"
+      },
+      "people": [
+        "Axel Kisor",
+        "A. M. Gyllenberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kisor öppnade egen affär",
+      "date": {
+        "year": 1888,
+        "circa": true,
+        "text": "Efter åtta års grundlig praktik"
+      },
+      "people": [
+        "Axel Kisor"
+      ],
+      "places": [
+        "Kisors affär"
+      ]
+    },
+    {
+      "title": "Kisors affär upphörde",
+      "date": {
+        "year": 1932,
+        "circa": false,
+        "text": "år 1932"
+      },
+      "people": [
+        "Axel Kisor"
+      ],
+      "places": [
+        "Kisors affär"
+      ]
+    },
+    {
+      "title": "Kisor lämnade kyrkofullmäktige",
+      "date": {
+        "year": 1943,
+        "circa": false,
+        "text": "Intill år 1943"
+      },
+      "people": [
+        "Axel Kisor"
+      ],
+      "places": []
+    },
+    {
+      "title": "Axel Kisor avled",
+      "date": {
+        "year": 1947,
+        "circa": false,
+        "text": "I tisdags på kvällen (artikel 09.05.1947)"
+      },
+      "people": [
+        "Axel Kisor"
+      ],
+      "places": []
+    },
+    {
+      "title": "Seminaristerna uppvaktade med sång vid Florastatyn på Floradagen",
+      "date": {
+        "year": 1947,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "text": "Floradagen den 18"
+      },
+      "people": [],
+      "places": [
+        "Florastatyn",
+        "Fåfängan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "232728babde13a305330ff769ae845a00f365cf24b4c2c1e8921f3225dbbcafb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

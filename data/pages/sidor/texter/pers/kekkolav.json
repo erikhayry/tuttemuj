@@ -1,0 +1,216 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/kekkolav.htm",
+  "title": "President Kekkonen och kung Olav V på Frillmossen",
+  "summary": "Fotoreportage från den 9 oktober 1980, då president Urho Kekkonen och Norges kung Olav V besökte AB Bröderna Sjöholms foderkök och farm på Frillmossen. Bilderna visar bilkortegen, skolbarn längs vägen, hälsningar och ett studiebesök i ett rävhus.",
+  "topics": [
+    "statsbesök",
+    "Kekkonen",
+    "kung Olav V",
+    "Frillmossen",
+    "Bröderna Sjöholm",
+    "pälsfarm"
+  ],
+  "people": [
+    {
+      "name": "Urho Kekkonen",
+      "alternateNames": [],
+      "roles": [
+        "Finlands president"
+      ]
+    },
+    {
+      "name": "Olav V",
+      "alternateNames": [
+        "Kung Olav V"
+      ],
+      "roles": [
+        "kung av Norge"
+      ]
+    },
+    {
+      "name": "Bo Sjöholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hälsade kungen välkommen."
+    },
+    {
+      "name": "Ulf Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helge Hedman",
+      "alternateNames": [],
+      "roles": [
+        "rektor för högstadiet"
+      ]
+    },
+    {
+      "name": "Marianne Grön",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Sandström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mats Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Anders Fors d.y.",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven-Erik Sandberg",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Kaj Sandberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll Sven-Erik Sandbergs foton."
+    },
+    {
+      "name": "Sinikka Sandberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Grön",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Patrik Palm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henrik Harald",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Katarina Nilsson",
+      "alternateNames": [
+        "Katarina Palm"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Cay Sandelin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Hurrande barn längs kunglig väg."
+    }
+  ],
+  "places": [
+    {
+      "name": "AB Bröderna Sjöholms foderkök och farm",
+      "kind": "farm",
+      "alternateNames": [
+        "Bröderna Sjöholm"
+      ],
+      "description": "Plats för statschefernas besök, på Frillmossen."
+    },
+    {
+      "name": "Frillmossen",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frillmossavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Skolelever stod längs vägen; sidan antar att den kanske då hette Sibeliusgatan.",
+      "geo": {
+        "lat": 63.5291159,
+        "lng": 22.5510306,
+        "match": "name",
+        "gazetteerName": "frillmossavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Abeko",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Syns i bakgrunden."
+    }
+  ],
+  "events": [
+    {
+      "title": "President Kekkonen och kung Olav V besökte Bröderna Sjöholms foderkök och farm",
+      "date": {
+        "year": 1980,
+        "month": 10,
+        "day": 9,
+        "circa": false,
+        "text": "Den 9 oktober 1980"
+      },
+      "people": [
+        "Urho Kekkonen",
+        "Olav V",
+        "Bo Sjöholm"
+      ],
+      "places": [
+        "AB Bröderna Sjöholms foderkök och farm",
+        "Frillmossen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f3388d24f9cf572bd1c9a6a31732b9785a9503e9523c83b82cc031f0c15176dd",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}

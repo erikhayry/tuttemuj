@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/pers/lagvag_henrik.html",
+  "title": "Henrik Lågväg lyfter bort knarrin",
+  "summary": "Ett fotografi från 1916 där Henrik Lågväg utför en folkmedicinsk ritual mot sjukdomen knarri vid ett härbre i Ytterjeppo. Sidan förklarar ritualen och sjukdomen med hänvisningar till upptecknad folktro.",
+  "topics": [
+    "folkmedicin",
+    "folktro",
+    "knarri",
+    "Ytterjeppo",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Henrik Lågväg",
+      "alternateNames": [],
+      "roles": [
+        "klok man",
+        "folkläkare"
+      ],
+      "description": "Utför ritualen på fotografiet från 1916."
+    },
+    {
+      "name": "Valter W. Forsblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Utgivare av Finlands svenska folkdiktning VII:5 (1927)."
+    },
+    {
+      "name": "Marika Rosenström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Magisk folkmedicin i Källan 2/2021."
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev Kloka gummor och gubbar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nedervetil",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Terjärv",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Esse",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografiet av Henrik Lågväg som lyfter bort knarrin togs",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "(1916)"
+      },
+      "people": [
+        "Henrik Lågväg"
+      ],
+      "places": [
+        "Ytterjeppo"
+      ]
+    },
+    {
+      "title": "Finlands svenska folkdiktning VII:5 utgavs",
+      "date": {
+        "year": 1927,
+        "circa": false,
+        "text": "Helsingfors 1927"
+      },
+      "people": [
+        "Valter W. Forsblom"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8c6f3f791bf91c2d5fa23e5914c882a4e4e69fbc694428aa95bb8e4c2dec901b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T11:34:15.959Z"
+}
