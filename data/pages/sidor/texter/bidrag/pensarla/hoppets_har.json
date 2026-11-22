@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/hoppets_har.html",
+  "title": "Skolminnen av Lars Pensar",
+  "summary": "Lars Pensar minns Hoppets här-festerna i Normalskolan och den stränge överläraren Otto G. Holmberg.",
+  "topics": [
+    "skolminnen",
+    "nykterhet",
+    "Normalskolan"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Otto G. Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "överlärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2430ad9685203dad2aa077164e0c86046929b0077a82ae40865c46a7b6a7e910",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

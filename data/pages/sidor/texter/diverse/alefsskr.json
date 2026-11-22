@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/alefsskr.htm",
+  "title": "En skröna om klädhandlare och tillika besiktningsmannen Alef Björk",
+  "summary": "Lars Pensar återger en skrönan från 50-talet om hur klädhandlaren och besiktningsmannen Alef Björk stoppades av rörliga polisen men tog ut sin besiktningsmössa och gav deras bil körförbud.",
+  "topics": [
+    "skrönor",
+    "fordon",
+    "besiktning"
+  ],
+  "people": [
+    {
+      "name": "Alef Björk",
+      "alternateNames": [],
+      "roles": [
+        "klädhandlare",
+        "besiktningsman"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Rörliga polisen stoppar klädhandlaren Alef Björk på Jakobstadsvägen och granskar honom nedlåtande. När de är klara sätter han på sig besiktningsmannamössan i baksätet, granskar deras bil hårt och ger den körförbud.",
+    "reason": "En klassisk snabb vändning där den granskade blir granskare.",
+    "characters": [
+      "Alef Björk"
+    ],
+    "places": [
+      "Jakobstadsvägen"
+    ]
+  },
+  "contentHash": "35067dfaa4dc29c4b82cb370b782d0b2c210624f69c9dfc6bda079e105d93978",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/juthmolp.htm",
+  "title": "På det sista goda slädföret av Lars Pensar",
+  "summary": "Lars Pensar minns firandet 1882 av Döbelns dag vid Juthas slagfält och en soaré i Nykarleby där Bruno Boxström föreläste om von Döbeln, i skuggan av tsarens välvilliga tal till lantdagen.",
+  "topics": [
+    "von Döbeln",
+    "Juthas",
+    "fosterländskhet"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [
+        "Döbeln"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Bruno Boxström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Slagfältet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tillställning till Juthashjältarnas minne vid slagfältet",
+      "date": {
+        "year": 1882,
+        "month": 5,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Juthas"
+      ]
+    },
+    {
+      "title": "Litterär-musikalisk soaré med föredrag om von Döbeln",
+      "date": {
+        "year": 1882,
+        "circa": false
+      },
+      "people": [
+        "Bruno Boxström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ae36c557be95a048063e6d863364b921e69918cea53b39b4fb0aba0d8cc4352b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

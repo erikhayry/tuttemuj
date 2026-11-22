@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/leksaksf.htm",
+  "title": "Nykarleby leksaksfabrik av Lars Pensar",
+  "summary": "Lars Pensar berättar om Nykarleby leksaksfabrik, som startades i lokstallet vid Gamla station efter att den smalspåriga järnvägen lades ned 1916.",
+  "topics": [
+    "leksaker",
+    "industri",
+    "järnvägen"
+  ],
+  "people": [
+    {
+      "name": "Joel Ahlström",
+      "alternateNames": [],
+      "roles": [
+        "konduktör"
+      ]
+    },
+    {
+      "name": "Widell",
+      "alternateNames": [],
+      "roles": [
+        "lokförare"
+      ]
+    },
+    {
+      "name": "Ellen Nylund",
+      "alternateNames": [],
+      "roles": [
+        "stationsinspektör"
+      ]
+    },
+    {
+      "name": "August Ekman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aleko Lilius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla station",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan 10",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Mathesiusgatan 10",
+      "geo": {
+        "lat": 63.5221841,
+        "lng": 22.5371269,
+        "match": "address",
+        "gazetteerName": "mathesiusgatan 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Smalspårsjärnvägen mellan Kovjoki och Andrasjön lades ned och såldes",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "August Ekman arbetade i leksaksfabriken",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "somrarna 1916 och 1917"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d8aa04a458f580fcdd8e7cf57bf2dcd4bffae319d17a3d9bbe12f10d9f6bb043",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

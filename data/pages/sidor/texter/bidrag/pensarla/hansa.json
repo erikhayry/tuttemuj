@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/hansa.htm",
+  "title": "Hansa-Brandenburgare över Nykarleby av Lars Pensar",
+  "summary": "Lars Pensar berättar om uppståndelsen när fem Hansa-Brandenburg-hydroplan flög över Nykarleby i juli 1927 och två landade vid Andrasjön, och om flygplanstypen.",
+  "topics": [
+    "flyg",
+    "hydroplan",
+    "1927"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fem hydroplan överflög staden och två gick ned vid Andrasjön",
+      "date": {
+        "year": 1927,
+        "month": 7,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "dd17766988cd48a85ad95ffb970807bdb798fafdf37c2289aa38f9181ec17d04",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

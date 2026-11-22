@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/nating_12.html",
+  "title": "Nättingtillredning av Lars Pensar",
+  "summary": "Lars Pensar och andra beskriver nättingfisket i älven och hur nättingar tillreds, bland annat vid ett tillfälle i oktober 2012.",
+  "topics": [
+    "nättingar",
+    "fiske",
+    "älven"
+  ],
+  "people": [
+    {
+      "name": "Karl-Gustav Blom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Åke Björklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Boman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl-Erik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Theo",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbackgatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Källbackgatan 3",
+      "geo": {
+        "lat": 63.52522889999999,
+        "lng": 22.5354757,
+        "match": "address",
+        "gazetteerName": "källbackgatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nättingtillredning",
+      "date": {
+        "year": 2012,
+        "month": 10,
+        "day": 21,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Källbackgatan 3"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "21e48e36eea56b652353aeffb9cd974913803197865104084004ca3089248937",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

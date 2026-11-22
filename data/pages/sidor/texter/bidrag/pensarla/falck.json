@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/falck.html",
+  "title": "Smådrag från 1850-talets Nykarleby av Lars Pensar.",
+  "summary": "Anteckningar ur tullförvaltaren Petter Jacob Falcks gamla statskalendrar ger glimtar av livet i Nykarleby på 1850-talet, bland annat en överraskning vid hans 50-årsfest på Kuddnäs.",
+  "topics": [
+    "tullförvaltare",
+    "1850-talet",
+    "dagboksanteckningar"
+  ],
+  "people": [
+    {
+      "name": "Petter Jacob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "P. Lundmark",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "V. Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Falck fick fullmakt som tullförvaltare",
+      "date": {
+        "year": 1841,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Falck övertog tullförvaltartjänsten av P. Lundmark",
+      "date": {
+        "year": 1845,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Falcks 50-årsfest på Kuddnäs",
+      "date": {
+        "year": 1851,
+        "month": 10,
+        "day": 13,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Falck fick krigsmedaljen",
+      "date": {
+        "year": 1857,
+        "month": 7,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "På tullförvaltare Falcks 50-årsfest dyker plötsligt ett brudpar med gäster och spelman i kostym upp, stadens ungdom, och gör honom helt stum av rörelse.",
+    "reason": "En överraskningsscen med fest och kostymer.",
+    "characters": [
+      "Petter Jacob Falck"
+    ],
+    "places": [
+      "Kuddnäs"
+    ]
+  },
+  "contentHash": "2172aa767a338fa0f3b53f38878de053ca3b8186222cb2112046d73ea02f4da2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

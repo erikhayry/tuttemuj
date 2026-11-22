@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/juthbama.htm",
+  "title": "9. Juthbackamarschen - ett evenemang i Nykarleby sedan 1975 av Lars Pensar",
+  "summary": "Lars Pensar berättar hur Juthbackamarschen, ett motionsevenemang, hamnade i Nykarleby efter kontakter med Svenska gångförbundet och en introduktionskurs 1974.",
+  "topics": [
+    "Juthbackamarschen",
+    "motion",
+    "evenemang"
+  ],
+  "people": [
+    {
+      "name": "Gurli Dumell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Berit Thors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Introduktionskurs i konditionsgång på Kristliga folkhögskolan",
+      "date": {
+        "year": 1974,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    },
+    {
+      "title": "Juthbackamarschen arrangerades första gången",
+      "date": {
+        "year": 1975,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Juthbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9a4e41df8881fea681050fee03754cf7b21dd9616c33d3969d7062723abcbaa9",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

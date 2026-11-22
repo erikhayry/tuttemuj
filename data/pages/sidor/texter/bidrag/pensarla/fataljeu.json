@@ -1,0 +1,106 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/fataljeu.htm",
+  "title": "Nykarlebys kända och okända tidmätare av Lars Pensar",
+  "summary": "Lars Pensar skriver om stadens ur och tidmätare, framför allt Carl Brockmans urverk i rådhustornet som förstördes i branden 1858.",
+  "topics": [
+    "ur",
+    "rådhuset",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "Carl Brockman",
+      "alternateNames": [],
+      "birthYear": 1716,
+      "deathYear": 1782,
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "Anders Träsk",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Johan Träsk",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Iivari E. Koskimies",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Det andra rådhuset, byggt 1736."
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhuset byggdes",
+      "date": {
+        "year": 1736,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadsbranden förstörde rådhuset och Brockmans ur",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 12,
+        "circa": false,
+        "text": "12–13 januari 1858"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Slaghjulet skänktes till seminariets samlingar",
+      "date": {
+        "year": 1916,
+        "month": 5,
+        "day": 13,
+        "circa": false
+      },
+      "people": [
+        "Iivari E. Koskimies"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "730010a8a62bb0abce178a447be6937a38ef97c588975a61dab44d916df842c2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

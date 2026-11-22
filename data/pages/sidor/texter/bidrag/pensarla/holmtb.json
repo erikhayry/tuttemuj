@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/holmtb.htm",
+  "title": "Elmer Holms servicestation",
+  "summary": "Bilder och noteringar om Elmer Holms servicestation, TB-macken, vid Gustav Adolfsgatan och Sollefteågatan och dess senare ägare.",
+  "topics": [
+    "bensinstationer",
+    "TB-macken",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Elmer Holm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Elmer Holms servicestation",
+      "kind": "building",
+      "alternateNames": [
+        "TB-macken"
+      ]
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Granbergs café",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Missionshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "24b02a09c9a1c8b5cea5950f9e37b388914bfd996e8c467fb7ddb1078c103209",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

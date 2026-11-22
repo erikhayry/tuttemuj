@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1_4_ore.html",
+  "title": "1/4 öre i koppar",
+  "summary": "Ett kopparmynt, en fjärdedels öre från drottning Kristinas tid, hittades vid en vattenledningsgrävning i mitten av 1970-talet på gamla stadsbäckens stensättning.",
+  "topics": [
+    "mynt",
+    "fynd",
+    "stadsbäcken"
+  ],
+  "people": [
+    {
+      "name": "Bjarne",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsbäcken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kopparmyntet hittades vid förnyandet av vattenledningen",
+      "date": {
+        "year": 1975,
+        "circa": true,
+        "text": "i mitten på 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "Stadsbäcken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f8d2373b4cdabd2f5404c87736a1ea13f4f34b978d936e21b747d38884032900",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

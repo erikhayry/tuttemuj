@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/ryskgrepp.html",
+  "title": "Det ryska greppet höll av Lars Pensar",
+  "summary": "Lars Pensar berättar hur den ryska militären hade sitt högkvarter i Normalskolan och var den bodde i staden 1916–1917.",
+  "topics": [
+    "ryska militären",
+    "första världskriget",
+    "inkvartering"
+  ],
+  "people": [
+    {
+      "name": "K. J. Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "V.K.E. Wichmann",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 4",
+      "geo": {
+        "lat": 63.5229781,
+        "lng": 22.5281705,
+        "match": "address",
+        "gazetteerName": "bankgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Södra Staketgatan 6",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Södra Staketgatan 6"
+    },
+    {
+      "name": "Nybroboulevarden 66",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Nybroboulevarden 66"
+    },
+    {
+      "name": "Packhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Marielund",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybo",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Konsul Nylunds villa."
+    }
+  ],
+  "events": [
+    {
+      "title": "Normalskolan blev rysk militärs högkvarter",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d985ef882a9ca054baaa7bd6f01df7e991ec27a1f00dc9873bb1e6c7494f3c1d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/salminen_sally.html",
+  "title": "Celebert författarbesök på ”Villa Elisa” vid Andrasjön av Lars Pensar",
+  "summary": "Lars Pensar berättar om uppståndelsen i Nykarleby när författaren Sally Salminen bodde på pensionat Villa Elisa vid Andrasjön i juli 1938, och om hennes genombrottsroman Katrina.",
+  "topics": [
+    "Sally Salminen",
+    "författare",
+    "Villa Elisa"
+  ],
+  "people": [
+    {
+      "name": "Sally Salminen",
+      "alternateNames": [],
+      "birthYear": 1906,
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Anni Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Villa Elisa",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sally Salminen bodde på pensionat Villa Elisa",
+      "date": {
+        "year": 1938,
+        "month": 7,
+        "circa": false
+      },
+      "people": [
+        "Sally Salminen"
+      ],
+      "places": [
+        "Villa Elisa"
+      ]
+    },
+    {
+      "title": "Sally Salminen vann det finsk-svenska romanpriset",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "people": [
+        "Sally Salminen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ef4df5debae2000478974c1ad7ddc1105acdcb5d1ec7020383fa7865588eb3f4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/valiaho.html",
+  "title": "Skogen utan namn av Lars Pensar",
+  "summary": "Lars Pensar minns de våldsamma pojklekarna i den namnlösa skogen i Källbacken på 1940–50-talen och en tragisk händelse som ägde rum där 1937.",
+  "topics": [
+    "pojklekar",
+    "Källbacken",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogen utan namn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Roosas lindan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tragisk händelse i skogen vid Karleborgsgatans slut",
+      "date": {
+        "year": 1937,
+        "month": 10,
+        "day": 3,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9faa991f293ec75774a88d240d6f1b73cb1234218c02e40eda4ddcb0688aacb1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

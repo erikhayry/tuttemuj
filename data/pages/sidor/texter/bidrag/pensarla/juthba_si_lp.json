@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/juthba_si_lp.html",
+  "title": "8. Ny krögare på Juthbacka och nya ideér av Lars Pensar",
+  "summary": "Lars Pensar berättar hur Svante Isomaa hyrde Juthbacka 1977 och byggde upp restaurang, hotell och camping där, tills staden ville sälja 1989.",
+  "topics": [
+    "Juthbacka",
+    "hotell",
+    "restaurang"
+  ],
+  "people": [
+    {
+      "name": "Svante Isomaa",
+      "alternateNames": [],
+      "roles": [
+        "krögare"
+      ]
+    },
+    {
+      "name": "Börje Nygård",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Harry Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Hotell Juthbacka",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hyresavtal för Juthbacka skrevs med Isomaa",
+      "date": {
+        "year": 1977,
+        "month": 5,
+        "day": 3,
+        "circa": false
+      },
+      "people": [
+        "Svante Isomaa"
+      ],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Det nya hotellet byggdes",
+      "date": {
+        "year": 1983,
+        "circa": false,
+        "text": "1983–84"
+      },
+      "people": [],
+      "places": [
+        "Hotell Juthbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "98b585f3567201eaaa452dd5fc4ca9b766eebd22d8988c6b0669742062c29e86",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

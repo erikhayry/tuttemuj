@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/haldin.html",
+  "title": "Haldins och Ingsva",
+  "summary": "Genomgång av bussbolaget Haldin & Roses historia sedan starten 1924 och dess senare öden, fram till Ingves & Svanbäck och Ingsva.",
+  "topics": [
+    "bussar",
+    "trafik",
+    "Haldin & Rose"
+  ],
+  "people": [
+    {
+      "name": "K. Arvid Haldin",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ]
+    },
+    {
+      "name": "Hugo Haldin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "August Rose",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Haldin & Roses första buss trafikerade Vasa–Jakobstad",
+      "date": {
+        "year": 1924,
+        "month": 7,
+        "day": 11,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Bolaget ombildades till Ab Haldin & Rose Oy",
+      "date": {
+        "year": 1928,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fc61106bd2df6bf60dba147caa77601ded6898ec60dc92a3c7ac2195bed06a86",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

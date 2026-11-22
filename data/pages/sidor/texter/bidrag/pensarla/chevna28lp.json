@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/chevna28lp.html",
+  "title": "Axel Pensars Chevrolet National 1928 av Lars Pensar",
+  "summary": "Lars Pensar berättar om Axel Pensars Chevrolet National från 1928, som köptes 1930, gömdes undan under kriget och blev barnens lekstuga.",
+  "topics": [
+    "bilar",
+    "krigstiden",
+    "Axel Pensar"
+  ],
+  "people": [
+    {
+      "name": "Axel Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ragnar Lilja",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Ture Granqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ida Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerade"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 4",
+      "geo": {
+        "lat": 63.5229781,
+        "lng": 22.5281705,
+        "match": "address",
+        "gazetteerName": "bankgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bonäs",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Axel Pensar köpte Chevroleten av Ragnar Lilja",
+      "date": {
+        "year": 1930,
+        "circa": false
+      },
+      "people": [
+        "Axel Pensar",
+        "Ragnar Lilja"
+      ],
+      "places": []
+    },
+    {
+      "title": "Axel Pensar gifte sig med Ida",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Inför vinterkriget hotas Axel Pensars bil av rekvirering men visar sig ha fel däck, så den gömmer undan i en lada i Munsala tills freden. Senare blir den barnens hemliga lekstuga med rullgardiner i baksätet.",
+    "reason": "En bil som klarar kriget på grund av sina udda hjul ger en rolig och varm berättelse.",
+    "characters": [
+      "Axel Pensar"
+    ],
+    "places": [
+      "Bankgatan 4",
+      "Munsala"
+    ]
+  },
+  "contentHash": "90d4dd4594b52eb7cd475b5b98f8dc40e066b91d9126156faf57746d4f7d4a5a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

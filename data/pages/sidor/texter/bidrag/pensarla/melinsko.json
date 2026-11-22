@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/melinsko.html",
+  "title": "Melins kompani av Lars Pensar",
+  "summary": "Lars Pensar skriver om Melins kompani, ryktbart från stormningen av Tammerfors 1918, och Gunnar Melins besök på Laxön och Andrasjön 1938.",
+  "topics": [
+    "Melins kompani",
+    "1918",
+    "jägare"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Melin",
+      "alternateNames": [],
+      "birthYear": 1883,
+      "deathYear": 1951,
+      "roles": [
+        "jägaröverste"
+      ]
+    },
+    {
+      "name": "Konrad Vestlin",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Väinö Valve",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Laxön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Villa Elisa",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Melins kompani trängde in i Tammerfors",
+      "date": {
+        "year": 1918,
+        "month": 4,
+        "day": 3,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gunnar Melin besökte Andrasjön och Laxön",
+      "date": {
+        "year": 1938,
+        "month": 8,
+        "circa": false
+      },
+      "people": [
+        "Gunnar Melin"
+      ],
+      "places": [
+        "Laxön",
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac4adc6b1f727afc6929b3676d176e13429983adb6ae9b9d907ef55ec955efa4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

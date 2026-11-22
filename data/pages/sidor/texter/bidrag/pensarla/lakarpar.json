@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/lakarpar.html",
+  "title": "4 Juthbackas läkarpar – Elisabet och Woldemar Backman.",
+  "summary": "Lars Pensar skildrar läkarparet Elisabet och Woldemar Backman som flyttade tillbaka till Nykarleby 1923 och blev stadsläkare och provinsialläkare.",
+  "topics": [
+    "läkare",
+    "Backman",
+    "Juthbacka"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "provinsialläkare",
+        "skriftställare"
+      ]
+    },
+    {
+      "name": "Elisabet Backman",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 3",
+      "geo": {
+        "lat": 63.52377,
+        "lng": 22.5295899,
+        "match": "address",
+        "gazetteerName": "borgaregatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan 12",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 12",
+      "geo": {
+        "lat": 63.5238519,
+        "lng": 22.5278865,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Backmans tillträdde sina läkartjänster i Nykarleby",
+      "date": {
+        "year": 1923,
+        "month": 2,
+        "day": 1,
+        "circa": false
+      },
+      "people": [
+        "Woldemar Backman",
+        "Elisabet Backman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "På en bjudning i Vasa ropar Elisabet Backman över bordet att servitrisen inte ska fylla på mer vin åt Woldemar, och uttrycket blev bevingat.",
+    "reason": "En kort men färgstark scen mellan ett läkarpar.",
+    "characters": [
+      "Elisabet Backman",
+      "Woldemar Backman"
+    ],
+    "places": []
+  },
+  "contentHash": "626d098aec05ec38f874e6d22f0b1875e6775d3bacd5459f1a967188290ef20e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

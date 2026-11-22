@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/juthbakav_lp.html",
+  "title": "2. En kavalkad från Juthbacka i det tjugonde seklet av Lars Pensar",
+  "summary": "Lars Pensar skildrar Juthbackas historia under 1800-talet och 1900-talet, från Carl Backmans övertagande 1813 och herrgårdens byggande.",
+  "topics": [
+    "Juthbacka",
+    "herrgård",
+    "Carl Backman"
+  ],
+  "people": [
+    {
+      "name": "Carl Backman",
+      "alternateNames": [
+        "vackra löjtnanten"
+      ],
+      "birthYear": 1770,
+      "roles": [
+        "löjtnant",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka herrgård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Carl Backman övertog Juthbacka",
+      "date": {
+        "year": 1813,
+        "circa": false
+      },
+      "people": [
+        "Carl Backman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Herrgårdsbyggnaden blev färdig",
+      "date": {
+        "year": 1821,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Juthbacka herrgård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9275dcb2c70fab8280ce4548619063dd037ae821ae03c9daa0000e25116d600e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

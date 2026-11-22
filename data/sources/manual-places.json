@@ -54,6 +54,10 @@
     "kind": "building"
   },
   {
+    "name": "ahlströms gårdsplan",
+    "kind": "farm"
+  },
+  {
     "name": "ahlströms hus",
     "kind": "building"
   },
@@ -103,6 +107,10 @@
       "lillalörn"
     ],
     "note": "Lill Alörn; Stor Alörn is a separate entry."
+  },
+  {
+    "name": "alörs håle",
+    "kind": "waterbody"
   },
   {
     "name": "andells gård",
@@ -441,6 +449,10 @@
     "note": "Farm in Vexala."
   },
   {
+    "name": "bio scala",
+    "kind": "building"
+  },
+  {
     "name": "biokröken",
     "kind": "landmark",
     "note": "Crossing Karleborgsgatan–Kolonivägen; old municipal boundary."
@@ -755,6 +767,10 @@
   },
   {
     "name": "bröderna engs tellblockfabrik",
+    "kind": "building"
+  },
+  {
+    "name": "bröderna engs tellblockupplag",
     "kind": "building"
   },
   {
@@ -1563,6 +1579,10 @@
     "note": "Dairy on Hagagatan, Lillbacka, c. 1910–1938."
   },
   {
+    "name": "gamla rådhuset",
+    "kind": "building"
+  },
+  {
     "name": "gamla stationshuset",
     "kind": "building",
     "alternateNames": [
@@ -2156,6 +2176,10 @@
     "kind": "building"
   },
   {
+    "name": "hooston",
+    "kind": "landmark"
+  },
+  {
     "name": "hopptornet vid andrasjön",
     "kind": "landmark"
   },
@@ -2166,6 +2190,10 @@
   },
   {
     "name": "hotell eden",
+    "kind": "building"
+  },
+  {
+    "name": "hotell juthbacka",
     "kind": "building"
   },
   {
@@ -2184,6 +2212,10 @@
     "name": "hugos lindo",
     "kind": "farm",
     "note": "Hugo Liljeström's meadow with a barn."
+  },
+  {
+    "name": "hugos lindon",
+    "kind": "landmark"
   },
   {
     "name": "hummelholmen vid laxön",
@@ -2446,7 +2478,10 @@
   {
     "name": "juthas slagfält",
     "kind": "landmark",
-    "note": "Battlefield at Juthas, 1808."
+    "note": "Battlefield at Juthas, 1808.",
+    "alternateNames": [
+      "jutas slagfält"
+    ]
   },
   {
     "name": "juthas ungdomsförenings ungdomslokal",
@@ -2606,6 +2641,14 @@
   {
     "name": "kap-pas",
     "kind": "building"
+  },
+  {
+    "name": "kapellet",
+    "kind": "building",
+    "alternateNames": [
+      "jordfästningshuset",
+      "servicehuset"
+    ]
   },
   {
     "name": "kapellporten",
@@ -2830,6 +2873,10 @@
     "note": "Farm in Vexala."
   },
   {
+    "name": "klockbacken",
+    "kind": "landmark"
+  },
+  {
     "name": "klockstapeln",
     "kind": "building",
     "alternateNames": [
@@ -2883,6 +2930,10 @@
       "carl nylunds gård",
       "gård nr 19"
     ]
+  },
+  {
+    "name": "korsåkern",
+    "kind": "district"
   },
   {
     "name": "korsåkers kvarn",
@@ -3080,6 +3131,10 @@
     "name": "kyrkbyn",
     "kind": "district",
     "note": "Church village area."
+  },
+  {
+    "name": "kyrkfjärden",
+    "kind": "waterbody"
   },
   {
     "name": "kyrkobacken",
@@ -3296,12 +3351,20 @@
     "kind": "street"
   },
   {
+    "name": "langnäsudden",
+    "kind": "landmark"
+  },
+  {
     "name": "langraden",
     "kind": "building"
   },
   {
     "name": "langrapan",
     "kind": "other"
+  },
+  {
+    "name": "lannäslund",
+    "kind": "building"
   },
   {
     "name": "lappmössan",
@@ -3361,6 +3424,10 @@
     "alternateNames": [
       "pumpen holmqvists gård"
     ]
+  },
+  {
+    "name": "lepo by",
+    "kind": "village"
   },
   {
     "name": "leppo by",
@@ -3725,6 +3792,10 @@
     "kind": "building"
   },
   {
+    "name": "majniemistugan",
+    "kind": "building"
+  },
+  {
     "name": "manbyggnaden på kuddnäs",
     "kind": "building",
     "note": "Main building at Kuddnäs."
@@ -3831,6 +3902,10 @@
   {
     "name": "melchers",
     "kind": "building"
+  },
+  {
+    "name": "mickelstorp",
+    "kind": "farm"
   },
   {
     "name": "mikkilä i soklot",
@@ -4049,6 +4124,10 @@
     ]
   },
   {
+    "name": "nordlings-nylunds hus",
+    "kind": "building"
+  },
+  {
     "name": "nordmans villa på markusholmen",
     "kind": "building"
   },
@@ -4067,6 +4146,10 @@
   },
   {
     "name": "norra gatan",
+    "kind": "street"
+  },
+  {
+    "name": "norra landsvägen",
     "kind": "street"
   },
   {
@@ -4105,6 +4188,10 @@
   {
     "name": "norra tvärgatan",
     "kind": "street"
+  },
+  {
+    "name": "norra tvärgatan 4",
+    "kind": "building"
   },
   {
     "name": "norrby folkskola",
@@ -4185,6 +4272,10 @@
   {
     "name": "nybrobacken",
     "kind": "street"
+  },
+  {
+    "name": "nybroboulevarden 66",
+    "kind": "building"
   },
   {
     "name": "nybrogatan",
@@ -4292,6 +4383,10 @@
     ]
   },
   {
+    "name": "nykarleby idrottsgård",
+    "kind": "landmark"
+  },
+  {
     "name": "nykarleby järnväg",
     "kind": "other",
     "alternateNames": [
@@ -4386,6 +4481,20 @@
   {
     "name": "nykarleby tändsticksfabrik",
     "kind": "building"
+  },
+  {
+    "name": "nykarleby vattentorn",
+    "kind": "building",
+    "alternateNames": [
+      "per aspera ad astra"
+    ]
+  },
+  {
+    "name": "nykarleby värdshus",
+    "kind": "building",
+    "alternateNames": [
+      "rävgrytan"
+    ]
   },
   {
     "name": "nykarleby wärdshus",
@@ -4558,6 +4667,10 @@
     ]
   },
   {
+    "name": "pensalamossen",
+    "kind": "landmark"
+  },
+  {
     "name": "pensars finnstuga",
     "kind": "building"
   },
@@ -4568,6 +4681,10 @@
   {
     "name": "pentzinsgrundet",
     "kind": "island"
+  },
+  {
+    "name": "pettersborg",
+    "kind": "building"
   },
   {
     "name": "pihlainens skoaffär",
@@ -4844,6 +4961,10 @@
     "kind": "building"
   },
   {
+    "name": "roosas lindan",
+    "kind": "landmark"
+  },
+  {
     "name": "roosas lindo",
     "kind": "farm",
     "alternateNames": [
@@ -4926,6 +5047,10 @@
     ]
   },
   {
+    "name": "rådhusboulevarden 48",
+    "kind": "building"
+  },
+  {
     "name": "rådhuset",
     "kind": "building",
     "alternateNames": [
@@ -4993,6 +5118,10 @@
     "name": "råskgraven",
     "kind": "landmark",
     "note": "Old dump pit at the riverside."
+  },
+  {
+    "name": "råttbron",
+    "kind": "landmark"
   },
   {
     "name": "rödklubben",
@@ -5285,6 +5414,10 @@
     "kind": "building"
   },
   {
+    "name": "siton",
+    "kind": "landmark"
+  },
+  {
     "name": "sjukhuset",
     "kind": "building",
     "alternateNames": [
@@ -5349,6 +5482,10 @@
     "name": "sko-boden",
     "kind": "building",
     "note": "Hans Herler's shoe shop in Sarlinska gården from c. 1980; later in Bröderna Sjöholms affärshus."
+  },
+  {
+    "name": "skogen utan namn",
+    "kind": "landmark"
   },
   {
     "name": "skogsparken",
@@ -5443,6 +5580,10 @@
     "kind": "street"
   },
   {
+    "name": "smedsbackaängarna",
+    "kind": "landmark"
+  },
+  {
     "name": "smedsbacken",
     "kind": "landmark"
   },
@@ -5517,6 +5658,10 @@
       "dalabacka"
     ],
     "note": "Soldier's croft in Ytterjeppo."
+  },
+  {
+    "name": "soldatviken",
+    "kind": "landmark"
   },
   {
     "name": "sollefteågatan 13",
@@ -6041,6 +6186,10 @@
     "note": "Housed the seminarists' dormitory; demolished late 1960s."
   },
   {
+    "name": "sämjostenen",
+    "kind": "landmark"
+  },
+  {
     "name": "söderlunds hus",
     "kind": "building"
   },
@@ -6067,6 +6216,10 @@
   {
     "name": "södra residensgatan",
     "kind": "street"
+  },
+  {
+    "name": "södra staketgatan 6",
+    "kind": "building"
   },
   {
     "name": "södra torggatan",
@@ -6142,6 +6295,10 @@
     "name": "tegelugnen vid nykarleby regale bränneri",
     "kind": "building",
     "note": "Brick kiln at the Regale distillery, 1788."
+  },
+  {
+    "name": "tekniska museet",
+    "kind": "building"
   },
   {
     "name": "telefoncentralen",

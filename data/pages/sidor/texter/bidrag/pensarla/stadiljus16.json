@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/stadiljus16.html",
+  "title": "Juletid - staden under mina fötter av Lars Pensar",
+  "summary": "Lars Pensar och Jan från NY-TV åker hissen upp i tornet med målningen Per aspera ad astra för att fotografera det julbelysta Nykarleby i skymningen.",
+  "topics": [
+    "Per aspera ad astra",
+    "jul",
+    "utsikt"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Peter Damlin",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Ann Christine Krooks",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Raoul Envik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Per aspera ad astra",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Tornet med målningen."
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "137653a6d6696ca2aaa83612d2af2654ab1cc32c4d205529099ea63b45ff115a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

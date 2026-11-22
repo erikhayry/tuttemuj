@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/svenklub.htm",
+  "title": "Svenska Klubben i Nykarleby, en \"flopp\" bland sällskapsföreningar av Lars Pensar",
+  "summary": "Lars Pensar berättar om stadens sällskapsföreningar, från Sällskapet för nyttiga lögners utspridande 1891 till Svenska Klubben som bildades 1947 på Wiks hotell.",
+  "topics": [
+    "föreningar",
+    "sällskapsliv",
+    "Svenska Klubben"
+  ],
+  "people": [
+    {
+      "name": "Strömmer",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "P. W. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhusboulevarden 48",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Rådhusboulevarden 48",
+      "description": "Nuvarande Topeliusesplanaden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Sällskapet för nyttiga lögners utspridande bildades",
+      "date": {
+        "year": 1891,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sällskapsklubben bildades",
+      "date": {
+        "year": 1893,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Torsdagssällskapet bildades",
+      "date": {
+        "year": 1906,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Svenska Klubben bildades på Wiks hotell",
+      "date": {
+        "year": 1947,
+        "month": 3,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Wiks hotell"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Herrar i staden under ledning av borgmästare Strömmer bildar 1891 ett sällskap för att sprida nyttiga lögner, och roar sig med att se hur de förändras när de cirkulerat i staden.",
+    "reason": "En rolig och originell idé om skvaller som ett sällskapsnöje.",
+    "characters": [
+      "Strömmer"
+    ],
+    "places": []
+  },
+  "contentHash": "3612093efa2f266a8228eb018198b47c5f2f3819e17ba13b4d0680eb36239dd0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

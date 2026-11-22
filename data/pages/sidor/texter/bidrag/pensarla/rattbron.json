@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/rattbron.html",
+  "title": "Råttbron av Lars Pensar",
+  "summary": "Lars Pensar berättar om den olycka vid Råttbron 1869 då redaren C. W. Sundströms häst skyggade och vagnen stjälpte ned i diket.",
+  "topics": [
+    "Råttbron",
+    "olycka",
+    "1869"
+  ],
+  "people": [
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "redare",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Gustav Lundström",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Råttbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra landsvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "description": "Tidigare Norra Torggatan.",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sundström omkom när hans schäs stjälpte vid Råttbron",
+      "date": {
+        "year": 1869,
+        "month": 10,
+        "day": 4,
+        "circa": false
+      },
+      "people": [
+        "C. W. Sundström"
+      ],
+      "places": [
+        "Råttbron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Sent en oktoberkväll 1869 kör redaren Sundström hem från Jakobstad. Vid Råttbron skyggar hästen för två nya grindstolpar, schäsen stjälper i diket och Sundström kläms fast under vagnen medan drängpojken ligger hjälplös bredvid.",
+    "reason": "Ett dramatiskt förlopp med en tydlig plats och en mörk kvällsstämning.",
+    "characters": [
+      "C. W. Sundström"
+    ],
+    "places": [
+      "Råttbron"
+    ]
+  },
+  "contentHash": "a9f3d6747c4da2d1d8972241707ff38573f9b3cf06d0c5e7684b02cf06b6721c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/hooston.html",
+  "title": "”hooston o siton” av Lars Pensar",
+  "summary": "Lars Pensar berättar om stadens små arrendeplättar och om en gumma som vid en auktion vid rådhuset kämpade för att behålla sina plättar Hooston och Siton.",
+  "topics": [
+    "arrenden",
+    "emigranter",
+    "dialekt"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Hugo Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lippjärv-Kalle",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kalle Rönn",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sunds bäcken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Hooston",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Siton",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Hugos lindon",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "På en arrendeauktion vid rådhuset hemvänder en gammal kvinna som varit i Amerika. När plätten bredvid Hooston, Siton, ropas ut vaknar hon och protesterar att hon haft dem hela livet, så alla skrattar och hon får behålla dem.",
+    "reason": "En komisk scen med replik och poäng, med amerikanska namn på österbottniskt vis.",
+    "characters": [],
+    "places": [
+      "Rådhuset",
+      "Hooston",
+      "Siton"
+    ]
+  },
+  "contentHash": "48281bd4ea64f0a030385d0a1c0f01f1ed628fb5b288c8e0a83e0d3eee232b42",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

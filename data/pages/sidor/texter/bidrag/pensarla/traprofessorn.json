@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/traprofessorn.html",
+  "title": "Träprofessorn av Lars Pensar",
+  "summary": "Lars Pensar berättar om ångfartyget Träprofessorn, som byggdes på Alön 1873 och uppkallades efter Topelius, och om rederiets misslyckade satsning.",
+  "topics": [
+    "Träprofessorn",
+    "skeppsbyggeri",
+    "Topelius"
+  ],
+  "people": [
+    {
+      "name": "Sarlin",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "C. O. Olson",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra Tvärgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Norra Tvärgatan 4",
+      "description": "Idag Borgaregatan."
+    },
+    {
+      "name": "Myggan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Träprofessorn gick av stapeln",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Alön"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "När rederiet ber Topelius om hans namn till stadens egen ångbåt tackar han motvilligt och erkänner att han aldrig haft lyckan till sjöss. Fartyget blir en flopp, kaptenen kryper längs kusten och rederiet får betala dyra bastuberäkningar för manskapet.",
+    "reason": "En ironisk historia med en berömd replik och en ångbåt som aldrig lyckas.",
+    "characters": [
+      "Zacharias Topelius",
+      "Sarlin",
+      "C. O. Olson"
+    ],
+    "places": [
+      "Alön"
+    ]
+  },
+  "contentHash": "c4ad2796f3157b76e576670488814146374157440e5a567f811101cdc5c7ae94",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

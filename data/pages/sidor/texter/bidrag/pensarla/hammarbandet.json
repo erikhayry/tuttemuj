@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/hammarbandet.html",
+  "title": "Några minnen av Gösta Ågren av Lars Pensar",
+  "summary": "Lars Pensar minns författaren Gösta Ågren, som hade en tjärubåt vid Nålörn och sommartid skrev i Topelius Majniemistuga, och hans skrik som skrämde upp måsarna.",
+  "topics": [
+    "Gösta Ågren",
+    "författare",
+    "båtar"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna-Lisa",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nålörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Majniemistugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sikgrundet",
+      "kind": "island",
+      "alternateNames": [
+        "Lillfare"
+      ]
+    },
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Boken Hammarbandet utkom",
+      "date": {
+        "year": 1975,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Varje gång Gösta Ågren glider genom Lillfare i sin tjärubåt reser han sig och skriker som en havsörn, så att måskolonierna svärmar upp. När Pensar frågar varför, svarar författaren bara lågmält att det inte riktigt hör till.",
+    "reason": "Ett udda och komiskt minne av en känd författare.",
+    "characters": [
+      "Gösta Ågren",
+      "Lars Pensar"
+    ],
+    "places": [
+      "Sikgrundet"
+    ]
+  },
+  "contentHash": "3b92049a707ea810ec729874b3080a21066de0348d62b2e7ed8b6c0cf9de293a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

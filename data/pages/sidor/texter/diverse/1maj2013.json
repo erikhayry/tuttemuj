@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2013.html",
+  "title": "1 maj 2013",
+  "summary": "Lars Pensar visar bilder från första maj 2013, med Nykarleby Manskör vid Kristliga folkhögskolan, numera kallad KREDU.",
+  "topics": [
+    "första maj",
+    "manskör",
+    "KREDU"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Thomas Enroth",
+      "alternateNames": [],
+      "roles": [
+        "dirigent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [
+        "KREDU"
+      ],
+      "geo": {
+        "lat": 63.527452,
+        "lng": 22.5269353,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första maj",
+      "date": {
+        "year": 2013,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a4fc6ac72325fd7ffb9dd523a4871ac054c3ca1b9768c6e54d329fe5c630edd6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

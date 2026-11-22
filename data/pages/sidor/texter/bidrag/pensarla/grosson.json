@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/grosson.html",
+  "title": "Batterivallarna på Gråsön av Lars Pensar",
+  "summary": "Lars Pensar visar bilder från 1988 av de ryska kanonställningarna på Grossön och förklarar varför de var felplacerade.",
+  "topics": [
+    "batterivallar",
+    "skärgården",
+    "ryska militären"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Cederholm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Grossön",
+      "kind": "island",
+      "alternateNames": [
+        "Gråsön"
+      ]
+    },
+    {
+      "name": "Alörs håle",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grisselön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Hällgrund",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Pensar fotograferade kanonställningarna",
+      "date": {
+        "year": 1988,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Grossön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "79ddfb1b3815832ee642fc5974a311c691487c9b0bd741891daf4126a97a502e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

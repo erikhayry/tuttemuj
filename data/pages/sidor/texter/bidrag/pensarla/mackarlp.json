@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/mackarlp.htm",
+  "title": "Bensinmackarna i Nykarleby av Lars Pensar",
+  "summary": "Lars Pensar går igenom Nykarlebys bensinmackar, från den första vid Norrtull till de handpumpade mackarna vid Bankgatan på 1920-talet.",
+  "topics": [
+    "bensinstationer",
+    "bilar",
+    "Bankgatan"
+  ],
+  "people": [
+    {
+      "name": "K. J. Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mantere",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Norrtull",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 4",
+      "geo": {
+        "lat": 63.5229781,
+        "lng": 22.5281705,
+        "match": "address",
+        "gazetteerName": "bankgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Köttkontrollen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tekniska museet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "K. J. Pensar och Mantere skaffade bensinförsäljningstillstånd",
+      "date": {
+        "year": 1920,
+        "circa": true,
+        "text": "vid decennieskiftet 1920"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "43985fefdab4b52719e4b6d3a7efec1832c9e22b70d2771c00414b4b61fc905e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

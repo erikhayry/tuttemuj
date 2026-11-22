@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/host10.html",
+  "title": "September 2010 av Lars Pensar",
+  "summary": "Lars Pensar visar höstbilder från september 2010 vid Kyrkfjärden, Kärleksstigen, Kraftverksbron och forsen.",
+  "topics": [
+    "fotografi",
+    "höst",
+    "älven"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Bröderna Lybeck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksbron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsen",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Höstbilder tagna",
+      "date": {
+        "year": 2010,
+        "month": 9,
+        "day": 27,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fd5747d5d5213206a7cc3a85518ba2fe9c8c675cf05d1e94a2d21980889fb784",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

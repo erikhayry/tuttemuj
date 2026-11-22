@@ -1,0 +1,128 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/kyrkbrun.htm",
+  "title": "Stadsbrunnen / Kyrkbrunnen eller varför inte Spruthusbrunnen! av Lars Pensar",
+  "summary": "Lars Pensar skriver om Kyrkbrunnen, som grävdes 1841 på Klockbacken, och om dess brunnshus och användning genom åren.",
+  "topics": [
+    "Kyrkbrunnen",
+    "brunnar",
+    "spruthuset"
+  ],
+  "people": [
+    {
+      "name": "Mats Lithén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helge Henriknäs",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkbrunnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Stadsbrunnen",
+        "Spruthusbrunnen"
+      ]
+    },
+    {
+      "name": "Klockbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Spruthuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden lät gräva och stensätta brunnen",
+      "date": {
+        "year": 1841,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kyrkbrunnen"
+      ]
+    },
+    {
+      "title": "Spruthuset uppfördes",
+      "date": {
+        "year": 1844,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Spruthuset"
+      ]
+    },
+    {
+      "title": "Brunnsvattnet förklarades odugligt som dricksvatten",
+      "date": {
+        "year": 1892,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "En stor björk föll över brunnshuset i julstormen",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kyrkbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9a521b6c737773df28f3ef476d85e8171006ad463fa1eae5a3d7025d57768b0f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

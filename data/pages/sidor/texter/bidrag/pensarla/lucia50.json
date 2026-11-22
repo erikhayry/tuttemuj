@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/lucia50.htm",
+  "title": "Luciatraditionen i Nykarleby av Lars Pensar",
+  "summary": "Lars Pensar berättar om Luciatåget 1950 då Ines Östman blev stadens första officiella lucia, med släde, ryttare, stjärngossar och luciabal.",
+  "topics": [
+    "lucia",
+    "tradition",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Ines Östman",
+      "alternateNames": [],
+      "roles": [
+        "lucia"
+      ]
+    },
+    {
+      "name": "Lennart Blomström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hilding Wiklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Märta Nessler",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Stenbäck",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Väinö Hauta-aho",
+      "alternateNames": [],
+      "roles": [
+        "polis"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Första officiella luciafirandet på torget",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Det första officiella luciatåget 1950 går genom det mörka Nykarleby med poliser, ryttare och en hästdragen släde. Judas skriker sin pungramsa åt publik han inte ser, medan Märta Nessler riktar teaterkikaren mot den ståtlige ryttaren.",
+    "reason": "Fylld av komiska, visuella scener och kända namn.",
+    "characters": [
+      "Ines Östman",
+      "Lennart Blomström",
+      "Märta Nessler",
+      "Hilding Wiklund"
+    ],
+    "places": [
+      "Torget",
+      "Karleborg"
+    ]
+  },
+  "contentHash": "32a19182b6a899471c7854db5154f8553c9ac9bda8fca5fbd31f8c7896a71762",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

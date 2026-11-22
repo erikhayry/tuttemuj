@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/fannygyll.html",
+  "title": "Fanny Gylling, född Achrén av Lars Pensar",
+  "summary": "Lars Pensar berättar om Fanny Gylling, född Achrén från Nykarleby, och hennes och maken Edvard Gyllings tragiska öde i Sovjetunionen.",
+  "topics": [
+    "Fanny Gylling",
+    "Sovjetunionen",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Fanny Gylling",
+      "alternateNames": [
+        "Fanny Achrén"
+      ],
+      "deathYear": 1944,
+      "roles": []
+    },
+    {
+      "name": "Edvard Gylling",
+      "alternateNames": [],
+      "birthYear": 1881,
+      "deathYear": 1938,
+      "roles": [
+        "filosofie doktor",
+        "politiker"
+      ]
+    },
+    {
+      "name": "Alarik Achrén",
+      "alternateNames": [],
+      "roles": [
+        "provincialläkare"
+      ]
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Edvard Gylling avrättades",
+      "date": {
+        "year": 1938,
+        "month": 6,
+        "day": 14,
+        "circa": false
+      },
+      "people": [
+        "Edvard Gylling"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fanny Gylling dömdes till 8 års fånglägervistelse",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [
+        "Fanny Gylling"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fanny Gylling dog i fånglägret",
+      "date": {
+        "year": 1944,
+        "month": 9,
+        "day": 6,
+        "circa": false
+      },
+      "people": [
+        "Fanny Gylling"
+      ],
+      "places": []
+    },
+    {
+      "title": "Alarik Achrén flyttade till Ikalis och pensionerades",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En läkardotter från Nykarleby gifter sig med en kommunistisk politiker, flyr till Sverige och hamnar i Sovjetunionen, där hon till sist döms till fånglägret.",
+    "reason": "Ett dramatiskt livsöde över landsgränser, med ett tragiskt slut.",
+    "characters": [
+      "Fanny Gylling",
+      "Edvard Gylling"
+    ],
+    "places": []
+  },
+  "contentHash": "34635329c7b89910a593e6458f8095fccf03f58b2db6d4c86d13b29fb237fc6d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

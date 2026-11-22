@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/brunnalp.htm",
+  "title": "Allmänna brunnar - Vattentillgången i Nykarleby av Lars Pensar",
+  "summary": "Lars Pensar går igenom stadens allmänna brunnar, som Torgbrunnen, brunnarna vid Rummelbacken, Ruddammen och Kyrkbrunnen, och var de låg och användes.",
+  "topics": [
+    "brunnar",
+    "vattentillgång",
+    "lokalhistoria"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Ebba Brahe",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hannes Liljeström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torgbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ruddammen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Värnamobrunnen"
+      ]
+    },
+    {
+      "name": "Kyrkbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Spruthuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Torgbrunnen anlades",
+      "date": {
+        "year": 1934,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Torgbrunnen"
+      ]
+    },
+    {
+      "title": "Kyrkbrunnen anlades som brandbrunn",
+      "date": {
+        "year": 1840,
+        "circa": true,
+        "text": "på 1840-talet"
+      },
+      "people": [],
+      "places": [
+        "Kyrkbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "de8594948bb5f3e5a0a6d9510fb439e4b0931e89a7db11022781c016eb08b6c6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

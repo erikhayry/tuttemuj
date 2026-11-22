@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/grasvaxt.html",
+  "title": "Gräsväxtauktioner och bärgningsrätter av Lars Pensar",
+  "summary": "Lars Pensar skildrar hur stan var tyst på 20–50-talen och hur invånarna höll djur i uthusen, med barnens grässamlande och stadens auktioner av gräsväxten.",
+  "topics": [
+    "djurhållning",
+    "vardagsliv",
+    "gräsauktioner"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f28bf48e28d94701d721a90979e7eae44299240453a207906382c2a3fd2285a4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

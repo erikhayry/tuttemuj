@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/alajtavl.htm",
+  "title": "Kyrkans första altartavla i Alajärvi kyrka",
+  "summary": "Anteckning i kyrkans kassabok från 1766 om försäljningen av en gammal altartavla till Alajärvi kapell, och Lars Pensars besök för att se den 2007.",
+  "topics": [
+    "altartavla",
+    "Alajärvi",
+    "kyrkan"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Helge Hedman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "En gammal altartavla såldes till Alajärvi kapell",
+      "date": {
+        "year": 1766,
+        "month": 1,
+        "day": 10,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Pensar fotograferade tavlan i Alajärvi",
+      "date": {
+        "year": 2007,
+        "month": 10,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fe7d2bc9e971cd7401527b9d6a8ef9f4fa6d7daa1964d4cf1904ae85675cc097",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

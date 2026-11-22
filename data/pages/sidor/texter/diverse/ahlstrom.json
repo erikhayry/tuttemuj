@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ahlstrom.htm",
+  "title": "Ahlströms automobiler",
+  "summary": "Bildsida om familjen Ahlströms bussar och bilar på gårdsplanen vid Grev Tottgatan, med en 12-personers Chevrolet-buss på linjen Nykarleby–Kovjoki och släktminnen.",
+  "topics": [
+    "bilar",
+    "bussar",
+    "Ahlström"
+  ],
+  "people": [
+    {
+      "name": "Elisabet Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Ahlström",
+      "alternateNames": [
+        "Karl Joel Ahlström"
+      ],
+      "birthYear": 1912,
+      "deathYear": 1967,
+      "roles": []
+    },
+    {
+      "name": "Artur Löving",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Linnea Ahlström",
+      "alternateNames": [],
+      "birthYear": 1907,
+      "deathYear": 1939,
+      "roles": []
+    },
+    {
+      "name": "Peter Björkstam",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Ahlströms gårdsplan",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Grev Tottgatan"
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Chevrolet-bussen VA 2806 anskaffades",
+      "date": {
+        "year": 1923,
+        "circa": false,
+        "text": "våren 1923"
+      },
+      "people": [],
+      "places": [
+        "Ahlströms gårdsplan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Lille Kalle Ahlström provar olovandes att köra en buss, står upp för att nå fram till vindrutan och hinner bara till Esplanaden innan ekipaget stannar mot en björk.",
+    "reason": "En komisk, visuell familjeanekdot om ett barn bakom ratten.",
+    "characters": [
+      "Joel Ahlström"
+    ],
+    "places": [
+      "Esplanaden"
+    ]
+  },
+  "contentHash": "e46f7af1aca8e9cf3b7119a2629470aa57989a744dc8e3e785a9b6352ece2c83",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/urverklp.htm",
+  "title": "Tornuret av år 1889 av Lars Pensar",
+  "summary": "Lars Pensar klättrar upp i kyrktornet 2003 och beskriver tornuret från 1889 och dess lod.",
+  "topics": [
+    "tornur",
+    "kyrkan",
+    "klockor"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Carl Glasberg",
+      "alternateNames": [],
+      "birthYear": 1821,
+      "deathYear": 1891,
+      "roles": [
+        "urmakare"
+      ]
+    },
+    {
+      "name": "Nils Frelander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Arthur Asplund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tornuret installerades",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Frelander och Asplund målade kyrkan",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Pensar besåg urverket",
+      "date": {
+        "year": 2003,
+        "month": 8,
+        "day": 25,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a62a43b7f33ff06959c8f4bf9b37b3264fc9d0456300f6f19727e1ecf06e68af",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

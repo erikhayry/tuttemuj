@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/allhelgona.html",
+  "title": "Allhelgonastämning",
+  "summary": "Lars Pensar fotograferar ett kistlock under kyrkgolvet inför allhelgona 2009, och en kommentar minns hur man på 1960-talet undersökte gravutrymmena under kyrkan.",
+  "topics": [
+    "kyrkan",
+    "gravar",
+    "allhelgona"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Öyvind Övergaard",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ingolf Friman",
+      "alternateNames": [],
+      "roles": [
+        "amatörarkeolog",
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Odert Reinhold von Essen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Pensar fotograferade kistlocket under kyrkgolvet",
+      "date": {
+        "year": 2009,
+        "month": 10,
+        "day": 31,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "På 1960-talet kryper en amatörarkeolog och en tonåring ned under kyrkgolvet och ser kistor med kvarlevor, bland annat en man med trekantig hatt och en tant med spetsmössa och torra blommor i händerna.",
+    "reason": "En kuslig, visuell berättelse om att upptäcka det som ligger gömt under kyrkan.",
+    "characters": [
+      "Ingolf Friman",
+      "Öyvind Övergaard"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "contentHash": "9aba9f1a56ce9ca4fdac4d0057a306ae6b03c143cfc46772237c05d870998161",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

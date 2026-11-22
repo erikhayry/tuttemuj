@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2019.html",
+  "title": "1 maj 2019",
+  "summary": "Lars Pensar visar bilder från första maj 2019, som firades på torget på grund av ombyggnaden av Storbron.",
+  "topics": [
+    "första maj",
+    "Stora bron",
+    "torget"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Storbron"
+      ]
+    },
+    {
+      "name": "Grönhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Första maj firades på torget på grund av ombyggnaden av Storbron",
+      "date": {
+        "year": 2019,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "254b976c66cfbed238df9441287dcf0b9f48fc737460ea73ef498775862d178b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

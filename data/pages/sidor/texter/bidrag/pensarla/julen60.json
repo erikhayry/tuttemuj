@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/julen60.html",
+  "title": "Det gick mot jul i Nykarleby och året var 1960 av Lars Pensar",
+  "summary": "Lars Pensar skildrar stadens utseende, butiker, bioprogram och annonser inför julen 1960 runt torget och Bankgatan.",
+  "topics": [
+    "jul",
+    "1960",
+    "handel",
+    "bio"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Ragnar Westerlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Bio Scala",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Liljedahls affärshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Wiks hotell",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Julstämning i staden",
+      "date": {
+        "year": 1960,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "68344aaed17e664b540db64472648412a7cc8056bb378b09340a00978a105d6c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}

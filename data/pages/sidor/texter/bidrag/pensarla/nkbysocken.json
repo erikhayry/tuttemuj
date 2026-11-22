@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/nkbysocken.html",
+  "title": "Nykarleby socken av Lars Pensar",
+  "summary": "Lars Pensar skildrar hur Nykarleby socken uppstod ur de gamla storsocknarna i Österbotten och hur sockengränserna drogs.",
+  "topics": [
+    "socken",
+    "historia",
+    "sockengränser"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Monäs",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Hirvlax",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kantlax",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Langnäsudden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sämjostenen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Pensalamossen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vörå blev egen socken",
+      "date": {
+        "year": 1535,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lagmansdom om gränsen mellan Pedersöre och Vörå",
+      "date": {
+        "year": 1607,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9985df3b79805af0ea5e3c296000753663468be23c09132f431124a8823e181d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T12:54:53.402Z"
+}
