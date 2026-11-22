@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/bantis.htm",
+  "title": "Lätt att leda barnträdgård i stad av nykarleby-mått",
+  "summary": "Tidningsintervju med Rigmor Schauman, ny lärarinna vid Nykarleby barnträdgård, om kontakten med föräldrarna och den nya byggnaden vid Karleborgsgatan.",
+  "topics": [
+    "barnträdgård",
+    "stadens regi",
+    "småstad"
+  ],
+  "people": [
+    {
+      "name": "Rigmor Schauman",
+      "alternateNames": [
+        "Rigmor Blomqvist"
+      ],
+      "roles": [
+        "barnträdgårdslärarinna"
+      ]
+    },
+    {
+      "name": "Monica Andberg",
+      "alternateNames": [],
+      "roles": [
+        "barnträdgårdslärarinna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby barnträdgård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "85fb767af94c85126170377a653729b20eb284d9684988b027655186ca949d04",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

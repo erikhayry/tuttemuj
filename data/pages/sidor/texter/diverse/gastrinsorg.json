@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/gastrinsorg.html",
+  "title": "Gästrins orgel",
+  "summary": "Beskrivning av de hemmabyggda orglarna som organisten Anders Gästrin byggde 1880, som hittades 1936 på De gamlas hem och finns i Sibeliusmuseet.",
+  "topics": [
+    "orgel",
+    "Gästrin",
+    "Sibeliusmuseet"
+  ],
+  "people": [
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [
+        "Andreas Gästrin"
+      ],
+      "roles": [
+        "organist"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gästrin byggde orgeln",
+      "date": {
+        "year": 1880,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Orgeldelarna hittades på De gamlas hem",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "De gamlas hem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3f874610e42972366cd73ad7f2fddb580f4c65718d95c25b0a7e7eb79c10328a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

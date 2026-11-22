@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/carlfin1.htm",
+  "title": "Carl Finstroms resebrev",
+  "summary": "Utdrag ur ett brev från Carl Finstrom 1970 efter ett besök i hans barndomsstad under 350-årsjubileet, med släktbesök, sångfest och avslutningsbankett.",
+  "topics": [
+    "350-årsjubileet",
+    "brev",
+    "Amerika"
+  ],
+  "people": [
+    {
+      "name": "Carl Finstrom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bruce C. Muller",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ester Boman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "trubadur"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Eden Hotel",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby stads 350-årsjubileum",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Carl Finstroms brev efter jubileet",
+      "date": {
+        "year": 1970,
+        "month": 11,
+        "day": 30,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bf088f3421877038279254bbcd9597069482db096b17cd66227ea38767770080",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

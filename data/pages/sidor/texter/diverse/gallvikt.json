@@ -1,0 +1,124 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/gallvikt.htm",
+  "title": "Galleri Viktor",
+  "summary": "Om Galleri Viktor i Normalskolans f.d. vaktmästarbostad vid Kyrkogatan, grundat 1988 till minne av skulptören Viktor Malmberg, och husets historia.",
+  "topics": [
+    "Galleri Viktor",
+    "Normalskolan",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Oskar Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    },
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ]
+    },
+    {
+      "name": "Ingmar Knif",
+      "alternateNames": [],
+      "roles": [
+        "rektor"
+      ]
+    },
+    {
+      "name": "Peter Bergström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mona Udd",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Galleri Viktor",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 3"
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stadsbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vaktmästarbostaden byggdes",
+      "date": {
+        "year": 1911,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Galleri Viktor grundades",
+      "date": {
+        "year": 1988,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Galleri Viktor"
+      ]
+    },
+    {
+      "title": "Stadsbrunnen flyttades till kyrkotomten",
+      "date": {
+        "year": 1990,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9d6c5f581c03237644135cf95d086a0a333f141011265911b61982decc781cbf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/andelskassan.html",
+  "title": "Andelskassorna i Munsala, Nykarleby och Jeppo 1926–1976 av Leif Sjöholm",
+  "summary": "Leif Sjöholm redogör för andelskassornas historia i Munsala, Nykarleby och Jeppo 1926–1976, från Finlands första andelskassa till de lokala kassornas grundande och verksamhet.",
+  "topics": [
+    "andelskassor",
+    "banker",
+    "lokalhistoria"
+  ],
+  "people": [
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Finlands första andelskassa grundades",
+      "date": {
+        "year": 1902,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Munsala Västra Andelskassa grundades",
+      "date": {
+        "year": 1926,
+        "month": 11,
+        "day": 14,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nykarleby Andelskassa grundades",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "35dbafb59e6890481860d5b276a749a4eefba309c9ad8c7c9b903fe2c6995baa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

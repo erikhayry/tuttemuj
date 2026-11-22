@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/bankedelning1784.html",
+  "title": "Bänke-Delnings Längd öfver NyCarleby Stads Innevånare och NyCarleby Församlings Moder kyrka, förrättad den 24 Augusti år 1784",
+  "summary": "Renskriven text av bänkdelningslängden från 1784, som visar vilka invånare som fick vilka platser i kyrkbänkarna i Nykarleby kyrka.",
+  "topics": [
+    "kyrkbänkar",
+    "1784",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Daniel Forsberg",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Pehr Krook",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Anders Ersson Juthe",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Brinck",
+      "alternateNames": [],
+      "roles": [
+        "borgmästarinna"
+      ]
+    },
+    {
+      "name": "Backman",
+      "alternateNames": [],
+      "roles": [
+        "sekreterska"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Bänkdelningen förrättades",
+      "date": {
+        "year": 1784,
+        "month": 8,
+        "day": 24,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "De äldre kyrkbänkarna ersattes",
+      "date": {
+        "year": 1824,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "09b1d7e8c994ff24629e1499f91f128a9aad72c7dc13f1f17d352be59b41200e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/grisar.htm",
+  "title": "Grisar",
+  "summary": "En lättsam berättelse om grisbakelser på ett bageri vid Nytorget i Stockholm, som väcker minnen av dem från Sundells bageri i Jeppo.",
+  "topics": [
+    "bakverk",
+    "grisar",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Wiss",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aileen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sundells bageri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a5dabd1ae8bdbb1f49f1f29bcf6328bbd413a5606c875f60c1f1602111ca5949",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

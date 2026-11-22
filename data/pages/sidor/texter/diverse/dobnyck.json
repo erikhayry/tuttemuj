@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/dobnyck.html",
+  "title": "Nyckelbricka från von Döbeln Restaurant ledde till Målning av von Döbeln",
+  "summary": "En nyckelbricka nummer 306 från gamla hotellet vid Bankgatan 7 diskuteras i ett mejlutbyte, med gissningar om var den tillverkats.",
+  "topics": [
+    "Hotell Eden",
+    "nyckelbricka",
+    "Bankgatan"
+  ],
+  "people": [
+    {
+      "name": "Sixten Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maj-Gret Björklund",
+      "alternateNames": [],
+      "roles": [
+        "restaurangägare"
+      ]
+    },
+    {
+      "name": "Elof Lindblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fredrik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 7",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 7",
+      "description": "Det gamla hotellet och restaurangen.",
+      "geo": {
+        "lat": 63.5224808,
+        "lng": 22.5312825,
+        "match": "address",
+        "gazetteerName": "bankgatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hotell Eden",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bröderna Enlund byggde om hotellet till bostäder",
+      "date": {
+        "year": 1995,
+        "circa": true
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 7"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "baf9d3117bee74c6ee06b6d5825cccbffdd0ca5acd0e21f85069f1b4eb3cff49",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

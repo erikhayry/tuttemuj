@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/gastfunt.htm",
+  "title": "Gästrins \"testamente\" publicerat på dagen 115 år efter att det skrevs.",
+  "summary": "Organisten Anders Gästrins lapp, som han lade in i dopfunten han snidade, och annat om dopfunten och dop vid kyrkan.",
+  "topics": [
+    "Gästrin",
+    "dopfunt",
+    "kyrkan"
+  ],
+  "people": [
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [],
+      "roles": [
+        "organist"
+      ]
+    },
+    {
+      "name": "Helge Hedman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gästrin blev organist i församlingen",
+      "date": {
+        "year": 1840,
+        "month": 9,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gästrin skrev lappen som lades i dopfunten",
+      "date": {
+        "year": 1890,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Dopfunten restaurerades",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "november–december 2004"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c6b48695da558651a27a2d133b83dcabc26efee4427d48b671d97ce562717e0d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

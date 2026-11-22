@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/histyle15.html",
+  "title": "Nykarlebys äldsta historia ges ut i digital form",
+  "summary": "Yle-artikel om att historikprojektet om Nykarleby pågått i över femtio år och att den sista delen om stadens äldsta historia troligen ges ut i digital form.",
+  "topics": [
+    "stadens historia",
+    "historik",
+    "digitalt"
+  ],
+  "people": [
+    {
+      "name": "Bo Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "ordförande i historikkommittén"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första bandet av stadens historia utkom",
+      "date": {
+        "year": 1980,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Andra bandet utkom",
+      "date": {
+        "year": 1988,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c9458b34cbce9d0679a997afe08faa1a39f27ed48dc2ff9cd17bc49114d50fc3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

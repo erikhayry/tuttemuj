@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/evakuerade.html",
+  "title": "Evakuerade från Kemijärvi",
+  "summary": "Förteckningar över evakuerade från Kemijärvi som placerades i Nykarleby hösten 1944, med namn, familjer och kreatur.",
+  "topics": [
+    "evakuering",
+    "Kemijärvi",
+    "1944"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Purmo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Evakuerade och kreatur överfördes från Purmo till Nykarleby",
+      "date": {
+        "year": 1944,
+        "month": 10,
+        "day": 31,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "eeb486ac0c7010c3ca90253d5832a6b7979489338a95ba1afb7c1dede1064f4e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

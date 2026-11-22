@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/bombminn.htm",
+  "title": "Minnen av bombningen av Nykarleby fastlagstisdagen den 22 februari 1944",
+  "summary": "Tor-Björn Carlsson minns hur en grupp skolbarn som åkte kälke på fastlagstisdagen 1944 hörde flygplan och bomber, och lade sig platt vid stranden.",
+  "topics": [
+    "bombningen 1944",
+    "krigsminnen",
+    "barndom"
+  ],
+  "people": [
+    {
+      "name": "Tor-Björn Carlsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Åbranten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Prostas hagan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bombningen av Nykarleby",
+      "date": {
+        "year": 1944,
+        "month": 2,
+        "day": 22,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Prostas hagan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "På fastlagstisdagen åker en grupp skolbarn kälke i åbranten när de ser ljus på himlen och hör flygplan. De kryper platt bakom några glesa buskar vid stranden, tills någon inser att en träff på kraftverksdammen skulle dränka dem och alla rusar uppför backen.",
+    "reason": "En spänd och personlig barnperspektivscen från bombningen med ett tydligt vändpunktsögonblick.",
+    "characters": [
+      "Tor-Björn Carlsson"
+    ],
+    "places": [
+      "Åbranten",
+      "Kraftverksdammen"
+    ]
+  },
+  "contentHash": "756b102d381b7dcc2f988430e6bedaf0131878850092721ea5e5dc20362dcf34",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

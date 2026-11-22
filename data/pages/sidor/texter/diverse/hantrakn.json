@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/hantrakn.html",
+  "title": "Tre hantverkares räkningar",
+  "summary": "Tre hantverkares räkningar för arbeten åt konsul Carl Grundfeldt på 1870-talet, med bakgrund om smeden Johan Karlson, målaren Carl Halein och sadelmakaren Josef Sundberg.",
+  "topics": [
+    "hantverkare",
+    "räkningar",
+    "Grundfeldt"
+  ],
+  "people": [
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsul",
+        "handelsman",
+        "redare"
+      ]
+    },
+    {
+      "name": "Johan Karlson",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "Carl Halein",
+      "alternateNames": [],
+      "roles": [
+        "målarmästare"
+      ]
+    },
+    {
+      "name": "Josef Sundberg",
+      "alternateNames": [],
+      "roles": [
+        "sadelmakare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra Långgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Karleborgsgatan"
+      ],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybroboulevarden",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b4e6d6631c4e0b93c89c59d170310f31bb48b703d19f50cd2622b2850b86807a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

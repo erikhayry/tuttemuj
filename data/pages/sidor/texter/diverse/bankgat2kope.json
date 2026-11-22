@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/bankgat2kope.html",
+  "title": "Salubrev.",
+  "summary": "Ett salubrev från 1918 där Anders Wilhelm Blomqvist säljer gården på Bankgatan 2 till handlanden Victor Holmström, med ett minne om försäljningen.",
+  "topics": [
+    "gårdsaffär",
+    "1918",
+    "Bankgatan"
+  ],
+  "people": [
+    {
+      "name": "Anders Wilhelm Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sofia Evelina Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aina Rönning",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården såldes till Victor Holmström",
+      "date": {
+        "year": 1918,
+        "month": 8,
+        "day": 10,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 2"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d7f4cf8a282670581dd0d81379895434a0ea356026260e95cdd6a0a45c0667b8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

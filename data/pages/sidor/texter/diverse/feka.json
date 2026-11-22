@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/feka.htm",
+  "title": "Den sista färden",
+  "summary": "Två vänner paddlade kanot nedför älven den 16 juni 1984 för att uppleva forsarna innan de försvann i dammhöjningen, och fick bland annat kämpa vid den halvrivna dammen.",
+  "topics": [
+    "kanotfärd",
+    "forsar",
+    "dammhöjning"
+  ],
+  "people": [
+    {
+      "name": "Stefan Karlström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Riksåttan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gasängskvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Haraldsforsen",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsbackaforsen",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadsforsen",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Klappbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Madagaskar",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Den sista färden med kanot genom forsarna",
+      "date": {
+        "year": 1984,
+        "month": 6,
+        "day": 16,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Stadsforsen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Två vänner paddlar kanot nedför älven en sista gång innan forsarna dränks av dammhöjningen. Vid den halvrivna dammen sjunker den ene ner i dyn, och sedan fylls kanoten med vatten tills de flyter jämns med ytan och strandar vid Madagaskar.",
+    "reason": "En äventyrlig och komisk färd med tydliga missöden och ett vemodigt tema.",
+    "characters": [
+      "Stefan Karlström"
+    ],
+    "places": [
+      "Stadsforsen",
+      "Madagaskar"
+    ]
+  },
+  "contentHash": "940fceefd45591376a5b59ecbf4db03d14596efbfacf9f8b6a42e0faf792bca2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/bankedelning1784_7.html",
+  "title": "Faksimil sid 7 Bänke-Delnings Längd öfver NyCarleby Stads Innevånare och NyCarleby Församlings Moder kyrka, förrättad den 24 Augusti år 1784",
+  "summary": "Faksimil av sida 7 i Bänke-Delnings Längd över stadens invånare och kyrkbänkarnas fördelning 1784, med länk till renskriven text.",
+  "topics": [
+    "kyrkbänkar",
+    "1784",
+    "faksimil"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Bänkdelningen i kyrkan förrättades",
+      "date": {
+        "year": 1784,
+        "month": 8,
+        "day": 24,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4b866e661d4a92e96219387b40ad3611d0d26b9052e147a46b2e22b54ce74677",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

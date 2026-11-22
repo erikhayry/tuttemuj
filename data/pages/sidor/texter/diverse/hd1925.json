@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/hd1925.htm",
+  "title": "Det glada tjugotalet",
+  "summary": "Foto ur ett album av en elegant dam på en Harley-Davidson-motorcykel framför Tullmagasinet vid Andrasjön, där kännare dateras maskinen till 1920-talet.",
+  "topics": [
+    "motorcykel",
+    "1920-talet",
+    "Tullmagasinet"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Granlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunborg Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bo-Erik Granlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kjell Övergaard",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Pauli Niemiharju",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "7083ebc2d75a2cfa89d7bc90cb30cafdd3b80e3bb52a7666c6973e1e4ab4f3f3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

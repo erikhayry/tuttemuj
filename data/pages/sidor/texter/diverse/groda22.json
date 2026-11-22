@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/groda22.htm",
+  "title": "Sommarens gröda 1922",
+  "summary": "Förteckning över arrendekontrakt som Nykarleby stad slöt i maj 1922 för åkrar, ängar och parker, med arrendatorernas namn och årliga avgifter.",
+  "topics": [
+    "arrende",
+    "1922",
+    "stadens jordar"
+  ],
+  "people": [
+    {
+      "name": "Kajsa Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aug. Björklund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Joel Nordling",
+      "alternateNames": [],
+      "roles": [
+        "handlare"
+      ]
+    },
+    {
+      "name": "Oskar Rosenblad",
+      "alternateNames": [],
+      "roles": [
+        "torpare"
+      ]
+    },
+    {
+      "name": "Edvin Markkula",
+      "alternateNames": [],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Axel Anttila",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sorvistmossa",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Kampåkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Leppogubben",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupstens holme",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Stubbkärret",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stenbacksåkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Järnvägsparken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Rummelbacken"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden arrenderade ut jord för sommarens gröda",
+      "date": {
+        "year": 1922,
+        "month": 5,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "50884a9c4d6cba874507d6771b4bf90753db0b168cb324b44f239af33e945217",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ettan_fl.html",
+  "title": "Ett femtiofemårsminne",
+  "summary": "Fredrik minns sina sex år i Nykarleby centralfolkskola med start 1970, med lärare, klasskamrater och utvikningar om skolvardagen i Normen.",
+  "topics": [
+    "skolminnen",
+    "Normen",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Fredrik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Göta Nielsen",
+      "alternateNames": [],
+      "roles": [
+        "klasslärare"
+      ]
+    },
+    {
+      "name": "Svea Broman",
+      "alternateNames": [],
+      "roles": [
+        "klasslärare"
+      ]
+    },
+    {
+      "name": "Yngve Svarvar",
+      "alternateNames": [],
+      "roles": [
+        "klasslärare"
+      ]
+    },
+    {
+      "name": "Nils Åström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bror Åström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby centralfolkskola"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bildningens Borg",
+      "kind": "building",
+      "alternateNames": [
+        "Stenhäktet"
+      ]
+    },
+    {
+      "name": "Pihlainens",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Författaren började i ettan i centralfolkskolan",
+      "date": {
+        "year": 1970,
+        "month": 9,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9966e1f34f4ee8e9e1b548994c399968df8a9dac63a2b81de5b5cc03595bfc67",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

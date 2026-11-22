@@ -1,0 +1,127 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/forfstig.html",
+  "title": "Författarstigen",
+  "summary": "Presentation av den fyra kilometer långa Författarstigen med 20 skyltar om författare och deras platser, öppnad som stadsbibliotekets gåva till stadens 400-årsjubileum.",
+  "topics": [
+    "Författarstigen",
+    "litteratur",
+    "vandringsled"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna-Lisa Sahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "R. R. Eklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Erik Forsgård",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Monica Sandström",
+      "alternateNames": [],
+      "roles": [
+        "projektledare"
+      ]
+    },
+    {
+      "name": "Olya Tsikhanchuk",
+      "alternateNames": [],
+      "roles": [
+        "illustratör"
+      ]
+    },
+    {
+      "name": "Anne-Lie Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johanna Häggblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Catrin Wiik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Jakobstadsvägen 22",
+      "geo": {
+        "lat": 63.5299886,
+        "lng": 22.5364176,
+        "match": "address",
+        "gazetteerName": "jakobstadsvägen 22",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [
+        "Herlers museum"
+      ],
+      "address": "Jakobstadsvägen 5"
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ljusparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Författarstigen öppnades",
+      "date": {
+        "year": 2020,
+        "month": 7,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Idé om litterär vandring väcktes av Föreningen Diktens Dag",
+      "date": {
+        "year": 2001,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8bc410f8d1647522101ca87f276a9c45970381a81d6bde4bde790daa4ace3eef",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asping.html",
+  "title": "Hilding och hans äspingar av Lars Pensar",
+  "summary": "Lars Pensar besöker Hilding Wiklund i augusti 2004 när han tillverkar en äsping, en urholkad båt av asp, på sin linda vid älven i Forsby.",
+  "topics": [
+    "äsping",
+    "båtbygge",
+    "hantverk"
+  ],
+  "people": [
+    {
+      "name": "Hilding Wiklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppovägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.42222559999999,
+        "lng": 22.6048085,
+        "match": "name",
+        "gazetteerName": "jeppovägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Pensar besökte Hilding Wiklund och hans äsping",
+      "date": {
+        "year": 2004,
+        "month": 8,
+        "circa": false
+      },
+      "people": [
+        "Lars Pensar",
+        "Hilding Wiklund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4391e78863f0d4d8f270438ac4f0b2a41315dbd13397daf683e28b9e4b4c8023",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

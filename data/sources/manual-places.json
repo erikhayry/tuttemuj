@@ -369,7 +369,10 @@
   },
   {
     "name": "barnträdgården",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "nykarleby barnträdgård"
+    ]
   },
   {
     "name": "barrners gård",
@@ -447,6 +450,13 @@
     "name": "bertila i vexala",
     "kind": "farm",
     "note": "Farm in Vexala."
+  },
+  {
+    "name": "bildningens borg",
+    "kind": "building",
+    "alternateNames": [
+      "stenhäktet"
+    ]
   },
   {
     "name": "bio scala",
@@ -968,6 +978,10 @@
     ]
   },
   {
+    "name": "djupstens holme",
+    "kind": "island"
+  },
+  {
     "name": "djupstens skatan",
     "kind": "island",
     "note": "Skerry in the archipelago owned by the town."
@@ -986,6 +1000,10 @@
   {
     "name": "djupön",
     "kind": "island"
+  },
+  {
+    "name": "dollar-hannas lanthandel",
+    "kind": "building"
   },
   {
     "name": "domarbacka",
@@ -1316,6 +1334,10 @@
     "kind": "farm"
   },
   {
+    "name": "forsbackaforsen",
+    "kind": "waterbody"
+  },
+  {
     "name": "forsbackan",
     "kind": "district"
   },
@@ -1540,6 +1562,10 @@
     "note": "Former gallows hill."
   },
   {
+    "name": "galleri viktor",
+    "kind": "building"
+  },
+  {
     "name": "gamla banvallen till andrasjön",
     "kind": "other"
   },
@@ -1618,7 +1644,8 @@
     "alternateNames": [
       "gardsäng",
       "gasängs-kvänen",
-      "gasängskvarnen"
+      "gasängskvarnen",
+      "gasängskvarn"
     ],
     "note": "Water mill below the Juthas battlefield; built 1856, demolished 1973."
   },
@@ -1686,6 +1713,13 @@
   {
     "name": "granskär",
     "kind": "island"
+  },
+  {
+    "name": "granskäret",
+    "kind": "island",
+    "alternateNames": [
+      "granskiäret"
+    ]
   },
   {
     "name": "granskärssundet",
@@ -1820,6 +1854,10 @@
   {
     "name": "gulfs verkstad",
     "kind": "building"
+  },
+  {
+    "name": "gumtäkts ängar",
+    "kind": "landmark"
   },
   {
     "name": "gunhild hanséns matservering",
@@ -2021,7 +2059,10 @@
   },
   {
     "name": "haralds fors",
-    "kind": "waterbody"
+    "kind": "waterbody",
+    "alternateNames": [
+      "haraldsforsen"
+    ]
   },
   {
     "name": "haralds såg",
@@ -2029,7 +2070,10 @@
   },
   {
     "name": "haralds såg och kvarn",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "haralds kvarn"
+    ]
   },
   {
     "name": "haraldsfors såg",
@@ -2190,7 +2234,11 @@
   },
   {
     "name": "hotell eden",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "eden hotel",
+      "eden hotell"
+    ]
   },
   {
     "name": "hotell juthbacka",
@@ -2243,6 +2291,10 @@
   },
   {
     "name": "häggbloms",
+    "kind": "building"
+  },
+  {
+    "name": "häggbloms butik",
     "kind": "building"
   },
   {
@@ -2628,6 +2680,10 @@
   {
     "name": "kalle anderssons hemgård",
     "kind": "building"
+  },
+  {
+    "name": "kampåkern",
+    "kind": "other"
   },
   {
     "name": "kanalesplanaden",
@@ -3289,6 +3345,13 @@
     "note": "Protected tree on the Juthbacka path."
   },
   {
+    "name": "kärr",
+    "kind": "village",
+    "alternateNames": [
+      "kärr folkskola"
+    ]
+  },
+  {
     "name": "kärr i forsby",
     "kind": "farm",
     "alternateNames": [
@@ -3545,6 +3608,10 @@
   {
     "name": "lillkungs konditori",
     "kind": "building"
+  },
+  {
+    "name": "lillodjupet",
+    "kind": "waterbody"
   },
   {
     "name": "lillollas i forsby",
@@ -4354,6 +4421,10 @@
     "kind": "building"
   },
   {
+    "name": "nykarleby båtbyggeri",
+    "kind": "building"
+  },
+  {
     "name": "nykarleby centralandelsmejeri",
     "kind": "building",
     "note": "Dairy cooperative (centralandelsmejeri) in Nykarleby."
@@ -4413,6 +4484,10 @@
     "name": "nykarleby kraftverk",
     "kind": "building",
     "note": "Power station on Kvarnvägen."
+  },
+  {
+    "name": "nykarleby kvarn",
+    "kind": "building"
   },
   {
     "name": "nykarleby landsförsamling",
@@ -4684,6 +4759,10 @@
   },
   {
     "name": "pettersborg",
+    "kind": "building"
+  },
+  {
+    "name": "pihlainens",
     "kind": "building"
   },
   {
@@ -5397,6 +5476,10 @@
     ]
   },
   {
+    "name": "silvaviken",
+    "kind": "waterbody"
+  },
+  {
     "name": "simbassängen vid juthbacka",
     "kind": "landmark"
   },
@@ -5688,6 +5771,10 @@
     "note": "Farm in Högbacka."
   },
   {
+    "name": "sorvistmossa",
+    "kind": "other"
+  },
+  {
     "name": "sowo ab:s snickeriverkstad",
     "kind": "building"
   },
@@ -5914,6 +6001,10 @@
     "note": "Lake on the 1841 Gyldén map."
   },
   {
+    "name": "stenbacksåkern",
+    "kind": "other"
+  },
+  {
     "name": "stenhustomten",
     "kind": "other"
   },
@@ -6083,6 +6174,10 @@
     "kind": "island"
   },
   {
+    "name": "stubbkärret",
+    "kind": "other"
+  },
+  {
     "name": "ständerhuset",
     "kind": "building",
     "note": "Has a frieze by Emil Wikström from 1903."
@@ -6090,6 +6185,10 @@
   {
     "name": "sundbergsvägen",
     "kind": "street"
+  },
+  {
+    "name": "sundells bageri",
+    "kind": "building"
   },
   {
     "name": "sundells glasskärra",
@@ -7047,6 +7146,10 @@
     "note": "School in Nedervetil."
   },
   {
+    "name": "åbranten",
+    "kind": "landmark"
+  },
+  {
     "name": "ågatan",
     "kind": "street"
   },
@@ -7152,7 +7255,8 @@
     "kind": "street",
     "alternateNames": [
       "östra esplanad",
-      "östra esplanadgatan"
+      "östra esplanadgatan",
+      "östra esplanaden 11"
     ]
   },
   {

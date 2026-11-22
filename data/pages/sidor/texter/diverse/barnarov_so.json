@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/barnarov_so.html",
+  "title": "Bortrövade under Stora ofreden",
+  "summary": "Förteckning över barn och annat folk från Nykarleby med omnejd som ryssarna bortförde under Stora ofreden, med antal per by och namn, kopplad till nutida bortrövanden i Ukraina.",
+  "topics": [
+    "Stora ofreden",
+    "bortrövade",
+    "släktforskning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [
+        "Jepå by"
+      ],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [
+        "Munsala By"
+      ],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [
+        "Wexala By"
+      ]
+    },
+    {
+      "name": "Hirvlax",
+      "kind": "village",
+      "alternateNames": [
+        "Herflax By"
+      ]
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [
+        "Munå By"
+      ],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kantlax",
+      "kind": "village",
+      "alternateNames": [
+        "Cant Lax By"
+      ]
+    },
+    {
+      "name": "Härmä",
+      "kind": "village",
+      "alternateNames": [
+        "Härmä Capell"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "a4471a17a9cf52e37a88c4cd51d4026a2efe28f31f117915e42cb62ba3e19596",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

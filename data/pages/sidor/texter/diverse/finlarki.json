@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/finlarki.htm",
+  "title": "Nykarleby och Kuddnäs i Arktitekturguide till Finland",
+  "summary": "Utdrag ur Arkitekturguide till Finland om Nykarleby centrum och Kuddnäs, med kommentarer och rättelser av sidans författare.",
+  "topics": [
+    "arkitektur",
+    "stadsplan",
+    "guidebok"
+  ],
+  "people": [
+    {
+      "name": "Carl Albert Edelfeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elias Brenner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Trivialskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Branden i Nykarleby",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkan byggdes",
+      "date": {
+        "year": 1708,
+        "circa": false,
+        "text": "1708–10"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Seminarieområdet grundades",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b2396a25e5a1b8597e3044fedb68b241406df89c00d428fdcfcdc68d32c90792",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

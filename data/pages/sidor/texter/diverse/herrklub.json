@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/herrklub.htm",
+  "title": "En herrklubb i Nykarleby nedtecknat av Carl Nylund",
+  "summary": "Konsul Carl Nylund berättar om en herrklubb i Nykarleby, som träffades i en finnstuga och där man pratade, rökte och spelade vist, med ett gräl som slutade med att en kapten kastades ut genom fönstret.",
+  "topics": [
+    "herrklubb",
+    "föreningsliv",
+    "branden"
+  ],
+  "people": [
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Swahn",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Fru Wahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "August Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lillgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Stadens herrar samlas en gång i veckan i en liten finnstuga för att prata, röka och spela vist. En kväll blir det gräl, och den starke August Lybeck kastar kapten Kerrman ut genom fönstret.",
+    "reason": "En kort men färgstark scen med tydliga karaktärer och en komisk slutpunkt.",
+    "characters": [
+      "August Lybeck",
+      "Kerrman"
+    ],
+    "places": []
+  },
+  "contentHash": "240e9c20fb782cb5759b82a5f4bcc5bcb1fac0cd7d599e3b69ff468c7f7fb155",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asjonhwf.htm",
+  "title": "Andrasjön",
+  "summary": "En bildsida om Andrasjön med fotografens uppgifter och ingen egen berättande text.",
+  "topics": [
+    "Andrasjön",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b89424ad1f3a637008f9f225184dd88b9ddc4c05e0d7e9ece080a5a419d151e2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

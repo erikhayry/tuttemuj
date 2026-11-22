@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asjonhw.htm",
+  "title": "Andrasjön",
+  "summary": "Bild från Andrasjön mellan 1973 och 1979 och historien om Hamnsmackon, den allmänna roddbåten som ordnades av en privatperson efter att staden gått ur Finlands Hamnförbund.",
+  "topics": [
+    "Andrasjön",
+    "hamnen",
+    "roddbåt"
+  ],
+  "people": [
+    {
+      "name": "Kjell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ångbåtsbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden gick ur Finlands Hamnförbund",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Vågbrytare började anläggas",
+      "date": {
+        "year": 1979,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "596f51614a760ea8ec457e32eb9a98054aa12699afb4d8a766bd2f80803cc899",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

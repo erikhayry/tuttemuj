@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/granholmen.html",
+  "title": "Historik över Granholmen av Greta Lillbroända",
+  "summary": "Greta Lillbroända berättar om stugan på Granholmen, som flyttades från Hummelskär 1904, blev herrarnas Fridhem och sedan byggdes ut av professor Woldemar Backman.",
+  "topics": [
+    "Granholmen",
+    "stuga",
+    "historik"
+  ],
+  "people": [
+    {
+      "name": "Greta Lillbroända",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "professor",
+        "läkare"
+      ]
+    },
+    {
+      "name": "Anders Mårtens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hjalmar Mårtens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikael Mårtens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lönneström",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "Rosa Mårtens",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Granholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Hummelskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stugan flyttades till Granholmen",
+      "date": {
+        "year": 1904,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Granholmen"
+      ]
+    },
+    {
+      "title": "Rosa Mårtens kokade åt professorn",
+      "date": {
+        "year": 1916,
+        "circa": false,
+        "text": "somrarna 1916 och 1917"
+      },
+      "people": [],
+      "places": [
+        "Granholmen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1bdb26094d165a189bb2438b801b7d9e850d0888953d4864bf5c9a8087037542",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/andras78.htm",
+  "title": "Andrasjön 1978",
+  "summary": "Ett foto av Andrasjöns simstrand från juni 1978, då det bara fanns två pontonbryggor och inga vågbrytare.",
+  "topics": [
+    "Andrasjön",
+    "fotografi",
+    "1978"
+  ],
+  "people": [
+    {
+      "name": "Ingrid Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars O. Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bertil Nyström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Simhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av Andrasjön",
+      "date": {
+        "year": 1978,
+        "month": 6,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e6fad000948fde4ccf6ea4e6d852ea73c80f4e25179b2a18891928d717470766",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

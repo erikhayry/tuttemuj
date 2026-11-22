@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/bindsel.html",
+  "title": "Berättelse om ett bindsel och annat som grävts fram av Kenneth Frostdahl",
+  "summary": "Kenneth Frostdahl hittar ett träbindsel på morfarens vind och reder ut med familjen och bekanta vad det var och var Per Willman grävde fram det.",
+  "topics": [
+    "bindsel",
+    "flottning",
+    "Willman"
+  ],
+  "people": [
+    {
+      "name": "Kenneth Frostdahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mirjam Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Per Willman",
+      "alternateNames": [
+        "Moffa"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Boris Mattsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Willman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 25",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 25",
+      "geo": {
+        "lat": 63.5239627,
+        "lng": 22.5339941,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 25",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bådan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lillodjupet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Alön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b01aafe6630d9b6f7e1c93fd2f910432748b39fb288829521f1968fc787eed17",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}

@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/biblo160.htm",
+  "title": "Nykarleby stadsbibliotek 160 år 1865–2025",
+  "summary": "Affisch över de platser där Nykarleby stadsbibliotek funnits sedan 1865, med adresser och årtal, när biblioteket firar 160 år.",
+  "topics": [
+    "stadsbiblioteket",
+    "1865–2025",
+    "lokaler"
+  ],
+  "people": [
+    {
+      "name": "Lena Dahlbacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Döbelns gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan 5",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Lybecksgatan 5",
+      "geo": {
+        "lat": 63.52476779999999,
+        "lng": 22.5305087,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Östra Esplanaden 11",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Östra Esplanaden 11",
+      "description": "Topeliusesplanaden."
+    },
+    {
+      "name": "Topeliusesplanaden 7",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 7",
+      "geo": {
+        "lat": 63.521946,
+        "lng": 22.5308876,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden 10",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 10",
+      "geo": {
+        "lat": 63.5229453,
+        "lng": 22.5305088,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 10",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fattigskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Backlunds skola"
+      ],
+      "description": "På Källbacken."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbiblioteket grundades",
+      "date": {
+        "year": 1865,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Biblioteket flyttade till Topeliusesplanaden 10",
+      "date": {
+        "year": 2016,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 10"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c5adad8b9cc7b82723764301a0dd5af26ed877d82120fb883a593a6adb3c788f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-22T18:07:10.999Z"
+}
