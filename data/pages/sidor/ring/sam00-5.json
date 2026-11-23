@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ring/sam00-5.html",
+  "title": "Nykarleby samskolas och dess efterföljares klassringar",
+  "summary": "Klassringarna från Nykarleby samskola och dess efterföljare, samlyceum och gymnasium, visas år för år från 1944 och framåt. Många ringar saknas ännu, och sidan efterlyser fler.",
+  "topics": [
+    "klassring",
+    "samskola",
+    "skola",
+    "typologi"
+  ],
+  "people": [
+    {
+      "name": "Ann-Mari Granqvist",
+      "alternateNames": [],
+      "birthYear": 1932,
+      "deathYear": 2023,
+      "roles": [
+        "folkskollärarinna"
+      ],
+      "description": "Ägde klassringen från 1949 och blev folkskollärarinna vid 21 års ålder."
+    },
+    {
+      "name": "Anita Weber",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ritade det vinnande förslaget till 1960 års klassring, enligt en minnesbild."
+    },
+    {
+      "name": "Margareta Kass",
+      "alternateNames": [
+        "Margareta Wikström"
+      ],
+      "roles": [],
+      "description": "Designade klassringen för 1961."
+    },
+    {
+      "name": "Helena Helsing",
+      "alternateNames": [
+        "Helena Häggström"
+      ],
+      "roles": [],
+      "description": "Ritade klassringen för årgång 1963."
+    },
+    {
+      "name": "Gustav Segerstam",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Designade klassringen för 1959."
+    },
+    {
+      "name": "Peter Mariedahl",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Troligen designer av klassringen 1954."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skolan som klassringarna från 1944 och framåt hör till.",
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby samlyceum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Efterföljare till samskolan med ringar från 1970-talet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassringen för femte klassen tas fram i tävling",
+      "date": {
+        "year": 1960,
+        "circa": false
+      },
+      "description": "Klassringen för femte klassen i Nykarleby samskola framtogs genom en tävling inom klassen, och en svala valdes.",
+      "people": [
+        "Anita Weber"
+      ],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    },
+    {
+      "title": "Samskolans sista utdimitterade klass",
+      "date": {
+        "year": 1975,
+        "circa": false
+      },
+      "description": "Klassen 1975 var samskolans sista utdimitterade klass, och administrativt hörde de till grundskolan.",
+      "people": [],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bd463610aecc1ceb8af424812dc92356c62fd5a5e0f7d39cb2149d7238fc25d7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

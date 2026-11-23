@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2023lucia.html",
+  "title": "Nykarlebys Lucia 2023",
+  "summary": "Emelie Broo blev Nykarlebys lucia 2023 och kröntes på torget i kylan, med tärnorna Anna Nybäck och Lovisa Haglund. Nykarleby manskör sjöng och Steven Frostdahl utlyste julfreden.",
+  "topics": [
+    "lucia",
+    "julfirande",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Emelie Broo",
+      "alternateNames": [],
+      "roles": [
+        "lucia"
+      ]
+    },
+    {
+      "name": "Anna Nybäck",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Lovisa Haglund",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Steven Frostdahl",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Utlyste julfreden vid luciakröningen 2023."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Här kröntes lucian.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lucia 2023 kröns på torget",
+      "date": {
+        "year": 2023,
+        "circa": false
+      },
+      "description": "Emelie Broo kröntes till lucia på torget i Nykarleby med tärnorna Anna Nybäck och Lovisa Haglund.",
+      "people": [
+        "Emelie Broo",
+        "Anna Nybäck",
+        "Lovisa Haglund",
+        "Steven Frostdahl"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac10d7fb032c9118a396ee882a4442f53e9e8563df9acf27328fa4b466b26c0d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

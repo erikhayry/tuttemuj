@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/O--02.HTM",
+  "title": "Stadsmodellen från öst",
+  "summary": "Vy över hela modellen från öst, med Rummelbacken nere till vänster. Lybecks- och Topeliusgatorna hade björkar bara fram till Gustav Adolfsgatan.",
+  "topics": [
+    "stadsmodell",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9f7a0951dde016ccc453c63cc8e2f0f3f2fe710c4b384674bb48d53b3e91cb6c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

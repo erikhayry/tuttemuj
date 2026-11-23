@@ -1911,7 +1911,10 @@
   },
   {
     "name": "granbergs kafé",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "granbergs bageri"
+    ]
   },
   {
     "name": "granholmen",
@@ -3254,7 +3257,10 @@
   },
   {
     "name": "kisors gård",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": [
+      "kisorska gården"
+    ]
   },
   {
     "name": "kisors hus",
@@ -6006,7 +6012,10 @@
   {
     "name": "samlyceet",
     "kind": "building",
-    "note": "Co-educational lyceum."
+    "note": "Co-educational lyceum.",
+    "alternateNames": [
+      "nykarleby samlyceum"
+    ]
   },
   {
     "name": "samskolan",
@@ -7476,7 +7485,10 @@
     "location": {
       "lat": 63.522438,
       "lng": 22.528594
-    }
+    },
+    "alternateNames": [
+      "nykarleby torg"
+    ]
   },
   {
     "name": "torget före branden",
@@ -8284,5 +8296,30 @@
       "övergaards snickeri"
     ],
     "note": "Joinery at the corner of Jakobstadsvägen and Åminnevägen; taken over by Prevex in 1958."
+  },
+  {
+    "name": "flyttblocket i rummelbacken",
+    "kind": "landmark",
+    "note": "Glacial erratic boulder in Rummelbacken."
+  },
+  {
+    "name": "häggbloms guldsmedsaffär",
+    "kind": "building",
+    "note": "Goldsmith shop that sold class rings in 1975."
+  },
+  {
+    "name": "långörns skeppsvarv",
+    "kind": "other",
+    "note": "Shipyard where the schooner Eko was built in 1881."
+  },
+  {
+    "name": "nykarleby arbetarförenings tomt",
+    "kind": "building",
+    "note": "Plot owned by the Nykarleby workers association."
+  },
+  {
+    "name": "utloppsrännan",
+    "kind": "waterbody",
+    "note": "Outlet channel in the town."
   }
 ]

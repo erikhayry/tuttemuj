@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/innemode.htm",
+  "title": "Modell över Nykarleby från 1910-talet",
+  "summary": "Stadsmodellen i skala 1:700 visar Nykarleby som den såg ut 1913 och stod färdig 1914, byggd av Joel Nilsson. Sedan 2015 står den i entrévåningen i Ämbetshuset.",
+  "topics": [
+    "stadsmodell",
+    "stadshistoria",
+    "modell"
+  ],
+  "people": [
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde modellen av Nykarleby."
+    },
+    {
+      "name": "Hilding Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Renoverade modellen, gissningsvis i början av 1980-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Modellen stod här först, i trapphuset och senare i hallen.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Modellen står i entrévåningen sedan 2015.",
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsmodellen blir klar",
+      "date": {
+        "year": 1914,
+        "circa": false
+      },
+      "description": "Joel Nilsson färdigställde modellen av Nykarleby som den såg ut 1913.",
+      "people": [
+        "Joel Nilsson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Modellen flyttar till Ämbetshuset",
+      "date": {
+        "year": 2015,
+        "month": 12,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Stadsmodellen flyttades till entrévåningen i Ämbetshuset.",
+      "people": [],
+      "places": [
+        "Ämbetshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "97130e2131b67e6e239ed8cb38756c068f6e4336da44bfa709d9ee69a6d8cd94",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

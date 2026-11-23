@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/N--01.HTM",
+  "title": "Stadsmodellen från norr",
+  "summary": "Stadsmodellen sedd från norr, med Topeliusparken längst fram och Lybeckska gården vid älven. Torget, Normalskolan och Storbron syns i bakgrunden.",
+  "topics": [
+    "stadsmodell",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "056d9d6ff11d41de3b7f20beed2c0b3b01a2b64bc8aa8f0468efbe36801ae335",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/V--01.HTM",
+  "title": "Stadsmodellen från väst: Nystaden, älven och Kyrkogatan",
+  "summary": "Från väst syns Nystaden närmast, det område som i modellen nu är helt avmodellerat.",
+  "topics": [
+    "stadsmodell",
+    "utsikt",
+    "rivna hus"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "78f0de4360349ccf19e6d9bd765f2a06fa1abe986d38657cb71f4863b0715560",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

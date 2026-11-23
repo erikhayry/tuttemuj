@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modewisl/0talawis.htm",
+  "title": "Rekonstruktion av staden före branden 1858",
+  "summary": "En tredimensionell rekonstruktion av Nykarleby före branden 1858, med bilder av gårdar och deras ägare som borgmästare Samuel Brink och handlanden Lars Wesler. Kuddnäs och Storbron visas också.",
+  "topics": [
+    "stadsmodell",
+    "brand 1858",
+    "stadshistoria",
+    "rekonstruktion"
+  ],
+  "people": [
+    {
+      "name": "Samuel Brink",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ],
+      "description": "Ägare till gård 25 före branden."
+    },
+    {
+      "name": "Johan Schrifvare",
+      "alternateNames": [],
+      "roles": [
+        "borgare"
+      ],
+      "description": "Ägare till gård 26 före branden."
+    },
+    {
+      "name": "Anders Munstrin",
+      "alternateNames": [],
+      "roles": [
+        "kramhandlare",
+        "handelsman"
+      ],
+      "description": "Ägare till gård 16 före branden."
+    },
+    {
+      "name": "Lars Wesler",
+      "alternateNames": [],
+      "roles": [
+        "bruks patron",
+        "rådman",
+        "kramhandlare",
+        "handelsman"
+      ],
+      "description": "Ägare till gård 24 före branden."
+    },
+    {
+      "name": "Johan Holm",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ],
+      "description": "Ägare till gård 28 före branden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Kyrkan och kyrktorget visas i rekonstruktionen.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "fee5c6e8f1792b2b5bcfe7cfbd6638f9a6ff7b7cc67e7e27822d925f58d0da3e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

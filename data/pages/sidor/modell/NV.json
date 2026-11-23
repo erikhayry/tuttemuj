@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/NV.HTM",
+  "title": "Stadsmodellen från nordväst: Nystaden, älven och Kyrkogatan",
+  "summary": "Från nordväst syns seminariets verkstadsbyggnad, Topeliusparken och Lybeckska gården på andra sidan Nybroforsen. Normalskolan syns till höger, och Apoteksbacken leder ned till älven.",
+  "topics": [
+    "stadsmodell",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Apoteksbacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8d9b888dca2511db1bdc48872678ea06ff418157a7fe29da2e224d88161b2727",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

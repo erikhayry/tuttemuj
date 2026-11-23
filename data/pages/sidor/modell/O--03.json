@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/O--03.HTM",
+  "title": "Stadsmodellen från öst",
+  "summary": "Vy från öst över Rummelbacken, Bankgatan och Karleborgsgatan. Mellan flyttblocken stod Karlssons smedja, och R.R. Eklund skrev om brunnen vid Sollefteågatan.",
+  "topics": [
+    "stadsmodell",
+    "utsikt",
+    "litteratur"
+  ],
+  "people": [
+    {
+      "name": "R.R. Eklund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om brunnen i Liten drömmarpilt."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karlssons smedja",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "be5e1fba667a8f511535a8cedd17c91f7dddc8cf9690c5fa6dc7a2b6f4418804",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

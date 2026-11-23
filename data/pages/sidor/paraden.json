@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/paraden.htm",
+  "title": "Nykarlebyvyer",
+  "summary": "Startsidan presenterar Zacharias Topelius dikt En vindskammare, som beskriver utsikten från vindsfönstret i barndomshemmet Kuddnäs strax norr om Nykarleby. Här finns också bilder, poesi och prosa från en svunnen tid.",
+  "topics": [
+    "Topelius",
+    "poesi",
+    "Kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald"
+      ],
+      "description": "Skrev dikten En vindskammare om utsikten från barndomshemmet Kuddnäs."
+    },
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ansvarig för sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Topelius barndomshem strax norr om Nykarleby.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d14e16f1e2db57b971f3c545d948aaa193c9912c802848c15c51a893203ca07d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

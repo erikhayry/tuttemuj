@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/SO-01.HTM",
+  "title": "Stadsmodellen från sydost",
+  "summary": "Från sydost syns en del av Källbacken och Karleborg på andra sidan esplanaden. Berget där vattentornet byggdes 1963 ligger i slutet av Lybecks- och Topeliusgatorna.",
+  "topics": [
+    "stadsmodell",
+    "stadshistoria",
+    "bygghistoria"
+  ],
+  "people": [
+    {
+      "name": "Arno Gyllenberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Undertecknade en ritning till ett hus i Nykarleby 23 december 1908."
+    },
+    {
+      "name": "Oscar Calamnius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Intygade godkännandet av ritningen på magistratens vägnar. Fick tavlan av Brunnsholmarna som bröllopspresent."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har skrivit några rader om Karleborg."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Andra huset från höger på andra sidan esplanaden.",
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Byggdes 1963 på berget i slutet av Lybecks- och Topeliusgatorna.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vattentornet byggs",
+      "date": {
+        "year": 1963,
+        "circa": false
+      },
+      "description": "Vattentornet byggdes 1963 på berget i slutet av Lybecks- och Topeliusgatorna.",
+      "people": [],
+      "places": [
+        "Vattentornet"
+      ]
+    },
+    {
+      "title": "Ritning till ett hus godkänns av magistraten",
+      "date": {
+        "year": 1909,
+        "month": 1,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Ritningen till ett hus i Nykarleby, undertecknad av Arno Gyllenberg 23 december 1908, godkändes av magistraten.",
+      "people": [
+        "Arno Gyllenberg",
+        "Oscar Calamnius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4d75cddf7431740dcc6982213506fc5e9b264d75120436a73349969ab7d73daf",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

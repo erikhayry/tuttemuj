@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/SO-03.HTM",
+  "title": "Stadsmodellen från sydost",
+  "summary": "Från sydost syns Rummelbackens nordvästra hörn, Bankgatan och Karleborgsgatan. Seminarieområdet skymtar i bakgrunden.",
+  "topics": [
+    "stadsmodell",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminarieområdet",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5028819bb7548ff4e16db4a00a5ea5e1a271d330f37270eff3ecb3560311b069",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

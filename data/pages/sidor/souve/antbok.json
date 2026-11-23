@@ -1,0 +1,38 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/antbok.html",
+  "title": "Anteckningsbok",
+  "summary": "En anteckningsbok med stadsvapnet och texten Minne från Nykarleby, troligen en gäst- eller minnesbok, hittades på en gårdsloppis 2009. Boken tillhör Stig Haglund.",
+  "topics": [
+    "souvenirer",
+    "stadsvapen"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Äger boken och tillhandahöll den."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Anteckningsboken hittas på loppis",
+      "date": {
+        "year": 2009,
+        "month": 8,
+        "circa": false
+      },
+      "description": "Boken hittades på Bircks gårdsloppis i augusti 2009.",
+      "people": [
+        "Stig Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b44e5d236899d46b754e6461f26d5c771327e23c23acf475e79de662f2def4a0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

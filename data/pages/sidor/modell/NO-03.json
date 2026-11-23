@@ -1,0 +1,35 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/NO-03.HTM",
+  "title": "Stadsmodellen från nordost",
+  "summary": "Från nordost syns Topelius- och Lybecksgatorna närmast i modellen.",
+  "topics": [
+    "stadsmodell"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "466e2d1cb1c7f350c07e0b0b856b62615d9429c4b985451c0ed2a586d73c0d01",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

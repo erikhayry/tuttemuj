@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/liljesri.htm",
+  "title": "Gustav Adolfsgatan 41",
+  "summary": "Ritningen till fröken H. Ahlströms nybyggnad, numera Gustav Adolfsgatan 41, godkändes av magistraten 18 januari 1909. Ritningen är signerad av Arno Gyllenberg.",
+  "topics": [
+    "bygghistoria",
+    "bostad",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "H. Ahlström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fröken för vars nybyggnad ritningen gjordes."
+    },
+    {
+      "name": "Hulda Ahlström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde fastigheten 1909–1918."
+    },
+    {
+      "name": "Arno Gyllenberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Undertecknade ritningen 23 december 1908."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "description": "Tidigare Skolgatan, sedan Gustav Adolfsgatan 29 fram till sextiotalet.",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ritningen godkänns av magistraten",
+      "date": {
+        "year": 1909,
+        "month": 1,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby godkände ritningen till fröken H. Ahlströms nybyggnad.",
+      "people": [
+        "Arno Gyllenberg",
+        "Hulda Ahlström"
+      ],
+      "places": [
+        "Gustav Adolfsgatan 41"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "947b99c290efed6cf31afd02f49edca50aa11f517ecf5847197d6ca23e23281f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

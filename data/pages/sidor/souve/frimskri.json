@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/frimskri.htm",
+  "title": "Frimärksskrin med motiv Brunnsholmarna",
+  "summary": "Ett frimärksskrin i jugenddekor med värdshuset på Brunnsholmarna i relief. På locket står NYKARLEBY, BRUNNSHOLM. Skrinet tillhör Lars Pensar.",
+  "topics": [
+    "souvenirer",
+    "jugend",
+    "Brunnsholmarna"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Äger skrinet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "be5df8c1d112036e2ca4548e915e5b340e7a0e6cd519fe7f8194a9cdd8dd5c03",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

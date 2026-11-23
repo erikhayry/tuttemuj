@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/normalskolan04.html",
+  "title": "Ritningar till Normalskolans nya hus",
+  "summary": "Normalskolan byggdes 1906–07 i jugendstil efter ritningar av arkitekt Karl Viktor Reinius och togs i bruk i januari 1908. Skolan var stadens ståtligaste byggnad tills den togs ur bruk våren 2014.",
+  "topics": [
+    "Normalskolan",
+    "jugendstil",
+    "bygghistoria",
+    "skola"
+  ],
+  "people": [
+    {
+      "name": "Karl Viktor Reinius",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ],
+      "description": "Gjorde ritningarna från 1904."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [
+        "Westra Långgatan"
+      ],
+      "description": "Fick namnet Seminariegatan i stadsplanen 1912.",
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ritningarna godkänns i Senaten",
+      "date": {
+        "year": 1905,
+        "month": 2,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Ritningen för Normalskolan godkändes av Ekonomidepartementet i Kejserliga Senaten.",
+      "people": [
+        "Karl Viktor Reinius"
+      ],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Normalskolan tas i bruk",
+      "date": {
+        "year": 1908,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Normalskolan togs i bruk i januari 1908.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Normalskolan tas ur bruk",
+      "date": {
+        "year": 2014,
+        "circa": false
+      },
+      "description": "Normalskolan togs ur bruk våren 2014.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d34fccdb24e8d58cc95e3adfe546250e26911acf1f59d8390b22910226c89835",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

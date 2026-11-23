@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/brostugantavla.html",
+  "title": "Brostugan-vykortstavla",
+  "summary": "En vykortstavla med motiv från Brostugan, som Carina Sundqvist-Dalkarl erbjöd i en grupp på Facebook i september 2024. Tavlan hämtades i Vörå sommaren 2025.",
+  "topics": [
+    "souvenirer",
+    "Brostugan"
+  ],
+  "people": [
+    {
+      "name": "Carina Sundqvist-Dalkarl",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Erbjöd två souvenirtavlor på Facebook 2024."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Souvenirtavlor erbjuds på Facebook",
+      "date": {
+        "year": 2024,
+        "month": 9,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Carina Sundqvist-Dalkarl delade två souvenirtavlor från Nykarleby på Facebook.",
+      "people": [
+        "Carina Sundqvist-Dalkarl"
+      ],
+      "places": [
+        "Brostugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e331bdc798e28321b9f2b2a0367fcdbbf534cd4565e80a31fd6f157a174c1944",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

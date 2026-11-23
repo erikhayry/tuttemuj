@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/SV-02.HTM",
+  "title": "Stadsmodellen från sydväst",
+  "summary": "Från sydväst syns seminarieområdet, där flera byggnader revs. Den röda trädgårdsmästarbostaden var tonsättaren Erik Bergmans barndomshem.",
+  "topics": [
+    "seminarium",
+    "stadsmodell",
+    "musik"
+  ],
+  "people": [
+    {
+      "name": "Erik Bergman",
+      "alternateNames": [],
+      "roles": [
+        "tonsättare"
+      ],
+      "description": "Hans barndomshem var den röda trädgårdsmästarbostaden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminarieområdet",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Trädgårdsmästarbostaden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Röd, står på en välvd källare."
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Loppan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Segelsällskapet Ägirs paviljong står här.",
+      "geo": {
+        "lat": 63.5189373,
+        "lng": 22.4200284,
+        "match": "name",
+        "gazetteerName": "loppan",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Högstadieskolan byggs",
+      "date": {
+        "year": 1978,
+        "circa": false
+      },
+      "description": "Högstadieskolan byggdes 1978 på trädgårdslanden till vänster om Seminariegatan.",
+      "people": [],
+      "places": [
+        "Seminariegatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "12d2934995241bee95fe2a39b813fd0bb417ebe366a396d17e517e102f2bdc5b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

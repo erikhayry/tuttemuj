@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2024lucia.html",
+  "title": "Nykarlebys Lucia 2024",
+  "summary": "Olivia Lindén blev Nykarlebys lucia 2024 med tärnorna Linnea Wiklund och Thea Wikblom. Efter kröningen på torget fortsatte firandet i Nykarleby kyrka, och stadsdirektör Thomas Björk utlyste julfreden.",
+  "topics": [
+    "lucia",
+    "julfirande",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Olivia Lindén",
+      "alternateNames": [],
+      "roles": [
+        "lucia"
+      ]
+    },
+    {
+      "name": "Linnea Wiklund",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Thea Wikblom",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Thomas Björk",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ],
+      "description": "Utlyste julfreden vid luciakröningen 2024."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Här kröntes lucian.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Firandet fortsatte här efter kröningen.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lucia 2024 kröns på torget",
+      "date": {
+        "year": 2024,
+        "circa": false
+      },
+      "description": "Olivia Lindén kröntes till lucia på torget i Nykarleby med tärnorna Linnea Wiklund och Thea Wikblom.",
+      "people": [
+        "Olivia Lindén",
+        "Linnea Wiklund",
+        "Thea Wikblom",
+        "Thomas Björk"
+      ],
+      "places": [
+        "Nykarleby torg",
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "36958d01a7b03d80f0a682568dd6c1d0ccb719bbb022a674468f853f12cd71b3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

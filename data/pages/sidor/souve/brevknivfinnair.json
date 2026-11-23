@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/brevknivfinnair.html",
+  "title": "FINNAIR-brevkniv design Elof Lindblom",
+  "summary": "En FINNAIR-brevkniv i mässing med blå emaljering, formgiven av Elof Lindblom, såldes på Tradera i april 2025. Annonsen angav att den är från 1980-talet.",
+  "topics": [
+    "souvenirer",
+    "flyg",
+    "design"
+  ],
+  "people": [
+    {
+      "name": "Elof Lindblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Formgav brevkniven. Hade ett stort produktutbud och inledde verksamheten i Karleborg."
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där Lindblom inledde sin verksamhet.",
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brevkniven säljs på Tradera",
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "circa": false
+      },
+      "description": "En FINNAIR-brevkniv utbjöds på Tradera i april 2025.",
+      "people": [
+        "Elof Lindblom"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e9d741e18f3d893afaa3bc1ad72d47253f8870addd96c1bdb42ebc8f58ed31dc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

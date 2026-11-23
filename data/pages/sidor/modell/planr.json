@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/planr.htm",
+  "title": "Stadsmodellen i dag",
+  "summary": "Stadsmodellen i dag visar vilka hus som försvunnit sedan 1910–17: vita fläckar för rivna hus och röda kryss för eldsvådor. Endast tre hus är kvar längs Topeliusesplanaden.",
+  "topics": [
+    "stadsmodell",
+    "rivna hus",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "Hilding Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Renoverade hus som markeras blå i kartan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Endast tre hus är kvar längs gatan.",
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rivningslov för uthus vid Gustav Adolfsgatan",
+      "date": {
+        "year": 2002,
+        "circa": false
+      },
+      "description": "Rivningslov för ett uthus vid Gustav Adolfsgatan hade sökts och beviljats när stadsmodellens kartor togs fram.",
+      "people": [],
+      "places": [
+        "Gustav Adolfsgatan"
+      ]
+    },
+    {
+      "title": "Normens vedlider byggs",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "description": "Normens vedlider byggdes 1927 och har sedan försvunnit.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "38c6d537a9f6abf82c3fae241d1862150c0c392c03f7e494594b28aebae6cc5d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

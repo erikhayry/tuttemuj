@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/V--03.HTM",
+  "title": "Stadsmodellen från väster",
+  "summary": "Från väster syns Nystaden närmast och Brostugan vid Storbron. Järnvägsspåret går över Storbron och vidare till Bangatan.",
+  "topics": [
+    "stadsmodell",
+    "järnväg",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b8dda75bd2b310a3d466acbfaf830513db10f8f2669f84ea05f7a72c4af838cb",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

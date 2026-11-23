@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/modedate.htm",
+  "title": "Datering av stadsmodellen",
+  "summary": "Ett brev från 2003 visar att stadsmodellen gjordes av Joel Nilsson mellan 1910 och 1917, inte 1916 som Birck skrivit. Lars Pensar och Stig Haglund läste texten inne i modellen.",
+  "topics": [
+    "stadsmodell",
+    "datering",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ifrågasatte 1916 som tillverkningsår och undersökte modellen 2003."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Var med och lyfte ut modellen 2003."
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillverkade stadsmodellen 1910–1917."
+    },
+    {
+      "name": "Hilding Haglund",
+      "alternateNames": [],
+      "birthYear": 1913,
+      "roles": [],
+      "description": "Renoverade modellen 1989–1990."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Tillverkningen av stadsmodellen klarläggs",
+      "date": {
+        "year": 2003,
+        "month": 4,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Lars Pensar och Stig Haglund läste den gamla texten inne i stadsmodellen, som visar att Joel Nilsson arbetade med den 1910–1917.",
+      "people": [
+        "Lars Pensar",
+        "Stig Haglund",
+        "Joel Nilsson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsmodellen renoveras",
+      "date": {
+        "year": 1989,
+        "endYear": 1990,
+        "circa": false
+      },
+      "description": "Hilding Haglund renoverade stadsmodellen 1989–1990.",
+      "people": [
+        "Hilding Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5c1ccda4a130e6e5b830257fb1327e8d6544392561ef6e7609976e320c0f6733",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

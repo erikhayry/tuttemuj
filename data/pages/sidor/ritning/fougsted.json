@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/fougsted.htm",
+  "title": "Fougstedts gård",
+  "summary": "Fougstedts gård stod vid korsningen Gustav Adolfsgatan–Borgaregatan, och ritningarna visar hur ombyggnaden blev annorlunda än planerat. Stig Haglund berättar att han revs huset.",
+  "topics": [
+    "gård",
+    "bygghistoria",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättar att han rev huset och eldade upp materialet."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll ritningen och fotografiet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Fougstedts gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stod vid korsningen Gustav Adolfsgatan–Borgaregatan."
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d9b46251916a2094aa5405c6addef1808912946772e5fa26cbc9d57970976f4c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/sjoblomr/edengast.htm",
+  "title": "Hotellgäster",
+  "summary": "Ett fotografi från utsidan av Restaurang von Döbeln och Hotell Eden, med två okända herrar framför entrén. Betongtrappan till Bankgatan ersattes av en ståltrappa i samband med en renovering 2004.",
+  "topics": [
+    "hotell",
+    "fotografi",
+    "bygghistoria"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograf."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hotell Eden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Restaurang von Döbeln och Hotell Eden."
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Betongtrappan byts mot ståltrappa",
+      "date": {
+        "year": 2004,
+        "circa": false
+      },
+      "description": "Betongtrappan ersattes av en ståltrappa i samband med grundrenoveringen av Bankgatan.",
+      "people": [],
+      "places": [
+        "Bankgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c6d0a8bd02091886a82ec5d2de0c1c95defe6b8f195c598392a34b4aca977db7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

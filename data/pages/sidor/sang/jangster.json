@@ -1,0 +1,112 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/sang/jangster.htm",
+  "title": "Nykarlebybandet JANGSTERS",
+  "summary": "Jangsters var en popgrupp från ca 1967–1968 som fick en inbjudan till invigningen av Idrotts- och ungdomsgården. Medlemmarna hade spikat golv i huset i utbyte mot rätt att öva där.",
+  "topics": [
+    "musik",
+    "band",
+    "1960-tal"
+  ],
+  "people": [
+    {
+      "name": "Stig-Ole Haglund",
+      "alternateNames": [],
+      "roles": [
+        "gitarrist"
+      ],
+      "description": "Ritade bandets logga."
+    },
+    {
+      "name": "Yngve Bränn",
+      "alternateNames": [],
+      "roles": [
+        "gitarrist"
+      ]
+    },
+    {
+      "name": "Christer Tonberg",
+      "alternateNames": [],
+      "roles": [
+        "basist"
+      ]
+    },
+    {
+      "name": "Jan Haglund",
+      "alternateNames": [],
+      "roles": [
+        "trummis"
+      ]
+    },
+    {
+      "name": "Harry Riissanen",
+      "alternateNames": [],
+      "roles": [
+        "trummis"
+      ],
+      "description": "Var en tid med i bandet."
+    },
+    {
+      "name": "Helena Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll inbjudan via Stig Haglund."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll materialet om bandet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Idrotts- och ungdomsgården",
+      "kind": "building",
+      "alternateNames": [
+        "Idrottsgården"
+      ]
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "description": "Bandet övade här innan Idrottsgården.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Jangsters spelar i Nykarleby",
+      "date": {
+        "year": 1967,
+        "endYear": 1968,
+        "circa": false,
+        "text": "ca 1967–1968"
+      },
+      "description": "Popgruppen Jangsters fanns i Nykarleby och spelade 60-talspop, och medlemmarna spikade golv i Idrottsgården för att få öva där.",
+      "people": [
+        "Stig-Ole Haglund",
+        "Yngve Bränn",
+        "Christer Tonberg",
+        "Jan Haglund"
+      ],
+      "places": [
+        "Idrotts- och ungdomsgården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "552c8f95f7ce1f7627d8ee6d5cafa2443a1915492ec5c272f9e9b736f7040de0",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

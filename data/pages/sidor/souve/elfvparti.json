@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/elfvparti.html",
+  "title": "Parti af elfven",
+  "summary": "Ett glaskort med motiv av älven från Tullstranden norrut mot Ragnörn. Kortet tillhandahölls av Carl-Johan Eriksson.",
+  "topics": [
+    "souvenirer",
+    "älven"
+  ],
+  "people": [
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll kortet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "1d28dcbc75dfaad9337682125eec322ac4d8679cce3691122a99d5978a1834a9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

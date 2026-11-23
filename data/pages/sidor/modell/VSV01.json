@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/VSV01.HTM",
+  "title": "Stadsmodellen från västsydväst: Nystaden, älven och Kyrkogatan",
+  "summary": "Från västsydväst syns Brostugan och Storbron, med kyrkan och Normalskolan bortom bron. Järnvägsspåret på Kyrkogatan syns också.",
+  "topics": [
+    "stadsmodell",
+    "järnväg",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostuguberget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Våghuset skymtar här.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "026ac48a52872b856f118b10ce6793ae4401e1d8c3cc280eea7dda7b9470e235",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

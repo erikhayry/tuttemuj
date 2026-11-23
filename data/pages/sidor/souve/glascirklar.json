@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/glascirklar.html",
+  "title": "Glascirklar",
+  "summary": "Glasskivor med bilder på bland annat Nykarleby järnvägsstation och Normalskolan. Baksidan har årtalet 1915 skrivet med bläck.",
+  "topics": [
+    "souvenirer",
+    "glas",
+    "järnväg"
+  ],
+  "people": [
+    {
+      "name": "Henrik Dumell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hade bilderna och visade dem för sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2ca85386d949709f845496efb95fce43aeea9deb4b2c99c9f1d39a5b913d99ad",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

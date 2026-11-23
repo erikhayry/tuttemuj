@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/SV-01.HTM",
+  "title": "Stadsmodellen från sydväst",
+  "summary": "Huset vid Topeliusesplanaden och Sollefteågatan byggdes av handlanden G. M. Hedström på 1860-talet. År 1917 köpte Nykarleby Handelslag gården, och huset revs 1967.",
+  "topics": [
+    "handel",
+    "stadsmodell",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ],
+      "description": "Byggde huset vid esplanaden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Granbergs bageri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bageri och kafé i huset i mitten med det blå taket."
+    }
+  ],
+  "events": [
+    {
+      "title": "Huset vid esplanaden byggs",
+      "date": {
+        "year": 1860,
+        "endYear": 1869,
+        "circa": false
+      },
+      "description": "Handlanden G. M. Hedström byggde gården vid korsningen Topeliusesplanaden–Sollefteågatan.",
+      "people": [
+        "G. M. Hedström"
+      ],
+      "places": [
+        "Topeliusesplanaden",
+        "Sollefteågatan"
+      ]
+    },
+    {
+      "title": "Nykarleby Handelslag köper gården",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "description": "Nykarleby Handelslag köpte gården och moderniserade den 1959.",
+      "people": [],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    },
+    {
+      "title": "Huset revs",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "description": "Affärsverksamheten i huset upphörde när det revs 1967, och Andelsringen byggde ett enplans affärshus.",
+      "people": [],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f7cd52f33ef0bf9c832127f47fef2471f50ebe07e5c6f60a0c86d214db7e5834",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

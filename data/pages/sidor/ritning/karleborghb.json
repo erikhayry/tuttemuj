@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/karleborghb.html",
+  "title": "Ritning till uthusbyggnad på Nykarleby Arbetarförenings egen tomt i Nykarleby",
+  "summary": "Ritningen till en tillbyggnad på Arbetarföreningens tomt godkändes av magistraten 19 december 1906 och fastställdes av länskansliet i Vasa 1907. Ritningen visar både ursprungligt hus och det som skulle ombyggas.",
+  "topics": [
+    "bygghistoria",
+    "arbetarförening",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "Oscar Calamnius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Intygade godkännandet på magistratens vägnar."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll ritningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby Arbetarförenings tomt",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tomt där tillbyggnaden ritades."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tillbyggnaden godkänns av magistraten",
+      "date": {
+        "year": 1906,
+        "month": 12,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby godkände ritningen till tillbyggnaden på Arbetarföreningens tomt.",
+      "people": [
+        "Oscar Calamnius"
+      ],
+      "places": [
+        "Nykarleby Arbetarförenings tomt"
+      ]
+    },
+    {
+      "title": "Ritningen fastställs i Vasa",
+      "date": {
+        "year": 1907,
+        "month": 1,
+        "day": 26,
+        "circa": false
+      },
+      "description": "Vasa länskansli fastställde ritningen till tillbyggnaden.",
+      "people": [],
+      "places": [
+        "Nykarleby Arbetarförenings tomt"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0d713ffa3390777c55a2b28659c9806a4f6c08682204f9b259ffe3c28a587dfd",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

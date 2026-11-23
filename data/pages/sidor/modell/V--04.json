@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/V--04.HTM",
+  "title": "Stadsmodellen från väst",
+  "summary": "Från väst syns Apoteksbacken och Borgaregatan, med trädgården Fåfängan och apoteket i bild. Ritningen till apotekets entré visas också.",
+  "topics": [
+    "stadsmodell",
+    "apotek"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Apoteksbacken",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Trädgård till höger om Lybeckska huset.",
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Halva huset syns längst till vänster."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "fa81fc2d2ff86301d34d8166555a00439f7e4e63d4c3017e705dbebef59cb044",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/brunn.html",
+  "title": "Brunn",
+  "summary": "En timrad souvenirbrunn med vinda och gärdsgård och texten Nykarleby, troligen från 1960-talet. Den hittades hemma på Jakobstadsvägen av Anders Fors d.ä.",
+  "topics": [
+    "souvenirer",
+    "brunn"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors d.ä.",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll brunnen."
+    },
+    {
+      "name": "Göran Wikström",
+      "alternateNames": [],
+      "roles": [
+        "slöjdlärare"
+      ],
+      "description": "Nämns som möjlig tillverkare, enligt sidan."
+    },
+    {
+      "name": "Sigfrid Bertlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hade en brunnsvinda, troligen den sista i staden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6de987ce8c10ec30d00091877ca94a4a54775e647cb82989032b9be966b5bd30",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

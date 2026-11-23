@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/V--02.HTM",
+  "title": "Stadsmodellen från väst",
+  "summary": "Från väst syns Utloppsrännan, Rådhuset och Heikelska gården. I det lilla röda huset föddes bröderna Mikael och Paul Werner Lybeck.",
+  "topics": [
+    "stadsmodell",
+    "litteratur",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Född i det lilla röda huset."
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Född i det lilla röda huset."
+    }
+  ],
+  "places": [
+    {
+      "name": "Utloppsrännan",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [
+        "Trivialskolan"
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kisorska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlerska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsby byagård",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sockenmagasinet tas ned",
+      "date": {
+        "year": 1985,
+        "circa": false
+      },
+      "description": "Det röda sockenmagasinet revs 1985.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sockenmagasinet återuppförs",
+      "date": {
+        "year": 1990,
+        "circa": false
+      },
+      "description": "Det röda sockenmagasinet återuppfördes 1990 vid Forsby byagård.",
+      "people": [],
+      "places": [
+        "Forsby byagård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6ee3d412ddc4e8e7046a7ce6bc8f6ae7aa0ec21b14f4ee3e3fe88d42469f5941",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

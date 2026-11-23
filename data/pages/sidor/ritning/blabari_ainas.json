@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/blabari_ainas.html",
+  "title": "Ritning å en boningsstuga, port och plank å tomten N:o 91",
+  "summary": "Ritningen till en boningsstuga, port och plank på tomten nummer 91 i Nykarleby, ritad av C. Carlberg för Lovisa Söderlund, godkändes av magistraten 9 juni 1879. Ritningen visar också grannkvarteren och de gamla gatunamnen.",
+  "topics": [
+    "bygghistoria",
+    "gatunamn",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "Lovisa Söderlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde tomten N:o 91."
+    },
+    {
+      "name": "C. Carlberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Upprättade ritningen."
+    },
+    {
+      "name": "Theodor Wilander",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Undertecknade godkännandet på magistratens vägnar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Skolgatan",
+        "Skol gatan"
+      ],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Norra Stakettgatan"
+      ],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Östra Långgatan"
+      ],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ritningen godkänns av magistraten",
+      "date": {
+        "year": 1879,
+        "month": 6,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby godkände ritningen till boningsstugan på tomten N:o 91.",
+      "people": [
+        "Theodor Wilander",
+        "Lovisa Söderlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fcf74c51fe64b7ac1da7d18be5115ec4ce04caa0b62f133ca2f585a3d3f714f6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

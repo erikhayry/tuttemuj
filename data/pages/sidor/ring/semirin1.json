@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ring/semirin1.htm",
+  "title": "Nykarleby seminariums kandidatring modell 1932",
+  "summary": "Kandidatringen från Nykarleby seminarium i guld, med seminariets emblem en lyra, fastställdes 1932. Samma modell användes enligt sidan under alla år.",
+  "topics": [
+    "klassring",
+    "seminarium"
+  ],
+  "people": [
+    {
+      "name": "Hans von Schantz",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde teckningen ur Nykarleby seminarium."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägde ringen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kandidatringens modell fastställs",
+      "date": {
+        "year": 1932,
+        "circa": false
+      },
+      "description": "Kandidatringen i guld med seminariets emblem, en lyra, fastställdes 1932.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8477cd56fbee2cb8d012c0f3621749c5e07c252a8f3fba540adb59ba93374a07",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

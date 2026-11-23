@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/sang/littsang.htm",
+  "title": "Sång och musik i litteraturen",
+  "summary": "Sidan samlar artiklar om sång och musik i Nykarleby, från sångföreningar och sångfester till enskilda musiker. Sångfesterna 1914, 1919 och 1934 finns med.",
+  "topics": [
+    "musik",
+    "sångfest",
+    "föreningar",
+    "historia"
+  ],
+  "people": [
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om sång och musik i Nykarleby fordomdags."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om musik i gamla Nykarleby och sångföreningen på 1850–1860-talet."
+    },
+    {
+      "name": "Mats Björkstrand",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev om musiken i Nykarleby stad 1858–1897."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Sång- och musikfesten",
+      "date": {
+        "year": 1914,
+        "circa": false
+      },
+      "description": "Otto Andersson skrev om sång- och musikfesten 1914.",
+      "people": [
+        "Otto Andersson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sångfesten i juni",
+      "date": {
+        "year": 1919,
+        "month": 6,
+        "circa": false
+      },
+      "description": "Sångfesten i juni 1919 beskrevs i Österbottniska Posten.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sångfesten vid Kristliga folkhögskolan",
+      "date": {
+        "year": 1934,
+        "month": 7,
+        "day": 7,
+        "circa": false
+      },
+      "description": "Sångfesten vid Kristliga folkhögskolan hölls 7–8 juli 1934.",
+      "people": [
+        "Johannes Nyström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e084ff343f8792b382bf7ddf052b0d9efa370d525ef55e06a39fca7255c61bde",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

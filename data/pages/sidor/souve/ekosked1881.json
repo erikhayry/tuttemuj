@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/ekosked1881.html",
+  "title": "Minne av skonerten Eko från 1881",
+  "summary": "Skonerten Eko byggdes 1881 på Långörns skeppsvarv i Nykarleby av skeppsbyggmästaren Johan Björnvik, som fick en sked vid sjösättningen. Skeden är märkt Eko 1881.",
+  "topics": [
+    "skeppsbyggnad",
+    "sjöfart",
+    "souvenirer"
+  ],
+  "people": [
+    {
+      "name": "Johan Björnvik",
+      "alternateNames": [],
+      "birthYear": 1816,
+      "roles": [
+        "skeppsbyggmästare"
+      ],
+      "description": "Skeppsbyggmästare för bland annat Kotka 1852, Ahti 1857 och Eko 1881."
+    }
+  ],
+  "places": [
+    {
+      "name": "Långörns skeppsvarv",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Här byggdes skonerten Eko."
+    }
+  ],
+  "events": [
+    {
+      "title": "Skonerten Eko sjösätts",
+      "date": {
+        "year": 1881,
+        "circa": false
+      },
+      "description": "Skonerten Eko, 25,83 meter lång, byggdes på Långörns skeppsvarv i Nykarleby och fick en sked av Johan Björnvik vid sjösättningen.",
+      "people": [
+        "Johan Björnvik"
+      ],
+      "places": [
+        "Långörns skeppsvarv"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "56891448ffd5e4e65eab22d407b64acd34bbb5db326a0d95744d62fd2bcfd6c1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

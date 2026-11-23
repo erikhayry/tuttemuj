@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/sang/piratos.htm",
+  "title": "Piratos av Anders Engström",
+  "summary": "Piratos var ett band från Nykarleby 1976–1977, uppkallat efter ett populärt godis. De övade på en vind på Gustav Adolfsgatan 36 och lärde sig spela genom att kopiera sina idoler i Taizé.",
+  "topics": [
+    "musik",
+    "band",
+    "1970-tal"
+  ],
+  "people": [
+    {
+      "name": "Anders Engström",
+      "alternateNames": [],
+      "roles": [
+        "gitarrist",
+        "sångare"
+      ],
+      "description": "Berättar om bandet."
+    },
+    {
+      "name": "Peter Forsgård",
+      "alternateNames": [],
+      "roles": [
+        "trummis"
+      ]
+    },
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [
+        "gitarrist"
+      ]
+    },
+    {
+      "name": "Ulf Solvin",
+      "alternateNames": [],
+      "roles": [
+        "basist"
+      ]
+    },
+    {
+      "name": "Stefan Sandås",
+      "alternateNames": [],
+      "roles": [
+        "orgel",
+        "sångare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 36",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 36",
+      "description": "Engströms vind, där bandet övade."
+    },
+    {
+      "name": "Hanséns Café",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där godiset Piratos såldes för fem penni styck."
+    }
+  ],
+  "events": [
+    {
+      "title": "Piratos bildas",
+      "date": {
+        "year": 1976,
+        "endYear": 1977,
+        "circa": false
+      },
+      "description": "Bandet Piratos var aktivt 1976–1977.",
+      "people": [
+        "Anders Engström",
+        "Peter Forsgård",
+        "Anders Fors",
+        "Ulf Solvin",
+        "Stefan Sandås"
+      ],
+      "places": [
+        "Gustav Adolfsgatan 36"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Fem ungdomar i Nykarleby startar bandet Piratos 1976 och tränar på en vind på Gustav Adolfsgatan. Ett rockbandsgräl slutar med att bandets kabelbox kastas genom en toalettdörr och spricker.",
+    "reason": "Ett tidstypiskt grupp-drama med bråk, dåliga förutsättningar och en slapstick-händelse som kan bli en rolig berättelse.",
+    "characters": [
+      "Anders Engström",
+      "Peter Forsgård",
+      "Anders Fors",
+      "Ulf Solvin",
+      "Stefan Sandås"
+    ],
+    "places": [
+      "Gustav Adolfsgatan 36"
+    ]
+  },
+  "contentHash": "ca9a16e973319e42c8db62416de89f552843f61c7461573ac50588ff68a771f1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/langraden.html",
+  "title": "Ritning till tillbyggnad av gården N:o 101 uti 26:te kvarteret i Nykarleby stad jämte situationsplan.",
+  "summary": "Joel Nilsson ritade 1924 en tvåvånings tillbyggnad vid södra gaveln av Långraden vid Karleborgsgatan. Tillbyggnaden finns också med i stadsmodellen, vilket visar att modellen kompletterats.",
+  "topics": [
+    "bygghistoria",
+    "stadsmodell",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ritade tillbyggnaden 1924 och byggde stadsmodellen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Långraden",
+      "kind": "building",
+      "alternateNames": [
+        "Langraden"
+      ],
+      "description": "Gården N:o 101 i 26:e kvarteret."
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tillbyggnad till Långraden godkänns",
+      "date": {
+        "year": 1924,
+        "month": 10,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Vasa landskansli godkände och fastställde ritningen till tillbyggnaden av Långraden.",
+      "people": [
+        "Joel Nilsson"
+      ],
+      "places": [
+        "Långraden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "11f3ff44dc6ec1fefcf56bcbf3799587e10ed873ee706c3b2e249e087f905f58",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

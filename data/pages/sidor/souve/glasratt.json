@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/glasratt.html",
+  "title": "Båtrattaskkopp",
+  "summary": "En båtrattaskopp med motiv av Karleborg och vattentornet på övre delen och Brostugan på nedre. Den är troligen från sent 1960- eller tidigt 1970-tal.",
+  "topics": [
+    "souvenirer",
+    "Brostugan"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll koppen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "58be0eafe7a66f670b5c5a128305edf8b7f3548e8b1f00c8cfc4de35c1814152",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

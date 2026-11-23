@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/NO-02.HTM",
+  "title": "Stadsmodellen från nordost",
+  "summary": "Från nordost syns Grev Tottgatan och Karleborgsgatan, kvarter där Anita Wikman låter sin trilogi utspela sig. Sidan visar också ett utdrag ur boken Vingklippt.",
+  "topics": [
+    "stadsmodell",
+    "litteratur"
+  ],
+  "people": [
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Trilogin utspelar sig i kvarteren vid Grev Tottgatan och Karleborgsgatan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "524664bba8994183819bead616d03929bcf94be2347f65c7f76a653fade3c03d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

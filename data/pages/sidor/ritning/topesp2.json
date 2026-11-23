@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/topesp2.html",
+  "title": "Bostads Ab Topeliusesplanaden 2",
+  "summary": "Annons för nyproduktion på Topeliusesplanaden 2, ett trevånings hisshus med bostäder, byggt av Byggnads Ab Kaj Häggblom. Byggnadsarbetena skulle börja i april 2012.",
+  "topics": [
+    "bostäder",
+    "annons",
+    "nyproduktion"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Topeliusesplanaden 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 2",
+      "description": "Hisshus med bostäder och lokaler invid esplanaden.",
+      "geo": {
+        "lat": 63.5201857,
+        "lng": 22.5292272,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Byggnadsarbetena påbörjas",
+      "date": {
+        "year": 2012,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Byggnadsarbetena på Topeliusesplanaden 2 skulle påbörjas i april 2012.",
+      "people": [],
+      "places": [
+        "Topeliusesplanaden 2"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8903592c1f6c9b66d43449e330eaa57840c1d449a8825a221a9ed7744f22a5dc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

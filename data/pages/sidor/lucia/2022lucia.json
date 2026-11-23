@@ -1,0 +1,136 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2022lucia.html",
+  "title": "Nykarlebys Lucia 2022",
+  "summary": "Maja Semskar blev Nykarlebys lucia 2022 och kröntes på torget med tärnorna Nathalie Nyman och Kaisa Lillvik. Luciafesten hölls i församlingshemmet, eftersom Sankta Birgitta kyrka var stängd för renovering.",
+  "topics": [
+    "lucia",
+    "julfirande",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Maja Semskar",
+      "alternateNames": [],
+      "roles": [
+        "lucia"
+      ]
+    },
+    {
+      "name": "Nathalie Nyman",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Kaisa Lillvik",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Desiree Sandberg",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Mathilda Nygård",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Martin Norrgård",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ],
+      "description": "Utlyste julfreden vid luciafesten."
+    },
+    {
+      "name": "Ralf Häggblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kvällens konferencier vid luciafesten."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Här kröntes lucian.",
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stängd för renovering 2022.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "församlingshemmet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här hölls luciafesten 2022."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lucia 2022 kröns på torget",
+      "date": {
+        "year": 2022,
+        "circa": false
+      },
+      "description": "Maja Semskar kröntes till lucia på torget i Nykarleby med tärnorna Nathalie Nyman och Kaisa Lillvik.",
+      "people": [
+        "Maja Semskar",
+        "Nathalie Nyman",
+        "Kaisa Lillvik"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    },
+    {
+      "title": "Luciafesten i församlingshemmet",
+      "date": {
+        "year": 2022,
+        "circa": false
+      },
+      "description": "Luciafesten hölls i församlingshemmet, eftersom Sankta Birgitta kyrka var stängd för renovering.",
+      "people": [
+        "Martin Norrgård",
+        "Ralf Häggblom"
+      ],
+      "places": [
+        "församlingshemmet",
+        "Sankta Birgitta kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "96eeb082c02f0fb77a41f454a94d808361a49c2490d283485df3c6152b799414",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

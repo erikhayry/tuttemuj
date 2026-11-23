@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/modell/O--01.HTM",
+  "title": "Stadsmodellen från öst",
+  "summary": "Vy från öst, från Rummelbacken, med ett flyttblock nere till vänster.",
+  "topics": [
+    "stadsmodell",
+    "utsikt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Flyttblocket i Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "31acb759d38506676ea9ca2808df5111b0e4ebab67373573985435b087a91352",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

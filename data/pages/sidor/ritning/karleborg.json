@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/karleborg.html",
+  "title": "Ritning till uthusbyggnad på Nykarleby Arbetarförenings egen tomt i Nykarleby",
+  "summary": "Ritningen till ett uthus på Nykarleby Arbetarförenings egen tomt godkändes av magistraten 16 januari 1911. Ritningen är gjord av en amatör, enligt sidan.",
+  "topics": [
+    "bygghistoria",
+    "arbetarförening",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "Oscar Calamnius",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Intygade godkännandet på magistratens vägnar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby Arbetarförenings tomt",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tomt med huvudbyggnaden Karleborg."
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Östra Långgatan"
+      ],
+      "address": "Karleborgsgatan 17",
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybroboulevarden",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Uthusritningen godkänns",
+      "date": {
+        "year": 1911,
+        "month": 1,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby godkände ritningen till uthusbyggnaden på Arbetarföreningens tomt.",
+      "people": [
+        "Oscar Calamnius"
+      ],
+      "places": [
+        "Nykarleby Arbetarförenings tomt"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8750205c79507132bdeb08363fc001bd48ccf3fe173071471585071d5098e4b8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

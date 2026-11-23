@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/sang/mazeppa.htm",
+  "title": "Nykarlebybandet Mazeppa av Harry Holmberg och Peter Siegfrids",
+  "summary": "Mazeppa startade ca 1974 och spelade på dansplatser från Jakobstad i norr till Åminne Folkpark i söder. Bandet övade i Kliniken på Seminariegatan 3 och upplöstes 1977.",
+  "topics": [
+    "musik",
+    "band",
+    "1970-tal",
+    "dans"
+  ],
+  "people": [
+    {
+      "name": "Peter Siegfrids",
+      "alternateNames": [],
+      "roles": [
+        "basist",
+        "sångare"
+      ]
+    },
+    {
+      "name": "Harry Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "gitarrist",
+        "sångare"
+      ],
+      "description": "Skrev berättelsen om bandet 2006."
+    },
+    {
+      "name": "Sten Sandvik",
+      "alternateNames": [],
+      "roles": [
+        "trummis",
+        "sångare"
+      ]
+    },
+    {
+      "name": "Kjell Helsing",
+      "alternateNames": [],
+      "roles": [
+        "gitarrist",
+        "sångare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kliniken",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 3",
+      "description": "Övningslokal; Oskar Kronqvists hus finns där nu.",
+      "geo": {
+        "lat": 63.52360239999999,
+        "lng": 22.5238262,
+        "match": "address",
+        "gazetteerName": "seminariegatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Mazeppa startar",
+      "date": {
+        "year": 1974,
+        "circa": true
+      },
+      "description": "Bandet Mazeppa startade ca 1974 och spelade på dansplatser från Jakobstad till Åminne Folkpark.",
+      "people": [
+        "Peter Siegfrids",
+        "Harry Holmberg"
+      ],
+      "places": [
+        "Kliniken"
+      ]
+    },
+    {
+      "title": "Mazeppa upplöses",
+      "date": {
+        "year": 1977,
+        "circa": false
+      },
+      "description": "Mazeppa upplöstes 1977, enligt Harry Holmberg.",
+      "people": [
+        "Harry Holmberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ccb218f910fc4c5d30e76a4c79a2cfde66afe9e657b27fae7fdad66d1fda1800",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

@@ -1,0 +1,34 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/bankg2.html",
+  "title": "Annons för Bostads Ab Bankgatan 2 i Österbottens Tidning 2011",
+  "summary": "Annons från 2011 för nio bostadslägenheter i fastigheten Bankgatan 2 invid älven, med ytor mellan 50 och 134 kvadratmeter.",
+  "topics": [
+    "bostäder",
+    "annons",
+    "bygghistoria"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Bankgatan 2",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 2",
+      "description": "Fastighet invid älven med bostäder.",
+      "geo": {
+        "lat": 63.52305989999999,
+        "lng": 22.5271176,
+        "match": "address",
+        "gazetteerName": "bankgatan 2",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "ca4111fffe79393d78a6affd7186462bfb8dd494d4aa72d446a9c172f7250f22",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}

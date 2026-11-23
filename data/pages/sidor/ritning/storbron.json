@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/ritning/storbron.html",
+  "title": "Storbroritningar",
+  "summary": "Ritningarna från 1811 visar två förslag till Storbron över Nykarleby älv: en träbro med stenfyllda kistor och en välvd stenbro. Kopiorna är gjorda 19 november 1811.",
+  "topics": [
+    "bro",
+    "bygghistoria",
+    "ritningar"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll ritningarna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Storbron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Ny Carleby Elf"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Ritningarna för Storbron kopieras",
+      "date": {
+        "year": 1811,
+        "month": 11,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Ritningarna till en träbro och en stenbro över älven kopierades 19 november 1811.",
+      "people": [],
+      "places": [
+        "Storbron",
+        "Nykarleby älv"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "75e1860243998a7e50474bd2f5e4d20e4f2e4a67779802fd62f5145df7bfef10",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T17:53:28.821Z"
+}
