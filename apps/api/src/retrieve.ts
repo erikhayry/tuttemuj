@@ -5,10 +5,14 @@ import { z } from "zod";
 import type { Retrieve } from "./ask.ts";
 import type { Fact } from "./facts.ts";
 import { NearbyRow } from "./nearby.ts";
+import { findPlaceIds, nameBonus, placeNameLoader } from "./place-names.ts";
 
 /** Walking distance for "what is around me", in metres. */
 const NEARBY_RADIUS_M = 250;
-const VECTOR_HITS = 30;
+/** Comic pitches are not answers, so some hits are dropped; ask for extra to make up for it. */
+const VECTOR_HITS = 40;
+/** Most pages looked up for the places a question names. */
+const MAX_NAMED_PAGES = 200;
 const MAX_PAGES = 8;
 const MAX_EVENTS_PER_PAGE = 3;
 /** Added to a page's similarity when it is at the user's location (less the further away it is). */
@@ -44,10 +48,12 @@ type Candidate = { score: number; eventIds: string[] };
 
 /**
  * Find the facts for a question: pages whose meaning is close to it (vector search) plus the
- * pages about places around the user, ranked by similarity with a bonus for being nearby.
+ * pages about places around the user and the places the question names, ranked by similarity with
+ * a bonus for being nearby or about a named place. Comic pitches are left out.
  * Returns our summaries and event descriptions only, never page text.
  */
 export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retrieve {
+  const placeNames = placeNameLoader(db);
   return async (req: AskRequest) => {
     const { vectors } = await embed(voyageKey, [req.question], "query");
     const vector = JSON.stringify(vectors[0]);
@@ -66,7 +72,9 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
           })
         : Promise.resolve({ data: [], error: null }),
     ]);
-    const hits = check("search_embeddings", z.array(Hit), searched.data, searched.error);
+    const hits = check("search_embeddings", z.array(Hit), searched.data, searched.error).filter(
+      (h) => h.kind !== "comic",
+    );
     const places = check("nearby_places", z.array(NearbyRow), around.data, around.error);
 
     // Distance to the closest place that mentions each page.
@@ -80,6 +88,30 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
       }
     }
 
+    // Pages that mention a place the question names, with the bonus each earns. A name in the
+    // question is a stronger signal than similar-sounding words (Forsby vs the surname Fors).
+    const named = new Map<string, number>();
+    const namedIds = findPlaceIds(req.question, await placeNames());
+    if (namedIds.length > 0) {
+      const { data, error } = await db
+        .from("page_places")
+        .select("page_url,place_id")
+        .in("place_id", namedIds)
+        .limit(1000);
+      const links = check(
+        "page_places",
+        z.array(z.object({ page_url: z.string(), place_id: z.string() })),
+        data,
+        error,
+      );
+      const perPlace = new Map<string, number>();
+      for (const l of links) perPlace.set(l.place_id, (perPlace.get(l.place_id) ?? 0) + 1);
+      for (const l of links) {
+        const bonus = nameBonus(perPlace.get(l.place_id) ?? 1);
+        named.set(l.page_url, Math.max(named.get(l.page_url) ?? 0, bonus));
+      }
+    }
+
     const candidates = new Map<string, Candidate>();
     for (const h of hits) {
       const c = candidates.get(h.page_url) ?? { score: -Infinity, eventIds: [] };
@@ -88,8 +120,11 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
       candidates.set(h.page_url, c);
     }
 
-    // How close in meaning are the pages at the user's location, when the search did not find them?
-    const unseen = [...closeness.keys()].filter((url) => !candidates.has(url));
+    // How close in meaning are the pages at the user's location or about a named place, when the
+    // search did not find them?
+    const unseen = [
+      ...new Set([...closeness.keys(), ...[...named.keys()].slice(0, MAX_NAMED_PAGES)]),
+    ].filter((url) => !candidates.has(url));
     if (unseen.length > 0) {
       const { data, error } = await db.rpc("page_similarity", {
         in_embedding: vector,
@@ -104,7 +139,7 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
       .map(([url, c]) => {
         const d = closeness.get(url);
         const bonus = d === undefined ? 0 : PROXIMITY_BONUS * Math.max(0, 1 - d / NEARBY_RADIUS_M);
-        return { url, ...c, score: c.score + bonus };
+        return { url, ...c, score: c.score + bonus + (named.get(url) ?? 0) };
       })
       .sort((a, b) => b.score - a.score)
       .slice(0, MAX_PAGES);
