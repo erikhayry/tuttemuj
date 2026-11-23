@@ -9,7 +9,13 @@
       "https://www.nykarlebyvyer.nu/sidor/nykarleb/histmohe.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1756fill.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-5.htm",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKA----2.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/panorama/marknv07.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2019.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/kiosker.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/skjuttal.htm",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/dragtorg.htm"
     ],
     "irrelevant": [],
     "note": "Pages whose titles are about the square. Other pages that mention Torget (Krönika, Gatunamn) are general."
@@ -22,9 +28,15 @@
       "https://www.nykarlebyvyer.nu/sidor/minnesst/sandlingj.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/lindfors_erik.html",
       "https://www.nykarlebyvyer.nu/sidor/minnesst/back.html",
-      "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm"
+      "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm",
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/munkgrot.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/lof_isak.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asping.html"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gasangrf.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorjkund_helga_53.html"
+    ],
     "note": "Known miss: \"Minnen från Gasängs-kvänen\" by Ragnar Fors ranks high because of the surname Fors, not the village."
   },
   {
@@ -34,9 +46,16 @@
     "relevant": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_olga.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
-      "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html"
+      "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53D.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTA----S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53V.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/topeliuszts.htm"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalisu.htm"
+    ],
     "note": "Topelius pages (photos, postcards) crowd the top 5; at most two of the top 5 should be about him."
   },
   {
@@ -47,7 +66,11 @@
       "https://www.nykarlebyvyer.nu/sidor/46/22brostugan.html",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_K/JHKH009S.HTM",
       "https://www.nykarlebyvyer.nu/sidor/karta/brostuga.htm",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAR071S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/FG/FG_A/FGAR071S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_M/JHMHO46S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/brosturs.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/brostugan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/brostulp.htm"
     ],
     "irrelevant": []
   },
@@ -56,10 +79,12 @@
     "question": "Vad hände vid Storbron?",
     "lang": "sv",
     "relevant": [
-      "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-7.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/storbr19.html",
       "https://www.nykarlebyvyer.nu/sidor/46/21storbron.html",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_E/JHEV040S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/midsomar.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_L/LRLRO59S.HTM"
     ],
     "irrelevant": []
   },
@@ -71,7 +96,14 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/andrasjon_kw.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/hamnvakt.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/andrkisf.htm",
-      "https://www.nykarlebyvyer.nu/sidor/karta/1800-5.htm"
+      "https://www.nykarlebyvyer.nu/sidor/karta/1800-5.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asjonhwf.htm",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_B/VBBA009S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/villaliv_sf.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asjonhw.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/andras78.htm",
+      "https://www.nykarlebyvyer.nu/sidor/panorama/andrs50.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/upp/asjon1968.html"
     ],
     "irrelevant": []
   },
@@ -81,9 +113,17 @@
     "lang": "sv",
     "relevant": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
-      "https://www.nykarlebyvyer.nu/sidor/genea/topeanta.html"
+      "https://www.nykarlebyvyer.nu/sidor/genea/topeanta.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/topezdau.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/topeliuszts88.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/topeliuszts.htm",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTA----S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelius_mr_98.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_A/AEAQ028S.HTM"
     ],
-    "irrelevant": []
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/klingemu.htm"
+    ]
   },
   {
     "id": "storbron-har-sv",
@@ -95,9 +135,17 @@
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-7.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/storbr19.html",
       "https://www.nykarlebyvyer.nu/sidor/46/21storbron.html",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAV047S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_A/VBAR0222.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_12F.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/dans1827.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_C/JSCV053X.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/burkboende.html"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/foredra/2026_08_22_gravgarden/gravgarden26arbis.html"
+    ],
     "note": "Standing at Storbron."
   },
   {
@@ -111,7 +159,13 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
       "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/semig18.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/melcher85.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/damberg.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/kallstrom.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/marklune.htm"
+    ],
     "note": "Standing at Kuddnäs."
   },
   {
@@ -124,9 +178,16 @@
       "https://www.nykarlebyvyer.nu/sidor/nykarleb/histmohe.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1756fill.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-5.htm",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2019.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/LRE.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/ILL/ILL_A/dragtorg.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/juloppn13x.html",
+      "https://www.nykarlebyvyer.nu/sidor/panorama/sollefteag14.html"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAV047S.HTM"
+    ],
     "note": "Finnish for Torget; the Swedish place name is not in the question."
   },
   {
@@ -137,9 +198,17 @@
       "https://www.nykarlebyvyer.nu/sidor/minnesst/sandlingj.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/lindfors_erik.html",
       "https://www.nykarlebyvyer.nu/sidor/minnesst/back.html",
-      "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm"
+      "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm",
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/munkgrot.htm"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/bjarfors.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/utfafors.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/forsslakt26.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/villaliv_sf.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/muisto.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/forsells.htm"
+    ],
     "note": "Inflected place name (Forsbyssä), which the name matching does not handle yet."
   },
   {
@@ -149,7 +218,11 @@
     "relevant": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_olga.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
-      "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html"
+      "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53D.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/ZT/ZT_A/ZTA----S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/topeliuszts.htm"
     ],
     "irrelevant": [],
     "note": "Inflected place name."
@@ -162,9 +235,13 @@
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-7.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/storbr19.html",
       "https://www.nykarlebyvyer.nu/sidor/46/21storbron.html",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2012.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_09F.html"
     ],
-    "irrelevant": [],
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2019.html"
+    ],
     "note": "Inflected place name."
   },
   {
@@ -177,9 +254,15 @@
       "https://www.nykarlebyvyer.nu/sidor/nykarleb/histmohe.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1756fill.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-5.htm",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAV025V.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/panorama/marknv07.htm",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_E/LRE.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKA----2.HTM"
     ],
-    "irrelevant": []
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/PK/PK_A/PKA----S.HTM"
+    ]
   },
   {
     "id": "forsby-vem-en",
@@ -189,9 +272,14 @@
       "https://www.nykarlebyvyer.nu/sidor/minnesst/sandlingj.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/lindfors_erik.html",
       "https://www.nykarlebyvyer.nu/sidor/minnesst/back.html",
-      "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm"
+      "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm",
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/munkgrot.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/asping.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/lof_isak.html"
     ],
-    "irrelevant": []
+    "irrelevant": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gasangrf.htm"
+    ]
   },
   {
     "id": "kuddnas-vem-en",
@@ -200,7 +288,9 @@
     "relevant": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_olga.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
-      "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html"
+      "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53D.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_A/LRAQO53S.HTM"
     ],
     "irrelevant": []
   },
@@ -212,7 +302,11 @@
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-7.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/storbr19.html",
       "https://www.nykarlebyvyer.nu/sidor/46/21storbron.html",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_B/JHBR045S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2010.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2012.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/1maj2007.htm",
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_L/LRLRO59S.HTM"
     ],
     "irrelevant": []
   }
