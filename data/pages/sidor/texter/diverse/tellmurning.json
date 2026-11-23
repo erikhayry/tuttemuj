@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tellmurning.html",
+  "title": "Murarverktyg för Tellblock",
+  "summary": "Sidan visar specialverktyg som användes för att mura med Tellblock, betonghålstenar med vertikala luftkanaler som tillverkades av bröderna Eng. Verktygen, ett galler och en bottenlös skopa, hindrade murbruket från att fylla kanalerna, och fotona togs på ett loppis i Källbacken 2017.",
+  "topics": [
+    "byggnadshistoria",
+    "tegelfabrik",
+    "murning",
+    "verktyg",
+    "Tellblock"
+  ],
+  "people": [
+    {
+      "name": "Lars Backlund",
+      "alternateNames": [],
+      "roles": [
+        "murare"
+      ],
+      "description": "Hans murarverktyg såldes av sonen."
+    },
+    {
+      "name": "Kenneth Backlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sålde sin fars murarverktyg på loppisracet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan 7",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 7"
+    },
+    {
+      "name": "Gulf-tillbyggnaden",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bröderna Eng grundar fabrik för tillverkning av Tellblock",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Loppisrace på Källbacken där murarverktygen var till salu",
+      "date": {
+        "year": 2017,
+        "month": 7,
+        "day": 2,
+        "circa": false,
+        "text": "Den 2 juli 2017"
+      },
+      "people": [
+        "Kenneth Backlund"
+      ],
+      "places": [
+        "Källbacken",
+        "Grev Tottgatan 7"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d11190b4c3b8b7c7a124dbccbf36807c04e8f41d67300fe5c5f5fbae7caf4ee7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T11:01:15.664Z"
+}

@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tagvarni.htm",
+  "title": "Tågvarning",
+  "summary": "Ett anslag från juni 1901 varnade stadsborna för att korsa den nya bron med häst samtidigt som lokomotivet, och för att binda hästar vid målar Sundells butik i Brostugan eftersom tåget kom för nära. Lars Pensar ser det som stadens första trafikproblem och ett tecken på en ny tid.",
+  "topics": [
+    "järnväg",
+    "trafik",
+    "varning",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "Sundell",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll anslaget"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "nybron",
+        "järnvägsbron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där målar Sundells butik låg.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Anslag varnar allmänheten för lokomotivet vid nya bron",
+      "date": {
+        "year": 1901,
+        "month": 6,
+        "circa": false,
+        "text": "juni 1901"
+      },
+      "people": [
+        "Sundell"
+      ],
+      "places": [
+        "Storbron",
+        "Brostugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ee724e05d14050217633a545067287449ac14b56cc1841eaf6218dd5ad7aed83",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T11:01:15.664Z"
+}

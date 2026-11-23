@@ -1,0 +1,116 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/teledagb.htm",
+  "title": "Skyddskårens telefondagbok",
+  "summary": "Skyddskårens telefondejour förde dagbok på Normalskolan under inbördeskrigets första veckor 1918, från att ryssarna avväpnats i Nykarleby till den 20 mars. Dagboken återger i korta anteckningar telefonsamtal om truppförflyttningar, strider på andra orter, förfrågningar om mat och hästar samt rykten, och visas som halvfaksimil.",
+  "topics": [
+    "inbördeskriget 1918",
+    "skyddskåren",
+    "telefondagbok",
+    "primärkälla",
+    "frihetskriget"
+  ],
+  "people": [
+    {
+      "name": "O. J. v. Essen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nämns i dagboken som den som anmälde att jägare och tyskar landstigit."
+    },
+    {
+      "name": "Lindahl",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll dagboken"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skyddskårens stab inrättades här.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ryssarna avväpnas i Nykarleby",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 28,
+        "circa": false,
+        "text": "Den 28 januari 1918"
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Skyddskårens stab inrättas på Normalskolan och telefondagboken börjar föras",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "circa": false,
+        "text": "Följande kväll efter den 28 januari 1918"
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Telefondagbokens sista anteckning",
+      "date": {
+        "year": 1918,
+        "month": 3,
+        "day": 20,
+        "circa": false,
+        "text": "Den 20 Mars 1918"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Dagbokens original hemligstämplad fram till år 2002",
+      "date": {
+        "year": 2002,
+        "circa": false,
+        "text": "fram till år 2002"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Under de första veckorna av 1918 sitter telefondejouren på Normalskolan och tar emot ett jäktat flöde av samtal: rykten om landstigande jägare, sårade och döda, soldatfamiljer som ber om mat och hästar som behövs. Berättelsen följer en natt vid telefonen där staden vet lite men måste agera.",
+    "reason": "Dagboken ger en konkret miljö, tidspress och en känsla av osäkerhet som lämpar sig för en scenbaserad serie.",
+    "characters": [
+      "O. J. v. Essen"
+    ],
+    "places": [
+      "Normalskolan"
+    ]
+  },
+  "contentHash": "ecaeee0b67521f11b7e25efbdf03ad76007c452fd14bc4e15996e79b2ff98102",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T11:01:15.664Z"
+}

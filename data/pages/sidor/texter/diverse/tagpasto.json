@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tagpasto.htm",
+  "title": "Tåget på Storbron",
+  "summary": "Fotografi av ett tåg på Storbron i Nykarleby, taget av Johannes Schalin. Sidan har bara en bildtext och uppgift om vem som tillhandahållit bilden.",
+  "topics": [
+    "järnväg",
+    "foto",
+    "broar"
+  ],
+  "people": [
+    {
+      "name": "Johannes Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Mikael Schalin",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll bilden"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "eb6adea11e9898506b4337acb1ca19b658454dc27f1d8894f21a8388f244d3df",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T11:01:15.664Z"
+}
