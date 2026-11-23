@@ -1,4 +1,10 @@
-import { GazetteerKind, NearbyPage, type NearbyQuery, type NearbyResponse } from "@tuttemuj/schema";
+import {
+  GazetteerKind,
+  NearbyEvent,
+  NearbyPage,
+  type NearbyQuery,
+  type NearbyResponse,
+} from "@tuttemuj/schema";
 import { z } from "zod";
 
 /** One row returned by the database function `public.nearby_places`. */
@@ -12,6 +18,8 @@ export const NearbyRow = z.object({
   distance_m: z.number(),
   page_count: z.int(),
   pages: z.array(NearbyPage),
+  event_count: z.int(),
+  events: z.array(NearbyEvent),
 });
 export type NearbyRow = z.infer<typeof NearbyRow>;
 
@@ -31,6 +39,8 @@ export async function nearby(source: NearbySource, query: NearbyQuery): Promise<
       distanceM: Math.round(r.distance_m),
       pageCount: r.page_count,
       pages: r.pages,
+      eventCount: r.event_count,
+      events: r.events,
     })),
   };
 }

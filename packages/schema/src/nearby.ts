@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { HistoricalDate } from "./entities.ts";
 import { GazetteerKind } from "./gazetteer.ts";
 import { SourceUrl } from "./source.ts";
 
@@ -21,6 +22,15 @@ export const NearbyPage = z.object({
 });
 export type NearbyPage = z.infer<typeof NearbyPage>;
 
+/** An event at a place, with the page it comes from. Description is our own wording. */
+export const NearbyEvent = z.object({
+  sourceUrl: SourceUrl,
+  title: z.string(),
+  date: HistoricalDate.optional(),
+  description: z.string().optional(),
+});
+export type NearbyEvent = z.infer<typeof NearbyEvent>;
+
 export const NearbyPlace = z.object({
   id: z.string(),
   name: z.string(),
@@ -32,6 +42,9 @@ export const NearbyPlace = z.object({
   /** All pages mentioning the place; `pages` holds only the first few. */
   pageCount: z.int().min(0),
   pages: z.array(NearbyPage),
+  /** All events at the place; `events` holds the first few in date order, undated last. */
+  eventCount: z.int().min(0),
+  events: z.array(NearbyEvent),
 });
 export type NearbyPlace = z.infer<typeof NearbyPlace>;
 
