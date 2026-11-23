@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Review search results</title>
+<style>
+  :root {
+    --bg: #fafaf7; --panel: #fff; --text: #1d1d1b; --muted: #6b6b66; --line: #dcdcd4;
+    --good: #1f7a3d; --good-bg: #e6f4ea; --bad: #b3261e; --bad-bg: #fbe9e7; --accent: #2a5db0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161614; --panel: #1f1f1c; --text: #eeeee8; --muted: #9a9a92; --line: #3a3a35;
+      --good: #6fcf8e; --good-bg: #1c2e22; --bad: #f2877f; --bad-bg: #321e1c; --accent: #8db4f0;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, sans-serif; }
+  .layout { display: grid; grid-template-columns: 300px 1fr; min-height: 100vh; }
+  aside { border-right: 1px solid var(--line); padding: 16px; overflow-y: auto; max-height: 100vh; position: sticky; top: 0; }
+  main { padding: 20px 24px 80px; max-width: 860px; }
+  h1 { font-size: 16px; margin: 0 0 12px; }
+  .case { display: block; width: 100%; text-align: left; padding: 8px 10px; margin: 0 0 4px; border: 1px solid transparent;
+    border-radius: 6px; background: none; color: inherit; font: inherit; cursor: pointer; }
+  .case:hover { background: var(--panel); }
+  .case.active { background: var(--panel); border-color: var(--accent); }
+  .case small { display: block; color: var(--muted); }
+  .tag { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 8px; border: 1px solid var(--line); color: var(--muted); margin-right: 4px; }
+  h2 { margin: 0 0 4px; font-size: 22px; }
+  .meta { color: var(--muted); margin-bottom: 16px; }
+  .result { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; margin-bottom: 10px; }
+  .result.selected { outline: 2px solid var(--accent); }
+  .result.good { border-color: var(--good); background: var(--good-bg); }
+  .result.bad { border-color: var(--bad); background: var(--bad-bg); }
+  .top { display: flex; gap: 10px; align-items: baseline; }
+  .n { color: var(--muted); min-width: 1.4em; }
+  .title { font-weight: 600; flex: 1; }
+  .summary { margin: 6px 0 0 1.9em; }
+  .people { margin: 4px 0 0 1.9em; color: var(--muted); font-size: 13px; }
+  .actions { margin: 10px 0 0 1.9em; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  button.v { font: inherit; padding: 4px 14px; border-radius: 6px; border: 1px solid var(--line); background: var(--panel); color: inherit; cursor: pointer; }
+  button.v.good.on { background: var(--good); color: #fff; border-color: var(--good); }
+  button.v.bad.on { background: var(--bad); color: #fff; border-color: var(--bad); }
+  a { color: var(--accent); }
+  .missing { margin-top: 24px; padding: 12px 14px; border: 1px dashed var(--line); border-radius: 8px; }
+  form { display: grid; gap: 6px; margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--line); }
+  input, select { font: inherit; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--line); background: var(--panel); color: inherit; }
+  .row { display: flex; gap: 6px; }
+  .row > * { flex: 1; min-width: 0; }
+  .help { color: var(--muted); font-size: 13px; margin-top: 18px; }
+  #status { position: fixed; right: 16px; bottom: 12px; color: var(--muted); font-size: 13px; }
+  @media (max-width: 760px) { .layout { grid-template-columns: 1fr; } aside { position: static; max-height: none; border-right: 0; border-bottom: 1px solid var(--line); } }
+</style>
+</head>
+<body>
+<div class="layout">
+  <aside>
+    <h1>Questions</h1>
+    <div id="cases"></div>
+    <form id="add">
+      <strong>Add a question</strong>
+      <input id="q" placeholder="Vem bodde i Åminne?" required minlength="3">
+      <div class="row">
+        <select id="lang"><option>sv</option><option>fi</option><option>en</option></select>
+        <input id="lat" placeholder="lat (optional)" inputmode="decimal">
+        <input id="lng" placeholder="lng (optional)" inputmode="decimal">
+      </div>
+      <button class="v" type="submit">Add</button>
+    </form>
+  </aside>
+  <main>
+    <div id="detail"><p>Loading…</p></div>
+    <p class="help">Keys: <b>j</b>/<b>k</b> move, <b>g</b> good, <b>b</b> bad, <b>u</b> clear, <b>n</b>/<b>p</b> next/previous question.
+      A page is good if someone asking this question would be glad to be sent there. Unmarked pages are not counted either way.</p>
+  </main>
+</div>
+<div id="status"></div>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, props = {}, ...kids) => {
+    const e = Object.assign(document.createElement(tag), props);
+    for (const k of kids) e.append(k);
+    return e;
+  };
+  let cases = [], current = null, data = null, selected = 0;
+  const status = (t) => { $("status").textContent = t; };
+
+  async function api(path, body) {
+    const res = await fetch(path, body ? { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body) } : {});
+    if (!res.ok) throw new Error(path + " " + res.status);
+    return res.json();
+  }
+
+  async function loadCases() {
+    cases = await api("/api/cases");
+    const box = $("cases");
+    box.replaceChildren(...cases.map((c) => {
+      const b = el("button", { className: "case" + (c.id === current ? " active" : ""), type: "button" },
+        el("span", { className: "tag", textContent: c.lang }), c.question,
+        el("small", { textContent: `${c.good} good · ${c.bad} bad` + (c.located ? " · at a location" : "") }));
+      b.onclick = () => open(c.id);
+      return b;
+    }));
+  }
+
+  async function open(id) {
+    current = id; selected = 0;
+    $("detail").replaceChildren(el("p", { textContent: "Searching…" }));
+    status("");
+    try {
+      data = await api("/api/cases/" + encodeURIComponent(id));
+    } catch (e) { $("detail").replaceChildren(el("p", { textContent: "Could not load: " + e.message })); return; }
+    render(); loadCases();
+  }
+
+  function render() {
+    const d = $("detail");
+    const loc = data.lat !== undefined ? ` · standing at ${data.lat}, ${data.lng}` : "";
+    const nodes = [el("h2", { textContent: data.question }), el("div", { className: "meta", textContent: data.lang + loc })];
+    data.results.forEach((r, i) => {
+      const card = el("div", { className: "result " + (r.verdict || "") + (i === selected ? " selected" : "") });
+      card.onclick = () => { selected = i; render(); };
+      card.append(el("div", { className: "top" }, el("span", { className: "n", textContent: r.n }), el("span", { className: "title", textContent: r.title })));
+      card.append(el("div", { className: "summary", textContent: r.summary }));
+      if (r.people.length) card.append(el("div", { className: "people", textContent: "People: " + r.people.join("; ") }));
+      const good = el("button", { className: "v good" + (r.verdict === "good" ? " on" : ""), type: "button", textContent: "Good" });
+      const bad = el("button", { className: "v bad" + (r.verdict === "bad" ? " on" : ""), type: "button", textContent: "Bad" });
+      good.onclick = (e) => { e.stopPropagation(); mark(i, r.verdict === "good" ? "clear" : "good"); };
+      bad.onclick = (e) => { e.stopPropagation(); mark(i, r.verdict === "bad" ? "clear" : "bad"); };
+      card.append(el("div", { className: "actions" }, good, bad, el("a", { href: r.url, target: "_blank", rel: "noopener", textContent: "Open on nykarlebyvyer.nu ↗" })));
+      nodes.push(card);
+    });
+    if (data.results.length === 0) nodes.push(el("p", { textContent: "The search returned nothing for this question." }));
+    if (data.missing.length) {
+      const box = el("div", { className: "missing" }, el("strong", { textContent: "Marked good, but the search did not return them:" }));
+      for (const m of data.missing) box.append(el("div", {}, el("a", { href: m.url, target: "_blank", rel: "noopener", textContent: m.title })));
+      nodes.push(box);
+    }
+    d.replaceChildren(...nodes);
+  }
+
+  async function mark(i, verdict) {
+    const r = data.results[i];
+    if (!r) return;
+    r.verdict = verdict === "clear" ? null : verdict;
+    selected = i; render();
+    try {
+      await api("/api/judge", { id: data.id, url: r.url, verdict });
+      status("Saved");
+      loadCases();
+    } catch (e) { status("Not saved: " + e.message); }
+  }
+
+  const step = (by) => {
+    const i = cases.findIndex((c) => c.id === current);
+    const next = cases[i + by];
+    if (next) open(next.id);
+  };
+
+  document.addEventListener("keydown", (e) => {
+    if (e.target.closest("input, select") || e.metaKey || e.ctrlKey || e.altKey || !data) return;
+    const last = data.results.length - 1;
+    if (e.key === "j") { selected = Math.min(last, selected + 1); render(); }
+    else if (e.key === "k") { selected = Math.max(0, selected - 1); render(); }
+    else if (e.key === "g") mark(selected, data.results[selected]?.verdict === "good" ? "clear" : "good");
+    else if (e.key === "b") mark(selected, data.results[selected]?.verdict === "bad" ? "clear" : "bad");
+    else if (e.key === "u") mark(selected, "clear");
+    else if (e.key === "n") step(1);
+    else if (e.key === "p") step(-1);
+    else return;
+    document.querySelector(".result.selected")?.scrollIntoView({ block: "nearest" });
+  });
+
+  $("add").onsubmit = async (e) => {
+    e.preventDefault();
+    const num = (v) => (v.trim() === "" ? undefined : Number(v.replace(",", ".")));
+    const lat = num($("lat").value), lng = num($("lng").value);
+    if ((lat === undefined) !== (lng === undefined)) { status("Give both lat and lng, or neither"); return; }
+    try {
+      const { id } = await api("/api/cases", { question: $("q").value, lang: $("lang").value, lat, lng });
+      $("q").value = ""; $("lat").value = ""; $("lng").value = "";
+      await loadCases(); open(id);
+    } catch (err) { status("Could not add: " + err.message); }
+  };
+
+  loadCases().then(() => cases[0] && open(cases[0].id));
+</script>
+</body>
+</html>

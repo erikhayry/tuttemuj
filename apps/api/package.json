@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "typecheck": "tsc -p .",
-    "dev": "tsx --env-file-if-exists=../../.env src/server.ts"
+    "dev": "tsx --env-file-if-exists=../../.env src/server.ts",
+    "eval": "tsx --env-file-if-exists=../../.env src/cli/eval.ts",
+    "review": "tsx --env-file-if-exists=../../.env src/cli/review.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.12.0",
