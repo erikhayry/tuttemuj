@@ -16,7 +16,7 @@ const pages: Record<string, string> = {
   [`${BASE}/texter/hus/c.htm`]: "<html><body>Hus C</body></html>",
 };
 
-const ENTRY = `${BASE}/index2.htm`;
+const ENTRY = `${BASE}/nyheter/nyinfort.htm`;
 const entryHtml = (...hrefs: string[]) =>
   `<html><body>Nytt: ${hrefs.map((h) => `<a href="${h}">x</a>`).join(" ")}</body></html>`;
 
@@ -104,7 +104,7 @@ describe("runCrawl", () => {
 
   it("re-fetches the entry page every run and crawls only links it has not seen", async () => {
     const { deps, frontier } = await setup(10);
-    deps.fetch = withEntry(entryHtml("texter/hus/b.htm"));
+    deps.fetch = withEntry(entryHtml("../texter/hus/b.htm"));
 
     const first = await runCrawl(deps);
     expect(frontier.get(ENTRY)).toMatchObject({ status: "fetched", attempts: 1 });
@@ -112,7 +112,7 @@ describe("runCrawl", () => {
     expect(first.discovered).toBeGreaterThanOrEqual(1);
 
     // The entry page is not pending, but it is fetched again the next night.
-    deps.fetch = withEntry(entryHtml("texter/hus/b.htm", "texter/hus/c.htm"));
+    deps.fetch = withEntry(entryHtml("../texter/hus/b.htm", "../texter/hus/c.htm"));
     const second = await runCrawl(deps);
     expect(frontier.get(ENTRY)).toMatchObject({ status: "fetched", attempts: 2 });
     expect(frontier.get(`${BASE}/texter/hus/c.htm`)?.status).toBe("fetched");
