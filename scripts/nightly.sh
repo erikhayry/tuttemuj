@@ -23,6 +23,12 @@ if [[ -n "$(git status --porcelain -- . ':!data')" ]]; then
   exit 1
 fi
 
+# The extract job uses the same clone. Never overlap with it.
+if launchctl print "gui/$(id -u)/tuttemuj.extract" 2>/dev/null | grep -q 'state = running'; then
+  echo "The nightly extract is still running; skipping this crawl." >&2
+  exit 1
+fi
+
 git pull --rebase --autostash --quiet
 pnpm install --frozen-lockfile --silent
 pnpm --filter @tuttemuj/crawler crawl
