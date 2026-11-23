@@ -1,0 +1,149 @@
+import type { SupabaseClient } from "@supabase/supabase-js";
+import { embed } from "@tuttemuj/embeddings";
+import type { AskRequest } from "@tuttemuj/schema";
+import { z } from "zod";
+import type { Retrieve } from "./ask.ts";
+import type { Fact } from "./facts.ts";
+import { NearbyRow } from "./nearby.ts";
+
+/** Walking distance for "what is around me", in metres. */
+const NEARBY_RADIUS_M = 250;
+const VECTOR_HITS = 30;
+const MAX_PAGES = 8;
+const MAX_EVENTS_PER_PAGE = 3;
+/** Added to a page's similarity when it is at the user's location (less the further away it is). */
+const PROXIMITY_BONUS = 0.1;
+
+const Hit = z.object({
+  kind: z.enum(["page", "event", "comic"]),
+  ref: z.string(),
+  page_url: z.string(),
+  distance: z.number(),
+});
+const Similarity = z.object({ page_url: z.string(), distance: z.number() });
+const PageRow = z.object({ source_url: z.string(), title: z.string(), summary: z.string() });
+const EventRow = z.object({
+  id: z.string(),
+  page_url: z.string(),
+  title: z.string(),
+  year: z.int().nullable(),
+  description: z.string().nullable(),
+});
+
+const check = <T>(
+  what: string,
+  schema: z.ZodType<T>,
+  data: unknown,
+  error: { message: string } | null,
+): T => {
+  if (error) throw new Error(`${what}: ${error.message}`);
+  return schema.parse(data);
+};
+
+type Candidate = { score: number; eventIds: string[] };
+
+/**
+ * Find the facts for a question: pages whose meaning is close to it (vector search) plus the
+ * pages about places around the user, ranked by similarity with a bonus for being nearby.
+ * Returns our summaries and event descriptions only, never page text.
+ */
+export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retrieve {
+  return async (req: AskRequest) => {
+    const { vectors } = await embed(voyageKey, [req.question], "query");
+    const vector = JSON.stringify(vectors[0]);
+
+    const located = req.lat !== undefined && req.lng !== undefined;
+    const [searched, around] = await Promise.all([
+      db.rpc("search_embeddings", { in_embedding: vector, in_limit: VECTOR_HITS }),
+      located
+        ? db.rpc("nearby_places", {
+            in_lat: req.lat,
+            in_lng: req.lng,
+            in_radius_m: NEARBY_RADIUS_M,
+            in_max_places: 15,
+            in_max_pages: 8,
+            in_max_events: 0,
+          })
+        : Promise.resolve({ data: [], error: null }),
+    ]);
+    const hits = check("search_embeddings", z.array(Hit), searched.data, searched.error);
+    const places = check("nearby_places", z.array(NearbyRow), around.data, around.error);
+
+    // Distance to the closest place that mentions each page.
+    const closeness = new Map<string, number>();
+    for (const p of places) {
+      for (const page of p.pages) {
+        closeness.set(
+          page.sourceUrl,
+          Math.min(closeness.get(page.sourceUrl) ?? Infinity, p.distance_m),
+        );
+      }
+    }
+
+    const candidates = new Map<string, Candidate>();
+    for (const h of hits) {
+      const c = candidates.get(h.page_url) ?? { score: -Infinity, eventIds: [] };
+      c.score = Math.max(c.score, 1 - h.distance);
+      if (h.kind === "event") c.eventIds.push(h.ref);
+      candidates.set(h.page_url, c);
+    }
+
+    // How close in meaning are the pages at the user's location, when the search did not find them?
+    const unseen = [...closeness.keys()].filter((url) => !candidates.has(url));
+    if (unseen.length > 0) {
+      const { data, error } = await db.rpc("page_similarity", {
+        in_embedding: vector,
+        in_pages: unseen,
+      });
+      for (const s of check("page_similarity", z.array(Similarity), data, error)) {
+        candidates.set(s.page_url, { score: 1 - s.distance, eventIds: [] });
+      }
+    }
+
+    const ranked = [...candidates.entries()]
+      .map(([url, c]) => {
+        const d = closeness.get(url);
+        const bonus = d === undefined ? 0 : PROXIMITY_BONUS * Math.max(0, 1 - d / NEARBY_RADIUS_M);
+        return { url, ...c, score: c.score + bonus };
+      })
+      .sort((a, b) => b.score - a.score)
+      .slice(0, MAX_PAGES);
+    if (ranked.length === 0) return { facts: [], nearby: undefined };
+
+    const eventIds = ranked.flatMap((r) => r.eventIds.slice(0, MAX_EVENTS_PER_PAGE));
+    const [pageRes, eventRes] = await Promise.all([
+      db
+        .from("pages")
+        .select("source_url,title,summary")
+        .in(
+          "source_url",
+          ranked.map((r) => r.url),
+        ),
+      eventIds.length > 0
+        ? db.from("events").select("id,page_url,title,year,description").in("id", eventIds)
+        : Promise.resolve({ data: [], error: null }),
+    ]);
+    const pages = new Map(
+      check("pages", z.array(PageRow), pageRes.data, pageRes.error).map((p) => [p.source_url, p]),
+    );
+    const events = check("events", z.array(EventRow), eventRes.data, eventRes.error);
+
+    const facts: Fact[] = [];
+    for (const r of ranked) {
+      const page = pages.get(r.url);
+      if (!page) continue;
+      const lines = [page.summary];
+      for (const e of events.filter((ev) => ev.page_url === r.url)) {
+        lines.push(
+          `${e.year !== null ? `${e.year}: ` : ""}${e.title}${e.description ? `. ${e.description}` : ""}`,
+        );
+      }
+      facts.push({ sourceUrl: r.url, pageTitle: page.title, summary: page.summary, lines });
+    }
+
+    const nearby = places
+      .slice(0, 3)
+      .map((p) => ({ place: p.name, distanceM: Math.round(p.distance_m) }));
+    return { facts, nearby: nearby.length > 0 ? nearby : undefined };
+  };
+}

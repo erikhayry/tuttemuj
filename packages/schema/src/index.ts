@@ -1,3 +1,4 @@
+export * from "./ask.ts";
 export * from "./embedding.ts";
 export * from "./entities.ts";
 export * from "./gazetteer.ts";

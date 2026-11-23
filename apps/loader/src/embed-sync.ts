@@ -1,8 +1,8 @@
 import { createClient } from "@supabase/supabase-js";
+import { embed } from "@tuttemuj/embeddings";
 import { EMBEDDING_MODEL } from "@tuttemuj/schema";
 import type { EmbedItem } from "./embed-items.ts";
 import { readAll } from "./sync.ts";
-import { embed } from "./voyage.ts";
 
 const BATCH = 64;
 const keyOf = (kind: string, ref: string) => `${kind}\n${ref}`;
