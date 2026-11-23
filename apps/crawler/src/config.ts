@@ -11,7 +11,7 @@ const Config = z.object({
   CRAWL_DELAY_MS: z.coerce.number().int().min(1000).default(5000),
   CRAWL_TIMEOUT_MS: z.coerce.number().int().positive().default(30_000),
   /** Page with newly posted content. Re-fetched every run; links not yet known are crawled. */
-  ENTRY_URL: z.string().url().default(`${SOURCE_ORIGIN}/sidor/index2.htm`),
+  ENTRY_URL: z.string().url().default(`${SOURCE_ORIGIN}/sidor/nyheter/nyinfort.htm`),
   CRAWL_MAX_ATTEMPTS: z.coerce.number().int().positive().default(3),
   USER_AGENT: z
     .string()
