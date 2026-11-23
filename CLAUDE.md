@@ -35,6 +35,7 @@ The analysis runs manually in Claude Code with the `/extract-pages` skill, on th
 - `pnpm lint` / `pnpm format`
 - `pnpm typecheck`
 - `pnpm test`
+- `pnpm data:rebuild`: rebuild the derived files in `data/` (offline). `pnpm data:publish`: that, then sync to Supabase and embed with Voyage (needs `.env` keys, writes to production)
 
 ## Roadmap
 

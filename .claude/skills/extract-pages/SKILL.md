@@ -26,7 +26,9 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
    - Generic names that recur in several villages (Torp, Bäck, Klockars…) get a qualified entry (`klockars i vexala`) and the same qualified name as an `alternateName` on the page's place.
    - Places outside Nykarleby or too vague to locate (Kvarken, Centrum, Tomt 10) go in `data/sources/ignored-places.json`.
    - Then run `gazetteer:build` and `places:geocode`, and check that `places:unmatched` prints nothing.
-5. Report how many pages were saved. Also note anything interesting, such as pages that are only menus or index pages, or cases where the schema doesn't fit the content well.
+5. Run `pnpm data:rebuild`. It rebuilds the gazetteer, coordinates, place entities and page groups from `data/` (offline, no keys), so the derived files in `data/entities/` match the new pages. Commit them with the extract results.
+6. Report how many pages were saved. Also note anything interesting, such as pages that are only menus or index pages, or cases where the schema doesn't fit the content well.
+7. Remind the user to run `pnpm data:publish` when they want the new data in Supabase and Voyage. Do not run it yourself: it writes to the production database and calls the Voyage API.
 
 ## Draft fields
 

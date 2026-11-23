@@ -14,7 +14,7 @@ const fail = (what: string, error: { message: string } | null) => {
 };
 
 /** Every value of `column`, read a page at a time (the API returns at most 1000 rows). */
-async function readAll(db: SupabaseClient, table: string, columns: string) {
+export async function readAll(db: SupabaseClient, table: string, columns: string) {
   const rows: Record<string, string>[] = [];
   for (let from = 0; ; from += 1000) {
     const { data, error } = await db
