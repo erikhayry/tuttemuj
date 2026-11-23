@@ -79,10 +79,14 @@ type Candidate = { score: number; eventIds: string[] };
  * a bonus for being nearby or about a named place. Comic pitches are left out.
  * Returns our summaries and event descriptions only, never page text.
  */
-export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retrieve {
+export function supabaseRetrieve(
+  db: SupabaseClient,
+  voyageKey: string,
+  embedQuestion: typeof embed = embed,
+): Retrieve {
   const placeNames = placeNameLoader(db);
   return async (req: AskRequest) => {
-    const { vectors } = await embed(voyageKey, [req.question], "query");
+    const { vectors } = await embedQuestion(voyageKey, [req.question], "query");
     const vector = JSON.stringify(vectors[0]);
 
     const located = req.lat !== undefined && req.lng !== undefined;

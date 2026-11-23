@@ -1,6 +1,7 @@
 export * from "./ask.ts";
 export * from "./embedding.ts";
 export * from "./entities.ts";
+export * from "./eval.ts";
 export * from "./gazetteer.ts";
 export * from "./names.ts";
 export * from "./nearby.ts";
