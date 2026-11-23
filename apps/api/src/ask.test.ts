@@ -7,6 +7,7 @@ const url = (n: string) => `https://www.nykarlebyvyer.nu/sidor/${n}.html`;
 const fact = (n: string, title = `Sida ${n}`): Fact => ({
   sourceUrl: url(n),
   pageTitle: title,
+  summary: `Sammanfattning ${n}`,
   lines: [`Sammanfattning ${n}`],
 });
 const req = (extra: Partial<AskRequest> = {}): AskRequest => ({
@@ -53,6 +54,7 @@ describe("ask", () => {
     });
     const res = await ask(retrieving([fact("a"), fact("b", "Storbron")]), answer, req());
     expect(res).toEqual({
+      mode: "answer",
       answer: "Bron byggdes 1890 [2].",
       grounded: true,
       sources: [{ n: 2, sourceUrl: url("b"), title: "Storbron" }],
@@ -101,5 +103,26 @@ describe("ask", () => {
   it("rejects a malformed answer from Claude", async () => {
     const answer = (async () => ({ answerable: "yes" })) as unknown as Answer;
     await expect(ask(retrieving([fact("a")]), answer, req())).rejects.toThrow();
+  });
+});
+
+describe("ask without Claude (search mode)", () => {
+  it("lists the best pages with our summaries and links, in the asked language", async () => {
+    const facts = ["a", "b", "c", "d", "e", "f"].map((n) => fact(n));
+    const res = await ask(retrieving(facts), undefined, req({ lang: "en" }));
+    expect(res.mode).toBe("search");
+    expect(res.answer).toContain("match your question");
+    expect(res.sources).toHaveLength(5);
+    expect(res.sources[0]).toEqual({
+      n: 1,
+      sourceUrl: url("a"),
+      title: "Sida a",
+      summary: "Sammanfattning a",
+    });
+  });
+
+  it("says nothing was found when there are no facts", async () => {
+    const res = await ask(retrieving([]), undefined, req({ lang: "fi" }));
+    expect(res).toMatchObject({ mode: "search", grounded: false, sources: [] });
   });
 });

@@ -4,6 +4,8 @@ import type { Lang } from "@tuttemuj/schema";
 export type Fact = {
   sourceUrl: string;
   pageTitle: string;
+  /** Our summary of the page. */
+  summary: string;
   /** Our summary of the page, and our descriptions of events that match the question. */
   lines: string[];
 };

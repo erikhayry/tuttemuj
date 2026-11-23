@@ -15,7 +15,7 @@ const env = z
     SUPABASE_URL: z.url(),
     SUPABASE_SECRET_KEY: z.string().min(20),
     PORT: z.coerce.number().int().default(8787),
-    /** Needed for POST /ask. Without them the endpoint answers 503. */
+    /** POST /ask needs VOYAGE_API_KEY (search). ANTHROPIC_API_KEY adds written answers. */
     VOYAGE_API_KEY: z.string().min(20).optional(),
     ANTHROPIC_API_KEY: z.string().min(20).optional(),
     ASK_MODEL: z.string().default(DEFAULT_ASK_MODEL),
@@ -26,22 +26,23 @@ const db = createClient(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY, {
   auth: { persistSession: false },
 });
 
-const answerer =
-  env.VOYAGE_API_KEY && env.ANTHROPIC_API_KEY
-    ? (() => {
-        const retrieve = supabaseRetrieve(db, env.VOYAGE_API_KEY);
-        const answer = claudeAnswer(
-          new Anthropic({ apiKey: env.ANTHROPIC_API_KEY }),
-          env.ASK_MODEL,
-        );
-        return (req: Parameters<typeof ask>[2]) => ask(retrieve, answer, req);
-      })()
-    : undefined;
+// Search needs Voyage. A written answer also needs Anthropic; without it /ask lists matching pages.
+const answerer = env.VOYAGE_API_KEY
+  ? (() => {
+      const retrieve = supabaseRetrieve(db, env.VOYAGE_API_KEY);
+      const answer = env.ANTHROPIC_API_KEY
+        ? claudeAnswer(new Anthropic({ apiKey: env.ANTHROPIC_API_KEY }), env.ASK_MODEL)
+        : undefined;
+      return (req: Parameters<typeof ask>[2]) => ask(retrieve, answer, req);
+    })()
+  : undefined;
 
 const app = createApp({
   nearby: supabaseSource(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY),
   ...(answerer ? { ask: answerer } : {}),
 });
 serve({ fetch: app.fetch, port: env.PORT }, ({ port }) =>
-  console.log(`API on http://localhost:${port} (ask: ${answerer ? "on" : "off"})`),
+  console.log(
+    `API on http://localhost:${port} (ask: ${answerer ? (env.ANTHROPIC_API_KEY ? "answers" : "search only") : "off"})`,
+  ),
 );

@@ -138,7 +138,7 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
           `${e.year !== null ? `${e.year}: ` : ""}${e.title}${e.description ? `. ${e.description}` : ""}`,
         );
       }
-      facts.push({ sourceUrl: r.url, pageTitle: page.title, lines });
+      facts.push({ sourceUrl: r.url, pageTitle: page.title, summary: page.summary, lines });
     }
 
     const nearby = places

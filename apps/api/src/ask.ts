@@ -28,7 +28,14 @@ const NO_FACTS: Record<Lang, string> = {
   en: "I can't find anything about this on nykarlebyvyer.nu.",
 };
 
+const SEARCH_INTRO: Record<Lang, string> = {
+  sv: "Det här är sidorna på nykarlebyvyer.nu som bäst matchar din fråga:",
+  fi: "Nämä nykarlebyvyer.nu-sivuston sivut vastaavat parhaiten kysymystäsi:",
+  en: "These pages on nykarlebyvyer.nu match your question best:",
+};
+
 const SUGGESTIONS = 3;
+const SEARCH_RESULTS = 5;
 
 const toSuggestions = (facts: Fact[]) =>
   facts
@@ -36,18 +43,44 @@ const toSuggestions = (facts: Fact[]) =>
     .map((f) => ({ sourceUrl: SourceUrl.parse(f.sourceUrl), title: f.pageTitle }));
 
 /**
- * Answer a question from retrieved facts only. The answer is grounded when Claude says the facts
+ * Search mode, without Claude: the best matching pages with our own summaries and the links.
+ * Costs nothing beyond the Voyage search.
+ */
+const searchOnly = (req: AskRequest, facts: Fact[]): AskResponse =>
+  AskResponse.parse({
+    mode: "search",
+    answer: SEARCH_INTRO[req.lang],
+    grounded: true,
+    sources: facts.slice(0, SEARCH_RESULTS).map((f, i) => ({
+      n: i + 1,
+      sourceUrl: f.sourceUrl,
+      title: f.pageTitle,
+      summary: f.summary,
+    })),
+    suggestions: [],
+  });
+
+/**
+ * Answer a question from retrieved facts only. Without `answer` (no Claude key) it lists the best
+ * matching pages instead. The answer is grounded when Claude says the facts
  * answer it and cites at least one real fact. Otherwise the nearest pages are suggested.
  */
 export async function ask(
   retrieve: Retrieve,
-  answer: Answer,
+  answer: Answer | undefined,
   req: AskRequest,
 ): Promise<AskResponse> {
   const { facts, nearby } = await retrieve(req);
   if (facts.length === 0) {
-    return { answer: NO_FACTS[req.lang], grounded: false, sources: [], suggestions: [] };
+    return {
+      mode: answer ? "answer" : "search",
+      answer: NO_FACTS[req.lang],
+      grounded: false,
+      sources: [],
+      suggestions: [],
+    };
   }
+  if (!answer) return searchOnly(req, facts);
 
   const draft = Draft.parse(await answer(buildPrompt(req.question, req.lang, facts, nearby)));
 
@@ -57,7 +90,13 @@ export async function ask(
     .sort((a, b) => a - b);
   if (!draft.answerable || cited.length === 0) {
     const text = draft.answer.trim() || NO_FACTS[req.lang];
-    return { answer: text, grounded: false, sources: [], suggestions: toSuggestions(facts) };
+    return {
+      mode: "answer",
+      answer: text,
+      grounded: false,
+      sources: [],
+      suggestions: toSuggestions(facts),
+    };
   }
 
   const sources: AskSource[] = cited.map((n) => ({
@@ -65,5 +104,11 @@ export async function ask(
     sourceUrl: SourceUrl.parse((facts[n - 1] as Fact).sourceUrl),
     title: (facts[n - 1] as Fact).pageTitle,
   }));
-  return AskResponse.parse({ answer: draft.answer, grounded: true, sources, suggestions: [] });
+  return AskResponse.parse({
+    mode: "answer",
+    answer: draft.answer,
+    grounded: true,
+    sources,
+    suggestions: [],
+  });
 }

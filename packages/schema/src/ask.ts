@@ -26,15 +26,22 @@ export const AskSource = z.object({
   n: z.int().positive(),
   sourceUrl: SourceUrl,
   title: z.string(),
+  /** Our own summary of the page. Only set in search mode, where there is no written answer. */
+  summary: z.string().optional(),
 });
 export type AskSource = z.infer<typeof AskSource>;
 
 /**
- * Response of POST /ask. `answer` cites sources as [n]. When the facts do not answer the
- * question, `grounded` is false, `answer` says so, and `suggestions` are the nearest pages.
+ * Response of POST /ask. In answer mode `answer` cites sources as [n]. When the facts do not answer
+ * the question, `grounded` is false, `answer` says so, and `suggestions` are the nearest pages.
  * Never contains page text.
  */
 export const AskResponse = z.object({
+  /**
+   * "answer": Claude wrote `answer` from the sources. "search": no Claude, `answer` is a one-line
+   * intro and `sources` are the best matching pages with our summaries.
+   */
+  mode: z.enum(["answer", "search"]),
   answer: z.string(),
   grounded: z.boolean(),
   sources: z.array(AskSource),

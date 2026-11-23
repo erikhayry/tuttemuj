@@ -83,9 +83,13 @@ describe("POST /ask", () => {
     });
 
   it("passes a valid question on, with Swedish as the default language", async () => {
-    const ask = vi
-      .fn()
-      .mockResolvedValue({ answer: "Svar [1].", grounded: true, sources: [], suggestions: [] });
+    const ask = vi.fn().mockResolvedValue({
+      mode: "answer",
+      answer: "Svar [1].",
+      grounded: true,
+      sources: [],
+      suggestions: [],
+    });
     const res = await post(createApp({ nearby, ask }), {
       question: "Vad hände vid torget?",
       lat: 63.5224,
