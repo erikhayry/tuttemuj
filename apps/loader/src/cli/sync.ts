@@ -20,7 +20,8 @@ const rows = buildRows(pages, places, groups);
 const duplicates = rows.pages.filter((p) => p.duplicate_of !== null).length;
 console.log(
   `Read ${rows.pages.length} pages (${duplicates} duplicates), ${rows.places.length} places ` +
-    `(${rows.places.filter((p) => p.location).length} located), ${rows.pagePlaces.length} page-place links.`,
+    `(${rows.places.filter((p) => p.location).length} located), ${rows.pagePlaces.length} page-place links, ` +
+    `${rows.events.length} events (${rows.eventPlaces.length} event-place links).`,
 );
 
 if (dryRun) {

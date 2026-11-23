@@ -1,5 +1,5 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
-import type { PagePlaceRow, Rows } from "./rows.ts";
+import type { Rows } from "./rows.ts";
 
 const BATCH = 500;
 
@@ -58,19 +58,37 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     "source_url",
   );
 
+  // Events after their pages and places, links after both.
+  await upsert("events", rows.events, "id");
+
   // Links: remove the ones that are gone, then add the current ones.
-  const wanted = new Set(rows.pagePlaces.map((r) => `${r.page_url}\n${r.place_id}`));
-  const existing = (await readAll(db, "page_places", "page_url,place_id")) as PagePlaceRow[];
-  const staleLinks = existing.filter((r) => !wanted.has(`${r.page_url}\n${r.place_id}`));
-  for (const r of staleLinks) {
-    const { error } = await db
-      .from("page_places")
-      .delete()
-      .eq("page_url", r.page_url)
-      .eq("place_id", r.place_id);
-    fail("delete page_places", error);
-  }
-  await upsert("page_places", rows.pagePlaces, "page_url,place_id");
+  const syncLinks = async (
+    table: string,
+    a: string,
+    b: string,
+    links: Record<string, string>[],
+  ) => {
+    const wanted = new Set(links.map((r) => `${r[a]}\n${r[b]}`));
+    const existing = await readAll(db, table, `${a},${b}`);
+    const stale = existing.filter((r) => !wanted.has(`${r[a]}\n${r[b]}`));
+    for (const r of stale) {
+      const { error } = await db
+        .from(table)
+        .delete()
+        .eq(a, r[a] as string)
+        .eq(b, r[b] as string);
+      fail(`delete ${table}`, error);
+    }
+    await upsert(table, links, `${a},${b}`);
+    return stale.length;
+  };
+  const stalePagePlaces = await syncLinks("page_places", "page_url", "place_id", rows.pagePlaces);
+  const staleEventPlaces = await syncLinks(
+    "event_places",
+    "event_id",
+    "place_id",
+    rows.eventPlaces,
+  );
 
   // Pages and places that no longer exist (their links go with them).
   const removeMissing = async (table: string, column: string, keep: string[]) => {
@@ -89,6 +107,11 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     "source_url",
     rows.pages.map((p) => p.source_url),
   );
+  const removedEvents = await removeMissing(
+    "events",
+    "id",
+    rows.events.map((e) => e.id),
+  );
   const removedPlaces = await removeMissing(
     "places",
     "id",
@@ -100,7 +123,15 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       pages: rows.pages.length,
       places: rows.places.length,
       page_places: rows.pagePlaces.length,
+      events: rows.events.length,
+      event_places: rows.eventPlaces.length,
     },
-    removed: { pages: removedPages, places: removedPlaces, page_places: staleLinks.length },
+    removed: {
+      pages: removedPages,
+      places: removedPlaces,
+      events: removedEvents,
+      page_places: stalePagePlaces,
+      event_places: staleEventPlaces,
+    },
   };
 }

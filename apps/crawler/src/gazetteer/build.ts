@@ -4,16 +4,10 @@ import {
   GeoPoint,
   type ManualPlace,
   type Nkby2018Sources,
+  normalizeName,
 } from "@tuttemuj/schema";
 
-/** Lowercase, single spaces, no brackets: the key used for matching names. */
-export const normalizeName = (name: string): string =>
-  name
-    .toLowerCase()
-    .replace(/\[[^\]]*\]/g, "")
-    .replace(/[.]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+export { normalizeName };
 
 const AREA_KIND: Record<Nkby2018Sources["areas"][number]["type"], GazetteerKind> = {
   area: "district",

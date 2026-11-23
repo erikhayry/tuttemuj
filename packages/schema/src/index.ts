@@ -1,5 +1,6 @@
 export * from "./entities.ts";
 export * from "./gazetteer.ts";
+export * from "./names.ts";
 export * from "./nearby.ts";
 export * from "./page-group.ts";
 export * from "./place-entity.ts";

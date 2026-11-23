@@ -18,6 +18,14 @@ const row = {
       summary: "Om bron.",
     },
   ],
+  event_count: 3,
+  events: [
+    {
+      sourceUrl: "https://www.nykarlebyvyer.nu/sidor/a.html",
+      title: "Bron byggs",
+      date: { year: 1890, circa: false },
+    },
+  ],
 };
 
 describe("GET /nearby", () => {
@@ -27,7 +35,13 @@ describe("GET /nearby", () => {
     expect(res.status).toBe(200);
     expect(source).toHaveBeenCalledWith({ lat: 63.5224, lng: 22.5245, radius: 300, limit: 20 });
     const body = await res.json();
-    expect(body.places[0]).toMatchObject({ id: "storbron", distanceM: 42, pageCount: 12 });
+    expect(body.places[0]).toMatchObject({
+      id: "storbron",
+      distanceM: 42,
+      pageCount: 12,
+      eventCount: 3,
+    });
+    expect(body.places[0].events[0].date.year).toBe(1890);
   });
 
   it("uses a walking radius by default", async () => {
