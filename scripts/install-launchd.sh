@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Install (or reinstall) the nightly jobs as launchd agents for the clone this script lives in:
-# tuttemuj.crawl (03:15) and tuttemuj.extract (07:00).
+# tuttemuj.crawl (03:15) and tuttemuj.extract (04:00).
 set -euo pipefail
 repo="$(cd "$(dirname "$0")/.." && pwd)"
 mkdir -p "$repo/.cache" "$HOME/Library/LaunchAgents"

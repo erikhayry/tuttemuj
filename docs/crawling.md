@@ -50,13 +50,13 @@ To run the same job now, use `/crawl` in Claude Code (`.claude/skills/crawl/SKIL
 
 ### Nightly extract and publish
 
-A second job, `tuttemuj.extract`, runs at 07:00 (after the crawl has finished) and does what you would do by hand:
+A second job, `tuttemuj.extract`, runs at 04:00 (the crawl may still be running) and does what you would do by hand:
 
 1. Runs `claude -p "/extract-pages 100"` headless, on your Claude Code subscription (`ANTHROPIC_API_KEY` is unset for it). Set `EXTRACT_COUNT` to change the 100.
 2. Commits and pushes `data/` (`data: nightly extract <date>`).
 3. Runs `pnpm data:publish`: rebuilds the derived files, syncs to Supabase and embeds the new pages with Voyage.
 
-It needs the clone's `.env` (`SUPABASE_URL`, `SUPABASE_SECRET_KEY`, `VOYAGE_API_KEY`) and Claude Code logged in on that machine. It refuses to run if the tree is dirty, if it isn't on `main`, or while the crawl job is running (and the crawl skips while it runs). The log is `.cache/nightly-extract.log`. Run it now with `launchctl kickstart gui/$(id -u)/tuttemuj.extract`.
+It needs the clone's `.env` (`SUPABASE_URL`, `SUPABASE_SECRET_KEY`, `VOYAGE_API_KEY`) and Claude Code logged in on that machine. It refuses to run if there are changes outside `data/` or if it isn't on `main`. It can overlap with the crawl: it never commits `frontier.jsonl` or `runs.jsonl`, which the crawl owns. The log is `.cache/nightly-extract.log`. Run it now with `launchctl kickstart gui/$(id -u)/tuttemuj.extract`.
 
 Don't run `/extract-pages` by hand in the same clone at the same time. If you extract in another clone, pull first so you don't redo the same pages.
 

@@ -10,11 +10,11 @@
     <string>/bin/bash</string>
     <string>__REPO__/scripts/nightly-extract.sh</string>
   </array>
-  <!-- 07:00 local time. If the Mac is asleep, launchd runs the job when it wakes. -->
+  <!-- 04:00 local time. If the Mac is asleep, launchd runs the job when it wakes. -->
   <key>StartCalendarInterval</key>
   <dict>
     <key>Hour</key>
-    <integer>7</integer>
+    <integer>4</integer>
     <key>Minute</key>
     <integer>0</integer>
   </dict>
