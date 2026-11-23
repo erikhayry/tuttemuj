@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildPlaceNameIndex, findPlaceIds, nameBonus } from "./place-names.ts";
+import { baseForms, buildPlaceNameIndex, findPlaceIds, nameBonus } from "./place-names.ts";
 
 const index = buildPlaceNameIndex([
   { id: "forsby", name: "Forsby", aliases: [] },
@@ -28,6 +28,44 @@ describe("findPlaceIds", () => {
 
   it("returns nothing when no place is named", () => {
     expect(findPlaceIds("Vem var rådman?", index)).toEqual([]);
+  });
+});
+
+describe("inflected place names", () => {
+  const places = buildPlaceNameIndex([
+    ...[
+      { id: "forsby", name: "Forsby", aliases: [] },
+      { id: "kuddnas", name: "Kuddnäs", aliases: [] },
+      { id: "storbron", name: "Storbron", aliases: [] },
+      { id: "gamla-kyrkan", name: "Gamla kyrkan", aliases: [] },
+    ],
+  ]);
+
+  it.each([
+    ["Kuka asui Forsbyssä?", "forsby"],
+    ["Mistä Forsbystä tulee tämä?", "forsby"],
+    ["Kuka asui Kuddnäsissä?", "kuddnas"],
+    ["Mitä tapahtui Storbronilla?", "storbron"],
+    ["Mitä tapahtui Storbronin lähellä?", "storbron"],
+    ["Vem bodde på Forsbys gårdar?", "forsby"],
+  ])("finds the place in %s", (question, id) => {
+    expect(findPlaceIds(question, places)).toEqual([id]);
+  });
+
+  it("inflects only the last word of a longer name", () => {
+    expect(findPlaceIds("Mitä tapahtui Gamla kyrkanissa?", places)).toEqual(["gamla-kyrkan"]);
+  });
+
+  it("does not match short stems or unrelated words", () => {
+    expect(findPlaceIds("Kuka oli kaupungissa?", places)).toEqual([]);
+    expect(baseForms("bron")).toEqual(["bron"]);
+  });
+
+  it("lists the word itself first, so a name written as is always wins", () => {
+    expect(baseForms("kuddnäs")[0]).toBe("kuddnäs");
+    expect(baseForms("kuddnäsissä")).toEqual(
+      expect.arrayContaining(["kuddnäsissä", "kuddnäsi", "kuddnäs"]),
+    );
   });
 });
 
