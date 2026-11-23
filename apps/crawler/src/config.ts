@@ -1,4 +1,5 @@
 import { fileURLToPath } from "node:url";
+import { SOURCE_ORIGIN } from "@tuttemuj/schema";
 import { z } from "zod";
 
 const REPO_ROOT = fileURLToPath(new URL("../../../", import.meta.url));
@@ -9,6 +10,8 @@ const Config = z.object({
   /** Pause between requests, to keep load on the source site low. */
   CRAWL_DELAY_MS: z.coerce.number().int().min(1000).default(5000),
   CRAWL_TIMEOUT_MS: z.coerce.number().int().positive().default(30_000),
+  /** Page with newly posted content. Re-fetched every run; links not yet known are crawled. */
+  ENTRY_URL: z.string().url().default(`${SOURCE_ORIGIN}/sidor/index2.htm`),
   CRAWL_MAX_ATTEMPTS: z.coerce.number().int().positive().default(3),
   USER_AGENT: z
     .string()

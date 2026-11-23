@@ -13,7 +13,12 @@ const pages: Record<string, string> = {
   [`${BASE}/texter/hus/a.htm`]:
     '<html><head><title>Hus A</title></head><body>Gården byggdes 1850. <a href="b.htm">B</a> <a href="gone.htm">x</a></body></html>',
   [`${BASE}/texter/hus/b.htm`]: "<html><body>Hus B</body></html>",
+  [`${BASE}/texter/hus/c.htm`]: "<html><body>Hus C</body></html>",
 };
+
+const ENTRY = `${BASE}/index2.htm`;
+const entryHtml = (...hrefs: string[]) =>
+  `<html><body>Nytt: ${hrefs.map((h) => `<a href="${h}">x</a>`).join(" ")}</body></html>`;
 
 /** Response.url is a read-only getter, so define it on the instance. */
 const respond = (body: string, status: number, url: string): Response =>
@@ -27,6 +32,11 @@ const fakeFetch: typeof fetch = async (input) => {
   if (url.includes("gone")) return respond("", 200, "https://www.nykarlebyvyer.nu/notfound.html");
   return respond("", 500, url);
 };
+
+const withEntry =
+  (html: string): typeof fetch =>
+  async (input) =>
+    String(input) === ENTRY ? respond(html, 200, ENTRY) : fakeFetch(input);
 
 async function setup(limit: number) {
   const dir = await mkdtemp(join(tmpdir(), "crawl-"));
@@ -65,7 +75,8 @@ describe("runCrawl", () => {
     });
     expect(await cache.read(`${BASE}/texter/hus/a.htm`)).toContain("Gården");
     // Polite: a pause between every pair of requests.
-    expect(sleeps).toEqual([5000]);
+    // The entry page is requested first (it fails here), then one pause per page.
+    expect(sleeps).toEqual([5000, 5000]);
 
     const second = await runCrawl(deps);
     expect(second).toMatchObject({ fetched: 1, gone: 1 });
@@ -89,5 +100,29 @@ describe("runCrawl", () => {
     await runCrawl(deps);
     expect(frontier.get(`${BASE}/texter/hus/a.htm`)?.status).toBe("fetched");
     expect(frontier.get(`${BASE}/texter/poesi/broken.htm`)?.attempts).toBe(0);
+  });
+
+  it("re-fetches the entry page every run and crawls only links it has not seen", async () => {
+    const { deps, frontier } = await setup(10);
+    deps.fetch = withEntry(entryHtml("texter/hus/b.htm"));
+
+    const first = await runCrawl(deps);
+    expect(frontier.get(ENTRY)).toMatchObject({ status: "fetched", attempts: 1 });
+    expect(frontier.get(`${BASE}/texter/hus/b.htm`)?.discoveredFrom).toBe(ENTRY);
+    expect(first.discovered).toBeGreaterThanOrEqual(1);
+
+    // The entry page is not pending, but it is fetched again the next night.
+    deps.fetch = withEntry(entryHtml("texter/hus/b.htm", "texter/hus/c.htm"));
+    const second = await runCrawl(deps);
+    expect(frontier.get(ENTRY)).toMatchObject({ status: "fetched", attempts: 2 });
+    expect(frontier.get(`${BASE}/texter/hus/c.htm`)?.status).toBe("fetched");
+    expect(second.discovered).toBe(1);
+  });
+
+  it("still crawls pending pages when the entry page cannot be fetched", async () => {
+    const { deps, frontier } = await setup(10);
+    await runCrawl(deps);
+    expect(frontier.get(ENTRY)).toBeUndefined();
+    expect(frontier.get(`${BASE}/texter/hus/a.htm`)?.status).toBe("fetched");
   });
 });

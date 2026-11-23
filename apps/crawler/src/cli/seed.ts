@@ -8,9 +8,9 @@ import { normalizeUrl } from "../url.ts";
 
 /** Seed the frontier from the (outdated) sitemap plus the site's entry page. */
 const SITEMAP = `${SOURCE_ORIGIN}/sitemap/sitemap.htm`;
-const ENTRY = `${SOURCE_ORIGIN}/sidor/index2.htm`;
 
 const config = loadConfig();
+const ENTRY = config.ENTRY_URL;
 const frontier = await Frontier.load(join(config.DATA_DIR, "frontier.jsonl"));
 
 const result = await fetchPage(SITEMAP, {
