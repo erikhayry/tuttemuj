@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1977lucia.htm",
+  "title": "Nykarlebys Lucia 1977 Reetta-Maija Kujanen",
+  "summary": "Nykarlebys Lucia 1977 var Reetta-Maija Kujanen. Tidningstext om luciatåget i slaskväder som mötte upp vid tribunen framför Normen. Julfriden förkunnades av borgmästaren och rådmännen.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Reetta-Maija Kujanen",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1977,
+        "circa": false
+      },
+      "people": [
+        "Reetta-Maija Kujanen"
+      ],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "56efc0cafdc94fc03b6d8cfbc3e2b03eb8996022e93a574b78dab3d73c569599",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

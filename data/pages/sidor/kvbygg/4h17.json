@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kvbygg/4h17.htm",
+  "title": "Kraftverksbygget februari 1984",
+  "summary": "Bild från början av kraftverksbygget: en nedfart anläggs vid västra stranden och en fångdamm byggs så att man kan spränga och schakta ur för kraftverksbyggnaden.",
+  "topics": [
+    "kraftverket",
+    "1980-talet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [
+        "kraftverket"
+      ],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Fångdammen",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kraftverksbygget inleds med fångdamm",
+      "date": {
+        "year": 1984,
+        "month": 2,
+        "circa": false,
+        "text": "februari 1984"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3e61acf74f4aed22496d045e5fbb9499617006ff53f5e9124220fa93f9d92cba",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

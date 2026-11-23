@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/ss1945.htm",
+  "title": "Söndagsskola 1945",
+  "summary": "Ett foto av söndagsskolbarn från Högbacka med Nils August Bergstén på Irene Kajanders gårdsplan vid Högbackavägen. Irene Rundell var söndagsskollärarinna.",
+  "topics": [
+    "klassfoton",
+    "söndagsskola",
+    "Högbacka"
+  ],
+  "people": [
+    {
+      "name": "Nils August Bergstén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Irene Rundell",
+      "alternateNames": [],
+      "roles": [
+        "söndagsskollärarinna"
+      ]
+    },
+    {
+      "name": "Irene Kajander",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbackavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5319811,
+        "lng": 22.5272084,
+        "match": "name",
+        "gazetteerName": "högbackavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Söndagsskolfoto",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Högbackavägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "76c1afcbea8d833a236625741cbba364d7ba4a96c12214786c1140b10fe62c69",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

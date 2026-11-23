@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1967lucia.htm",
+  "title": "Nykarlebys Lucia 1967: Gurli Knuts med tärnorna Klara Mårtens och Yvonne Dahlbo",
+  "summary": "Nykarlebys Lucia 1967 var Gurli Knuts med tärnorna Klara Mårtens och Yvonne Dahlbo. Tidningstext om luciatåget från övningsskolan och julspelet Stjärngossarna av J. L. Birck. Rådmännen förkunnade julfriden.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Gurli Knuts",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Klara Mårtens",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Yvonne Dahlbo",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Övningsskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [
+        "Gurli Knuts"
+      ],
+      "places": [
+        "Övningsskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "96f09232c2b2982f92a5656af92436c0f21abe6336a1a556bc0af058d87c1889",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

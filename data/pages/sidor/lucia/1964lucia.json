@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1964lucia.htm",
+  "title": "Nykarlebys Lucia 1964: Anna-Lisa Söderlund med tärnorna Britt-Marie Eklund och Viveca Lundqvist",
+  "summary": "Nykarlebys Lucia 1964 var Anna-Lisa Söderlund med tärnorna Britt-Marie Eklund och Viveca Lundqvist. Tidningstext om hur den gamla luciatraditionen återupplivades. Omkring två tusen åskådare såg Lucian komma i schäs till torget.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Anna-Lisa Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Britt-Marie Eklund",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Viveca Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariets folkskola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "people": [
+        "Anna-Lisa Söderlund"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e0b367f587bb44e8cda093ad8178f5666d91c6406be2c7e098daafcd98e90b47",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

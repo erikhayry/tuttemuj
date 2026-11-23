@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1993lucia.htm",
+  "title": "Nykarlebys Lucia 1993: Maria Westerlund med tärnorna Anna Knutar och Linda Cederström",
+  "summary": "Nykarlebys Lucia 1993 var Maria Westerlund med tärnorna Anna Knutar och Linda Cederström. Tidningstext om lucia i Miss World-krona. Tåget startade från Hagalunds pensionärscenter.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Maria Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Anna Knutar",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Linda Cederström",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hagalund pensionärscenter",
+      "kind": "building",
+      "alternateNames": [
+        "Hagalund"
+      ]
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1993,
+        "circa": false
+      },
+      "people": [
+        "Maria Westerlund"
+      ],
+      "places": [
+        "Hagalund pensionärscenter"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "051711c3b906ae3c563d105c94a3bb20746f398b4fab5a0cc7240a22c72b453a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1958lucia.htm",
+  "title": "Nykarlebys Lucia 1958: Arla Granvik",
+  "summary": "Nykarlebys Lucia 1958 var Arla Granvik. Det blev inget luciatåg detta år eftersom idrottsklubben avsagt sig uppdraget. I stället ordnades en ljusfest i kyrkan där Lucian gick upp till altaret med 16 tärnor.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Arla Granvik",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "people": [
+        "Arla Granvik"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f0ad0eaa2b32b7332ec5ea75de5ab7288fd79148c628c78f6fe471bf412bc16f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

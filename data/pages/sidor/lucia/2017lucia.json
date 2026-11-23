@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2017lucia.html",
+  "title": "Nykarlebys Lucia 2017",
+  "summary": "Nykarlebys Lucia 2017 var Linnéa Granlund med tärnorna Jenni Dahlström, Nora Jakobsson och Minna Wiklund. Tidningstext om hur luciakröningen drog massor av åskådare till torget.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Linnéa Granlund",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Jenni Dahlström",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Nora Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Minna Wiklund",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 2017,
+        "circa": false
+      },
+      "people": [
+        "Linnéa Granlund"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e57ab5a8b4d7e0f674f64a33d1469f871497055569d031f0a5869f29d8322608",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

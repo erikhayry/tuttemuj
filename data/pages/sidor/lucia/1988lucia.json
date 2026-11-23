@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1988lucia.htm",
+  "title": "Nykarlebys Lucia 1988: Marica Jakobsson med tärnorna Yvonne Kronqvist och Carina Stenvall",
+  "summary": "Nykarlebys Lucia 1988 var Marica Jakobsson med tärnorna Yvonne Kronqvist och Carina Stenvall. Tidningstext om hur Lionsbröderna för första gången bar facklorna i stället för skolbarn.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Marica Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Yvonne Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Carina Stenvall",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbackens daghem",
+      "kind": "building",
+      "alternateNames": [
+        "Rummelbacken"
+      ],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1988,
+        "circa": false
+      },
+      "people": [
+        "Marica Jakobsson"
+      ],
+      "places": [
+        "Rummelbackens daghem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "004bc0d9b6ec3823952244055d8834a46982c676ced69ec30573d24f1b999eaf",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

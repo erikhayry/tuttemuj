@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1990lucia.htm",
+  "title": "Nykarlebys Lucia 1990: Diana Envik med tärnorna Nina Julin och Malin Nyman",
+  "summary": "Nykarlebys Lucia 1990 var Diana Envik med tärnorna Nina Julin och Malin Nyman. Tidningstext om perfekt slädföre och hästar från Stall Åminne.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Diana Envik",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Nina Julin",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Malin Nyman",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stall Åminne",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1990,
+        "circa": false
+      },
+      "people": [
+        "Diana Envik"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f4d0b03294068659a3696042e249c6d2733be15cfbe4225b67bb99099a2c0c7b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1981lucia.htm",
+  "title": "Nykarlebys Lucia 1981 Monica Cederberg med tärnorna Stina Solvin och Susanne Lundqvist",
+  "summary": "Nykarlebys Lucia 1981 var Monica Cederberg med tärnorna Stina Solvin och Susanne Lundqvist. Tidningstext om luciatåget i stora snöflingor, där prosten Gunnar Levlin höll talet till Lucia.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Monica Cederberg",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Stina Solvin",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Susanne Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ungdomsgården",
+      "kind": "building",
+      "alternateNames": [
+        "idrotts- och ungdomsgården"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1981,
+        "circa": false
+      },
+      "people": [
+        "Monica Cederberg"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "20093e1feb65b71e08485a68387fa4f0342822f9218e3934b9c57b22e54a74d2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

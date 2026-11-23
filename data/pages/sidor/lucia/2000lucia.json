@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2000lucia.htm",
+  "title": "Nykarlebys Lucia 2000: Caroline Ahlfors med tärnorna Sofia Wik och Marika Renvall",
+  "summary": "Nykarlebys Lucia 2000 var Caroline Ahlfors med tärnorna Sofia Wik och Marika Renvall. Tidningstext om hur ingen snöflinga syntes för första gången på mannaminne. Släden fick gummihjul.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Caroline Ahlfors",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Sofia Wik",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Marika Renvall",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 2000,
+        "circa": false
+      },
+      "people": [
+        "Caroline Ahlfors"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "39aac7195f4d5bdc90097e1243bd920ad5ac0bee2267daf5b227d550008e97b8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

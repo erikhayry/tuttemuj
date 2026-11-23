@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/ss1954.htm",
+  "title": "Frälsningsarméns söndagsskola 1954",
+  "summary": "Ett foto av Frälsningsarméns söndagsskola i Marthagården 1954 med delvis identifierade barn. Huset bakom är Frälsningsarmén i hörnet av Karleborgsgatan och Bankgatan.",
+  "topics": [
+    "klassfoton",
+    "söndagsskola",
+    "Frälsningsarmén"
+  ],
+  "people": [
+    {
+      "name": "Lilian Höglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Marthagården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Söndagsskolfoto",
+      "date": {
+        "year": 1954,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Marthagården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4ee7c144fe9e08e6838c03f27600aef47d2e658357b21cc826b6af6a99b86ad6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

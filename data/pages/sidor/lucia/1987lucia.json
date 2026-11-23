@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1987lucia.htm",
+  "title": "Nykarlebys Lucia 1987: Yvonne Skåtar med tärnorna Lilian Wik och Stina Sandberg",
+  "summary": "Nykarlebys Lucia 1987 var Yvonne Skåtar med tärnorna Lilian Wik och Stina Sandberg. Tidningstext om över 300 personer på torget och en släde med fyra ryttare före.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Yvonne Skåtar",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Lilian Wik",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Stina Sandberg",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbackens daghem",
+      "kind": "building",
+      "alternateNames": [
+        "Rummelbacken"
+      ],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1987,
+        "circa": false
+      },
+      "people": [
+        "Yvonne Skåtar"
+      ],
+      "places": [
+        "Rummelbackens daghem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d5615e452b7f358e0a2152f406a779752f03a1652697369020c33a9eaf62edc7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

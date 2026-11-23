@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2004lucia.htm",
+  "title": "Nykarlebys Lucia 2004: Alexandra Klemets med tärnorna Ida Sofia Häggman och Jannina Holmström",
+  "summary": "Nykarlebys Lucia 2004 var Alexandra Klemets med tärnorna Ida Sofia Häggman och Jannina Holmström. Tidningstext om en snäll häst från Jakobstad som drog lucian till torget.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Alexandra Klemets",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Ida Sofia Häggman",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Jannina Holmström",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 2004,
+        "circa": false
+      },
+      "people": [
+        "Alexandra Klemets"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ca55f2cc4087d5249145e48e85e92bd6710f181eb2b76197534aab20d9e10e4d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

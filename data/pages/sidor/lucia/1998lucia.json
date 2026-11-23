@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1998lucia.htm",
+  "title": "Nykarlebys Lucia 1998: Teresa Sjöholm med tärnorna Jenny Hjulfors och Anette Nyman",
+  "summary": "Nykarlebys Lucia 1998 var Teresa Sjöholm med tärnorna Jenny Hjulfors och Anette Nyman. Tidningstext om snöflingor över lucian och Erkkis häst som drog släden.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Teresa Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Jenny Hjulfors",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Anette Nyman",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1998,
+        "circa": false
+      },
+      "people": [
+        "Teresa Sjöholm"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "46900790e0f9cf84a8836c45d51ad928519ea72a447901a55b31d92b955d5f93",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1982lucia.htm",
+  "title": "Nykarlebys Lucia 1982: Tove Erikslund med tärnorna Annette Fors och Lena Birck",
+  "summary": "Nykarlebys Lucia 1982 var Tove Erikslund med tärnorna Annette Fors och Lena Birck. Tidningstext om rekordpublik på torget. Efter kröningen åkte luciatåget vidare till lucians hemort Jeppo.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Tove Erikslund",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Annette Fors",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Lena Birck",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1982,
+        "circa": false
+      },
+      "people": [
+        "Tove Erikslund"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1452274d415ff0154a87996fe71e2dce68cb0e01a0d4a6fbeae53b14e4bfbabd",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

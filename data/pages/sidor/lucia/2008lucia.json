@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2008lucia.htm",
+  "title": "Nykarlebys Lucia 2008: Sofie Rudnäs och tärnorna Matilda Nyholm och Tanja Nyholm",
+  "summary": "Nykarlebys Lucia 2008 var Sofie Rudnäs med tärnorna Matilda Nyholm och Tanja Nyholm. Tidningstext om hästen Wilmer som drog släden från Hagalund till torget.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Sofie Rudnäs",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Matilda Nyholm",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Tanja Nyholm",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hagalund pensionärscenter",
+      "kind": "building",
+      "alternateNames": [
+        "Hagalund"
+      ]
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 2008,
+        "circa": false
+      },
+      "people": [
+        "Sofie Rudnäs"
+      ],
+      "places": [
+        "Hagalund pensionärscenter"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9ef2a1e41b41b5c0f5b0960b3b810020cef4f5cc340b17efea74f71edbec6697",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

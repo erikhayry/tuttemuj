@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kvbygg/00menykv.htm",
+  "title": "Meny Kraftverksbygget 1984",
+  "summary": "Meny över bilder från kraftverksbygget 1984–85: fångdammen, schakt, vårflod, Floraparken och stadskvarnen.",
+  "topics": [
+    "kraftverket",
+    "meny"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "74a191d2e7435e0bab51f51d4d511b1bcf92485b9ac146f9dd5c2eaa45c2a911",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

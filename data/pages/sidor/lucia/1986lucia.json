@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1986lucia.htm",
+  "title": "Nykarlebys Lucia 1986: Carina Hägg med tärnorna Ann-Chatrine Forsblom och Monica Ingo",
+  "summary": "Nykarlebys Lucia 1986 var Carina Hägg med tärnorna Ann-Chatrine Forsblom och Monica Ingo. Tidningstext om över 400 åskådare vid kröningen. På grund av snöbrist hade släden försetts med hjul.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Carina Hägg",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Ann-Chatrine Forsblom",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Monica Ingo",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbackens daghem",
+      "kind": "building",
+      "alternateNames": [
+        "Rummelbacken"
+      ],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1986,
+        "circa": false
+      },
+      "people": [
+        "Carina Hägg"
+      ],
+      "places": [
+        "Rummelbackens daghem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6612305d4c70a61a185e83e9c7661690b6ca577845446fbd2e9f63e803c10cd2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

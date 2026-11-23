@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/se1958.htm",
+  "title": "Nykarleby seminarium",
+  "summary": "Ett foto av seminariet vars årtal är oklart: titeln säger 1958–59 men bildtexten 1908. Sidan länkar till hela bilden.",
+  "topics": [
+    "klassfoton",
+    "seminariet"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby seminarium"
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b0fab409fa4a1fccae80c780c779cb4fbb4be080ee0a41314869a6f884278369",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1955lucia.htm",
+  "title": "Nykarlebys Lucia 1955: Judit Rönnholm",
+  "summary": "Nykarlebys Lucia 1955 var Judit Rönnholm. Tidningstext om luciafirandet: tåg från Sockenstugan via De Gamlas Hem och Västra Esplanadgatan till torget och bal på Karleborg. Arrangör var Nykarleby Idrottsklubb.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Judit Rönnholm",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1955,
+        "circa": false
+      },
+      "people": [
+        "Judit Rönnholm"
+      ],
+      "places": [
+        "Sockenstugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f72030294d2a99a359d0f60ec3b4d1ba0fcc2c9f21b7106617768ae404c8b4a9",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/2007lucia.htm",
+  "title": "Nykarlebys Lucia 2007: Lucia Hanna Särkiniemi med tärnorna Nadja Romar och Noora Flen",
+  "summary": "Nykarlebys Lucia 2007 var Lucia Hanna Särkiniemi med tärnorna Nadja Romar och Noora Flen. Tidningstext om luciatåget där släden försetts med små hjul eftersom det inte fanns slädföre.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Lucia Hanna Särkiniemi",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Nadja Romar",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Noora Flen",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 2007,
+        "circa": false
+      },
+      "people": [
+        "Lucia Hanna Särkiniemi"
+      ],
+      "places": [
+        "Nykarleby torg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "10316c438735389313823ab3818226a874bed5517c05265d24022a5f57d0b851",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

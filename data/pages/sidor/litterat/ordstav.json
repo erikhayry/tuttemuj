@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/litterat/ordstav.htm",
+  "title": "Ordstäv och talesätt",
+  "summary": "Samling av ordstäv och talesätt från Nykarleby, bland annat uttrycket \"skriv opp på Gyllenberg\" och dialektala talesätt. Besökarna uppmanas komplettera.",
+  "topics": [
+    "ordstäv",
+    "dialekt"
+  ],
+  "people": [
+    {
+      "name": "Alfred Gyllenberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Cay Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Herman Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ],
+      "description": "Bonde på Juthbacka hemman 1915–1938."
+    },
+    {
+      "name": "Folke Sandberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 6",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 6",
+      "geo": {
+        "lat": 63.5228929,
+        "lng": 22.5293227,
+        "match": "address",
+        "gazetteerName": "bankgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Herman Erikssons tid som bonde på Juthbacka",
+      "date": {
+        "year": 1915,
+        "circa": false
+      },
+      "people": [
+        "Herman Eriksson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac8fefb4a515411ad4910a779fd84270dbfb8adb36e93a8af0996a070be7fce0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

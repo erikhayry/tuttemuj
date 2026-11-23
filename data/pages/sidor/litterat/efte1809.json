@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/litterat/efte1809.htm",
+  "title": "Nykarleby i \"Efter 1809\"",
+  "summary": "En förteckning över sidor i boken Efter 1809 där Nykarleby förekommer, ordnade efter årtal från 1801 till 1980, bland annat om Brunnsholmarna, Kuddnäs, stadskvarnen och 300-årsjubileet 1920.",
+  "topics": [
+    "litteratur",
+    "Efter 1809",
+    "Nykarleby"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brunnsholmarna rivs",
+      "date": {
+        "year": 1892,
+        "circa": false,
+        "text": "1892–93"
+      },
+      "people": [],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Stadens 300-årsjubileum",
+      "date": {
+        "year": 1920,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Bankskandal i Nykarleby Aktiebank",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e129dcd43028e405dfb6b88c74c5b98fc51410efde35b33472fffdff4b85fae2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:27.041Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1966lucia.htm",
+  "title": "Nykarlebys Lucia 1966: Elisabeth Höglund",
+  "summary": "Nykarlebys Lucia 1966 var Elisabeth Höglund. Tidningstext om luciatåget i kallt väder, där J. L. Bircks julspel fick hållas inomhus. Arbetarinstitutet tog initiativet.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Elisabeth Höglund",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "people": [
+        "Elisabeth Höglund"
+      ],
+      "places": [
+        "De gamlas hem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fb8851d153544247e07ed32028cae236f65dff858506281810c2dffb90f9d1f4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

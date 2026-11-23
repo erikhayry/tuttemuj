@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1965lucia.htm",
+  "title": "Nykarlebys Lucia 1965: Eva-Stina Boman",
+  "summary": "Nykarlebys Lucia 1965 var Eva-Stina Boman. Tidningstext om luciatåget som startade vid övningsskolan och slutade med program på skrinnskobanan. Omkring 500 personer deltog.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Eva-Stina Boman",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Övningsskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [
+        "Eva-Stina Boman"
+      ],
+      "places": [
+        "Övningsskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac804359ad690238625ec92dd272d36512332c737eb9e1eaf329309ad6fd43ae",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1957lucia.htm",
+  "title": "Nykarlebys Lucia 1957: Gea Hägg",
+  "summary": "Nykarlebys Lucia 1957 var Gea Hägg. Tidningstext om luciavalet bland fem kandidater, tåget från Sockenstugan längs Kyrkogatan och balen på Karleborg. Lucian kom från Kovjoki.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Gea Hägg",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [
+        "Gea Hägg"
+      ],
+      "places": [
+        "Sockenstugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "740e9d2042f2a5ce94bce09bf2affa61444239bcb83e96bc8b3fd5813a56f244",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

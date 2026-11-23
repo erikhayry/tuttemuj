@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1980lucia.htm",
+  "title": "Nykarlebys Lucia 1980 Maria Litens",
+  "summary": "Nykarlebys Lucia 1980 var Maria Litens. Tidningstext om en jämn omröstning där Maria Litens, 16 år från Monäs, blev Lucia med 672 röster. Tåget gick från Rummelbacken till torget.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Maria Litens",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Munsalagården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1980,
+        "circa": false
+      },
+      "people": [
+        "Maria Litens"
+      ],
+      "places": [
+        "Rummelbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f7083e91bbaed43c0ba7d5d8a6f4803da1f45345dca4fdd3df83defd42cc4448",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

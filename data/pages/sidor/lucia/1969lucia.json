@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1969lucia.htm",
+  "title": "Nykarlebys Lucia 1969: Inger Sundqvist med tärnorna Christel Backman och Gretal Engstrand",
+  "summary": "Nykarlebys Lucia 1969 var Inger Sundqvist med tärnorna Christel Backman och Gretal Engstrand. Tidningstext om lucia från Munsala och firandet utomhus från övningsskolans altan.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Inger Sundqvist",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Christel Backman",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Gretal Engstrand",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Övningsskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1969,
+        "circa": false
+      },
+      "people": [
+        "Inger Sundqvist"
+      ],
+      "places": [
+        "Övningsskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ae72bb8f27b2cd7dfec6c47e88c7940b96f6c25d6d9638b41bc76933cea85ee8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}

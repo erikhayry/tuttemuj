@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/lucia/1989lucia.htm",
+  "title": "Nykarlebys Lucia 1989: Belinda Backström med tärnorna Monica Emet och Nancy Jakobsson",
+  "summary": "Nykarlebys Lucia 1989 var Belinda Backström med tärnorna Monica Emet och Nancy Jakobsson. Tidningstext om hur kylan flyttade kröningen från torget till Idrottsgården.",
+  "topics": [
+    "Lucia",
+    "jul",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Belinda Backström",
+      "alternateNames": [],
+      "roles": [
+        "Nykarlebys Lucia"
+      ]
+    },
+    {
+      "name": "Monica Emet",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    },
+    {
+      "name": "Nancy Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "tärna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rummelbackens daghem",
+      "kind": "building",
+      "alternateNames": [
+        "Rummelbacken"
+      ],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Idrottsgården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebys Lucia kröns",
+      "date": {
+        "year": 1989,
+        "circa": false
+      },
+      "people": [
+        "Belinda Backström"
+      ],
+      "places": [
+        "Rummelbackens daghem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0c3ac915b7216d2e3e002bbb4423d198935f9800bc612bef9c5e6541515cef4c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T14:34:47.244Z"
+}
