@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/sa1965-4.htm",
+  "title": "Nykarleby Samskolas klass 4 1965–66",
+  "summary": "Klassfoto från Nykarleby Samskolas klass 4 1965–66 med namnlista över eleverna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola"
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1965,
+        "circa": false,
+        "text": "1965–66"
+      },
+      "people": [],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "03292e431dab68506ec4b815a43ee91d8e4ac1d76bf94b7199c55f1847ede816",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

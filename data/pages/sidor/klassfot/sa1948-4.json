@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/sa1948-4.htm",
+  "title": "Nykarleby samskolas klass 4 1948",
+  "summary": "Klassfoto från Nykarleby samskolas klass 4 1948 med namnlista över eleverna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [
+    {
+      "name": "Ragnar Storå",
+      "alternateNames": [],
+      "roles": [
+        "klassföreståndare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola"
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1948,
+        "circa": false,
+        "text": "1948"
+      },
+      "people": [],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bbd4aa88d2892d06913c21eb2344cb1f50d616dc3630f2402718849ad6827240",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

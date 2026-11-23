@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/sa1931-.htm",
+  "title": "Nykarleby samskolas klass ? 1931–32",
+  "summary": "Klassfoto från Nykarleby samskolas klass ? 1931–32 med namnlista över eleverna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [
+    {
+      "name": "Ingrid Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola"
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "1931–32"
+      },
+      "people": [],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7ee1e3426c470ba85960b19e9103c71978dca40b16cff7e11dee2fb3ebeeb7be",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

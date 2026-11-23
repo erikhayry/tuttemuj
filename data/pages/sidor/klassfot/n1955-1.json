@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/n1955-1.htm",
+  "title": "Normalskolans klass 1 1955–56",
+  "summary": "Klassfoto från Normalskolans klass 1 1955–56 med namnlista över eleverna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1955,
+        "circa": false,
+        "text": "1955–56"
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "21d1ed73206cf13008991c1fd231c4f630489a31488dd3cadd2ac2e942eee010",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

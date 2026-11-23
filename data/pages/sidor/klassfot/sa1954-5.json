@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/sa1954-5.htm",
+  "title": "Nykarleby samskolas klass 5 1954–55",
+  "summary": "Klassfoto från Nykarleby samskolas klass 5 1954–55 med namnlista över eleverna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samskola"
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1954,
+        "circa": false,
+        "text": "1954–55"
+      },
+      "people": [],
+      "places": [
+        "Samskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "17f8fcf5a133cf15dd2f3b2670b812a065affe84c3200f31e612c7da79b7390e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/n1960-1.htm",
+  "title": "Normalskolans klass 1 1960–61",
+  "summary": "Foto av Normalskolans klass 1 1960–61 med statistik över var de 32 eleverna bor i dag.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1960,
+        "circa": false,
+        "text": "1960–61"
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ea69eb8fcf734b692159770770b0657a76ddf6804560cf5d19273d0b2381affb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

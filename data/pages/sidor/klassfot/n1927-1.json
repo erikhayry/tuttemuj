@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/n1927-1.htm",
+  "title": "Normalskolans klass 1 1927–28",
+  "summary": "Klassfoto från Normalskolans klass 1 1927–28 med namnlista över eleverna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [
+    {
+      "name": "Gundel Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ],
+      "description": "Överlärarens dotter som efterträdde sin mor som lärarinna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1927,
+        "circa": false,
+        "text": "1927–28"
+      },
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1d73f5ebab368c9ab8b7545ee20f8069cdc7f80da7e7cc1258582dc48c3bddd8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}

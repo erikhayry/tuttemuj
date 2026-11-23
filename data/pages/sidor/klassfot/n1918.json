@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/n1918.html",
+  "title": "Normalskolan, odaterat klassfoto",
+  "summary": "Ett odaterat inklistrat klassfoto, troligen från Normalskolan, utan kända namn. Den som skickade in bilden hoppas att någon kan identifiera personerna.",
+  "topics": [
+    "klassfoton",
+    "skolor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "2c0e5a1870e05e6bab416b30e29ccfa225c1eea584c78839798bcbc5d60adbf1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:59:03.416Z"
+}
