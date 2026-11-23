@@ -105,6 +105,14 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "jouperfabriken",
+      "joupers"
+    ],
+    "detail": "\"Joupers fabrik\" on https://www.nykarlebyvyer.nu/sidor/texter/upp/jouperf.htm matches jouperfabriken, joupers"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "juthas",
       "juthas-slagfalt"
     ],
@@ -157,14 +165,6 @@
       "stadsbiblioteket"
     ],
     "detail": "\"Nykarleby stadsbibliotek\" on https://www.nykarlebyvyer.nu/sidor/texter/pers/jernstrom_a37.html matches nykarleby-stadsbibliotek, stadsbiblioteket"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "jouperfabriken",
-      "joupers"
-    ],
-    "detail": "\"Jouperfabriken\" on https://www.nykarlebyvyer.nu/sidor/texter/pers/jouppe59.htm matches jouperfabriken, joupers"
   },
   {
     "reason": "mention-matches-several",
@@ -309,6 +309,14 @@
       "stadsbrunnen"
     ],
     "detail": "\"Stadsbrunnen\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/brostu2010.html matches kyrkbrunnen, stadsbrunnen"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "nalon",
+      "nalorn"
+    ],
+    "detail": "\"Nålön\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/fellmaneb.htm matches nalon, nalorn"
   },
   {
     "reason": "mention-matches-several",
@@ -528,6 +536,14 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "residenshuset",
+      "schantzka-palatset"
+    ],
+    "detail": "\"Residenshuset\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/semiuthu.htm matches residenshuset, schantzka-palatset"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "kisors-gard",
       "p-a-lybecks-gard"
     ],
@@ -589,6 +605,14 @@
       "skolgatan"
     ],
     "detail": "\"Gustav Adolfsgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm matches gustaf-adolfsgatan, gustav-adolfsgatan, skolgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "hagagatan",
+      "prastvagen"
+    ],
+    "detail": "\"Hagagatan\" on https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm matches hagagatan, prastvagen"
   },
   {
     "reason": "mention-matches-several",
@@ -687,6 +711,14 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "alon",
+      "alorn"
+    ],
+    "detail": "\"Alörn\" on https://www.nykarlebyvyer.nu/sidor/texter/fartyg/alexande.htm matches alon, alorn"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "hugos-lindo",
       "hugos-lindon"
     ],
@@ -715,6 +747,32 @@
       "radhusboulevarden"
     ],
     "detail": "\"Rådhusboulevarden\" on https://www.nykarlebyvyer.nu/sidor/texter/diverse/siegfrids.html matches bankgatan, radhusboulevarden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "nybron",
+      "storbron"
+    ],
+    "detail": "\"Storbron\" on https://www.nykarlebyvyer.nu/sidor/texter/diverse/tagvarni.htm matches nybron, storbron"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "esplanaden",
+      "ostra-esplanaden",
+      "topeliusesplanaden",
+      "vastra-esplanadgatan"
+    ],
+    "detail": "\"Topeliusesplanaden\" on https://www.nykarlebyvyer.nu/sidor/texter/diverse/topeespl.html matches esplanaden, ostra-esplanaden, topeliusesplanaden, vastra-esplanadgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "esplanaden",
+      "radhusboulevarden"
+    ],
+    "detail": "\"Esplanaden\" on https://www.nykarlebyvyer.nu/sidor/texter/diverse/vandring120528.html matches esplanaden, radhusboulevarden"
   },
   {
     "reason": "mention-matches-several",
@@ -777,6 +835,14 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "museigarden",
+      "tullhuset"
+    ],
+    "detail": "\"museigården\" on https://www.nykarlebyvyer.nu/sidor/minnesst/hildaols.htm matches museigarden, tullhuset"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "frihetsmonumentet",
       "hjaltegraven"
     ],
@@ -793,10 +859,26 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "aminne",
+      "aminne-gard"
+    ],
+    "detail": "\"åminne gård\" on https://www.nykarlebyvyer.nu/sidor/minnesst/ragardsh.htm matches aminne, aminne-gard"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "apoteket",
       "apoteksgarden"
     ],
     "detail": "\"apoteksgården\" on https://www.nykarlebyvyer.nu/sidor/minnesst/vmalmber.htm matches apoteket, apoteksgarden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "idrotts-och-ungdomsgarden",
+      "ungdomsgarden"
+    ],
+    "detail": "\"Ungdomsgården\" on https://www.nykarlebyvyer.nu/sidor/lucia/1971lucia.htm matches idrotts-och-ungdomsgarden, ungdomsgarden"
   },
   {
     "reason": "mention-matches-several",
@@ -960,5 +1042,71 @@
       "nykarleby-jarnvagsstation"
     ],
     "detail": "\"Stationshuset\" on https://www.nykarlebyvyer.nu/sidor/karta/statomra.htm matches jarnvagsstationen, nykarleby-jarnvagsstation"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "westerlunds-snickeri",
+      "westwood"
+    ],
+    "detail": "\"Westerlunds snickeri\" on https://www.nykarlebyvyer.nu/sidor/jvgfors/83rivna.htm matches westerlunds-snickeri, westwood"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "juthas",
+      "juthas-slagfalt",
+      "juutas"
+    ],
+    "detail": "\"Juthas slagfält\" on https://www.nykarlebyvyer.nu/sidor/illustra/ffitjuth.htm matches juthas, juthas-slagfalt, juutas"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "juthas",
+      "juthas-monument"
+    ],
+    "detail": "\"Juthas monument\" on https://www.nykarlebyvyer.nu/sidor/illustra/juthas_lo.html matches juthas, juthas-monument"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "grastenskvarnen",
+      "nykarleby-kvarn",
+      "stadskvarnen"
+    ],
+    "detail": "\"Stadskvarnen\" on https://www.nykarlebyvyer.nu/sidor/illustra/kvarneps.htm matches grastenskvarnen, nykarleby-kvarn, stadskvarnen"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "kuddnas",
+      "kuddnas-museum"
+    ],
+    "detail": "\"Kuddnäs museum\" on https://www.nykarlebyvyer.nu/sidor/genea/topeanta.html matches kuddnas, kuddnas-museum"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "kyrkoby",
+      "leppo-by"
+    ],
+    "detail": "\"Leppo by\" on https://www.nykarlebyvyer.nu/sidor/english/E_NYKARL.HTM matches kyrkoby, leppo-by"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "residenshuset",
+      "seminariets-kosthall"
+    ],
+    "detail": "\"Seminariets kosthåll\" on https://www.nykarlebyvyer.nu/sidor/efterlys/jaaskela.htm matches residenshuset, seminariets-kosthall"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "normalskolans-vedlider",
+      "normens-vedlider"
+    ],
+    "detail": "\"Normalskolans vedlider\" on https://www.nykarlebyvyer.nu/sidor/46/01glass.html matches normalskolans-vedlider, normens-vedlider"
   }
 ]
