@@ -9,61 +9,23 @@
  * Needs SUPABASE_URL, SUPABASE_SECRET_KEY and VOYAGE_API_KEY. Question embeddings are cached in
  * .cache/, so only new or changed questions call Voyage. No Claude call is made.
  */
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import { createClient } from "@supabase/supabase-js";
-import type { embed } from "@tuttemuj/embeddings";
-import { embed as voyageEmbed } from "@tuttemuj/embeddings";
-import { EMBEDDING_MODEL, EvalSet } from "@tuttemuj/schema";
+import { mkdirSync, writeFileSync } from "node:fs";
 import { z } from "zod";
 import { type Score, score, summarise } from "../eval.ts";
-import { supabaseRetrieve } from "../retrieve.ts";
+import { cacheDir, cachedRetrieval, loadCases, readJson } from "./support.ts";
 
-const root = fileURLToPath(new URL("../../../../", import.meta.url));
-const cacheDir = `${root}.cache`;
-const vectorsFile = `${cacheDir}/eval-embeddings.json`;
 const lastFile = `${cacheDir}/eval-last.json`;
-
-const env = z
-  .object({
-    SUPABASE_URL: z.url(),
-    SUPABASE_SECRET_KEY: z.string().min(20),
-    VOYAGE_API_KEY: z.string().min(20),
-  })
-  .parse(process.env);
-
 const args = process.argv.slice(2);
 const verbose = args.includes("--verbose");
 const langArg = args.includes("--lang") ? args[args.indexOf("--lang") + 1] : undefined;
 
-const cases = EvalSet.parse(
-  JSON.parse(readFileSync(`${root}data/eval/questions.json`, "utf8")),
-).filter((c) => langArg === undefined || c.lang === langArg);
-
-const readJson = (file: string): unknown =>
-  existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : undefined;
-const vectors = new Map<string, number[]>(
-  Object.entries(z.record(z.string(), z.array(z.number())).catch({}).parse(readJson(vectorsFile))),
-);
-
-/** Voyage, but a question asked before comes from the cache. */
-const cachedEmbed: typeof embed = async (key, texts, inputType) => {
-  const cacheKey = `${EMBEDDING_MODEL}|${texts[0]}`;
-  const hit = vectors.get(cacheKey);
-  if (hit && texts.length === 1) return { vectors: [hit], tokens: 0 };
-  const result = await voyageEmbed(key, texts, inputType);
-  if (texts.length === 1 && result.vectors[0]) {
-    vectors.set(cacheKey, result.vectors[0]);
-    mkdirSync(cacheDir, { recursive: true });
-    writeFileSync(vectorsFile, JSON.stringify(Object.fromEntries(vectors)));
-  }
-  return result;
-};
-
-const db = createClient(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY, {
-  auth: { persistSession: false },
-});
-const retrieve = supabaseRetrieve(db, env.VOYAGE_API_KEY, cachedEmbed);
+const all = loadCases().filter((c) => langArg === undefined || c.lang === langArg);
+// A question nobody has marked a good page for yet cannot be scored.
+const cases = all.filter((c) => c.relevant.length > 0);
+if (cases.length < all.length) {
+  console.log(`Skipping ${all.length - cases.length} questions with no good page marked yet.\n`);
+}
+const { retrieve } = cachedRetrieval();
 
 const pct = (x: number) => `${Math.round(x * 100)}%`;
 const scores: Score[] = [];
@@ -82,7 +44,9 @@ for (const c of cases) {
   if (verbose) {
     const wanted = new Set<string>(c.relevant);
     for (const [i, f] of facts.entries()) {
-      console.log(`     ${i + 1}. ${wanted.has(f.sourceUrl) ? "●" : "○"} ${f.pageTitle}`);
+      console.log(
+        `     ${i + 1}. ${wanted.has(f.sourceUrl) ? "●" : "○"} ${f.pageTitle}\n          ${f.sourceUrl}`,
+      );
     }
   }
 }
