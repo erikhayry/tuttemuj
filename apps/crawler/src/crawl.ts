@@ -92,7 +92,7 @@ export async function runCrawl(deps: CrawlDeps): Promise<CrawlRun> {
     startedAt,
     finishedAt: now().toISOString(),
     ...run,
-    pendingAfter: frontier.count("pending"),
+    pendingAfter: frontier.pendingCount(),
   };
 }
 

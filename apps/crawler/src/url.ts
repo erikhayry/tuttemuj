@@ -2,8 +2,12 @@ import { SOURCE_ORIGIN, type SourceUrl } from "@tuttemuj/schema";
 
 const SITE_HOSTS = new Set(["www.nykarlebyvyer.nu", "nykarlebyvyer.nu"]);
 const PAGE_EXT = /\.html?$/i;
-/** Site pages that are not content (error pages, frame chrome). */
-const IGNORED_PATHS = [/^\/notfound\.html$/i];
+/** Site pages we do not crawl: error pages, frame chrome and the old news archive (old<YYMM>.html). */
+const IGNORED_PATHS = [/^\/notfound\.html$/i, /^\/sidor\/nyheter\/old\d+\.html?$/i];
+
+/** False for URLs we no longer crawl, even if they are already in the frontier. */
+export const isCrawlable = (url: SourceUrl): boolean =>
+  !IGNORED_PATHS.some((re) => re.test(new URL(url).pathname));
 
 /**
  * Resolve an href against its page and normalize it to a canonical source URL.

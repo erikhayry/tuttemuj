@@ -24,7 +24,7 @@ pnpm --filter @tuttemuj/crawler crawl   # fetch the next batch
 
 Pages are crawled in priority order, with place-related sections first (houses, street names, maps, walks). See `apps/crawler/src/url.ts`. Links found on each fetched page are added to the frontier.
 
-The site is crawled out, so each run first re-fetches the entry page (`ENTRY_URL`, default `/sidor/index2.htm`), where new content is posted. Links on it that are not yet in the frontier are added and crawled in the same run. If the entry page cannot be fetched, the run carries on with the pending pages.
+The site is crawled out, so each run first re-fetches the entry page (`ENTRY_URL`, default `/sidor/index2.htm`), where new content is posted. Links on it that are not yet in the frontier are added and crawled in the same run. The old news archive (`/sidor/nyheter/old<YYMM>.html`) is no longer crawled, even where its URLs are already in the frontier. If the entry page cannot be fetched, the run carries on with the pending pages.
 
 Settings come from environment variables: `CRAWL_LIMIT`, `CRAWL_DELAY_MS` (minimum 1000), `CRAWL_TIMEOUT_MS`, `CRAWL_MAX_ATTEMPTS`, `ENTRY_URL` and `USER_AGENT`.
 

@@ -125,4 +125,15 @@ describe("runCrawl", () => {
     expect(frontier.get(ENTRY)).toBeUndefined();
     expect(frontier.get(`${BASE}/texter/hus/a.htm`)?.status).toBe("fetched");
   });
+
+  it("does not crawl pending pages from the old news archive", async () => {
+    const { deps, frontier } = await setup(10);
+    const archive = `${BASE}/nyheter/old2502.html`;
+    frontier.add(archive);
+    const run = await runCrawl(deps);
+    expect(frontier.get(archive)).toMatchObject({ status: "pending", attempts: 0 });
+    expect(run.attempted).toBe(2);
+    // broken, b and gone; the archive page is not counted.
+    expect(run.pendingAfter).toBe(3);
+  });
 });
