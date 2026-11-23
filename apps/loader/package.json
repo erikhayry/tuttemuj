@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "typecheck": "tsc -p .",
-    "sync": "tsx --env-file-if-exists=../../.env src/cli/sync.ts"
+    "sync": "tsx --env-file-if-exists=../../.env src/cli/sync.ts",
+    "embed": "tsx --env-file-if-exists=../../.env src/cli/embed.ts",
+    "search": "tsx --env-file-if-exists=../../.env src/cli/search.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.2",
