@@ -28,7 +28,15 @@
       "name": "Kovjoki järnvägsstation",
       "kind": "building",
       "alternateNames": [],
-      "description": "Anslöt både den smal- och normalspåriga järnvägen till stambanan. Nedlagd."
+      "description": "Anslöt både den smal- och normalspåriga järnvägen till stambanan. Nedlagd.",
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

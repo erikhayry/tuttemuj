@@ -40,7 +40,15 @@
       "kind": "building",
       "alternateNames": [
         "Kovjoki station"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -930,7 +930,7 @@
   {"name":"kovjoki resår","kind":"building","source":"manual","note":"Leaf-spring works in Kovjoki.","missingLocation":"added-by-hand"},
   {"name":"kovjoki riksväg","kind":"street","source":"nkby-2018","postcode":"66930"},
   {"name":"kovjoki skola","kind":"building","source":"manual","alternateNames":["kovjoki folkskola"],"missingLocation":"added-by-hand"},
-  {"name":"kovjoki station","kind":"building","source":"manual","alternateNames":["kovjoki järnvägsstation"],"note":"Railway station in Kovjoki.","missingLocation":"added-by-hand"},
+  {"name":"kovjoki station","kind":"building","source":"manual","alternateNames":["kovjoki järnvägsstation"],"note":"Railway station in Kovjoki.","location":{"lat":63.5240598,"lng":22.6970429}},
   {"name":"kovjokivägen","kind":"street","source":"nkby-2018","postcode":"66900","location":{"lat":63.52817249999999,"lng":22.6088869}},
   {"name":"kovjokivägen 1","kind":"address","source":"nkby-2018","postcode":"66900","location":{"lat":63.5214057,"lng":22.542593}},
   {"name":"kraftgränd","kind":"street","source":"nkby-2018","postcode":"66850"},

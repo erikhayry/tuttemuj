@@ -13,7 +13,15 @@
       "name": "Kovjoki järnvägsstation",
       "kind": "building",
       "alternateNames": [],
-      "description": "Platsen där vagnarna fotograferades."
+      "description": "Platsen där vagnarna fotograferades.",
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],
