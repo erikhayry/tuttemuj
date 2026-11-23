@@ -33,7 +33,7 @@ env -u ANTHROPIC_API_KEY claude -p \
   "/extract-pages $COUNT. This is an unattended run: do not ask questions, and do not run data:publish (the wrapper script does that)." \
   --permission-mode acceptEdits \
   --allowedTools "Read" "Write" "Edit" "Bash(pnpm:*)" \
-  --disallowedTools "Bash(pnpm data:publish:*)" "Bash(pnpm * sync:*)" "Bash(pnpm * embed:*)" "Bash(git push:*)"
+  --disallowedTools "Bash(pnpm data:publish:*)" "Bash(pnpm * sync*)" "Bash(pnpm * embed*)" "Bash(git push:*)"
 
 # Commit the extract results first, so a failed publish never loses them.
 git add data ":!data/frontier.jsonl" ":!data/runs.jsonl"
