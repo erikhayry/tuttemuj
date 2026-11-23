@@ -1,0 +1,140 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/alku.htm",
+  "title": "Barkskeppet Alku",
+  "summary": "Barkskeppet Alku byggdes 1857 på Alörn och ägdes av Nykarleby stads Warfs Bolag. Sidan nämner skeppets kaptener, visar en målning och en modell och berättar om en släktings modellbygge och en sjöman i familjen Holmström.",
+  "topics": [
+    "barkskepp",
+    "skeppsbyggeri",
+    "sjöfart",
+    "modellbygge"
+  ],
+  "people": [
+    {
+      "name": "M. Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "skeppsbyggmästare"
+      ]
+    },
+    {
+      "name": "C. P. Löfberg",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Ernst August Henelius",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Gabriel Wilhelm Aspegren d.y.",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Anders Gustaf Ahlström",
+      "alternateNames": [],
+      "roles": [
+        "befälhavare"
+      ]
+    },
+    {
+      "name": "Johan Mattsson Holmström",
+      "alternateNames": [],
+      "birthYear": 1848,
+      "deathYear": 1931,
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Folke Holmström",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [
+        "Alön"
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Barkskeppet Alku byggs på Alörn",
+      "date": {
+        "year": 1857,
+        "circa": false
+      },
+      "people": [
+        "M. Henriksson"
+      ],
+      "places": [
+        "Alörn"
+      ]
+    },
+    {
+      "title": "C. P. Löfberg för Alku",
+      "date": {
+        "year": 1857,
+        "endYear": 1860,
+        "circa": false,
+        "text": "till 1860"
+      },
+      "people": [
+        "C. P. Löfberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ernst August Henelius för Alku",
+      "date": {
+        "year": 1860,
+        "endYear": 1869,
+        "circa": false,
+        "text": "sedan till 1869"
+      },
+      "people": [
+        "Ernst August Henelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7c6085a6ac66d53b819ff6597b413f12969592a73fcdc1202efd5bf8105bca93",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

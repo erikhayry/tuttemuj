@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/topeespl.html",
+  "title": "Skrivelse om namnbytet till Topeliusesplanaden",
+  "summary": "Skrivelse till stadsstyrelsen från 1989 där Markku Ranta och Bo Kronqvist föreslår att stadens huvudgata, Östra och Västra Esplanadgatan, får namnet Topeliusesplanaden. Namnet fastställdes samma år i stadsplan nr 62.",
+  "topics": [
+    "gatunamn",
+    "Topelius",
+    "stadsplan",
+    "namnbyte"
+  ],
+  "people": [
+    {
+      "name": "Markku Ranta",
+      "alternateNames": [],
+      "roles": [
+        "väckte idén"
+      ]
+    },
+    {
+      "name": "Bo Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Östra Esplanadgatan",
+        "Västra Esplanadgatan",
+        "Esplanaden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthbackabron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skrivelse om namnbytet till Topeliusesplanaden lämnas till stadsstyrelsen",
+      "date": {
+        "year": 1989,
+        "month": 3,
+        "day": 9,
+        "circa": false,
+        "text": "Nykarleby den 9.3 1989"
+      },
+      "people": [
+        "Markku Ranta",
+        "Bo Kronqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsplan nr 62 fastställs och namnet Topeliusesplanaden införs",
+      "date": {
+        "year": 1989,
+        "month": 11,
+        "day": 13,
+        "circa": false,
+        "text": "13.11.1989"
+      },
+      "people": [],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c84e71d1f6f892a202873a4871046f8d9958144503e59c9036531a22d7be9c45",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/alexande.htm",
+  "title": "Barkskeppet Alexander II av Nykarleby",
+  "summary": "Barkskeppet Alexander II på 263 läster sjösattes 1856 vid Hammarinska varvet på Alörn och ägdes av rådmännen Hammarin och Berger samt kaptenen Jakob Kerrman. Sidan visar en oljemålning från 1860 av fartyget.",
+  "topics": [
+    "barkskepp",
+    "skeppsbyggeri",
+    "sjöfart",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Ad. Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "skeppsägare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "skeppsägare"
+      ]
+    },
+    {
+      "name": "Jakob Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "kofferdikapten"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll färgbilden"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hammarinska varvet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [
+        "Alön"
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Barkskeppet Alexander II sjösätts vid Hammarinska varvet",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Hammarinska varvet",
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Oljemålning av Alexander II under kapten Kerrman",
+      "date": {
+        "year": 1860,
+        "month": 5,
+        "day": 18,
+        "circa": false,
+        "text": "18 maj 1860"
+      },
+      "people": [
+        "Jakob Kerrman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0bb1a00999edb96314058c2773f4801b67f040ee2e0a60ee07f2cbe3819cf937",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

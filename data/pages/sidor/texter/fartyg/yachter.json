@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/yachter.html",
+  "title": "Segelbåtar",
+  "summary": "Foto av två yachter på packhusplan vid Andrasjön på väg att sjösättas, taget av Karl Fredrik Spolander. Sidan jämför bilden med en ritning från 1900 och nämner Gustav Wangels gamla båt Ariel.",
+  "topics": [
+    "segelbåtar",
+    "yachter",
+    "foto",
+    "Andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Karl Fredrik Spolander",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserade"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "ägare av glasnegativen"
+      ]
+    },
+    {
+      "name": "Gustav Wangel",
+      "alternateNames": [],
+      "roles": [
+        "båtägare"
+      ]
+    },
+    {
+      "name": "Johan Carpelan",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "C-G Schauman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Albert Andersson",
+      "alternateNames": [],
+      "roles": [
+        "ritare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Packhusplan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ritning av yacht för Herr Spolander",
+      "date": {
+        "year": 1900,
+        "month": 10,
+        "circa": false,
+        "text": "Okt 1900"
+      },
+      "people": [
+        "Albert Andersson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ariel läggs upp",
+      "date": {
+        "year": 1948,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Johan Carpelan och C-G Schauman köper Ariel",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "people": [
+        "Johan Carpelan",
+        "C-G Schauman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2c0646647a466354113258f01703a45a3dbe98818cc1fc8703bdbf0df33bf45",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

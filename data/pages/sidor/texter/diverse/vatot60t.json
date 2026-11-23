@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vatot60t.htm",
+  "title": "Utsikt från vattentornet i slutet på 1960-talet",
+  "summary": "Utsikt från vattentornet 1967, ett foto som liknar ett vykort från samma år. Det visar tiden precis när bygget av Grönhuset i bildens mitt inletts, och många av husen på bilden finns inte längre.",
+  "topics": [
+    "vattentornet",
+    "utsikt",
+    "vykort",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll bilden"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Grönhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utsikt från vattentornet när byggandet av Grönhuset just inletts",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Vattentornet",
+        "Grönhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cce3eb2a22190e276d9a0d16aa66ceda66ef8e4fb381542baa6d9772a36ed559",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

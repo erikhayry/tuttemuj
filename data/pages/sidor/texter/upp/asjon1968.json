@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/asjon1968.html",
+  "title": "Andrasjön från ovan ca 1970",
+  "summary": "Flygfoto över Andrasjön som troligen togs omkring 1970, då den andra pontonbryggan fanns. Mats Blomqvist pekar ut hamnsmackan, rester av en badbrygga och andra detaljer som simhuset och båtar.",
+  "topics": [
+    "flygbilder",
+    "Andrasjön",
+    "hamn",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Jan-Anders Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mats bror, tog bilden."
+    },
+    {
+      "name": "Johnny Reinboth",
+      "alternateNames": [],
+      "roles": [
+        "flygare"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Inger Luoma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Luoma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bertil Nyström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lilla bryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Simhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybo",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Den andra pontonbryggan kommer till",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "people": [
+        "Mats Blomqvist"
+      ],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "33b52dbafd36bfd17b754b2df90f59a517b2ba9ae42d3199d13188ac2f9f549f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

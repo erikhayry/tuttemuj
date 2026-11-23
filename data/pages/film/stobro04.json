@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/film/stobro04.htm",
+  "title": "Quick Time-panorama från Storbron den 7 juli 2004",
+  "summary": "Panoramafilm tagen från Storbron en sommarkväll 2004. Skribenten förklarar att en bild saknas i panoramat och att övergången därför fått fuskas ihop.",
+  "topics": [
+    "panorama",
+    "film",
+    "Storbron"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Wahlbergs",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Panorama från Storbron tas",
+      "date": {
+        "year": 2004,
+        "month": 7,
+        "day": 7,
+        "circa": false,
+        "text": "den 7 juli 2004 klockan 22:08–22:12"
+      },
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2639abae9acf24bb08d2448cddd4d52b5e9eaa722aeaa120e840e4304c1f7292",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

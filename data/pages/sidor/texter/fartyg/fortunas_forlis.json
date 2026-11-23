@@ -1,0 +1,147 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/fortunas_forlis.html",
+  "title": "Fortunas förlisning",
+  "summary": "Om barkskeppet Fortuna av Nykarleby som totalhavererade på ett omärkt grund vid Söderskär när det väntade på lots. Sidan återger hur ägarna Turdius yrkade på skadestånd, hur rättegången gick och en hällristning till minne av olyckan.",
+  "topics": [
+    "skeppsbrott",
+    "sjöfart",
+    "lotsar",
+    "rättegång",
+    "Söderskär"
+  ],
+  "people": [
+    {
+      "name": "Olof Olson",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Johan Turdius",
+      "alternateNames": [
+        "J. Turdin d.y."
+      ],
+      "roles": [
+        "commerceråd",
+        "skeppsägare"
+      ]
+    },
+    {
+      "name": "Gustaf Wilhelm Turdius",
+      "alternateNames": [
+        "Gustaf Wilhelm Turdin"
+      ],
+      "roles": [
+        "handlande",
+        "skeppsägare"
+      ]
+    },
+    {
+      "name": "Brodd",
+      "alternateNames": [],
+      "roles": [
+        "lotsmajor"
+      ]
+    },
+    {
+      "name": "Gottsman",
+      "alternateNames": [],
+      "roles": [
+        "lotsinspektör"
+      ]
+    },
+    {
+      "name": "Carl Roslund",
+      "alternateNames": [],
+      "roles": [
+        "lots"
+      ]
+    },
+    {
+      "name": "Lena Mikander",
+      "alternateNames": [],
+      "roles": [
+        "tackas"
+      ]
+    },
+    {
+      "name": "Dolores Malmberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Söderskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Kalkskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andersholmen",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Barkskeppet Fortuna totalhavererar vid Söderskär",
+      "date": {
+        "year": 1833,
+        "month": 6,
+        "day": 16,
+        "circa": false,
+        "text": "Den 16 juni 1833"
+      },
+      "people": [
+        "Olof Olson"
+      ],
+      "places": [
+        "Söderskär"
+      ]
+    },
+    {
+      "title": "Fortunas förlisning antecknas i Bircks verk som 1838",
+      "date": {
+        "year": 1838,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ett skepp med tretusen tunnor salt väntar på lots vid Söderskär men kör på ett omärkt grund. Därefter hamnar frågan i rätten där lotsarna anklagar kaptenen och fiskarna som bärgade godset inte anses trovärdiga.",
+    "reason": "Ett haveri följt av en rättegång med vittnen och skuldfrågor ger drama.",
+    "characters": [
+      "Olof Olson",
+      "Brodd"
+    ],
+    "places": [
+      "Söderskär"
+    ]
+  },
+  "contentHash": "2dc040d4f762c34def54e6fee8fdef47d2840becc43c20c91ab5dccf8556f759",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

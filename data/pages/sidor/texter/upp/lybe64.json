@@ -1,0 +1,166 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/lybe64.htm",
+  "title": "Lybecksgatan 1964",
+  "summary": "Foton av Lybecksgatan från vattentornet och esplanaden 1964, med uppgifter om gårdar och om hur Topeliusgatan stängdes när vattentornet färdigställdes. Bilderna är tagna av Rafael Sjöblom.",
+  "topics": [
+    "gator",
+    "vattentornet",
+    "Lybecksgatan",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Joel Hägglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Demeitrius Knutar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Järnefeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Winter",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Semskar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bergsten",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Vattentornet färdigställs och Topeliusgatan läggs igen",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Vattentornet",
+        "Topeliusgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "896402f0c04a5e6eb88ad0dba1ed784fe27931f4efd34cf54d1dbdb8a51edec5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

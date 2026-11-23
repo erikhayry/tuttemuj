@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vykoeg.html",
+  "title": "Vykort skickat av Ester Granlund",
+  "summary": "Vykort från Vasa 1904, skickat av Ester Granlund till hennes pappa Anders Granlund, om hur hon vill få hem sin båt \"Tom\" för säkert förvar inför vintern. Ester emigrerade senare till Amerika. Kortet visar Wasa Kommunala sjukhuset.",
+  "topics": [
+    "vykort",
+    "emigration",
+    "båtar",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Ester Granlund",
+      "alternateNames": [],
+      "roles": [
+        "avsändare"
+      ]
+    },
+    {
+      "name": "Anders Granlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mottagare, Esters pappa."
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nålön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Wasa Kommunala sjukhuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ester Granlund skickar vykortet från Vasa",
+      "date": {
+        "year": 1904,
+        "month": 10,
+        "day": 3,
+        "circa": false,
+        "text": "Wasa 3/10 1904"
+      },
+      "people": [
+        "Ester Granlund",
+        "Anders Granlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b82fef7ed9349bafafe493a1b442d42b8e2d6f92e2ad68e3c06a4015f849d6e3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

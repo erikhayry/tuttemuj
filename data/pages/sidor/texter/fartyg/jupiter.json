@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/jupiter.htm",
+  "title": "Barkskeppet Jupiter av Nykarleby",
+  "summary": "Barkskeppet Jupiter byggdes 1829 på Nykarleby stads skeppsvarv och ägdes av tre råd- och handelsmän. Skeppet förliste 1851 utanför Malaga, och en målning av det finns på Nykarleby museum.",
+  "topics": [
+    "barkskepp",
+    "sjöfart",
+    "skeppsbyggeri"
+  ],
+  "people": [
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Petter Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby stads skeppsvarv",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Malaga",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Barkskeppet Jupiter byggs",
+      "date": {
+        "year": 1829,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby stads skeppsvarv"
+      ]
+    },
+    {
+      "title": "Jupiter förliser utanför Malaga",
+      "date": {
+        "year": 1851,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Malaga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bbe86ed34be346a618793d286fb6b253eeadf953c4c18613f5bbbc9550882441",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

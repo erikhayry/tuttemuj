@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/carmencita.html",
+  "title": "Carmencita",
+  "summary": "Om motorbåten Carmencita som sjösattes vid Andrasjön 1939 och ägdes av Agnes Fagerholm. Båten köptes 1938, delades med familjen Högbom på semestrar på Långören och brann upp efter att motorn sålts på 1960-talet.",
+  "topics": [
+    "motorbåt",
+    "Andrasjön",
+    "båtar",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Agnes Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "båtägare"
+      ]
+    },
+    {
+      "name": "Georg Högbom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl-Åke Åström",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Simhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Jukkasholmen",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Agnes Fagerholm köper Carmencita",
+      "date": {
+        "year": 1938,
+        "circa": false
+      },
+      "people": [
+        "Agnes Fagerholm"
+      ],
+      "places": []
+    },
+    {
+      "title": "Motorbåten Carmencita sjösätts vid Andrasjön",
+      "date": {
+        "year": 1939,
+        "circa": false
+      },
+      "people": [
+        "Georg Högbom",
+        "Agnes Fagerholm"
+      ],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "61e1bc8467bf1b2476630c7913957ab67938830130ee4d8f3d1651c8f6b52f14",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

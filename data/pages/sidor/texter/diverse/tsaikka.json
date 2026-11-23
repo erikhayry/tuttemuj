@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tsaikka.html",
+  "title": "Tsaikka 65 år 1957–2022",
+  "summary": "Om Timo Sarpanevas glas Tsaikka från 1957 och kopplingen till Nykarleby, där metallhållarna tillverkades av MT-tehdas Lindblom från 1965. Texten berättar hur dragkedjerester blev huvudprodukt, att fabriken brann 1970 och att företaget senare flyttade till gamla mejeriet.",
+  "topics": [
+    "design",
+    "Tsaikka",
+    "industri",
+    "Lindblom",
+    "glas"
+  ],
+  "people": [
+    {
+      "name": "Timo Sarpaneva",
+      "alternateNames": [],
+      "birthYear": 1926,
+      "deathYear": 2006,
+      "roles": [
+        "formgivare"
+      ]
+    },
+    {
+      "name": "Pentti Sarpaneva",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Timo Sarpanevas bror som använt dragkedjedelar i smycken."
+    },
+    {
+      "name": "Ere Lindblom",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll material"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kareborg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tidigare fabrikslokal på Källbacken."
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gamla mejeriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Timo Sarpaneva designar Tsaikka-glaset",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [
+        "Timo Sarpaneva"
+      ],
+      "places": []
+    },
+    {
+      "title": "Samarbetet mellan Sarpaneva och MT-tehdas Lindblom inleds",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [
+        "Timo Sarpaneva"
+      ],
+      "places": []
+    },
+    {
+      "title": "MT-Lindbloms fabrik på Källbacken brinner",
+      "date": {
+        "year": 1970,
+        "month": 4,
+        "day": 8,
+        "circa": false,
+        "text": "den 8 april 1970"
+      },
+      "people": [],
+      "places": [
+        "Kareborg",
+        "Källbacken"
+      ]
+    },
+    {
+      "title": "Företaget köper gamla mejeriet",
+      "date": {
+        "year": 1975,
+        "circa": true,
+        "text": "i mitten på 1970-talet"
+      },
+      "people": [],
+      "places": [
+        "Gamla mejeriet"
+      ]
+    },
+    {
+      "title": "Hackman köper glasbruket",
+      "date": {
+        "year": 1991,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ee5794bc011c2b26bb76c7b46a709d01683b5c8a6eb6be7b497530ddbcd96f39",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

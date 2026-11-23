@@ -1,0 +1,185 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/sv1926.htm",
+  "title": "Staden från sydväst 1926 eller -27",
+  "summary": "Flygbild av staden från sydväst som Lars Pensar och en annan skribent dateras till 1926 eller 1927 utifrån kraftverksdammen, Bircks bastu, Normens vedlider och andra byggnader. Texten pekar också ut banvallen, sockenmagasinet och källare i förgrunden.",
+  "topics": [
+    "flygbilder",
+    "datering",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "kommenterade"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "ägare av samlingen"
+      ]
+    },
+    {
+      "name": "Helena Haglund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "negativskanning"
+      ]
+    },
+    {
+      "name": "Björklund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5255386,
+        "lng": 22.5281527,
+        "match": "name",
+        "gazetteerName": "kraftverksdammen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bircks bastu",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Banvallen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenmagasinet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [
+        "Normalskolan",
+        "övningsskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Floraparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Flygbilden tas (tidigast sommaren 1926, senast hösten 1929)",
+      "date": {
+        "year": 1926,
+        "endYear": 1929,
+        "circa": true,
+        "text": "tidigast sommaren 1926, senast hösten 1929"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tillbyggnad av maskinistens bostad vid övningsskolan",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normen"
+      ]
+    },
+    {
+      "title": "Normens vedlider byggs",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "59d45adf890ca8d4202543a9563a2affa35710ca57d8a61842fafd53a4cc162f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

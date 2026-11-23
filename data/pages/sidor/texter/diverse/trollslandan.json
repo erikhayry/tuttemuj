@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/trollslandan.html",
+  "title": "Tema Trollsländan av Elisabet Sund",
+  "summary": "Elisabet Sund visar och berättar om familjebåten Trollsländan med bilder från Långön 1944, Finnhamn 1953 och en tur 1957 med många barn ombord. Hon funderar på var några av bilderna tagits, kanske vid Djupsten och Gråsören.",
+  "topics": [
+    "båtar",
+    "skärgård",
+    "familjeminnen",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll och berättade"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Långön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Finnhamn",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Sandön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Alören",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gråsören",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bild på Trollsländan vid Långön",
+      "date": {
+        "year": 1944,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Långön"
+      ]
+    },
+    {
+      "title": "Trollsländan i Finnhamn",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Finnhamn"
+      ]
+    },
+    {
+      "title": "Många barn ombord på Trollsländan",
+      "date": {
+        "year": 1957,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "38b6113216009befaa5c6059a55f58bfab99246143d51a03be47a9cdd2fdb789",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

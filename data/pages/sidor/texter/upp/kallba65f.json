@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/kallba65f.htm",
+  "title": "Källbacken från sydost 1965",
+  "summary": "Bildsida med flygfoto över Källbacken från sydost 1965, taget av Rafael Sjöblom, utan vidare text.",
+  "topics": [
+    "flygbilder",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Flygfoto över Källbacken från sydost",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": [
+        "Källbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "46445d1512d0e5c902faf2704d7dc9a1b896f148cf0b882b8eacd3c5992969aa",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

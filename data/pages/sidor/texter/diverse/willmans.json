@@ -1,0 +1,131 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/willmans.html",
+  "title": "Gunnar Willmans långtradare",
+  "summary": "Minnen från åkeriet som Gunnar Willman drev i Nykarleby, med fotografier av lastbilarna och uppgifter om chaufförerna. Chaufförerna berättar om TIR-fotografering, långa resor med malt till Tromsö och en mardrömsresa där en ung förare körde vilse ända till Åbo.",
+  "topics": [
+    "åkeri",
+    "lastbilar",
+    "långtradare",
+    "chaufförer",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Willman",
+      "alternateNames": [],
+      "roles": [
+        "åkare"
+      ]
+    },
+    {
+      "name": "Leif Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "skrev om Gunnar Willman"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "skickade bilderna"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Roger Sund",
+      "alternateNames": [],
+      "roles": [
+        "f.d. lastbilschaufför"
+      ]
+    },
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "tidigare chaufför"
+      ]
+    },
+    {
+      "name": "Tage Lahtinen",
+      "alternateNames": [],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Bengt Willman",
+      "alternateNames": [
+        "BengGa"
+      ],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Olof Frostdahl",
+      "alternateNames": [
+        "Loffa",
+        "Hjalmar"
+      ],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Erik Suomivirta",
+      "alternateNames": [
+        "Tusi",
+        "Piikkilanka"
+      ],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Torolf Sundholm",
+      "alternateNames": [
+        "Toffa"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gulfmacken",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ny förare följer en kolonn lastbilar mot Lahtis men missar kaffestoppet i Hämeenkyrö och kör vilse i Tammerfors. Han hamnar till slut i Åbo medan de andra väntar på honom i natten och blir aldrig åkare.",
+    "reason": "En kort men tydlig historia om en nybörjare som tappar bort sig, och som har humor och vändpunkt.",
+    "characters": [
+      "Gunnar Willman"
+    ],
+    "places": []
+  },
+  "contentHash": "fbcbd099122498ff543666359525d851ba8b460b3457a45639103c71e8458796",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

@@ -1,0 +1,125 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/stad0992.htm",
+  "title": "Staden i september 1992",
+  "summary": "Helikopterbilder av Nykarleby från den 19 september 1992, tagna genom en dimmig ruta. Lars Pensar kommenterar bland annat Kampen, Nystaden, torget med marknadsstånd och kyrktornets nya koppartak.",
+  "topics": [
+    "flygbilder",
+    "1992",
+    "stadsbild"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Prostas hagan",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kvarnvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5226926,
+        "lng": 22.5472926,
+        "match": "name",
+        "gazetteerName": "kvarnvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Helikopterbilder av staden tas",
+      "date": {
+        "year": 1992,
+        "month": 9,
+        "day": 19,
+        "circa": false,
+        "text": "den 19 september 1992"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "176ce87e635829d453481bef6d3baf67ccf2c900d07cbb1ac43f38d16f4bb826",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

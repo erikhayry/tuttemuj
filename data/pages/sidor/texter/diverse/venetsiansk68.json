@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/venetsiansk68.html",
+  "title": "Förberedelse inför Venetiansk afton 1968",
+  "summary": "Minnen och foton från förberedelserna inför Venetiansk afton i Topeliusparken 1968, där en grupp män hela dagen stekte en helstekt \"oxe\" i en grop vid Idrottsgården. Köttet blev delvis bränt och delvis halvrått, men gick ändå åt.",
+  "topics": [
+    "Venetiansk afton",
+    "minnen",
+    "grillning",
+    "Topeliusparken"
+  ],
+  "people": [
+    {
+      "name": "Hugo Gleisner",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ernst Eng",
+      "alternateNames": [],
+      "roles": [
+        "slaktare"
+      ]
+    },
+    {
+      "name": "Bernhard Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Odd Övergaard",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nisse Nordling",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Paul Litens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Öyvind Övergaard",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Solveig Sjöskog",
+      "alternateNames": [],
+      "roles": [
+        "fotograf",
+        "berättade"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Idrottsgården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Venetiansk afton i Topeliusparken med helstekt oxe",
+      "date": {
+        "year": 1968,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Topeliusparken",
+        "Idrottsgården"
+      ]
+    },
+    {
+      "title": "Bock Bryggeri Ab i Vasa säljs till Hartwall",
+      "date": {
+        "year": 1968,
+        "month": 12,
+        "circa": false,
+        "text": "i december samma år"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Några män gräver en grop vid Idrottsgården för att steka en hel oxe till Venetiansk afton. Det blåser, glöden vill inte hålla jämn värme och köttet blir både bränt och halvrått, men slaktarna lyckas ändå stycka och sälja bitarna.",
+    "reason": "En humoristisk scen med flera karaktärer, en tydlig uppgift som går snett och ett kvällsevenemang som ska räddas.",
+    "characters": [
+      "Ernst Eng",
+      "Hugo Gleisner"
+    ],
+    "places": [
+      "Idrottsgården",
+      "Topeliusparken"
+    ]
+  },
+  "contentHash": "6642d5230c336ae836170a9b540810bc11382e2925b42c5c27bce380dfeb4dce",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

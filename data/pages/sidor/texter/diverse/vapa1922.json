@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vapa1922.htm",
+  "title": "Vyer från vattentornet i februari 2006",
+  "summary": "Fotografier från vattentornet i februari 2006 av Lars Pensar, bland annat Gustav Adolfsgatan 41 och 43 och femvåningshusen vid Topeliusesplanaden. Sidan jämför med en ungefär trettio år äldre vy.",
+  "topics": [
+    "vattentornet",
+    "utsikt",
+    "foto"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 41",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 43",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 43",
+      "geo": {
+        "lat": 63.52699089999999,
+        "lng": 22.5354161,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 43",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Foton tas från vattentornet",
+      "date": {
+        "year": 2006,
+        "month": 2,
+        "circa": false,
+        "text": "februari 2006"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Vattentornet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f2e00b4a2b15c420bf72978c7d14f12db44d1c37385443089b2157cf0c7f9ced",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

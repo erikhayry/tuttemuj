@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/torget_normen.html",
+  "title": "Utsikt över torget från Normens torn 1961 och 1978",
+  "summary": "Jämförelse av foton över torget från Normens torn 1961 och 1978 med lista över vad som försvunnit eller flyttats, bland annat Pihlainens skoaffär, Rundkiosken och Sparbanken. Dessutom kommentarer av Kjell Övergaard och Elisabet Sund om torget och Grönhuset.",
+  "topics": [
+    "torget",
+    "Normen",
+    "stadsförändring",
+    "1960-talet",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Kjell Övergaard",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Jan Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Claire Grön",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lundqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [
+        "Normalskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pihlainens skoaffär",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rundkiosken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kombi-Kiosken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Grönhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234,
+        "lng": 22.5306,
+        "match": "name",
+        "gazetteerName": "herlers bokhandel",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Skridskobanan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Pihlainens skoaffär rivs när Grönhuset byggs",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Pihlainens skoaffär",
+        "Grönhuset"
+      ]
+    },
+    {
+      "title": "Rundkiosken flyttas när Kombi-Kiosken byggs",
+      "date": {
+        "year": 1974,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rundkiosken",
+        "Kombi-Kiosken"
+      ]
+    },
+    {
+      "title": "Fotot från Normens torn",
+      "date": {
+        "year": 1961,
+        "circa": true,
+        "text": "troligtvis 1961"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nykarleby torg regisseras om",
+      "date": {
+        "year": 1968,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8816a24edf4f5d9076af9fdf636ce88fd87cc43af10dad4a44199d2b56c5310f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

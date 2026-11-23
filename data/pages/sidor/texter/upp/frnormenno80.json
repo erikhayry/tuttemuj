@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/frnormenno80.html",
+  "title": "Från Normen mot nordost ca 1980",
+  "summary": "Foto från Normalskolan mot nordost, taget någon gång 1975–1982. Det visar Samskolan med sina uthus och taket på f.d. Föreningsbanken.",
+  "topics": [
+    "utsikt",
+    "Normen",
+    "Samskolan"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Elisabet Sund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [
+        "Normalskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Föreningsbanken",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto från Normen mot nordost",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "ca 1980"
+      },
+      "people": [
+        "Holger Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4e88a4fdb379771f8077037120d5c73b61f5c61f85beafd2931936df57ae8fca",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

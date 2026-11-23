@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/hskr/mkallare.htm",
+  "title": "Magistratsprotokoll om byggandet av gråstenskällaren",
+  "summary": "Utdrag ur magistratens protokoll från december 1847 om tillstånd för rådman Collander och handlande Sandström att bygga två källare i Cederbergska backen nedanför kyrkan. I gengäld ska de anlägga en körväg för vattenhämtning ner till älven. Besiktningsmän intygar att källarna inte skadar kyrkans grund.",
+  "topics": [
+    "magistraten",
+    "källare",
+    "väg",
+    "1840-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Sandström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "H Österbäck",
+      "alternateNames": [],
+      "roles": [
+        "byggnadsinspektör"
+      ]
+    },
+    {
+      "name": "Anders Cederberg",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserade och tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Cederbergska backen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådman Bergers magasin",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gråstenskällaren",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Magistraten beslutar om källarbygget och körvägen",
+      "date": {
+        "year": 1847,
+        "month": 12,
+        "day": 6,
+        "circa": false,
+        "text": "Den 6 December 1847"
+      },
+      "people": [
+        "Carl Josef Collander",
+        "Matts Sandström"
+      ],
+      "places": [
+        "Cederbergska backen"
+      ]
+    },
+    {
+      "title": "Matts Sandström kvitterar ut 20 rubel silver",
+      "date": {
+        "year": 1849,
+        "month": 12,
+        "day": 12,
+        "circa": false,
+        "text": "den 12 December 1849"
+      },
+      "people": [
+        "Matts Sandström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "abb2b3e5bf7d3cc963e92fa1223713ff58f40ad6752a0cc305add74c21b7beb4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

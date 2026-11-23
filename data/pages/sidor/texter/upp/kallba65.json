@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/kallba65.htm",
+  "title": "Källbacken från sydost 1965",
+  "summary": "Flygbild över Källbacken från sydost 1965 med elevhemmets gårdsbyggnad och flera gårdar som Lars Pensar pekar ut. Fotot är ett av Rafael Sjöbloms negativ som Stig Haglund skannat.",
+  "topics": [
+    "flygbilder",
+    "Källbacken",
+    "gårdar"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserade"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll och kommenterade"
+      ]
+    },
+    {
+      "name": "Reguel Lindén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sandelin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ritade gården i tusch."
+    },
+    {
+      "name": "Hägglöf",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Björklund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Elevhemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Flygfoto över Källbacken från sydost",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": [
+        "Källbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "37c7d006d53363fd9fa8174ab0740a6a66456c59329555998a445b8b60a644ba",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

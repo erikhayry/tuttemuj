@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/insta/insta.html",
+  "title": "Nykarlebyvyer på Instagram",
+  "summary": "Översiktssida över Nykarlebyvyers Instagram-inlägg, med datum och rubriker från 2020 till 2024, bland annat stadens kulturpris 2024, rekonstruktion av staden före branden 1858 och Nykarleby Båtvarvs logga. Fungerar som innehållsförteckning till inläggen.",
+  "topics": [
+    "Instagram",
+    "Nykarlebyvyer",
+    "kulturpris",
+    "innehållsförteckning"
+  ],
+  "people": [
+    {
+      "name": "Erkki Finni",
+      "alternateNames": [],
+      "roles": [
+        "gjorde animation av Kuddnäs"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebyvyer tilldelas Nykarleby stads kulturpris",
+      "date": {
+        "year": 2024,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "Den 14 januari"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nykarlebyvyer finns på facebook",
+      "date": {
+        "year": 2022,
+        "month": 12,
+        "day": 10,
+        "circa": false,
+        "text": "2022-12-10"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Rekonstruktion av staden före branden 1858",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "inlägg 2022-03-28"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "860fe62f14097614fb29577ebca90a472d47abc42102132b95acfa86f272ba55",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

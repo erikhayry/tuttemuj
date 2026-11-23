@@ -1,0 +1,358 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tema_arkitekt.html",
+  "title": "Tema Arkitekter",
+  "summary": "Påbörjad sammanställning av arkitekter som är födda i eller har bott i Nykarleby, eller som ritat byggnader i staden. Listan, som är under arbete, kopplar namn och levnadsår till verk och årtal, till exempel kyrkan, Normalskolan och stadsplaner.",
+  "topics": [
+    "arkitekter",
+    "byggnadshistoria",
+    "stadsplan"
+  ],
+  "people": [
+    {
+      "name": "Matti Aaltonen",
+      "alternateNames": [],
+      "birthYear": 1921,
+      "deathYear": 1978,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Karl-Johan Ahlskog",
+      "alternateNames": [],
+      "birthYear": 1883,
+      "deathYear": 1955,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Julius Basilier",
+      "alternateNames": [],
+      "birthYear": 1834,
+      "deathYear": 1905,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Elias Brenner",
+      "alternateNames": [],
+      "birthYear": 1647,
+      "deathYear": 1717,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Carl Albert Edelfelt",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1869,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Hilding Ekelund",
+      "alternateNames": [],
+      "birthYear": 1893,
+      "deathYear": 1984,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Theodor Granstedt",
+      "alternateNames": [],
+      "birthYear": 1842,
+      "deathYear": 1927,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Oiva Kallio",
+      "alternateNames": [],
+      "birthYear": 1884,
+      "deathYear": 1964,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Carolus Lindberg",
+      "alternateNames": [],
+      "birthYear": 1889,
+      "deathYear": 1955,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "John Lybeck",
+      "alternateNames": [],
+      "birthYear": 1853,
+      "deathYear": 1925,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "K. V. Reinius",
+      "alternateNames": [],
+      "birthYear": 1862,
+      "deathYear": 1936,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Jacob Rijf",
+      "alternateNames": [],
+      "birthYear": 1753,
+      "deathYear": 1808,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Kay Trap-Holm",
+      "alternateNames": [],
+      "birthYear": 1911,
+      "deathYear": 1954,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Knut Wasastjerna",
+      "alternateNames": [],
+      "birthYear": 1867,
+      "deathYear": 1935,
+      "roles": [
+        "arkitekt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frihetsmonumentet",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sjukhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Brandkårshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Folkhögskolans huvudbyggnad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Älvbranten",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan byggs enligt Elias Brenner",
+      "date": {
+        "year": 1706,
+        "circa": false
+      },
+      "people": [
+        "Elias Brenner"
+      ],
+      "places": [
+        "Kyrkan"
+      ]
+    },
+    {
+      "title": "Stadsplan av Carl Albert Edelfelt",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "people": [
+        "Carl Albert Edelfelt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Normalskolan och kosthållet av Theodor Granstedt",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "people": [
+        "Theodor Granstedt"
+      ],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Brandkårshuset av John Lybeck",
+      "date": {
+        "year": 1892,
+        "circa": false
+      },
+      "people": [
+        "John Lybeck"
+      ],
+      "places": [
+        "Brandkårshuset"
+      ]
+    },
+    {
+      "title": "Normalskolan av K. V. Reinius",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "people": [
+        "K. V. Reinius"
+      ],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Frihemmet av Knut Wasastjerna",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "people": [
+        "Knut Wasastjerna"
+      ],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Sjukhuset av Oiva Kallio",
+      "date": {
+        "year": 1909,
+        "circa": false
+      },
+      "people": [
+        "Oiva Kallio"
+      ],
+      "places": [
+        "Sjukhuset"
+      ]
+    },
+    {
+      "title": "Folkhögskolans huvudbyggnad",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Folkhögskolans huvudbyggnad"
+      ]
+    },
+    {
+      "title": "Frihetsmonumentet av P. Björk",
+      "date": {
+        "year": 1920,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Frihetsmonumentet"
+      ]
+    },
+    {
+      "title": "Stadsplan av Hilding Ekelund",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "people": [
+        "Hilding Ekelund"
+      ],
+      "places": []
+    },
+    {
+      "title": "R. E. Eklunds minnessten av Matti Aaltonen",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [
+        "Matti Aaltonen"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsplan av Olli Wikstedt",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d51d687efc44c09290d67dcba6571853d9606c115007fa0583902061bcca900d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:44.960Z"
+}

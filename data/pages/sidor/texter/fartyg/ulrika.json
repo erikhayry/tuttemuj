@@ -1,0 +1,157 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/ulrika.htm",
+  "title": "Ulrika",
+  "summary": "Om flytetyget Ulrika, flaggskeppet i rederiet Ny-Line i Nykarleby på 1990-talet. Sidan följer båtens öden från upplagd vid Andrasjön till landbacken i Övermalax och beskriver rederiets ägare och upplösning.",
+  "topics": [
+    "fartyg",
+    "Ny-Line",
+    "rederi",
+    "restaurang von Döbeln"
+  ],
+  "people": [
+    {
+      "name": "Göran Ahlstrand",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Stina Sandberg",
+      "alternateNames": [
+        "Stina Ahlstrand"
+      ],
+      "roles": [
+        "krögare"
+      ]
+    },
+    {
+      "name": "Gösta Sandberg",
+      "alternateNames": [],
+      "roles": [
+        "krögare",
+        "redare"
+      ]
+    },
+    {
+      "name": "Sten Bertula",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Odd Øvergard",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Anders Sommardal",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Leif Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Leif Jansson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stubbens fyr",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vasklot",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Övermalax",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny-Line inleder verksamheten senast",
+      "date": {
+        "year": 1996,
+        "circa": false,
+        "text": "senast 1996"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ulrika upplagd vid Andrasjön fotograferas",
+      "date": {
+        "year": 2004,
+        "month": 4,
+        "day": 12,
+        "circa": false,
+        "text": "12 april 2004"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Andrasjön"
+      ]
+    },
+    {
+      "title": "Ny-Line Nykarleby Ab Oy under avregistrering",
+      "date": {
+        "year": 2006,
+        "month": 2,
+        "day": 28,
+        "circa": false,
+        "text": "28.2.2006"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9db35a48f6e9c6a83ab363a8ed5b649d991232396ff088248ae837790e419a1f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/torsofja.htm",
+  "title": "Lastning på Torsöfjärden",
+  "summary": "Fotografier av fartyg som lastar props på Torsöfjärden, där skribenten identifierat ett fartyg som Marienburg. Sidan innehåller också en tidningsnotis från 1931 om ångare som kom till fjärden för att lasta props.",
+  "topics": [
+    "sjöfart",
+    "props",
+    "lastning",
+    "Torsö"
+  ],
+  "people": [
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerade bilder"
+      ]
+    },
+    {
+      "name": "Barbro Granvik-Nordling",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "förmedlade bilderna"
+      ]
+    },
+    {
+      "name": "O. E. Mörner",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "J. Brown",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "John Lambriadis",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ångare lastar props på Torsöfjärden",
+      "date": {
+        "year": 1931,
+        "month": 6,
+        "circa": false,
+        "text": "juni 1931"
+      },
+      "people": [],
+      "places": [
+        "Torsöfjärden"
+      ]
+    },
+    {
+      "title": "Marienburg torpederas och sänks",
+      "date": {
+        "year": 1943,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "22b90699c94df6aa1eae418cd8c8a92ee10345592447ebd56603cec89aec54ea",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

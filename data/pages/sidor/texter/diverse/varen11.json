@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/varen11.html",
+  "title": "Försommarvandring av Lars Pensar.",
+  "summary": "Bildvandring från maj 2011 med tjugo numrerade fotografier av Lars Pensar längs Kyrkogatan, Nygårdsvägen, Brostugan, Seminariegatan och Kärleksstigen. Texten pekar ut gamla gårdar och platser som Hugos lindo och Roosas lindon.",
+  "topics": [
+    "vandring",
+    "stadsbild",
+    "foto",
+    "försommar"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Arne Nystedt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustav Bergfeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Elvi Bergfeldt",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nygårdsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5194967,
+        "lng": 22.5270853,
+        "match": "name",
+        "gazetteerName": "nygårdsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kärleksstigen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Hugos lindo",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Roosas lindo",
+      "kind": "farm",
+      "alternateNames": [
+        "Roosas lindon"
+      ]
+    },
+    {
+      "name": "Tallkorset",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kraftverksdammen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5255386,
+        "lng": 22.5281527,
+        "match": "name",
+        "gazetteerName": "kraftverksdammen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lars Pensar fotograferar försommarvandringen",
+      "date": {
+        "year": 2011,
+        "month": 5,
+        "circa": false,
+        "text": "27 och 29 maj 2011"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fjärrvärmearbetena inleds vid Kärleksstigen",
+      "date": {
+        "year": 2007,
+        "circa": false,
+        "text": "sommaren 2007"
+      },
+      "people": [],
+      "places": [
+        "Kärleksstigen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2c061213eaa0d81d1fa3386bd8b1ae905d2ae962c7409d3023144f35c1a3f86e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

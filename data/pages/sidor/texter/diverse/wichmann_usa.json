@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/wichmann_usa.html",
+  "title": "Omnämnande från Amerikaturné",
+  "summary": "Utdrag ur ett brev från Hildur Blomqvist i Ironwood, Michigan, till Vexala 1929, där hon nämner att lektor Wichmann hållit föredrag i deras kyrka under sin Amerikaturné. Texten beskriver också familjen, Ironwoods svenskfinländska emigranter och staden som populärt mål för arbete i gruvor och skog.",
+  "topics": [
+    "emigration",
+    "Amerika",
+    "brev",
+    "Ironwood",
+    "Wichmann"
+  ],
+  "people": [
+    {
+      "name": "Hildur Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "brevskrivare"
+      ]
+    },
+    {
+      "name": "John Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "skogsarbetare"
+      ]
+    },
+    {
+      "name": "Wichmann",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Victor Jakobsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lydia Jakobsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mats Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ironwood",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Stad i Michigan."
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hildur Blomqvist skriver brevet från Ironwood",
+      "date": {
+        "year": 1929,
+        "month": 5,
+        "day": 8,
+        "circa": false,
+        "text": "8 maj 1929"
+      },
+      "people": [
+        "Hildur Blomqvist"
+      ],
+      "places": [
+        "Ironwood",
+        "Vexala"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a0e28475f2fdfcbd715682249117fd1a733317d7b8cf709bda1cd0f4fe3ff13c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

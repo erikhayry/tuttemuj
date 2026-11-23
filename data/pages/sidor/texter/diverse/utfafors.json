@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/utfafors.htm",
+  "title": "Synd att man inte var i staden den dagen.",
+  "summary": "Program för Forsby-Ytterjeppo hembygdsförenings bussutflykt \"I Fädrens spår\" hösten 2006, med Lars Pensar som berättar om bebyggelsen, minnesvärda personer och industrier längs östra sidan av älven. Sidan visar också Munkgrottan, som forsbyborna kallat Steinstugon.",
+  "topics": [
+    "hembygdsförening",
+    "utflykt",
+    "Forsby",
+    "Ytterjeppo"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "guide",
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll programmet"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Munkgrottan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Steinstugon"
+      ]
+    },
+    {
+      "name": "Prästvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Brännan",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Sorvist",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49449620000001,
+        "lng": 22.6505617,
+        "match": "name",
+        "gazetteerName": "sorvist",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Dalas",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Kärras",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Jutas småhus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Harald",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Soldattorpet",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bussresan \"I Fädrens spår\" med Forsby-Ytterjeppo hembygdsförening",
+      "date": {
+        "year": 2006,
+        "month": 9,
+        "day": 9,
+        "circa": false,
+        "text": "lördag 9.9.2006"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Munkgrottan",
+        "Kärras",
+        "Harald"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "246367a7dd47f6f777c57035f6290cc4babc82e578e7b45fc23246da62d26563",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

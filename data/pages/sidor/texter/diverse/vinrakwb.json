@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vinrakwb.htm",
+  "title": "En vinräkning",
+  "summary": "Faktura från vinfirman A. Koch Söhne i Mainz till doktor W. Backman i Jakobstad från 1900 för en låda Rüdesheimer och Niersteiner. Skribenten noterar att doktorn ofta tycks ha beställt drycker och att Backman också hör till Nykarlebys och Juthbackas historia.",
+  "topics": [
+    "vin",
+    "handel",
+    "faktura",
+    "1900"
+  ],
+  "people": [
+    {
+      "name": "W. Backman",
+      "alternateNames": [],
+      "roles": [
+        "medicine doktor"
+      ]
+    },
+    {
+      "name": "U. Hartman",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Ull-Britt Gustafsson Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mainz",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vinfirman i Mainz fakturerar doktor Backman för vinleverans",
+      "date": {
+        "year": 1900,
+        "month": 9,
+        "day": 11,
+        "circa": false,
+        "text": "Mainz, den 11 september 1900"
+      },
+      "people": [
+        "W. Backman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a41c7a2a8b383ddd4acdaf2579f559ef298e1ac1c07629fb6d7ad91375b8f004",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

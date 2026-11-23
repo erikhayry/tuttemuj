@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/mathes69.html",
+  "title": "Mathesisusgatan 1964",
+  "summary": "Foto av Mathesiusgatan 1964 med en lista över förändringar fram till 2014, bland annat asfaltering, utbyggnad av sjukhuset och rivning av brandstationen. Fotot är taget av Carl-Erik Backlund.",
+  "topics": [
+    "gator",
+    "Mathesiusgatan",
+    "stadsförändring"
+  ],
+  "people": [
+    {
+      "name": "Carl-Erik Backlund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Mathesisusgatan"
+      ],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sjukhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Barnträdgården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brandstationen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av Mathesiusgatan",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "people": [
+        "Carl-Erik Backlund"
+      ],
+      "places": [
+        "Mathesiusgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "332dd19757a308400de955370a4ce90812ac7b3e02121700df44748b0fc7ff65",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

@@ -1,0 +1,155 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tullen1769.html",
+  "title": "Nykarlebyskepp på långfärd",
+  "summary": "Öresundstullens register i Helsingör visar de skepp från Nykarleby som passerade mellan 1769 och 1803, oftast på väg med tjära och beck till Medelhavet och hem med salt. Sidan listar befälhavarna och berättar närmare om kaptenerna Carl Magnus Östergård och Claes Breitholtz, Finlands första ostasienseglare.",
+  "topics": [
+    "sjöfart",
+    "handel",
+    "Öresundstullen",
+    "skeppare",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Magnus Östergård",
+      "alternateNames": [],
+      "deathYear": 1790,
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Claes Breitholtz",
+      "alternateNames": [],
+      "birthYear": 1743,
+      "deathYear": 1812,
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Catharina Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Brita Lena Aspegren",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Claes Nordling",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Helsingör",
+      "kind": "other",
+      "alternateNames": [
+        "Elsinore"
+      ]
+    },
+    {
+      "name": "Storsandsund",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skepp registrerade i Nykarleby dyker upp vid Helsingör",
+      "date": {
+        "year": 1769,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Helsingör"
+      ]
+    },
+    {
+      "title": "Nykarlebyskepp passerar Öresund",
+      "date": {
+        "year": 1769,
+        "endYear": 1803,
+        "circa": false,
+        "text": "mellan 1769 och 1803"
+      },
+      "people": [],
+      "places": [
+        "Helsingör"
+      ]
+    },
+    {
+      "title": "Carl Magnus Östergård gifter sig med Catharina Turdin",
+      "date": {
+        "year": 1774,
+        "month": 12,
+        "day": 4,
+        "circa": false,
+        "text": "den 4 december 1774"
+      },
+      "people": [
+        "Carl Magnus Östergård",
+        "Catharina Turdin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Claes Breitholtz gifter sig med Brita Lena Aspegren",
+      "date": {
+        "year": 1781,
+        "month": 10,
+        "day": 9,
+        "circa": false,
+        "text": "9 oktober 1781"
+      },
+      "people": [
+        "Claes Breitholtz",
+        "Brita Lena Aspegren"
+      ],
+      "places": []
+    },
+    {
+      "title": "Carl Magnus Östergård dör i feber",
+      "date": {
+        "year": 1790,
+        "circa": false
+      },
+      "people": [
+        "Carl Magnus Östergård"
+      ],
+      "places": []
+    },
+    {
+      "title": "Claes Breitholtz dör",
+      "date": {
+        "year": 1812,
+        "month": 2,
+        "day": 14,
+        "circa": false,
+        "text": "14 februari 1812"
+      },
+      "people": [
+        "Claes Breitholtz"
+      ],
+      "places": [
+        "Storsandsund"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "25a86c088b706ec5ddb8d5bb39d7e28ca438a77d18779bf513d378fadd66d054",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

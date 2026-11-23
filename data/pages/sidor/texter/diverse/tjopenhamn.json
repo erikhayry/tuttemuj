@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tjopenhamn.html",
+  "title": "Ett sjömansbrev från Tjöpenhamn",
+  "summary": "Brev från en ung sjöman till föräldrarna, skrivet i Köpenhamn 1887 efter att barkskeppet Ellen kolliderat med en brigg i stormen över Östersjön. Fartyget drogs in i docka för reparation och brevskrivaren hoppas att resan till Amerika ännu blir av.",
+  "topics": [
+    "sjömansbrev",
+    "sjöfart",
+    "förlisning",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "A. Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "E. Dalström",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserade och tillhandahöll brevet"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Tjöpenhamn",
+      "kind": "other",
+      "alternateNames": [
+        "Köpenhamn"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Barkskeppet Ellen kolliderar med en brigg på Östersjön",
+      "date": {
+        "year": 1887,
+        "circa": false,
+        "text": "natten mellan den 14 och 15"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Brevet skrivs i Tjöpenhamn",
+      "date": {
+        "year": 1887,
+        "month": 8,
+        "day": 21,
+        "circa": false,
+        "text": "den 21 augusti 1887"
+      },
+      "people": [
+        "A. Jakobsson"
+      ],
+      "places": [
+        "Tjöpenhamn"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En ung sjöman på barkskeppet Ellen vaknar mitt i natten till rop på däck när en brigg kommer rakt mot fartyget i stormen. Efter kraschen ligger skutan i dockan i Köpenhamn och han skriver hem till föräldrarna för att berätta att han klarat sig.",
+    "reason": "Brevet innehåller en hel scen med storm, kollision och efterspel i första person.",
+    "characters": [
+      "A. Jakobsson",
+      "E. Dalström"
+    ],
+    "places": [
+      "Tjöpenhamn"
+    ]
+  },
+  "contentHash": "9e0f65a11aa04339a3d78f06ce6b9fc6d5a7242680923ae4d0e841dd6ec16ec2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

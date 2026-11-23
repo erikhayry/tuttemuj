@@ -1,0 +1,146 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vessenva.htm",
+  "title": "Odert Reinhold von Essens vapensköld i Nykarleby kyrka",
+  "summary": "Om vapenskölden över översten Odert Reinhold von Essen d.ä., som stupade i slaget vid Napo 1714 och vilar under Nykarleby kyrkgolv. Texten berättar hur kroppen fördes till staden, hur skölden sattes upp 1964 på släktföreningens initiativ och hur släktingar sökt upp översten under golvet.",
+  "topics": [
+    "von Essen",
+    "slaget vid Napo",
+    "Nykarleby kyrka",
+    "vapensköld",
+    "stora ofreden"
+  ],
+  "people": [
+    {
+      "name": "Odert Reinhold von Essen",
+      "alternateNames": [
+        "Odert Reinhold von Essen d.ä."
+      ],
+      "birthYear": 1665,
+      "deathYear": 1714,
+      "roles": [
+        "överste"
+      ]
+    },
+    {
+      "name": "Odert von Essen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ättling i sjunde generationen."
+    },
+    {
+      "name": "Hans Olof von Essen",
+      "alternateNames": [],
+      "roles": [
+        "överste",
+        "ordförande för släktföreningen"
+      ]
+    },
+    {
+      "name": "Colling le Clair",
+      "alternateNames": [],
+      "roles": [
+        "svensk officer"
+      ]
+    },
+    {
+      "name": "Mårten Thesleff",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Didrik von Essen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fader till översten, bisatt i Hollola kyrka."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Napo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Hollola kyrka",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Napo där översten stupar",
+      "date": {
+        "year": 1714,
+        "circa": false
+      },
+      "people": [
+        "Odert Reinhold von Essen"
+      ],
+      "places": [
+        "Napo"
+      ]
+    },
+    {
+      "title": "Översten bisätts i Nykarleby kyrka",
+      "date": {
+        "year": 1714,
+        "month": 3,
+        "day": 14,
+        "circa": false,
+        "text": "den 14 mars"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Vapenskölden sätts upp i Nykarleby kyrka",
+      "date": {
+        "year": 1964,
+        "month": 2,
+        "day": 19,
+        "circa": false,
+        "text": "den 19 februari 1964"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Efter slaget vid Napo hittar en svensk officer översten naken bland sina stupade män. Han köper en kista och skickar kroppen till Nykarleby, där den bisätts i kyrkan för att kunna få vigd jord.",
+    "reason": "En tydlig kedja av händelser kring en stupad hjälte och en lång resa med kroppen.",
+    "characters": [
+      "Odert Reinhold von Essen",
+      "Colling le Clair"
+    ],
+    "places": [
+      "Nykarleby kyrka",
+      "Napo"
+    ]
+  },
+  "contentHash": "1f626608b927e4e62c6c7266a85b0d06c5402aa621ac9ebeb0b77302f6ac1e6b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

@@ -1,0 +1,127 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/trosknin.htm",
+  "title": "Tröskning på Smedsbacka",
+  "summary": "En sällsynt arbetsbild från sekelskiftet visar tröskning med lokomobil och tröskverk vid Smedsbacka. Sidan berättar hur personerna på bilden identifierades 2005 och 2006, visar en kolorerad version och återger en rapport om tröskverk från Munsala i Österbottniska Posten 1938.",
+  "topics": [
+    "tröskning",
+    "lantbruk",
+    "arbetsbilder",
+    "lokomobil"
+  ],
+  "people": [
+    {
+      "name": "Axel Lund",
+      "alternateNames": [],
+      "roles": [
+        "ägare av lokomobilen"
+      ]
+    },
+    {
+      "name": "Emil Forsells",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Per-Erik Villman",
+      "alternateNames": [],
+      "roles": [
+        "identifierade personer på bilden"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Yvonne Isaksson Forsells",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bekräftade att pojken är hennes farfar."
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerade bilden"
+      ]
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hade också en lokomobil."
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedsbacka",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariets kosthållsbyggnad",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tröskning på Smedsbacka fotograferas",
+      "date": {
+        "year": 1900,
+        "circa": true,
+        "text": "vid sekelskiftet"
+      },
+      "people": [],
+      "places": [
+        "Smedsbacka"
+      ]
+    },
+    {
+      "title": "Personerna på bilden börjar identifieras",
+      "date": {
+        "year": 2005,
+        "month": 2,
+        "day": 3,
+        "circa": false,
+        "text": "den 3 februari 2005"
+      },
+      "people": [
+        "Stig Haglund",
+        "Per-Erik Villman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Yvonne Isaksson Forsells bekräftar identifieringen av Emil Forsells",
+      "date": {
+        "year": 2006,
+        "month": 10,
+        "day": 12,
+        "circa": false,
+        "text": "den 12 oktober 2006"
+      },
+      "people": [
+        "Yvonne Isaksson Forsells",
+        "Emil Forsells"
+      ],
+      "places": []
+    },
+    {
+      "title": "Rapport om tröskverk i Munsala i Österbottniska Posten",
+      "date": {
+        "year": 1938,
+        "circa": false,
+        "text": "Österbottniska Posten nr 39/1938"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9eb8d11d6e7401aaa55ed49eb05fd1ad5a3a38692709e32297077a097c988ac7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

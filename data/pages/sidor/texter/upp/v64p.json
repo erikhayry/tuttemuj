@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/v64p.htm",
+  "title": "Utsikt över staden från öster 1964",
+  "summary": "Flygbild från öster 1964 med korsningen Bankgatan–Bockmöllergatan i förgrunden, ur stadens arkiv.",
+  "topics": [
+    "flygbilder",
+    "1964"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bockmöllergatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5216242,
+        "lng": 22.5400655,
+        "match": "name",
+        "gazetteerName": "bockmöllergatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Utsikt över staden från öster",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "931781884eba91cd4447fef5a381139871683295424bb7cbf3ced5faa99c0c2f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

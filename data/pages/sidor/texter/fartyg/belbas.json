@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/belbas.htm",
+  "title": "Ångaren Belbas",
+  "summary": "Om ångaren Belbas som gick med styckegods på hamnar i Bottniska viken och som ägdes av Nykarlebybor. Sidan samlar tidningsklipp från Österbottniska Posten 1923–1926 om bolagets bildande, grundstötningen utanför Messkär, auktioner, ett falskt rykte om att fartyget försvunnit och befälhavarens 60-årsdag.",
+  "topics": [
+    "ångare",
+    "sjöfart",
+    "kusttrafik",
+    "tidningsklipp",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "J. W. Jakobsson",
+      "alternateNames": [
+        "Brännvins-Jakobsson"
+      ],
+      "roles": [
+        "sjökapten",
+        "befälhavare",
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Paul Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "gårdsägare",
+        "däckskarl"
+      ]
+    },
+    {
+      "name": "Vilhelm Marklund",
+      "alternateNames": [],
+      "roles": [
+        "maskinist"
+      ]
+    },
+    {
+      "name": "Anders Vilhelm Andell",
+      "alternateNames": [],
+      "roles": [
+        "styrman"
+      ]
+    },
+    {
+      "name": "Vilho Bäck",
+      "alternateNames": [],
+      "roles": [
+        "första styrman"
+      ]
+    },
+    {
+      "name": "Voldemar Vaal",
+      "alternateNames": [],
+      "roles": [
+        "första maskinist"
+      ]
+    },
+    {
+      "name": "Gösta Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll bilder och fakta"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Messkär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ångbåtsbryggan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kallan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nytt ångbåtsbolag bildas med intressenter i Vasa, Nykarleby och Uleåborg",
+      "date": {
+        "year": 1923,
+        "month": 4,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20 april 1923"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Belbas grundstöter vid Nygrund utanför Messkär",
+      "date": {
+        "year": 1923,
+        "month": 6,
+        "day": 1,
+        "circa": false,
+        "text": "Österbottniska Posten 1 juni 1923"
+      },
+      "people": [
+        "J. W. Jakobsson"
+      ],
+      "places": [
+        "Messkär"
+      ]
+    },
+    {
+      "title": "Styrman Andell firas på sin 60-årsdag ombord",
+      "date": {
+        "year": 1924,
+        "month": 7,
+        "day": 25,
+        "circa": false,
+        "text": "Österbottniska Posten 25 juli 1924"
+      },
+      "people": [
+        "Anders Vilhelm Andell"
+      ],
+      "places": []
+    },
+    {
+      "title": "Belbas rapporteras spårlöst försvunnen men var inte förolyckad",
+      "date": {
+        "year": 1924,
+        "month": 9,
+        "day": 20,
+        "circa": false,
+        "text": "Österbottniska Posten 20–22 september 1924"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c446ee3071c0f2e4739322d2cae324dc7f4a83cca1261a61ec7f27bf3f63dcee",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

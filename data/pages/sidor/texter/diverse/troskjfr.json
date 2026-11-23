@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/troskjfr.htm",
+  "title": "Seminariegatan 2005",
+  "summary": "Foto från januari 2005 av Seminariegatan vid infarten till folkhögskolan. Texten beskriver en välvd källare från grevskapstiden där Carl Grundfeldt förvarade varor, Hagnäs diversehandel i folkhögskolans grindstuga och var stadsgränsen gick före kommunsammanslagningen 1975.",
+  "topics": [
+    "Seminariegatan",
+    "folkhögskolan",
+    "handel",
+    "stadsgräns"
+  ],
+  "people": [
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "handlare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kristliga folkhögskolans grindstuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariets trädgårdsmästarbostad",
+      "kind": "building",
+      "alternateNames": [
+        "seminarie-/stadsträdgårdsmästarbostaden"
+      ]
+    },
+    {
+      "name": "Hagnäs diversehandel",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av Seminariegatan vid folkhögskolans infart",
+      "date": {
+        "year": 2005,
+        "month": 1,
+        "circa": false,
+        "text": "januari 2005"
+      },
+      "people": [],
+      "places": [
+        "Seminariegatan"
+      ]
+    },
+    {
+      "title": "Hagnäs diversehandel finns i grindstugan",
+      "date": {
+        "year": 1940,
+        "circa": true,
+        "text": "fram till början av 1940-talet"
+      },
+      "people": [],
+      "places": [
+        "Kristliga folkhögskolans grindstuga",
+        "Hagnäs diversehandel"
+      ]
+    },
+    {
+      "title": "Kommunsammanslagningen mellan staden och landskommunen",
+      "date": {
+        "year": 1975,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "cccc7561fb71daddcdd3aa7716904658e6fffc891605e70a9ad500ace9cb2beb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

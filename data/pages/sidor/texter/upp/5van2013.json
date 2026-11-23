@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/5van2013.html",
+  "title": "Från sista femvåningshuset",
+  "summary": "Foton från taket av det sista femvåningshuset en vårdag 2013. Bilderna visar staden från ett perspektiv få sett, och Kristliga folkhögskolan som hissat sin Kredu-flagga.",
+  "topics": [
+    "utsikt",
+    "femvåningshus",
+    "folkhögskolan"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Femvåningshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Folkis",
+        "Kredu"
+      ],
+      "geo": {
+        "lat": 63.5275083,
+        "lng": 22.5269437,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lars Pensar fotograferar från sista höghuset",
+      "date": {
+        "year": 2013,
+        "month": 5,
+        "day": 15,
+        "circa": false,
+        "text": "den 15 maj 2013"
+      },
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Femvåningshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c661f3f4afb02c6d8e9c4a6ed496f200775e911ccd76bc9fc79fdcb1dab98b6e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

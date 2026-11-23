@@ -1,0 +1,211 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ztmetar.htm",
+  "title": "Zacharias Topelius och Joel Nilsson",
+  "summary": "Joel Nilsson minns sommaren 1893, då han var fiskar- och roddargosse åt Zacharias Topelius under dennes besök hos svågern rådman Lybeck. Han berättar om metfärder i älven och skärgården, skaldens vänlighet och avskedet vid Kovjoki station.",
+  "topics": [
+    "Zacharias Topelius",
+    "minnen",
+    "fiske",
+    "sommarliv",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [
+        "Fiskarpojken"
+      ],
+      "birthYear": 1877,
+      "deathYear": 1940,
+      "roles": [
+        "fiskargosse",
+        "roddare"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Farbror T."
+      ],
+      "roles": [
+        "skald",
+        "statsråd"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Topelius svåger."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Remalsbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Prostens linda",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nybron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Mellansand",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Åminne gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Alön",
+      "kind": "island",
+      "alternateNames": [
+        "Lybecks Charlottenlund"
+      ]
+    },
+    {
+      "name": "Majniemi",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bådaviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Sandön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Rödklubben",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Joel Nilsson ser Topelius första gången vid en fest vid prostens linda",
+      "date": {
+        "year": 1887,
+        "month": 8,
+        "day": 8,
+        "circa": false,
+        "text": "Den 8 augusti 1887"
+      },
+      "people": [
+        "Joel Nilsson",
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Prostens linda",
+        "Remalsbacken"
+      ]
+    },
+    {
+      "title": "Joel Nilsson är Topelius fiskargosse under en sommar",
+      "date": {
+        "year": 1893,
+        "circa": false,
+        "text": "Sommaren 1893"
+      },
+      "people": [
+        "Joel Nilsson",
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "Alön",
+        "Majniemi",
+        "Bådaviken",
+        "Rödklubben"
+      ]
+    },
+    {
+      "title": "Topelius lämnar Nykarleby och tackar fiskarpojken vid Kovjoki station",
+      "date": {
+        "year": 1893,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius",
+        "Joel Nilsson"
+      ],
+      "places": [
+        "Kovjoki station"
+      ]
+    },
+    {
+      "title": "Minnena publiceras i Österbottniska Posten",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 11,
+        "circa": false,
+        "text": "11 januari 1918"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Sommaren 1893 ska en ung fiskargosse ro skalden Topelius på metfärder och är rädd för att välta båten i Ragnörn. Topelius visar sig vara vänlig, hjälper till vid årorna och vadar själv ut i grundet vid Rödklubben, och till avsked ger han pojken en blank minnespenning.",
+    "reason": "Berättelsen har en tydlig utvecklingsbåge, humor, scener på vattnet och ett känslosamt avsked.",
+    "characters": [
+      "Joel Nilsson",
+      "Zacharias Topelius"
+    ],
+    "places": [
+      "Ragnörn",
+      "Rödklubben",
+      "Majniemi",
+      "Kovjoki station"
+    ]
+  },
+  "contentHash": "af1bb0837135db8ddbe85323a9abb8773ce8043fc0c2a17d17b2c7c75158efa5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

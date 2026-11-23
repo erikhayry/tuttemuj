@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/so1958.htm",
+  "title": "Rajåkern och staden från sydost 1958",
+  "summary": "Vykort från 1958 över Rajåkern och staden. Rajåkersvägen var infarten till staden tills Prästvägen byggdes, och 2006 presenterades en stadsplan för området närmast älven.",
+  "topics": [
+    "vykort",
+    "Rajåkern",
+    "stadsplan"
+  ],
+  "people": [
+    {
+      "name": "Runar Asplund",
+      "alternateNames": [],
+      "roles": [
+        "trädgårdsmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rajåkern",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Rajåkersvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5149339,
+        "lng": 22.5313058,
+        "match": "name",
+        "gazetteerName": "rajåkersvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Prästvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Prostas haga",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Asplunds trädgårdsmästeri",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vykort över Rajåkern och staden",
+      "date": {
+        "year": 1958,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadsplan för området närmast älven presenteras",
+      "date": {
+        "year": 2006,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "33c434d0131de6b8e7baf8682feef78c55d16641f80c5ac6846f6d34251c9f8c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

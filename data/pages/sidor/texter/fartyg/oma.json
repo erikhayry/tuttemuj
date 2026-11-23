@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/oma.htm",
+  "title": "Skutan Oma",
+  "summary": "Om den lilla kravellbyggda skutan Oma som sjönk i Markusviken (Långörsviken) och blev ett omtyckt metställe. Minnen från flera berättare om hur skutan ankrades, varför den sjönk, hur virket revs bort på 1940-talet och hur vraket länge syntes under ytan.",
+  "topics": [
+    "skuta",
+    "vrak",
+    "Långören",
+    "fiske",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Lars Östman",
+      "alternateNames": [],
+      "roles": [
+        "berättade"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "berättade"
+      ]
+    },
+    {
+      "name": "Gustaf Höglund",
+      "alternateNames": [],
+      "roles": [
+        "affärsman",
+        "sågverksägare"
+      ]
+    },
+    {
+      "name": "Otto Andersson",
+      "alternateNames": [],
+      "roles": [
+        "gästgivare"
+      ]
+    },
+    {
+      "name": "Anders Nyman",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Karl Ossian Östman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Uno Rinne",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll bild"
+      ]
+    },
+    {
+      "name": "Sigurd Wenelius",
+      "alternateNames": [],
+      "roles": [
+        "poliskommissarie",
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Håkan Wenelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Renlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Markusviken",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Långörsviken"
+      ]
+    },
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [
+        "Långörn"
+      ],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Markusholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303554,
+        "lng": 22.4512775,
+        "match": "name",
+        "gazetteerName": "markusholmen",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsalavägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.514881,
+        "lng": 22.5096763,
+        "match": "name",
+        "gazetteerName": "munsalavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto på Oma med Håkan Wenelius på ankarspelet",
+      "date": {
+        "year": 1930,
+        "endYear": 1931,
+        "circa": false,
+        "text": "vintern 1930 eller 1931"
+      },
+      "people": [
+        "Sigurd Wenelius",
+        "Håkan Wenelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Karl Östman och Uno Rinne river bort delar ovan vattenlinjen",
+      "date": {
+        "year": 1940,
+        "endYear": 1949,
+        "circa": false,
+        "text": "på fyrtiotalet"
+      },
+      "people": [
+        "Karl Ossian Östman",
+        "Uno Rinne"
+      ],
+      "places": []
+    },
+    {
+      "title": "Erik Renlund bärgar spanter",
+      "date": {
+        "year": 1960,
+        "endYear": 1969,
+        "circa": false,
+        "text": "på 1960-talet"
+      },
+      "people": [
+        "Erik Renlund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b8e77e8a219c832e79de3412c6e13fb3f860a302c55b8a2bf280bd1c95144697",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

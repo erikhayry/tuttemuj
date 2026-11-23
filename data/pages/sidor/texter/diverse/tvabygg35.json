@@ -1,0 +1,166 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tvabygg35.html",
+  "title": "Två byggnader från 1935 i Nykarleby",
+  "summary": "Lars Pensar berättar om köttkontrollen, som staden uppförde 1935 på mark som visade sig tillhöra Alfred Sund, och om skyddskårshuset på Källbacken som byggdes om samma år och brann 1970. Texten tar också upp ett skeppsankare som vägdes i köttkontrollen.",
+  "topics": [
+    "byggnadshistoria",
+    "köttkontroll",
+    "skyddskåren",
+    "markägande"
+  ],
+  "people": [
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [
+        "markägare"
+      ]
+    },
+    {
+      "name": "Carl Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "polismästare"
+      ]
+    },
+    {
+      "name": "Edvard Hellstrand",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Köttkontrollen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Museigården",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustaf Adolfsgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Tekniska museet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sundströmska gården",
+      "kind": "farm",
+      "alternateNames": [
+        "Holmströms"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Förslag om köttkontroll väcks",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Skyddskårshuset på Källbacken köps av marinskyddskåren och skyddskåren",
+      "date": {
+        "year": 1934,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Källbacken"
+      ]
+    },
+    {
+      "title": "Köttkontrollen och skyddskårshuset byggs",
+      "date": {
+        "year": 1935,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Köttkontrollen",
+        "Källbacken"
+      ]
+    },
+    {
+      "title": "Skyddskårshuset förstörs av brand",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Källbacken"
+      ]
+    },
+    {
+      "title": "Bostadsbyggnad som ingick i skyddskårshuset uppförs",
+      "date": {
+        "year": 1879,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Staden bygger en köttkontroll och tror att marken är stadens egen. Alfred Sund, som vet att tomten är hans, håller tyst tills huset nästan är färdigt och lägger sedan fram sina papper och kräver en ny tomt.",
+    "reason": "En liten maktkamp mellan en enskild markägare och stadens tjänstemän med en tydlig vändpunkt.",
+    "characters": [
+      "Alfred Sund"
+    ],
+    "places": [
+      "Köttkontrollen",
+      "Gustaf Adolfsgatan"
+    ]
+  },
+  "contentHash": "9b9c5b71b2a4fc860dd5bff9acfd66def2013e172b283b6ddaa9caa6947b0bdb",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

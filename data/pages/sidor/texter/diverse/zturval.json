@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/zturval.html",
+  "title": "På jakt efter Trollens jul eller Ett skannande det gick troll i.",
+  "summary": "Mejlväxling från november 2008 mellan Fredrik Liljeström och Stig Haglund om jakten på en Topelius-bok för adventskalendern. Skanningen krånglar, fel bok hämtas och hela biblioteket letar tills bokmysteriet till slut löses.",
+  "topics": [
+    "Topelius",
+    "adventskalendern",
+    "bibliotek",
+    "skanning",
+    "mejl"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karin Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "skannade"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsbiblioteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Forskarrummet och hembygdssamlingen."
+    },
+    {
+      "name": "Larsmo bibliotek",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Mejlväxlingen om Trollens jul börjar",
+      "date": {
+        "year": 2008,
+        "month": 11,
+        "day": 10,
+        "circa": false,
+        "text": "den 10 november 2008"
+      },
+      "people": [
+        "Fredrik Liljeström",
+        "Stig Haglund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Bokmysteriet löses",
+      "date": {
+        "year": 2008,
+        "month": 11,
+        "day": 12,
+        "circa": false,
+        "text": "den 12 november 2008"
+      },
+      "people": [
+        "Stig Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Stig Haglund letar tre gånger i biblioteket efter en bok som Fredrik beskriver, men hittar fel bok och ingen i katalogen känner igen titeln. Hela bibliotekspersonalen börjar leta tills boken hittas på nedersta hyllan.",
+    "reason": "En humoristisk detektivjakt med mejl som dialog, missförstånd och en tydlig upplösning.",
+    "characters": [
+      "Stig Haglund",
+      "Fredrik Liljeström"
+    ],
+    "places": [
+      "Stadsbiblioteket"
+    ]
+  },
+  "contentHash": "519bad33f30586a2bbf4f38ce2ffb08f84d2c9301ab75c6e66a708c2feff5048",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

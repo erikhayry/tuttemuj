@@ -70,6 +70,11 @@
     "kind": "building"
   },
   {
+    "name": "ahonens bastu",
+    "kind": "building",
+    "note": "Sauna."
+  },
+  {
     "name": "alfred herlers karamellfabrik",
     "kind": "building",
     "note": "Candy factory of Alfred Herler."
@@ -260,6 +265,11 @@
   {
     "name": "artur liljedahls magasin",
     "kind": "building"
+  },
+  {
+    "name": "asplunds trädgårdsmästeri",
+    "kind": "farm",
+    "note": "Market garden by the river at Rajåkern."
   },
   {
     "name": "aspskär",
@@ -563,6 +573,10 @@
     "kind": "building"
   },
   {
+    "name": "bläckhornet",
+    "kind": "building"
+  },
+  {
     "name": "blåbäri-ainas stuga",
     "kind": "building"
   },
@@ -570,10 +584,6 @@
     "name": "blåfinobärji",
     "kind": "landmark",
     "note": "Location not stated on the page; check."
-  },
-  {
-    "name": "bläckhornet",
-    "kind": "building"
   },
   {
     "name": "bogdanoffs gård",
@@ -675,6 +685,11 @@
       "missionshuset"
     ],
     "note": "Fire-brigade house Asgård with the tower, later Missionshuset/Hyddan."
+  },
+  {
+    "name": "brandstationen",
+    "kind": "building",
+    "note": "Fire station, demolished on the former station area."
   },
   {
     "name": "brandåbacka",
@@ -857,6 +872,15 @@
     "kind": "street"
   },
   {
+    "name": "bäck i forsby",
+    "kind": "farm",
+    "note": "Farm in Forsby."
+  },
+  {
+    "name": "bäll-hemmanet",
+    "kind": "farm"
+  },
+  {
     "name": "bådabyttan",
     "kind": "waterbody"
   },
@@ -886,15 +910,6 @@
     "name": "båtsmanstorpet",
     "kind": "farm",
     "note": "On the 1841 Gyldén map."
-  },
-  {
-    "name": "bäck i forsby",
-    "kind": "farm",
-    "note": "Farm in Forsby."
-  },
-  {
-    "name": "bäll-hemmanet",
-    "kind": "farm"
   },
   {
     "name": "bönehuset",
@@ -936,6 +951,11 @@
     "alternateNames": [
       "nykarleby högstadieskola"
     ]
+  },
+  {
+    "name": "cederbergska backen",
+    "kind": "landmark",
+    "note": "Slope below the church toward the river; two cellars built 1847."
   },
   {
     "name": "ceders backe",
@@ -989,6 +1009,10 @@
     "name": "dalabacka hemman",
     "kind": "farm",
     "note": "Farm in Nykarleby landsförsamling."
+  },
+  {
+    "name": "dalas",
+    "kind": "district"
   },
   {
     "name": "dalton jeans shop",
@@ -1152,6 +1176,10 @@
     ]
   },
   {
+    "name": "elevhemmet",
+    "kind": "building"
+  },
+  {
     "name": "elevhemmets uthus",
     "kind": "building",
     "alternateNames": [
@@ -1240,6 +1268,13 @@
     "note": "Folk healer's cottage on Lybecksgatan 21; demolished 1948."
   },
   {
+    "name": "esplanaden",
+    "location": {
+      "lat": 63.5222646,
+      "lng": 22.5305322
+    }
+  },
+  {
     "name": "esplanadgatan",
     "kind": "street"
   },
@@ -1313,6 +1348,11 @@
       "tomt 95",
       "topeliusesplanaden 27"
     ]
+  },
+  {
+    "name": "femvåningshuset",
+    "kind": "building",
+    "note": "Five-storey block."
   },
   {
     "name": "finlands svenska skolmuseum",
@@ -1390,6 +1430,11 @@
   {
     "name": "folkhögskolans bastu",
     "kind": "building"
+  },
+  {
+    "name": "folkhögskolans huvudbyggnad",
+    "kind": "building",
+    "note": "Main building of the Christian folk high school."
   },
   {
     "name": "folkhögskolans internat",
@@ -1583,6 +1628,20 @@
     ]
   },
   {
+    "name": "fäboda kuranstalt",
+    "kind": "building",
+    "note": "Spa sanatorium in Fäboda."
+  },
+  {
+    "name": "färgarens gårdstomt",
+    "kind": "other"
+  },
+  {
+    "name": "färgargrundet",
+    "kind": "other",
+    "note": "Shoal off Kuddnäs, grows each year."
+  },
+  {
     "name": "fåfängan",
     "kind": "landmark",
     "alternateNames": [
@@ -1607,20 +1666,6 @@
       "festsalsbyggnaden"
     ],
     "note": "Former prison camp building."
-  },
-  {
-    "name": "fäboda kuranstalt",
-    "kind": "building",
-    "note": "Spa sanatorium in Fäboda."
-  },
-  {
-    "name": "färgarens gårdstomt",
-    "kind": "other"
-  },
-  {
-    "name": "färgargrundet",
-    "kind": "other",
-    "note": "Shoal off Kuddnäs, grows each year."
   },
   {
     "name": "föreningsbanken",
@@ -1823,6 +1868,11 @@
     "kind": "island"
   },
   {
+    "name": "granqvists skola",
+    "kind": "building",
+    "note": "School at Rajåkersvägen."
+  },
+  {
     "name": "granskär",
     "kind": "island"
   },
@@ -1979,6 +2029,16 @@
     "kind": "building"
   },
   {
+    "name": "gulf-tillbyggnaden",
+    "kind": "building",
+    "note": "Extension to the Gulf building; bricklayer Lars Backlund probably used the Tellblock tools on it."
+  },
+  {
+    "name": "gulfmacken",
+    "kind": "building",
+    "note": "Gulf petrol station."
+  },
+  {
     "name": "gulfs verkstad",
     "kind": "building"
   },
@@ -2066,6 +2126,15 @@
     ]
   },
   {
+    "name": "gästgifvar i soklot",
+    "kind": "farm",
+    "note": "Farm in Soklot."
+  },
+  {
+    "name": "gästgiveriet",
+    "kind": "building"
+  },
+  {
     "name": "gånge rolfs gård",
     "kind": "building"
   },
@@ -2098,15 +2167,6 @@
   },
   {
     "name": "gårdshuset vid lybecksgatan",
-    "kind": "building"
-  },
-  {
-    "name": "gästgifvar i soklot",
-    "kind": "farm",
-    "note": "Farm in Soklot."
-  },
-  {
-    "name": "gästgiveriet",
     "kind": "building"
   },
   {
@@ -2157,6 +2217,11 @@
     "kind": "building"
   },
   {
+    "name": "hagnäs diversehandel",
+    "kind": "building",
+    "note": "Shop by the folk high school gatehouse until the early 1940s."
+  },
+  {
     "name": "hallonstenen",
     "kind": "landmark"
   },
@@ -2167,6 +2232,11 @@
   {
     "name": "halvvägsbacken",
     "kind": "landmark"
+  },
+  {
+    "name": "hammarinska varvet",
+    "kind": "building",
+    "note": "Shipyard on Alörn."
   },
   {
     "name": "handelsman malms byggning",
@@ -2632,6 +2702,11 @@
     "note": "Area near Juthbacka."
   },
   {
+    "name": "joupers kraftstation",
+    "kind": "building",
+    "note": "Power station on the river bank by Joupers factory."
+  },
+  {
     "name": "joupers kraftverk",
     "kind": "building",
     "note": "Jouper factory's power plant by the river below Juthbacka."
@@ -2651,6 +2726,11 @@
   {
     "name": "jukkasbackan",
     "kind": "district"
+  },
+  {
+    "name": "jukkasholmen",
+    "kind": "island",
+    "note": "Holiday spot on Långören."
   },
   {
     "name": "jut",
@@ -2719,6 +2799,10 @@
   {
     "name": "juthasvägen 13",
     "kind": "building"
+  },
+  {
+    "name": "juthasvägen 14",
+    "kind": "street"
   },
   {
     "name": "juthasvägen 17",
@@ -2867,6 +2951,17 @@
     "kind": "building"
   },
   {
+    "name": "kampen",
+    "location": {
+      "lat": 63.5313258,
+      "lng": 22.5384526
+    }
+  },
+  {
+    "name": "kampen-transformatorn",
+    "kind": "building"
+  },
+  {
     "name": "kampåkern",
     "kind": "other"
   },
@@ -2903,6 +2998,11 @@
   {
     "name": "karderiet",
     "kind": "building"
+  },
+  {
+    "name": "kareborg",
+    "kind": "building",
+    "note": "On Källbacken; MT-Lindblom factory burned there 1970."
   },
   {
     "name": "karin sarlins gård",
@@ -3057,6 +3157,11 @@
     "note": "House seen beside Normalskolan."
   },
   {
+    "name": "kisors lillstuga",
+    "kind": "building",
+    "note": "Small house where the fish shop was."
+  },
+  {
     "name": "kisorsvägen",
     "kind": "street"
   },
@@ -3188,6 +3293,10 @@
     "kind": "district"
   },
   {
+    "name": "korsbäck",
+    "kind": "village"
+  },
+  {
     "name": "korsåkern",
     "kind": "district"
   },
@@ -3285,6 +3394,11 @@
       "lat": 63.5275083,
       "lng": 22.5269437
     }
+  },
+  {
+    "name": "kristliga folkhögskolans grindstuga",
+    "kind": "building",
+    "note": "Gatehouse of the folk high school."
   },
   {
     "name": "kristoffer södermans gård",
@@ -3473,6 +3587,11 @@
     ]
   },
   {
+    "name": "kyrktornet",
+    "kind": "landmark",
+    "note": "Church tower, viewpoint."
+  },
+  {
     "name": "kyrktrappan",
     "kind": "landmark",
     "note": "Church steps, built 1867."
@@ -3481,18 +3600,6 @@
     "name": "kyrktuppen",
     "kind": "landmark",
     "note": "Copper weathercock on the church tower, from 1709."
-  },
-  {
-    "name": "kållandet",
-    "kind": "other",
-    "alternateNames": [
-      "kål-land",
-      "kålland"
-    ]
-  },
-  {
-    "name": "kåtaskär",
-    "kind": "island"
   },
   {
     "name": "kägelbanan",
@@ -3594,6 +3701,18 @@
     "note": "Power plant in Forsby; burned 1928."
   },
   {
+    "name": "kållandet",
+    "kind": "other",
+    "alternateNames": [
+      "kål-land",
+      "kålland"
+    ]
+  },
+  {
+    "name": "kåtaskär",
+    "kind": "island"
+  },
+  {
     "name": "köpmansgatan",
     "kind": "street"
   },
@@ -3667,6 +3786,10 @@
       "gård nr 18"
     ],
     "note": "Gård nr 18 on Södra Torggatan (Sollefteågatan)."
+  },
+  {
+    "name": "laqvists trappa",
+    "kind": "landmark"
   },
   {
     "name": "larsholmarna",
@@ -3770,6 +3893,10 @@
     "note": "On the 1841 Gyldén map."
   },
   {
+    "name": "lill-kuddnäs",
+    "kind": "district"
+  },
+  {
     "name": "lilla alören",
     "kind": "island",
     "note": "Small island in the Alörn group."
@@ -3780,6 +3907,11 @@
     "alternateNames": [
       "lilla berg gatan"
     ]
+  },
+  {
+    "name": "lilla bryggan",
+    "kind": "landmark",
+    "note": "Old small pier at Andrasjön."
   },
   {
     "name": "lilla byggningen",
@@ -3815,12 +3947,12 @@
     "kind": "landmark"
   },
   {
-    "name": "lillbådan",
-    "kind": "other"
-  },
-  {
     "name": "lillbärg",
     "kind": "landmark"
+  },
+  {
+    "name": "lillbådan",
+    "kind": "other"
   },
   {
     "name": "lillgapastein",
@@ -4007,6 +4139,18 @@
     "note": "Lybeck poet's home."
   },
   {
+    "name": "länsmansgården",
+    "kind": "farm"
+  },
+  {
+    "name": "läppogubben",
+    "kind": "landmark"
+  },
+  {
+    "name": "lärkträdet vid apoteket",
+    "kind": "landmark"
+  },
+  {
     "name": "lånemagasinet på nygård",
     "kind": "building",
     "alternateNames": [
@@ -4039,18 +4183,6 @@
     "name": "långörsfjärden",
     "kind": "waterbody",
     "note": "Bay in the archipelago."
-  },
-  {
-    "name": "länsmansgården",
-    "kind": "farm"
-  },
-  {
-    "name": "läppogubben",
-    "kind": "landmark"
-  },
-  {
-    "name": "lärkträdet vid apoteket",
-    "kind": "landmark"
   },
   {
     "name": "lövasbacken",
@@ -4130,12 +4262,13 @@
     "kind": "farm"
   },
   {
-    "name": "markéns/rudnäs gård",
-    "kind": "building"
-  },
-  {
     "name": "marklunds backen",
     "kind": "landmark"
+  },
+  {
+    "name": "marklunds bilskrot",
+    "kind": "building",
+    "note": "Scrapyard on Grev Tottgatan."
   },
   {
     "name": "marklunds gård",
@@ -4149,6 +4282,18 @@
     "name": "markus-/långörsviken",
     "kind": "waterbody",
     "note": "Bay between Markusholmen and Långörn, where the schooner Oma ended its days."
+  },
+  {
+    "name": "markusviken",
+    "kind": "waterbody",
+    "alternateNames": [
+      "långörsviken"
+    ],
+    "note": "Bay where the wreck of Oma lies."
+  },
+  {
+    "name": "markéns/rudnäs gård",
+    "kind": "building"
   },
   {
     "name": "marthagården",
@@ -4207,6 +4352,10 @@
     "note": "Corner of Bangatan and Karleborgsgatan."
   },
   {
+    "name": "mattssons sportaffär",
+    "kind": "building"
+  },
+  {
     "name": "meitanstein",
     "kind": "landmark"
   },
@@ -4222,6 +4371,15 @@
   {
     "name": "melchers",
     "kind": "building"
+  },
+  {
+    "name": "mellangatan 6",
+    "kind": "street"
+  },
+  {
+    "name": "mellansand",
+    "kind": "district",
+    "note": "Reed beds opposite Åminne gård."
   },
   {
     "name": "mickelstorp",
@@ -4313,10 +4471,6 @@
     }
   },
   {
-    "name": "monå folkskola",
-    "kind": "building"
-  },
-  {
     "name": "monäs",
     "kind": "village"
   },
@@ -4326,6 +4480,10 @@
     "alternateNames": [
       "monäs fjärden"
     ]
+  },
+  {
+    "name": "monå folkskola",
+    "kind": "building"
   },
   {
     "name": "mossahagan",
@@ -4352,6 +4510,15 @@
     "kind": "building"
   },
   {
+    "name": "museigården",
+    "kind": "farm"
+  },
+  {
+    "name": "museitomten",
+    "kind": "landmark",
+    "note": "Museum plot."
+  },
+  {
     "name": "musikpaviljongen",
     "kind": "building",
     "note": "Music pavilion in Topeliusparken, built 1914."
@@ -4363,18 +4530,6 @@
       "sista styvern"
     ],
     "note": "Rådman Lindqvist's villa on Alörn."
-  },
-  {
-    "name": "månräton",
-    "kind": "street"
-  },
-  {
-    "name": "mårtens gård",
-    "kind": "farm",
-    "alternateNames": [
-      "mårtens"
-    ],
-    "note": "Farm in Högbacka."
   },
   {
     "name": "mäenpääs såg",
@@ -4399,6 +4554,18 @@
     "note": "Pilot station with the pilots' own cottages."
   },
   {
+    "name": "månräton",
+    "kind": "street"
+  },
+  {
+    "name": "mårtens gård",
+    "kind": "farm",
+    "alternateNames": [
+      "mårtens"
+    ],
+    "note": "Farm in Högbacka."
+  },
+  {
     "name": "namnberget",
     "kind": "landmark"
   },
@@ -4413,6 +4580,10 @@
     "alternateNames": [
       "nejon ögonfiske"
     ]
+  },
+  {
+    "name": "nesslers",
+    "kind": "building"
   },
   {
     "name": "nesslers filhuggeri",
@@ -4479,6 +4650,14 @@
   {
     "name": "normens gårdsplan",
     "kind": "other"
+  },
+  {
+    "name": "normens vedlider",
+    "kind": "building",
+    "alternateNames": [
+      "normens vedlider"
+    ],
+    "note": "Woodshed at Normalskolan, built 1927."
   },
   {
     "name": "normentomten",
@@ -4680,6 +4859,13 @@
     "note": "Approximate address from a 1880s–1940s sale notice."
   },
   {
+    "name": "nykarleby",
+    "location": {
+      "lat": 63.5217598,
+      "lng": 22.5303558
+    }
+  },
+  {
     "name": "nykarleby aktiebank",
     "kind": "building",
     "note": "Bank 1898-1914, in the house on Norra Torggatan."
@@ -4702,6 +4888,14 @@
     "kind": "building"
   },
   {
+    "name": "nykarleby båtvarv",
+    "kind": "building",
+    "alternateNames": [
+      "nykarleby båtbyggeri"
+    ],
+    "note": "Boatyard."
+  },
+  {
     "name": "nykarleby centralandelsmejeri",
     "kind": "building",
     "note": "Dairy cooperative (centralandelsmejeri) in Nykarleby."
@@ -4722,6 +4916,10 @@
   {
     "name": "nykarleby gymnasium",
     "kind": "building"
+  },
+  {
+    "name": "nykarleby hamn",
+    "kind": "landmark"
   },
   {
     "name": "nykarleby handelslag",
@@ -4830,6 +5028,11 @@
     "kind": "landmark"
   },
   {
+    "name": "nykarleby stads skeppsvarv",
+    "kind": "building",
+    "note": "Town shipyard."
+  },
+  {
     "name": "nykarleby stadsbibliotek",
     "kind": "building"
   },
@@ -4924,6 +5127,18 @@
     "note": "Villa of Johannes Nyström, head of the Christian folk high school."
   },
   {
+    "name": "nätön",
+    "kind": "island"
+  },
+  {
+    "name": "nätören",
+    "kind": "island"
+  },
+  {
+    "name": "nålön",
+    "kind": "island"
+  },
+  {
     "name": "nålörn",
     "kind": "other",
     "alternateNames": [
@@ -4941,14 +5156,6 @@
   {
     "name": "nålövägen",
     "kind": "street"
-  },
-  {
-    "name": "nätön",
-    "kind": "island"
-  },
-  {
-    "name": "nätören",
-    "kind": "island"
   },
   {
     "name": "nörråkers",
@@ -5145,6 +5352,10 @@
     ]
   },
   {
+    "name": "prostas haga",
+    "kind": "district"
+  },
+  {
     "name": "prostas hagan",
     "kind": "other"
   },
@@ -5155,6 +5366,11 @@
   {
     "name": "prostas-jutts stuga",
     "kind": "building"
+  },
+  {
+    "name": "prostens linda",
+    "kind": "landmark",
+    "note": "Linden at the provost's place near Remalsbacken."
   },
   {
     "name": "prostgården",
@@ -5192,6 +5408,10 @@
   {
     "name": "präststenen",
     "kind": "landmark"
+  },
+  {
+    "name": "prästvägen",
+    "kind": "street"
   },
   {
     "name": "purilfinnan",
@@ -5414,6 +5634,13 @@
     "kind": "building"
   },
   {
+    "name": "rummelbacken",
+    "location": {
+      "lat": 63.526907,
+      "lng": 22.52727
+    }
+  },
+  {
     "name": "runda kiosken",
     "kind": "building"
   },
@@ -5488,6 +5715,11 @@
       "lat": 63.5220214,
       "lng": 22.5268777
     }
+  },
+  {
+    "name": "rådman bergers magasin",
+    "kind": "building",
+    "note": "Warehouse by the river."
   },
   {
     "name": "rådman bongs byggning",
@@ -5710,6 +5942,10 @@
     ]
   },
   {
+    "name": "seminariegatan 7",
+    "kind": "street"
+  },
+  {
     "name": "seminariegranen",
     "kind": "landmark"
   },
@@ -5772,6 +6008,10 @@
     "alternateNames": [
       "kosthållet"
     ]
+  },
+  {
+    "name": "seminariets kosthållsbyggnad",
+    "kind": "building"
   },
   {
     "name": "seminariets odlingar",
@@ -5956,6 +6196,11 @@
     "kind": "building"
   },
   {
+    "name": "skridskobanan",
+    "kind": "landmark",
+    "note": "Skating rink on the market square in winter."
+  },
+  {
     "name": "skridskobanan på liljedahls tomt",
     "kind": "landmark"
   },
@@ -6114,6 +6359,10 @@
     "note": "Soldier's croft in Ytterjeppo."
   },
   {
+    "name": "soldattorpet",
+    "kind": "farm"
+  },
+  {
     "name": "soldatviken",
     "kind": "landmark"
   },
@@ -6263,6 +6512,10 @@
     ]
   },
   {
+    "name": "stadens lager",
+    "kind": "building"
+  },
+  {
     "name": "stadens packhus",
     "kind": "building",
     "alternateNames": [
@@ -6342,6 +6595,10 @@
   {
     "name": "stadsöhren",
     "kind": "waterbody"
+  },
+  {
+    "name": "stall åminne",
+    "kind": "building"
   },
   {
     "name": "stallet vid nykarleby regale bränneri",
@@ -6610,11 +6867,6 @@
     "note": "Summer kiosk by Jakobstadsvägen near Kuddnäs."
   },
   {
-    "name": "sundsténs gård",
-    "kind": "building",
-    "note": "Formerly Anderséns; built by builder Björklund at the south end of Floraparken."
-  },
-  {
     "name": "sundströms gård",
     "kind": "building",
     "alternateNames": [
@@ -6629,6 +6881,11 @@
   {
     "name": "sundströms villa",
     "kind": "building"
+  },
+  {
+    "name": "sundsténs gård",
+    "kind": "building",
+    "note": "Formerly Anderséns; built by builder Björklund at the south end of Floraparken."
   },
   {
     "name": "surbrunnen",
@@ -6978,6 +7235,13 @@
     "note": "Well at the southwest corner of the market square, dug 1934."
   },
   {
+    "name": "torget",
+    "location": {
+      "lat": 63.522438,
+      "lng": 22.528594
+    }
+  },
+  {
     "name": "torget före branden",
     "kind": "landmark",
     "location": {
@@ -7117,6 +7381,10 @@
     ]
   },
   {
+    "name": "tullstrand",
+    "kind": "other"
+  },
+  {
     "name": "tullstranden",
     "kind": "landmark",
     "location": {
@@ -7144,19 +7412,19 @@
     "kind": "farm"
   },
   {
-    "name": "tågs hemman",
-    "kind": "farm",
-    "alternateNames": [
-      "tågs"
-    ]
-  },
-  {
     "name": "tändsticksfabriken",
     "kind": "building"
   },
   {
     "name": "tärnishällan",
     "kind": "other"
+  },
+  {
+    "name": "tågs hemman",
+    "kind": "farm",
+    "alternateNames": [
+      "tågs"
+    ]
   },
   {
     "name": "udds gård",
@@ -7220,6 +7488,10 @@
   {
     "name": "vasagatan",
     "kind": "street"
+  },
+  {
+    "name": "vasklot",
+    "kind": "village"
   },
   {
     "name": "vattenkvarnen",
@@ -7344,10 +7616,6 @@
     "kind": "village"
   },
   {
-    "name": "våghuset",
-    "kind": "building"
-  },
-  {
     "name": "väderkvarnen",
     "kind": "building"
   },
@@ -7441,6 +7709,14 @@
       "strandgatan",
       "westra vattugränd"
     ]
+  },
+  {
+    "name": "våghuset",
+    "kind": "building"
+  },
+  {
+    "name": "wahlbergs",
+    "kind": "building"
   },
   {
     "name": "wahlbergs färgeri",
@@ -7573,50 +7849,6 @@
     ]
   },
   {
-    "name": "åbacka skola",
-    "kind": "building",
-    "note": "School in Nedervetil."
-  },
-  {
-    "name": "åbranten",
-    "kind": "landmark"
-  },
-  {
-    "name": "ågatan",
-    "kind": "street"
-  },
-  {
-    "name": "åminne",
-    "kind": "other"
-  },
-  {
-    "name": "åminnegård",
-    "kind": "building",
-    "note": "Residence on the riverbank built by Fritz Olson, after 1900."
-  },
-  {
-    "name": "ån",
-    "kind": "waterbody",
-    "alternateNames": [
-      "älven"
-    ]
-  },
-  {
-    "name": "ångbåtsbryggan",
-    "kind": "landmark"
-  },
-  {
-    "name": "ångfartygsbryggan",
-    "kind": "landmark"
-  },
-  {
-    "name": "åvik",
-    "kind": "other",
-    "alternateNames": [
-      "åwijk"
-    ]
-  },
-  {
     "name": "äggskär",
     "kind": "island"
   },
@@ -7668,6 +7900,55 @@
     "name": "ängsparken",
     "kind": "building",
     "note": "Row houses, probably 1980s."
+  },
+  {
+    "name": "åbacka skola",
+    "kind": "building",
+    "note": "School in Nedervetil."
+  },
+  {
+    "name": "åbranten",
+    "kind": "landmark"
+  },
+  {
+    "name": "ågatan",
+    "kind": "street"
+  },
+  {
+    "name": "åminne",
+    "kind": "other"
+  },
+  {
+    "name": "åminne gård",
+    "kind": "farm",
+    "note": "Farm opposite Mellansand."
+  },
+  {
+    "name": "åminnegård",
+    "kind": "building",
+    "note": "Residence on the riverbank built by Fritz Olson, after 1900."
+  },
+  {
+    "name": "ån",
+    "kind": "waterbody",
+    "alternateNames": [
+      "älven"
+    ]
+  },
+  {
+    "name": "ångbåtsbryggan",
+    "kind": "landmark"
+  },
+  {
+    "name": "ångfartygsbryggan",
+    "kind": "landmark"
+  },
+  {
+    "name": "åvik",
+    "kind": "other",
+    "alternateNames": [
+      "åwijk"
+    ]
   },
   {
     "name": "öjskatan",
@@ -7723,55 +8004,15 @@
     ]
   },
   {
+    "name": "övergaards uthus",
+    "kind": "building"
+  },
+  {
     "name": "øvergaards snickeri",
     "kind": "building",
     "alternateNames": [
       "övergaards snickeri"
     ],
     "note": "Joinery at the corner of Jakobstadsvägen and Åminnevägen; taken over by Prevex in 1958."
-  },
-  {
-    "name": "övergaards uthus",
-    "kind": "building"
-  },
-  {
-    "name": "torget",
-    "location": {
-      "lat": 63.522438,
-      "lng": 22.528594
-    }
-  },
-  {
-    "name": "nykarleby",
-    "location": {
-      "lat": 63.5217598,
-      "lng": 22.5303558
-    }
-  },
-  {
-    "name": "rummelbacken",
-    "location": {
-      "lat": 63.526907,
-      "lng": 22.52727
-    }
-  },
-  {
-    "name": "esplanaden",
-    "location": {
-      "lat": 63.5222646,
-      "lng": 22.5305322
-    }
-  },
-  {
-    "name": "kampen",
-    "location": {
-      "lat": 63.5313258,
-      "lng": 22.5384526
-    }
-  },
-  {
-    "name": "gulf-tillbyggnaden",
-    "kind": "building",
-    "note": "Extension to the Gulf building; bricklayer Lars Backlund probably used the Tellblock tools on it."
   }
 ]

@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/torgvy.html",
+  "title": "Torget omkring 1910",
+  "summary": "Den äldsta bilden i Gerda Mattssons samling visar torget omkring 1910, med ett menageri och ett färgglatt våghus. Texten nämner också att Wasa Aktie Bank köpte gården 1898 och att banken senare gick upp i Landtmannabanken.",
+  "topics": [
+    "torget",
+    "foto",
+    "marknad",
+    "banker"
+  ],
+  "people": [
+    {
+      "name": "Gerda Mattsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bilden ingår i hennes samling."
+    },
+    {
+      "name": "Henry Brunell",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll bilden"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserade bilden"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Våghuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Laqvists trappa",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bild på torget med menageri",
+      "date": {
+        "year": 1910,
+        "circa": true,
+        "text": "omkring 1910"
+      },
+      "people": [],
+      "places": [
+        "Torget",
+        "Våghuset"
+      ]
+    },
+    {
+      "title": "Wasa Aktie Bank köper gården",
+      "date": {
+        "year": 1898,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Wasa Aktie Bank fusioneras till Landtmannabanken",
+      "date": {
+        "year": 1921,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "58a25d8ec85ad6b918d30c2dbcb31c9adc57cd6e3ca00d63287eb1b34ca1080d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

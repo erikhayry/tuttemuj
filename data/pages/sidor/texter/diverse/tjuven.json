@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tjuven.html",
+  "title": "På jakt efter bankdirektören och bankrånaren",
+  "summary": "Efter att tomteorkestern spårats upp letar skribenterna efter två dockor som på 1970- och 80-talen stod i Sparbankens skyltfönster, en bankdirektör som räknade pengar och en tjuv med kofot. Stig Haglund ringer runt till gamla bankanställda, men ingen minns var dockorna tog vägen.",
+  "topics": [
+    "Sparbanken",
+    "skyltfönster",
+    "minnen",
+    "landmärken"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "researcher"
+      ]
+    },
+    {
+      "name": "Alex Ström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hans bilmodell stod i firmans fönster."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sparbanken",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan 17",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Bankgtan 17",
+      "geo": {
+        "lat": 63.522142,
+        "lng": 22.5347622,
+        "match": "name",
+        "gazetteerName": "bankgatan 17",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Dockorna med bankdirektören och tjuven står i Sparbankens skyltfönster",
+      "date": {
+        "year": 1970,
+        "endYear": 1989,
+        "circa": false,
+        "text": "under 70- och 80-talet"
+      },
+      "people": [],
+      "places": [
+        "Sparbanken"
+      ]
+    },
+    {
+      "title": "Fredrik skriver till Stig Haglund om de försvunna dockorna",
+      "date": {
+        "year": 2013,
+        "month": 12,
+        "day": 7,
+        "circa": false,
+        "text": "Den 7 december 2013"
+      },
+      "people": [
+        "Stig Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4020de67c415d0bd6020282f4fe4601d505ab3c9a83dca87ed7332cc2cfe863a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

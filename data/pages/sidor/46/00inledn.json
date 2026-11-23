@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/00inledn.html",
+  "title": "Sommaren 1946",
+  "summary": "Inledning till en film från sommaren 1946 om en utflykt till Nykarleby, med en kort historik av staden. Filmen digitaliserades av Jorma Metso, bilderna kolorerades av Peter Gullback och följetongen gick november–juli 2010.",
+  "topics": [
+    "film",
+    "1946",
+    "historia",
+    "följetong"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserade"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerade"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby grundas",
+      "date": {
+        "year": 1620,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Filmen om Nykarleby tas",
+      "date": {
+        "year": 1946,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "476052e174fa7cec97352f31250a29e089ceb0c1851ad22112b29c456c989090",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

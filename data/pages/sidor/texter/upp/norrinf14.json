@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/upp/norrinf14.html",
+  "title": "Norra infarten 2014",
+  "summary": "Foto över norra infarten från en sälg på museitomten innan den avverkades. Sälgen planterades för ca 50 år sedan av Agnes Östman och Anders Fors d.ä.",
+  "topics": [
+    "utsikt",
+    "norra infarten",
+    "museet",
+    "träd"
+  ],
+  "people": [
+    {
+      "name": "Agnes Östman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Fors d.ä.",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Museitomten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sälgen på museitomten avverkas",
+      "date": {
+        "year": 2014,
+        "month": 2,
+        "day": 20,
+        "circa": false,
+        "text": "Den 20 februari 2014"
+      },
+      "people": [],
+      "places": [
+        "Museitomten"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0f22e7a87438f7e44f22684a97894a7654a29b1805ddfbbd4903066945d654ea",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}

@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/uleaborg.htm",
+  "title": "Ångfartyget Uleåborg",
+  "summary": "Om ångfartyget Uleåborg som byggdes i Stockholm 1876 för ett bolag i Uleåborg. Uppgifterna kommer från Johan Rajander och en bok om Uleåborgs fartyg och skeppare, med kaptener, rutter och tidningsnotiser om fartyget.",
+  "topics": [
+    "ångfartyg",
+    "sjöfart",
+    "Uleåborg",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Johan Rajander",
+      "alternateNames": [],
+      "roles": [
+        "gav uppgifterna"
+      ]
+    },
+    {
+      "name": "Otto Ravander",
+      "alternateNames": [
+        "Isak Otto Ravander"
+      ],
+      "birthYear": 1843,
+      "deathYear": 1914,
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "H. J. Granberg",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "P. W. Snellman",
+      "alternateNames": [],
+      "birthYear": 1876,
+      "deathYear": 1955,
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Ångfartyget Uleåborg byggs vid Bergsunds mekaniska verkstad i Stockholm",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Otto Ravander är kapten på Uleåborg",
+      "date": {
+        "year": 1876,
+        "endYear": 1882,
+        "circa": false,
+        "text": "1876–82"
+      },
+      "people": [
+        "Otto Ravander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fartyget säljs till Finska ångfartygsaktiebolaget",
+      "date": {
+        "year": 1891,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4f9ddd9b94559fc99c6a0b716112f329815f115a8096b2d430793bc586cb4c60",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:03:56.654Z"
+}
