@@ -39,8 +39,58 @@ const words = (question: string): string[] =>
     .filter(Boolean);
 
 /**
+ * Endings that turn a place name into the form used in a sentence. Finnish case endings
+ * (Forsbyssä, Kuddnäsissä, Storbronilla) and the Swedish genitive (Forsbys). Longest first.
+ */
+const ENDINGS = [
+  "ssa",
+  "ssä",
+  "sta",
+  "stä",
+  "lla",
+  "llä",
+  "lta",
+  "ltä",
+  "lle",
+  "ksi",
+  "hun",
+  "hyn",
+  "han",
+  "hen",
+  "hin",
+  "hon",
+  "na",
+  "nä",
+  "ta",
+  "tä",
+  "n",
+  "a",
+  "ä",
+  "s",
+];
+/** A shorter stem is too likely to be an ordinary word. */
+const MIN_STEM = MIN_NAME_LENGTH;
+
+/**
+ * The word itself, then the names it could be an inflected form of. Finnish adds an "i" before
+ * the ending to a name that ends in a consonant (Kuddnäs -> Kuddnäsissä), so that is tried too.
+ */
+export function baseForms(word: string): string[] {
+  const forms = [word];
+  for (const ending of ENDINGS) {
+    if (!word.endsWith(ending)) continue;
+    const stem = word.slice(0, -ending.length);
+    if (stem.length < MIN_STEM) continue;
+    forms.push(stem);
+    if (stem.endsWith("i") && stem.length - 1 >= MIN_STEM) forms.push(stem.slice(0, -1));
+  }
+  return [...new Set(forms)];
+}
+
+/**
  * Ids of the places a question names. Looks at every run of 1–3 words, longest first, so "gamla
- * kyrkan" wins over "kyrkan" and words used in a longer match are not matched again.
+ * kyrkan" wins over "kyrkan" and words used in a longer match are not matched again. The last
+ * word may be inflected: the name as written wins, then the forms it could come from.
  */
 export function findPlaceIds(question: string, index: PlaceNameIndex): string[] {
   const w = words(question);
@@ -49,7 +99,11 @@ export function findPlaceIds(question: string, index: PlaceNameIndex): string[] 
   for (let size = Math.min(MAX_WORDS, w.length); size >= 1; size--) {
     for (let i = 0; i + size <= w.length; i++) {
       if ([...Array(size).keys()].some((k) => used.has(i + k))) continue;
-      const ids = index.get(w.slice(i, i + size).join(" "));
+      const head = w.slice(i, i + size - 1);
+      const last = w[i + size - 1] as string;
+      const ids = baseForms(last)
+        .map((form) => index.get([...head, form].join(" ")))
+        .find((hit) => hit !== undefined);
       if (!ids) continue;
       for (const id of ids) found.add(id);
       for (let k = 0; k < size; k++) used.add(i + k);
