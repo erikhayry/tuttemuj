@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/ingrid12.html",
+  "title": "Ingrids tolkning av Nykarlebystjärnan 2012",
+  "summary": "Ingrid Liljeström tolkade Nykarlebystjärnan i en teckning till adventskalendern 2012. Bilden visar kyrkan, farmors hus på Borgaregatan 12 och vattentornet, samt Ingrid själv och kusinen Amanda. Sidan länkar vidare till Ingrids tolkningar från 2013 och 2014.",
+  "topics": [
+    "adventskalender",
+    "nykarlebystjärnan",
+    "barnteckning"
+  ],
+  "people": [
+    {
+      "name": "Ingrid Liljeström",
+      "alternateNames": [
+        "Ingrid"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Amanda",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kusin till Ingrid, med rött hår i teckningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "farmors hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 12",
+      "description": "Farmors hus, med i teckningen.",
+      "geo": {
+        "lat": 63.5234998,
+        "lng": 22.5341503,
+        "match": "address",
+        "gazetteerName": "borgaregatan 12",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Vattentornet i övre högra hörnet av teckningen.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ingrid tolkar Nykarlebystjärnan till adventskalendern",
+      "date": {
+        "year": 2012,
+        "circa": false,
+        "text": "2012"
+      },
+      "description": "Ingrid Liljeström tecknar en egen tolkning av Nykarlebystjärnan med kyrkan, farmors hus och vattentornet till adventskalendern 2012.",
+      "people": [
+        "Ingrid Liljeström",
+        "Amanda"
+      ],
+      "places": [
+        "farmors hus",
+        "vattentornet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8df8d429738b7ed1f63d43b4ac519668ba1aeba35ac00054a320e26a56d207de",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T19:52:19.208Z"
+}
