@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/69unybac.htm",
+  "title": "Ulf Nybäck 1969 i Nykarleby järnvägsstation",
+  "summary": "Ulf Nybäck, son till Hugo Nybäck, var stationens sista stationsföreståndare. Bilden är från stationens södra rum 1969.",
+  "topics": [
+    "järnväg",
+    "personer"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    },
+    {
+      "name": "Ulf Nybäck",
+      "alternateNames": [],
+      "roles": [
+        "stationsföreståndare"
+      ]
+    },
+    {
+      "name": "Hugo Nybäck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "3de00516af193137584ff7ede7fbf9bb7095ab08b64b9e6057d0d4f43cbac6a8",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

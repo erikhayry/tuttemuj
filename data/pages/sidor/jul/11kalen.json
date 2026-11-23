@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/11kalen.html",
+  "title": "Adventskalender 2011",
+  "summary": "Adventskalendern 2011 med en akvarell av Nykarleby kyrka av Linnéa Ekstrand. Lucka 1 är tom på grund av materialbrist.",
+  "topics": [
+    "jul",
+    "adventskalender"
+  ],
+  "people": [
+    {
+      "name": "Linnéa Ekstrand",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "bab71811806ae2b32314c922ba05124ac806d4b22ea50c7d51687fcc46fe93c2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

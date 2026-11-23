@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/grundfeldt_gronroos.html",
+  "title": "Grundfeldtska gården vid Rådhusboulevarden",
+  "summary": "Ett kabinettskort från 1890-talet av Grundfeldtska gården sedd mot söder från korsningen med Lybecksgatan, med Topeliusparken i bild.",
+  "topics": [
+    "kartongkort",
+    "Grundfeldtska gården"
+  ],
+  "people": [
+    {
+      "name": "J. A. Grönroos",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grundfeldtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografi av Grundfeldtska gården",
+      "date": {
+        "year": 1890,
+        "circa": false,
+        "text": "1890-tal"
+      },
+      "people": [],
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "de927704913b24f7f79aed1b2a60951b8dcb6a72f2c49c7f03c466b8a63b1617",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

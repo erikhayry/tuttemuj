@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/jhradiotxt.html",
+  "title": "Josef Herler berättar om sin barndoms jular – utskrift",
+  "summary": "Utskrift av Josef Herlers radiointervju om julen i Nykarleby på 1890-talet: julförberedelser, mat, julgran, stjärngossar och julstjärnor. Han berättar också hur hans far, bryggmästare från Bayern, kom till staden i en öppen båt.",
+  "topics": [
+    "jul",
+    "minnen",
+    "1890-talet",
+    "bryggeri",
+    "Herler"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "museiman",
+        "skådespelare"
+      ]
+    },
+    {
+      "name": "Wava Stürmer",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karolina Herler",
+      "alternateNames": [
+        "Karolina Silfverberg"
+      ],
+      "roles": [],
+      "description": "Josefs mor, från Jakobstad."
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ],
+      "description": "Övade stjärngossarna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Herlers gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Tottesund",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Josef Herlers far kommer till Finland som bryggmästare",
+      "date": {
+        "year": 1862,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Tottesund"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En tysk bryggmästare svarar på en tidningsannons och seglar i mörker i en öppen båt mot ett avlägset ljus, som visar sig vara Tottesund, på väg mot ett nytt liv i Nykarleby. Josef Herler berättar också om barnens julbestyr på bondgården med stjärngossar och slädpartier.",
+    "reason": "Ett tydligt ankomstögonblick med stämning och en rik julmiljö i personliga minnen.",
+    "characters": [
+      "Josef Herler"
+    ],
+    "places": [
+      "Tottesund",
+      "Herlers gård"
+    ]
+  },
+  "contentHash": "f3be1e1665e1b45f02bed031ec68d9dc4f0dcf1bffb4a80206d38899f2735379",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

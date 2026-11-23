@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/50midsom.htm",
+  "title": "Midsommar 1950 vid Nykarleby järnvägsstation",
+  "summary": "En rälsbuss prydd med björkris till midsommar 24 juni 1950, tillverkad av Hilding Carlssons Mekaniska Verkstad i Sverige. Fyra män syns på bilden.",
+  "topics": [
+    "järnväg",
+    "midsommar",
+    "rälsbuss"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    },
+    {
+      "name": "Hugo Nybäck",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Ulf Nybäck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Midsommar med majad rälsbuss",
+      "date": {
+        "year": 1950,
+        "month": 6,
+        "day": 24,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby järnvägsstation"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e2eec82e344d7f825170c525bfcc14c1ad6560f6d5b3ac8059a173abb3fd4880",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/fs1937.htm",
+  "title": "Finska skolan 1937",
+  "summary": "Ett klassfoto från finska skolan 1937, taget vid Ylönens gård vid Sollefteågatan. Sidan berättar att skolan tidigare höll till på Gustav Häggbloms vind och senare flyttade till Brännon.",
+  "topics": [
+    "klassfoton",
+    "finska skolan"
+  ],
+  "people": [
+    {
+      "name": "Väinö Lipasti",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Irja Lipasti",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Väinö Lipastis syster som kastade spjut vid OS 1936."
+    },
+    {
+      "name": "David Leskinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustav Häggblom",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Ylönens gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Sollefteågatan",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "address",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Häggbloms vind",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Brännon",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Klassfoto",
+      "date": {
+        "year": 1937,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Ylönens gård"
+      ]
+    },
+    {
+      "title": "Irja Lipasti kastar spjut vid OS",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "people": [
+        "Irja Lipasti"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b8afa48ffa1352e3e1275b957514d8f7e79936cca53d7b5a9f7d1b59cef2dbac",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

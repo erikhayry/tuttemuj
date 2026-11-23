@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/julkort_vm.html",
+  "title": "Kuddnäs av Veikko Markkula",
+  "summary": "Ett julkort med ett foto av Kuddnäs av Veikko Markkula, hämtat från facebook, i adventskalendern 2015.",
+  "topics": [
+    "jul",
+    "Kuddnäs",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Veikko Markkula",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5fe7254a6dd6e7804e8690e20bc4bf6a1cdc4311fd913fffc03fbf87e9daf9fc",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

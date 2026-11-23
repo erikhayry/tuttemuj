@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/kuddnats.htm",
+  "title": "Kuddnäs 1914",
+  "summary": "En akvarell av Kuddnäs i färg från 1914 av Teodor Schalin, kopierad efter en teckning av J. Lindskog.",
+  "topics": [
+    "Kuddnäs",
+    "konst",
+    "akvarell"
+  ],
+  "people": [
+    {
+      "name": "Teodor Schalin",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "J. Lindskog",
+      "alternateNames": [],
+      "roles": [
+        "tecknare"
+      ]
+    },
+    {
+      "name": "Mikael Schalin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Akvarell av Kuddnäs",
+      "date": {
+        "year": 1914,
+        "circa": false
+      },
+      "people": [
+        "Teodor Schalin"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "00b066ef9fbce4630c4fdbfa9186bd901941ad717158293b97d0025fe7a48750",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

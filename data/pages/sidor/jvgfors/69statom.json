@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/69statom.htm",
+  "title": "Stationsområdet 1969 vid Nykarleby järnvägsstation",
+  "summary": "Stationsområdet sett från nordväst 1969. Sidan beskriver vad som finns kvar och vad som rivits, bland annat en jordkällare som revs 1915.",
+  "topics": [
+    "järnväg",
+    "stationsområde"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Jordkällaren i kullen rivs",
+      "date": {
+        "year": 1915,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "67172994be0e1de738a116f7725f06f906e0f8da5c46f9002db0d96db02245a0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

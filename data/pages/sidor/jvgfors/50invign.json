@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/50invign.htm",
+  "title": "Invigningen 1949 vid Nykarleby järnvägsstation",
+  "summary": "Ett foto från invigningen med girlang kring flaggstången och björkar på vagnen. Kampen är fortfarande Kampen och inget industriområde.",
+  "topics": [
+    "järnväg",
+    "invigning"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Invigning vid stationen",
+      "date": {
+        "year": 1949,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby järnvägsstation"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a81fb25e33a12dc681a2186fb708d0399eafdc9d76913ad2e7cf7128a1b3f579",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

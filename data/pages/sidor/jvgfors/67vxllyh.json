@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/67vxllyh.htm",
+  "title": "Växellykta 1967 vid Nykarleby järnvägsstation",
+  "summary": "En fotogendriven växellykta vid stationen sedd mot norr.",
+  "topics": [
+    "järnväg",
+    "växellykta"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6eea843aa6cea190432969ede0e08a76831401116034c1aa3dde874397689824",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

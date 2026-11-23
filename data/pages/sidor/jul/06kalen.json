@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/06kalen.htm",
+  "title": "Adventskalender 2006",
+  "summary": "Adventskalendern 2006 med ett julkort av Linnéa Ekstrand som visar Kuddnäs manbyggnad före stjärnbågen vid porten.",
+  "topics": [
+    "jul",
+    "adventskalender"
+  ],
+  "people": [
+    {
+      "name": "Linnéa Ekstrand",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "84158e06820555b79020ec307f35eded0b0b8acea15055e4365589511ab27a8c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

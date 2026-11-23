@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/fs1930t.htm",
+  "title": "Finska skolans träff på 1930-talet",
+  "summary": "Ett foto från 1930-talet av finska skolans träff, kallat Äitienpäivakuva, med numrerad namnlista. Kortet togs på Ylönens gård vid Sollefteågatan.",
+  "topics": [
+    "klassfoton",
+    "finska skolan"
+  ],
+  "people": [
+    {
+      "name": "David Leskinen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Lisa Blöth",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tekla Hauta-Aho",
+      "alternateNames": [],
+      "birthYear": 1923,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Ylönens gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Sollefteågatan",
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "address",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Finska skolans träff",
+      "date": {
+        "year": 1930,
+        "circa": false,
+        "text": "1930-talet"
+      },
+      "people": [],
+      "places": [
+        "Ylönens gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "17be7ac06f6dd94b7542b273a9f6dbaa6435be68d54154472eec650cec578884",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

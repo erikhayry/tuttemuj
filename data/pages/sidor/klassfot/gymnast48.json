@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/gymnast48.html",
+  "title": "Övningsskolans blockflöjtsorkester 1948",
+  "summary": "Ett foto av övningsskolans blockflöjtsorkester vid seminariets 75-årsfest 6.10.1948, med numrerad namnlista och en logg över hur personerna identifierats.",
+  "topics": [
+    "klassfoton",
+    "seminariet",
+    "musik"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby seminarium"
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Seminariets 75-årsfest",
+      "date": {
+        "year": 1948,
+        "month": 10,
+        "day": 6,
+        "circa": false,
+        "text": "6.10.1948"
+      },
+      "people": [],
+      "places": [
+        "Seminariet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "565c534d852783966a9ca8976a33904e135344bb293cb3a7d620b77469626730",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

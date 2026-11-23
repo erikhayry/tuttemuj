@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/68stathu.htm",
+  "title": "Stationshuset 1968 vid Nykarleby järnvägsstation",
+  "summary": "Stationshuset 1968 med finskt namn överst på skylten. Jämförelsebild från 2014 visar att verandan rivits och huset gått från gult till rött.",
+  "topics": [
+    "järnväg",
+    "stationshus"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av stationshuset",
+      "date": {
+        "year": 1968,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby järnvägsstation"
+      ]
+    },
+    {
+      "title": "Jämförelsefoto",
+      "date": {
+        "year": 2014,
+        "month": 7,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6b1360e40d3fdf49a9ce403b858648b4c271323cc29931518954c52fa36d8c92",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

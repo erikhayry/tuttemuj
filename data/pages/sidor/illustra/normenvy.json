@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/normenvy.htm",
+  "title": "Några hus vid Kyrkogatan och Normen",
+  "summary": "En naivistisk oljemålning, troligen från 1930-talet och målad av en okänd seminarist, som visar hus vid Kyrkogatan och Normen sedda från seminariets tecknesal.",
+  "topics": [
+    "konst",
+    "Kyrkogatan",
+    "Normen"
+  ],
+  "people": [
+    {
+      "name": "Arne Jernström",
+      "alternateNames": [],
+      "roles": [
+        "lektor i teckning"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Målningen tillkommer",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "troligen 1930-talet"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "16ebc5f173a95e654d18cbb419c5d136248f1e28499255bc143be10439374bc4",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

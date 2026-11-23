@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/83rivna.htm",
+  "title": "Rälsen riven 1983",
+  "summary": "Den sista biten av rälsen rivs 1983. Sidan beskriver vad som hänt vid platsen sedan dess, bland annat Järnvägsgatan på banvallen.",
+  "topics": [
+    "järnväg",
+    "rivning",
+    "banvall"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Järnvägsgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra ringvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157136,
+        "lng": 22.540447,
+        "match": "name",
+        "gazetteerName": "södra ringvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Westerlunds snickeri",
+      "kind": "building",
+      "alternateNames": [
+        "Westwood"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Rälsen rivs",
+      "date": {
+        "year": 1983,
+        "month": 10,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "13fc82aaa2e33397b1f423dc4514c3a2efc631fc3492e7b4ed8d3a06fb041f42",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

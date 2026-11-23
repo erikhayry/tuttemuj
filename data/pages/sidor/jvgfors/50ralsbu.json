@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/50ralsbu.htm",
+  "title": "Rälsbuss 1950 vid Nykarleby järnvägsstation",
+  "summary": "Rälsbussen på sträckan Nykarleby–Kovjoki–Bennäs–Jakobstad presenteras med en tidningsartikel från 1949 som beskriver bussen och dess komfort. Lars Pensar tillför minnen.",
+  "topics": [
+    "järnväg",
+    "rälsbuss",
+    "Österbottniska Posten"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    },
+    {
+      "name": "Hugo Nybäck",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Smeds",
+      "alternateNames": [],
+      "roles": [
+        "förare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rälsbussen tas i bruk på Nykarlebybanan",
+      "date": {
+        "year": 1949,
+        "circa": false
+      },
+      "description": "Artikel i Österbottniska Posten nr 29/1949.",
+      "people": [],
+      "places": [
+        "Nykarleby järnvägsstation"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ac58eb286feb3338284fd67320a5fe7b4ce06eb26aa9fa5414c9099a5d2ac84c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

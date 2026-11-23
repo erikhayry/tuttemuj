@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/espenn.htm",
+  "title": "Rådhusboulevarden",
+  "summary": "Ett kabinettskort av Esplanaden från norr, fotograferat av en vasafotograf som verkade 1895–97.",
+  "topics": [
+    "kartongkort",
+    "Esplanaden"
+  ],
+  "people": [
+    {
+      "name": "S. Liljeqvist",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhusboulevarden",
+      "kind": "street",
+      "alternateNames": [
+        "Esplanaden"
+      ],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotografen verksam på Rådhusgatan 19 i Vasa",
+      "date": {
+        "year": 1895,
+        "circa": false
+      },
+      "people": [
+        "S. Liljeqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "99075e56a602aaa4334ceb38f328849ec2c4759428611c5502de6f18b70cbbc0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

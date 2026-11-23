@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jvgfors/68statka.htm",
+  "title": "\"Stationskar\" och \"Jag själv\" 1968",
+  "summary": "Ett foto av stationskaren Hugo Nybäck 1968 med en reflekterande pil vid växelomläggaren.",
+  "topics": [
+    "järnväg",
+    "personer"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotosamlare och järnvägsfantast som äger bilderna."
+    },
+    {
+      "name": "Hugo Nybäck",
+      "alternateNames": [],
+      "roles": [
+        "stationskarl"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "järnvägsstationen",
+        "stationshuset"
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av Hugo Nybäck vid stationen",
+      "date": {
+        "year": 1968,
+        "circa": false
+      },
+      "people": [
+        "Hugo Nybäck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2d1a6fbb05b52bec9a633dbcbf64b49c7ab4a818f9b83a28d8aef99802d3fc26",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

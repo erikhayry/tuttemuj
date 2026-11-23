@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/kuddnasf.htm",
+  "title": "Kuddnäsfotografi på kartong",
+  "summary": "Ett Kuddnäsfotografi som använts på många vykort, här monterat på kartong med guldram av Broman & Grönroos i Vasa.",
+  "topics": [
+    "kartongkort",
+    "Kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Bruce Muller",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b001728795b43a749946e236b8df922adadb230970e6cfc6cab5fe4576bc915f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

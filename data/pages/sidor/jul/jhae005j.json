@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/jhae005j.htm",
+  "title": "God Jul och Gott Nytt År – Tomtekort 2007",
+  "summary": "Montage av ett tomtevykort och ett vykort från esplanadens norra ände från 1910-talet.",
+  "topics": [
+    "jul",
+    "julkort",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "8854aea630fac718d94fb23d23ba18ca80e4ecfc6e1d8b615e3c9e6454cd103e",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/backman_andrasjon.html",
+  "title": "”Berget” vid Andrasjön",
+  "summary": "Ett kabinettskort av berget vid Andrasjön från 1800-talets slut eller omkring 1900. Baksidan antyder att personen kan vara professor Backman.",
+  "topics": [
+    "kartongkort",
+    "Andrasjön"
+  ],
+  "people": [
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Backman",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "7c09c9eadbf8a293c45e2eea857eaffe559c2ec3aee5b1802fb9a514d5076b4d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

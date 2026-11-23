@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/jhfv016j.html",
+  "title": "God Jul och Gott Nytt År – Tomtekort 2008",
+  "summary": "Montage av tomtekort och ett vykort från Seminariegatans södra del.",
+  "topics": [
+    "jul",
+    "julkort",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "811dbe9a27fa0d5489139002abaa100baf1783412fb8c9dc966627d8fdb3e42a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

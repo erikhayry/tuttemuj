@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/olsonh/aminnega.htm",
+  "title": "Åminne gård",
+  "summary": "En oljemålning av Hilda Olson föreställande Åminne gård, som ursprungligen byggdes som disponentbostad vid Sandnäs glasbruk i Vexala. Det fanns planer på att placera Kristliga folkhögskolan där.",
+  "topics": [
+    "gård",
+    "konst",
+    "Åminne"
+  ],
+  "people": [
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Ulla Ågholm",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminne gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Åminne"
+      ]
+    },
+    {
+      "name": "Sandnäs glasbruk",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e4b0e942de8c3014149af7bec325aba2a725399ea36059c4d3effe7afb936e9b",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

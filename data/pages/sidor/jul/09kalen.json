@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/09kalen.html",
+  "title": "Adventskalender 2009",
+  "summary": "Adventskalendern 2009 med ett vykort av Nykarleby kyrka av Gunnevi Törnroth.",
+  "topics": [
+    "jul",
+    "adventskalender"
+  ],
+  "people": [
+    {
+      "name": "Gunnevi Törnroth",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "effe4cb41cfc1c13fb3a705aea34d8c1c6cd736b8e6ae5e42cc3995d58b8a1d7",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

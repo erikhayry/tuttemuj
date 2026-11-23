@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/predikst.htm",
+  "title": "Predikstolen",
+  "summary": "Ett kort av predikstolen i Nykarleby kyrka, skulpterad av Abraham Eliasson och målad av Johan Alm.",
+  "topics": [
+    "kartongkort",
+    "kyrkokonst",
+    "predikstolen"
+  ],
+  "people": [
+    {
+      "name": "Abraham Eliasson",
+      "alternateNames": [],
+      "roles": [
+        "snickare",
+        "skulptör"
+      ]
+    },
+    {
+      "name": "Johan Alm",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Wald. Engblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Abraham Eliasson får slutlikvid för snickararbetet på predikstolen",
+      "date": {
+        "year": 1753,
+        "circa": false
+      },
+      "people": [
+        "Abraham Eliasson"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "56eb9cbc365a5705e6b9d2387253502aad0b0355a06ed0f750ec184e31853be1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

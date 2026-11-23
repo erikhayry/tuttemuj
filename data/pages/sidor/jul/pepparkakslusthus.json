@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/pepparkakslusthus.html",
+  "title": "Kuddnäs pepparkakslusthus",
+  "summary": "Skribenten bakar ett pepparkakshus efter Kuddnäs lusthus och uppmanar läsarna att göra egna efter en ritning. Sidan visar bygget steg för steg.",
+  "topics": [
+    "jul",
+    "pepparkakor",
+    "Kuddnäs"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kuddnäs lusthus",
+      "kind": "building",
+      "alternateNames": [
+        "Lusthuset på Kuddnäs"
+      ]
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "775e07194edc29c31e98dc17a82d4fb2871756f372e09d6f0d3dc93813efdf59",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

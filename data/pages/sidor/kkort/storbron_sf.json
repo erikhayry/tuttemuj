@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/storbron_sf.html",
+  "title": "Storbron och kyrkan på kartong",
+  "summary": "Ett kartongkort av Storbron och kyrkan från mellan 1889 och 1899, hittat i ett hus som renoverats. Sidan berättar också om husets historia och ägare.",
+  "topics": [
+    "kartongkort",
+    "Storbron",
+    "kyrkan"
+  ],
+  "people": [
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nina Granberg",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekschef"
+      ]
+    },
+    {
+      "name": "Erik Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Heldine Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tornuret installeras",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Järnvägen till Andrasjön byggs",
+      "date": {
+        "year": 1899,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Huset byggs av Häggblom",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5a5cd1d1eed55763277de30b3e2bbcd0d3cee05b2e0f81251c9e91b1b4558c01",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

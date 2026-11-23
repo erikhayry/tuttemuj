@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/kkort/kyrkan_gronroos.html",
+  "title": "Storbron, kyrkan och klockstapeln",
+  "summary": "Ett kortfoto av Storbron, kyrkan och klockstapeln från mellan 1889 och 1899. Fotografen J. A. Grönroos hade ateljé i Vasa och sommarfilial i Nykarleby.",
+  "topics": [
+    "kartongkort",
+    "kyrkan",
+    "Storbron"
+  ],
+  "people": [
+    {
+      "name": "Jakob Alarik Grönroos",
+      "alternateNames": [],
+      "birthYear": 1863,
+      "deathYear": 1931,
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tornuret monteras",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Järnvägen till Andrasjön byggs",
+      "date": {
+        "year": 1899,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d92f67ef6fab24fca11bd67724f4f032c7186b76d069c8905f6f57a344aaef02",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/klassfot/50ar2010.html",
+  "title": "Årets femtioåringar del 6: 300-årsfest 2010",
+  "summary": "Stefan Fors berättar om en vänhelg 2–4 juli 2010 vid villan vid Andra Sjön, där ett gammalt kompisgäng firade sina sammanlagt 300 år.",
+  "topics": [
+    "klassträff",
+    "minnen",
+    "vänner"
+  ],
+  "people": [
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra Sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sandåsen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Wärdshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kompisgängets 300-årsfest vid Andra Sjön",
+      "date": {
+        "year": 2010,
+        "month": 7,
+        "day": 2,
+        "circa": false,
+        "text": "2–4 juli 2010"
+      },
+      "people": [],
+      "places": [
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7f80e512e9fd6050b4218c4c9d344d2958613ccaf0316bb40cafaf9cd4038742",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

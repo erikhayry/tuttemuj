@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/jul/12kalen.html",
+  "title": "Adventskalender 2012",
+  "summary": "Adventskalendern 2012 med en akvarell av Högbacka målad 1992 av Linnéa Ekstrand. Sidan identifierar husen och deras tidigare och nuvarande ägare.",
+  "topics": [
+    "jul",
+    "adventskalender",
+    "Högbacka"
+  ],
+  "people": [
+    {
+      "name": "Linnéa Ekstrand",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Högbacka hemman"
+      ],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhusgalleriet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Akvarellen av Högbacka målas",
+      "date": {
+        "year": 1992,
+        "circa": false
+      },
+      "people": [
+        "Linnéa Ekstrand"
+      ],
+      "places": [
+        "Högbacka"
+      ]
+    },
+    {
+      "title": "Linnéa Ekstrands utställning i Rådhusgalleriet",
+      "date": {
+        "year": 2012,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rådhusgalleriet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c52b9555dfd7feaf54909cbb633beb5ee464fce092a24347ae1deb862bdd6f01",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}

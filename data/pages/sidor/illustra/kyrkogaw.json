@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/kyrkogaw.htm",
+  "title": "Kyrkogatan 1893 av Anna Wengberg",
+  "summary": "En målning från 1893 där Eva Maria Topelius och maken J.A.G. Acke promenerar på Kyrkogatan. Sidan identifierar husen längs gatan.",
+  "topics": [
+    "Kyrkogatan",
+    "konst",
+    "Topelius"
+  ],
+  "people": [
+    {
+      "name": "Anna Wengberg",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Eva Maria Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J.A.G. Acke",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Karl Åke Åström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Albert Dyhrs gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Målningen Kyrkogatan målas",
+      "date": {
+        "year": 1893,
+        "month": 7,
+        "circa": false
+      },
+      "people": [
+        "Anna Wengberg",
+        "Eva Maria Topelius",
+        "J.A.G. Acke"
+      ],
+      "places": [
+        "Kyrkogatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "71943530b9aee49ed75eed4e089a09abea4fd0703ec900b9310af3c3287d7e5f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:40:23.371Z"
+}
