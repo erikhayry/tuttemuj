@@ -49,12 +49,25 @@ export type EventRow = z.infer<typeof EventRow>;
 export const EventPlaceRow = z.object({ event_id: z.string(), place_id: z.string() });
 export type EventPlaceRow = z.infer<typeof EventPlaceRow>;
 
+/** A person as one page names them. People are not merged across pages. */
+export const PagePersonRow = z.object({
+  page_url: z.string(),
+  name: z.string().min(1),
+  alternate_names: z.array(z.string()),
+  birth_year: z.int().nullable(),
+  death_year: z.int().nullable(),
+  roles: z.array(z.string()),
+  description: z.string().nullable(),
+});
+export type PagePersonRow = z.infer<typeof PagePersonRow>;
+
 export type Rows = {
   pages: PageRow[];
   places: PlaceRow[];
   pagePlaces: PagePlaceRow[];
   events: EventRow[];
   eventPlaces: EventPlaceRow[];
+  pagePeople: PagePersonRow[];
 };
 
 /** `duplicate_of` per duplicate page, only where both pages have been analysed. */
@@ -160,11 +173,34 @@ export function buildRows(
     });
   }
 
+  // One row per name per page; a name written twice on a page is merged.
+  const pagePeople = new Map<string, PagePersonRow>();
+  for (const page of pages) {
+    for (const person of page.people) {
+      const key = `${page.sourceUrl}\n${person.name}`;
+      const before = pagePeople.get(key);
+      const union = (a: string[], b: string[]) => [...new Set([...a, ...b])];
+      pagePeople.set(
+        key,
+        PagePersonRow.parse({
+          page_url: page.sourceUrl,
+          name: person.name,
+          alternate_names: union(before?.alternate_names ?? [], person.alternateNames),
+          birth_year: person.birthYear ?? before?.birth_year ?? null,
+          death_year: person.deathYear ?? before?.death_year ?? null,
+          roles: union(before?.roles ?? [], person.roles),
+          description: person.description ?? before?.description ?? null,
+        }),
+      );
+    }
+  }
+
   return {
     pages: pageRows,
     places: placeRows,
     pagePlaces: z.array(PagePlaceRow).parse(pagePlaces),
     events,
     eventPlaces: z.array(EventPlaceRow).parse(eventPlaces),
+    pagePeople: [...pagePeople.values()],
   };
 }

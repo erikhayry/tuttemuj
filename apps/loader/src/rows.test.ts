@@ -74,3 +74,45 @@ describe("buildRows", () => {
     expect(places[1]?.location).toBeNull();
   });
 });
+
+describe("buildRows people", () => {
+  const person = (name: string, extra: Partial<PageExtraction["people"][number]> = {}) => ({
+    name,
+    alternateNames: [],
+    roles: [],
+    ...extra,
+  });
+
+  it("writes one row per person per page, with only what the page states", () => {
+    const a = {
+      ...page("a"),
+      people: [person("Lars Pensar", { birthYear: 1850, roles: ["rådman"] }), person("Anna")],
+    };
+    const b = { ...page("b"), people: [person("Lars Pensar")] };
+    const { pagePeople } = buildRows([a, b], [], []);
+    expect(pagePeople).toHaveLength(3);
+    expect(pagePeople[0]).toEqual({
+      page_url: url("a"),
+      name: "Lars Pensar",
+      alternate_names: [],
+      birth_year: 1850,
+      death_year: null,
+      roles: ["rådman"],
+      description: null,
+    });
+  });
+
+  it("merges a name written twice on one page", () => {
+    const a = {
+      ...page("a"),
+      people: [
+        person("Anna", { roles: ["lärare"] }),
+        person("Anna", { deathYear: 1900, roles: ["gift"] }),
+      ],
+    };
+    const { pagePeople } = buildRows([a], [], []);
+    expect(pagePeople).toEqual([
+      expect.objectContaining({ name: "Anna", death_year: 1900, roles: ["lärare", "gift"] }),
+    ]);
+  });
+});

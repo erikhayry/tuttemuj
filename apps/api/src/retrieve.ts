@@ -34,6 +34,33 @@ const EventRow = z.object({
   description: z.string().nullable(),
 });
 
+const PersonRow = z.object({
+  page_url: z.string(),
+  name: z.string(),
+  birth_year: z.int().nullable(),
+  death_year: z.int().nullable(),
+  roles: z.array(z.string()),
+});
+
+/** The most people shown per page, those with a role or years first. */
+const MAX_PEOPLE_PER_PAGE = 8;
+
+/** "Name (1850–1920, role, role)": only what the page states. */
+export function personLabel(
+  p: Pick<z.infer<typeof PersonRow>, "name" | "birth_year" | "death_year" | "roles">,
+): string {
+  const years =
+    p.birth_year !== null && p.death_year !== null
+      ? `${p.birth_year}–${p.death_year}`
+      : p.birth_year !== null
+        ? `född ${p.birth_year}`
+        : p.death_year !== null
+          ? `död ${p.death_year}`
+          : "";
+  const details = [years, ...p.roles].filter(Boolean).join(", ");
+  return details ? `${p.name} (${details})` : p.name;
+}
+
 const check = <T>(
   what: string,
   schema: z.ZodType<T>,
@@ -146,7 +173,7 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
     if (ranked.length === 0) return { facts: [], nearby: undefined };
 
     const eventIds = ranked.flatMap((r) => r.eventIds.slice(0, MAX_EVENTS_PER_PAGE));
-    const [pageRes, eventRes] = await Promise.all([
+    const [pageRes, eventRes, peopleRes] = await Promise.all([
       db
         .from("pages")
         .select("source_url,title,summary")
@@ -157,7 +184,16 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
       eventIds.length > 0
         ? db.from("events").select("id,page_url,title,year,description").in("id", eventIds)
         : Promise.resolve({ data: [], error: null }),
+      db
+        .from("page_people")
+        .select("page_url,name,birth_year,death_year,roles")
+        .in(
+          "page_url",
+          ranked.map((r) => r.url),
+        )
+        .limit(1000),
     ]);
+    const people = check("page_people", z.array(PersonRow), peopleRes.data, peopleRes.error);
     const pages = new Map(
       check("pages", z.array(PageRow), pageRes.data, pageRes.error).map((p) => [p.source_url, p]),
     );
@@ -173,7 +209,23 @@ export function supabaseRetrieve(db: SupabaseClient, voyageKey: string): Retriev
           `${e.year !== null ? `${e.year}: ` : ""}${e.title}${e.description ? `. ${e.description}` : ""}`,
         );
       }
-      facts.push({ sourceUrl: r.url, pageTitle: page.title, summary: page.summary, lines });
+      const onPage = people
+        .filter((p) => p.page_url === r.url)
+        .sort(
+          (a, b) =>
+            Number(b.roles.length > 0 || b.birth_year !== null || b.death_year !== null) -
+            Number(a.roles.length > 0 || a.birth_year !== null || a.death_year !== null),
+        )
+        .slice(0, MAX_PEOPLE_PER_PAGE)
+        .map(personLabel);
+      if (onPage.length > 0) lines.push(`People: ${onPage.join("; ")}`);
+      facts.push({
+        sourceUrl: r.url,
+        pageTitle: page.title,
+        summary: page.summary,
+        people: onPage,
+        lines,
+      });
     }
 
     const nearby = places

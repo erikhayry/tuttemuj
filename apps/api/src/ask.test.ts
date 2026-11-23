@@ -8,6 +8,7 @@ const fact = (n: string, title = `Sida ${n}`): Fact => ({
   sourceUrl: url(n),
   pageTitle: title,
   summary: `Sammanfattning ${n}`,
+  people: [],
   lines: [`Sammanfattning ${n}`],
 });
 const req = (extra: Partial<AskRequest> = {}): AskRequest => ({
@@ -119,6 +120,13 @@ describe("ask without Claude (search mode)", () => {
       title: "Sida a",
       summary: "Sammanfattning a",
     });
+  });
+
+  it("shows the people a page names", async () => {
+    const withPeople = { ...fact("a"), people: ["Lars Pensar (1850–1920, rådman)"] };
+    const res = await ask(retrieving([withPeople, fact("b")]), undefined, req());
+    expect(res.sources[0]?.people).toEqual(["Lars Pensar (1850–1920, rådman)"]);
+    expect(res.sources[1]).not.toHaveProperty("people");
   });
 
   it("says nothing was found when there are no facts", async () => {

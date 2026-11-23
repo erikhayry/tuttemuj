@@ -6,6 +6,8 @@ export type Fact = {
   pageTitle: string;
   /** Our summary of the page. */
   summary: string;
+  /** People the page names, as "Name (1850–1920, role)". */
+  people: string[];
   /** Our summary of the page, and our descriptions of events that match the question. */
   lines: string[];
 };
@@ -15,7 +17,7 @@ export type Nearby = { place: string; distanceM: number }[];
 
 export const SYSTEM_PROMPT = `You answer questions about the history of Nykarleby (Uusikaarlepyy), Finland, for a person walking around the town.
 
-You get numbered facts. Each fact is a short summary of one page on nykarlebyvyer.nu, written by us, with the page title.
+You get numbered facts. Each fact is a short summary of one page on nykarlebyvyer.nu, written by us, with the page title and, where the page names them, the people on it ("People:" line). A person on a page is not necessarily who the question is about: use the roles and years given, and do not assume anything else about them.
 
 Rules:
 - Use only the facts. Never add anything from your own knowledge, and never guess dates, names or places.
