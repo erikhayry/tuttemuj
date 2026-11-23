@@ -1,6 +1,6 @@
 import { FrontierEntry, type SourceUrl } from "@tuttemuj/schema";
 import { readJsonl, writeJsonl } from "./jsonl.ts";
-import { crawlPriority } from "./url.ts";
+import { crawlPriority, isCrawlable } from "./url.ts";
 
 /** The set of known URLs and their crawl state, persisted as sorted JSONL for stable git diffs. */
 export class Frontier {
@@ -44,9 +44,16 @@ export class Frontier {
       .map(({ e }) => e);
   }
 
-  /** Next pending URLs to crawl. */
+  /** Next pending URLs to crawl. Pending URLs we no longer crawl are skipped. */
   next(limit: number): FrontierEntry[] {
-    return this.byPriority("pending").slice(0, limit);
+    return this.byPriority("pending")
+      .filter((e) => isCrawlable(e.url))
+      .slice(0, limit);
+  }
+
+  /** Number of pending URLs that will still be crawled. */
+  pendingCount(): number {
+    return this.next(Number.POSITIVE_INFINITY).length;
   }
 
   count(status?: FrontierEntry["status"]): number {

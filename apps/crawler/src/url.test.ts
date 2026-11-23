@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { crawlPriority, normalizeUrl } from "./url.ts";
+import { crawlPriority, isCrawlable, normalizeUrl } from "./url.ts";
 
 const page = "https://www.nykarlebyvyer.nu/sidor/texter/hus/a.htm";
 
@@ -25,6 +25,7 @@ describe("normalizeUrl", () => {
     "https://example.com/a.htm",
     "/bilder/foto.jpg",
     "/notfound.html",
+    "/sidor/nyheter/old2501.html",
   ])("rejects %s", (href) => {
     expect(normalizeUrl(href, page)).toBeUndefined();
   });
@@ -35,5 +36,13 @@ describe("crawlPriority", () => {
     expect(crawlPriority(page)).toBeLessThan(
       crawlPriority("https://www.nykarlebyvyer.nu/sidor/texter/poesi/x.htm"),
     );
+  });
+});
+
+describe("isCrawlable", () => {
+  it("excludes the old news archive but not other news pages", () => {
+    expect(isCrawlable("https://www.nykarlebyvyer.nu/sidor/nyheter/old2501.html")).toBe(false);
+    expect(isCrawlable("https://www.nykarlebyvyer.nu/sidor/nyheter/aktuellt.html")).toBe(true);
+    expect(isCrawlable(page)).toBe(true);
   });
 });
