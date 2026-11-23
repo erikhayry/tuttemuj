@@ -42,7 +42,7 @@ export async function embed(
       return { vectors, tokens: body.usage.total_tokens };
     }
     const retry = res.status === 429 || res.status >= 500;
-    if (!retry || attempt >= 6) {
+    if (!retry || attempt >= 30) {
       throw new Error(`Voyage ${res.status}: ${(await res.text()).slice(0, 300)}`);
     }
     const wait = Math.min(60_000, 5_000 * 2 ** (attempt - 1));
