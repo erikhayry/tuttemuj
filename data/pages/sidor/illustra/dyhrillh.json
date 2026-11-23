@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/dyhrillh.htm",
+  "title": "Albert Dyhrs gård, akvarell",
+  "summary": "En akvarell av Albert Dyhrs gård av okänd konstnär, cirka 30x25 cm, som finns i Rådhuset.",
+  "topics": [
+    "konst",
+    "Bankgatan"
+  ],
+  "people": [
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f76946eb2124dd2e2185a9f30e75d479f5704e4cd168a7fc5e1444092d318082",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

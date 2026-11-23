@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/genea/topeanta.html",
+  "title": "Zacharias Topelius antavla",
+  "summary": "En antavla över Zacharias Topelius, gjord av Tony Kronqvist och överlämnad som gåva till Kuddnäs museum. Antavlan är målad av Anna Edin.",
+  "topics": [
+    "släktforskning",
+    "Topelius",
+    "Kuddnäs museum"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tony Kronqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Laura Holm",
+      "alternateNames": [],
+      "roles": [
+        "museiamanuens"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs museum",
+      "kind": "building",
+      "alternateNames": [
+        "Kuddnäs"
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Antavlan överlämnas till Kuddnäs museum",
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 28,
+        "circa": false
+      },
+      "people": [
+        "Tony Kronqvist",
+        "Laura Holm"
+      ],
+      "places": [
+        "Kuddnäs museum"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "32d7dff41387c33e65bc9ff19dc59667fd9c3ce2c2a1e0e4a52c50241b7aaaa0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

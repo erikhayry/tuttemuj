@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/kuddnassta.html",
+  "title": "Fakta om första Kuddnässtämpeln",
+  "summary": "Om en stämpel vid Kuddnäs vars förklaring finns på flera språk. Bilden är tagen i juli 2011.",
+  "topics": [
+    "filateli",
+    "stämplar",
+    "Kuddnäs"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av Kuddnässtämpeln",
+      "date": {
+        "year": 2011,
+        "month": 7,
+        "day": 14,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "78bf43ece18182311e27362ad3cb0a8f164c2b227c670573b727d26f7943bfa5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

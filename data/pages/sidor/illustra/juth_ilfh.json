@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/juth_ilfh.html",
+  "title": "Juthas slagfält, träsnitt ur Förr och nu",
+  "summary": "Ett träsnitt av slaget vid Juthas ur tidskriften Förr och nu, köpt via Tradera. Bildtexten berättar att en svensk styrka under von Döbeln besegrade en större rysk styrka 1808.",
+  "topics": [
+    "Juthas",
+    "finska kriget",
+    "träsnitt"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [
+        "von Döbeln"
+      ],
+      "roles": [
+        "befälhavare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas slagfält",
+      "kind": "landmark",
+      "alternateNames": [
+        "Juthas",
+        "Jutas"
+      ],
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "juthas slagfält",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false
+      },
+      "people": [
+        "Georg Carl von Döbeln"
+      ],
+      "places": [
+        "Juthas slagfält"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "78a1a15f68cbbec4be3646369d5ff8a16a74e0bf6089974520e42f40f035daec",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

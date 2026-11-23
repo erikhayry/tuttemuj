@@ -876,6 +876,11 @@
     "kind": "street"
   },
   {
+    "name": "byttmosan",
+    "kind": "other",
+    "note": "Railway watchman's home near Kovjoki."
+  },
+  {
     "name": "bäck i forsby",
     "kind": "farm",
     "note": "Farm in Forsby."
@@ -1100,6 +1105,10 @@
   {
     "name": "domarbacka",
     "kind": "farm"
+  },
+  {
+    "name": "dragonvägen",
+    "kind": "street"
   },
   {
     "name": "drakabacka",
@@ -1364,6 +1373,11 @@
     "note": "In Munsala."
   },
   {
+    "name": "finne",
+    "kind": "farm",
+    "note": "Farm (hemman C) in Kovjoki."
+  },
+  {
     "name": "finnhamn",
     "kind": "other"
   },
@@ -1452,6 +1466,10 @@
   {
     "name": "fontänbojen",
     "kind": "landmark"
+  },
+  {
+    "name": "fors bilverkstad",
+    "kind": "building"
   },
   {
     "name": "fors järn och glas",
@@ -2440,6 +2458,10 @@
     "kind": "building"
   },
   {
+    "name": "holmströms/sandqvists gård",
+    "kind": "farm"
+  },
+  {
     "name": "holmströmska gården",
     "kind": "building"
   },
@@ -2592,6 +2614,10 @@
     "note": "Sports and youth centre; 350-year jubilee festival 1970."
   },
   {
+    "name": "idrotts-ungdomsgården",
+    "kind": "building"
+  },
+  {
     "name": "idrottsgårdsuret",
     "kind": "landmark"
   },
@@ -2662,6 +2688,10 @@
   },
   {
     "name": "jeppo kyrka",
+    "kind": "building"
+  },
+  {
+    "name": "jeppo station",
     "kind": "building"
   },
   {
@@ -2788,6 +2818,10 @@
     "name": "juthas hängbro",
     "kind": "landmark",
     "note": "Suspension bridge at Juthas to the Forsby side."
+  },
+  {
+    "name": "juthas monument",
+    "kind": "landmark"
   },
   {
     "name": "juthas slagfält",
@@ -3743,6 +3777,13 @@
     "note": "Meat inspection building by Jakobstadsvägen, built 1937."
   },
   {
+    "name": "labbartska gården",
+    "kind": "building",
+    "alternateNames": [
+      "labbarts gård"
+    ]
+  },
+  {
     "name": "ladan på hugos lindo",
     "kind": "building"
   },
@@ -3805,6 +3846,10 @@
     "note": "Gård nr 18 on Södra Torggatan (Sollefteågatan)."
   },
   {
+    "name": "laqvists café",
+    "kind": "building"
+  },
+  {
     "name": "laqvists trappa",
     "kind": "landmark"
   },
@@ -3826,6 +3871,11 @@
     "alternateNames": [
       "lars mårs holmen"
     ]
+  },
+  {
+    "name": "lassila",
+    "kind": "farm",
+    "note": "Farm in Kovjoki."
   },
   {
     "name": "laxfisket",
@@ -4408,6 +4458,10 @@
     "note": "Reed beds opposite Åminne gård."
   },
   {
+    "name": "micke's inn",
+    "kind": "building"
+  },
+  {
     "name": "mickelstorp",
     "kind": "farm"
   },
@@ -4590,6 +4644,11 @@
       "mårtens"
     ],
     "note": "Farm in Högbacka."
+  },
+  {
+    "name": "nabbas hemman",
+    "kind": "farm",
+    "note": "Farm in Kovjoki."
   },
   {
     "name": "namnberget",
@@ -5006,6 +5065,10 @@
     "kind": "building"
   },
   {
+    "name": "nykarleby kyrkoby",
+    "kind": "village"
+  },
+  {
     "name": "nykarleby landsförsamling",
     "kind": "district",
     "note": "Rural parish of Nykarleby."
@@ -5286,6 +5349,10 @@
     "alternateNames": [
       "pedagogi"
     ]
+  },
+  {
+    "name": "pedros pub",
+    "kind": "building"
   },
   {
     "name": "pensalamossen",
@@ -6376,6 +6443,11 @@
     ]
   },
   {
+    "name": "sokothällan",
+    "kind": "landmark",
+    "note": "Landmark with a daymark (känningsbåk) in Socklot."
+  },
+  {
     "name": "solbacka",
     "kind": "building",
     "alternateNames": [
@@ -6560,6 +6632,11 @@
     "alternateNames": [
       "pack- och våghuset"
     ]
+  },
+  {
+    "name": "stads-/kyrkbrunnen",
+    "kind": "landmark",
+    "note": "Town/church well, since moved."
   },
   {
     "name": "stadsbastun",
@@ -6810,6 +6887,11 @@
   {
     "name": "storsand",
     "kind": "landmark"
+  },
+  {
+    "name": "storsocklot",
+    "kind": "village",
+    "note": "Village part of Socklot."
   },
   {
     "name": "storstein",
@@ -7164,6 +7246,11 @@
     ]
   },
   {
+    "name": "tjyton",
+    "kind": "other",
+    "note": "Place in Kovjoki with barns built 1964–65."
+  },
+  {
     "name": "tobaksplantagen",
     "kind": "other",
     "alternateNames": [
@@ -7514,6 +7601,11 @@
     "kind": "building"
   },
   {
+    "name": "valln",
+    "kind": "village",
+    "note": "Village with a former small school."
+  },
+  {
     "name": "varma",
     "kind": "building",
     "note": "Shop and café run by Nelly Fågelbärj."
@@ -7618,6 +7710,11 @@
     "name": "viks hotell",
     "kind": "building",
     "note": "Hotel at Topeliusesplanaden–Bankgatan."
+  },
+  {
+    "name": "vilan",
+    "kind": "landmark",
+    "note": "Cemetery in Åvist."
   },
   {
     "name": "villa elisa",
@@ -7996,6 +8093,11 @@
     "alternateNames": [
       "åwijk"
     ]
+  },
+  {
+    "name": "åvist",
+    "kind": "village",
+    "note": "Village in Nykarleby."
   },
   {
     "name": "öjskatan",

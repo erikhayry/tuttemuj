@@ -1,0 +1,370 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/foredra/2024_01_biblo/2401biblo.html",
+  "title": "Några drag ur Nykarlebys och Nykarlebyvyers historia",
+  "summary": "Webbplatsens upphovsman berättar i ett föredrag vid Topeliusveckan 2024 om hur Nykarlebyvyer växte fram ur ett vykortsintresse, om innehållet, medarbetarna och fynden. Texten tar också upp stadsbibliotekets flyttar, stadsbranden 1858 och Topelius skrifter om Nykarleby.",
+  "topics": [
+    "föredrag",
+    "Nykarlebyvyer",
+    "vykort",
+    "Topelius",
+    "stadsbiblioteket"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": [
+        "byggnadsingenjör",
+        "upphovsman till Nykarlebyvyer"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Ludvig Runeberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Den flitigaste medarbetaren på Nykarlebyvyer."
+    },
+    {
+      "name": "Erkki Finni",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hittade den äldsta kända avbildningen av staden hösten 2022."
+    },
+    {
+      "name": "Viola Gråsten",
+      "alternateNames": [],
+      "roles": [
+        "textilkonstnär"
+      ]
+    },
+    {
+      "name": "Johan Peldan",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Cordt Bochmöller",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ],
+      "description": "Borgmästare 1653–67."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsbiblioteket",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Residenshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Heselius kvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gasängs kvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas monument",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Dragonvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Tullmagasinet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "NyCarleby Regale Bränneri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Sokothällan",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden utbryter",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 12,
+        "circa": false
+      },
+      "description": "Branden fortsatte följande dag.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ett föregångarbibliotek grundas",
+      "date": {
+        "year": 1813,
+        "circa": true,
+        "text": "1813 eller 1814"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Biblioteket i Rådhuset",
+      "date": {
+        "year": 1865,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rådhuset",
+        "Stadsbiblioteket"
+      ]
+    },
+    {
+      "title": "Biblioteket i Grundfeltas",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Stadsbiblioteket"
+      ]
+    },
+    {
+      "title": "Biblioteket i Grönhuset",
+      "date": {
+        "year": 1974,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Stadsbiblioteket"
+      ]
+    },
+    {
+      "title": "Biblioteket i Ämbetshuset/Stadshuset",
+      "date": {
+        "year": 1981,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Stadsbiblioteket"
+      ]
+    },
+    {
+      "title": "Biblioteket flyttar till nuvarande lokaler",
+      "date": {
+        "year": 2016,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Stadsbiblioteket"
+      ]
+    },
+    {
+      "title": "Tornuret monteras",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Första sidan på Nykarlebyvyer görs",
+      "date": {
+        "year": 2002,
+        "month": 3,
+        "day": 2,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Domänen nykarlebyvyer.nu registreras",
+      "date": {
+        "year": 2002,
+        "month": 10,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Facebookgruppen Nykarlebyvyer skapas",
+      "date": {
+        "year": 2022,
+        "month": 3,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Sokothällans känningsbåk byggs",
+      "date": {
+        "year": 1824,
+        "circa": false,
+        "text": "för 200 år sedan"
+      },
+      "people": [],
+      "places": [
+        "Sokothällan"
+      ]
+    },
+    {
+      "title": "Socklot omnämns första gången",
+      "date": {
+        "year": 1424,
+        "circa": false,
+        "text": "för 600 år sedan"
+      },
+      "people": [],
+      "places": [
+        "Socklot"
+      ]
+    },
+    {
+      "title": "Erkki Finni hittar äldsta avbildningen av staden",
+      "date": {
+        "year": 2022,
+        "circa": false,
+        "text": "hösten 2022"
+      },
+      "people": [
+        "Erkki Finni"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "73d0ff22988fee2fc40fa87e647c40f6851435d34ea982015252b37de11fa0e2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

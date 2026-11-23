@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/fordon/sundeina.html",
+  "title": "Einar Sunds taxibilar",
+  "summary": "Bilder av taxiföraren Einar Sunds sju bilar mellan 1937 och 1974, med kommentarer om var familjen bodde. På bilderna syns också platser som Herlers/Nykarleby Museum och Kyrkogatan 7.",
+  "topics": [
+    "taxi",
+    "bilar",
+    "Sund",
+    "familjehistoria"
+  ],
+  "people": [
+    {
+      "name": "Einar Sund",
+      "alternateNames": [],
+      "birthYear": 1917,
+      "deathYear": 1990,
+      "roles": [
+        "taxiförare"
+      ]
+    },
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [
+        "formann",
+        "busstrafikant"
+      ]
+    },
+    {
+      "name": "Toivo Storskrubb",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tog över taxirörelsen."
+    },
+    {
+      "name": "Holger Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Drev TB-stationen."
+    },
+    {
+      "name": "Linnéa Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Einars fru, skötte telefonen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Herlers",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby Museum"
+      ],
+      "description": "Einars barndomshem, nu museet.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Solleftågatan 8",
+      "kind": "building",
+      "alternateNames": [
+        "Sollefteågatan 8",
+        "Häggbloms gård"
+      ],
+      "address": "Solleftågatan 8",
+      "description": "Einars bostad längst."
+    },
+    {
+      "name": "Kyrkogatan 7",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Kyrkogatan 7",
+      "description": "Einars sista bostad.",
+      "geo": {
+        "lat": 63.5237259,
+        "lng": 22.5282357,
+        "match": "address",
+        "gazetteerName": "kyrkogatan 7",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fors Verkstad",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Anderssons gästgiveri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Långön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Einar Sund pensioneras som taxiförare",
+      "date": {
+        "year": 1982,
+        "month": 2,
+        "day": 23,
+        "circa": false
+      },
+      "people": [
+        "Einar Sund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3c4296426bd64519b99994b13df4fc36b985c18605c591543ffe25635d9673db",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

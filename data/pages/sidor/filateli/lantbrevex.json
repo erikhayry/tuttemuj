@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/lantbrevex.html",
+  "title": "Lantbrevbärarlinjer i Nykarlebytrakten",
+  "summary": "En förteckning över lantbrevbärarlinjer i trakten, till exempel Kovjoki–Åvist och Nykarleby–Socklot, med exempelbrev ur Frank Anderssons samling.",
+  "topics": [
+    "filateli",
+    "post",
+    "lantbrevbärare"
+  ],
+  "people": [
+    {
+      "name": "Frank Andersson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kaarlo Hirvikoski",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred Finne",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Åvist",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Lillsocklot",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Storsocklot",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Gasängskvarn",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Markby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Linje 844 Kovjoki–Åvist anläggs",
+      "date": {
+        "year": 1904,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Linje 844 dras in",
+      "date": {
+        "year": 1908,
+        "month": 11,
+        "day": 10,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Linje 1542 till Lillsocklot och Storsocklot anläggs",
+      "date": {
+        "year": 1908,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Post till Storsoklot två gånger i veckan",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Linje 2711 Nykarleby–Gasängskvarn används",
+      "date": {
+        "year": 1930,
+        "month": 3,
+        "day": 31,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b3602cb3ff6b43babb4b0b5238fd9a782499185cb52a7a6357a64b2d1b950824",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

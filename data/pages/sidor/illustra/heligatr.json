@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/heligatr.htm",
+  "title": "De vise männens tillbedjan i Nykarleby kyrka",
+  "summary": "En oljemålning i södra korsarmen av okänd konstnär, som tidigare hängde vid sakristian. Enligt Zachris Schalin kan den vara målad 1787 av Thomas Kempe.",
+  "topics": [
+    "kyrkokonst",
+    "Nykarleby kyrka"
+  ],
+  "people": [
+    {
+      "name": "Thomas Kempe",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Zachris Schalin",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Målningen kan vara målad",
+      "date": {
+        "year": 1787,
+        "circa": true,
+        "text": "kan vara målad av Thomas Kempe år 1787"
+      },
+      "people": [
+        "Thomas Kempe"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0b5f8c4ca88c1253a275c632f5d8723b133a4dd55a2555e76b3556976c5d1a48",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/genea/lassila_sll.html",
+  "title": "Tillägg om släkten Lassila i Kovjoki",
+  "summary": "Seija-Riitta Laakso jämför Woldemar Backmans studie av släkten Lassila med uppgifter ur HisKi och rättar födelsedatum, saknade barn och de 'försvunna' döttrarna. Sidan följer släkten från Lassila hemman i Kovjoki till andra byar.",
+  "topics": [
+    "släktforskning",
+    "Lassila",
+    "Kovjoki"
+  ],
+  "people": [
+    {
+      "name": "Seija-Riitta Laakso",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sammanställde tilläggen 2016."
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Jönsson",
+      "alternateNames": [],
+      "birthYear": 1707,
+      "deathYear": 1765,
+      "roles": [
+        "hemmaägare"
+      ]
+    },
+    {
+      "name": "Susanna Jakobsdotter Lassila",
+      "alternateNames": [],
+      "birthYear": 1702,
+      "roles": []
+    },
+    {
+      "name": "Jakob Eriksson Lassila",
+      "alternateNames": [],
+      "birthYear": 1725,
+      "deathYear": 1796,
+      "roles": [
+        "nämndeman"
+      ]
+    },
+    {
+      "name": "Jöns Eriksson Lassila",
+      "alternateNames": [],
+      "birthYear": 1739,
+      "deathYear": 1800,
+      "roles": [
+        "nämndeman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lassila",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman i Kovjoki by."
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Finne",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman C i Kovjoki."
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Jönsson avlider på Lassila",
+      "date": {
+        "year": 1765,
+        "month": 6,
+        "day": 28,
+        "circa": false
+      },
+      "people": [
+        "Erik Jönsson"
+      ],
+      "places": [
+        "Lassila"
+      ]
+    },
+    {
+      "title": "Jakob Eriksson Lassila avlider",
+      "date": {
+        "year": 1796,
+        "month": 11,
+        "day": 24,
+        "circa": false
+      },
+      "people": [
+        "Jakob Eriksson Lassila"
+      ],
+      "places": [
+        "Lassila"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "fa2e278b1c74cff2911c8b126f2ce66d41c8dfbcb3d5752ff1977ea8f905ff7c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/tt_rek.html",
+  "title": "Rekommenderade försändelser till Turkistuottajat Oy",
+  "summary": "Paketkort för rekommenderade minkskinnsförsändelser 1967–68 till ett pälsbolag i Helsingfors, nästan alla från Socklot. Sidan presenterar avsändarna med korta minnesanteckningar kopplade till andra sidor på webbplatsen.",
+  "topics": [
+    "filateli",
+    "päldjursnäring",
+    "Socklot",
+    "mikrohistoria"
+  ],
+  "people": [
+    {
+      "name": "Sigrid Nygård",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av de första aktieägarna i Nyko-Frys."
+    },
+    {
+      "name": "Ragnar Sjöholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av de första aktieägarna i Nyko-Frys."
+    },
+    {
+      "name": "Erik Saarikoski",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ordförande i Nyko-Frys första styrelse."
+    },
+    {
+      "name": "Einar Wikblad",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Deltog i notdragning 1939."
+    },
+    {
+      "name": "Sven Eriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Med vid fiskfryseriets invigning 1955."
+    },
+    {
+      "name": "Rudolf Sjöholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Köpte småskolan på Valln när den nya byggdes."
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har bidragit mycket till Nykarlebyvyer."
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Valln",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Här fanns en småskola."
+    }
+  ],
+  "events": [
+    {
+      "title": "Minkskinnsförsändelser till Turkistuottajat Oy",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Notdragning på Torsöfjärden",
+      "date": {
+        "year": 1939,
+        "month": 3,
+        "day": 28,
+        "circa": false
+      },
+      "people": [
+        "Einar Wikblad"
+      ],
+      "places": [
+        "Torsöfjärden"
+      ]
+    },
+    {
+      "title": "Fiskfryseriet invigs",
+      "date": {
+        "year": 1955,
+        "circa": false
+      },
+      "people": [
+        "Sven Eriksson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "56b3c676f59cd7e94980aab5a8ac7b50c7dc7bf0cb93bab1be466957d90fe4de",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

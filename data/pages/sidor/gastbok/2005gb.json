@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/gastbok/2005gb.htm",
+  "title": "Gästbok år 2005",
+  "summary": "Gästboksinlägg från 2005 där utflyttade nykarlebybor berättar om sina rötter och tackar för webbplatsen.",
+  "topics": [
+    "gästbok",
+    "Nykarlebyvyer"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Bjons",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "4ae5569bcd7e54b71368dd5020b6f178d89799677cd66e641b2fc8adb7abed9a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

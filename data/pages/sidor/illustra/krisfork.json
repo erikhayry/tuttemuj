@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/krisfork.htm",
+  "title": "Kristi förklaring i Nykarleby kyrka",
+  "summary": "Altartavlan Kristi förklaring skänktes till Nykarleby kyrka 1898 av assessor Lindbohm och hans maka och målades av Alexandra Såltin. Tavlan var altartavla till 1928 och hänger nu i södra korsarmen.",
+  "topics": [
+    "kyrkokonst",
+    "donation",
+    "Nykarleby kyrka"
+  ],
+  "people": [
+    {
+      "name": "O. Lindbohm",
+      "alternateNames": [],
+      "roles": [
+        "assessor"
+      ]
+    },
+    {
+      "name": "Alexandra Såltin",
+      "alternateNames": [
+        "Alexandra Frosterus"
+      ],
+      "roles": [
+        "målare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "moderkyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Altartavlan skänks till kyrkan",
+      "date": {
+        "year": 1898,
+        "circa": false
+      },
+      "people": [
+        "O. Lindbohm",
+        "Alexandra Såltin"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Tavlan flyttas till södra korsarmen vid kyrkorenoveringen",
+      "date": {
+        "year": 1928,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6558befae189243c467b9b24731a848431c51248f061003115f627ec034d46f1",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

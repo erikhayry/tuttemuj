@@ -1,0 +1,259 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/dyhrill.htm",
+  "title": "Albert Dyhrs gård",
+  "summary": "Teckning av Albert Dyhrs gård på Bankgatan 6 och gårdens ägarkedja från 1862. Senare delar av sidan berättar om restauranger och pubar som funnits i huset, från von Döbeln till Pedros pub.",
+  "topics": [
+    "Bankgatan",
+    "restauranger",
+    "gårdshistoria",
+    "ägare"
+  ],
+  "people": [
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ],
+      "description": "Byggde huset 1862."
+    },
+    {
+      "name": "A. M. Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. F. Barck",
+      "alternateNames": [],
+      "roles": [
+        "häradshövding"
+      ]
+    },
+    {
+      "name": "K. E. Ekroth",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "bagare"
+      ]
+    },
+    {
+      "name": "K. F. Spolander",
+      "alternateNames": [],
+      "roles": [
+        "överlärare"
+      ]
+    },
+    {
+      "name": "Viking Bergvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Drev elaffär i byggnaden till 1961."
+    },
+    {
+      "name": "Pedro Gonzalez",
+      "alternateNames": [],
+      "roles": [
+        "krögare"
+      ],
+      "description": "Ägde Pedros pub."
+    },
+    {
+      "name": "Duman Cemal",
+      "alternateNames": [
+        "Cemal Duman"
+      ],
+      "roles": [
+        "krögare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan 6",
+      "kind": "building",
+      "alternateNames": [
+        "Albert Dyhrs gård"
+      ],
+      "address": "Bankgatan 6",
+      "description": "Tomt nr 41.",
+      "geo": {
+        "lat": 63.5228929,
+        "lng": 22.5293227,
+        "match": "address",
+        "gazetteerName": "bankgatan 6",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stenhustomten",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Nuvarande normalskoletomten."
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pedros pub",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby Wärdshus",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rävgrytan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Micke's Inn",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Albert Dyhrs gård byggs",
+      "date": {
+        "year": 1862,
+        "circa": false
+      },
+      "people": [
+        "Albert Dyhr"
+      ],
+      "places": [
+        "Bankgatan 6"
+      ]
+    },
+    {
+      "title": "Gården säljs till A. M. Gyllenberg",
+      "date": {
+        "year": 1882,
+        "circa": false
+      },
+      "people": [
+        "Albert Dyhr",
+        "A. M. Gyllenberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gyllenberg går i konkurs",
+      "date": {
+        "year": 1891,
+        "circa": false
+      },
+      "people": [
+        "A. M. Gyllenberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården säljs till K. E. Ekroth",
+      "date": {
+        "year": 1897,
+        "circa": false
+      },
+      "people": [
+        "K. E. Ekroth"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården överlåts till K. F. Spolander",
+      "date": {
+        "year": 1904,
+        "circa": false
+      },
+      "people": [
+        "K. F. Spolander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Föreningsbanken köper gården",
+      "date": {
+        "year": 1914,
+        "month": 12,
+        "day": 16,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 6"
+      ]
+    },
+    {
+      "title": "Restaurang von Döbeln flyttar till gården",
+      "date": {
+        "year": 1993,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 6"
+      ]
+    },
+    {
+      "title": "Restaurang von Döbeln går i konkurs; stället blir Rävgrytan",
+      "date": {
+        "year": 2003,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rävgrytan"
+      ]
+    },
+    {
+      "title": "Slagsmål på Pedros pub",
+      "date": {
+        "year": 2011,
+        "month": 12,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Pedros pub"
+      ]
+    },
+    {
+      "title": "FAF öppnar i lokalen",
+      "date": {
+        "year": 2017,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Bankgatan 6"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f55fd1601d14a2b6edccb407decef0b29f76d023d2b0a0597b59f83d39249853",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

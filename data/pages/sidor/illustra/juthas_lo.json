@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/juthas_lo.html",
+  "title": "Ljustryck av Juthas monument från Lars Östlin",
+  "summary": "Ett ljustryck av Juthas monument med namn på de officerare och andra som deltog i slaget 1808, samt en vers om Döbelns dag. Det gavs ut av J. W. Nessler i Nykarleby.",
+  "topics": [
+    "Juthas",
+    "monument",
+    "finska kriget"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [
+        "von Döbeln"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Carl Johan Adlercreutz",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan August Sandels",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Östlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "förläggare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas monument",
+      "kind": "landmark",
+      "alternateNames": [
+        "Juthas"
+      ],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "month": 9,
+        "day": 13,
+        "circa": false
+      },
+      "people": [
+        "Georg Carl von Döbeln"
+      ],
+      "places": [
+        "Juthas monument"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2979c831d349a94318503fe55481c1e746f342dd24f7e3e25a3e3f8e3a18a4ca",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

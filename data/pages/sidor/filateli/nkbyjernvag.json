@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/nkbyjernvag.html",
+  "title": "Nykarleby Jernväg och Kovjoki",
+  "summary": "Två detaljer av stämplar från Nykarleby Jernväg och Kovjoki. Sidan nämner också en finsk samlarsajt som liknar Nykarlebyvyer.",
+  "topics": [
+    "filateli",
+    "stämplar",
+    "järnväg"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b12866b6bebd77dc9145865670e4cc9ff507567e607a0bf7a1037c8d6d03ccc5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

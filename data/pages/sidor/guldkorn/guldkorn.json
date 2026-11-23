@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/guldkorn/guldkorn.htm",
+  "title": "Guldkorn",
+  "summary": "En guide till några av de intressantaste sidorna på webbplatsen, bland annat kartan, vandringen i staden, stadsmodellen, gatunamn, hädangångna hus och visualiseringen av staden före branden 1858.",
+  "topics": [
+    "guldkorn",
+    "innehållsförteckning",
+    "Nykarlebyvyer"
+  ],
+  "people": [
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde en stadsmodell."
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erkki Finni",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Nylund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Adventskalendern",
+      "date": {
+        "year": 2004,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1de3482bed332e9dcadb3b17cc678333283e858836ae47c3d0017943c6b74569",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

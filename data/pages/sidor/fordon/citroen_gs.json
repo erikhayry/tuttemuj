@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/fordon/citroen_gs.html",
+  "title": "Gunnar och Helmer Sunds Citroën",
+  "summary": "Gunnar och Helmer Sunds lastbil, en Citroën från 1930-talet som köptes av finska armén efter kriget och mest användes för grustransport. Dottern minns hur gruset skyfflades för hand.",
+  "topics": [
+    "lastbilar",
+    "Sund",
+    "fordon"
+  ],
+  "people": [
+    {
+      "name": "Gunnar Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helmer Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Inger Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotter, minns arbetet med gruset."
+    },
+    {
+      "name": "Ann-Britt Enlund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan 33",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 33",
+      "description": "Gunnar Sunds uthus.",
+      "geo": {
+        "lat": 63.5255153,
+        "lng": 22.534709,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 33",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Citroën-lastbilen köps från finska armén",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Foto av Gunnar vid lastbilen",
+      "date": {
+        "year": 1955,
+        "circa": true,
+        "text": "1955 eller 1956"
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "32c293240f1b2362d3ca2cca3e57ec5ee922a9dd223fc286a2ed5d1943b3ab08",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

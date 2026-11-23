@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/fordon/0fordon.html",
+  "title": "Innehållsförteckning till Fordon med mera",
+  "summary": "Innehållssida för kapitlet om fordon i Nykarleby: personbilar, lastbilar, anläggningsmaskiner, tvåhjulingar, traktorer, hästfordon och järnväg. Sidan listar många bilder och artiklar med årtal från 1900-talet.",
+  "topics": [
+    "fordon",
+    "innehållsförteckning",
+    "bilar",
+    "järnväg"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andrasjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0634953381703b5e0ef7d2bd1956e00ae172af10d2c239196d145d4697a79f9f",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

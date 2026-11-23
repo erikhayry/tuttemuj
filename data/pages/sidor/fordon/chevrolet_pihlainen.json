@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/fordon/chevrolet_pihlainen.html",
+  "title": "Pihlainens Chevrolet 1926",
+  "summary": "Familjen Pihlainen på provtur med sin nya Chevrolet 1926, med Laqvists Café skymtande i bakgrunden. En bilkännare identifierar modellen.",
+  "topics": [
+    "bilar",
+    "Pihlainen",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Wiljam Pihlainen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Armas Pihlainen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Saga Backlund",
+      "alternateNames": [
+        "Saga Pihlainen"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Hugo Ståhlström",
+      "alternateNames": [],
+      "roles": [
+        "lärarkandidat"
+      ],
+      "description": "Stod bakom kameran."
+    }
+  ],
+  "places": [
+    {
+      "name": "Laqvists Café",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Pihlainen provkör sin nya Chevrolet",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [
+        "Wiljam Pihlainen",
+        "Armas Pihlainen",
+        "Saga Backlund"
+      ],
+      "places": [
+        "Laqvists Café"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "65b8fc9a140d860be170f3226d6a95d74273e46aa5f8d3c5e90f5126441a6d8a",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

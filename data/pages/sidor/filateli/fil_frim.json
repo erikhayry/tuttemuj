@@ -1,0 +1,272 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/fil_frim.htm",
+  "title": "Frimärken med Nykarlebyanknytning",
+  "summary": "Sammanställning av frimärken med anknytning till Nykarleby: Topelius 1948 och 1968, von Döbeln 1955, stadens 350-årsfrimärke 1970, postvägskartan 1985, ladorna i Kovjoki 2016 och Topelius 2018. Sidan innehåller också en del om de rivna ladorna i Kovjoki.",
+  "topics": [
+    "filateli",
+    "frimärken",
+    "Topelius",
+    "Kovjoki",
+    "lador"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Ludvig Runeberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fredrik Pacius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Antti Lehmus",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Filatelist vars intresse väcktes av postvägskartans minivärdearksark."
+    },
+    {
+      "name": "Sten Backlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Byggde ladorna på Tjyton 1964–65."
+    },
+    {
+      "name": "Timo Berry",
+      "alternateNames": [],
+      "roles": [
+        "formgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Motiv på stadens 350-årsfrimärke 1970, på platsen där Trivialskolan verkade 1640–84.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströms/Sandqvists gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Tjyton",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Plats för tre lador byggda 1964–65."
+    },
+    {
+      "name": "Nabbas hemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Stockarna till ladorna höggs här i Kovjoki."
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källmossvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Idrotts-ungdomsgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Plats för jubileumsfesten 23 augusti 1970."
+    },
+    {
+      "name": "Stads-/kyrkbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Röda Korsserie med Zacharias Topelius utges",
+      "date": {
+        "year": 1948,
+        "month": 5,
+        "day": 10,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Röda Korsserie med von Döbeln utges",
+      "date": {
+        "year": 1955,
+        "month": 11,
+        "day": 24,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Topelius 150-årsfrimärke utges",
+      "date": {
+        "year": 1968,
+        "month": 1,
+        "day": 14,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nykarlebyfrimärket utges till stadens 350-årsjubileum",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 21,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Jubileumsfest i Idrotts-ungdomsgården",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 23,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Idrotts-ungdomsgården"
+      ]
+    },
+    {
+      "title": "Miniatyrark med postvägskarta från 1698 utges",
+      "date": {
+        "year": 1985,
+        "month": 10,
+        "day": 16,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Frimärkshäfte med lador i Kovjoki utges",
+      "date": {
+        "year": 2016,
+        "month": 5,
+        "day": 6,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Ladorna i Kovjoki rivs",
+      "date": {
+        "year": 2020,
+        "month": 12,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Topelius jubileumsfrimärke utges",
+      "date": {
+        "year": 2018,
+        "month": 1,
+        "day": 24,
+        "circa": false
+      },
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ladorna på Tjyton byggs",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "people": [
+        "Sten Backlund"
+      ],
+      "places": [
+        "Tjyton"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "df3e3e32346585aac1a586063eccbb52b7fe973d96afb4feb784e4ca6a6ad987",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/apostlar.htm",
+  "title": "Apostlarna på läktarmålningarna i Nykarleby kyrka",
+  "summary": "Genomgång av apostlarna på läktarmålningarna i Nykarleby kyrka, utförda 1748–49. Varje målning presenteras med uppslagsverkstext och apostelns attribut.",
+  "topics": [
+    "kyrkokonst",
+    "läktarmålningar",
+    "Nykarleby kyrka"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ],
+      "description": "Utförde läktarmålningarna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Läktarmålningarna utförs",
+      "date": {
+        "year": 1748,
+        "circa": false
+      },
+      "people": [
+        "Daniel Hjulström"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b5cfc645f109956989eac8c8b13411ff467643a0cf80baaffc4b052bf2cd1610",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

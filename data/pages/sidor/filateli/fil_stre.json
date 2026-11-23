@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/fil_stre.htm",
+  "title": "Ett lock till en dosa Strengbergs grovt snus",
+  "summary": "Ett snusdoslock från Strengbergs i Jakobstad, tillverkat av Nykarlebyföretaget Prevex. Kommentarerna följer släkttrådar från Strengberg till Labbartska gården i Nykarleby.",
+  "topics": [
+    "snus",
+    "Prevex",
+    "släkt",
+    "industri"
+  ],
+  "people": [
+    {
+      "name": "Philip Ulrik Strengberg",
+      "alternateNames": [
+        "Philip Ulric Strengberg"
+      ],
+      "roles": [
+        "tobaksfabrikant"
+      ]
+    },
+    {
+      "name": "Charlotta Thelin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Strengbergs hustru."
+    },
+    {
+      "name": "Anders Eliasson Thelin",
+      "alternateNames": [],
+      "birthYear": 1716,
+      "deathYear": 1778,
+      "roles": [],
+      "description": "Byggde den första kyrkorgeln till Sankta Birgitta kyrka."
+    },
+    {
+      "name": "Werner Labbart",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gift med Mimmi Heikel från Nykarleby."
+    },
+    {
+      "name": "Mimmi Heikel",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stefan Nyman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Tapio Rautio",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Labbartska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Labbarts gård"
+      ],
+      "address": "korsningen Rådhusgatan–Storgatan, norr om torget",
+      "description": "Byggd av Philip Strengberg; senare ägare gav gården dess namn."
+    },
+    {
+      "name": "Rådhusgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Storgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Strengbergs fabrik grundas i Jakobstad",
+      "date": {
+        "year": 1762,
+        "circa": false
+      },
+      "people": [
+        "Philip Ulrik Strengberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Strengbergs fabrik stängs",
+      "date": {
+        "year": 1998,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Philip Strengberg gifter sig med Charlotta Thelin",
+      "date": {
+        "year": 1829,
+        "circa": false
+      },
+      "people": [
+        "Philip Ulrik Strengberg",
+        "Charlotta Thelin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "83252740740f7c8ea3ca60addf22569dc9974388105516df42a2ec686aff5c84",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/fil_stmp.htm",
+  "title": "Stämplar använda i Nykarleby",
+  "summary": "En omfattande genomgång av poststämplar som använts i Nykarleby, från enradsstämplar 1812 till rundstämplar på 2000-talet, med specialstämplar, censurstämplar och stämplar från byarna. Inledningen berättar att postkontoret grundades 1642 och lades ner 2001.",
+  "topics": [
+    "filateli",
+    "post",
+    "stämplar",
+    "posthistoria"
+  ],
+  "people": [
+    {
+      "name": "Antti Lehmus",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll uppgifter om stämplarnas första och sista kända förekomst."
+    },
+    {
+      "name": "Åke Berglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby postkontor",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Markby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby Camping",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "OstroCenter",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här sköter ett ombud postens tidigare sysslor."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby får postkontor",
+      "date": {
+        "year": 1642,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby postkontor"
+      ]
+    },
+    {
+      "title": "Postkontoret läggs ner",
+      "date": {
+        "year": 2001,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby postkontor"
+      ]
+    },
+    {
+      "title": "Enradsstämpel 'Nio-Karlebio' tas i bruk",
+      "date": {
+        "year": 1812,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Låg fyrkantsstämpel 'Nycarleby' tas i bruk",
+      "date": {
+        "year": 1846,
+        "circa": false,
+        "text": "1846"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Finland-stämplar tas i bruk",
+      "date": {
+        "year": 1888,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f9cbfb102606599a3ee97c206268222ae8776ded09dc725e28796049f17403f5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

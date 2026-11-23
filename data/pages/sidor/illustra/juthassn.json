@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/juthassn.htm",
+  "title": "Juthas slagfält – ett konstverk berättar",
+  "summary": "Funderingar om en Juthaslitografi från 1860-talet och dess likheter med J. Knutsons förlaga. En läsare berättar om en lada vid ån som fick skott i stockarna under slaget och revs 1919.",
+  "topics": [
+    "Juthas",
+    "litografi",
+    "lokalhistoria"
+  ],
+  "people": [
+    {
+      "name": "J. Knutson",
+      "alternateNames": [],
+      "roles": [
+        "litograf"
+      ]
+    },
+    {
+      "name": "Emilie Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas slagfält",
+      "kind": "landmark",
+      "alternateNames": [
+        "Juthas"
+      ],
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "juthas slagfält",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Juthas",
+      "date": {
+        "year": 1808,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Juthas slagfält"
+      ]
+    },
+    {
+      "title": "Ladan som fått skott i stockarna rivs",
+      "date": {
+        "year": 1919,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Juthas slagfält"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5d00dab5e282e249ebab2003c8db7a338e3b9a616693a76dd54dbb7749f824c5",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

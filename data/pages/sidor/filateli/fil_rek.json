@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/fil_rek.html",
+  "title": "WÄRDE-stämplar och rekommenderingsetiketter använda i Nykarleby",
+  "summary": "Om hur rekommenderade brev märktes i Nykarleby, med många etikettvarianter från 1896 till 1988 och en typologi över dem. Sidan har också en etikett från Kovjoki.",
+  "topics": [
+    "filateli",
+    "post",
+    "rekommenderade brev"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "R-stämpel införs för rekommenderade brev",
+      "date": {
+        "year": 1882,
+        "month": 11,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "R-etiketter införs",
+      "date": {
+        "year": 1883,
+        "month": 1,
+        "day": 1,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Rekommenderingsetikett används i Nykarleby",
+      "date": {
+        "year": 1896,
+        "month": 6,
+        "day": 25,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Brev från Nykarleby Andelsbank med snedtryckt etikett",
+      "date": {
+        "year": 1974,
+        "month": 6,
+        "day": 11,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Rekommenderingsetikett från Kovjoki",
+      "date": {
+        "year": 1977,
+        "month": 11,
+        "day": 22,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "39357c0cbde3b3f7bf04c7c11e7554786ab171d30a796554fc8be66ed46ad743",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

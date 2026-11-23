@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/kallbayr.html",
+  "title": "Källbackgatan av Yngve Rydström",
+  "summary": "En akvarell från mitten av 1930-talet av Källbackgatan, där alla hus utom ett är rivna. Konstnären var från Munsala.",
+  "topics": [
+    "Källbackgatan",
+    "konst",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Yngve Rydström",
+      "alternateNames": [],
+      "birthYear": 1915,
+      "deathYear": 1991,
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 33",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 33",
+      "description": "Sunds hus.",
+      "geo": {
+        "lat": 63.5255153,
+        "lng": 22.534709,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 33",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "6cd9c42c7832578d4784e1530f7364292dbce471ecab51c5eabd41f36d9e01dc",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}

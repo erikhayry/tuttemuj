@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/illustra/kallbaps.htm",
+  "title": "Källbackgatan av Paul Sandelin",
+  "summary": "En teckning från 1961 av Källbackgatan mellan Esplanaden och Gustav Adolfsgatan. Båda husen på bilden är rivna.",
+  "topics": [
+    "Källbackgatan",
+    "konst",
+    "rivna hus"
+  ],
+  "people": [
+    {
+      "name": "Paul Sandelin",
+      "alternateNames": [],
+      "roles": [
+        "tecknare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Teckning av Källbackgatan",
+      "date": {
+        "year": 1961,
+        "circa": false
+      },
+      "people": [
+        "Paul Sandelin"
+      ],
+      "places": [
+        "Källbackgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "98557554eb2078962d934c103860282b342ea4af2ea237678f7928060a14a1d0",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T13:17:31.281Z"
+}
