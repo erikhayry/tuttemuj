@@ -1,0 +1,17 @@
+{
+  "name": "@tuttemuj/api",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p .",
+    "dev": "tsx --env-file-if-exists=../../.env src/server.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.11",
+    "@supabase/supabase-js": "^2.119.2",
+    "@tuttemuj/schema": "workspace:*",
+    "hono": "^4.13.20",
+    "zod": "^4.6.7"
+  }
+}
