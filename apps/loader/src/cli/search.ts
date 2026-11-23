@@ -4,8 +4,8 @@
  *   pnpm --filter @tuttemuj/loader search "Vad hände vid torget?"
  */
 import { createClient } from "@supabase/supabase-js";
+import { embed } from "@tuttemuj/embeddings";
 import { z } from "zod";
-import { embed } from "../voyage.ts";
 
 const question = process.argv
   .slice(2)

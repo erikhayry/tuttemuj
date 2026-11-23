@@ -1,8 +1,14 @@
-import { NearbyQuery, NearbyResponse } from "@tuttemuj/schema";
+import { AskRequest, AskResponse, NearbyQuery, NearbyResponse } from "@tuttemuj/schema";
 import { Hono } from "hono";
 import { type NearbySource, nearby } from "./nearby.ts";
 
-export function createApp(source: NearbySource) {
+export type Deps = {
+  nearby: NearbySource;
+  /** Answers a question. Missing when the Voyage or Anthropic keys are not set. */
+  ask?: (req: AskRequest) => Promise<AskResponse>;
+};
+
+export function createApp({ nearby: source, ask }: Deps) {
   const app = new Hono();
 
   app.get("/health", (c) => c.json({ ok: true }));
@@ -14,6 +20,15 @@ export function createApp(source: NearbySource) {
       return c.json({ error: "invalid query", issues: query.error.issues }, 400);
     }
     return c.json(NearbyResponse.parse(await nearby(source, query.data)));
+  });
+
+  // A grounded answer to a question, with links to the pages it comes from.
+  app.post("/ask", async (c) => {
+    if (!ask) return c.json({ error: "ask is not configured" }, 503);
+    const body = await c.req.json().catch(() => null);
+    const req = AskRequest.safeParse(body);
+    if (!req.success) return c.json({ error: "invalid request", issues: req.error.issues }, 400);
+    return c.json(AskResponse.parse(await ask(req.data)));
   });
 
   app.onError((err, c) => {
