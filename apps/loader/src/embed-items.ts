@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { EMBEDDING_MODEL } from "@tuttemuj/schema";
+import { EMBEDDING_MODEL, type PageExtraction } from "@tuttemuj/schema";
 import { z } from "zod";
 import type { Rows } from "./rows.ts";
 
@@ -17,15 +17,33 @@ const Pitch = z.object({ pitch: z.string() });
 export const hashOf = (text: string): string =>
   createHash("sha256").update(`${EMBEDDING_MODEL}\n${text}`).digest("hex");
 
+/**
+ * Pages whose own summary says they are empty, a frame, a menu or an index, and that have no
+ * people, places or events. They would only be noise in search results. Postcards and photos with
+ * little text are real content and are kept.
+ */
+const NAVIGATION =
+  /nästan tom|tom (bild|meny)?sida|ingen egen text|utan (egen )?text|ramsida|rubriksida|logotyp|menysida|innehållsförteckning|^meny\b|navigationssida/i;
+
+export const isNavigationPage = (
+  page: Pick<PageExtraction, "summary" | "people" | "places" | "events">,
+): boolean =>
+  page.people.length + page.places.length + page.events.length === 0 &&
+  NAVIGATION.test(page.summary);
+
 const yearText = (year: number | null, circa: boolean): string =>
   year === null ? "" : ` (${circa ? "ca " : ""}${year})`;
 
 /**
  * One item per page summary, event and comic pitch. Pages that repeat another page, and their
- * events, are left out: the primary page is embedded once.
+ * events, are left out: the primary page is embedded once. `skip` lists pages to leave out, such
+ * as empty and navigation pages (`isNavigationPage`).
  */
-export function embedItems(rows: Pick<Rows, "pages" | "events">): EmbedItem[] {
-  const primary = rows.pages.filter((p) => p.duplicate_of === null);
+export function embedItems(
+  rows: Pick<Rows, "pages" | "events">,
+  skip: ReadonlySet<string> = new Set(),
+): EmbedItem[] {
+  const primary = rows.pages.filter((p) => p.duplicate_of === null && !skip.has(p.source_url));
   const titles = new Map(primary.map((p) => [p.source_url, p.title]));
   const items: Omit<EmbedItem, "hash">[] = [];
 

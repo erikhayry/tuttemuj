@@ -10,7 +10,7 @@
  */
 import { fileURLToPath } from "node:url";
 import { z } from "zod";
-import { embedItems } from "../embed-items.ts";
+import { embedItems, isNavigationPage } from "../embed-items.ts";
 import { embedMissing } from "../embed-sync.ts";
 import { readData } from "../read.ts";
 import { buildRows } from "../rows.ts";
@@ -29,9 +29,11 @@ const limit =
     : Infinity;
 
 const { pages, places, groups } = await readData(dataDir);
-const items = embedItems(buildRows(pages, places, groups));
+const skipped = new Set(pages.filter(isNavigationPage).map((p) => p.sourceUrl));
+const items = embedItems(buildRows(pages, places, groups), skipped);
 const count = (kind: string) => items.filter((i) => i.kind === kind).length;
 const chars = items.reduce((n, i) => n + i.text.length, 0);
+console.log(`Leaving out ${skipped.size} empty and navigation pages.`);
 console.log(
   `${items.length} items (${count("page")} pages, ${count("event")} events, ${count("comic")} comic pitches), ` +
     `about ${Math.round(chars / 3.5 / 1000)}k tokens.`,

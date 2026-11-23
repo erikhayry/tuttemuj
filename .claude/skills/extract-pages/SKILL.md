@@ -35,8 +35,12 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
 - `sourceUrl`: copy it exactly from the batch.
 - `title`: the page title, cleaned up.
 - `model`: your model id, e.g. `claude-opus-5-5`.
-- `summary`: **in Swedish, in your own words, 1–3 sentences.**
-  - Never copy sentences from the page. The app sends readers to the original page, so the summary should make them want to click.
+- `summary`: **in Swedish, in your own words.** Users read it directly in search results, so write it for a person standing in the town.
+  - A page with real content gets 2–3 sentences (roughly 200–350 characters). Lead with who, what, where and when, using the names, places and years the page states. Never fill gaps from memory.
+  - The first sentence must stand on its own and stay under about 140 characters: it is shown alone as the result teaser.
+  - Photos and postcards with little text can have 1–2 sentences.
+  - Never copy sentences or long phrases from the page, and don't retell the whole page. The app sends readers to the original, so the summary should make them want to click.
+  - A page with no content of its own (an empty page, a menu, a frame, an index, an enlargement) gets one sentence that says so, using one of these phrases so it is recognised and left out of search: "Nästan tom sida…", "Menysida…", "Ramsida…", "Innehållsförteckning…", "Sidan har ingen egen text…".
 - `topics`: a few short lowercase Swedish keywords, e.g. `"handel"`, `"kyrka"`, `"1808–09 års krig"`.
 - `people`: every named person who matters to the page.
   - Give `birthYear`/`deathYear` only when the page states them.
@@ -52,6 +56,7 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
   - Set `circa: true` for "omkring", "ca" and similar.
   - Put the original wording in `date.text`.
   - For a span the page states ("1873–1971", "på 1830-talet", "1600-talet"), put the first year in `year` and the last in `endYear`. A decade is 1830–1839 and a century 1800–1899. Leave `endYear` out for a single year, and when the page only says "början av 1830-talet" or similar, since that is not the whole decade.
+  - `description`: one self-contained sentence in Swedish, in your own words, that makes sense without the page: say what happened and name the place and the people when the page does.
   - `people` and `places` reference names used in the lists above.
 
 - `comicCandidate`: **always set it**: `null`, or an object if the page tells a story that could become a comic. The user turns local stories into comics in another project.

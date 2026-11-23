@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { embedItems, hashOf } from "./embed-items.ts";
+import { embedItems, hashOf, isNavigationPage } from "./embed-items.ts";
 import { plan } from "./embed-sync.ts";
 import type { EventRow, PageRow } from "./rows.ts";
 
@@ -76,5 +76,39 @@ describe("plan", () => {
   it("embeds again when the text changed", () => {
     const { todo } = plan(items, [{ kind: "page", ref: u("a"), text_hash: "different" }]);
     expect(todo.map((i) => i.ref)).toEqual([u("a"), u("c")]);
+  });
+});
+
+describe("isNavigationPage", () => {
+  const empty = { people: [], places: [], events: [] };
+
+  it.each([
+    "Nästan tom sida med bara texten Meny1.",
+    "Ramsida för avsnittet om hädangångna hus.",
+    "En innehållsförteckning över tjära i Nykarleby.",
+    "Faktasidan för Karhumäki-kort 4253. Sidan har ingen egen text utöver rubriken.",
+  ])("skips %s", (summary) => {
+    expect(isNavigationPage({ ...empty, summary })).toBe(true);
+  });
+
+  it("keeps a postcard with little text", () => {
+    expect(
+      isNavigationPage({ ...empty, summary: "Ett kort från Nykarleby 1905 med en stämpel." }),
+    ).toBe(false);
+  });
+
+  it("keeps a page with facts even when its summary mentions a menu", () => {
+    const places = [{ name: "Torget", kind: "district" as const, alternateNames: [] }];
+    expect(isNavigationPage({ ...empty, places, summary: "Meny över torget." })).toBe(false);
+  });
+});
+
+describe("embedItems skip", () => {
+  it("leaves out skipped pages and their events", () => {
+    const items = embedItems(
+      { pages: [page("a"), page("b")], events: [event("a", 0), event("b", 0)] },
+      new Set([u("a")]),
+    );
+    expect(items.every((i) => i.pageUrl === u("b"))).toBe(true);
   });
 });
