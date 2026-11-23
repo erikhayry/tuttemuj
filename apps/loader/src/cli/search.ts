@@ -1,7 +1,7 @@
 /**
  * Try the search: embed a question and print the closest pages, events and comic pitches.
  *
- *   pnpm --filter @tuttemuj/loader search "Vad hände vid torget?"
+ *   pnpm --filter @tuttemuj/loader search:try "Vad hände vid torget?"
  */
 import { createClient } from "@supabase/supabase-js";
 import { embed } from "@tuttemuj/embeddings";
@@ -11,7 +11,7 @@ const question = process.argv
   .slice(2)
   .filter((a) => a !== "--")
   .join(" ");
-if (!question) throw new Error('Usage: search "<question>"');
+if (!question) throw new Error('Usage: search:try "<question>"');
 
 const env = z
   .object({
