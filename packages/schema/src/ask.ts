@@ -28,6 +28,8 @@ export const AskSource = z.object({
   title: z.string(),
   /** Our own summary of the page. Only set in search mode, where there is no written answer. */
   summary: z.string().optional(),
+  /** People the page names, as "Name (1850–1920, role)". Only set in search mode. */
+  people: z.array(z.string()).optional(),
 });
 export type AskSource = z.infer<typeof AskSource>;
 

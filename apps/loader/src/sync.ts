@@ -21,6 +21,7 @@ export async function readAll(db: SupabaseClient, table: string, columns: string
       .from(table)
       .select(columns)
       .order(columns.split(",")[0] as string)
+      .order(columns.split(",").at(-1) as string)
       .range(from, from + 999);
     fail(`read ${table}`, error);
     const page = (data ?? []) as unknown as Record<string, string>[];
@@ -66,7 +67,7 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     table: string,
     a: string,
     b: string,
-    links: Record<string, string>[],
+    links: Record<string, unknown>[],
   ) => {
     const wanted = new Set(links.map((r) => `${r[a]}\n${r[b]}`));
     const existing = await readAll(db, table, `${a},${b}`);
@@ -89,6 +90,8 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     "place_id",
     rows.eventPlaces,
   );
+
+  const stalePagePeople = await syncLinks("page_people", "page_url", "name", rows.pagePeople);
 
   // Pages and places that no longer exist (their links go with them).
   const removeMissing = async (table: string, column: string, keep: string[]) => {
@@ -125,6 +128,7 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       page_places: rows.pagePlaces.length,
       events: rows.events.length,
       event_places: rows.eventPlaces.length,
+      page_people: rows.pagePeople.length,
     },
     removed: {
       pages: removedPages,
@@ -132,6 +136,7 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       events: removedEvents,
       page_places: stalePagePlaces,
       event_places: staleEventPlaces,
+      page_people: stalePagePeople,
     },
   };
 }

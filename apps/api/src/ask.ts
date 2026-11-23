@@ -56,6 +56,7 @@ const searchOnly = (req: AskRequest, facts: Fact[]): AskResponse =>
       sourceUrl: f.sourceUrl,
       title: f.pageTitle,
       summary: f.summary,
+      ...(f.people.length > 0 ? { people: f.people } : {}),
     })),
     suggestions: [],
   });
