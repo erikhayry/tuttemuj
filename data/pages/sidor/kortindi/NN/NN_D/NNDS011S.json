@@ -26,7 +26,15 @@
       "name": "Direktorsbostaden",
       "kind": "building",
       "alternateNames": [],
-      "description": "Färdigställd 1882."
+      "description": "Färdigställd 1882.",
+      "geo": {
+        "lat": 63.526066698514065,
+        "lng": 22.52407032468966,
+        "match": "name",
+        "gazetteerName": "residenshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

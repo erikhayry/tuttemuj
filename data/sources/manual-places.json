@@ -1492,7 +1492,11 @@
   },
   {
     "name": "forsbacka",
-    "kind": "farm"
+    "kind": "farm",
+    "location": {
+      "lat": 63.51043758248433,
+      "lng": 22.530463770389918
+    }
   },
   {
     "name": "forsbackaforsen",
@@ -2028,7 +2032,11 @@
   {
     "name": "gråstenskällaren",
     "kind": "building",
-    "note": "Stone cellar below the church, built 1847; flooded 1984."
+    "note": "Stone cellar below the church, built 1847; flooded 1984.",
+    "location": {
+      "lat": 63.52279354021227,
+      "lng": 22.525871754292172
+    }
   },
   {
     "name": "gråsön",
@@ -2539,7 +2547,11 @@
   {
     "name": "hugos lindo",
     "kind": "farm",
-    "note": "Hugo Liljeström's meadow with a barn."
+    "note": "Hugo Liljeström's meadow with a barn.",
+    "location": {
+      "lat": 63.52634160989474,
+      "lng": 22.539925921630843
+    }
   },
   {
     "name": "hugos lindon",
@@ -2967,7 +2979,11 @@
     "kind": "building",
     "alternateNames": [
       "stationen"
-    ]
+    ],
+    "location": {
+      "lat": 63.524753685542436,
+      "lng": 22.550952612276298
+    }
   },
   {
     "name": "jättegrytan",
@@ -3101,7 +3117,11 @@
   {
     "name": "karleborg",
     "kind": "building",
-    "note": "House on Lybecksgatan; burned 8 April 1970."
+    "note": "House on Lybecksgatan; burned 8 April 1970.",
+    "location": {
+      "lat": 63.52419927115089,
+      "lng": 22.536381564668112
+    }
   },
   {
     "name": "karleborgsgatan",
@@ -5127,7 +5147,11 @@
   {
     "name": "nykarleby regale bränneri",
     "kind": "building",
-    "note": "Regale distillery, described in 1788."
+    "note": "Regale distillery, described in 1788.",
+    "location": {
+      "lat": 63.47783111243237,
+      "lng": 22.52906388313408
+    }
   },
   {
     "name": "nykarleby samskola",
@@ -5649,7 +5673,11 @@
       "direktorsbostaden",
       "direktorshuset",
       "residensbyggnaden"
-    ]
+    ],
+    "location": {
+      "lat": 63.526066698514065,
+      "lng": 22.52407032468966
+    }
   },
   {
     "name": "residenshusets uthus",
@@ -5815,7 +5843,11 @@
     "kind": "street",
     "alternateNames": [
       "rådhus boulevarden"
-    ]
+    ],
+    "location": {
+      "lat": 63.52565330483864,
+      "lng": 22.532197318659374
+    }
   },
   {
     "name": "rådhusboulevarden 48",
@@ -5978,7 +6010,11 @@
   },
   {
     "name": "samskolan",
-    "kind": "building"
+    "kind": "building",
+    "location": {
+      "lat": 63.52368880279052,
+      "lng": 22.530872162678012
+    }
   },
   {
     "name": "samskolans vaktmästarbostad",
@@ -6424,7 +6460,11 @@
   },
   {
     "name": "smedsbacka",
-    "kind": "farm"
+    "kind": "farm",
+    "location": {
+      "lat": 63.52983378196397,
+      "lng": 22.523736715946278
+    }
   },
   {
     "name": "smedsbacka daghem",

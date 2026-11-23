@@ -37,7 +37,15 @@
       "alternateNames": [
         "Talon",
         "Skyddskårsgården"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusgatan",

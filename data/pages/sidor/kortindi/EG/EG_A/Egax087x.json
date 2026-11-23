@@ -28,7 +28,15 @@
       "name": "Rådhusboulevarden",
       "kind": "street",
       "alternateNames": [],
-      "description": "Motiv på ett av korten, med Grundfeldtska gården."
+      "description": "Motiv på ett av korten, med Grundfeldtska gården.",
+      "geo": {
+        "lat": 63.52565330483864,
+        "lng": 22.532197318659374,
+        "match": "name",
+        "gazetteerName": "rådhusboulevarden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Grundfeldtska gården",

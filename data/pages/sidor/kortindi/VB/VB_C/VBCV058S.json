@@ -28,7 +28,15 @@
       "name": "residenshuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Fotografen stod på taket här."
+      "description": "Fotografen stod på taket här.",
+      "geo": {
+        "lat": 63.526066698514065,
+        "lng": 22.52407032468966,
+        "match": "name",
+        "gazetteerName": "residenshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "apoteket",

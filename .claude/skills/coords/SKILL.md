@@ -1,4 +1,5 @@
 ---
+
 name: coords
 description: Add coordinates to unlocated places one by one, most-mentioned first. Claude shows a place with context and a map link, the user replies with coordinates, Claude saves them. Use when the user asks to add coords or locate places, e.g. "/coords".
 ---

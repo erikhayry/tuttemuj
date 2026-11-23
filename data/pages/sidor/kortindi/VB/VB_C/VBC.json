@@ -25,7 +25,15 @@
     {
       "name": "Rådhusboulevarden",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52565330483864,
+        "lng": 22.532197318659374,
+        "match": "name",
+        "gazetteerName": "rådhusboulevarden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Grundfeldtska huset",
@@ -82,7 +90,15 @@
     {
       "name": "Residenshuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526066698514065,
+        "lng": 22.52407032468966,
+        "match": "name",
+        "gazetteerName": "residenshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Seminariegatan",

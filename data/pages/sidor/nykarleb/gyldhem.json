@@ -28,7 +28,15 @@
       "name": "Smedsbacka",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Hemman på Gyldéns karta från 1841."
+      "description": "Hemman på Gyldéns karta från 1841.",
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybacka",
@@ -60,7 +68,15 @@
       "name": "Forsbacka",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Hemman på Gyldéns karta från 1841."
+      "description": "Hemman på Gyldéns karta från 1841.",
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Isakas",

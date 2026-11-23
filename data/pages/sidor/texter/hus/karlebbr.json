@@ -27,7 +27,15 @@
       "name": "Karleborg",
       "kind": "building",
       "alternateNames": [],
-      "description": "Brann den 8 april 1970."
+      "description": "Brann den 8 april 1970.",
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Fagerholms uthus",

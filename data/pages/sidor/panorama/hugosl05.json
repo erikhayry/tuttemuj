@@ -31,7 +31,15 @@
       "alternateNames": [
         "backåker"
       ],
-      "description": "Ägonamnet är Backåker. Ligger nordnordost om Mathesiusgatan–Källbackgatan."
+      "description": "Ägonamnet är Backåker. Ligger nordnordost om Mathesiusgatan–Källbackgatan.",
+      "geo": {
+        "lat": 63.52634160989474,
+        "lng": 22.539925921630843,
+        "match": "name",
+        "gazetteerName": "hugos lindo",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "roosas lindo",

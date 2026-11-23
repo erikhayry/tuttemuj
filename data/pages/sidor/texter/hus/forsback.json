@@ -30,7 +30,15 @@
       "alternateNames": [
         "Forsbacka kaplansbol",
         "Forsbacka hemman"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Lillollas kaplansbol",

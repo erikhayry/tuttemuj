@@ -22,7 +22,15 @@
     {
       "name": "Samskolan",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52368880279052,
+        "lng": 22.530872162678012,
+        "match": "name",
+        "gazetteerName": "samskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhusboulevarden",
@@ -31,12 +39,12 @@
         "Topeliusesplanaden"
       ],
       "geo": {
-        "lat": 63.523653,
-        "lng": 22.531456,
+        "lat": 63.52565330483864,
+        "lng": 22.532197318659374,
         "match": "name",
-        "gazetteerName": "topeliusesplanaden",
+        "gazetteerName": "rådhusboulevarden",
         "gazetteerKind": "street",
-        "source": "nkby-2018"
+        "source": "manual"
       }
     },
     {

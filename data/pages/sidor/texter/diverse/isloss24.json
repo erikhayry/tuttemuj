@@ -30,7 +30,15 @@
     {
       "name": "Nykarleby Regale Bränneri",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.47783111243237,
+        "lng": 22.52906388313408,
+        "match": "name",
+        "gazetteerName": "nykarleby regale bränneri",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

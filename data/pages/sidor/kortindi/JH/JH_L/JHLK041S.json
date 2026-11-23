@@ -11,7 +11,15 @@
     {
       "name": "Gråstenskällaren",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52279354021227,
+        "lng": 22.525871754292172,
+        "match": "name",
+        "gazetteerName": "gråstenskällaren",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby kyrka",

@@ -79,7 +79,15 @@
       "kind": "building",
       "alternateNames": [
         "direktorsbostaden"
-      ]
+      ],
+      "geo": {
+        "lat": 63.526066698514065,
+        "lng": 22.52407032468966,
+        "match": "name",
+        "gazetteerName": "residenshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kovjoki station",

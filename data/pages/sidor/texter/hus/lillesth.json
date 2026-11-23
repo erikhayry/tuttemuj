@@ -164,7 +164,15 @@
       "name": "Hugos lindo",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Äga öster om Källbacken omgärdad av gråstensmurar."
+      "description": "Äga öster om Källbacken omgärdad av gråstensmurar.",
+      "geo": {
+        "lat": 63.52634160989474,
+        "lng": 22.539925921630843,
+        "match": "name",
+        "gazetteerName": "hugos lindo",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Wedins gård",

@@ -35,7 +35,15 @@
       "name": "residenshuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Förra direktorsbostaden och internatet för seminariet. Minnessten står framför det."
+      "description": "Förra direktorsbostaden och internatet för seminariet. Minnessten står framför det.",
+      "geo": {
+        "lat": 63.526066698514065,
+        "lng": 22.52407032468966,
+        "match": "name",
+        "gazetteerName": "residenshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby seminarium",

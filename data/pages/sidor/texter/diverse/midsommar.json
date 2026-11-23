@@ -38,7 +38,15 @@
     {
       "name": "Hugos lindo",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52634160989474,
+        "lng": 22.539925921630843,
+        "match": "name",
+        "gazetteerName": "hugos lindo",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -24,7 +24,15 @@
       "name": "nykarleby regale bränneri",
       "kind": "building",
       "alternateNames": [],
-      "description": "Bränneriet som beskrivs 1788."
+      "description": "Bränneriet som beskrivs 1788.",
+      "geo": {
+        "lat": 63.47783111243237,
+        "lng": 22.52906388313408,
+        "match": "name",
+        "gazetteerName": "nykarleby regale bränneri",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "qvarn- och hjulhuset vid nykarleby regale bränneri",

@@ -91,7 +91,15 @@
       "name": "Gråstenskällaren",
       "kind": "building",
       "alternateNames": [],
-      "description": "Underjordisk källare nedanför kyrkan vid Cederska backen; byggd 1847, skyddsrum under kriget, dränkt vid dammhöjningen 1984."
+      "description": "Underjordisk källare nedanför kyrkan vid Cederska backen; byggd 1847, skyddsrum under kriget, dränkt vid dammhöjningen 1984.",
+      "geo": {
+        "lat": 63.52279354021227,
+        "lng": 22.525871754292172,
+        "match": "name",
+        "gazetteerName": "gråstenskällaren",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkan",

@@ -86,7 +86,15 @@
     {
       "name": "Järnvägsstationen",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524753685542436,
+        "lng": 22.550952612276298,
+        "match": "name",
+        "gazetteerName": "järnvägsstationen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Karleborgsgatan",

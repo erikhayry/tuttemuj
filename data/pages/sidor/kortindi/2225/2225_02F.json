@@ -69,7 +69,15 @@
       "name": "Samskolan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns vid Västra Esplanadgatan i bilden."
+      "description": "Syns vid Västra Esplanadgatan i bilden.",
+      "geo": {
+        "lat": 63.52368880279052,
+        "lng": 22.530872162678012,
+        "match": "name",
+        "gazetteerName": "samskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -224,7 +224,15 @@
         "Direktorshuset",
         "Direktorsbostaden"
       ],
-      "description": "Internatet Knarken fanns på bottenvåningen."
+      "description": "Internatet Knarken fanns på bottenvåningen.",
+      "geo": {
+        "lat": 63.526066698514065,
+        "lng": 22.52407032468966,
+        "match": "name",
+        "gazetteerName": "residenshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Knarken",

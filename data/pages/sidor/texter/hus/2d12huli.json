@@ -26,7 +26,15 @@
       "name": "Hugos lindo",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Hugo Liljeströms linda med lada."
+      "description": "Hugo Liljeströms linda med lada.",
+      "geo": {
+        "lat": 63.52634160989474,
+        "lng": 22.539925921630843,
+        "match": "name",
+        "gazetteerName": "hugos lindo",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Ladan på Hugos lindo",

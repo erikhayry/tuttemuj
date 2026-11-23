@@ -135,7 +135,15 @@
       "name": "Gråstenskällaren",
       "kind": "building",
       "alternateNames": [],
-      "description": "Källare vid älvstranden som dränktes vid dammbygget 1984."
+      "description": "Källare vid älvstranden som dränktes vid dammbygget 1984.",
+      "geo": {
+        "lat": 63.52279354021227,
+        "lng": 22.525871754292172,
+        "match": "name",
+        "gazetteerName": "gråstenskällaren",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströms magasin",

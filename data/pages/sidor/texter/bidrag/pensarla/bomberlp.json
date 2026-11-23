@@ -28,7 +28,15 @@
       "name": "Karleborg",
       "kind": "building",
       "alternateNames": [],
-      "description": "Skyddskårsgården."
+      "description": "Skyddskårsgården.",
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Stora bron",
