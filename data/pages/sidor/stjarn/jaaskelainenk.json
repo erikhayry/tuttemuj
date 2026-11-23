@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/jaaskelainenk.html",
+  "title": "Nykarlebystjärna hos Jääskeläinen, Vasa",
+  "summary": "En unik Nykarlebystjärna från 2006 lyser över Vikinga i Vasa. Stjärnan planerades av Ralf Andersson från Vasa \"enligt eget huvud\" och finns bara i ett exemplar. Foten höjdes i efterhand så att stjärnan syns över Vikinga, och klädseln är papper i stället för tyg.",
+  "topics": [
+    "nykarlebystjärna",
+    "vasa",
+    "hantverk"
+  ],
+  "people": [
+    {
+      "name": "Ralf Andersson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Från Vasa; planerade stjärnan."
+    },
+    {
+      "name": "Kirsti Jääskeläinen",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickade in stjärnan och fotot till sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vikinga",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "I Vasa, där stjärnan lyser."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebystjärnan tillverkas",
+      "date": {
+        "year": 2006,
+        "circa": false
+      },
+      "description": "Ralf Andersson från Vasa tillverkar en unik Nykarlebystjärna som sedan hänger över Vikinga i Vasa.",
+      "people": [
+        "Ralf Andersson"
+      ],
+      "places": [
+        "Vikinga"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "34489ee764d5ac6ca7d19e42474243c945bc7df1ccb950f5827ee2305a632082",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T19:55:29.873Z"
+}

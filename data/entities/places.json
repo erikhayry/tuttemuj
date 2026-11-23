@@ -305,6 +305,20 @@
     ]
   },
   {
+    "id": "allen-i-juthbacka",
+    "name": "allén i juthbacka",
+    "kind": "landmark",
+    "aliases": [
+      "allén"
+    ],
+    "gazetteerNames": [
+      "allén i juthbacka"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/juthback.htm"
+    ]
+  },
+  {
     "id": "allmanna-bryggan-vid-aminne",
     "name": "allmänna bryggan vid åminne",
     "kind": "landmark",
@@ -2866,6 +2880,24 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/friberg_max.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/tuominen.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
+    ]
+  },
+  {
+    "id": "borgaregatan-12",
+    "name": "borgaregatan 12",
+    "kind": "address",
+    "aliases": [
+      "farmors hus"
+    ],
+    "location": {
+      "lat": 63.5234998,
+      "lng": 22.5341503
+    },
+    "gazetteerNames": [
+      "borgaregatan 12"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/ingrid12.html"
     ]
   },
   {
@@ -6099,6 +6131,7 @@
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_O/JHOR087S.html",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_G/LRGH020S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/jepporanker.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/battur_sb.html"
     ]
   },
@@ -10885,6 +10918,7 @@
       "jeppo"
     ],
     "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/jepporanker.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/nkbysocken.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/andelskassan.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/barnarov_so.html",
@@ -10905,6 +10939,18 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/nyholmr_sfv.html"
+    ]
+  },
+  {
+    "id": "jeppo-centrum",
+    "name": "jeppo centrum",
+    "kind": "district",
+    "aliases": [],
+    "gazetteerNames": [
+      "jeppo centrum"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/jepporanker.html"
     ]
   },
   {
@@ -10941,6 +10987,18 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/muisto.html"
+    ]
+  },
+  {
+    "id": "jeppo-ungdomsforenings-hus",
+    "name": "jeppo ungdomsförenings hus",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "jeppo ungdomsförenings hus"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/jepporanker.html"
     ]
   },
   {
@@ -11622,6 +11680,7 @@
       "https://www.nykarlebyvyer.nu/sidor/souve/vimpel707.html",
       "https://www.nykarlebyvyer.nu/sidor/stjarn/anderssson_k.html",
       "https://www.nykarlebyvyer.nu/sidor/stjarn/blomqvik.htm",
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/juthback.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/kuusinens_minnen.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/minnen_sk.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/andrasjon3anbe.html",
@@ -30978,6 +31037,7 @@
       "https://www.nykarlebyvyer.nu/sidor/panorama/vatten12-05f.html",
       "https://www.nykarlebyvyer.nu/sidor/panorama/vattev06.htm",
       "https://www.nykarlebyvyer.nu/sidor/souve/glasratt.html",
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/ingrid12.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ladbil11.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ladbil12.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/loppisrace2012.html",
@@ -31167,6 +31227,28 @@
     "gazetteerNames": [],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/jernstrom_a37.html"
+    ]
+  },
+  {
+    "id": "viking-backs-snickeriverkstad",
+    "name": "viking backs snickeriverkstad",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "viking backs snickeriverkstad"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/jepporanker.html"
+    ]
+  },
+  {
+    "id": "vikinga",
+    "name": "vikinga",
+    "kind": "landmark",
+    "aliases": [],
+    "gazetteerNames": [],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/jaaskelainenk.html"
     ]
   },
   {

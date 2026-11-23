@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/jepporanker.html",
+  "title": "Julsymbolen i Jeppo, det gamla kommunvapnets ränker",
+  "summary": "Jeppo Lions Club har sedan omkring 2000 tillverkat en julsymbol av ränkerna i Jeppos gamla kommunvapen. Symbolerna snickras i Viking Backs verkstad, och ränkerna skärs med laser; 200–300 exemplar hade tillverkats till 2010. Ett maxiexemplar på ca 2 x 1,5 meter hänger i Jeppo centrum.",
+  "topics": [
+    "jul",
+    "jeppo",
+    "kommunvapen",
+    "lions",
+    "hantverk"
+  ],
+  "people": [
+    {
+      "name": "Sven Simons",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättade om tillverkningen av julsymbolerna."
+    },
+    {
+      "name": "Stig Lindén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Svarar för laserskärningen av ränkerna."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll uppgifterna och fotona."
+    },
+    {
+      "name": "Sonja Nyholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har ränker på sin lada vid Forsvik."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo centrum",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Här hänger ett maxiexemplar av julsymbolen."
+    },
+    {
+      "name": "Viking Backs snickeriverkstad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Verkstad där julsymbolerna tillverkas."
+    },
+    {
+      "name": "Jeppo ungdomsförenings hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Vid vägen utanför huset är Jeppos officiella ränker uppsatta."
+    },
+    {
+      "name": "Forsvik",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Sonja Nyholms lada med ränker."
+    }
+  ],
+  "events": [
+    {
+      "title": "Jeppo Lions Club börjar tillverka julsymbolen",
+      "date": {
+        "year": 2000,
+        "circa": true,
+        "text": "ca 2000"
+      },
+      "description": "Jeppo Lions Club börjar tillverka en julillumination efter det gamla kommunvapnet.",
+      "people": [],
+      "places": [
+        "Jeppo"
+      ]
+    },
+    {
+      "title": "Jeppos kommunvapen i bruk",
+      "date": {
+        "year": 1965,
+        "month": 12,
+        "day": 28,
+        "endYear": 1975,
+        "circa": false,
+        "text": "28 december 1965 till 31 december 1975"
+      },
+      "description": "Jeppos kommunvapen, som julsymbolen bygger på, är i bruk.",
+      "people": [],
+      "places": [
+        "Jeppo"
+      ]
+    },
+    {
+      "title": "Jeppo uppgår i Stornykarleby",
+      "date": {
+        "year": 1975,
+        "month": 12,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Jeppo som primärkommun uppgår i det så kallade Stornykarleby.",
+      "people": [],
+      "places": [
+        "Jeppo"
+      ]
+    },
+    {
+      "title": "Jeppos officiella ränker sätts upp",
+      "date": {
+        "year": 2011,
+        "circa": false
+      },
+      "description": "Jeppos officiella ränker är uppsatta vid vägen utanför Jeppo ungdomsförenings hus.",
+      "people": [],
+      "places": [
+        "Jeppo ungdomsförenings hus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b1551ad4a333b80767a49c8f739c648299ee59cae37f065b16348482def7a1af",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T19:55:29.873Z"
+}

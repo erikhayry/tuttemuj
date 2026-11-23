@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/juthback.htm",
+  "title": "Nykarlebystjärna vid Juthbacka, Nykarleby",
+  "summary": "En gammal femuddig Nykarlebystjärna hittades i Juthbacka, där den hissades mellan björkarna i allén. Stjärnan var tygbeklädd och hade två mässingslampsocklar; den är troligen från tiden då Woldemar blev herre på gården. Tanken att bevara den som museiföremål diskuterades när gården byggdes om.",
+  "topics": [
+    "nykarlebystjärna",
+    "juthbacka",
+    "gård",
+    "museiföremål"
+  ],
+  "people": [
+    {
+      "name": "Anders Fors d.ä",
+      "alternateNames": [],
+      "roles": [
+        "projektansvarig"
+      ],
+      "description": "Projektansvarig på Juthbacka; hittade stjärnan."
+    },
+    {
+      "name": "Woldemar",
+      "alternateNames": [],
+      "roles": [
+        "herre på Juthbacka"
+      ],
+      "description": "Stjärnan är troligen från när han blev herre på gården."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gård i Nykarleby där stjärnan hittades.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "allén",
+      "kind": "landmark",
+      "alternateNames": [
+        "allén i juthbacka"
+      ],
+      "description": "Allén med björkar på Juthbacka där stjärnan hissades."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stjärnan hittas i Juthbacka",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "december 2004"
+      },
+      "description": "Anders Fors d.ä hittar den gamla Nykarlebystjärnan på Juthbacka, där den tidigare hissades mellan björkarna.",
+      "people": [
+        "Anders Fors d.ä"
+      ],
+      "places": [
+        "Juthbacka",
+        "allén"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1288dc97d741fedacf6e3ac15af0b3da7654a7a3f6b4185a7a72e26e4c0e623a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T19:55:29.873Z"
+}
