@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/vimpel702.html",
+  "title": "Vimpel 2 från 1970-talet",
+  "summary": "En mindre vimpel från 1970-talet med Kuddnäs, stadsvapnet, vattentornet och kyrkan. Texten är bara på svenska.",
+  "topics": [
+    "souvenirer",
+    "vimpel",
+    "kuddnäs"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "nykarleby vattentorn",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9686c1d8368f79204b98fe0378a2402c23a486ab38d6ccf70a045525cec52847",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

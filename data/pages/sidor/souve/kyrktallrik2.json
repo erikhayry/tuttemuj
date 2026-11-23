@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/kyrktallrik2.html",
+  "title": "Kyrktallrik från 1987",
+  "summary": "En kyrktallrik med Sankta Birgitta kyrka, signerad 1987 och gjord efter ett foto som Blomsteraffär Asta beställde. Sidan ber läsarna hitta de elva fel som finns i motivet.",
+  "topics": [
+    "souvenirer",
+    "kyrkan",
+    "sankta birgitta kyrka"
+  ],
+  "people": [
+    {
+      "name": "B. Jarnild",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Signerade tallriken '-87'."
+    }
+  ],
+  "places": [
+    {
+      "name": "sankta birgitta kyrkan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Sankta Birgitta kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "50b8f692f68ca99dbc62c13d58414663f5279825a8a6614921d09baa403d01c8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/historic_tt.html",
+  "title": "Pins Historic TT 97",
+  "summary": "Ett pins från Historic TT, en uppvisningskörning på idealtid för äldre motorcyklar som hölls i samband med Juthbackamarknaden. Sidan beskriver också det internationella TT-loppet på Isle of Man.",
+  "topics": [
+    "souvenirer",
+    "motorcykel",
+    "juthbackamarknaden"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "torghallen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Historic TT körs på Juthbackamarknaden",
+      "date": {
+        "year": 1997,
+        "endYear": 1999,
+        "circa": false,
+        "text": "1997, 1998 och 1999"
+      },
+      "description": "Historic TT, en uppvisningskörning för äldre motorcyklar, arrangerades i samband med Juthbackamarknaden.",
+      "people": [],
+      "places": [
+        "esplanaden",
+        "torghallen"
+      ]
+    },
+    {
+      "title": "Historic TT återupptas",
+      "date": {
+        "year": 2001,
+        "endYear": 2002,
+        "circa": false,
+        "text": "2001 och 2002"
+      },
+      "description": "Historic TT återupptogs på samma avspärrade bana som ett rullskidlopp.",
+      "people": [],
+      "places": [
+        "esplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "364097e8aa276ecd564d8dd05f2a26ef7c3f6964e6b263a9732bf299180a3884",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

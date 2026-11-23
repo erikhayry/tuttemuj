@@ -1,0 +1,37 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/vimpel704.html",
+  "title": "Vimpel 4 från 1970-talet",
+  "summary": "En vimpel från 1970-talet med Juthbacka, kyrkan och Topelius minnessten. Den finns också i en mindre modell.",
+  "topics": [
+    "souvenirer",
+    "vimpel",
+    "juthbacka"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "juthbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "topelius minnessten",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "0d136b4e3653049bcc618395fa55b30417971491ad6d2582d33db43b9ccd6510",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

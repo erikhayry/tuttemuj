@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/tygmarkekuoky.html",
+  "title": "Tygmärke med kyrkan och Kuddnäs",
+  "summary": "Ett tygmärke med kyrkan och Kuddnäs, som sidan daterar till efter dammhöjningen 1984 eftersom vattenståndet är högt på bilden.",
+  "topics": [
+    "souvenirer",
+    "kuddnäs",
+    "kyrkan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "21114b3706de872fb4c9d43a0af5c26800ccedb0d7081b04a795cbfa7e5457c1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

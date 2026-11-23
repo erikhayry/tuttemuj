@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/blomqvij.htm",
+  "title": "Nykarlebystjärna hos Jonny och Pia Blomqvist",
+  "summary": "En femuddig stjärna vid Juthbackakroken som Hugo Juthbacka gjorde i början av 1930-talet. Ann-Maj Smedman gjorde en exakt kopia 2006 när originalet blivit för dåligt.",
+  "topics": [
+    "nykarlebystjärnan",
+    "juthbacka"
+  ],
+  "people": [
+    {
+      "name": "Hugo Juthbacka",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    },
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "juthbackakroken",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stjärnan görs",
+      "date": {
+        "year": 1930,
+        "circa": true,
+        "text": "början av 1930-talet"
+      },
+      "description": "Hugo Juthbacka gjorde stjärnan på vinden i början av 1930-talet, först med fyra uddar.",
+      "people": [
+        "Hugo Juthbacka"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ny kopia av stjärnan",
+      "date": {
+        "year": 2006,
+        "circa": false,
+        "text": "2006"
+      },
+      "description": "Ann-Maj Smedman gjorde en exakt kopia av den gamla stjärnan 2006.",
+      "people": [
+        "Ann-Maj Smedman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8d9b869a338fc089cd9903b29fc4072491ff6fa2dfb6e7286fc0eb00363fbf1e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

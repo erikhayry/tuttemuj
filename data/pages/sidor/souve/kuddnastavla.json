@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/kuddnastavla.html",
+  "title": "Kuddnäs-vykortstavla",
+  "summary": "En oval plastram med ett Kuddnäs-vykort från Kuultokuva, avsänt 1967. Tavlan hämtades 2025 i Vörå efter ett inlägg på Facebook.",
+  "topics": [
+    "souvenirer",
+    "kuddnäs",
+    "vykort"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "dd9b63e117244cb50748ba8f88943545f8a7e0c0dfca6e2302ce0fd58c76d980",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

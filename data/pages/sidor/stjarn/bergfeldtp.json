@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/bergfeldtp.html",
+  "title": "Bergfeldts Nykarlebystjärna",
+  "summary": "Peter Bergfeldt hängde 2014 upp en Nykarlebystjärna över kräftskivan på Seminariegatan. Bilden kommer från facebookgruppen Nykarleby.",
+  "topics": [
+    "nykarlebystjärnan",
+    "kräftor"
+  ],
+  "people": [
+    {
+      "name": "Peter Bergfeldt",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kräftskiva med stjärna",
+      "date": {
+        "year": 2014,
+        "circa": false,
+        "text": "2014"
+      },
+      "description": "Peter Bergfeldt hängde upp en Nykarlebystjärna över kräftskivan på Seminariegatan.",
+      "people": [
+        "Peter Bergfeldt"
+      ],
+      "places": [
+        "seminariegatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b1a1f306a3a291a23e5261ca2e1bcd5b43d1e8c807a5eba013942ed6e384967c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/ahlnas.html",
+  "title": "Ahlnäs Nykarlebystjärna",
+  "summary": "En sexuddig Nykarlebystjärna som hänger hos familjen Ahlnäs vid Rijfsvägen i Socklot sedan början av 1980-talet. Målningen av stjärnan från 2008 blev pärm i stadens kalender 2009.",
+  "topics": [
+    "nykarlebystjärnan",
+    "målning",
+    "socklot"
+  ],
+  "people": [
+    {
+      "name": "Håkan Ahlnäs",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Målade stjärnan 2008."
+    }
+  ],
+  "places": [
+    {
+      "name": "ahlnäs",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "rijfsvägen",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stjärnan sätts upp hos familjen Ahlnäs",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "sedan början av 1980-talet"
+      },
+      "description": "Stjärnan har hängt hos familjen Ahlnäs vid Rijfsvägen i Socklot sedan början av 1980-talet.",
+      "people": [],
+      "places": [
+        "rijfsvägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1032b7c6fa1619be1a2a9952e7da969962e7e6d6d7b3119d7bd6017cffabd7a6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

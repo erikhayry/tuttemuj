@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/granen07.html",
+  "title": "Torggranen kläs 2007",
+  "summary": "Torggranen kläddes den 28 november 2007, med en Nykarlebystjärna i toppen. Bilderna visar hur Bankgatan såg ut då.",
+  "topics": [
+    "jul",
+    "torget",
+    "nykarlebystjärnan"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "torggranen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Torggranen kläs",
+      "date": {
+        "year": 2007,
+        "month": 11,
+        "day": 28,
+        "circa": false,
+        "text": "28 november 2007"
+      },
+      "description": "Torggranen kläddes med en Nykarlebystjärna i toppen.",
+      "people": [],
+      "places": [
+        "torggranen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "363079f214ea6aae14ae53df020e041d980c908b9136baaec70a38f339a12579",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

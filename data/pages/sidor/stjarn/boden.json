@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/boden.html",
+  "title": "Stjärnor i Österbotten",
+  "summary": "En artikel om Nykarlebystjärnans bakgrund i sjöfarten, med sjömännens stjärnor från 1700-talet och kanske tidigare. Topelius kallade Nykarleby för Nordens Betlehem, och artikeln förklarar stjärnans färger och symbolik.",
+  "topics": [
+    "nykarlebystjärnan",
+    "sjöfart",
+    "topelius"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": [
+        "skald",
+        "författare"
+      ],
+      "description": "Kallade Nykarleby för Nordens Betlehem."
+    },
+    {
+      "name": "Lottie Rasmusson",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev artikeln i Bodens församlingstidning."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kuddnäs köps",
+      "date": {
+        "year": 1814,
+        "circa": false,
+        "text": "år 1814"
+      },
+      "description": "Topelius far, provinsialläkaren, köpte hemmanet Kuddnäs.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": [
+        "kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "54de69cac8e03f63f310c0d0f1f45ba8f592183a42b2665837db44cad0a9af9c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

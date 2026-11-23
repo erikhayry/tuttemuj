@@ -1,0 +1,39 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/henrikss.htm",
+  "title": "Nykarlebystjärna hos Henriksson, Parksville",
+  "summary": "En stjärna som Edvin Marklund gjorde på 1960- eller 1970-talet och som hängde vid hans hus på Gustav Adolfsgatan. Den hänger nu i Parksville i Kanada.",
+  "topics": [
+    "nykarlebystjärnan",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "gustav adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5f96b30367d112fa60a6484c1e577363f5b854af723963c805b9e2745182d844",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

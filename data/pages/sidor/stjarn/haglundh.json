@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/haglundh.html",
+  "title": "Finne och Haglunds stjärnor",
+  "summary": "Stjärnor från barndomshemmet i Nykarleby: en stor utestjärna i flaggstången på Lybecksgatan 5 och en mindre stjärna på Topeliusesplanaden, som pappan tillverkade.",
+  "topics": [
+    "nykarlebystjärnan",
+    "släkt"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "lybecksgatan 5",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "25d6a2bb584d24b9d1cb16d21c1728fa3f1195d9f7e14c504251c8ab48886618",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

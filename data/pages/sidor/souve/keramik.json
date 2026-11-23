@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/keramik.htm",
+  "title": "Keramiktavlor",
+  "summary": "Två små keramiktavlor med motiven Kuddnäs och kyrkan. En läsare minns att de tillverkades av Ulla-Brita Ståhle ungefär 1967–68 och såldes i Herlers bokhandel.",
+  "topics": [
+    "souvenirer",
+    "kuddnäs",
+    "kyrkan"
+  ],
+  "people": [
+    {
+      "name": "Ulla-Brita Ståhle",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillverkare av keramiktavlorna enligt en läsare."
+    }
+  ],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Keramiktavlorna tillverkas",
+      "date": {
+        "year": 1967,
+        "endYear": 1968,
+        "circa": true,
+        "text": "ungefär 1967–68"
+      },
+      "description": "Ulla-Brita Ståhle tillverkade enligt en läsare keramiktavlor som såldes i Herlers bokhandel.",
+      "people": [
+        "Ulla-Brita Ståhle"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b4b69ff392f9eb8e83095255a8dd7ca0e3bf29bbd95ec60a05be7b9e54d51d1a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

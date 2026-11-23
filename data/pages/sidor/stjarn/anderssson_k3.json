@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/anderssson_k3.html",
+  "title": "Nykarlebystjärnan, faktablad",
+  "summary": "Ett faktablad om Nykarlebystjärnan, som har sin bakgrund i sjöfarten och ursprungligen hade färgerna rött, gult och grönt. Stjärnorna tas traditionellt ned den 14 januari, Topelius födelsedag.",
+  "topics": [
+    "nykarlebystjärnan",
+    "sjöfart",
+    "topelius"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald",
+        "författare"
+      ],
+      "description": "Nykarlebys mest kände skald och författare, enligt sidan."
+    }
+  ],
+  "places": [
+    {
+      "name": "topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "kyrktornet",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius kommer hem till julen",
+      "date": {
+        "year": 1829,
+        "circa": false,
+        "text": "julen 1829"
+      },
+      "description": "När Topelius kom hem till julen hängde borgarhusen sexuddiga stjärnor vid portarna.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stjärna i kyrktornet tas ned",
+      "date": {
+        "year": 1936,
+        "circa": false,
+        "text": "1936"
+      },
+      "description": "En stjärna sattes upp i kyrktornet men måste tas ned, eftersom en isbrytare tog miste på den och Hällgrunds fyr.",
+      "people": [],
+      "places": [
+        "kyrktornet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "959eb09c7827ffdb5f133b9e3098603db08554ca070f5f24e8913e88240b4a4a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

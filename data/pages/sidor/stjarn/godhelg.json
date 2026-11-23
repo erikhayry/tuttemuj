@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/godhelg.html",
+  "title": "God Helg och andra gamla juldekorationer",
+  "summary": "Ett fotografi av God Helg-dekorationen vid Bankgatans korsning med esplanaden, från 1960-talet. Stadens gamla juldekorationer omhändertogs 2013.",
+  "topics": [
+    "jul",
+    "esplanaden",
+    "juldekorationer"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "God Helg-dekorationen står vid Bankgatan",
+      "date": {
+        "year": 1960,
+        "endYear": 1969,
+        "circa": false,
+        "text": "på 1960-talet"
+      },
+      "description": "God Helg-dekorationen stod vid Bankgatans korsning med esplanaden.",
+      "people": [],
+      "places": [
+        "esplanaden"
+      ]
+    },
+    {
+      "title": "Juldekorationerna omhändertas",
+      "date": {
+        "year": 2013,
+        "month": 2,
+        "day": 6,
+        "circa": false,
+        "text": "6 februari 2013"
+      },
+      "description": "De gamla juldekorationerna hittades vid stadslagret på Kampen och omhändertogs.",
+      "people": [],
+      "places": [
+        "kampen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "642c564210400e4eaca7230444e686206dbd14285a8560924a966025850988aa",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

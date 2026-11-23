@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/vimpel706a.html",
+  "title": "Vimpel 6a",
+  "summary": "En vimpel som liknar variant 6 med samma motiv: stadsvapnet, vattentornet, Storbron, kyrkan och monumentet vid Juthas. Skillnaderna är molnen och färgerna.",
+  "topics": [
+    "souvenirer",
+    "vimpel",
+    "storbron"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "stora bron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "nykarleby vattentorn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "juthas monument",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c3fa07b29525671a9a8142ec0218dc9b1930bf1801d4c5ff02405b8dcbd5d1fa",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

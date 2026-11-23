@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/espnorr_pg.html",
+  "title": "Norra esplanadstjärnan",
+  "summary": "Så här gick det till när Norra esplanadstjärnan sattes upp år 2007, med julöppningen den 1 december i vintrigt väder.",
+  "topics": [
+    "nykarlebystjärnan",
+    "esplanaden",
+    "jul"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Norra esplanadstjärnan sätts upp",
+      "date": {
+        "year": 2007,
+        "circa": false,
+        "text": "år 2007"
+      },
+      "description": "Norra esplanadstjärnan sattes upp på esplanaden 2007.",
+      "people": [],
+      "places": [
+        "esplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c73593ebe8dbf7b780cb2cb9bcb82faace3a387dc78e76aad7a3cc8ad42d6f80",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

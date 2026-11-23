@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/vimpel703.html",
+  "title": "Vimpel 3 från 1970-talet",
+  "summary": "En liten vimpel från 1970-talet med Kuddnäs, kyrkan och stadsvapnet.",
+  "topics": [
+    "souvenirer",
+    "vimpel",
+    "kuddnäs"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5e539a1fa7e7d766bff38bef26ff0fca0084966534ef829ca9c5b7c3dbdf53f1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}

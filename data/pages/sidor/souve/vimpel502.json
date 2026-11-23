@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/souve/vimpel502.htm",
+  "title": "Vimpel med Kuddnäs och kyrkan",
+  "summary": "En vimpel med motiven Kuddnäs och kyrkan, som enligt auktionsbeskrivningen är från 1950-talet.",
+  "topics": [
+    "souvenirer",
+    "vimpel",
+    "kuddnäs"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "b03f089dc85eb6c6411c4c6c621a9b91adc8d5b1aaf9ea0569dba38a14bff225",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-23T18:16:21.933Z"
+}
