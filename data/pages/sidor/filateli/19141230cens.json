@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/19141230cens.html",
+  "title": "Censurstämpel från år 1914",
+  "summary": "Julhälsning från Soklot till Fanny Spik i Kronoby med krigscensurstämpel från Nikolaistad. Avsändaren var troligen Ellen Fogel, född Smeds, som berättat om transport av den förbjudna tidskriften Fria ord.",
+  "topics": [
+    "filateli",
+    "censur",
+    "första världskriget"
+  ],
+  "people": [
+    {
+      "name": "Ellen Fogel",
+      "alternateNames": [
+        "Ellen Smeds"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Fanny Spik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mona Udd",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nikolaistad",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kortet skrivs i Soklot",
+      "date": {
+        "year": 1914,
+        "month": 12,
+        "day": 29,
+        "circa": false,
+        "text": "29 dec 1914"
+      },
+      "people": [
+        "Ellen Fogel"
+      ],
+      "places": [
+        "Soklot"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "07e7e26c1af4800217b3d2386b5d986206fb2c04680878027f3df0d8e56fd521",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

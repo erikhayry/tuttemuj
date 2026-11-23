@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/e_vimp2.htm",
+  "title": "Flag 2",
+  "summary": "Bildtext om en vimpel från 1970-talet med Kuddnäs, stadsvapnet, vattentornet med Café Panorama och kyrkan.",
+  "topics": [
+    "vimplar",
+    "souvenirer"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Vattentornet",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "61e893ea5153799d3a50c90e1a1197a5eb6392d980b46c5a7bfeffc160d642b6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/19561220soklot.html",
+  "title": "Stämpel från Soklot från år 1956",
+  "summary": "Julkort med stämpeln Soklot och Nykarleby från 1956, skickat av Berit Wikström till Monika Lundqvist i Pargas.",
+  "topics": [
+    "filateli",
+    "julkort",
+    "Soklot"
+  ],
+  "people": [
+    {
+      "name": "Berit Wikström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Monika Lundqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Julkortet stämplas",
+      "date": {
+        "year": 1956,
+        "month": 12,
+        "day": 20,
+        "circa": false,
+        "text": "20 december 1956"
+      },
+      "people": [],
+      "places": [
+        "Soklot"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e0dc9509f4c415a389a8a94a00e74e71358e7ddaf0be04dca36c1b0874b51ac3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

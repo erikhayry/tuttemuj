@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/dl/dt/0dtop.htm",
+  "title": "Skrivbordsunderlägg med motiv från Nykarleby",
+  "summary": "Nedladdningssida för skrivbordsunderlägg med ett foto av gamla bryggeriet från 1959, i flera skärmstorlekar.",
+  "topics": [
+    "nedladdning",
+    "bryggeriet"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bryggeriet",
+      "kind": "building",
+      "alternateNames": [
+        "Gamla bryggeriet"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av gamla bryggeriet",
+      "date": {
+        "year": 1959,
+        "circa": false
+      },
+      "people": [
+        "Rafael Sjöblom"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e4113a53b6f721a7ac9ea0ccd7de6b2eeb7e992d409319ee84be34296351dfbd",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/14grevtott.html",
+  "title": "Grev Tottgatan",
+  "summary": "Bild från 1946 av svängen in på Grev Tottgatan med Eliel Backlunds gård och Synnerbergs uthus med långsidan mot gatan.",
+  "topics": [
+    "gator",
+    "Källbacken"
+  ],
+  "people": [
+    {
+      "name": "Eliel Backlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anita Wikman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Eliel Backlunds gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Synnerbergs uthus",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9d7ed278aab70d27227840daed1fd5c5547412a73e979e0d7cd1b0584765b9e2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

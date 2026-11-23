@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/21storbron.html",
+  "title": "Storbron",
+  "summary": "Bild av Storbron med propsar och ledningar över bron. Den gamla bron brändes av fienden under 1808–09 års krig och en ny byggdes på platsen.",
+  "topics": [
+    "Storbron",
+    "1808–09 års krig"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gamla bron bränns av fienden",
+      "date": {
+        "year": 1808,
+        "endYear": 1809,
+        "circa": false,
+        "text": "under 1808–09 års krig"
+      },
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9fe09415272b57e244f7605e71c852086b0717e6c7e8f36fa68cd565955be862",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/efterlys/jaaskela.htm",
+  "title": "Efterlysning",
+  "summary": "Kirsti Jääskeläinen efterlyser namnen på flickorna på ett foto av seminariets kosthållspersonal 1938 och delar recept från seminarietiden. Hennes mor Elna och moster Sylvia arbetade i seminariets kök.",
+  "topics": [
+    "efterlysning",
+    "seminariet",
+    "kosthåll",
+    "recept"
+  ],
+  "people": [
+    {
+      "name": "Elna Jakobsson",
+      "alternateNames": [
+        "Elna Jääskeläinen"
+      ],
+      "birthYear": 1914,
+      "roles": []
+    },
+    {
+      "name": "Sylvia Jakobsson",
+      "alternateNames": [
+        "Sylvia Nyman"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Kirsti Jääskeläinen",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariets kosthåll",
+      "kind": "building",
+      "alternateNames": [
+        "Direktorsbostaden"
+      ]
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Foto av seminariets kosthållspersonal",
+      "date": {
+        "year": 1938,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "be90e8ec30764eafa425bbf579ce77f96fdf15167dbfedcc94345a136c836168",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

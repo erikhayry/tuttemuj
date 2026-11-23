@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/eax009s.htm",
+  "title": "Storbron and the church",
+  "summary": "Ett vykort med Storbron och kyrkan skrivet 1894 av en av skribentens farfars systrar till en syster som senare emigrerade till USA. Fotot togs på 1890-talet och kortet fick från en kusin i USA.",
+  "topics": [
+    "vykort",
+    "emigration",
+    "Storbron"
+  ],
+  "people": [
+    {
+      "name": "David Balton",
+      "alternateNames": [],
+      "roles": [
+        "kusin"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Vykortet skrivs",
+      "date": {
+        "year": 1894,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "9181a15318b4b3f348f7460fdbf1ce09a5a3c0482a056c55b6075cd12cbdece2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,34 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/06normen.html",
+  "title": "Normalskolan",
+  "summary": "Bild av Normalskolan 1946 med vedlider, nyplanterade björkar och ett fotbollsmål, jämförd med 2010.",
+  "topics": [
+    "Normalskolan",
+    "övningsskola"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen",
+        "Övningsskolan"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "5e6cb886038e40752ea5bfeb064330725e1219acda194228be774c8939ead8e3",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

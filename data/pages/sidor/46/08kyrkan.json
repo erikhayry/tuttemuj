@@ -1,0 +1,54 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/08kyrkan.html",
+  "title": "Kyrkan",
+  "summary": "Bild av kyrkan vid brohuvudet. Sidan lyfter fram att den byggdes 1708, Lennart Segerstråles glasmålningar och Finlands första inhemskt tillverkade orgel.",
+  "topics": [
+    "kyrkan",
+    "glasmålningar",
+    "orgel"
+  ],
+  "people": [
+    {
+      "name": "Lennart Segerstråle",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kyrkan byggs",
+      "date": {
+        "year": 1708,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8b97999180361b9bd8e31815fc8c2d902428c3f3e98094b7e7b496631dd0318c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/e_naverk.htm",
+  "title": "The church",
+  "summary": "Engelsk text om Nykarleby kyrka som byggdes 1708 och är en av Finlands äldsta träkyrkor i bruk. Beskriver socknens bildande 1607, Daniel Hjulströms takmålningar 1749–50, Johan Alms utsmyckning, restaureringen 1987–93 och klockstapeln från 1702.",
+  "topics": [
+    "kyrkan",
+    "takmålningar",
+    "kyrkohistoria"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hjulström",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Johan Alm",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Lennart Segerstråle",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "August Ahlnäs",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Henry Byskata",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Socknen utskiljs från Pedersöre",
+      "date": {
+        "year": 1607,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kyrkan byggs",
+      "date": {
+        "year": 1708,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Klockstapeln byggs",
+      "date": {
+        "year": 1702,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Klockstapeln"
+      ]
+    },
+    {
+      "title": "Takmålningarna utförs",
+      "date": {
+        "year": 1749,
+        "endYear": 1750,
+        "circa": false,
+        "text": "1749—50"
+      },
+      "people": [
+        "Daniel Hjulström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kyrkan restaureras",
+      "date": {
+        "year": 1987,
+        "endYear": 1993,
+        "circa": false,
+        "text": "1987—1993"
+      },
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8a635ca5d2923b667b28619e16079e0633da86058f035caa04f3267ebe0f5213",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

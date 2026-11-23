@@ -1,0 +1,175 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/15bankgatan.html",
+  "title": "Bankgatan",
+  "summary": "Bild av Bankgatan med gamla brunnar, och uppgifter om ägarna till tomt 36 och 51 vid Karleborgsgatan 14–20 med auktioner, köp och renoveringar från 1858 till 2024.",
+  "topics": [
+    "gator",
+    "brunnar",
+    "gårdshistoria",
+    "tomter"
+  ],
+  "people": [
+    {
+      "name": "Petter Olof Wahlberg",
+      "alternateNames": [],
+      "deathYear": 1881,
+      "roles": [
+        "rådhusvaktmästare"
+      ]
+    },
+    {
+      "name": "Johannes Häger",
+      "alternateNames": [],
+      "birthYear": 1878,
+      "deathYear": 1951,
+      "roles": []
+    },
+    {
+      "name": "Alina Häger",
+      "alternateNames": [],
+      "birthYear": 1886,
+      "deathYear": 1965,
+      "roles": []
+    },
+    {
+      "name": "Runar Renvall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gösta Willman",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Sofia Berg",
+      "alternateNames": [],
+      "birthYear": 1812,
+      "deathYear": 1866,
+      "roles": [
+        "hökaränka"
+      ]
+    },
+    {
+      "name": "Hulda Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "sömmerska"
+      ]
+    },
+    {
+      "name": "Gerda Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Kallvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Kallvik",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anton Kallvik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan 14",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan 16",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Karleborgsgatan 18",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nystedts brunn",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomt 36 inropas på auktion av Petter Olof Wahlberg",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "circa": false,
+        "text": "den 28 juli 1858"
+      },
+      "people": [
+        "Petter Olof Wahlberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tomt 51 inropas av Sofia Berg",
+      "date": {
+        "year": 1859,
+        "month": 9,
+        "day": 13,
+        "circa": false,
+        "text": "den 13 september 1859"
+      },
+      "people": [
+        "Sofia Berg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Gården Karleborgsgatan 18 köps av Erik och Anna Kallvik",
+      "date": {
+        "year": 1965,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Karleborgsgatan 18"
+      ]
+    },
+    {
+      "title": "Gården totalrenoveras",
+      "date": {
+        "year": 1989,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4609cd742678e8e66d12710132ee344d731e86d015531460d3e2dc39cf232975",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

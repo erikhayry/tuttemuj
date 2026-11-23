@@ -1,0 +1,36 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/12simmare.html",
+  "title": "Simmare",
+  "summary": "Bild av pojkar som simmar, troligen vid Backlunds stranden nedanför Grev Tottgatan.",
+  "topics": [
+    "bad",
+    "pojkar"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Backlunds stranden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "d57c521d6ab65c3a1a6ca926b8b7a53e332823fc9c07977f6c50b90224b22c50",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

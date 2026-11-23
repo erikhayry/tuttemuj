@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/16forsverkstad.html",
+  "title": "Fors verkstad",
+  "summary": "Bild av Fors verkstad, som grundades 1929 av Erik Fors.",
+  "topics": [
+    "verkstad",
+    "företag"
+  ],
+  "people": [
+    {
+      "name": "Erik Fors",
+      "alternateNames": [],
+      "roles": [
+        "grundare"
+      ]
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Fors verkstad",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fors verkstad grundas",
+      "date": {
+        "year": 1929,
+        "circa": false
+      },
+      "people": [
+        "Erik Fors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "02f86476041b5819e3e55e78115ad1586638e01979888f5cd4143c3b0a462d43",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

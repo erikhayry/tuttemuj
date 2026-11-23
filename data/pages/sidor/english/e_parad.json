@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/e_parad.htm",
+  "title": "Views from Nykarleby - Nykarlebyvyer",
+  "summary": "Engelsk välkomstsida till webbplatsen med ett citat av Zacharias Topelius beskrivning av utsikten från barndomshemmet Kuddnäs och en karta över Nykarlebys läge mellan Stockholm och Helsingfors.",
+  "topics": [
+    "välkomstsida",
+    "Topelius",
+    "Kuddnäs"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1898,
+      "roles": []
+    },
+    {
+      "name": "Fredrik Liljeström",
+      "alternateNames": [],
+      "roles": [
+        "webbplatsägare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f4a5102491e91e5e67d350224cd134b1e8386f7a01bb59c068012e4609b608ae",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

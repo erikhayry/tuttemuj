@@ -1,0 +1,162 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/E_NYKARL.HTM",
+  "title": "Nykarleby City 1620-1970, Lectures given at the city's 350-year anniversary celebration 23. 8. 1970 by Erik Birck",
+  "summary": "Engelsk översättning av Erik Bircks föredrag vid stadens 350-årsjubileum 1970 om stadens historia från grundandet. Han granskar myterna om grundandet, socknens bildande 1607, namnets ursprung, Leppo by och kyrkan, och att privilegiebrevet är daterat 1620.",
+  "topics": [
+    "stadshistoria",
+    "grundandet",
+    "350-årsjubileum",
+    "föredrag"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "historiker",
+        "föredragshållare"
+      ]
+    },
+    {
+      "name": "Karl IX",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ]
+    },
+    {
+      "name": "Gustav II Adolf",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ]
+    },
+    {
+      "name": "Filip Scheding",
+      "alternateNames": [],
+      "roles": [
+        "landshövding"
+      ]
+    },
+    {
+      "name": "Claes Claesson",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Jacob De la Gardie",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Klara Mårtens Ekblad",
+      "alternateNames": [],
+      "roles": [
+        "översättare"
+      ]
+    },
+    {
+      "name": "Mats Björkstrand",
+      "alternateNames": [],
+      "roles": [
+        "översättare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Leppo by",
+      "kind": "village",
+      "alternateNames": [
+        "Lepo",
+        "Kyrkoby"
+      ]
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "St. Birgitta"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pedersöre",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Socknen Nykarleby bildas",
+      "date": {
+        "year": 1607,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Första kyrkan byggs i Leppo by",
+      "date": {
+        "year": 1608,
+        "circa": true,
+        "text": "troligen 1608 eller 1609"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Privilegiebrev för staden",
+      "date": {
+        "year": 1620,
+        "month": 9,
+        "day": 7,
+        "circa": false,
+        "text": "den 7 september 1620"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kungligt förläningsbrev till Jacob De la Gardie",
+      "date": {
+        "year": 1608,
+        "month": 12,
+        "day": 14,
+        "circa": false,
+        "text": "den 14 december 1608"
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Föredraget hålls vid stadens 350-årsfest",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 23,
+        "circa": false,
+        "text": "23.8.1970"
+      },
+      "people": [
+        "Erik Birck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2f441d0de8701010dd7f3508bbb934db47351ede6a07ce6957a2ba07678b8acd",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

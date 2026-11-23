@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/04radhuset.html",
+  "title": "Rådhuset",
+  "summary": "Bild av rådhuset från 1946 med en kort anmärkning om att greve Brahe grundade en trivialskola 1640. Vyn återkommer på frimärket för stadens 350-årsjubileum.",
+  "topics": [
+    "rådhuset",
+    "skolstad",
+    "frimärke"
+  ],
+  "people": [
+    {
+      "name": "Per Brahe",
+      "alternateNames": [],
+      "roles": [
+        "greve"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Trivialskola grundas",
+      "date": {
+        "year": 1640,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "991a70de9c102922f047f9afd1ac87e8c957c8545bf724c9cea4edf38cd094c2",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

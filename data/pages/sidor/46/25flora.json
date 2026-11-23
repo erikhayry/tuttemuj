@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/25flora.html",
+  "title": "Flora",
+  "summary": "Bild av Viktor Malmbergs bronsstaty Flora i parken Fåfängan.",
+  "topics": [
+    "staty",
+    "park"
+  ],
+  "people": [
+    {
+      "name": "Viktor Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Fåfängan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Flora",
+      "kind": "landmark",
+      "alternateNames": [
+        "Florastatyn"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "703da2421c1093b1f964def392e75414d4d962ea3cb1b868f37d64b7ff92f700",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

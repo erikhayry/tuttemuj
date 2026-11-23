@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/26kuddnas.html",
+  "title": "Kuddnäs",
+  "summary": "Bild av Kuddnäs herrgård där fyra generationer Topelius bott. Texten nämner Mikael Toppelius, Zacharias Topelius d.ä. och minnesstenen, och citerar en strof ur Topelius dikt Förr och nu.",
+  "topics": [
+    "Kuddnäs",
+    "Topelius",
+    "herrgård"
+  ],
+  "people": [
+    {
+      "name": "Mikael Toppelius",
+      "alternateNames": [],
+      "roles": [
+        "kyrkomålare"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius d.ä.",
+      "alternateNames": [],
+      "roles": [
+        "provinsialläkare",
+        "runosamlare"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [
+        "Kuddnäs herrgård"
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Heselius kvarn",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lindskogs snickeri",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Östervalls åldringshem",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "e6cf210217207f736b9b2bf559e49347a5bd42c80eaacd817bc12522335df4a6",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/22brostugan.html",
+  "title": "Brostugan",
+  "summary": "Bild av Brostugan, den f.d. brovaktsstugan som blev café. Texten berättar att man efter stadsbranden 1858 övervägde att flytta staden men byggde upp den på samma platser enligt A. Edelfelts planer.",
+  "topics": [
+    "Brostugan",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "A. Edelfelt",
+      "alternateNames": [],
+      "roles": [
+        "länsarkitekt"
+      ]
+    },
+    {
+      "name": "Ebba Brahe",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [
+        "Brovaktsstugan"
+      ],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden brinner en köldnatt",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Brostugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2af5b4231ad8144d182e0d8ca4ba42f109655eb699fd4a54434a2922d2f57392",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

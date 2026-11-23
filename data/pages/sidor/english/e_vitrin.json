@@ -1,0 +1,30 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/e_vitrin.htm",
+  "title": "The model",
+  "summary": "Bildtext om stadsmodellen sedd från nordost med seminariet närmast.",
+  "topics": [
+    "stadsmodell"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c4942a4a3e6b64c87856137d02c610cc4222a311672080b4f11761fc95b894fc",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

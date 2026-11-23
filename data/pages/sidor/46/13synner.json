@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/13synner.html",
+  "title": "F.d. Synnerbergs",
+  "summary": "Bild från 1946 av f.d. Synnerbergs hörn vid Topeliusesplanaden/Grev Tottgatan. Det långa svaret reder ut vad det runda brandalarmet på väggen är, med uppgifter från Lars Pensar och Tekniska museet om brandtelegraf och brandlarm i Nykarleby.",
+  "topics": [
+    "brandlarm",
+    "brandväsende",
+    "brandtelegraf",
+    "Synnerbergs"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Waldemar Sund",
+      "alternateNames": [],
+      "roles": [
+        "satte upp brandsignalapparater"
+      ]
+    },
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "roles": [
+        "satte upp brandsignalledning"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Synnerbergs",
+      "kind": "building",
+      "alternateNames": [
+        "F.d. Synnerberg"
+      ]
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Grev Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Elevhemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Brandsignalapparater och ledning sätts upp",
+      "date": {
+        "year": 1924,
+        "month": 6,
+        "circa": false,
+        "text": "juni 1924"
+      },
+      "people": [
+        "Waldemar Sund",
+        "Edvin Marklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kraftverket kommer igång",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "48cde551dd4f6f991a72bbfc1bc50ad0af78fba5ccb3644d61690f023f079086",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/19kraftverk.html",
+  "title": "Kyrkogatan och kraftverket",
+  "summary": "Bild av Kyrkogatan med vattenkraftverket, jämförd med 1972 och 2010. Texten beskriver vad som rivits, byggts och fyllts ut, och att dammen höjdes 1962 och byggdes in i den nya dammen 1984.",
+  "topics": [
+    "kraftverk",
+    "Kyrkogatan",
+    "stadsförändring"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stockrännan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bad- och tvättinrättningen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dammen höjs",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Dammen byggs in i den nya dammen",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Skorstenen tillkommer",
+      "date": {
+        "year": 2008,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "66f701f7772162d669003161e081c6c16d17b0015d32da6ea7c41f24629109de",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

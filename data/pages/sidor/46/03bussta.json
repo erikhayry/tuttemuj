@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/03bussta.html",
+  "title": "Busstationen",
+  "summary": "Bilder från 1946 av busstationen vid korsningen Esplanaden–Borgaregatan, där bussen på rutten Vasa–Gamlakarleby ankommer. Texten beskriver perronger, gengasaggregat och husen runt omkring.",
+  "topics": [
+    "busstation",
+    "kommunikationer",
+    "gengas",
+    "1946"
+  ],
+  "people": [
+    {
+      "name": "Arvid Stoor-Ehrola",
+      "alternateNames": [],
+      "roles": [
+        "förestod busstationen"
+      ]
+    },
+    {
+      "name": "Alarik Vilhelm Engberg",
+      "alternateNames": [],
+      "roles": [
+        "förestod busstationen"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Souranders gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergfeldtska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Hagfors gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "f62e53d8d175e75fb8c2c427516d483b4520336b43ea3735f22b432dacf826ae",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

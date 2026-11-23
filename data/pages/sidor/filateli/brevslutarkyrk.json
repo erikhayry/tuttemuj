@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/filateli/brevslutarkyrk.html",
+  "title": "Brevslutarmärken med svenskösterbottniska kyrkor",
+  "summary": "Brevslutare med svenskösterbottniska kyrkor. Nykarlebyfotot är gammalt eftersom tornuret från 1889 och staketet från 1901 saknas.",
+  "topics": [
+    "filateli",
+    "brevslutare",
+    "kyrkor"
+  ],
+  "people": [
+    {
+      "name": "Carl-Johan Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "tillhandahöll"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "181471d6004397d965e8c7465ece32989cad3b6dfbc669629be59a250d92c4be",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

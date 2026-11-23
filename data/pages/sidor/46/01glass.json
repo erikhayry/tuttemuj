@@ -1,0 +1,158 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/01glass.html",
+  "title": "Vy från Nybroforsen mot kyrkan",
+  "summary": "Scen ur 1946 års film där glass säljs vid torget, jämförd med samma vy 2009–2010. Sidan räknar upp vad som flyttats eller försvunnit sedan dess, bland annat våghuset, Laquists gård och Normalskolans vedlider.",
+  "topics": [
+    "torget",
+    "glass",
+    "stadsförändring",
+    "1946"
+  ],
+  "people": [
+    {
+      "name": "Stig Prüss",
+      "alternateNames": [],
+      "birthYear": 1940,
+      "deathYear": 1988,
+      "roles": []
+    },
+    {
+      "name": "Karl Gustav Schauman",
+      "alternateNames": [
+        "Mosse Schauman"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerade"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skogsvallen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Våghuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Laquists gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolans vedlider",
+      "kind": "building",
+      "alternateNames": [
+        "Normens vedlider"
+      ]
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rundkiosken",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Våghuset flyttas när busstationen byggs",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Våghuset"
+      ]
+    },
+    {
+      "title": "Sportplanen färdig",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Laquists gård rivs när Esso ska byggas",
+      "date": {
+        "year": 1959,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Laquists gård"
+      ]
+    },
+    {
+      "title": "Esplanaden asfalteras",
+      "date": {
+        "year": 1967,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Esplanaden"
+      ]
+    },
+    {
+      "title": "Normalskolans vedlider flyttas till Kampen",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "people": [],
+      "places": [
+        "Normalskolans vedlider"
+      ]
+    },
+    {
+      "title": "Torget trädplanteras",
+      "date": {
+        "year": 1999,
+        "circa": false
+      },
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "500072cbbd655c9467991fc112ce6263392a54318e08cb798f7f1a28872fd94c",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

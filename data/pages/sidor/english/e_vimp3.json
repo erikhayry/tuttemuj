@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/english/e_vimp3.htm",
+  "title": "Flag 3",
+  "summary": "Bildtext om en vimpel från 1990-talet med kyrkan, brovaktsstugan och stadsvapnet.",
+  "topics": [
+    "vimplar",
+    "souvenirer"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "de49148ce1623ae89fd1acff077125e87e5606fa83d7a724c44893a14b23026d",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}

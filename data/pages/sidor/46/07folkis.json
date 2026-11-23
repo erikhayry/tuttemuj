@@ -1,0 +1,41 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/46/07folkis.html",
+  "title": "Kristliga Folkhögskolan",
+  "summary": "Bild av Kristliga folkhögskolan vid älvstranden 1946 med bastu, internat och nyutfylld strandbrink.",
+  "topics": [
+    "folkhögskolan",
+    "älven"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kristliga folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5275083,
+        "lng": 22.5269437,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Folkhögskolans bastu",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Folkhögskolans internat",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "41aaeada6ce5b07e4a9d6ce6527b49248993f35698c18a22935131bafc8f6b08",
+  "extractionVersion": 1,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-23T12:08:14.901Z"
+}
