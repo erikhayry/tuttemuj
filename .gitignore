@@ -7,3 +7,6 @@ dist/
 *.log
 .DS_Store
 supabase/.temp/
+
+# Foldkit examples cloned for agents to read (see issue #60)
+examples/
