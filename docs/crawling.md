@@ -54,8 +54,8 @@ To run the same job now, use `/crawl` in Claude Code (`.claude/skills/crawl/SKIL
 A second job, `tuttemuj.extract`, runs at 04:00 (the crawl may still be running) and does what you would do by hand:
 
 1. Runs the data skills headless with `claude -p`, on your Claude Code subscription (`ANTHROPIC_API_KEY` is unset for them), one pass after the other:
-   - `/extract-pages` for `EXTRACT_COUNT` pages (default 100): new pages, changed pages and pages extracted with an older skill version.
-   - `/enrich-pages` for `ENRICH_COUNT` pages (default 100): adds the v1 fields to pages already extracted. Skipped until the skill exists (#54).
+   - `/extract-pages` for `EXTRACT_COUNT` pages (default 0, so off): new pages, changed pages and pages extracted with an older skill version. It stays off until #55 teaches the skill the v1 fields, so new pages are not done twice.
+   - `/enrich-pages` for `ENRICH_COUNT` pages (default 50): adds the v1 fields to pages already extracted, until that backlog is done. After that it finds no pages and costs almost nothing.
    - Set a count to `0` to skip that pass. Each pass is stopped after `CLAUDE_TIME_LIMIT` seconds (default 5400, i.e. 90 minutes), so one bad run can't use your subscription all night.
 2. Commits and pushes `data/` (`data: nightly extract <date>`, listing the passes that ran). Pages a pass saved are committed even if the pass was stopped or failed.
 3. Runs `pnpm data:publish`: rebuilds the derived files, syncs to Supabase and embeds the new pages with Voyage.
@@ -81,5 +81,15 @@ The skill (`.claude/skills/extract-pages/SKILL.md`) works in three steps:
 3. `extract:save` validates each draft against the Effect schema, adds the hash, version and timestamp, and writes the result to `data/pages/<path>.json`.
 
 Commit `data/pages/` afterwards. The next nightly run also pushes it.
+
+### Adding the v1 fields to pages already analysed
+
+`/enrich-pages <count>` (`.claude/skills/enrich-pages/SKILL.md`) adds `pageType`, person–place relations, place uses, name origin and image facts to pages that `/extract-pages` did before those fields existed, without redoing the page:
+
+1. `pnpm --filter @tuttemuj/crawler enrich:next <count>` writes each page's text (with the people and places already on it, and `[bild n]` markers) to `.cache/enrich/`.
+2. Claude writes one small draft JSON per page.
+3. `pnpm --filter @tuttemuj/crawler enrich:save` checks each draft (names must match the page, image numbers must exist), merges it into `data/pages/<path>.json` and stamps the page with `enrichments`.
+
+Versions: `docs/extraction-versions.md`.
 
 Analysis needs the local `.cache/`, so run it on the machine that does the crawling (or in its clone).

@@ -75,7 +75,8 @@ export const PlaceMention = Schema.Struct({
   /** Added by geocoding against data/gazetteer.json, never by the analyst. */
   geo: Schema.optionalKey(PlaceGeo),
   // The fields below are for v1 (#53). They are optional so older page files stay valid:
-  // missing means "not assessed", an empty list means "assessed, nothing found".
+  // missing means "not assessed", an empty list means "assessed, nothing found". On a page that
+  // has an `enrichments` stamp, the stamp says every place was assessed: no `uses` means none found.
   /** What the place was used for, with years when stated. */
   uses: Schema.optionalKey(Schema.Array(PlaceUse)),
   /** Where the name comes from, in our own words (Swedish, one sentence). Only if the page explains it. */
@@ -121,21 +122,6 @@ export const PersonPlaceRelation = Schema.Struct({
 }).check(yearsInOrder);
 export type PersonPlaceRelation = typeof PersonPlaceRelation.Type;
 
-/**
- * What an image shows. "building", "street", "people" and "landscape" are the pictures the app shows
- * for "Visa gamla bilder härifrån"; "map" goes to the map button; the rest are not shown.
- */
-export const ImageKind = Schema.Literals([
-  "building",
-  "street",
-  "people",
-  "landscape",
-  "map",
-  "document",
-  "other",
-]);
-export type ImageKind = typeof ImageKind.Type;
-
 /** What one image on the page shows, when the page says (v1 button "Visa gamla bilder härifrån"). */
 export const ImageFact = Schema.Struct({
   /** The number in the `[bild n]` marker of the extraction text (see #52). */
@@ -144,8 +130,6 @@ export const ImageFact = Schema.Struct({
   places: ArrayWithDefault(Schema.String),
   /** The year the image was made or shows, when stated. */
   year: Schema.optionalKey(Schema.Int),
-  /** What the image shows, judged from its caption and the page. Only some kinds are shown in the app. */
-  kind: Schema.optionalKey(ImageKind),
 });
 export type ImageFact = typeof ImageFact.Type;
 
@@ -162,6 +146,22 @@ export const PageType = Schema.Literals([
   "menu",
 ]);
 export type PageType = typeof PageType.Type;
+
+/**
+ * A stamp for an add-on pass (`/enrich-pages`) that added fields to an already extracted page. The
+ * full extraction has its own `extractionVersion`. A list, so later add-on skills can stamp too.
+ */
+export const PageEnrichment = Schema.Struct({
+  skill: Schema.Literal("enrich-pages"),
+  version: Schema.Int.check(Schema.isGreaterThan(0)),
+  /** The model that did the pass, e.g. "claude-opus-5-5". */
+  model: Schema.String,
+  enrichedAt: IsoDateTime,
+});
+export type PageEnrichment = typeof PageEnrichment.Type;
+
+/** Bump when the `/enrich-pages` instructions or draft change, so pages get enriched again. */
+export const ENRICH_VERSION = 1;
 
 /** A page whose story could be retold as a comic (used by a separate comics project). */
 export const ComicCandidate = Schema.Struct({
@@ -197,6 +197,8 @@ export const PageExtraction = Schema.Struct({
   pageType: Schema.optionalKey(PageType),
   relations: Schema.optionalKey(Schema.Array(PersonPlaceRelation)),
   images: Schema.optionalKey(Schema.Array(ImageFact)),
+  /** Add-on passes that have run on this page. Missing: none. */
+  enrichments: Schema.optionalKey(Schema.Array(PageEnrichment)),
   contentHash: Schema.String,
   extractionVersion: Schema.Int.check(Schema.isGreaterThan(0)),
   model: Schema.String,

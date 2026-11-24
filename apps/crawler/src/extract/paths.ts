@@ -14,3 +14,12 @@ export const extractionPaths = (dataDir: string, cacheDir: string) => ({
   draft: (url: SourceUrl) => join(cacheDir, "extract", "drafts", `${pageId(url)}.json`),
   page: (url: SourceUrl) => join(dataDir, "pages", `${pageId(url)}.json`),
 });
+
+/** Where `/enrich-pages` keeps its batch, texts and drafts. Pages are the same `data/pages` files. */
+export const enrichmentPaths = (dataDir: string, cacheDir: string) => ({
+  batch: join(cacheDir, "enrich", "batch.json"),
+  schema: join(cacheDir, "enrich", "draft.schema.json"),
+  text: (url: SourceUrl) => join(cacheDir, "enrich", "text", `${pageId(url)}.txt`),
+  draft: (url: SourceUrl) => join(cacheDir, "enrich", "drafts", `${pageId(url)}.json`),
+  page: (url: SourceUrl) => join(dataDir, "pages", `${pageId(url)}.json`),
+});

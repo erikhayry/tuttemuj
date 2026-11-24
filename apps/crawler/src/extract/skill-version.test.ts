@@ -1,8 +1,9 @@
 import { readFileSync } from "node:fs";
-import { EXTRACTION_VERSION } from "@tuttemuj/schema";
+import { ENRICH_VERSION, EXTRACTION_VERSION } from "@tuttemuj/schema";
 import { expect, it } from "vitest";
 
-const skillFile = new URL("../../../../.claude/skills/extract-pages/SKILL.md", import.meta.url);
+const skill = (name: string) =>
+  new URL(`../../../../.claude/skills/${name}/SKILL.md`, import.meta.url);
 
 /** The `version:` line in the skill's frontmatter (the block between the first two `---` lines). */
 const skillVersion = (markdown: string): number | undefined => {
@@ -12,7 +13,11 @@ const skillVersion = (markdown: string): number | undefined => {
 };
 
 it("the extract-pages skill version equals EXTRACTION_VERSION", () => {
-  expect(skillVersion(readFileSync(skillFile, "utf8"))).toBe(EXTRACTION_VERSION);
+  expect(skillVersion(readFileSync(skill("extract-pages"), "utf8"))).toBe(EXTRACTION_VERSION);
+});
+
+it("the enrich-pages skill version equals ENRICH_VERSION", () => {
+  expect(skillVersion(readFileSync(skill("enrich-pages"), "utf8"))).toBe(ENRICH_VERSION);
 });
 
 it("docs/extraction-versions.md describes the current version", () => {
@@ -21,4 +26,5 @@ it("docs/extraction-versions.md describes the current version", () => {
     "utf8",
   );
   expect(doc).toContain(`### ${EXTRACTION_VERSION}`);
+  expect(doc).toContain(`### enrich ${ENRICH_VERSION}`);
 });

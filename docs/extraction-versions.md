@@ -21,15 +21,25 @@ The first full extraction. Per page:
 - `comicCandidate`: always decided (`null` or a candidate with pitch and reason).
 - Only facts the page states. Nothing is filled in from memory.
 
-### Next (not released): v1 fields
+### Next (not released): v1 fields in the full extraction
 
-The schema already accepts these optional fields (#53), but the skill does not ask for them yet and `EXTRACTION_VERSION` is not bumped, so no page is queued again. #55 updates the skill and bumps the version for new pages; #54 adds them to old pages with an add-on pass.
+The schema accepts these optional fields (#53). `/extract-pages` does not ask for them yet and `EXTRACTION_VERSION` is not bumped, so no page is queued again. #55 updates that skill and bumps the version for new pages. Old pages get the same fields from `/enrich-pages` (below).
 
 - `pageType`: empty, photo, postcard, map, story, article, list or menu. `empty` and `menu` are already set on old pages by a rule on our own summary (`pages:mark-no-content`), and `extract:save` sets them on new pages.
 - `relations`: person–place relations (lived, owned, built, ran, worked, born, died) with `startYear` and `endYear` when stated.
-- `images`: per image (`[bild n]`), the places it shows, its year and its `kind` (building, street, people, landscape, map, document, other). The app shows building, street, people and landscape images; `isDecorativeImage` also drops logos and headers by file name.
+- `images`: per image (`[bild n]`), the places it shows and its year. Whether an image is a photo, and whether it shows buildings or people, is answered per image by Jev (`docs/images.md`), not here.
 - On each place: `uses` (what it was used for, with years) and `nameOrigin`.
 
-Missing means "not assessed"; an empty list means "assessed, nothing found".
+Missing means "not assessed"; an empty list means "assessed, nothing found". On a page with an `enrichments` stamp, every place was assessed, so a place without `uses` has none.
 
-Add-on passes (`/enrich-pages`, #54) get their own versions here once they exist.
+## Enrichment versions
+
+`/enrich-pages` adds the v1 fields to pages that were extracted before them, without redoing the page. The `version` in `.claude/skills/enrich-pages/SKILL.md` must equal `ENRICH_VERSION` in `packages/schema/src/entities.ts` (checked by the same test). A page it has done carries `enrichments: [{ skill, version, model, enrichedAt }]`.
+
+`pnpm --filter @tuttemuj/crawler enrich:next` picks pages that were extracted before v1 (no `pageType`) or that have an older enrichment stamp. It skips empty pages and menus, and pages whose content changed on the site (`/extract-pages` redoes those in full). An enriched page is not queued again when `EXTRACTION_VERSION` is bumped: it already has the fields the bump was for.
+
+Bump `ENRICH_VERSION` and the skill's `version` together when the instructions or the draft change so that enriched pages are worth redoing.
+
+### enrich 1 (current)
+
+The first add-on pass, per page: `pageType` (always), `relations`, `images` (only images the page says something about) and, on places that have them, `uses` and `nameOrigin`. Only facts the page states. People and places are never added: names must match the ones already on the page.

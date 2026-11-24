@@ -18,7 +18,9 @@
     "extract:next": "tsx src/cli/extract-next.ts",
     "extract:save": "tsx src/cli/extract-save.ts",
     "pages:mark-no-content": "tsx src/cli/pages-mark-no-content.ts",
-    "images:classify": "tsx --env-file-if-exists=../../.env src/cli/images-classify.ts"
+    "images:classify": "tsx --env-file-if-exists=../../.env src/cli/images-classify.ts",
+    "enrich:next": "tsx src/cli/enrich-next.ts",
+    "enrich:save": "tsx src/cli/enrich-save.ts"
   },
   "dependencies": {
     "@tuttemuj/schema": "workspace:*",

@@ -3,10 +3,11 @@
 # Supabase (sync) and Voyage (embed). Runs in the same dedicated clone as nightly.sh.
 #
 # Two passes, each with its own batch size (0 skips a pass):
-#   /extract-pages  EXTRACT_COUNT (default 100): new pages, changed pages and pages with an older
-#                   extraction version.
-#   /enrich-pages   ENRICH_COUNT (default 100): adds the v1 fields to pages already extracted.
-#                   Skipped until .claude/skills/enrich-pages/SKILL.md exists (#54).
+#   /extract-pages  EXTRACT_COUNT (default 0 for now): new pages, changed pages and pages with an
+#                   older extraction version. Off until #55 teaches the skill the v1 fields, so
+#                   new pages are not extracted twice (once without them, once to enrich).
+#   /enrich-pages   ENRICH_COUNT (default 50): adds the v1 fields to pages already extracted,
+#                   until that backlog is done. Then it finds nothing and costs nothing.
 # Each pass is stopped after CLAUDE_TIME_LIMIT seconds (default 5400). Whatever a pass saved is
 # still committed, even if it was stopped or failed.
 #
@@ -20,8 +21,8 @@ for cmd in pnpm claude perl; do
   command -v "$cmd" >/dev/null || { echo "$cmd not found on PATH ($PATH)" >&2; exit 1; }
 done
 
-EXTRACT_COUNT="${EXTRACT_COUNT:-100}"
-ENRICH_COUNT="${ENRICH_COUNT:-100}"
+EXTRACT_COUNT="${EXTRACT_COUNT:-0}"
+ENRICH_COUNT="${ENRICH_COUNT:-50}"
 CLAUDE_TIME_LIMIT="${CLAUDE_TIME_LIMIT:-5400}"
 for n in "$EXTRACT_COUNT" "$ENRICH_COUNT" "$CLAUDE_TIME_LIMIT"; do
   [[ "$n" =~ ^[0-9]+$ ]] || { echo "EXTRACT_COUNT, ENRICH_COUNT and CLAUDE_TIME_LIMIT must be numbers." >&2; exit 1; }
@@ -61,9 +62,7 @@ if (( EXTRACT_COUNT > 0 )); then
   fi
 fi
 if (( ENRICH_COUNT > 0 )); then
-  if [[ ! -f .claude/skills/enrich-pages/SKILL.md ]]; then
-    echo "== /enrich-pages skipped: the skill doesn't exist yet."
-  elif run_skill enrich-pages "$ENRICH_COUNT"; then passes+=("enrich"); else
+  if run_skill enrich-pages "$ENRICH_COUNT"; then passes+=("enrich"); else
     echo "/enrich-pages stopped or failed (exit $?); committing what it saved." >&2
     passes+=("enrich (incomplete)")
   fi

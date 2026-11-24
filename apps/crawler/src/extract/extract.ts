@@ -1,9 +1,10 @@
-import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { mkdir, rm, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
 import {
   EXTRACTION_VERSION,
   ExtractionTask,
   type FrontierEntry,
+  isEnriched,
   NO_CONTENT_PAGE_TYPES,
   noContentPageType,
   PageExtraction,
@@ -15,23 +16,10 @@ import type { PageCache } from "../cache.ts";
 import type { Frontier } from "../frontier.ts";
 import type { Gazetteer } from "../gazetteer/geocode.ts";
 import { parsePage } from "../parse.ts";
+import { readJson, writeJson } from "./json.ts";
 import type { extractionPaths } from "./paths.ts";
 
 type Paths = ReturnType<typeof extractionPaths>;
-
-async function readJson(path: string): Promise<unknown> {
-  try {
-    return JSON.parse(await readFile(path, "utf8"));
-  } catch (err) {
-    if ((err as NodeJS.ErrnoException).code === "ENOENT") return undefined;
-    throw err;
-  }
-}
-
-async function writeJson(path: string, value: unknown): Promise<void> {
-  await mkdir(dirname(path), { recursive: true });
-  await writeFile(path, `${JSON.stringify(value, null, 2)}\n`);
-}
 
 /** A fetched page needs analysis if it has none, its content changed, or the extraction version is old. */
 async function needsExtraction(entry: FrontierEntry, paths: Paths): Promise<boolean> {
@@ -41,6 +29,9 @@ async function needsExtraction(entry: FrontierEntry, paths: Paths): Promise<bool
   // An empty page or a menu is not worth redoing for a new version; only if its content changes.
   const { pageType } = existing.data;
   if (pageType !== undefined && NO_CONTENT_PAGE_TYPES.has(pageType)) return false;
+  // An enriched page (`/enrich-pages`) already has the fields the newer version added, so a version
+  // bump does not queue it again. New pages get the full extraction instead.
+  if (isEnriched(existing.data)) return false;
   return existing.data.extractionVersion < EXTRACTION_VERSION;
 }
 

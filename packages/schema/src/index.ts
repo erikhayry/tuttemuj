@@ -2,6 +2,7 @@ export * from "./ask.ts";
 export * from "./decode.ts";
 export * from "./defaults.ts";
 export * from "./embedding.ts";
+export * from "./enrichment.ts";
 export * from "./entities.ts";
 export * from "./env.ts";
 export * from "./eval.ts";
