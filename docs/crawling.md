@@ -52,9 +52,14 @@ To run the same job now, use `/crawl` in Claude Code (`.claude/skills/crawl/SKIL
 
 A second job, `tuttemuj.extract`, runs at 04:00 (the crawl may still be running) and does what you would do by hand:
 
-1. Runs `claude -p "/extract-pages 100"` headless, on your Claude Code subscription (`ANTHROPIC_API_KEY` is unset for it). Set `EXTRACT_COUNT` to change the 100.
-2. Commits and pushes `data/` (`data: nightly extract <date>`).
+1. Runs the data skills headless with `claude -p`, on your Claude Code subscription (`ANTHROPIC_API_KEY` is unset for them), one pass after the other:
+   - `/extract-pages` for `EXTRACT_COUNT` pages (default 100): new pages, changed pages and pages extracted with an older skill version.
+   - `/enrich-pages` for `ENRICH_COUNT` pages (default 100): adds the v1 fields to pages already extracted. Skipped until the skill exists (#54).
+   - Set a count to `0` to skip that pass. Each pass is stopped after `CLAUDE_TIME_LIMIT` seconds (default 5400, i.e. 90 minutes), so one bad run can't use your subscription all night.
+2. Commits and pushes `data/` (`data: nightly extract <date>`, listing the passes that ran). Pages a pass saved are committed even if the pass was stopped or failed.
 3. Runs `pnpm data:publish`: rebuilds the derived files, syncs to Supabase and embeds the new pages with Voyage.
+
+To change the counts or the time limit, add them under `EnvironmentVariables` in `~/Library/LaunchAgents/tuttemuj.extract.plist` and reload the job, or set them when running the script by hand (`EXTRACT_COUNT=20 scripts/nightly-extract.sh`).
 
 It needs the clone's `.env` (`SUPABASE_URL`, `SUPABASE_SECRET_KEY`, `VOYAGE_API_KEY`) and Claude Code logged in on that machine. It refuses to run if there are changes outside `data/` or if it isn't on `main`. It can overlap with the crawl: it never commits `frontier.jsonl` or `runs.jsonl`, which the crawl owns. The log is `.cache/nightly-extract.log`. Run it now with `launchctl kickstart gui/$(id -u)/tuttemuj.extract`.
 
