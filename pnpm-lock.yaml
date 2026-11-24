@@ -245,6 +245,15 @@ importers:
         specifier: ~4.1.5
         version: 4.1.5
 
+  packages/messages:
+    dependencies:
+      '@tuttemuj/schema':
+        specifier: workspace:*
+        version: link:../schema
+      effect:
+        specifier: ~4.1.5
+        version: 4.1.5
+
   packages/schema:
     dependencies:
       effect:

@@ -104,7 +104,7 @@ Built with Effect's `HttpApi` (#58) in `apps/api/src/v1/`: `api.ts` defines the 
 
 ## Multi-language
 
-- UI strings live in a messages catalog keyed by id (`buttons.who-lived-here.label`), one file per language. v1 ships `sv` only; `fi` and `en` exist as empty catalogs with the same keys, checked by a test.
+- UI strings live in a messages catalog keyed by id (`buttons.who-lived-here.label`), one file per language. v1 ships `sv` only; `fi` and `en` exist as empty catalogs with the same keys, checked by the TypeScript build (`Record<MessageKey, string>`), so no unit test is needed. An empty message falls back to Swedish. The catalogs are in `packages/messages`: `message(lang, key, params)` fills `{name}` markers, and `resolveLang` is the one place that picks the language (saved choice, then browser, then Swedish; only `AVAILABLE_LANGS` are offered).
 - `Lang` in the schema stays `sv | fi | en`, and the app reads the language from one place (browser setting, then a chooser). In v1 the chooser only offers Swedish.
 - Our summaries are Swedish. v1.1 needs Finnish and English summaries too; how to make them (by hand, or as a Claude Code pass on the subscription) is decided then.
 
