@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/tandsti/kyrkan.htm",
+  "title": "Tändsticksetikett med Storbron och kyrkan",
+  "summary": "En tändsticksetikett från omkring 1935–40, från Porin tulitikkutehdas, har Storbron och kyrkan som motiv. Förlagan är ett fotografi från före en ombyggnad.",
+  "topics": [
+    "tändsticksetiketter",
+    "storbron",
+    "kyrkan",
+    "porin tulitikkutehdas"
+  ],
+  "people": [
+    {
+      "name": "Juhani Nyman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll etiketten."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Porin tulitikkutehdas",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Tillverkare av etiketten, med motivet Pohjanmaan tikku."
+    }
+  ],
+  "events": [
+    {
+      "title": "Tändsticksetikett med Storbron och kyrkan tillverkas",
+      "date": {
+        "year": 1935,
+        "endYear": 1940,
+        "circa": true,
+        "text": "omkring 1935–40"
+      },
+      "description": "Porin tulitikkutehdas trycker en tändsticksetikett med Storbron och kyrkan som motiv.",
+      "people": [],
+      "places": [
+        "Storbron",
+        "Porin tulitikkutehdas"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ce69d72bce9f7feec6252cee1db18ba489dca7fda8a982180e932fa9d770cfc4",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

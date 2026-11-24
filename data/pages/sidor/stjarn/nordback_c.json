@@ -1,0 +1,44 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/nordback_c.html",
+  "title": "Nykarlebystjärna hos Nordback, Hangö",
+  "summary": "Christina Nordback i Hangö har en Nykarlebystjärna som hon fick av sin dotter, och som hon tror är en Anderssonare. Hennes mamma kom från Jeppo och hennes rötter i Nykarleby går tillbaka till 1700-talet.",
+  "topics": [
+    "nykarlebystjärna",
+    "hangö",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Christina Nordback",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hangö",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppo",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Varifrån Christina Nordbacks mamma kom.",
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "9935d79e01b2d4e3759ea83c826ad77addf6a88252d8d491909df58b2a26ab89",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

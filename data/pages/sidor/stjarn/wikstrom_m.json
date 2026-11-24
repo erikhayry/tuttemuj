@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/wikstrom_m.html",
+  "title": "Nykarlebystjärna hos Wikström, Sibbo",
+  "summary": "Margareta och Gustav Wikström i Sibbo har en Nykarlebystjärna av Ann-Maj Smedman i fönstret i lillstugan på gården. Stjärnan köptes vid FMS missionsfest i Nykarleby 2003.",
+  "topics": [
+    "nykarlebystjärna",
+    "sibbo",
+    "fms missionsfest",
+    "gård"
+  ],
+  "people": [
+    {
+      "name": "Margareta Wikström",
+      "alternateNames": [
+        "Margareta Knuts"
+      ],
+      "roles": [],
+      "description": "Född Knuts; från Ytterjeppo."
+    },
+    {
+      "name": "Gustav Wikström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Från Socklot."
+    },
+    {
+      "name": "Erik Wikström",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Gustav Wikströms far; gjorde en tidigare, mindre stjärna i papper."
+    },
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sibbo",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wikström köper stjärnan vid FMS missionsfest",
+      "date": {
+        "year": 2003,
+        "circa": false,
+        "text": "2003"
+      },
+      "description": "Margareta och Gustav Wikström köper en Nykarlebystjärna av Ann-Maj Smedman när FMS missionsfest hålls i Nykarleby.",
+      "people": [
+        "Margareta Wikström",
+        "Gustav Wikström",
+        "Ann-Maj Smedman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "893b1fef8eca9cda30aebcbfdaa3d412e83dff24cbe4d0c43cb205d5e62597ed",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

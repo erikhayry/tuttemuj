@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/nkbygillet.html",
+  "title": "NYKARLEBY-JUL och stjärnor över Nykarleby!",
+  "summary": "Nykarleby-gillet samlades i december med två julstjärnor av Edvin Marklund som hängde i taket. Lotterivinsten från en av stjärnorna bidrog till en litografi som gillet gav staden 1974.",
+  "topics": [
+    "julstjärna",
+    "nykarleby-gillet",
+    "edvin marklund",
+    "gåva till staden"
+  ],
+  "people": [
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Mästare på att göra julstjärnor och lanternor."
+    },
+    {
+      "name": "Marianne Segerstam",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Vann stjärnan i lotteriet."
+    },
+    {
+      "name": "Hans-Ole Josefsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har tagit fram gillets arkiv och hittat stjärnan i Socklot."
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Vind där Hans-Ole Josefsson tycker sig ha sett stjärnan.",
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby-gillet ger gåva till staden",
+      "date": {
+        "year": 1974,
+        "month": 12,
+        "day": 18,
+        "circa": false,
+        "text": "vid stadens sista fullmäktigemöte den 18.12 (1974)"
+      },
+      "description": "Nykarleby-gillet överlämnar en litografi i guldram till Nykarleby stad vid stadens sista fullmäktigemöte.",
+      "people": [
+        "Marianne Segerstam"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "339aa6fd9343057698355d159ba733324b00c64e0511637e787e1ffe30d2fcc7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/sundbergam.html",
+  "title": "Nykarlebystjärna hos Sundberg, Hangö",
+  "summary": "Ann-Marie Sundberg i Hangö hänger upp sin Nykarlebystjärna av Ann-Maj Smedman varje år till första advent. Hon fick den 2004 av vännerna Lisen och Sten Ahlvik i Jakobstad.",
+  "topics": [
+    "nykarlebystjärna",
+    "hangö",
+    "jakobstad",
+    "första advent"
+  ],
+  "people": [
+    {
+      "name": "Ann-Marie Sundberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har stjärnan i Hangö."
+    },
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [
+        "Anne-Maj Smedman"
+      ],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    },
+    {
+      "name": "Lisen Ahlvik",
+      "alternateNames": [
+        "Lisen Nylund"
+      ],
+      "roles": [],
+      "description": "Född Nylund; från Socklot."
+    },
+    {
+      "name": "Sten Ahlvik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hangö",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ann-Marie Sundberg får sin Nykarlebystjärna",
+      "date": {
+        "year": 2004,
+        "circa": false,
+        "text": "2004"
+      },
+      "description": "Ann-Marie Sundberg får en Nykarlebystjärna av Lisen och Sten Ahlvik i Jakobstad.",
+      "people": [
+        "Ann-Marie Sundberg",
+        "Lisen Ahlvik",
+        "Sten Ahlvik"
+      ],
+      "places": [
+        "Jakobstad"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "103e1deee0aff09dff70329410ffecf2bd92729485e259a7fe1c8d01318ba324",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

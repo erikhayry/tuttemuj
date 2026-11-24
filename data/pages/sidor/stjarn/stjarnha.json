@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/stjarnha.htm",
+  "title": "Nykarlebystjärna vid Stjärnhallen",
+  "summary": "Stjärnhallen i Nykarleby fick sitt namn efter Nykarlebystjärnan och invigdes lördagen den 11 november 2006. Den gamla Idrotts- och ungdomsgården hade rivits och byggts om, och byggnadsarbetena hade inletts i juli 2005.",
+  "topics": [
+    "stjärnhallen",
+    "idrott",
+    "byggnadshistoria",
+    "nykarlebystjärna"
+  ],
+  "people": [
+    {
+      "name": "Carl-Olaf Homén",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Höll festtal vid invigningen av Stjärnhallen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stjärnhallen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Idrotts- och ungdomsgården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gamla byggnaden som revs och byggdes om."
+    },
+    {
+      "name": "Församlingshemmet",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stjärnhallen invigs",
+      "date": {
+        "year": 2006,
+        "month": 11,
+        "day": 11,
+        "circa": false,
+        "text": "Lördagen den 11 november 2006"
+      },
+      "description": "Den nya Stjärnhallen invigs med festtal av Carl-Olaf Homén och ett program inspirerat av Nykarlebystjärnan.",
+      "people": [
+        "Carl-Olaf Homén"
+      ],
+      "places": [
+        "Stjärnhallen"
+      ]
+    },
+    {
+      "title": "Byggnadsarbetena i Stjärnhallen inleds",
+      "date": {
+        "year": 2005,
+        "month": 7,
+        "day": 15,
+        "circa": false,
+        "text": "Den 15 juli 2005"
+      },
+      "description": "Byggnadsarbetena inleds med rivning och om- och tillbyggnad av den gamla Idrotts- och ungdomsgården.",
+      "people": [],
+      "places": [
+        "Idrotts- och ungdomsgården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4c2553fe0a0155359e613d1c1b306793c5410054cb8fc4ca8c9f6f76dd8770b3",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

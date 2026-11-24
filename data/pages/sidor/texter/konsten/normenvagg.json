@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/normenvagg.html",
+  "title": "Målningarna i Normens inre matsal",
+  "summary": "Tidigare elever på Normalskolan minns målningarna på väggarna i den inre matsalen, som förmodligen målades 1963 under Torsten Korsströms ledning. Sidan efterlyser fler minnen, foton och uppgifter om motiven.",
+  "topics": [
+    "normalskolan",
+    "målningar",
+    "minnen",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Torsten Korsström",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Ledde arbetet med målningarna i den inre matsalen; dog 24 augusti 1964."
+    },
+    {
+      "name": "Erik Reipsar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ledde en grupp elever som målade en av tavlorna."
+    },
+    {
+      "name": "Elsa Granroth",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kokerska och föreståndare för matsalen, enligt minnet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Normen"
+      ],
+      "description": "Den inre matsalen låg i källarvåningen.",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Målningarna i Normalskolans inre matsal",
+      "date": {
+        "year": 1963,
+        "circa": true,
+        "text": "förmodligen 1963"
+      },
+      "description": "Målningarna på de ljusgula väggarna i Normalskolans inre matsal utförs under Torsten Korsströms ledning.",
+      "people": [
+        "Torsten Korsström",
+        "Erik Reipsar"
+      ],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4bbe85a053c4af6da1a397fc79fec410029709eac5eddb5d284d16caf2686c6a",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

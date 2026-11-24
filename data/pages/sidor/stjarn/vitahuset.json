@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/vitahuset.html",
+  "title": "Kreativt montage",
+  "summary": "Ett montage visar en Nykarlebystjärna i Vita huset. Göran Frilund publicerade bilden på Facebook i december 2019, och originalet kommer från en bild publicerad 2018.",
+  "topics": [
+    "montage",
+    "facebook",
+    "nykarlebystjärna"
+  ],
+  "people": [
+    {
+      "name": "Göran Frilund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Publicerade bilden på Facebook."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vita huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där stjärnan hänger enligt montaget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Göran Frilund publicerar bilden på Facebook",
+      "date": {
+        "year": 2019,
+        "month": 12,
+        "day": 1,
+        "circa": false,
+        "text": "Den 1 december 2019"
+      },
+      "description": "Göran Frilund publicerar en bild på Facebook med texten att Nykarlebystjärnan nu också hänger i Vita huset.",
+      "people": [
+        "Göran Frilund"
+      ],
+      "places": [
+        "Vita huset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ca25cf4b6a68e9064558ccbec4df667d72b94c95fa0494b6a886783cb2578a4f",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

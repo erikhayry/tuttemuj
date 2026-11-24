@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/solvina.htm",
+  "title": "Nykarlebystjärna hos Solvin, Upplands Väsby",
+  "summary": "En Nykarlebystjärna av Ann-Maj Smedman hänger hos familjen Solvin i Upplands Väsby i Sverige. Familjen har rötter i Nykarleby och tillbringar somrar på Björkholmen på Torsön.",
+  "topics": [
+    "nykarlebystjärnan",
+    "solvin",
+    "utlandet"
+  ],
+  "people": [
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde stjärnan."
+    },
+    {
+      "name": "Johan Solvin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Vars föräldrar är från Nykarleby."
+    },
+    {
+      "name": "Annelie Solvin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bor med Johan Solvin i Upplands Väsby."
+    },
+    {
+      "name": "Jonny Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade stjärnan tillsammans med Pia Blomqvist."
+    },
+    {
+      "name": "Pia Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade stjärnan tillsammans med Jonny Blomqvist."
+    }
+  ],
+  "places": [
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Björkholmen",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Sommarstuga på Torsön i Nykarleby."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "1551d4ea6e15d497f7b7da2e8877fbffcb127152bcb95fe17bbab2833f6ff082",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:23.882Z"
+}

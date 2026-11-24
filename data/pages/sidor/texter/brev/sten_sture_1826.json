@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brev/sten_sture_1826.html",
+  "title": "Wi Sten Sture Den Äldre",
+  "summary": "Ett skämtbrev daterat 24 december 1826 och påstått avsänt av Sten Sture den äldre upphöjer rådmannen Mathias Lithen i Nykarleby till adlig värdighet för sina stensprängningar. Vem som skrivit brevet och varför är okänt.",
+  "topics": [
+    "skämtbrev",
+    "1826",
+    "stenar",
+    "historia"
+  ],
+  "people": [
+    {
+      "name": "Mathias Lithen",
+      "alternateNames": [],
+      "roles": [
+        "råd- och handelsman"
+      ],
+      "description": "Upphöjdes i brevet till adligt stånd under namnet Lithen af Hartenstein."
+    },
+    {
+      "name": "Sten Sture v. Flintberg",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Avsändare på brevet."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och tillhandahöll dokumentet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skämtbrev om Lithen av Hartenstein",
+      "date": {
+        "year": 1826,
+        "month": 12,
+        "day": 24,
+        "circa": false,
+        "text": "den 24 december 1826"
+      },
+      "description": "Ett skämtbrev från Sten Sture den äldre upphöjer Mathias Lithen till adlig värdighet.",
+      "people": [
+        "Mathias Lithen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8343a756b270453360afddcfce2ae258dd1c212545348deff23a0a9717f74f83",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

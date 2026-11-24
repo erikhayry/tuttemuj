@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brev/skyddskar35o36.html",
+  "title": "Skyddskårskorrespondens",
+  "summary": "Skyddskåren vid Nykarleby seminarium bad 1935–36 Nordiska Föreningsbanken om ett engångsbidrag för att betala en skuld på 115 000 mark efter gårdsköpet. Kåren startade 1932 och behövde en övningslokal.",
+  "topics": [
+    "skyddskår",
+    "seminarium",
+    "nordiska föreningsbanken",
+    "1930-talet"
+  ],
+  "people": [
+    {
+      "name": "Oskar Holmqvist",
+      "alternateNames": [],
+      "roles": [
+        "lokalchef"
+      ],
+      "description": "Skrev till banken för kåren."
+    },
+    {
+      "name": "Ossi Andersson",
+      "alternateNames": [],
+      "roles": [
+        "lokalchef",
+        "veterinär"
+      ]
+    },
+    {
+      "name": "N. A. Fougstedt",
+      "alternateNames": [],
+      "roles": [
+        "stabsmedlem"
+      ]
+    },
+    {
+      "name": "Direktör Lilius",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ],
+      "description": "Förde samtal med kåren om bidraget i Helsingfors."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där kåren startade 1932.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby arbetarförenings gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård som kåren köpte tillsammans med marinskyddskåren."
+    }
+  ],
+  "events": [
+    {
+      "title": "Skyddskåren skriver till Nordiska Föreningsbanken",
+      "date": {
+        "year": 1935,
+        "month": 3,
+        "day": 16,
+        "circa": false,
+        "text": "Nykarleby den 16 mars 1935"
+      },
+      "description": "Skyddskåren vid Nykarleby seminarium ber Nordiska Föreningsbanken om ett understöd för sin gård.",
+      "people": [
+        "Oskar Holmqvist",
+        "N. A. Fougstedt"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Skyddskåren startar vid seminariet",
+      "date": {
+        "year": 1932,
+        "circa": false,
+        "text": "år 1932"
+      },
+      "description": "Nykarleby seminarium startar en egen skyddskår.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b1d72294a0b3f7743fbdcaf8ddec5827e14be56175d698051f7758e63eddef92",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

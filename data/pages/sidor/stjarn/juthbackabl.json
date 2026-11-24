@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/juthbackabl.html",
+  "title": "Nykarlebystjärna av blommor",
+  "summary": "En Nykarlebystjärna gjord av blommor dök upp mellan Juthbacka och Juthasvägen sommaren 2013. Bilden är tagen i juli samma år.",
+  "topics": [
+    "nykarlebystjärna",
+    "blommor",
+    "stjärnor"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebystjärna av blommor sätts upp",
+      "date": {
+        "year": 2013,
+        "circa": false,
+        "text": "Sommaren 2013"
+      },
+      "description": "En Nykarlebystjärna av blommor står för första gången mellan Juthbacka och Juthasvägen.",
+      "people": [],
+      "places": [
+        "Juthbacka",
+        "Juthasvägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "6c8a2f119ce87a61e718afd946d1ef828a14ca07439ffe7af81ca1abca0c44d7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

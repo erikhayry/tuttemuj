@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/typologi.html",
+  "title": "Typologi över Nykarlebystjärnor",
+  "summary": "Typologin delar in Nykarlebystjärnor i 35 parametrar, från antal uddar och material till upphängning och tillverkare. Ann-Maj Smedman beskrivs som den största tillverkaren, och Runar Renvall och Kalle Andersson var tidigare.",
+  "topics": [
+    "typologi",
+    "nykarlebystjärna",
+    "tillverkare",
+    "stjärnparametrar"
+  ],
+  "people": [
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Beskrivs som den största tillverkaren."
+    },
+    {
+      "name": "Runar Renvall",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    },
+    {
+      "name": "Kalle Andersson",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Meddelade om en liten stjärna av gammal femuddig modell som såldes på MUIK-loppisen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Nämns i typologin som exempel på fastsättning (Normens stjärngossestjärna).",
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "31d26f75bac9e64d06e159ae2607760f4080032f0cac5d4cdd0a154445195840",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

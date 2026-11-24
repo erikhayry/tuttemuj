@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/wikman_r.html",
+  "title": "Nykarlebystjärna hos Wikman, Korsholm",
+  "summary": "Runar Wikman i Vikby, Korsholm, har en Nykarlebystjärna på en egen stång 7,5 meter över marken, med 155 cm mellan uddarna. Hans mor Anna Wikman, född Smeds, kom från Soklot.",
+  "topics": [
+    "nykarlebystjärna",
+    "korsholm",
+    "vikby",
+    "stjärnstång"
+  ],
+  "people": [
+    {
+      "name": "Runar Wikman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillverkade stommen och skickade stjärnan till sidan."
+    },
+    {
+      "name": "Anna Wikman",
+      "alternateNames": [
+        "Anna Smeds"
+      ],
+      "birthYear": 1902,
+      "deathYear": 1997,
+      "roles": [],
+      "description": "Född Smeds; från Soklot."
+    },
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Sydde och fäste klädseln på stjärnan i Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vikby",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Korsholm."
+    },
+    {
+      "name": "Korsholm",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Runar Wikman tillverkar stommen till stjärnan",
+      "date": {
+        "year": 2003,
+        "circa": false,
+        "text": "år 2003"
+      },
+      "description": "Runar Wikman tillverkar stommen till stjärnan, och Ann-Maj Smedman sy och fäster klädseln i Nykarleby samma år.",
+      "people": [
+        "Runar Wikman",
+        "Ann-Maj Smedman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a8af7fcb1495d6070edfff2a507d813e7cf55381db8064b8aa1a43101cc88bcf",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

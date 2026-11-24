@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/gatukonst.html",
+  "title": "Spontan gatukonst",
+  "summary": "Sommaren 2023 noterade en skribent gatumönster i Nykarleby som hen uppfattade som konst, bland annat asfaltlagningar på Bankgatan och Gustav Adolfsgatan. Sidan visar också trafikmålningar och slitage på Storbron.",
+  "topics": [
+    "gatukonst",
+    "nykarleby i konsten",
+    "storbron"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "22bf274d7b219c0fdec85fe34d4e39f33efecf1da0127075950ff2635443816c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

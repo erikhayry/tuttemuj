@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/liljestf.htm",
+  "title": "Nykarlebystjärnan i Drottningholm",
+  "summary": "Sedan julen 1991 lyser en stjärna av Runar Renvall i Drottningholm. Monteringssättet har familjen ärvt från Nykarleby museum via barndomshemmet.",
+  "topics": [
+    "nykarlebystjärna",
+    "drottningholm",
+    "jul"
+  ],
+  "people": [
+    {
+      "name": "Runar Renvall",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Tillverkade stjärnan som lyser i Drottningholm."
+    }
+  ],
+  "places": [
+    {
+      "name": "Drottningholm",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Runar Renvall-stjärnan börjar lysa i Drottningholm",
+      "date": {
+        "year": 1991,
+        "circa": false,
+        "text": "julen 1991"
+      },
+      "description": "En stjärna av Runar Renvall börjar lysa i familjens fönster i Drottningholm.",
+      "people": [
+        "Runar Renvall"
+      ],
+      "places": [
+        "Drottningholm"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "f34f97217175abfa54393471e4b941fce9524932c39aa248c267b0e2ab56b540",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

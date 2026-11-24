@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brev/haradsr28.html",
+  "title": "Utdrag ur häradsrättens protokoll i Österbottniska Posten",
+  "summary": "Utdrag ur protokollet från häradsrätten i Nykarleby, Munsala och Jeppo socknars tingslag, publicerat i Österbottniska Posten. Sidan är kort och innehåller bara utdraget.",
+  "topics": [
+    "häradsrätt",
+    "rättegång",
+    "österbottniska posten"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Munsala",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "77c9d52d4ddf35e489f73ddef0ae4135f03c62c00146af0b3fc0f822382aa366",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

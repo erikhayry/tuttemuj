@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/nkby25_kl.html",
+  "title": "Nykarlebystjärnor december 2025",
+  "summary": "Kurt Levlin fotograferade Nykarlebystjärnorna i stadens centrum första helgen i december 2025, bland annat vid esplanaden, Nykarleby museum och i Stadshuset. Bilderna visar också en ovanlig upphängning med grankvistar.",
+  "topics": [
+    "nykarlebystjärna",
+    "julpynt",
+    "stadshuset",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Kurt Levlin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Besökte hemstaden och tog bilderna."
+    },
+    {
+      "name": "Sachiko Miki",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Donerade skulpturerna i Stadshuset efter ett besök sommaren 2024."
+    }
+  ],
+  "places": [
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Stadens stjärna vid esplanadens norra ände.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Sachiko Miki besöker Nykarleby",
+      "date": {
+        "year": 2024,
+        "circa": false,
+        "text": "sommaren 2024"
+      },
+      "description": "Konstnären Sachiko Miki besöker Nykarleby och donerar skulpturerna i Stadshuset till staden.",
+      "people": [
+        "Sachiko Miki"
+      ],
+      "places": [
+        "Stadshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "8ae1eb9710ab97cb00a866136ff5d4b8471f440882cc87a7d4e55c5fc3abea87",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

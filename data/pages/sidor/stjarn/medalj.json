@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/medalj.html",
+  "title": "Nykarleby stads idrotttsmedalj i form av Nykarlebystjärna",
+  "summary": "Nykarleby stads idrottsmedalj, formad som en stjärna av Anders Aromäki, delades ut på Idrottsgalan i Stjärnhallen. Medaljen gick till FM-guldmedaljörer och till dem som vunnit större priser.",
+  "topics": [
+    "idrott",
+    "medalj",
+    "idrottsgala",
+    "stjärnhallen"
+  ],
+  "people": [
+    {
+      "name": "Anders Aromäki",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Nykarlebybördig; formade medaljen."
+    },
+    {
+      "name": "Tina Nylund",
+      "alternateNames": [],
+      "roles": [
+        "kultur- och fritidschef"
+      ]
+    },
+    {
+      "name": "Gösta Villman",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stjärnhallen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Idrottsgalan i Stjärnhallen med ny idrottsmedalj",
+      "date": {
+        "year": 2014,
+        "month": 1,
+        "day": 31,
+        "circa": false,
+        "text": "Fredagen den 31 januari"
+      },
+      "description": "Idrottsgalan i Stjärnhallen delar ut Nykarleby stads nya idrottsmedalj, formad som en stjärna.",
+      "people": [
+        "Anders Aromäki",
+        "Tina Nylund"
+      ],
+      "places": [
+        "Stjärnhallen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "35cc770969695fb162af686eb8d4b9db77ecb0023eb57efbee03530a98123ce5",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/nygardcj.htm",
+  "title": "Nykarlebystjärna hos Nygård, Nykarleby",
+  "summary": "En femuddig Nykarlebystjärna lyser på Juthasvägen 17 och är gjord av Jarl Örndahl under hans seminarietid i Nykarleby 1923–28. Färgerna är omvända jämfört med Jakobstadsstjärnan.",
+  "topics": [
+    "nykarlebystjärna",
+    "seminarium",
+    "jakobstad",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Carl-Johan Nygård",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sände bilden av stjärnan."
+    },
+    {
+      "name": "Jarl Örndahl",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Gjorde stjärnan under sin tid vid seminariet i Nykarleby; står på minnestavlan över stupade under vinterkriget 1939–40."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Juthasvägen 17",
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jakobstad",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Jarl Örndahl gör stjärnan under seminarietiden",
+      "date": {
+        "year": 1923,
+        "endYear": 1928,
+        "circa": false,
+        "text": "under hans seminarietid 1923-28"
+      },
+      "description": "Jarl Örndahl gör en femuddig Nykarlebystjärna under sin tid vid seminariet i Nykarleby.",
+      "people": [
+        "Jarl Örndahl"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "86a7582d37085457ea6b983c187f522ae3119cce1a28709175008c83bcec983e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

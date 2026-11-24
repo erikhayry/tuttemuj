@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/enstran2.htm",
+  "title": "Kraftverket",
+  "summary": "Bukten vid Lybeckska gården har nästan försvunnit på grund av landhöjning, forsrensning och kraftverksbygget. Det gamla kraftverket byggdes 1926 och en ny damm 1984.",
+  "topics": [
+    "kraftverket",
+    "landhöjning",
+    "tullstranden",
+    "nykarleby historia"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gamla kraftverket från 1926 och den nya dammen från 1984.",
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Döljs bakom byggnaden som innehöll stadsbastu, reningsverk och tvättinrättning."
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stranden låg nedanför den norra tullen.",
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Tullhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stadens museum har funnits här sedan 1952.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gamla kraftverket byggs",
+      "date": {
+        "year": 1926,
+        "circa": false,
+        "text": "1926"
+      },
+      "description": "Det gamla kraftverket i Nykarleby byggs.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Ny damm byggs vid kraftverket",
+      "date": {
+        "year": 1984,
+        "circa": false,
+        "text": "1984"
+      },
+      "description": "En ny damm byggs vid kraftverket i Nykarleby.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    },
+    {
+      "title": "Stadens museum flyttar till gamla tullhuset",
+      "date": {
+        "year": 1952,
+        "circa": false,
+        "text": "sedan 1952"
+      },
+      "description": "Stadens museum är sedan 1952 inrymt i det gamla tullhuset.",
+      "people": [],
+      "places": [
+        "Tullhuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4fcbd1eb8b08d3e3ef4290c18bac4f4c489bc3a2eaa9b0867bd7aa75e0fe70fc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

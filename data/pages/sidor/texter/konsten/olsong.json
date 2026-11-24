@@ -1,0 +1,171 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/olsong.html",
+  "title": "Släkthistoria i olja av Göran Olson",
+  "summary": "Göran Olson har målat sex generationer av släkten Olson i Nykarleby, från Ole Olof Olsen (1794–1851) och framåt. Motiven är bland annat Hällgrunds båk, Juthbacka, Kuddnäs och stadsbranden 1858.",
+  "topics": [
+    "släkthistoria",
+    "målningar",
+    "olson",
+    "stadsbranden 1858"
+  ],
+  "people": [
+    {
+      "name": "Göran Olson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Målade tavlorna november 2021–januari 2022."
+    },
+    {
+      "name": "Ole Olof Olsen",
+      "alternateNames": [],
+      "birthYear": 1794,
+      "deathYear": 1851,
+      "roles": [],
+      "description": "Släktens äldste i sviten, född i Korshavn i Norge."
+    },
+    {
+      "name": "Oskar Olson",
+      "alternateNames": [],
+      "birthYear": 1822,
+      "deathYear": 1907,
+      "roles": [
+        "befälhavare"
+      ],
+      "description": "Befälhavare på SS Österbotten i 16 år."
+    },
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "birthYear": 1857,
+      "deathYear": 1913,
+      "roles": [],
+      "description": "En av initiativtagarna till Segelsällskapet Ägir."
+    },
+    {
+      "name": "Raoul Olson",
+      "alternateNames": [],
+      "birthYear": 1905,
+      "deathYear": 1973,
+      "roles": [],
+      "description": "Anställd vid kraftverket i Nykarleby från 1923 till 1965."
+    },
+    {
+      "name": "Herman Backman",
+      "alternateNames": [],
+      "birthYear": 1840,
+      "deathYear": 1887,
+      "roles": [],
+      "description": "Köpte Juthbacka egendom 1885."
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Syster till Oskar Olson; levde i London till sin död 1915."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hällgrunds båk",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Byggdes av Nykarleby stads borgerskap 1824."
+    },
+    {
+      "name": "Juthbacka herrgård",
+      "kind": "building",
+      "alternateNames": [
+        "Juthbacka"
+      ],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "SS Österbotten",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ångfartyg; ägdes av Österbottniska Ångfartygs Aktiebolaget."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden 1858",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "circa": false,
+        "text": "natten mellan 12 och 13 januari 1858"
+      },
+      "description": "Nykarleby brinner ner under cirka 12 timmar, och nästan 1 000 personer blir hemlösa.",
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "33f80de2fa780f99adf67f64766b04fd54abcb2b85b603cfe7c514626fbf2e57",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

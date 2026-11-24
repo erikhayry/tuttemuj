@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/renvallr.htm",
+  "title": "Runar Renvall",
+  "summary": "Runar Renvall gjorde enligt sin dotter fler än 500, kanske närmare 900, Nykarlebystjärnor, och några skickades till släktingar i Amerika. Han ansåg att de röda uddarna skulle gå diagonalt, eftersom den röda färgen symboliserar Guds kärlek som kom ner till jorden.",
+  "topics": [
+    "stjärntillverkare",
+    "nykarlebystjärna",
+    "runar renvall",
+    "julpynt"
+  ],
+  "people": [
+    {
+      "name": "Runar Renvall",
+      "alternateNames": [],
+      "birthYear": 1913,
+      "deathYear": 2002,
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Gjorde fler än 500 Nykarlebystjärnor; hans sista stjärna pryder gravstenen."
+    },
+    {
+      "name": "Maja Renvall-Höglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotter till Runar Renvall; skrev till sidan."
+    },
+    {
+      "name": "Elmer Gustavson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Släkting i Palo Alto i Kalifornien som fick en stjärna 1989."
+    },
+    {
+      "name": "Myrtle Dreyer",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kusin till Runar Renvall i Astoria, Oregon, som fick en stjärna 1989."
+    }
+  ],
+  "places": [
+    {
+      "name": "Palo Alto",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Astoria",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "I Oregon, USA."
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Där de stora stjärnorna med lodräta röda uddar hänger.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen besöker släkt i Amerika med två stjärnor",
+      "date": {
+        "year": 1989,
+        "month": 6,
+        "circa": false,
+        "text": "juni -89"
+      },
+      "description": "Familjen tar med två Renvall-stjärnor till släktingar i Palo Alto och Astoria.",
+      "people": [
+        "Elmer Gustavson",
+        "Myrtle Dreyer"
+      ],
+      "places": [
+        "Palo Alto",
+        "Astoria"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "71c2ab59c707eb7139ab05d8267ea73ea2d34881c1d1a13478447ab8f5389d77",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/markkulav_foto24.html",
+  "title": "Lokalt – Paikallista, Veikko Markkulas fotoutställning",
+  "summary": "Veikko Markkula visade sin första egen fotoutställning, Lokalt – Paikallista, i Astasalen i augusti 2024. Bilderna från Nykarleby är tagna på platser som Kuddnäs, Juthbacka och Nybroviken.",
+  "topics": [
+    "fotografi",
+    "utställning",
+    "veikko markkula",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Veikko Markkula",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ],
+      "description": "Ställde ut sina bilder i Astasalen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Astasalen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthbacka herrgård",
+      "kind": "building",
+      "alternateNames": [
+        "Juthbacka"
+      ],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Veikko Markkulas första egna fotoutställning",
+      "date": {
+        "year": 2024,
+        "month": 8,
+        "circa": false,
+        "text": "augusti 2024"
+      },
+      "description": "Veikko Markkula visar sin första egna fotoutställning, Lokalt – Paikallista, i Astasalen.",
+      "people": [
+        "Veikko Markkula"
+      ],
+      "places": [
+        "Astasalen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ed85fdcb33a338c233153417a610a46e98644b19510ca7a467c52cbac7d97841",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

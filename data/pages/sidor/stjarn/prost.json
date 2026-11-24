@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/prost.html",
+  "title": "Nykarlebystjärna hos Prost, Pargas",
+  "summary": "Pia Prost i Pargas har en Nykarlebystjärna av Ann-Maj Smedman, som hon fick i julklapp runt år 2000. Stjärnan lyser på Näsbacken i Pargas.",
+  "topics": [
+    "nykarlebystjärna",
+    "pargas",
+    "jul"
+  ],
+  "people": [
+    {
+      "name": "Pia Prost",
+      "alternateNames": [
+        "Pia Nyman"
+      ],
+      "roles": [],
+      "description": "Fick stjärnan i julklapp."
+    },
+    {
+      "name": "Ann-Maj Smedman",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Näsbacken",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "I Pargas, där stjärnan lyser."
+    },
+    {
+      "name": "Pargas",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergstigen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Där Pia Prost växte upp, i så kallade Uno-backan.",
+      "geo": {
+        "lat": 63.5236124,
+        "lng": 22.52193,
+        "match": "name",
+        "gazetteerName": "bergstigen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Pia Prost får sin Nykarlebystjärna",
+      "date": {
+        "year": 2000,
+        "circa": true,
+        "text": "kring år 2000"
+      },
+      "description": "Pia Prost får en Nykarlebystjärna av Ann-Maj Smedman i julklapp.",
+      "people": [
+        "Pia Prost",
+        "Ann-Maj Smedman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1cf0df0fbf7f9f80af3e7e78e892dca6143b30b3332794d8b0634e727d9b5c8e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

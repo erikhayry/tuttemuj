@@ -1,0 +1,52 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/nars_b.html",
+  "title": "Nykarlebystjärna hos Nars, Pargas",
+  "summary": "En Nykarlebystjärna, gjord senast på 1930-talet, hänger hos Birgitta Nars i Pargas. En ny stjärna görs som ersättare för den som hittades på Vita husets vind och ska bevaras i originalskick.",
+  "topics": [
+    "nykarlebystjärna",
+    "pargas",
+    "hembygd"
+  ],
+  "people": [
+    {
+      "name": "Birgitta Nars",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har stjärnan i Pargas."
+    }
+  ],
+  "places": [
+    {
+      "name": "Pargas",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Vita huset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Där en stjärna hittades på vinden."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarlebystjärna görs senast på 1930-talet",
+      "date": {
+        "year": 1930,
+        "endYear": 1939,
+        "circa": false,
+        "text": "senast på 1930-talet"
+      },
+      "description": "En Nykarlebystjärna tillverkas, senare hos Birgitta Nars i Pargas.",
+      "people": [
+        "Birgitta Nars"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "61af4ecfc5d9a0ae3eb77dc400deff2a2b181dc74d0b3c40c4b6099b42d9f834",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

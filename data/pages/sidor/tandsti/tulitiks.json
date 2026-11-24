@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/tandsti/tulitiks.htm",
+  "title": "Nykarleby tändsticksfabrik",
+  "summary": "Nykarleby tändsticksfabrik grundades 1872 och började tillverka tändstickor 1873 under Alfred Häggblom. Fabriken hade 26 anställda 1876 och 30 år 1886, och produktionen upphörde efter 1905.",
+  "topics": [
+    "tändsticksfabrik",
+    "historia",
+    "tändsticksetiketter"
+  ],
+  "people": [
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "fabriksledare"
+      ],
+      "description": "Ledde fabriken när den började tillverka 1873."
+    },
+    {
+      "name": "Isak Svedlin",
+      "alternateNames": [],
+      "roles": [
+        "fabriksledare"
+      ],
+      "description": "Ledde fabriken vid skiftet mellan 1880- och 1890-talen."
+    },
+    {
+      "name": "E.E. Davidsson",
+      "alternateNames": [],
+      "roles": [
+        "ägare"
+      ],
+      "description": "Ägde fabriken 1897; efter hans död gick den till hans arvingar 1902."
+    },
+    {
+      "name": "Juhani Nyman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll etiketterna och översättningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby tändsticksfabrik",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tändsticksfabriken inleder verksamheten",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "år 1873"
+      },
+      "description": "Den 1872 grundade tändsticksfabriken i Nykarleby inleder verksamheten under ledning av Alfred Häggblom.",
+      "people": [
+        "Alfred Häggblom"
+      ],
+      "places": [
+        "Nykarleby tändsticksfabrik"
+      ]
+    },
+    {
+      "title": "Tändsticksfabriken upphör",
+      "date": {
+        "year": 1905,
+        "circa": false,
+        "text": "1905"
+      },
+      "description": "Efter 1905 upphör tillverkningen vid Nykarleby tändsticksfabrik.",
+      "people": [],
+      "places": [
+        "Nykarleby tändsticksfabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4a055bf4f7f93de318c4e76a0c12547332cf30b17492b8d21a35b89f95f4a7b8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

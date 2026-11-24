@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/vattentorn.html",
+  "title": "Nykarlebystjärnor i vattentornet",
+  "summary": "Fyra små Nykarlebystjärnor lyser i vattentornets fönster, en i varje väderstreck. Efter en efterlysning 2011 identifierades tillverkaren som Raoul Envik i Vexala.",
+  "topics": [
+    "vattentornet",
+    "nykarlebystjärna",
+    "adventskalender",
+    "raoul envik"
+  ],
+  "people": [
+    {
+      "name": "Raoul Envik",
+      "alternateNames": [],
+      "birthYear": 1921,
+      "deathYear": 2005,
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Tillverkade stjärnorna; bodde i Vexala."
+    },
+    {
+      "name": "Marie-Louise Juthbacka",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Identifierade sin morbror Raoul Envik som tillverkare."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hjälpte till att hitta stjärnorna och tog bilder."
+    }
+  ],
+  "places": [
+    {
+      "name": "Vattentornet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fyra Nykarlebystjärnor lyser i fönstren, en i varje väderstreck.",
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Där Raoul Envik bodde.",
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Vattentornsstjärnorna publiceras i adventskalendern",
+      "date": {
+        "year": 2011,
+        "month": 12,
+        "day": 17,
+        "circa": false,
+        "text": "17 december 2011"
+      },
+      "description": "Vattentornsstjärnorna publiceras som lucka 17 i adventskalendern.",
+      "people": [],
+      "places": [
+        "Vattentornet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "aed5996a4f66529c73e7f34459c5af25da7299892295ad7b3e91cefc5ff5497c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

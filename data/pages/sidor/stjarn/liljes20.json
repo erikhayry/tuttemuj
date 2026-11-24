@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/liljes20.html",
+  "title": "Björken och Nykarlebystjärnan",
+  "summary": "En Nykarlebystjärna hänger i en björk vid Dragonvägen på Drottningholm, i stället för den stora stjärnan som brukar tändas på julaftonen. Stjärnan är ett minne av Kalle Andersson, som gjorde stjärnor och avled 2022.",
+  "topics": [
+    "nykarlebystjärna",
+    "drottningholm",
+    "björk",
+    "kalle andersson"
+  ],
+  "people": [
+    {
+      "name": "Kalle Andersson",
+      "alternateNames": [],
+      "deathYear": 2022,
+      "roles": [
+        "stjärntillverkare",
+        "konstruktör"
+      ],
+      "description": "Tillverkade Nykarlebystjärnor i olika storlekar från Forsby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Drottningholm",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Dragonvägen",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kalle Andersson avlider",
+      "date": {
+        "year": 2022,
+        "month": 9,
+        "circa": false,
+        "text": "september 2022"
+      },
+      "description": "Kalle Andersson, som gjorde Nykarlebystjärnor, avled.",
+      "people": [
+        "Kalle Andersson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "66ca10eb9483e74abba0353498b411a0c7245457ee59b550f6e5629886a26a17",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

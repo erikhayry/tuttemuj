@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/kyrk_stram.html",
+  "title": "Kyrkan som stramaljtavlor",
+  "summary": "Sankta Birgitta kyrka finns avbildad i två broderade stramaljtavlor, varav en gjordes av Doris Liljeström i början av 1970-talet. Den andra köptes 2010 från Ateljé Victoria, som Benita Nystrand drev.",
+  "topics": [
+    "stramaljtavla",
+    "kyrkan",
+    "handarbete",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Doris Liljeström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Broderade tavlan under lugnare stunder när hon arbetade på Torggrillen i början av 1970-talet."
+    },
+    {
+      "name": "Benita Nystrand",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ägare av handarbetsaffären Ateljé Victoria."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan",
+        "Nykarleby kyrka"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ateljé Victoria",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Handarbetsaffär; tidigare Galleri Viktor."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "97150b4dd914874d34a7fc3d86be7b35b9cbb78785dda2925ec1f5d724f54e51",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

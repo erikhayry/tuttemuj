@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/kronqvistbm.html",
+  "title": "Nykarlebystjärna hos Kronqvist, Sant Adria de Besos, Spanien",
+  "summary": "En Nykarlebystjärna av Renvall från Forsby hänger nu i Sant Adria de Besos utanför Barcelona. Stjärnan har även hängt i Lidingö, London och på två ställen i Barcelona.",
+  "topics": [
+    "nykarlebystjärna",
+    "spanien",
+    "utlandet"
+  ],
+  "people": [
+    {
+      "name": "Britt Marie Kronqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fick stjärnan av sin mor och skickade bilden."
+    },
+    {
+      "name": "Renvall",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Tillverkade stjärnan; från Nykarleby Forsby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sant Adria de Besos",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Grannstad till Barcelona i Katalonien, Spanien."
+    },
+    {
+      "name": "Barcelona",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [
+        "Nykarleby Forsby"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Britt Marie Kronqvist får sin Nykarlebystjärna",
+      "date": {
+        "year": 1995,
+        "circa": false,
+        "text": "år 1995"
+      },
+      "description": "Britt Marie Kronqvist fick en stjärna av Renvall från Forsby av sin mor.",
+      "people": [
+        "Britt Marie Kronqvist",
+        "Renvall"
+      ],
+      "places": [
+        "Forsby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "536789061e80fb622ad986e6f31a81cb6b4cb450518e2b844b098a8214e9a108",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

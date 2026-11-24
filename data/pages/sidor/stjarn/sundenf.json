@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/sundenf.html",
+  "title": "Nykarlebystjärna hos Sundén, Nagu",
+  "summary": "Fred Sundén i Nagu har en sjuuddig Nykarlebystjärna av Ann-Maj Smedman-Skog, som han skaffade inför julen. Hans morfar Arnold Schalin föddes i Nykarleby, och släkten har anknytning till seminariet och Topelius.",
+  "topics": [
+    "nykarlebystjärna",
+    "nagu",
+    "schalin",
+    "topelius"
+  ],
+  "people": [
+    {
+      "name": "Fred Sundén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ann-Maj Smedman-Skog",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    },
+    {
+      "name": "Arnold Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Morfar till Fred Sundén; född i Nykarleby."
+    },
+    {
+      "name": "Zackris Schalin",
+      "alternateNames": [],
+      "roles": [
+        "direktor för seminariet i Nykarleby"
+      ],
+      "description": "Far till Arnold Schalin."
+    },
+    {
+      "name": "Lars Wilhelm Schalin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Far till Zackris Schalin; gift med en syster till Zacharias Topelius."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nagu",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "7783188a17cc0459994b2658c9ba2d56a1657d8885fe98da40c1cfb1f5b27dd8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

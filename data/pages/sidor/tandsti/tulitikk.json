@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/tandsti/tulitikk.htm",
+  "title": "Nykarleby tändsticksfabrik",
+  "summary": "Finskspråkig version av sidan om Nykarleby tändsticksfabrik, som var verksam 1872–1905 och ägdes av bland andra E.E. Davidsson. Fabriken hade 30 anställda 1886 och 15 år 1905.",
+  "topics": [
+    "tändsticksfabrik",
+    "historia",
+    "tulitikku"
+  ],
+  "people": [
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "fabriksledare"
+      ],
+      "description": "Ledde fabriken när den inledde verksamheten 1873."
+    },
+    {
+      "name": "Isak Svedlin",
+      "alternateNames": [],
+      "roles": [
+        "fabriksledare"
+      ],
+      "description": "Ledde fabriken i början av 1880- och 1890-talen."
+    },
+    {
+      "name": "E.E. Davidsson",
+      "alternateNames": [],
+      "roles": [
+        "ägare"
+      ],
+      "description": "Ägde fabriken 1897."
+    },
+    {
+      "name": "Juhani Nyman",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll etiketterna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby tändsticksfabrik",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tändsticksfabriken inleder verksamheten",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "1873"
+      },
+      "description": "Tändsticksfabriken i Nykarleby inleder verksamheten under ledning av Alfred Häggblom.",
+      "people": [
+        "Alfred Häggblom"
+      ],
+      "places": [
+        "Nykarleby tändsticksfabrik"
+      ]
+    },
+    {
+      "title": "Tändsticksfabriken upphör med tillverkningen",
+      "date": {
+        "year": 1905,
+        "circa": false,
+        "text": "1905"
+      },
+      "description": "Efter 1905 upphör tändsticksfabriken i Nykarleby att tillverka tändstickor.",
+      "people": [],
+      "places": [
+        "Nykarleby tändsticksfabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "bc08f996015f9b93d539dbe1657ac188015e752219d003a5a7849f9d1b2e7162",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

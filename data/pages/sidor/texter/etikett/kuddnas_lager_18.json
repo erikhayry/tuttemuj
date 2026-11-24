@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/etikett/kuddnas_lager_18.html",
+  "title": "Kuddnäs Premium Lager 2018",
+  "summary": "Keppo Bryggeri tog fram ölet Kuddnäs Premium Lager till Zacharias Topelius 200-årsjubileum, och det smakprovades första gången på puben FAF i januari 2018. Ölet är ekologiskt och har 4,6 procent alkohol.",
+  "topics": [
+    "öl",
+    "topelius",
+    "kuddnäs",
+    "bryggeri"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Jubilaren för vars 200-årsjubileum ölet togs fram."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "FAF",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stadens pub där ölet smakprovades första gången."
+    }
+  ],
+  "events": [
+    {
+      "title": "Första provsmakningen av Kuddnäs Premium Lager",
+      "date": {
+        "year": 2018,
+        "month": 1,
+        "day": 13,
+        "circa": false,
+        "text": "lördagen den 13 januari 2018"
+      },
+      "description": "Kuddnäs Premium Lager smakprovas för första gången på puben FAF.",
+      "people": [],
+      "places": [
+        "FAF"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "d889aca2e94418bbf7d2301bffaaae94f80d874b95a1617bd0042ae85ca9a153",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

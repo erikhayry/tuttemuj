@@ -1,0 +1,47 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/stad09.html",
+  "title": "Esplanadstjärna, Nykarleby.",
+  "summary": "Esplanadstjärnan vid korsningen med Bankgatan sätts upp med byggnadskontorets skylift. Bilden visar också ungefär samma vy sommaren 1946.",
+  "topics": [
+    "esplanaden",
+    "esplanadstjärna",
+    "bankgatan",
+    "nykarlebystjärna"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Esplanadstjärnan hänger vid korsningen med Bankgatan.",
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "c65a766527ddbc07ae1055a543a077a5a84047f994ffba277d60d4ebb04a209b",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

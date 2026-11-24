@@ -1,0 +1,91 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/lindforsl.html",
+  "title": "Nykarlebystjärna hos Lindfors, Eskilstuna",
+  "summary": "Lars Lindfors och Kerstin i Skogstorp, Eskilstuna, har gjort egna Nykarlebystjärnor av papper, köpt i Nykarleby Bokhandel. Lars är född i Nykarleby och flyttade till Sverige 1959.",
+  "topics": [
+    "nykarlebystjärna",
+    "eskilstuna",
+    "utlandet",
+    "hemtillverkat"
+  ],
+  "people": [
+    {
+      "name": "Lars Lindfors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde stjärnorna; flyttade till Sverige 1959."
+    },
+    {
+      "name": "Kerstin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bor med Lars Lindfors i Skogstorp, Eskilstuna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skogstorp",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Område i Eskilstuna."
+    },
+    {
+      "name": "Eskilstuna",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Lars Lindfors växte upp i det sista huset efter vägen; huset finns inte kvar.",
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skogsvallen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Finns i dag där Lindfors barndomshem låg."
+    },
+    {
+      "name": "Nykarleby Bokhandel",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234,
+        "lng": 22.5306,
+        "match": "name",
+        "gazetteerName": "herlers bokhandel",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lars Lindfors flyttar till Sverige",
+      "date": {
+        "year": 1959,
+        "circa": false,
+        "text": "1959"
+      },
+      "description": "Lars Lindfors, yngst av Lindforsbröderna, flyttar från Nykarleby till Sverige.",
+      "people": [
+        "Lars Lindfors"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "851d191229d438bfad006a3d3acde5302d84b0e87e00604d5d3716619471f7bc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

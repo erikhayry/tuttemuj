@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/lykta.html",
+  "title": "Lykta dekorerad med Nykarlebystjärnor",
+  "summary": "En lykta dekorerad med Nykarlebystjärnor visas i adventskalendern 2013, lucka 11. Bakgrunden visar apoteket i den tidigare Poliskammarens lokal, och bilden är tillhandahållen av Stig Haglund.",
+  "topics": [
+    "nykarlebystjärnan",
+    "lykta",
+    "adventskalendern"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "I den f.d. Poliskammarens lokal.",
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "35ec5c1f80de11dc893484bb6ffe4a41139aca3a17a078f2ae90860b59af58d8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:23.882Z"
+}

@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/marklundestang.html",
+  "title": "Edvin Marklunds stång, Nykarleby.",
+  "summary": "En stjärnstång efter Edvin Marklund (1900–1980) stod bakom ett uthus vid Lybecksgatan 9 och dokumenterades 2008. I juli 2011 var den borta.",
+  "topics": [
+    "stjärnstång",
+    "edvin marklund",
+    "uthus",
+    "nykarlebystjärna"
+  ],
+  "people": [
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "birthYear": 1900,
+      "deathYear": 1980,
+      "roles": [
+        "stjärntillverkare"
+      ]
+    },
+    {
+      "name": "Karl-Gustav Henriksson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hittade stången på marken efter att den fallit ner."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickade bild av stången 2013."
+    }
+  ],
+  "places": [
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Lybecksgatan 9",
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 27",
+      "geo": {
+        "lat": 63.5243061,
+        "lng": 22.5341452,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 27",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Moffas gård",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Gården där stången hittades på marken bakom uthuset."
+    }
+  ],
+  "events": [
+    {
+      "title": "Edvin Marklunds stjärnstång är borta",
+      "date": {
+        "year": 2011,
+        "month": 7,
+        "day": 22,
+        "circa": false,
+        "text": "den 22 juli 2011"
+      },
+      "description": "Stjärnstången bakom uthuset vid Lybecksgatan 9 är försvunnen.",
+      "people": [
+        "Edvin Marklund"
+      ],
+      "places": [
+        "Lybecksgatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "7b030a221a70d9d83e66f1278c2e1769934dde66a353b26d4cf51303a8c310a8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

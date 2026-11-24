@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/juthbackaml.html",
+  "title": "Nykarlebystjärna hos Juthbacka, Nykarleby",
+  "summary": "Marie-Louise Juthbacka har fyra Nykarlebystjärnor hemma, två av dem köpta av morbror Raoul Envik, som också gjorde större stjärnor. Raoul och hans fru Karin drev en liten hemslöjdsbutik i Vexala.",
+  "topics": [
+    "nykarlebystjärna",
+    "stjärntillverkare",
+    "hemslöjd"
+  ],
+  "people": [
+    {
+      "name": "Raoul Envik",
+      "alternateNames": [],
+      "deathYear": 2005,
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Gjorde Nykarlebystjärnor; hade en hemslöjdsbutik i Vexala tillsammans med sin fru Karin."
+    },
+    {
+      "name": "Karin Envik",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fru till Raoul Envik; de hade en hemslöjdsbutik i Vexala."
+    },
+    {
+      "name": "Marie-Louise Juthbacka",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skickade bidraget och bilder av stjärnorna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smedsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Envik",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Nämns som Raoul Enviks adress i Smedsby."
+    }
+  ],
+  "events": [
+    {
+      "title": "Raoul Envik dör",
+      "date": {
+        "year": 2005,
+        "circa": false,
+        "text": "2005"
+      },
+      "description": "Raoul Envik, som tillverkade Nykarlebystjärnor, dör 84 år gammal.",
+      "people": [
+        "Raoul Envik"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "5ffd6a9394bc35db8d75680c7050b69c6984b18d3ce78af9b87551103c2f359d",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

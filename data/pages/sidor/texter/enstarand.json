@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/enstarand.htm",
+  "title": "Utsikten från Zacharias Topelius vindsfönster",
+  "summary": "Zacharias Topelius dikt En vindskammare från 1889 beskriver utsikten från hans vindsfönster mot älven, Nybroforsen och kyrkans torn. Sidan jämför den äldre vyn ca 1900 med hur utsikten ser ut idag.",
+  "topics": [
+    "topelius",
+    "dikt",
+    "vindskammare",
+    "utsikt"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ],
+      "description": "Skrev dikten och bodde i vindskammaren."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kyrkans torn syns från vindsfönstret.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybroviken",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263362,
+        "lng": 22.5293878,
+        "match": "name",
+        "gazetteerName": "nybroviken",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius skriver dikten En vindskammare",
+      "date": {
+        "year": 1889,
+        "circa": false,
+        "text": "1889"
+      },
+      "description": "Zacharias Topelius skriver dikten En vindskammare, som beskriver utsikten från hans vindsfönster.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "1264038ab5c90b7e27784b3a8e7b043f10ad1826caf5147887411e0d34598bed",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

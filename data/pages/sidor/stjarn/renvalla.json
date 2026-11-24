@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/renvalla.htm",
+  "title": "Nykarlebystjärna hos Alf Renvall, Åbo",
+  "summary": "Alf Renvall i Åbo har en Nykarlebystjärna av sin pappa Valter, bror till Runar Renvall. Stjärnan har hängt i olika fönster i Åbo sedan omkring 1980 och på Hallonvägen 28 sedan 1993.",
+  "topics": [
+    "nykarlebystjärna",
+    "åbo",
+    "tofsar",
+    "renvall"
+  ],
+  "people": [
+    {
+      "name": "Alf Renvall",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade stjärnan och kommenterade tofsstjärnorna."
+    },
+    {
+      "name": "Valter Renvall",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Bror till Runar Renvall; gjorde stjärnor endast till familjen."
+    },
+    {
+      "name": "Runar Renvall",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Bror till Valter Renvall."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hallonvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Hallonvägen 28"
+    },
+    {
+      "name": "Åbo",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Valter Renvall gör stjärnan",
+      "date": {
+        "year": 1980,
+        "circa": true,
+        "text": "ca 1980"
+      },
+      "description": "Valter Renvall gör en Nykarlebystjärna åt sin son Alf Renvall.",
+      "people": [
+        "Valter Renvall",
+        "Alf Renvall"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stjärnan hänger på Hallonvägen 28 i Åbo",
+      "date": {
+        "year": 1993,
+        "circa": false,
+        "text": "sedan 93"
+      },
+      "description": "Stjärnan hänger sedan 1993 i fönstret på Hallonvägen 28 i Åbo.",
+      "people": [],
+      "places": [
+        "Hallonvägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "4daae2f57a3edb6fcd5630d40ad01aea5f1c44201f006d583a8c0652d2d8d3d7",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

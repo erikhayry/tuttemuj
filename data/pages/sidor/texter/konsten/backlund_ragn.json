@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/backlund_ragn.html",
+  "title": "Målningar av Uno Backlund",
+  "summary": "Läsare har skickat in målningar av Uno Backlund, bland annat en från 1928 med motiv från Grisselören och en från 1946 med en skogsbacke. Flera av tavlorna har inte kunnat identifieras exakt.",
+  "topics": [
+    "uno backlund",
+    "målningar",
+    "konst",
+    "nykarleby"
+  ],
+  "people": [
+    {
+      "name": "Uno Backlund",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Målningarna på sidan är målade av honom."
+    },
+    {
+      "name": "Maria Sjöblom",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll en målning och berättade om Uno Backlund."
+    },
+    {
+      "name": "Hans Hellund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll en tavla från 1928 och ett foto av stugan."
+    },
+    {
+      "name": "Marianne Gustafsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Har en tavla; hennes mormor Dagmar Backlund föddes i Lillsocklot 1904."
+    },
+    {
+      "name": "Christel Furu",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll en tavla från 1946."
+    }
+  ],
+  "places": [
+    {
+      "name": "Ragnören",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Möjligt motiv för en av tavlorna, enligt tillhandahållaren."
+    },
+    {
+      "name": "Leppon",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Möjligt motiv; där ån delar sig nedanför Åminne."
+    },
+    {
+      "name": "Grisselören",
+      "kind": "island",
+      "alternateNames": [
+        "Griselören",
+        "Grislöun"
+      ],
+      "geo": {
+        "lat": 63.61204689999999,
+        "lng": 22.4921221,
+        "match": "name",
+        "gazetteerName": "grisselören",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Åminne",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Högbackan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Där Uno Backlund besökte sin mamma."
+    }
+  ],
+  "events": [
+    {
+      "title": "Uno Backlund målar Grisselören",
+      "date": {
+        "year": 1928,
+        "circa": false,
+        "text": "1928"
+      },
+      "description": "Uno Backlund målar en tavla med motiv från Grisselören.",
+      "people": [
+        "Uno Backlund",
+        "Hans Hellund"
+      ],
+      "places": [
+        "Grisselören"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "c36e9e7f8776f4cf94dc83ad5e26c9fb19c4e8437b9780496dff05a86ffb7678",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

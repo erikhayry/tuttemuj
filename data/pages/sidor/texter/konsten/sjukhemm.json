@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/sjukhemm.html",
+  "title": "Målningar vid Nykarleby sjukhem",
+  "summary": "Grundstenen till Nykarleby sjukhem murades 1989 för vård av åldrande krigsinvalider. Sex målningar med motiv från staden gavs till sjukhemmet av Nykarleby stad 1996.",
+  "topics": [
+    "nykarleby sjukhem",
+    "målningar",
+    "krigsinvalider",
+    "konst"
+  ],
+  "people": [
+    {
+      "name": "Robert Back",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Målade de sex tavlorna."
+    },
+    {
+      "name": "Fritiof Lillqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Ordförande för stiftelsens styrelse och byggnadskommitté."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby sjukhem",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Grundstenen till Nykarleby sjukhem murades",
+      "date": {
+        "year": 1989,
+        "month": 12,
+        "day": 18,
+        "circa": false,
+        "text": "måndagen den 18 december 1989"
+      },
+      "description": "Grundstenen till Nykarleby sjukhem murades, och byggnaden skulle ha 26 vårdplatser för åldrande krigsinvalider.",
+      "people": [
+        "Fritiof Lillqvist"
+      ],
+      "places": [
+        "Nykarleby sjukhem"
+      ]
+    },
+    {
+      "title": "Målningar ges till sjukhemmet",
+      "date": {
+        "year": 1996,
+        "month": 1,
+        "day": 18,
+        "circa": false,
+        "text": "den 18.1.1996"
+      },
+      "description": "Nykarleby stad överräcker sex målningar till sjukhemmet som gåva.",
+      "people": [
+        "Robert Back"
+      ],
+      "places": [
+        "Nykarleby sjukhem"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "ebe5cb1f5b631b538ce5527f4b4590edbeae173dc991b45d0edc713459b03f75",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

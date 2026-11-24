@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/kyrkan20.html",
+  "title": "Nykarlebystjärnan i Sankta Birgitta kyrkan",
+  "summary": "Vid en coronasäkrad festgudstjänst i Sankta Birgitta kyrka hängde den sexuddiga Nykarlebystjärnan vid predikstolen. Gudstjänsten firade Kristliga Folkhögskolans 100 år.",
+  "topics": [
+    "nykarlebystjärna",
+    "kyrka",
+    "folkhögskola",
+    "jubileum"
+  ],
+  "people": [
+    {
+      "name": "Bo-Göran Åstrand",
+      "alternateNames": [],
+      "roles": [
+        "biskop"
+      ],
+      "description": "Officierade vid festgudstjänsten 2020."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sankta Birgitta kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Kyrka där Nykarlebystjärnan hänger vid predikstolen.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala kyrka",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Nämns i förslag om flytt när kyrkan ska byggas om."
+    },
+    {
+      "name": "Kristliga Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5275083,
+        "lng": 22.5269437,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Festgudstjänst för Kristliga Folkhögskolans 100 år",
+      "date": {
+        "year": 2020,
+        "month": 11,
+        "day": 29,
+        "circa": false,
+        "text": "den 29 november 2020"
+      },
+      "description": "Biskop Bo-Göran Åstrand officierar vid en coronasäkrad festgudstjänst i Sankta Birgitta kyrka för Kristliga Folkhögskolans 100-årsjubileum.",
+      "people": [
+        "Bo-Göran Åstrand"
+      ],
+      "places": [
+        "Sankta Birgitta kyrka",
+        "Kristliga Folkhögskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "e06ad7f6ded7095b67ac2e8a35306940b40afb96dc4df6962f364ee7061d95c8",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

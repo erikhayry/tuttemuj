@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brev/topbyst_th35.html",
+  "title": "Torkel Hellströms brev till kassören för kommittén för byst av Z. Topelius i Nykarleby",
+  "summary": "Torkel Hellström skrev 1935 till kassören i kommittén för Topeliusbysten i Nykarleby att bysten snart skulle gjutas i brons. Han berömde skulpturen och föreslog att den avtäcks vid Nykarleby nejdens sångardagar i september.",
+  "topics": [
+    "topelius",
+    "byst",
+    "skulptur",
+    "1935"
+  ],
+  "people": [
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skrev brevet till kommittén."
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": [
+        "författare"
+      ],
+      "description": "Bysten föreställer honom."
+    },
+    {
+      "name": "Ville Vallgren",
+      "alternateNames": [],
+      "roles": [
+        "skulptör"
+      ],
+      "description": "Gjorde bysten och ritade sockeln."
+    },
+    {
+      "name": "Wirtanen",
+      "alternateNames": [],
+      "roles": [
+        "gjutare"
+      ],
+      "description": "Utför gjutningen i brons."
+    },
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Skriver en dikt till avtäckningen."
+    },
+    {
+      "name": "Erik Vasström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ],
+      "description": "Skulle måla Kuddnäs och andra motiv i Nykarleby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Alberga",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Topeliusbysten ska gjutas i brons",
+      "date": {
+        "year": 1935,
+        "month": 8,
+        "day": 19,
+        "circa": false,
+        "text": "19 aug 1935"
+      },
+      "description": "Topeliusbysten är klar att gjutas i brons, och Torkel Hellström skriver om den till kommittén.",
+      "people": [
+        "Torkel Hellström",
+        "Ville Vallgren",
+        "Wirtanen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "deacd3d0927e6d48c33420271821b38ee9701f9bbe476de431af0fa866be2766",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

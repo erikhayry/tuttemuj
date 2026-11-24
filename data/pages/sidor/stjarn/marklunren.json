@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/marklunren.html",
+  "title": "Renovering av en ”Marklundare”",
+  "summary": "Lars Pensar lät förnya papperet på en bleknad Marklundare, en Nykarlebystjärna av Edvin Marklund, i stället för att låta den vara blek. Sex steg visas i bild, från bleknad stjärna till en stjärna som nästan ser ut som en glasmålning.",
+  "topics": [
+    "renovering",
+    "nykarlebystjärna",
+    "papper",
+    "edvin marklund"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Topeliusesplanaden 11",
+      "description": "Stjärnan hänger på balkongen.",
+      "geo": {
+        "lat": 63.5227604,
+        "lng": 22.531258,
+        "match": "address",
+        "gazetteerName": "topeliusesplanaden 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Renoverad Marklundare hänger på balkongen",
+      "date": {
+        "year": 2009,
+        "month": 12,
+        "circa": false,
+        "text": "december 2009"
+      },
+      "description": "Den renoverade Marklundaren hänger på balkongen på Topeliusesplanaden 11.",
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Topeliusesplanaden"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2b7c07dc21f749de2186f31be9e381966ee486ca6a737ea20ba8772b60b3feef",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

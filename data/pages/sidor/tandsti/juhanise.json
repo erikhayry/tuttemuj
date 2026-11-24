@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/tandsti/juhanise.htm",
+  "title": "Tändsticksetiketter från Nykarleby tändsticksfabrik",
+  "summary": "Juhani Nymans samling av etiketter från Nykarleby tändsticksfabrik, verksam 1872–1905, visas här med datering av de flesta etiketterna. Juhani Nyman har cirka 10 av de omkring 15 kända varianterna.",
+  "topics": [
+    "tändsticksetiketter",
+    "tändsticksfabrik",
+    "samling"
+  ],
+  "people": [
+    {
+      "name": "Juhani Nyman",
+      "alternateNames": [],
+      "roles": [
+        "samlare"
+      ],
+      "description": "Samlar på etiketter och har bidragit med uppgifter och bilder."
+    },
+    {
+      "name": "Emil Sundell",
+      "alternateNames": [],
+      "roles": [
+        "tryckare"
+      ],
+      "description": "Trycker etiketterna."
+    },
+    {
+      "name": "Peter Sund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Bidragit med etiketter till samlingen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby tändsticksfabrik",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tändsticksfabriken inleder verksamheten",
+      "date": {
+        "year": 1873,
+        "circa": false,
+        "text": "år 1873"
+      },
+      "description": "Nykarleby tändsticksfabrik inleder sin verksamhet, och etiketterna från början av tillverkningen visar texten Farliga.",
+      "people": [
+        "Emil Sundell"
+      ],
+      "places": [
+        "Nykarleby tändsticksfabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "00d3e86c6910954687e157bc2e48bed042a06edb7cbb0dd267029ca607ccc3d2",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

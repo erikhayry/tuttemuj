@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/lindvallb.htm",
+  "title": "Nykarlebystjärna hos Lindvall, Kållby",
+  "summary": "Bert Lindvall i Kållby har en sjuuddig Nykarlebystjärna av Torsten Johnson. Stjärnan hängde förr mellan husen men flyttades när stora snöplogar kom för nära.",
+  "topics": [
+    "nykarlebystjärna",
+    "kållby",
+    "snöplog"
+  ],
+  "people": [
+    {
+      "name": "Bert Lindvall",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Torsten Johnson",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Tillverkade stjärnan på 1970-talet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kållby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Torsten Johnson tillverkar stjärnan",
+      "date": {
+        "year": 1970,
+        "endYear": 1979,
+        "circa": false,
+        "text": "nångång på 1970-talet"
+      },
+      "description": "Torsten Johnson tillverkar den sjuuddiga Nykarlebystjärnan som senare hänger i Kållby.",
+      "people": [
+        "Torsten Johnson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "b9565550b769acba64537be144a576bb384bb45487b25ba81da6672a41470c9e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

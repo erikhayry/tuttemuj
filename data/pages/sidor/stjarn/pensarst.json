@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/pensarst.htm",
+  "title": "Nykarlebystjärna i Nykarleby, Pensar",
+  "summary": "Lars Pensar har gjort en sjuuddig Nykarlebystjärna av brunt omslagspapper som hänger vid Klockaregränd. Han har också en femuddig stjärna, troligen av J. Nilsson, på gaveln.",
+  "topics": [
+    "nykarlebystjärna",
+    "papper",
+    "vindflöjel",
+    "klockaregränd"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gjorde den sjuuddiga stjärnan med kolorerat omslagspapper."
+    },
+    {
+      "name": "J. Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Troligen tillverkare av den femuddiga stjärnan på gaveln."
+    }
+  ],
+  "places": [
+    {
+      "name": "Klockaregränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51818359999999,
+        "lng": 22.5337715,
+        "match": "name",
+        "gazetteerName": "klockaregränd",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "355621afdcef3e0e04121a5bd2362deac25651ce19771911bb0ebb3cfc8f5044",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

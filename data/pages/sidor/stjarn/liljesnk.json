@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/liljesnk.htm",
+  "title": "Nykarlebystjärnan i Nykarleby, Liljeström",
+  "summary": "Sedan början av 1970-talet har familjen Liljeström på Gustav Adolfsgatan 41 en stjärna av Edvin Marklund. De första åren hängde den i flaggstången.",
+  "topics": [
+    "nykarlebystjärna",
+    "julbelysning",
+    "gustav adolfsgatan"
+  ],
+  "people": [
+    {
+      "name": "Edvin Marklund",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Tillverkade stjärnan på Gustav Adolfsgatan 41."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 41",
+      "geo": {
+        "lat": 63.52667,
+        "lng": 22.5352688,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 41",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Museets stjärnupphängning förebild för familjens.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "646d39f56f688efb6993fcf7fcdae40eb2e7c281166dcf0bdb0f1e49c52b6932",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

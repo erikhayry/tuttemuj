@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/storbron.htm",
+  "title": "Nykarlebystjärna vid Storbron",
+  "summary": "En stor stjärna över storbron dök upp på 1950-talet, troligen ur ett lager och med okänt ursprung. Den hängde där i tre eller fyra år, och en gång togs den ner mitt i julfirandet efter stormskador.",
+  "topics": [
+    "storbron",
+    "julstjärna",
+    "stormskador",
+    "nykarlebystjärna"
+  ],
+  "people": [
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilder."
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kommenterade bilderna."
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stjärnan hängde över bron.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Grundfelds gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Möjligt ursprung till stjärnan, om den kom till staden vid förvärvet av gården."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stjärnan dyker upp över storbron",
+      "date": {
+        "year": 1950,
+        "endYear": 1959,
+        "circa": false,
+        "text": "på 1950-talet"
+      },
+      "description": "En cirka 120 cm stor stjärna dyker upp över storbron.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "0e558497098c2f6fce6372c861297055ff2967b1ca29f470da912fb225c96d3c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

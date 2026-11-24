@@ -1,0 +1,86 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/muntery.htm",
+  "title": "Nykarlebystjärna hos Munter-Riissanen, Örviken",
+  "summary": "En Nykarlebystjärna av Runar Renvall hänger i fönstret i Örviken i Skellefteå, med utsikt över Bottenviken. Den flyttade dit med snickaren Harry Riissanen.",
+  "topics": [
+    "nykarlebystjärna",
+    "skellefteå",
+    "utlandet"
+  ],
+  "people": [
+    {
+      "name": "Yvonne Munter",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Född Sund; dotter till Helmer och Ebba Sund."
+    },
+    {
+      "name": "Harry Riissanen",
+      "alternateNames": [],
+      "roles": [
+        "snickare"
+      ]
+    },
+    {
+      "name": "Runar Renvall",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Enligt Harry Riissanen tillverkare av stjärnan."
+    },
+    {
+      "name": "Helmer Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ebba Sund",
+      "alternateNames": [
+        "Ebba Gleisner"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Örviken",
+      "kind": "village",
+      "alternateNames": [],
+      "description": "Område i Skellefteå."
+    },
+    {
+      "name": "Skellefteå",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Lycksele",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Helmer och Ebba Sund flyttar till Lycksele",
+      "date": {
+        "year": 1958,
+        "circa": false,
+        "text": "1958"
+      },
+      "description": "Helmer och Ebba Sund flyttar till Lycksele.",
+      "people": [
+        "Helmer Sund",
+        "Ebba Sund"
+      ],
+      "places": [
+        "Lycksele"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "76360943dd0e096d4cc9b5cfb2849e36c8eee948a65e07430013f3025d0dcdbe",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

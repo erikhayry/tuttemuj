@@ -1,0 +1,53 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/konsten/dobeln_bbh.html",
+  "title": "Georg Carl von Döbeln av Bertil Bull Hedlund",
+  "summary": "En etsning av Bertil Bull Hedlund visar Georg Carl von Döbeln omgiven av riksvapen och platser ur hans liv, bland dem Juthas 1808. Verket är troligen gjort mellan 1914 och 1922.",
+  "topics": [
+    "etsning",
+    "konst",
+    "döbeln",
+    "1808–09 års krig"
+  ],
+  "people": [
+    {
+      "name": "Georg Carl von Döbeln",
+      "alternateNames": [],
+      "roles": [
+        "befälhavare"
+      ],
+      "description": "Porträtterad i etsningen; befälhavare på Åland 1809."
+    },
+    {
+      "name": "Bertil Bull Hedlund",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Gjorde etsningen."
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas",
+      "kind": "district",
+      "alternateNames": [
+        "Juutas"
+      ],
+      "description": "Nämns i etsningen med årtalet 1808.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "75e765cd9201b68e151601c6b788da9e754b0d19e8dd6bb775501b9c988a26bc",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

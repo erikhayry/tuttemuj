@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/normengamla.html",
+  "title": "Normens gamla Nykarlebystjärna",
+  "summary": "En stor, gammal Nykarlebystjärna med fransar hittades på vinden på Normen i samband med en vindsröjning och ska få ny plats på museet. Den har troligen varit teaterrekvisita eller dekor.",
+  "topics": [
+    "nykarlebystjärna",
+    "normen",
+    "vind",
+    "museum"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade stjärnan och kom med uppgifter."
+    },
+    {
+      "name": "Oskar Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ],
+      "description": "Vaktmästare på Normen som visade stjärnan."
+    },
+    {
+      "name": "Rolf Herler",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Beställde en sexuddig stjärna till balkongen på Normen."
+    },
+    {
+      "name": "Göran Wikström",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Levererade stjärnan till Normens balkong."
+    }
+  ],
+  "places": [
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Dit stjärnan ska flyttas.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "615d1d08f0ee6e2604d418dc8252d4ec59d5100e7fe84bd0e8a957c7e6ff48b1",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brev/nordkvist34.html",
+  "title": "Tackbrev från Anna Nordkvist den 15/8 1934",
+  "summary": "Anna Nordkvist tackar i ett brev från 15 augusti 1934 för en gåva till barnhemmet i Nykarleby, som har en skuld på 10 000 mark. Hon hade drivit hemmet i 15½ år och överväger att sätta det på auktion, men väljer att vänta.",
+  "topics": [
+    "barnhem",
+    "brev",
+    "välgörenhet",
+    "1934"
+  ],
+  "people": [
+    {
+      "name": "Anna Nordkvist",
+      "alternateNames": [],
+      "roles": [
+        "föreståndare för barnhemmet"
+      ],
+      "description": "Skrev tackbrevet från Nykarleby."
+    },
+    {
+      "name": "Edit Gustavsson",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Mottagare av tackbrevet i Sverige."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Där brevet skrevs.",
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Anna Nordkvist skriver tackbrev",
+      "date": {
+        "year": 1934,
+        "month": 8,
+        "day": 15,
+        "circa": false,
+        "text": "15/8 1934"
+      },
+      "description": "Anna Nordkvist tackar för en gåva på 10 kronor till barnhemmet i Nykarleby.",
+      "people": [
+        "Anna Nordkvist",
+        "Edit Gustavsson"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Anna Nordkvist driver barnhemmet i Nykarleby i över femton år och har en skuld på 10 000 mark som ska betalas inom två veckor. Hon överväger att sätta hemmet på auktion, men de små barnen tror på att Gud ska hjälpa dem.",
+    "reason": "Ett litet vardagsdrama med barn, skuld och tro som ger en stark känsla och en möjlig kamp om hemmet.",
+    "characters": [
+      "Anna Nordkvist"
+    ],
+    "places": [
+      "Nykarleby"
+    ]
+  },
+  "contentHash": "badc5557e7227ddd38254f7f1c29c4e3a6721ce999fad01c213a471930513de9",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,177 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/brev/hilda_olsons_brev.html",
+  "title": "Hilda Olsons brev till Finland",
+  "summary": "Hilda Olsons brev från London till släkten i Finland har digitaliserats och avskrivits av Stefan Fors. Hilda Olson, född 1832 i Nykarleby, skrev om hur allt gick i Norden långt borta från hemtrakten.",
+  "topics": [
+    "hilda olson",
+    "brev",
+    "london",
+    "konstnär",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "birthYear": 1832,
+      "deathYear": 1915,
+      "roles": [
+        "konstnär"
+      ],
+      "description": "Skrev brev från London; hennes naturvetenskapliga arbeten visades i Helsingfors 2025."
+    },
+    {
+      "name": "Stefan Fors",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Digitaliserade och avskrev breven."
+    },
+    {
+      "name": "Olof Olson",
+      "alternateNames": [
+        "Ole Olsen"
+      ],
+      "roles": [
+        "sjökapten"
+      ],
+      "description": "Hildas far."
+    },
+    {
+      "name": "Catharina Palm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hildas mor."
+    },
+    {
+      "name": "Sofia Backlund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Hildas syster; drev fattigskolan i Langraden på Källbacken under 1860–70-talen."
+    },
+    {
+      "name": "Alma Hongell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Sofias dotter, gift med Gustaf Hongell."
+    },
+    {
+      "name": "Gustaf Hongell",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ],
+      "description": "Från Karleby."
+    },
+    {
+      "name": "Ada Hongell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotter till Alma och Gustaf Hongell; mottagare av breven."
+    },
+    {
+      "name": "Annie Hongell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Dotter till Alma och Gustaf Hongell; mottagare av breven."
+    },
+    {
+      "name": "Paul Hongell",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Son till Alma och Gustaf Hongell; mottagare av breven."
+    },
+    {
+      "name": "Julia Sofia Hackman",
+      "alternateNames": [],
+      "roles": [
+        "kommerserådinna"
+      ],
+      "description": "Mottagare av ett av breven."
+    }
+  ],
+  "places": [
+    {
+      "name": "Herlers museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Huset där familjen Olson bodde efter flytten till staden."
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Åminne gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "London",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingfors",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Olson-familjen flyttar till staden",
+      "date": {
+        "year": 1828,
+        "circa": false,
+        "text": "1828"
+      },
+      "description": "Familjen Olson flyttar till Nykarleby och bosätter sig i det som idag kallas Herlers museum.",
+      "people": [
+        "Olof Olson",
+        "Catharina Palm"
+      ],
+      "places": [
+        "Herlers museum"
+      ]
+    },
+    {
+      "title": "Hilda Olson föds i Nykarleby",
+      "date": {
+        "year": 1832,
+        "circa": false,
+        "text": "1832"
+      },
+      "description": "Hilda Olson föds i Nykarleby som yngsta barnet till sjökapten Olof Olson och Catharina Palm.",
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "2ecd0073ee83552e535548d0933a481c0b49bdbea07a6b883b0ea4552c835550",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

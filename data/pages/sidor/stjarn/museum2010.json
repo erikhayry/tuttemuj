@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/museum2010.html",
+  "title": "\"Björken och Stjärnan\" vid Nykarleby museum.",
+  "summary": "En Nykarlebystjärna sätts i en björk vid Nykarleby museum på en lutande stång genom klykan. Så brukade Sundarna ha den, enligt Göta Lundqvist.",
+  "topics": [
+    "nykarlebystjärna",
+    "museum",
+    "björken",
+    "hembygd"
+  ],
+  "people": [
+    {
+      "name": "Göta Lundqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Berättade hur Sundarna brukade hänga stjärnan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby museum",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "contentHash": "4e363329a52ea9468e0d7687b9a86d3580ca93f944a07ec30284365b54918d1e",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/lindroosk.html",
+  "title": "Nykarlebystjärna hos Lindroos & Sandström, Nykarleby",
+  "summary": "Kjell Lindroos och Ann-Sophie Sandström på Källbacken har en fotstjärna med asymmetriska uddar, troligen gjord av Karl Forsman. Stjärnan blev en lucka i adventskalendern 2012.",
+  "topics": [
+    "nykarlebystjärna",
+    "adventskalender",
+    "forsman"
+  ],
+  "people": [
+    {
+      "name": "Kjell Lindroos",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ann-Sophie Sandström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Forsman",
+      "alternateNames": [],
+      "roles": [
+        "stjärntillverkare"
+      ],
+      "description": "Troligen tillverkare av stjärnan."
+    }
+  ],
+  "places": [
+    {
+      "name": "Källbacken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Före detta Karl Forsmans gård.",
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mathesiusgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5230674,
+        "lng": 22.5377496,
+        "match": "name",
+        "gazetteerName": "mathesiusgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fotstjärna upptäcks vid Källbacken",
+      "date": {
+        "year": 2012,
+        "month": 7,
+        "day": 22,
+        "circa": false,
+        "text": "den 22 juli 2012"
+      },
+      "description": "En kvällspromenad leder till att en fotstjärna med asymmetriska uddar upptäcks vid Källbacken.",
+      "people": [
+        "Kjell Lindroos",
+        "Ann-Sophie Sandström"
+      ],
+      "places": [
+        "Källbacken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "3ca537cf916b2a65b09da74095c15b8cca4b8b2bbd4a77b2fd90edfaf729f41c",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/kuddna04.htm",
+  "title": "Nykarlebystjärna vid Kuddnäs, Nykarleby",
+  "summary": "Lars Pensar ogillade 2004 en ny stålbåge med stjärna vid Kuddnäs, medan den 2009 pryddes med en girland. Samma år gifte sig Åsa Torrkulla och Tommy Partapuoli i Nykarleby.",
+  "topics": [
+    "nykarlebystjärna",
+    "kuddnäs",
+    "bröllop",
+    "julpynt"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Fotograferade och kommenterade stålbågen vid Kuddnäs 2004."
+    },
+    {
+      "name": "Åsa Partapuoli",
+      "alternateNames": [
+        "Åsa Torrkulla"
+      ],
+      "roles": [],
+      "description": "Uppvuxen i Singsby, Korsholm; gifte sig i Nykarleby 2009."
+    },
+    {
+      "name": "Tommy Partapuoli",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Gifte sig med Åsa Torrkulla i Nykarleby 2009."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Ö i Nykarlebyskärgården där paret vistas på somrarna."
+    }
+  ],
+  "events": [
+    {
+      "title": "Lars Pensar fotograferar stålbågen vid Kuddnäs",
+      "date": {
+        "year": 2004,
+        "month": 12,
+        "day": 12,
+        "circa": false,
+        "text": "den 12 december 2004"
+      },
+      "description": "Lars Pensar fotograferar en ny stålbåge med stjärna i flaggstången vid Kuddnäs och ogillar materialvalet.",
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Bröllop i Nykarleby med girland vid Kuddnäs",
+      "date": {
+        "year": 2009,
+        "month": 7,
+        "day": 18,
+        "circa": false,
+        "text": "den 18 juli 2009"
+      },
+      "description": "Åsa Torrkulla och Tommy Partapuoli gifter sig i Nykarleby, och en girland pryder stålbågen vid Kuddnäs.",
+      "people": [
+        "Åsa Partapuoli",
+        "Tommy Partapuoli"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "294572c68962c29f755bdf686e266ab23c2e0549ec9da2584470916311b35fe6",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}

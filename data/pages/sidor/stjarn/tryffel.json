@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/stjarn/tryffel.html",
+  "title": "Tryffelask med Nykarlebystjärna",
+  "summary": "Ungdomsföretaget CHOCO UF, grundat av två elever vid Topeliusgymnasiet, säljer en tryffelask med Nykarlebystjärnan på locket. Asken är tryckt hos NYKOPRINT och tryffeln är tillverkad av Brunberg i Borgå.",
+  "topics": [
+    "tryffel",
+    "choco uf",
+    "ungdomsföretag",
+    "karameller"
+  ],
+  "people": [
+    {
+      "name": "Michelle Björkholm",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av grundarna av CHOCO UF."
+    },
+    {
+      "name": "Kim Blomqvist",
+      "alternateNames": [],
+      "roles": [],
+      "description": "En av grundarna av CHOCO UF."
+    },
+    {
+      "name": "Alfred Herler",
+      "alternateNames": [],
+      "roles": [
+        "karamellfabrikör"
+      ],
+      "description": "Hans karamellfabrik lades ner 1899."
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Tillhandahöll bilden."
+    }
+  ],
+  "places": [
+    {
+      "name": "Topeliusgymnasiet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Där tripp-trapp-trullhusen står.",
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Borgå",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Alfred Herlers karamellfabrik läggs ner",
+      "date": {
+        "year": 1899,
+        "circa": false,
+        "text": "1899"
+      },
+      "description": "Alfred Herlers karamellfabrik i Nykarleby läggs ner, och sedan dess har det inte funnits några Nykarlebykarameller.",
+      "people": [
+        "Alfred Herler"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "contentHash": "a7ab0d21cef8a30424cb9209f30d73b3597565f0fa6a88e5e9a1ce28cf00e791",
+  "extractionVersion": 1,
+  "model": "claude-haiku-5-5",
+  "extractedAt": "2026-11-24T03:11:00.402Z"
+}
