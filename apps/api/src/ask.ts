@@ -5,6 +5,7 @@ import {
   type Lang,
   SourceUrl,
 } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { z } from "zod";
 import { buildPrompt, type Fact, type Nearby } from "./facts.ts";
 
@@ -38,16 +39,17 @@ const SUGGESTIONS = 3;
 const SEARCH_RESULTS = 5;
 
 const toSuggestions = (facts: Fact[]) =>
-  facts
-    .slice(0, SUGGESTIONS)
-    .map((f) => ({ sourceUrl: SourceUrl.parse(f.sourceUrl), title: f.pageTitle }));
+  facts.slice(0, SUGGESTIONS).map((f) => ({
+    sourceUrl: Schema.decodeUnknownSync(SourceUrl)(f.sourceUrl),
+    title: f.pageTitle,
+  }));
 
 /**
  * Search mode, without Claude: the best matching pages with our own summaries and the links.
  * Costs nothing beyond the Voyage search.
  */
 const searchOnly = (req: AskRequest, facts: Fact[]): AskResponse =>
-  AskResponse.parse({
+  Schema.decodeUnknownSync(AskResponse)({
     mode: "search",
     answer: SEARCH_INTRO[req.lang],
     grounded: true,
@@ -102,10 +104,10 @@ export async function ask(
 
   const sources: AskSource[] = cited.map((n) => ({
     n,
-    sourceUrl: SourceUrl.parse((facts[n - 1] as Fact).sourceUrl),
+    sourceUrl: Schema.decodeUnknownSync(SourceUrl)((facts[n - 1] as Fact).sourceUrl),
     title: (facts[n - 1] as Fact).pageTitle,
   }));
-  return AskResponse.parse({
+  return Schema.decodeUnknownSync(AskResponse)({
     mode: "answer",
     answer: draft.answer,
     grounded: true,

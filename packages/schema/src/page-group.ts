@@ -1,8 +1,8 @@
-import { z } from "zod";
+import { Schema } from "effect";
 import { SourceUrl } from "./source.ts";
 
 /** Why two pages were judged to show the same thing. */
-export const DuplicateEvidence = z.enum([
+export const DuplicateEvidence = Schema.Literals([
   /** Same folder, filenames differing only in the last character. */
   "similar-filename",
   /** Both pages show exactly the same images. */
@@ -12,24 +12,22 @@ export const DuplicateEvidence = z.enum([
   /** An English-section page with the same images as a Swedish page. */
   "english-section",
 ]);
-export type DuplicateEvidence = z.infer<typeof DuplicateEvidence>;
+export type DuplicateEvidence = typeof DuplicateEvidence.Type;
 
 /**
  * Pages that repeat each other, e.g. a Swedish caption page and its English twin, or a map and its
  * enlargement (data/entities/page-groups.json). Answers should use the `primary` page's facts once.
  */
-export const PageGroup = z.object({
+export const PageGroup = Schema.Struct({
   /** The page to cite and use facts from: the Swedish original, or else the one with most facts. */
   primary: SourceUrl,
-  duplicates: z
-    .array(
-      z.object({
-        url: SourceUrl,
-        /** "english" for a translation of the primary, "variant" for e.g. a larger or smaller version. */
-        kind: z.enum(["english", "variant"]),
-        evidence: z.array(DuplicateEvidence).min(1),
-      }),
-    )
-    .min(1),
+  duplicates: Schema.Array(
+    Schema.Struct({
+      url: SourceUrl,
+      /** "english" for a translation of the primary, "variant" for e.g. a larger or smaller version. */
+      kind: Schema.Literals(["english", "variant"]),
+      evidence: Schema.Array(DuplicateEvidence).check(Schema.isMinLength(1)),
+    }),
+  ).check(Schema.isMinLength(1)),
 });
-export type PageGroup = z.infer<typeof PageGroup>;
+export type PageGroup = typeof PageGroup.Type;

@@ -199,6 +199,9 @@ importers:
       '@tuttemuj/schema':
         specifier: workspace:*
         version: link:../../packages/schema
+      effect:
+        specifier: ~4.1.5
+        version: 4.1.5
       hono:
         specifier: ^4.13.20
         version: 4.13.20
@@ -214,6 +217,9 @@ importers:
       cheerio:
         specifier: ^1.2.0
         version: 1.2.0
+      effect:
+        specifier: ~4.1.5
+        version: 4.1.5
       zod:
         specifier: ^4.6.7
         version: 4.6.7
@@ -222,13 +228,16 @@ importers:
     dependencies:
       '@supabase/supabase-js':
         specifier: ^2.119.2
-        version: 2.119.2
+        version: 2.119.2(@opentelemetry/api@1.10.0)
       '@tuttemuj/embeddings':
         specifier: workspace:*
         version: link:../../packages/embeddings
       '@tuttemuj/schema':
         specifier: workspace:*
         version: link:../../packages/schema
+      effect:
+        specifier: ~4.1.5
+        version: 4.1.5
       zod:
         specifier: ^4.6.7
         version: 4.6.7
@@ -238,15 +247,18 @@ importers:
       '@tuttemuj/schema':
         specifier: workspace:*
         version: link:../schema
+      effect:
+        specifier: ~4.1.5
+        version: 4.1.5
       zod:
         specifier: ^4.6.7
         version: 4.6.7
 
   packages/schema:
     dependencies:
-      zod:
-        specifier: ^4.6.7
-        version: 4.6.7
+      effect:
+        specifier: ~4.1.5
+        version: 4.1.5
 
 packages:
 
@@ -857,6 +869,9 @@ packages:
   domutils@3.2.2:
     resolution: {integrity: sha512-6kZKyUajlDuqlHKVX1w7gyslj9MPIXzIFiz/rGu35uC1wMi+kMhQwGhl4lt9unC9Vb9INnY9Z3/ZA3+FhASLaw==}
 
+  effect@4.1.5:
+    resolution: {integrity: sha512-xyR20KhQI0vg2gD8ILUSQRTTESEYJ0JKdP+QD8J37xbwPTqXRxFM/l0+vUVD9fuSvoYruoTqyt33C4FZv1s4TQ==}
+
   encoding-sniffer@0.2.1:
     resolution: {integrity: sha512-5gvq20T6vfpekVtqrYQsSCFZ1wEg5+wW0/QaZMWkFr6BqD3NfKs0rLCx4rrVlSWJeZb5NBJgVLswK/w2MWU+Gw==}
 
@@ -1442,14 +1457,6 @@ snapshots:
       iceberg-js: 0.8.1
       tslib: 2.8.1
 
-  '@supabase/supabase-js@2.119.2':
-    dependencies:
-      '@supabase/auth-js': 2.119.2
-      '@supabase/functions-js': 2.119.2
-      '@supabase/postgrest-js': 2.119.2
-      '@supabase/realtime-js': 2.119.2
-      '@supabase/storage-js': 2.119.2
-
   '@supabase/supabase-js@2.119.2(@opentelemetry/api@1.10.0)':
     dependencies:
       '@supabase/auth-js': 2.119.2
@@ -1607,6 +1614,8 @@ snapshots:
       dom-serializer: 2.0.0
       domelementtype: 2.3.0
       domhandler: 5.0.3
+
+  effect@4.1.5: {}
 
   encoding-sniffer@0.2.1:
     dependencies:

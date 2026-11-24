@@ -9,9 +9,9 @@
  */
 import { readFileSync } from "node:fs";
 import { serve } from "@hono/node-server";
-import { Lang } from "@tuttemuj/schema";
+import { Lang, safeDecode } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { Hono } from "hono";
-import { z } from "zod";
 import { addCase, judge, type Verdict, verdictOf } from "../review.ts";
 import { cachedRetrieval, loadCases, saveCases } from "./support.ts";
 
@@ -19,16 +19,16 @@ const PORT = 8788;
 const { db, retrieve } = cachedRetrieval();
 const page = readFileSync(new URL("./review.html", import.meta.url), "utf8");
 
-const Judge = z.object({
-  id: z.string(),
-  url: z.url(),
-  verdict: z.enum(["good", "bad", "clear"]),
+const Judge = Schema.Struct({
+  id: Schema.String,
+  url: Schema.String,
+  verdict: Schema.Literals(["good", "bad", "clear"]),
 });
-const NewCase = z.object({
-  question: z.string().trim().min(3).max(300),
+const NewCase = Schema.Struct({
+  question: Schema.Trim.check(Schema.isMinLength(3), Schema.isMaxLength(300)),
   lang: Lang,
-  lat: z.number().min(-90).max(90).optional(),
-  lng: z.number().min(-180).max(180).optional(),
+  lat: Schema.optionalKey(Schema.Number.check(Schema.isBetween({ minimum: -90, maximum: 90 }))),
+  lng: Schema.optionalKey(Schema.Number.check(Schema.isBetween({ minimum: -180, maximum: 180 }))),
 });
 
 const app = new Hono();
@@ -91,7 +91,7 @@ app.get("/api/cases/:id", async (c) => {
 });
 
 app.post("/api/judge", async (c) => {
-  const body = Judge.safeParse(await c.req.json().catch(() => null));
+  const body = safeDecode(Judge)(await c.req.json().catch(() => null));
   if (!body.success) return c.json({ error: "invalid request" }, 400);
   const { id, url, verdict } = body.data;
   saveCases(judge(loadCases(), id, url, verdict as Verdict));
@@ -99,7 +99,7 @@ app.post("/api/judge", async (c) => {
 });
 
 app.post("/api/cases", async (c) => {
-  const body = NewCase.safeParse(await c.req.json().catch(() => null));
+  const body = safeDecode(NewCase)(await c.req.json().catch(() => null));
   if (!body.success) return c.json({ error: "invalid request" }, 400);
   const before = loadCases();
   const after = addCase(before, body.data);

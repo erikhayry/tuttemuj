@@ -1,6 +1,7 @@
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { embed } from "@tuttemuj/embeddings";
 import type { AskRequest } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { z } from "zod";
 import type { Retrieve } from "./ask.ts";
 import type { Fact } from "./facts.ts";
@@ -63,12 +64,12 @@ export function personLabel(
 
 const check = <T>(
   what: string,
-  schema: z.ZodType<T>,
+  schema: z.ZodType<T> | ((data: unknown) => T),
   data: unknown,
   error: { message: string } | null,
 ): T => {
   if (error) throw new Error(`${what}: ${error.message}`);
-  return schema.parse(data);
+  return typeof schema === "function" ? schema(data) : schema.parse(data);
 };
 
 type Candidate = { score: number; eventIds: string[] };
@@ -106,7 +107,12 @@ export function supabaseRetrieve(
     const hits = check("search_embeddings", z.array(Hit), searched.data, searched.error).filter(
       (h) => h.kind !== "comic",
     );
-    const places = check("nearby_places", z.array(NearbyRow), around.data, around.error);
+    const places = check(
+      "nearby_places",
+      Schema.decodeUnknownSync(Schema.Array(NearbyRow)),
+      around.data,
+      around.error,
+    );
 
     // Distance to the closest place that mentions each page.
     const closeness = new Map<string, number>();

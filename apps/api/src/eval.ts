@@ -3,7 +3,7 @@
 export type CaseResult = {
   /** Source urls returned, best first. */
   ranked: string[];
-  relevant: string[];
+  relevant: readonly string[];
 };
 
 export type Score = {

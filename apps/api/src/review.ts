@@ -3,11 +3,16 @@ import type { EvalCase } from "@tuttemuj/schema";
 export type Verdict = "good" | "bad" | "clear";
 
 /** Mark one page as a good or bad answer to a question, or clear the mark. */
-export function judge(cases: EvalCase[], id: string, url: string, verdict: Verdict): EvalCase[] {
+export function judge(
+  cases: readonly EvalCase[],
+  id: string,
+  url: string,
+  verdict: Verdict,
+): EvalCase[] {
   if (!cases.some((c) => c.id === id)) throw new Error(`no such case: ${id}`);
   return cases.map((c) => {
     if (c.id !== id) return c;
-    const without = (list: string[]) => list.filter((u) => u !== url);
+    const without = (list: readonly string[]) => list.filter((u) => u !== url);
     return {
       ...c,
       relevant: verdict === "good" ? [...without(c.relevant), url] : without(c.relevant),
@@ -31,7 +36,7 @@ const slug = (text: string): string =>
 
 /** Add a question with nothing judged yet. The id is the question as a slug plus the language. */
 export function addCase(
-  cases: EvalCase[],
+  cases: readonly EvalCase[],
   q: Pick<EvalCase, "question" | "lang" | "lat" | "lng">,
 ): EvalCase[] {
   const base = `${slug(q.question) || "question"}-${q.lang}`;

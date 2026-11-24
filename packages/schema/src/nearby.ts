@@ -1,55 +1,66 @@
-import { z } from "zod";
+import { Effect, Schema } from "effect";
 import { HistoricalDate } from "./entities.ts";
 import { GazetteerKind } from "./gazetteer.ts";
 import { SourceUrl } from "./source.ts";
 
+/** A number that arrives as a string in a query string, or as a number in JSON. */
+// Zod: `z.coerce.number()`. Effect has no coerce flag: say which inputs are accepted (a number, or a
+// string parsed to a number). The decoded type is `number` either way.
+const Coerced = Schema.Union([Schema.Finite, Schema.FiniteFromString]);
+
 /** Query of GET /nearby. Values arrive as strings, so numbers are coerced. */
-export const NearbyQuery = z.object({
+export const NearbyQuery = Schema.Struct({
   /** Same bounds as GeoPoint: Nykarleby and its surroundings. */
-  lat: z.coerce.number().min(63.3).max(63.75),
-  lng: z.coerce.number().min(21.7).max(23.2),
+  lat: Coerced.check(Schema.isBetween({ minimum: 63.3, maximum: 63.75 })),
+  lng: Coerced.check(Schema.isBetween({ minimum: 21.7, maximum: 23.2 })),
   /** Metres. Walking distance by default. */
-  radius: z.coerce.number().int().min(10).max(2000).default(200),
-  limit: z.coerce.number().int().min(1).max(100).default(20),
+  radius: Coerced.check(Schema.isInt(), Schema.isBetween({ minimum: 10, maximum: 2000 })).pipe(
+    Schema.withDecodingDefaultKey(Effect.succeed(200)),
+  ),
+  limit: Coerced.check(Schema.isInt(), Schema.isBetween({ minimum: 1, maximum: 100 })).pipe(
+    Schema.withDecodingDefaultKey(Effect.succeed(20)),
+  ),
 });
-export type NearbyQuery = z.infer<typeof NearbyQuery>;
+export type NearbyQuery = typeof NearbyQuery.Type;
 
 /** A page that mentions a place: our own title and summary, and the link to read the original. */
-export const NearbyPage = z.object({
+export const NearbyPage = Schema.Struct({
   sourceUrl: SourceUrl,
-  title: z.string(),
-  summary: z.string(),
+  title: Schema.String,
+  summary: Schema.String,
 });
-export type NearbyPage = z.infer<typeof NearbyPage>;
+export type NearbyPage = typeof NearbyPage.Type;
 
 /** An event at a place, with the page it comes from. Description is our own wording. */
-export const NearbyEvent = z.object({
+export const NearbyEvent = Schema.Struct({
   sourceUrl: SourceUrl,
-  title: z.string(),
-  date: HistoricalDate.optional(),
-  description: z.string().optional(),
+  title: Schema.String,
+  date: Schema.optionalKey(HistoricalDate),
+  description: Schema.optionalKey(Schema.String),
 });
-export type NearbyEvent = z.infer<typeof NearbyEvent>;
+export type NearbyEvent = typeof NearbyEvent.Type;
 
-export const NearbyPlace = z.object({
-  id: z.string(),
-  name: z.string(),
+const NonNegativeInt = Schema.Int.check(Schema.isGreaterThanOrEqualTo(0));
+
+export const NearbyPlace = Schema.Struct({
+  id: Schema.String,
+  name: Schema.String,
   kind: GazetteerKind,
-  aliases: z.array(z.string()),
-  lat: z.number(),
-  lng: z.number(),
-  distanceM: z.number().int().min(0),
+  aliases: Schema.Array(Schema.String),
+  lat: Schema.Number,
+  lng: Schema.Number,
+  distanceM: NonNegativeInt,
   /** All pages mentioning the place; `pages` holds only the first few. */
-  pageCount: z.int().min(0),
-  pages: z.array(NearbyPage),
+  pageCount: NonNegativeInt,
+  pages: Schema.Array(NearbyPage),
   /** All events at the place; `events` holds the first few in date order, undated last. */
-  eventCount: z.int().min(0),
-  events: z.array(NearbyEvent),
+  eventCount: NonNegativeInt,
+  events: Schema.Array(NearbyEvent),
 });
-export type NearbyPlace = z.infer<typeof NearbyPlace>;
+export type NearbyPlace = typeof NearbyPlace.Type;
 
 /** Response of GET /nearby: the closest places first. Never contains page text. */
-export const NearbyResponse = z.object({
-  places: z.array(NearbyPlace),
+export const NearbyResponse = Schema.Struct({
+  places: Schema.Array(NearbyPlace),
 });
-export type NearbyResponse = z.infer<typeof NearbyResponse>;
+export type NearbyResponse = typeof NearbyResponse.Type;

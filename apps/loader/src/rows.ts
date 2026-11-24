@@ -20,7 +20,7 @@ export type PageRow = z.infer<typeof PageRow>;
 export const PlaceRow = z.object({
   id: z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/),
   name: z.string().min(1),
-  kind: GazetteerKind,
+  kind: z.enum(GazetteerKind.literals),
   aliases: z.array(z.string()),
   gazetteer_names: z.array(z.string()),
   /** EWKT for a PostGIS geography column, or null. */
@@ -71,7 +71,7 @@ export type Rows = {
 };
 
 /** `duplicate_of` per duplicate page, only where both pages have been analysed. */
-const duplicateMap = (groups: PageGroup[], known: Set<string>): Map<string, string> => {
+const duplicateMap = (groups: readonly PageGroup[], known: Set<string>): Map<string, string> => {
   const map = new Map<string, string>();
   for (const g of groups) {
     if (!known.has(g.primary)) continue;
@@ -87,7 +87,7 @@ export const toWkt = (p: { lat: number; lng: number }): string =>
  * Place ids by page and normalised name: every name of a place, on every page that mentions it.
  * An event names a place as written on its page, so this finds the place the page means.
  */
-const placeIndex = (places: PlaceEntity[]): Map<string, Map<string, Set<string>>> => {
+const placeIndex = (places: readonly PlaceEntity[]): Map<string, Map<string, Set<string>>> => {
   const index = new Map<string, Map<string, Set<string>>>();
   for (const place of places) {
     const names = [place.name, ...place.aliases].map(normalizeName);
@@ -102,9 +102,9 @@ const placeIndex = (places: PlaceEntity[]): Map<string, Map<string, Set<string>>
 
 /** Turn the files in `data/` into table rows. Links to pages that are not analysed are dropped. */
 export function buildRows(
-  pages: PageExtraction[],
-  places: PlaceEntity[],
-  groups: PageGroup[],
+  pages: readonly PageExtraction[],
+  places: readonly PlaceEntity[],
+  groups: readonly PageGroup[],
 ): Rows {
   const known = new Set(pages.map((p) => p.sourceUrl));
   const dupOf = duplicateMap(groups, known);
@@ -179,7 +179,7 @@ export function buildRows(
     for (const person of page.people) {
       const key = `${page.sourceUrl}\n${person.name}`;
       const before = pagePeople.get(key);
-      const union = (a: string[], b: string[]) => [...new Set([...a, ...b])];
+      const union = (a: readonly string[], b: readonly string[]) => [...new Set([...a, ...b])];
       pagePeople.set(
         key,
         PagePersonRow.parse({

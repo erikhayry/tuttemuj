@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import { createClient } from "@supabase/supabase-js";
 import { embed as voyageEmbed } from "@tuttemuj/embeddings";
 import { EMBEDDING_MODEL, type EvalCase, EvalSet } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { z } from "zod";
 import { supabaseRetrieve } from "../retrieve.ts";
 
@@ -15,10 +16,14 @@ const vectorsFile = `${cacheDir}/eval-embeddings.json`;
 export const readJson = (file: string): unknown =>
   existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : undefined;
 
-export const loadCases = (): EvalCase[] => EvalSet.parse(readJson(casesFile));
+export const loadCases = (): readonly EvalCase[] =>
+  Schema.decodeUnknownSync(EvalSet)(readJson(casesFile));
 
-export const saveCases = (cases: EvalCase[]): void => {
-  writeFileSync(casesFile, `${JSON.stringify(EvalSet.parse(cases), null, 2)}\n`);
+export const saveCases = (cases: readonly EvalCase[]): void => {
+  writeFileSync(
+    casesFile,
+    `${JSON.stringify(Schema.decodeUnknownSync(EvalSet)(cases), null, 2)}\n`,
+  );
 };
 
 export const env = () =>

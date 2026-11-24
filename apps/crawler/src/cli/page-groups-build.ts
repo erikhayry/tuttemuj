@@ -6,7 +6,7 @@
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { PageExtraction, PageGroup, SOURCE_ORIGIN } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 import { loadConfig } from "../config.ts";
 import { Frontier } from "../frontier.ts";
 import { groupDuplicatePages, type PageInfo } from "../pages/groups.ts";
@@ -17,7 +17,9 @@ const frontier = await Frontier.load(join(config.DATA_DIR, "frontier.jsonl"));
 const extracted = new Map<string, PageExtraction>();
 const dir = join(config.DATA_DIR, "pages");
 for (const file of (await readdir(dir, { recursive: true })).filter((f) => f.endsWith(".json"))) {
-  const page = PageExtraction.parse(JSON.parse(await readFile(join(dir, file), "utf8")));
+  const page = Schema.decodeUnknownSync(PageExtraction)(
+    JSON.parse(await readFile(join(dir, file), "utf8")),
+  );
   extracted.set(page.sourceUrl, page);
 }
 
@@ -37,7 +39,7 @@ const out = join(config.DATA_DIR, "entities");
 await mkdir(out, { recursive: true });
 await writeFile(
   join(out, "page-groups.json"),
-  `${JSON.stringify(z.array(PageGroup).parse(groups), null, 2)}\n`,
+  `${JSON.stringify(Schema.decodeUnknownSync(Schema.Array(PageGroup))(groups), null, 2)}\n`,
 );
 const dups = groups.reduce((n, g) => n + g.duplicates.length, 0);
 console.log(`${groups.length} groups, ${dups} duplicate pages (of ${infos.length} fetched).`);

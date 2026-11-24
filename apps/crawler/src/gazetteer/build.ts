@@ -5,9 +5,13 @@ import {
   type ManualPlace,
   type Nkby2018Sources,
   normalizeName,
+  safeDecode,
 } from "@tuttemuj/schema";
 
 export { normalizeName };
+
+/** A gazetteer entry while it is being assembled: decoded types are readonly. */
+type EntryDraft = { -readonly [K in keyof GazetteerEntry]: GazetteerEntry[K] };
 
 const AREA_KIND: Record<Nkby2018Sources["areas"][number]["type"], GazetteerKind> = {
   area: "district",
@@ -29,7 +33,10 @@ const FALLBACK_SHARED_BY = 5;
  * Merge the nkby-2018 files and the hand-made corrections into one sorted gazetteer, one entry per name.
  * Rejected source points are kept as `missingLocation` so they can be filled in by hand later.
  */
-export function buildGazetteer(src: Nkby2018Sources, manual: ManualPlace[] = []): GazetteerEntry[] {
+export function buildGazetteer(
+  src: Nkby2018Sources,
+  manual: readonly ManualPlace[] = [],
+): GazetteerEntry[] {
   const kinds = new Map<string, GazetteerKind>();
   for (const name of src.postalAreas) kinds.set(normalizeName(name), "village");
   for (const { type, localeNames } of src.areas) {
@@ -48,10 +55,10 @@ export function buildGazetteer(src: Nkby2018Sources, manual: ManualPlace[] = [])
     namesAtPoint.set(key, (namesAtPoint.get(key) ?? new Set()).add(normalizeName(name)));
   }
 
-  const entries = new Map<string, GazetteerEntry>();
+  const entries = new Map<string, EntryDraft>();
   const kindOf = (name: string): GazetteerKind =>
     kinds.get(name) ?? (/\d/.test(name) ? "address" : STREET.test(name) ? "street" : "other");
-  const entry = (name: string): GazetteerEntry => {
+  const entry = (name: string): EntryDraft => {
     let e = entries.get(name);
     if (!e) {
       e = { name, kind: kindOf(name), source: "nkby-2018" };
@@ -68,7 +75,7 @@ export function buildGazetteer(src: Nkby2018Sources, manual: ManualPlace[] = [])
     const e = entry(name);
     if (postcode && /^\d{5}$/.test(postcode)) e.postcode ??= postcode;
     if (!location || e.location) continue;
-    const point = GeoPoint.safeParse(location);
+    const point = safeDecode(GeoPoint)(location);
     const shared = namesAtPoint.get(pointKey(location))?.size ?? 0;
     if (!point.success) e.missingLocation = "outside-area";
     else if (shared >= FALLBACK_SHARED_BY) e.missingLocation = "geocoder-fallback";

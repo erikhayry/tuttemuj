@@ -2,7 +2,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { ManualPlace, Nkby2018 } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 import { loadConfig } from "../config.ts";
 import { buildGazetteer } from "../gazetteer/build.ts";
 import { gazetteerPath } from "../gazetteer/load.ts";
@@ -11,18 +11,18 @@ const config = loadConfig();
 const dir = join(config.DATA_DIR, "sources", "nkby-2018");
 const read = async (file: string) => JSON.parse(await readFile(join(dir, file), "utf8"));
 
-const manual = z
-  .array(ManualPlace)
-  .parse(
-    JSON.parse(await readFile(join(config.DATA_DIR, "sources", "manual-places.json"), "utf8")),
-  );
+const manual = Schema.decodeUnknownSync(Schema.Array(ManualPlace))(
+  JSON.parse(await readFile(join(config.DATA_DIR, "sources", "manual-places.json"), "utf8")),
+);
 
 const entries = buildGazetteer(
   {
-    geocodedLocales: Nkby2018.geocodedLocales.parse(await read("geocoded-locales.json")),
-    locales: Nkby2018.locales.parse(await read("locales.json")),
-    areas: Nkby2018.areas.parse(await read("areas.json")),
-    postalAreas: Nkby2018.postalAreas.parse(await read("postal-areas.json")),
+    geocodedLocales: Schema.decodeUnknownSync(Nkby2018.geocodedLocales)(
+      await read("geocoded-locales.json"),
+    ),
+    locales: Schema.decodeUnknownSync(Nkby2018.locales)(await read("locales.json")),
+    areas: Schema.decodeUnknownSync(Nkby2018.areas)(await read("areas.json")),
+    postalAreas: Schema.decodeUnknownSync(Nkby2018.postalAreas)(await read("postal-areas.json")),
   },
   manual,
 );

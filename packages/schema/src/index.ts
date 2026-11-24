@@ -1,4 +1,6 @@
 export * from "./ask.ts";
+export * from "./decode.ts";
+export * from "./defaults.ts";
 export * from "./embedding.ts";
 export * from "./entities.ts";
 export * from "./eval.ts";

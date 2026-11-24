@@ -1,4 +1,5 @@
 import { FrontierEntry, type SourceUrl } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { readJsonl, writeJsonl } from "./jsonl.ts";
 import { crawlPriority, isCrawlable } from "./url.ts";
 
@@ -32,7 +33,7 @@ export class Frontier {
   }
 
   update(entry: FrontierEntry): void {
-    this.entries.set(entry.url, FrontierEntry.parse(entry));
+    this.entries.set(entry.url, Schema.decodeUnknownSync(FrontierEntry)(entry));
   }
 
   /** Entries with a status: highest-priority section first, then fewest attempts, then URL. */

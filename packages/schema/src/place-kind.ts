@@ -1,6 +1,8 @@
-import { z } from "zod";
+import { Schema } from "effect";
 
-export const PlaceKind = z.enum([
+// Effect: a schema is a value, and the TypeScript type comes from it with `typeof X.Type`
+// (Zod: `z.infer<typeof X>`). `Literals` is Zod's `z.enum`; `.literals` is Zod's `.options`.
+export const PlaceKind = Schema.Literals([
   "street",
   "building",
   "farm",
@@ -11,4 +13,4 @@ export const PlaceKind = z.enum([
   "village",
   "other",
 ]);
-export type PlaceKind = z.infer<typeof PlaceKind>;
+export type PlaceKind = typeof PlaceKind.Type;

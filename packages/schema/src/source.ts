@@ -1,55 +1,70 @@
-import { z } from "zod";
+import { Schema } from "effect";
 
 /** Only pages on the original site are tracked. */
 export const SOURCE_ORIGIN = "https://www.nykarlebyvyer.nu";
 
-export const SourceUrl = z
-  .url({ protocol: /^https$/, hostname: /^www\.nykarlebyvyer\.nu$/ })
-  .describe("Normalized absolute URL on nykarlebyvyer.nu");
-export type SourceUrl = z.infer<typeof SourceUrl>;
+/** An ISO 8601 UTC timestamp, e.g. "2026-11-14T00:00:00Z" (same rule as Zod's `z.iso.datetime()`). */
+export const IsoDateTime = Schema.String.check(
+  Schema.isPattern(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/, {
+    description: "an ISO 8601 UTC timestamp",
+  }),
+);
+
+// Effect: validation is added with `.check(filter)` instead of Zod's chained methods
+// (`.regex()`, `.min()`). `isPattern` is `.regex()`; filters can be stacked in one `.check(a, b)`.
+export const SourceUrl = Schema.String.check(
+  Schema.isPattern(/^https:\/\/www\.nykarlebyvyer\.nu(?:[/?#]\S*)?$/, {
+    description: "an https URL on www.nykarlebyvyer.nu",
+  }),
+).annotate({ description: "Normalized absolute URL on nykarlebyvyer.nu" });
+export type SourceUrl = typeof SourceUrl.Type;
 
 /** A large image on a source page. Only a reference: images are never downloaded or rehosted. */
-export const ImageRef = z.object({
+export const ImageRef = Schema.Struct({
   url: SourceUrl,
   /** Size as declared by the page's <img width height>. */
-  width: z.int().positive(),
-  height: z.int().positive(),
-  alt: z.string().optional(),
+  width: Schema.Int.check(Schema.isGreaterThan(0)),
+  height: Schema.Int.check(Schema.isGreaterThan(0)),
+  // `optionalKey`: the key may be missing (Zod `.optional()`, but `undefined` is not accepted).
+  alt: Schema.optionalKey(Schema.String),
   /** Larger version, when the image is wrapped in <a href="...jpg">. */
-  fullUrl: SourceUrl.optional(),
+  fullUrl: Schema.optionalKey(SourceUrl),
 });
-export type ImageRef = z.infer<typeof ImageRef>;
+export type ImageRef = typeof ImageRef.Type;
 
-export const FrontierStatus = z.enum(["pending", "fetched", "failed", "gone"]);
-export type FrontierStatus = z.infer<typeof FrontierStatus>;
+export const FrontierStatus = Schema.Literals(["pending", "fetched", "failed", "gone"]);
+export type FrontierStatus = typeof FrontierStatus.Type;
+
+// `Schema.Int` already means "integer"; extra rules are stacked on with `.check`.
+const NonNegativeInt = Schema.Int.check(Schema.isGreaterThanOrEqualTo(0));
 
 /** One URL in the crawl frontier (data/frontier.jsonl). */
-export const FrontierEntry = z.object({
+export const FrontierEntry = Schema.Struct({
   url: SourceUrl,
   status: FrontierStatus,
-  discoveredAt: z.iso.datetime(),
-  discoveredFrom: SourceUrl.optional(),
-  attempts: z.int().nonnegative(),
-  lastAttemptAt: z.iso.datetime().optional(),
-  httpStatus: z.int().optional(),
+  discoveredAt: IsoDateTime,
+  discoveredFrom: Schema.optionalKey(SourceUrl),
+  attempts: NonNegativeInt,
+  lastAttemptAt: Schema.optionalKey(IsoDateTime),
+  httpStatus: Schema.optionalKey(Schema.Int),
   /** sha256 of the decoded page content, used for change detection. */
-  contentHash: z.string().optional(),
-  lastModified: z.string().optional(),
+  contentHash: Schema.optionalKey(Schema.String),
+  lastModified: Schema.optionalKey(Schema.String),
   /** Large images found on the page (small icons, arrows etc. are filtered out). */
-  images: z.array(ImageRef).optional(),
-  error: z.string().optional(),
+  images: Schema.optionalKey(Schema.Array(ImageRef)),
+  error: Schema.optionalKey(Schema.String),
 });
-export type FrontierEntry = z.infer<typeof FrontierEntry>;
+export type FrontierEntry = typeof FrontierEntry.Type;
 
 /** Summary of one crawl run (data/runs.jsonl). */
-export const CrawlRun = z.object({
-  startedAt: z.iso.datetime(),
-  finishedAt: z.iso.datetime(),
-  attempted: z.int().nonnegative(),
-  fetched: z.int().nonnegative(),
-  gone: z.int().nonnegative(),
-  failed: z.int().nonnegative(),
-  discovered: z.int().nonnegative(),
-  pendingAfter: z.int().nonnegative(),
+export const CrawlRun = Schema.Struct({
+  startedAt: IsoDateTime,
+  finishedAt: IsoDateTime,
+  attempted: NonNegativeInt,
+  fetched: NonNegativeInt,
+  gone: NonNegativeInt,
+  failed: NonNegativeInt,
+  discovered: NonNegativeInt,
+  pendingAfter: NonNegativeInt,
 });
-export type CrawlRun = z.infer<typeof CrawlRun>;
+export type CrawlRun = typeof CrawlRun.Type;

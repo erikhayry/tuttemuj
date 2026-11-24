@@ -5,29 +5,29 @@ import {
   type NearbyQuery,
   type NearbyResponse,
 } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 
 /** One row returned by the database function `public.nearby_places`. */
-export const NearbyRow = z.object({
-  id: z.string(),
-  name: z.string(),
+export const NearbyRow = Schema.Struct({
+  id: Schema.String,
+  name: Schema.String,
   kind: GazetteerKind,
-  aliases: z.array(z.string()),
-  lat: z.number(),
-  lng: z.number(),
-  distance_m: z.number(),
-  page_count: z.int(),
-  pages: z.array(NearbyPage),
-  event_count: z.int(),
-  events: z.array(NearbyEvent),
+  aliases: Schema.Array(Schema.String),
+  lat: Schema.Number,
+  lng: Schema.Number,
+  distance_m: Schema.Number,
+  page_count: Schema.Int,
+  pages: Schema.Array(NearbyPage),
+  event_count: Schema.Int,
+  events: Schema.Array(NearbyEvent),
 });
-export type NearbyRow = z.infer<typeof NearbyRow>;
+export type NearbyRow = typeof NearbyRow.Type;
 
 /** How the API reaches the database. Replaced in tests. */
 export type NearbySource = (query: NearbyQuery) => Promise<unknown>;
 
 export async function nearby(source: NearbySource, query: NearbyQuery): Promise<NearbyResponse> {
-  const rows = z.array(NearbyRow).parse(await source(query));
+  const rows = Schema.decodeUnknownSync(Schema.Array(NearbyRow))(await source(query));
   return {
     places: rows.map((r) => ({
       id: r.id,
