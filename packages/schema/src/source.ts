@@ -10,6 +10,8 @@ export const IsoDateTime = Schema.String.check(
   }),
 );
 
+// Effect: validation is added with `.check(filter)` instead of Zod's chained methods
+// (`.regex()`, `.min()`). `isPattern` is `.regex()`; filters can be stacked in one `.check(a, b)`.
 export const SourceUrl = Schema.String.check(
   Schema.isPattern(/^https:\/\/www\.nykarlebyvyer\.nu(?:[/?#]\S*)?$/, {
     description: "an https URL on www.nykarlebyvyer.nu",
@@ -23,6 +25,7 @@ export const ImageRef = Schema.Struct({
   /** Size as declared by the page's <img width height>. */
   width: Schema.Int.check(Schema.isGreaterThan(0)),
   height: Schema.Int.check(Schema.isGreaterThan(0)),
+  // `optionalKey`: the key may be missing (Zod `.optional()`, but `undefined` is not accepted).
   alt: Schema.optionalKey(Schema.String),
   /** Larger version, when the image is wrapped in <a href="...jpg">. */
   fullUrl: Schema.optionalKey(SourceUrl),
@@ -32,6 +35,7 @@ export type ImageRef = typeof ImageRef.Type;
 export const FrontierStatus = Schema.Literals(["pending", "fetched", "failed", "gone"]);
 export type FrontierStatus = typeof FrontierStatus.Type;
 
+// `Schema.Int` already means "integer"; extra rules are stacked on with `.check`.
 const NonNegativeInt = Schema.Int.check(Schema.isGreaterThanOrEqualTo(0));
 
 /** One URL in the crawl frontier (data/frontier.jsonl). */

@@ -4,6 +4,8 @@ import { Result, Schema } from "effect";
  * Decode JSON-like input and report failure as a message, without throwing.
  * A bridge for code that still branches on success; new code should use Effect directly (#50).
  */
+// Zod's `.safeParse()` returns `{ success, data | error }`. Effect has no such method: decoding is a
+// function you build once with `Schema.decodeUnknownResult(schema)` and then call on the input.
 export const safeDecode =
   <S extends Schema.ConstraintDecoder<unknown>>(schema: S) =>
   (input: unknown): { success: true; data: S["Type"] } | { success: false; message: string } => {

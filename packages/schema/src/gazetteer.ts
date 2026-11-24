@@ -2,6 +2,7 @@ import { Schema } from "effect";
 import { PlaceKind } from "./place-kind.ts";
 
 /** WGS84 point, limited to the Nykarleby area (incl. the outer archipelago). */
+// `Schema.Struct` is Zod's `z.object`. Number ranges use `isBetween` (Zod: `.min().max()`).
 export const GeoPoint = Schema.Struct({
   lat: Schema.Number.check(Schema.isBetween({ minimum: 63.3, maximum: 63.75 })),
   lng: Schema.Number.check(Schema.isBetween({ minimum: 21.7, maximum: 23.2 })),
@@ -59,6 +60,7 @@ export type IgnoredPlace = typeof IgnoredPlace.Type;
 
 /** Coordinates attached to a PlaceMention by matching it against the gazetteer. */
 export const PlaceGeo = Schema.Struct({
+  // `.fields` exposes a struct's field map, so it can be spread to extend it (Zod: `.extend()`).
   ...GeoPoint.fields,
   /** Matched on the place's address, or on its name / alternate names. */
   match: Schema.Literals(["address", "name"]),
@@ -69,6 +71,7 @@ export const PlaceGeo = Schema.Struct({
 export type PlaceGeo = typeof PlaceGeo.Type;
 
 /** Raw files in data/sources/nkby-2018 (see its README). */
+// A plain object of schemas, one per file. `(typeof X)[K]["Type"]` reads each schema's TypeScript type.
 export const Nkby2018 = {
   geocodedLocales: Schema.Array(
     Schema.Struct({

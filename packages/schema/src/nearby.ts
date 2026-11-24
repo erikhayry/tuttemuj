@@ -4,6 +4,8 @@ import { GazetteerKind } from "./gazetteer.ts";
 import { SourceUrl } from "./source.ts";
 
 /** A number that arrives as a string in a query string, or as a number in JSON. */
+// Zod: `z.coerce.number()`. Effect has no coerce flag: say which inputs are accepted (a number, or a
+// string parsed to a number). The decoded type is `number` either way.
 const Coerced = Schema.Union([Schema.Finite, Schema.FiniteFromString]);
 
 /** Query of GET /nearby. Values arrive as strings, so numbers are coerced. */

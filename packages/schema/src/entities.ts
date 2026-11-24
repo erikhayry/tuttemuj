@@ -11,6 +11,7 @@ const Day = Schema.Int.check(Schema.isBetween({ minimum: 1, maximum: 31 }));
  * A date as precise as the source allows, e.g. "ca 1850", "maj 1918".
  * A span ("1873–1971", "1830-talet", "1600-talet") has `year` as its start and `endYear` as its end.
  */
+// Effect: `Schema.Struct` fields are readonly in the TypeScript type, unlike Zod's object types.
 export const HistoricalDate = Schema.Struct({
   year: Schema.Int,
   month: Schema.optionalKey(Month),
@@ -20,11 +21,13 @@ export const HistoricalDate = Schema.Struct({
   circa: Schema.Boolean.pipe(Schema.withDecodingDefaultKey(Effect.succeed(false))),
   /** Original wording from the source. */
   text: Schema.optionalKey(Schema.String),
-}).check(
-  Schema.makeFilter(
-    (d) => d.endYear === undefined || d.endYear > d.year || "endYear must be after year",
-  ),
-);
+})
+  // A rule over the whole struct (Zod: `.refine()`): `true` is valid, a string is the error message.
+  .check(
+    Schema.makeFilter(
+      (d) => d.endYear === undefined || d.endYear > d.year || "endYear must be after year",
+    ),
+  );
 export type HistoricalDate = typeof HistoricalDate.Type;
 
 export const PersonMention = Schema.Struct({
@@ -51,6 +54,7 @@ export const PlaceMention = Schema.Struct({
 export type PlaceMention = typeof PlaceMention.Type;
 
 /** What the analyst writes for a place: everything except the geocoded location. */
+// `mapFields(Struct.omit([...]))` is Zod's `.omit()`; `Struct.assign` below is `.extend()`.
 export const PlaceMentionDraft = PlaceMention.mapFields(Struct.omit(["geo"]));
 export type PlaceMentionDraft = typeof PlaceMentionDraft.Type;
 
@@ -93,6 +97,7 @@ export const PageExtraction = Schema.Struct({
   places: ArrayWithDefault(PlaceMention),
   events: ArrayWithDefault(EventMention),
   /** null = assessed, not a comic candidate. Missing = not assessed (older extractions). */
+  // `NullOr` accepts `null` as a value (Zod `.nullable()`); `optionalKey` also allows the key to be missing.
   comicCandidate: Schema.optionalKey(Schema.NullOr(ComicCandidate)),
   contentHash: Schema.String,
   extractionVersion: Schema.Int.check(Schema.isGreaterThan(0)),

@@ -8,9 +8,11 @@ export type Lang = typeof Lang.Type;
 
 /** Body of POST /ask. Location is optional: a question can be asked from anywhere. */
 export const AskRequest = Schema.Struct({
+  // `Schema.Trim` decodes by trimming the string (Zod: `.trim()`); the length checks run on the result.
   question: Schema.Trim.check(Schema.isMinLength(3), Schema.isMaxLength(500)),
   lat: Schema.optionalKey(GeoPoint.fields.lat),
   lng: Schema.optionalKey(GeoPoint.fields.lng),
+  // Missing `lang` decodes to "sv". `.pipe(f)` is how Effect applies a modifier: `f(Lang)`.
   lang: Lang.pipe(Schema.withDecodingDefaultKey(Effect.succeed("sv" as const))),
 }).check(
   Schema.makeFilter(
