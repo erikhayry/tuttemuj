@@ -41,6 +41,30 @@ export const PersonMention = Schema.Struct({
 });
 export type PersonMention = typeof PersonMention.Type;
 
+/**
+ * The years something lasted, when the page states them. Both are optional: "bodde här fram till
+ * 1920" has only `endYear`. A single year is the same value in both.
+ */
+const YearSpanFields = {
+  startYear: Schema.optionalKey(Schema.Int),
+  endYear: Schema.optionalKey(Schema.Int),
+};
+const yearsInOrder = Schema.makeFilter<{ startYear?: number; endYear?: number }>(
+  (d) =>
+    d.startYear === undefined ||
+    d.endYear === undefined ||
+    d.endYear >= d.startYear ||
+    "endYear must not be before startYear",
+);
+
+/** What a place was used for (v1 button "Vad fanns här förr?"), e.g. "apotek", "skola". */
+export const PlaceUse = Schema.Struct({
+  /** Short, lowercase Swedish: the thing the place was, e.g. "bageri". */
+  use: Schema.NonEmptyString,
+  ...YearSpanFields,
+}).check(yearsInOrder);
+export type PlaceUse = typeof PlaceUse.Type;
+
 export const PlaceMention = Schema.Struct({
   name: Schema.NonEmptyString,
   kind: PlaceKind,
@@ -50,6 +74,12 @@ export const PlaceMention = Schema.Struct({
   description: Schema.optionalKey(Schema.String),
   /** Added by geocoding against data/gazetteer.json, never by the analyst. */
   geo: Schema.optionalKey(PlaceGeo),
+  // The fields below are for v1 (#53). They are optional so older page files stay valid:
+  // missing means "not assessed", an empty list means "assessed, nothing found".
+  /** What the place was used for, with years when stated. */
+  uses: Schema.optionalKey(Schema.Array(PlaceUse)),
+  /** Where the name comes from, in our own words (Swedish, one sentence). Only if the page explains it. */
+  nameOrigin: Schema.optionalKey(Schema.NonEmptyString),
 });
 export type PlaceMention = typeof PlaceMention.Type;
 
@@ -68,6 +98,51 @@ export const EventMention = Schema.Struct({
   places: ArrayWithDefault(Schema.String),
 });
 export type EventMention = typeof EventMention.Type;
+
+/** How a person is tied to a place (v1 buttons "Vem bodde här?" and "Vem arbetade här?"). */
+export const PersonPlaceRelationKind = Schema.Literals([
+  "lived",
+  "owned",
+  "built",
+  "ran",
+  "worked",
+  "born",
+  "died",
+]);
+export type PersonPlaceRelationKind = typeof PersonPlaceRelationKind.Type;
+
+export const PersonPlaceRelation = Schema.Struct({
+  /** Name matching PersonMention.name */
+  person: Schema.NonEmptyString,
+  /** Name matching PlaceMention.name */
+  place: Schema.NonEmptyString,
+  relation: PersonPlaceRelationKind,
+  ...YearSpanFields,
+}).check(yearsInOrder);
+export type PersonPlaceRelation = typeof PersonPlaceRelation.Type;
+
+/** What one image on the page shows, when the page says (v1 button "Visa gamla bilder härifrån"). */
+export const ImageFact = Schema.Struct({
+  /** The number in the `[bild n]` marker of the extraction text (see #52). */
+  image: Schema.Int.check(Schema.isGreaterThan(0)),
+  /** Names matching PlaceMention.name */
+  places: ArrayWithDefault(Schema.String),
+  /** The year the image was made or shows, when stated. */
+  year: Schema.optionalKey(Schema.Int),
+});
+export type ImageFact = typeof ImageFact.Type;
+
+/** What kind of page it is. Used to find stories, photos and maps. */
+export const PageType = Schema.Literals([
+  "photo",
+  "postcard",
+  "map",
+  "story",
+  "article",
+  "list",
+  "menu",
+]);
+export type PageType = typeof PageType.Type;
 
 /** A page whose story could be retold as a comic (used by a separate comics project). */
 export const ComicCandidate = Schema.Struct({
@@ -99,6 +174,10 @@ export const PageExtraction = Schema.Struct({
   /** null = assessed, not a comic candidate. Missing = not assessed (older extractions). */
   // `NullOr` accepts `null` as a value (Zod `.nullable()`); `optionalKey` also allows the key to be missing.
   comicCandidate: Schema.optionalKey(Schema.NullOr(ComicCandidate)),
+  // v1 fields (#53). Optional: pages extracted before v1 do not have them (see `enrichments`, #54).
+  pageType: Schema.optionalKey(PageType),
+  relations: Schema.optionalKey(Schema.Array(PersonPlaceRelation)),
+  images: Schema.optionalKey(Schema.Array(ImageFact)),
   contentHash: Schema.String,
   extractionVersion: Schema.Int.check(Schema.isGreaterThan(0)),
   model: Schema.String,

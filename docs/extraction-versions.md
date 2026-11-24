@@ -21,4 +21,15 @@ The first full extraction. Per page:
 - `comicCandidate`: always decided (`null` or a candidate with pitch and reason).
 - Only facts the page states. Nothing is filled in from memory.
 
+### Next (not released): v1 fields
+
+The schema already accepts these optional fields (#53), but the skill does not ask for them yet and `EXTRACTION_VERSION` is not bumped, so no page is queued again. #55 updates the skill and bumps the version for new pages; #54 adds them to old pages with an add-on pass.
+
+- `pageType`: photo, postcard, map, story, article, list or menu.
+- `relations`: person–place relations (lived, owned, built, ran, worked, born, died) with `startYear` and `endYear` when stated.
+- `images`: per image (`[bild n]`), the places it shows and its year.
+- On each place: `uses` (what it was used for, with years) and `nameOrigin`.
+
+Missing means "not assessed"; an empty list means "assessed, nothing found".
+
 Add-on passes (`/enrich-pages`, #54) get their own versions here once they exist.
