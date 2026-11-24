@@ -1,0 +1,199 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/abonde/div/lararpro.htm",
+  "title": "Lärarprofiler i Nykarleby av Johannes Åbonde",
+  "summary": "Johannes Åbonde presenterar i en artikel från 1973 lärare och andra anställda vid Nykarleby seminarium som inte fick plats i ett festtal, med korta karaktäristiker av deras undervisning och person.",
+  "topics": [
+    "seminariet",
+    "lärarutbildning",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Adolf Fredrik Mennander",
+      "alternateNames": [],
+      "roles": [
+        "lektor i matematik och naturkunskap"
+      ]
+    },
+    {
+      "name": "Lars Arne Jernström",
+      "alternateNames": [],
+      "roles": [
+        "lektor i teckning, slöjd och kalligrafi"
+      ]
+    },
+    {
+      "name": "Runar Alfons Ingberg",
+      "alternateNames": [],
+      "roles": [
+        "lektor i gymnastik, idrott och hälsolära"
+      ]
+    },
+    {
+      "name": "Berndt Gunnar Wikström",
+      "alternateNames": [],
+      "roles": [
+        "lektor i sång och musik"
+      ]
+    },
+    {
+      "name": "Sigurd Viktor Sahlberg",
+      "alternateNames": [],
+      "roles": [
+        "lektor i geografi, naturalhistoria och lanthushållning"
+      ]
+    },
+    {
+      "name": "Gunnar Emil Erland Forsander",
+      "alternateNames": [],
+      "roles": [
+        "lektor i geografi och naturalhistoria"
+      ]
+    },
+    {
+      "name": "Karl Valdemar Bergman",
+      "alternateNames": [],
+      "roles": [
+        "trädgårdsmästare"
+      ]
+    },
+    {
+      "name": "Otto Georg Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "lärare och överlärare vid övningsskolan"
+      ]
+    },
+    {
+      "name": "Ellen Sofia Backman",
+      "alternateNames": [],
+      "roles": [
+        "lärare i övningsskolans lägre klasser"
+      ]
+    },
+    {
+      "name": "Johannes Åbonde",
+      "alternateNames": [],
+      "roles": [
+        "skolråd"
+      ]
+    },
+    {
+      "name": "Carl-Eric Thors",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariets övningsskola",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Minnesfest för seminariets hundraårsjubileum",
+      "date": {
+        "year": 1973,
+        "month": 8,
+        "day": 5,
+        "circa": false
+      },
+      "description": "I Nykarleby hölls en minnesfest med anledning av att hundra år gått sedan folkskollärarseminariet började sin verksamhet; professor Carl-Eric Thors höll festtalet.",
+      "people": [
+        "Carl-Eric Thors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Adolf Fredrik Mennander",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1896,
+      "endYear": 1925
+    },
+    {
+      "person": "Lars Arne Jernström",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1922,
+      "endYear": 1937
+    },
+    {
+      "person": "Runar Alfons Ingberg",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1935,
+      "endYear": 1953
+    },
+    {
+      "person": "Berndt Gunnar Wikström",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1920,
+      "endYear": 1930
+    },
+    {
+      "person": "Sigurd Viktor Sahlberg",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1920,
+      "endYear": 1936
+    },
+    {
+      "person": "Gunnar Emil Erland Forsander",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1937,
+      "endYear": 1956
+    },
+    {
+      "person": "Karl Valdemar Bergman",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1910,
+      "endYear": 1940
+    },
+    {
+      "person": "Otto Georg Holmberg",
+      "place": "Seminariets övningsskola",
+      "relation": "worked",
+      "startYear": 1921,
+      "endYear": 1956
+    },
+    {
+      "person": "Ellen Sofia Backman",
+      "place": "Seminariets övningsskola",
+      "relation": "worked",
+      "startYear": 1928,
+      "endYear": 1958
+    }
+  ],
+  "images": [],
+  "contentHash": "fa44b1dafe9e9b563f820890c1f6105b0ba4041c5c99fbcb798c89832b64c4af",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-24T20:35:10.530Z"
+}

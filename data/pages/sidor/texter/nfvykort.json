@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/nfvykort.htm",
+  "title": "Vykort enligt Nordisk familjebok 1921",
+  "summary": "Ett uppslagsverksavsnitt från 1921 om vykortets och brefkortets uppkomst, från de första förslagen på 1860-talet till vykortens genombrott och spridning.",
+  "topics": [
+    "vykort",
+    "post",
+    "uppslagsverk"
+  ],
+  "people": [
+    {
+      "name": "Heinrich von Stephan",
+      "alternateNames": [],
+      "roles": [
+        "tysk postreformator"
+      ]
+    },
+    {
+      "name": "Emanuel Herrmann",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ],
+      "description": "Väckte 1869 förslaget om brefkort i Österrike."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Stephan föreslår brefkort",
+      "date": {
+        "year": 1865,
+        "circa": false
+      },
+      "description": "Den tyske postreformatorn Heinrich von Stephan föreslog 1865 att brefkort skulle införas i posttrafiken.",
+      "people": [
+        "Heinrich von Stephan"
+      ],
+      "places": []
+    },
+    {
+      "title": "Brefkort föreslås i Österrike",
+      "date": {
+        "year": 1869,
+        "circa": false
+      },
+      "description": "Professor Emanuel Herrmann tog 1869 initiativ till brefkort i Österrike, där de snabbt togs i bruk med billigare porto.",
+      "people": [
+        "Emanuel Herrmann"
+      ],
+      "places": []
+    },
+    {
+      "title": "Brefkorten införs i Sverige",
+      "date": {
+        "year": 1872,
+        "circa": false
+      },
+      "description": "Brefkorten infördes i Sverige vid ingången av 1872, först med samma porto som brev.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "47a9011dfc3decb941c8043d5cdfe2b03e411298dc15e511ea1bd373d353be02",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-24T20:35:10.530Z"
+}
