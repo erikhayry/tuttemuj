@@ -1,24 +1,28 @@
 import { fileURLToPath } from "node:url";
-import { SOURCE_ORIGIN } from "@tuttemuj/schema";
-import { z } from "zod";
+import { EnvUrl, envInt, envString, readEnv, SOURCE_ORIGIN } from "@tuttemuj/schema";
+import { Effect, Schema } from "effect";
 
 const REPO_ROOT = fileURLToPath(new URL("../../../", import.meta.url));
 
-const Config = z.object({
+const Config = Schema.Struct({
   /** Max URLs fetched per run (one run per night). */
-  CRAWL_LIMIT: z.coerce.number().int().positive().default(1000),
+  CRAWL_LIMIT: envInt(1000, Schema.isGreaterThan(0)),
   /** Pause between requests, to keep load on the source site low. */
-  CRAWL_DELAY_MS: z.coerce.number().int().min(1000).default(5000),
-  CRAWL_TIMEOUT_MS: z.coerce.number().int().positive().default(30_000),
+  CRAWL_DELAY_MS: envInt(5000, Schema.isGreaterThanOrEqualTo(1000)),
+  CRAWL_TIMEOUT_MS: envInt(30_000, Schema.isGreaterThan(0)),
   /** Page with newly posted content. Re-fetched every run; links not yet known are crawled. */
-  ENTRY_URL: z.string().url().default(`${SOURCE_ORIGIN}/sidor/nyheter/nyinfort.htm`),
-  CRAWL_MAX_ATTEMPTS: z.coerce.number().int().positive().default(3),
-  USER_AGENT: z
-    .string()
-    .default("TuttemujBot/0.1 (+https://github.com/erikhayry/tuttemuj; polite nightly crawl)"),
-  DATA_DIR: z.string().default(`${REPO_ROOT}data`),
-  CACHE_DIR: z.string().default(`${REPO_ROOT}.cache`),
+  ENTRY_URL: EnvUrl.pipe(
+    Schema.withDecodingDefaultTypeKey(
+      Effect.succeed(`${SOURCE_ORIGIN}/sidor/nyheter/nyinfort.htm`),
+    ),
+  ),
+  CRAWL_MAX_ATTEMPTS: envInt(3, Schema.isGreaterThan(0)),
+  USER_AGENT: envString(
+    "TuttemujBot/0.1 (+https://github.com/erikhayry/tuttemuj; polite nightly crawl)",
+  ),
+  DATA_DIR: envString(`${REPO_ROOT}data`),
+  CACHE_DIR: envString(`${REPO_ROOT}.cache`),
 });
-export type Config = z.infer<typeof Config>;
+export type Config = typeof Config.Type;
 
-export const loadConfig = (env: NodeJS.ProcessEnv = process.env): Config => Config.parse(env);
+export const loadConfig = (env: NodeJS.ProcessEnv = process.env): Config => readEnv(Config, env);

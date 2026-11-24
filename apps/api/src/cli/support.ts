@@ -3,9 +3,16 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { createClient } from "@supabase/supabase-js";
 import { embed as voyageEmbed } from "@tuttemuj/embeddings";
-import { EMBEDDING_MODEL, type EvalCase, EvalSet } from "@tuttemuj/schema";
+import {
+  EMBEDDING_MODEL,
+  EnvSecret,
+  type EvalCase,
+  EvalSet,
+  readEnv,
+  safeDecode,
+  supabaseEnvFields,
+} from "@tuttemuj/schema";
 import { Schema } from "effect";
-import { z } from "zod";
 import { supabaseRetrieve } from "../retrieve.ts";
 
 export const root = fileURLToPath(new URL("../../../../", import.meta.url));
@@ -27,24 +34,17 @@ export const saveCases = (cases: readonly EvalCase[]): void => {
 };
 
 export const env = () =>
-  z
-    .object({
-      SUPABASE_URL: z.url(),
-      SUPABASE_SECRET_KEY: z.string().min(20),
-      VOYAGE_API_KEY: z.string().min(20),
-    })
-    .parse(process.env);
+  readEnv(Schema.Struct({ ...supabaseEnvFields, VOYAGE_API_KEY: EnvSecret }));
 
 /** Real retrieval, but a question asked before takes its embedding from .cache/. */
 export function cachedRetrieval() {
   const e = env();
-  const vectors = new Map<string, number[]>(
-    Object.entries(
-      z
-        .record(z.string(), z.array(z.number()))
-        .catch({})
-        .parse(readJson(vectorsFile) ?? {}),
-    ),
+  // A cache file that is missing or broken is treated as empty (Zod: `.catch({})`).
+  const cached = safeDecode(Schema.Record(Schema.String, Schema.Array(Schema.Number)))(
+    readJson(vectorsFile) ?? {},
+  );
+  const vectors = new Map<string, readonly number[]>(
+    Object.entries(cached.success ? cached.data : {}),
   );
   const cachedEmbed: typeof voyageEmbed = async (key, texts, inputType) => {
     const cacheKey = `${EMBEDDING_MODEL}|${texts[0]}`;

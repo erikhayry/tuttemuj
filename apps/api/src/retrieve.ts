@@ -2,7 +2,6 @@ import type { SupabaseClient } from "@supabase/supabase-js";
 import { embed } from "@tuttemuj/embeddings";
 import type { AskRequest } from "@tuttemuj/schema";
 import { Schema } from "effect";
-import { z } from "zod";
 import type { Retrieve } from "./ask.ts";
 import type { Fact } from "./facts.ts";
 import { NearbyRow } from "./nearby.ts";
@@ -19,28 +18,33 @@ const MAX_EVENTS_PER_PAGE = 3;
 /** Added to a page's similarity when it is at the user's location (less the further away it is). */
 const PROXIMITY_BONUS = 0.1;
 
-const Hit = z.object({
-  kind: z.enum(["page", "event", "comic"]),
-  ref: z.string(),
-  page_url: z.string(),
-  distance: z.number(),
+const Hit = Schema.Struct({
+  kind: Schema.Literals(["page", "event", "comic"]),
+  ref: Schema.String,
+  page_url: Schema.String,
+  distance: Schema.Number,
 });
-const Similarity = z.object({ page_url: z.string(), distance: z.number() });
-const PageRow = z.object({ source_url: z.string(), title: z.string(), summary: z.string() });
-const EventRow = z.object({
-  id: z.string(),
-  page_url: z.string(),
-  title: z.string(),
-  year: z.int().nullable(),
-  description: z.string().nullable(),
+const Similarity = Schema.Struct({ page_url: Schema.String, distance: Schema.Number });
+const PageRow = Schema.Struct({
+  source_url: Schema.String,
+  title: Schema.String,
+  summary: Schema.String,
 });
+const EventRow = Schema.Struct({
+  id: Schema.String,
+  page_url: Schema.String,
+  title: Schema.String,
+  year: Schema.NullOr(Schema.Int),
+  description: Schema.NullOr(Schema.String),
+});
+const PageLink = Schema.Struct({ page_url: Schema.String, place_id: Schema.String });
 
-const PersonRow = z.object({
-  page_url: z.string(),
-  name: z.string(),
-  birth_year: z.int().nullable(),
-  death_year: z.int().nullable(),
-  roles: z.array(z.string()),
+const PersonRow = Schema.Struct({
+  page_url: Schema.String,
+  name: Schema.String,
+  birth_year: Schema.NullOr(Schema.Int),
+  death_year: Schema.NullOr(Schema.Int),
+  roles: Schema.Array(Schema.String),
 });
 
 /** The most people shown per page, those with a role or years first. */
@@ -48,7 +52,7 @@ const MAX_PEOPLE_PER_PAGE = 8;
 
 /** "Name (1850–1920, role, role)": only what the page states. */
 export function personLabel(
-  p: Pick<z.infer<typeof PersonRow>, "name" | "birth_year" | "death_year" | "roles">,
+  p: Pick<typeof PersonRow.Type, "name" | "birth_year" | "death_year" | "roles">,
 ): string {
   const years =
     p.birth_year !== null && p.death_year !== null
@@ -62,14 +66,16 @@ export function personLabel(
   return details ? `${p.name} (${details})` : p.name;
 }
 
-const check = <T>(
+// Look at the database error first, then decode the rows. Decoding the whole array in one go means a
+// single bad row fails loudly, instead of a half-checked list flowing on (Zod: `z.array(X).parse`).
+const check = <S extends Schema.ConstraintDecoder<unknown>>(
   what: string,
-  schema: z.ZodType<T> | ((data: unknown) => T),
+  schema: S,
   data: unknown,
   error: { message: string } | null,
-): T => {
+): S["Type"] => {
   if (error) throw new Error(`${what}: ${error.message}`);
-  return typeof schema === "function" ? schema(data) : schema.parse(data);
+  return Schema.decodeUnknownSync(schema)(data);
 };
 
 type Candidate = { score: number; eventIds: string[] };
@@ -104,15 +110,13 @@ export function supabaseRetrieve(
           })
         : Promise.resolve({ data: [], error: null }),
     ]);
-    const hits = check("search_embeddings", z.array(Hit), searched.data, searched.error).filter(
-      (h) => h.kind !== "comic",
-    );
-    const places = check(
-      "nearby_places",
-      Schema.decodeUnknownSync(Schema.Array(NearbyRow)),
-      around.data,
-      around.error,
-    );
+    const hits = check(
+      "search_embeddings",
+      Schema.Array(Hit),
+      searched.data,
+      searched.error,
+    ).filter((h) => h.kind !== "comic");
+    const places = check("nearby_places", Schema.Array(NearbyRow), around.data, around.error);
 
     // Distance to the closest place that mentions each page.
     const closeness = new Map<string, number>();
@@ -135,12 +139,7 @@ export function supabaseRetrieve(
         .select("page_url,place_id")
         .in("place_id", namedIds)
         .limit(1000);
-      const links = check(
-        "page_places",
-        z.array(z.object({ page_url: z.string(), place_id: z.string() })),
-        data,
-        error,
-      );
+      const links = check("page_places", Schema.Array(PageLink), data, error);
       const perPlace = new Map<string, number>();
       for (const l of links) perPlace.set(l.place_id, (perPlace.get(l.place_id) ?? 0) + 1);
       for (const l of links) {
@@ -167,7 +166,7 @@ export function supabaseRetrieve(
         in_embedding: vector,
         in_pages: unseen,
       });
-      for (const s of check("page_similarity", z.array(Similarity), data, error)) {
+      for (const s of check("page_similarity", Schema.Array(Similarity), data, error)) {
         candidates.set(s.page_url, { score: 1 - s.distance, eventIds: [] });
       }
     }
@@ -203,11 +202,14 @@ export function supabaseRetrieve(
         )
         .limit(1000),
     ]);
-    const people = check("page_people", z.array(PersonRow), peopleRes.data, peopleRes.error);
+    const people = check("page_people", Schema.Array(PersonRow), peopleRes.data, peopleRes.error);
     const pages = new Map(
-      check("pages", z.array(PageRow), pageRes.data, pageRes.error).map((p) => [p.source_url, p]),
+      check("pages", Schema.Array(PageRow), pageRes.data, pageRes.error).map((p) => [
+        p.source_url,
+        p,
+      ]),
     );
-    const events = check("events", z.array(EventRow), eventRes.data, eventRes.error);
+    const events = check("events", Schema.Array(EventRow), eventRes.data, eventRes.error);
 
     const facts: Fact[] = [];
     for (const r of ranked) {

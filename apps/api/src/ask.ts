@@ -6,7 +6,6 @@ import {
   SourceUrl,
 } from "@tuttemuj/schema";
 import { Schema } from "effect";
-import { z } from "zod";
 import { buildPrompt, type Fact, type Nearby } from "./facts.ts";
 
 /** What retrieval found for a question, best first. */
@@ -14,13 +13,13 @@ export type Retrieved = { facts: Fact[]; nearby: Nearby | undefined };
 export type Retrieve = (req: AskRequest) => Promise<Retrieved>;
 
 /** What Claude must return. */
-export const Draft = z.object({
-  answerable: z.boolean(),
-  answer: z.string(),
+export const Draft = Schema.Struct({
+  answerable: Schema.Boolean,
+  answer: Schema.String,
   /** Numbers of the facts the answer cites. */
-  used: z.array(z.int()),
+  used: Schema.Array(Schema.Int),
 });
-export type Draft = z.infer<typeof Draft>;
+export type Draft = typeof Draft.Type;
 export type Answer = (prompt: string) => Promise<Draft>;
 
 const NO_FACTS: Record<Lang, string> = {
@@ -85,7 +84,9 @@ export async function ask(
   }
   if (!answer) return searchOnly(req, facts);
 
-  const draft = Draft.parse(await answer(buildPrompt(req.question, req.lang, facts, nearby)));
+  const draft = Schema.decodeUnknownSync(Draft)(
+    await answer(buildPrompt(req.question, req.lang, facts, nearby)),
+  );
 
   // Only real facts count as citations, each once, in the order they appear.
   const cited = [...new Set(draft.used)]

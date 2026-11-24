@@ -10,7 +10,8 @@
  * .cache/, so only new or changed questions call Voyage. No Claude call is made.
  */
 import { mkdirSync, writeFileSync } from "node:fs";
-import { z } from "zod";
+import { safeDecode } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { type Score, score, summarise } from "../eval.ts";
 import { cacheDir, cachedRetrieval, loadCases, readJson } from "./support.ts";
 
@@ -58,9 +59,9 @@ console.log(
 );
 console.log("✓ relevant page in the top 5   ~ in the top 8   ✗ not found   ● relevant   ○ other");
 
-const before = z
-  .object({ hitAt5: z.number(), mrr: z.number(), precisionAt5: z.number() })
-  .safeParse(readJson(lastFile));
+const before = safeDecode(
+  Schema.Struct({ hitAt5: Schema.Number, mrr: Schema.Number, precisionAt5: Schema.Number }),
+)(readJson(lastFile));
 if (before.success && langArg === undefined) {
   const d = (now: number, was: number) =>
     `${now >= was ? "+" : ""}${((now - was) * 100).toFixed(1)} pts`;

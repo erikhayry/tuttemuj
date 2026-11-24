@@ -9,7 +9,8 @@
  * Needs SUPABASE_URL, SUPABASE_SECRET_KEY and VOYAGE_API_KEY (gitignored .env). Never prints keys.
  */
 import { fileURLToPath } from "node:url";
-import { z } from "zod";
+import { EnvSecret, readEnv, supabaseEnvFields } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { embedItems, isNavigationPage } from "../embed-items.ts";
 import { embedMissing } from "../embed-sync.ts";
 import { readData } from "../read.ts";
@@ -21,11 +22,9 @@ const dryRun = args.includes("--dry-run");
 const limitAt = args.indexOf("--limit");
 const limit =
   limitAt >= 0
-    ? z.coerce
-        .number()
-        .int()
-        .positive()
-        .parse(args[limitAt + 1])
+    ? Schema.decodeUnknownSync(
+        Schema.FiniteFromString.check(Schema.isInt(), Schema.isGreaterThan(0)),
+      )(args[limitAt + 1])
     : Infinity;
 
 const { pages, places, groups } = await readData(dataDir);
@@ -42,13 +41,7 @@ console.log(
 if (dryRun) {
   console.log("Dry run: nothing sent.");
 } else {
-  const env = z
-    .object({
-      SUPABASE_URL: z.url(),
-      SUPABASE_SECRET_KEY: z.string().min(20),
-      VOYAGE_API_KEY: z.string().min(20),
-    })
-    .parse(process.env);
+  const env = readEnv(Schema.Struct({ ...supabaseEnvFields, VOYAGE_API_KEY: EnvSecret }));
   console.log(
     await embedMissing(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY, env.VOYAGE_API_KEY, items, limit),
   );

@@ -7,7 +7,8 @@
  * Needs SUPABASE_URL and SUPABASE_SECRET_KEY (in the gitignored .env). Never prints the key.
  */
 import { fileURLToPath } from "node:url";
-import { z } from "zod";
+import { readEnv, supabaseEnvFields } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { readData } from "../read.ts";
 import { buildRows } from "../rows.ts";
 import { syncRows } from "../sync.ts";
@@ -27,12 +28,7 @@ console.log(
 if (dryRun) {
   console.log("Dry run: nothing written.");
 } else {
-  const env = z
-    .object({
-      SUPABASE_URL: z.url(),
-      SUPABASE_SECRET_KEY: z.string().min(20),
-    })
-    .parse(process.env);
+  const env = readEnv(Schema.Struct(supabaseEnvFields));
   const result = await syncRows(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY, rows);
   console.log("Upserted:", result.upserted);
   console.log("Removed:", result.removed);

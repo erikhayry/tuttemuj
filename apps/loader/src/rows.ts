@@ -1,72 +1,74 @@
 import type { PageExtraction, PageGroup, PlaceEntity } from "@tuttemuj/schema";
-import { GazetteerKind, normalizeName } from "@tuttemuj/schema";
-import { z } from "zod";
+import { GazetteerKind, IsoDateTime, normalizeName } from "@tuttemuj/schema";
+import { Schema } from "effect";
 
 /** Rows as they are written to the tables in supabase/migrations. Only derived facts, never page text. */
-export const PageRow = z.object({
-  source_url: z.string(),
-  title: z.string(),
-  summary: z.string(),
-  topics: z.array(z.string()),
-  duplicate_of: z.string().nullable(),
-  comic_candidate: z.unknown().nullable(),
-  content_hash: z.string(),
-  extraction_version: z.int().positive(),
-  model: z.string(),
-  extracted_at: z.iso.datetime(),
+// Zod's `.nullable()` is `Schema.NullOr(...)`. The value is `null`, not a missing key, because
+// that is what the database returns and expects.
+export const PageRow = Schema.Struct({
+  source_url: Schema.String,
+  title: Schema.String,
+  summary: Schema.String,
+  topics: Schema.Array(Schema.String),
+  duplicate_of: Schema.NullOr(Schema.String),
+  comic_candidate: Schema.Unknown,
+  content_hash: Schema.String,
+  extraction_version: Schema.Int.check(Schema.isGreaterThan(0)),
+  model: Schema.String,
+  extracted_at: IsoDateTime,
 });
-export type PageRow = z.infer<typeof PageRow>;
+export type PageRow = typeof PageRow.Type;
 
-export const PlaceRow = z.object({
-  id: z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/),
-  name: z.string().min(1),
-  kind: z.enum(GazetteerKind.literals),
-  aliases: z.array(z.string()),
-  gazetteer_names: z.array(z.string()),
+export const PlaceRow = Schema.Struct({
+  id: Schema.String.check(Schema.isPattern(/^[a-z0-9]+(-[a-z0-9]+)*$/)),
+  name: Schema.NonEmptyString,
+  kind: GazetteerKind,
+  aliases: Schema.Array(Schema.String),
+  gazetteer_names: Schema.Array(Schema.String),
   /** EWKT for a PostGIS geography column, or null. */
-  location: z.string().nullable(),
+  location: Schema.NullOr(Schema.String),
 });
-export type PlaceRow = z.infer<typeof PlaceRow>;
+export type PlaceRow = typeof PlaceRow.Type;
 
-export const PagePlaceRow = z.object({ page_url: z.string(), place_id: z.string() });
-export type PagePlaceRow = z.infer<typeof PagePlaceRow>;
+export const PagePlaceRow = Schema.Struct({ page_url: Schema.String, place_id: Schema.String });
+export type PagePlaceRow = typeof PagePlaceRow.Type;
 
-export const EventRow = z.object({
+export const EventRow = Schema.Struct({
   /** "<source url>#<n>": the n-th event on the page. */
-  id: z.string(),
-  page_url: z.string(),
-  title: z.string(),
-  year: z.int().nullable(),
-  month: z.int().min(1).max(12).nullable(),
-  day: z.int().min(1).max(31).nullable(),
-  end_year: z.int().nullable(),
-  circa: z.boolean(),
-  description: z.string().nullable(),
-  people: z.array(z.string()),
+  id: Schema.String,
+  page_url: Schema.String,
+  title: Schema.String,
+  year: Schema.NullOr(Schema.Int),
+  month: Schema.NullOr(Schema.Int.check(Schema.isBetween({ minimum: 1, maximum: 12 }))),
+  day: Schema.NullOr(Schema.Int.check(Schema.isBetween({ minimum: 1, maximum: 31 }))),
+  end_year: Schema.NullOr(Schema.Int),
+  circa: Schema.Boolean,
+  description: Schema.NullOr(Schema.String),
+  people: Schema.Array(Schema.String),
 });
-export type EventRow = z.infer<typeof EventRow>;
+export type EventRow = typeof EventRow.Type;
 
-export const EventPlaceRow = z.object({ event_id: z.string(), place_id: z.string() });
-export type EventPlaceRow = z.infer<typeof EventPlaceRow>;
+export const EventPlaceRow = Schema.Struct({ event_id: Schema.String, place_id: Schema.String });
+export type EventPlaceRow = typeof EventPlaceRow.Type;
 
 /** A person as one page names them. People are not merged across pages. */
-export const PagePersonRow = z.object({
-  page_url: z.string(),
-  name: z.string().min(1),
-  alternate_names: z.array(z.string()),
-  birth_year: z.int().nullable(),
-  death_year: z.int().nullable(),
-  roles: z.array(z.string()),
-  description: z.string().nullable(),
+export const PagePersonRow = Schema.Struct({
+  page_url: Schema.String,
+  name: Schema.NonEmptyString,
+  alternate_names: Schema.Array(Schema.String),
+  birth_year: Schema.NullOr(Schema.Int),
+  death_year: Schema.NullOr(Schema.Int),
+  roles: Schema.Array(Schema.String),
+  description: Schema.NullOr(Schema.String),
 });
-export type PagePersonRow = z.infer<typeof PagePersonRow>;
+export type PagePersonRow = typeof PagePersonRow.Type;
 
 export type Rows = {
   pages: PageRow[];
   places: PlaceRow[];
-  pagePlaces: PagePlaceRow[];
+  pagePlaces: readonly PagePlaceRow[];
   events: EventRow[];
-  eventPlaces: EventPlaceRow[];
+  eventPlaces: readonly EventPlaceRow[];
   pagePeople: PagePersonRow[];
 };
 
@@ -111,7 +113,7 @@ export function buildRows(
 
   const pageRows = pages
     .map((p) =>
-      PageRow.parse({
+      Schema.decodeUnknownSync(PageRow)({
         source_url: p.sourceUrl,
         title: p.title,
         summary: p.summary,
@@ -127,7 +129,7 @@ export function buildRows(
     .sort((a, b) => a.source_url.localeCompare(b.source_url));
 
   const placeRows = places.map((p) =>
-    PlaceRow.parse({
+    Schema.decodeUnknownSync(PlaceRow)({
       id: p.id,
       name: p.name,
       kind: p.kind,
@@ -149,7 +151,7 @@ export function buildRows(
     page.events.forEach((e, n) => {
       const id = `${page.sourceUrl}#${n}`;
       events.push(
-        EventRow.parse({
+        Schema.decodeUnknownSync(EventRow)({
           id,
           page_url: page.sourceUrl,
           title: e.title,
@@ -182,7 +184,7 @@ export function buildRows(
       const union = (a: readonly string[], b: readonly string[]) => [...new Set([...a, ...b])];
       pagePeople.set(
         key,
-        PagePersonRow.parse({
+        Schema.decodeUnknownSync(PagePersonRow)({
           page_url: page.sourceUrl,
           name: person.name,
           alternate_names: union(before?.alternate_names ?? [], person.alternateNames),
@@ -198,9 +200,9 @@ export function buildRows(
   return {
     pages: pageRows,
     places: placeRows,
-    pagePlaces: z.array(PagePlaceRow).parse(pagePlaces),
+    pagePlaces: Schema.decodeUnknownSync(Schema.Array(PagePlaceRow))(pagePlaces),
     events,
-    eventPlaces: z.array(EventPlaceRow).parse(eventPlaces),
+    eventPlaces: Schema.decodeUnknownSync(Schema.Array(EventPlaceRow))(eventPlaces),
     pagePeople: [...pagePeople.values()],
   };
 }

@@ -5,7 +5,8 @@
  */
 import { createClient } from "@supabase/supabase-js";
 import { embed } from "@tuttemuj/embeddings";
-import { z } from "zod";
+import { EnvSecret, readEnv, supabaseEnvFields } from "@tuttemuj/schema";
+import { Schema } from "effect";
 
 const question = process.argv
   .slice(2)
@@ -13,13 +14,7 @@ const question = process.argv
   .join(" ");
 if (!question) throw new Error('Usage: search:try "<question>"');
 
-const env = z
-  .object({
-    SUPABASE_URL: z.url(),
-    SUPABASE_SECRET_KEY: z.string().min(20),
-    VOYAGE_API_KEY: z.string().min(20),
-  })
-  .parse(process.env);
+const env = readEnv(Schema.Struct({ ...supabaseEnvFields, VOYAGE_API_KEY: EnvSecret }));
 
 const { vectors } = await embed(env.VOYAGE_API_KEY, [question], "query");
 const db = createClient(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY, {
@@ -30,11 +25,16 @@ const { data, error } = await db.rpc("search_embeddings", {
   in_limit: 10,
 });
 if (error) throw new Error(error.message);
-const hits = z
-  .array(
-    z.object({ kind: z.string(), ref: z.string(), page_url: z.string(), distance: z.number() }),
-  )
-  .parse(data);
+const hits = Schema.decodeUnknownSync(
+  Schema.Array(
+    Schema.Struct({
+      kind: Schema.String,
+      ref: Schema.String,
+      page_url: Schema.String,
+      distance: Schema.Number,
+    }),
+  ),
+)(data);
 const { data: pages } = await db
   .from("pages")
   .select("source_url,title")

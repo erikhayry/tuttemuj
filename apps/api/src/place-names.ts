@@ -1,6 +1,6 @@
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { normalizeName } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 
 /** Names shorter than this are too common as words to count as a place in a question. */
 const MIN_NAME_LENGTH = 4;
@@ -8,12 +8,12 @@ const MAX_WORDS = 3;
 const PAGE_SIZE = 1000;
 const REFRESH_MS = 10 * 60 * 1000;
 
-export const PlaceNameRow = z.object({
-  id: z.string(),
-  name: z.string(),
-  aliases: z.array(z.string()),
+export const PlaceNameRow = Schema.Struct({
+  id: Schema.String,
+  name: Schema.String,
+  aliases: Schema.Array(Schema.String),
 });
-export type PlaceNameRow = z.infer<typeof PlaceNameRow>;
+export type PlaceNameRow = typeof PlaceNameRow.Type;
 
 /** Normalised place name -> ids of the places that go by it. */
 export type PlaceNameIndex = Map<string, string[]>;
@@ -134,7 +134,7 @@ export function placeNameLoader(db: SupabaseClient): () => Promise<PlaceNameInde
         .order("id")
         .range(from, from + PAGE_SIZE - 1);
       if (error) throw new Error(`places: ${error.message}`);
-      const page = z.array(PlaceNameRow).parse(data);
+      const page = Schema.decodeUnknownSync(Schema.Array(PlaceNameRow))(data);
       rows.push(...page);
       if (page.length < PAGE_SIZE) break;
     }

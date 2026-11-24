@@ -3,7 +3,7 @@ import type { Rows } from "./rows.ts";
 
 const BATCH = 500;
 
-const chunks = <T>(items: T[], size = BATCH): T[][] => {
+const chunks = <T>(items: readonly T[], size = BATCH): T[][] => {
   const out: T[][] = [];
   for (let i = 0; i < items.length; i += size) out.push(items.slice(i, i + size));
   return out;
@@ -38,7 +38,7 @@ export type SyncResult = { upserted: Record<string, number>; removed: Record<str
  */
 export async function syncRows(url: string, key: string, rows: Rows): Promise<SyncResult> {
   const db = createClient(url, key, { auth: { persistSession: false } });
-  const upsert = async (table: string, items: object[], onConflict: string) => {
+  const upsert = async (table: string, items: readonly object[], onConflict: string) => {
     for (const part of chunks(items)) {
       const { error } = await db.from(table).upsert(part, { onConflict });
       fail(`upsert ${table}`, error);
@@ -67,7 +67,7 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     table: string,
     a: string,
     b: string,
-    links: Record<string, unknown>[],
+    links: readonly Record<string, unknown>[],
   ) => {
     const wanted = new Set(links.map((r) => `${r[a]}\n${r[b]}`));
     const existing = await readAll(db, table, `${a},${b}`);

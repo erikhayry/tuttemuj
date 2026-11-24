@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto";
-import { EMBEDDING_MODEL, type PageExtraction } from "@tuttemuj/schema";
-import { z } from "zod";
+import { EMBEDDING_MODEL, type PageExtraction, safeDecode } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import type { Rows } from "./rows.ts";
 
 export type EmbedItem = {
@@ -12,7 +12,7 @@ export type EmbedItem = {
   hash: string;
 };
 
-const Pitch = z.object({ pitch: z.string() });
+const Pitch = Schema.Struct({ pitch: Schema.String });
 
 export const hashOf = (text: string): string =>
   createHash("sha256").update(`${EMBEDDING_MODEL}\n${text}`).digest("hex");
@@ -54,7 +54,7 @@ export function embedItems(
       pageUrl: p.source_url,
       text: `${p.title}\n${p.summary}`,
     });
-    const comic = Pitch.safeParse(p.comic_candidate);
+    const comic = safeDecode(Pitch)(p.comic_candidate);
     if (comic.success) {
       items.push({
         kind: "comic",

@@ -1,12 +1,12 @@
 import { EMBEDDING_DIMENSIONS, EMBEDDING_MODEL } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 
-const Response = z.object({
-  data: z.array(z.object({ index: z.int(), embedding: z.array(z.number()) })),
-  usage: z.object({ total_tokens: z.int() }),
+const Response = Schema.Struct({
+  data: Schema.Array(Schema.Struct({ index: Schema.Int, embedding: Schema.Array(Schema.Number) })),
+  usage: Schema.Struct({ total_tokens: Schema.Int }),
 });
 
-export type Embedded = { vectors: number[][]; tokens: number };
+export type Embedded = { vectors: ReadonlyArray<ReadonlyArray<number>>; tokens: number };
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
@@ -31,7 +31,7 @@ export async function embed(
       }),
     });
     if (res.ok) {
-      const body = Response.parse(await res.json());
+      const body = Schema.decodeUnknownSync(Response)(await res.json());
       const vectors = [...body.data].sort((a, b) => a.index - b.index).map((d) => d.embedding);
       if (
         vectors.length !== texts.length ||

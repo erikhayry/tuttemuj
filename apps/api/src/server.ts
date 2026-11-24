@@ -3,24 +3,25 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { serve } from "@hono/node-server";
 import { createClient } from "@supabase/supabase-js";
-import { z } from "zod";
+import { EnvSecret, EnvUrl, envInt, envString, readEnv } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { createApp } from "./app.ts";
 import { ask } from "./ask.ts";
 import { claudeAnswer, DEFAULT_ASK_MODEL } from "./claude.ts";
 import { supabaseSource } from "./db.ts";
 import { supabaseRetrieve } from "./retrieve.ts";
 
-const env = z
-  .object({
-    SUPABASE_URL: z.url(),
-    SUPABASE_SECRET_KEY: z.string().min(20),
-    PORT: z.coerce.number().int().default(8787),
+const env = readEnv(
+  Schema.Struct({
+    SUPABASE_URL: EnvUrl,
+    SUPABASE_SECRET_KEY: EnvSecret,
+    PORT: envInt(8787),
     /** POST /ask needs VOYAGE_API_KEY (search). ANTHROPIC_API_KEY adds written answers. */
-    VOYAGE_API_KEY: z.string().min(20).optional(),
-    ANTHROPIC_API_KEY: z.string().min(20).optional(),
-    ASK_MODEL: z.string().default(DEFAULT_ASK_MODEL),
-  })
-  .parse(process.env);
+    VOYAGE_API_KEY: Schema.optionalKey(EnvSecret),
+    ANTHROPIC_API_KEY: Schema.optionalKey(EnvSecret),
+    ASK_MODEL: envString(DEFAULT_ASK_MODEL),
+  }),
+);
 
 const db = createClient(env.SUPABASE_URL, env.SUPABASE_SECRET_KEY, {
   auth: { persistSession: false },

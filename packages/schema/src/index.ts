@@ -3,6 +3,7 @@ export * from "./decode.ts";
 export * from "./defaults.ts";
 export * from "./embedding.ts";
 export * from "./entities.ts";
+export * from "./env.ts";
 export * from "./eval.ts";
 export * from "./gazetteer.ts";
 export * from "./names.ts";
