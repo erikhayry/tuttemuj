@@ -104,7 +104,7 @@ Built with Effect's `HttpApi` (#58) in `apps/api/src/v1/`: `api.ts` defines the 
 
 ## The app (#60)
 
-`apps/web` is a Foldkit single-page app (Model, Message, `update`, `view`, plus Commands for side effects) styled with native CSS: variables and `@layer` in `src/styles.css`, no Tailwind. Run `pnpm --filter @tuttemuj/api dev:v1` and `pnpm --filter @tuttemuj/web dev`; Vite forwards `/api` to the Effect server, so there is no CORS to set up. `pnpm --filter @tuttemuj/web build` makes the static site in `apps/web/dist`.
+`apps/web` is a Foldkit single-page app: `model.ts`, `message.ts`, `update.ts`, `command.ts` (side effects) and `view/`, gathered by a thin `main.ts` styled with native CSS: variables and `@layer` in `src/styles.css`, no Tailwind. Run `pnpm --filter @tuttemuj/api dev:v1` and `pnpm --filter @tuttemuj/web dev`; Vite forwards `/api` to the Effect server, so there is no CORS to set up. `pnpm --filter @tuttemuj/web build` makes the static site in `apps/web/dist`.
 
 - Flow: "Använd min plats" (the browser asks for permission), then the buttons that have results within 200 m, then the results of one button. Denied or unavailable location shows a message and "Försök igen". A position outside Nykarleby, or with no results, shows "nothing here yet".
 - All text comes from `@tuttemuj/messages`; the API's answers are checked with the shared schemas. Each result links to its page on nykarlebyvyer.nu; old images load from the site and link to their page.
