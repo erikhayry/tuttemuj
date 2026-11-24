@@ -1,7 +1,14 @@
-import type { PageExtraction, PageGroup, PlaceEntity } from "@tuttemuj/schema";
+import type {
+  FrontierEntry,
+  ImageClassification,
+  PageExtraction,
+  PageGroup,
+  PlaceEntity,
+} from "@tuttemuj/schema";
 import {
   GazetteerKind,
   IsoDateTime,
+  isShowableImage,
   normalizeName,
   PageType,
   PersonPlaceRelationKind,
@@ -116,6 +123,23 @@ export const ImageFactPlaceRow = Schema.Struct({
 });
 export type ImageFactPlaceRow = typeof ImageFactPlaceRow.Type;
 
+/** A large image on a page and what Jev said about it. The image itself is never stored. */
+export const PageImageRow = Schema.Struct({
+  page_url: Schema.String,
+  /** Position among the page's large images, from 1: the n in `[bild n]`. */
+  image_number: Schema.Int.check(Schema.isGreaterThan(0)),
+  url: Schema.String,
+  width: Schema.Int,
+  height: Schema.Int,
+  /** Jev's answers (0 to 1). Null until classified, or when the image was skipped. */
+  photo: Schema.NullOr(Schema.Number),
+  building_visible: Schema.NullOr(Schema.Number),
+  people_visible: Schema.NullOr(Schema.Number),
+  /** A photograph with a building or people in it (`isShowableImage`). */
+  showable: Schema.Boolean,
+});
+export type PageImageRow = typeof PageImageRow.Type;
+
 export type Rows = {
   pages: PageRow[];
   places: PlaceRow[];
@@ -127,6 +151,13 @@ export type Rows = {
   relations: PersonPlaceRelationRow[];
   imageFacts: ImageFactRow[];
   imageFactPlaces: ImageFactPlaceRow[];
+  pageImages: PageImageRow[];
+};
+
+/** Where the large images are (the crawl's frontier) and Jev's answers about them. */
+export type ImageSources = {
+  frontier: readonly FrontierEntry[];
+  classes: readonly ImageClassification[];
 };
 
 /** `duplicate_of` per duplicate page, only where both pages have been analysed. */
@@ -164,6 +195,7 @@ export function buildRows(
   pages: readonly PageExtraction[],
   places: readonly PlaceEntity[],
   groups: readonly PageGroup[],
+  imageSources: ImageSources = { frontier: [], classes: [] },
 ): Rows {
   const known = new Set(pages.map((p) => p.sourceUrl));
   const dupOf = duplicateMap(groups, known);
@@ -324,6 +356,31 @@ export function buildRows(
     }
   }
 
+  // Large images per analysed page, numbered like the `[bild n]` markers (position in the frontier's
+  // list, from 1). Jev's answers are matched by image URL.
+  const classOf = new Map(imageSources.classes.map((c) => [c.url as string, c]));
+  const pageImages: PageImageRow[] = [];
+  for (const entry of imageSources.frontier) {
+    if (!known.has(entry.url)) continue;
+    (entry.images ?? []).forEach((image, n) => {
+      const c = classOf.get(image.url);
+      const answered = c && !("skipped" in c) ? c : undefined;
+      pageImages.push(
+        Schema.decodeUnknownSync(PageImageRow)({
+          page_url: entry.url,
+          image_number: n + 1,
+          url: image.url,
+          width: image.width,
+          height: image.height,
+          photo: answered?.photo ?? null,
+          building_visible: answered?.buildingVisible ?? null,
+          people_visible: answered?.peopleVisible ?? null,
+          showable: c ? isShowableImage(c) : false,
+        }),
+      );
+    });
+  }
+
   return {
     pages: pageRows,
     places: placeRows,
@@ -335,5 +392,6 @@ export function buildRows(
     relations,
     imageFacts,
     imageFactPlaces,
+    pageImages,
   };
 }
