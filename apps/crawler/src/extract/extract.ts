@@ -4,6 +4,8 @@ import {
   EXTRACTION_VERSION,
   ExtractionTask,
   type FrontierEntry,
+  NO_CONTENT_PAGE_TYPES,
+  noContentPageType,
   PageExtraction,
   PageExtractionDraft,
   safeDecode,
@@ -35,11 +37,11 @@ async function writeJson(path: string, value: unknown): Promise<void> {
 async function needsExtraction(entry: FrontierEntry, paths: Paths): Promise<boolean> {
   if (entry.status !== "fetched" || !entry.contentHash) return false;
   const existing = safeDecode(PageExtraction)(await readJson(paths.page(entry.url)));
-  return (
-    !existing.success ||
-    existing.data.contentHash !== entry.contentHash ||
-    existing.data.extractionVersion < EXTRACTION_VERSION
-  );
+  if (!existing.success || existing.data.contentHash !== entry.contentHash) return true;
+  // An empty page or a menu is not worth redoing for a new version; only if its content changes.
+  const { pageType } = existing.data;
+  if (pageType !== undefined && NO_CONTENT_PAGE_TYPES.has(pageType)) return false;
+  return existing.data.extractionVersion < EXTRACTION_VERSION;
 }
 
 /** Write the next batch of pages to analyse: plain-text files, batch.json and the draft JSON Schema. */
@@ -117,8 +119,11 @@ export async function saveDrafts(opts: {
       result.invalid.push({ url: task.sourceUrl, error: `sourceUrl is ${draft.data.sourceUrl}` });
       continue;
     }
+    // Mark pages without content of their own, unless the analyst already set a page type.
+    const pageType = draft.data.pageType ?? noContentPageType(draft.data);
     const page = Schema.decodeUnknownSync(PageExtraction)({
       ...draft.data,
+      ...(pageType ? { pageType } : {}),
       contentHash: task.contentHash,
       extractionVersion: EXTRACTION_VERSION,
       extractedAt: now,

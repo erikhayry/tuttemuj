@@ -121,6 +121,21 @@ export const PersonPlaceRelation = Schema.Struct({
 }).check(yearsInOrder);
 export type PersonPlaceRelation = typeof PersonPlaceRelation.Type;
 
+/**
+ * What an image shows. "building", "street", "people" and "landscape" are the pictures the app shows
+ * for "Visa gamla bilder härifrån"; "map" goes to the map button; the rest are not shown.
+ */
+export const ImageKind = Schema.Literals([
+  "building",
+  "street",
+  "people",
+  "landscape",
+  "map",
+  "document",
+  "other",
+]);
+export type ImageKind = typeof ImageKind.Type;
+
 /** What one image on the page shows, when the page says (v1 button "Visa gamla bilder härifrån"). */
 export const ImageFact = Schema.Struct({
   /** The number in the `[bild n]` marker of the extraction text (see #52). */
@@ -129,11 +144,15 @@ export const ImageFact = Schema.Struct({
   places: ArrayWithDefault(Schema.String),
   /** The year the image was made or shows, when stated. */
   year: Schema.optionalKey(Schema.Int),
+  /** What the image shows, judged from its caption and the page. Only some kinds are shown in the app. */
+  kind: Schema.optionalKey(ImageKind),
 });
 export type ImageFact = typeof ImageFact.Type;
 
 /** What kind of page it is. Used to find stories, photos and maps. */
 export const PageType = Schema.Literals([
+  /** No content of its own: an empty page, a frame, a lone logo. Left out of search and buttons. */
+  "empty",
   "photo",
   "postcard",
   "map",

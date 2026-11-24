@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { EMBEDDING_MODEL, type PageExtraction, safeDecode } from "@tuttemuj/schema";
+import { EMBEDDING_MODEL, isNoContentPage, safeDecode } from "@tuttemuj/schema";
 import { Schema } from "effect";
 import type { Rows } from "./rows.ts";
 
@@ -18,18 +18,11 @@ export const hashOf = (text: string): string =>
   createHash("sha256").update(`${EMBEDDING_MODEL}\n${text}`).digest("hex");
 
 /**
- * Pages whose own summary says they are empty, a frame, a menu or an index, and that have no
- * people, places or events. They would only be noise in search results. Postcards and photos with
- * little text are real content and are kept.
+ * Pages with no content of their own (empty pages, frames, menus) and no facts. They would only be
+ * noise in search results. Uses `pageType` when set, else the rule on our own summary. Postcards
+ * and photos with little text are real content and are kept.
  */
-const NAVIGATION =
-  /nästan tom|tom (bild|meny)?sida|ingen egen text|utan (egen )?text|ramsida|rubriksida|logotyp|menysida|innehållsförteckning|^meny\b|navigationssida/i;
-
-export const isNavigationPage = (
-  page: Pick<PageExtraction, "summary" | "people" | "places" | "events">,
-): boolean =>
-  page.people.length + page.places.length + page.events.length === 0 &&
-  NAVIGATION.test(page.summary);
+export const isNavigationPage = isNoContentPage;
 
 const yearText = (year: number | null, circa: boolean): string =>
   year === null ? "" : ` (${circa ? "ca " : ""}${year})`;

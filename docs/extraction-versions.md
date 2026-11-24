@@ -2,7 +2,7 @@
 
 `/extract-pages` is versioned. The `version` in `.claude/skills/extract-pages/SKILL.md` must equal `EXTRACTION_VERSION` in `packages/schema/src/entities.ts` (checked by `apps/crawler/src/extract/skill-version.test.ts`). Each page file in `data/pages/` records the version that produced it in `extractionVersion`.
 
-`pnpm --filter @tuttemuj/crawler extract:next` picks pages that have no extraction, whose content changed, or whose `extractionVersion` is lower than the current one. So bumping the version queues every older page, and old data can be redone a version at a time (`extract:next <count>`).
+`pnpm --filter @tuttemuj/crawler extract:next` picks pages that have no extraction, whose content changed, or whose `extractionVersion` is lower than the current one. So bumping the version queues every older page, and old data can be redone a version at a time (`extract:next <count>`). Pages with `pageType` `empty` or `menu` are the exception: they are only redone when their content changes, never for a version bump.
 
 ## When to bump
 
@@ -25,9 +25,9 @@ The first full extraction. Per page:
 
 The schema already accepts these optional fields (#53), but the skill does not ask for them yet and `EXTRACTION_VERSION` is not bumped, so no page is queued again. #55 updates the skill and bumps the version for new pages; #54 adds them to old pages with an add-on pass.
 
-- `pageType`: photo, postcard, map, story, article, list or menu.
+- `pageType`: empty, photo, postcard, map, story, article, list or menu. `empty` and `menu` are already set on old pages by a rule on our own summary (`pages:mark-no-content`), and `extract:save` sets them on new pages.
 - `relations`: person–place relations (lived, owned, built, ran, worked, born, died) with `startYear` and `endYear` when stated.
-- `images`: per image (`[bild n]`), the places it shows and its year.
+- `images`: per image (`[bild n]`), the places it shows, its year and its `kind` (building, street, people, landscape, map, document, other). The app shows building, street, people and landscape images; `isDecorativeImage` also drops logos and headers by file name.
 - On each place: `uses` (what it was used for, with years) and `nameOrigin`.
 
 Missing means "not assessed"; an empty list means "assessed, nothing found".

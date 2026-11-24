@@ -75,7 +75,7 @@ The nightly job only fetches pages. You run the analysis yourself in Claude Code
 
 The skill (`.claude/skills/extract-pages/SKILL.md`) works in three steps:
 
-1. `extract:next` picks fetched pages that haven't been analysed, or whose content or `EXTRACTION_VERSION` has changed. It writes their plain text to `.cache/extract/`. Large images appear in that text as numbered markers (`[bild 1: alt text]`), so a caption can be tied to its image. The text used for `contentHash` has no markers, so adding them changed no hash.
+1. `extract:next` picks fetched pages that haven't been analysed, or whose content or `EXTRACTION_VERSION` has changed. Empty pages and menus (`pageType` `empty` or `menu`) are skipped on a version change. It writes their plain text to `.cache/extract/`. Large images appear in that text as numbered markers (`[bild 1: alt text]`), so a caption can be tied to its image. The text used for `contentHash` has no markers, so adding them changed no hash.
 2. Claude writes one draft JSON per page.
 3. `extract:save` validates each draft against the Effect schema, adds the hash, version and timestamp, and writes the result to `data/pages/<path>.json`.
 
