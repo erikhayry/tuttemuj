@@ -59,7 +59,7 @@ export async function prepareBatch(opts: {
     const page = parsePage(html, entry.url);
     const textPath = paths.text(entry.url);
     await mkdir(dirname(textPath), { recursive: true });
-    await writeFile(textPath, `${page.title}\n\n${page.text}\n`);
+    await writeFile(textPath, `${page.title}\n\n${page.markedText}\n`);
     tasks.push(
       Schema.decodeUnknownSync(ExtractionTask)({
         sourceUrl: entry.url,
