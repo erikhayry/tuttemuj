@@ -87,6 +87,14 @@ No unit tests: feature tests with Playwright and property tests with Bombadil (U
 
 Responses carry ids and data, never UI text, so the client can show them in any language.
 
+## Database functions (#57)
+
+`supabase/migrations/20261124230000_button_queries.sql`. One function per button, `button_<id with underscores>(lat, lng, radius_m, limit)`; `button_on_this_day` and `button_counts` also take the month and day (the caller sends today's date in Finnish time). Each row has the place (`place_id`, `place_name`, `distance_m`) and the `source_url` of the page it comes from. Pages that duplicate another page are left out.
+
+`button_counts(lat, lng, radius_m, month, day)` returns one row per button that has results here, with the count (up to the limit). The API shows only those buttons.
+
+"Visa gamla bilder härifrån" returns image URLs from `page_images`, which the loader fills from the crawl's image list and Jev's answers (`data/images.jsonl`). Only images Jev marked as photos with a building or people (`showable`) are returned. The image stays on nykarlebyvyer.nu.
+
 ## Multi-language
 
 - UI strings live in a messages catalog keyed by id (`buttons.who-lived-here.label`), one file per language. v1 ships `sv` only; `fi` and `en` exist as empty catalogs with the same keys, checked by a test.

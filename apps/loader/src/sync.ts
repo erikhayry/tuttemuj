@@ -94,6 +94,13 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
   );
 
   const stalePagePeople = await syncLinks("page_people", "page_url", "name", rows.pagePeople);
+  // The page's large images, with Jev's answers.
+  const stalePageImages = await syncLinks(
+    "page_images",
+    "page_url",
+    "image_number",
+    rows.pageImages,
+  );
   // Relations point at (page, person) rows, so they come after page_people.
   await upsert("person_place_relations", rows.relations, "id");
   const staleImagePlaces = await syncLinks(
@@ -158,6 +165,7 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       person_place_relations: rows.relations.length,
       image_facts: rows.imageFacts.length,
       image_fact_places: rows.imageFactPlaces.length,
+      page_images: rows.pageImages.length,
     },
     removed: {
       pages: removedPages,
@@ -170,6 +178,7 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       person_place_relations: removedRelations,
       image_facts: removedImages,
       image_fact_places: staleImagePlaces,
+      page_images: stalePageImages,
     },
   };
 }

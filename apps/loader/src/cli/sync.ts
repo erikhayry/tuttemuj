@@ -17,15 +17,16 @@ import { syncRows } from "../sync.ts";
 const dataDir = process.env.DATA_DIR ?? fileURLToPath(new URL("../../../../data", import.meta.url));
 const dryRun = process.argv.includes("--dry-run");
 
-const { pages, places, groups } = await readData(dataDir);
-const rows = buildRows(pages, places, groups);
+const { pages, places, groups, frontier, imageClasses } = await readData(dataDir);
+const rows = buildRows(pages, places, groups, { frontier, classes: imageClasses });
 const duplicates = rows.pages.filter((p) => p.duplicate_of !== null).length;
 console.log(
   `Read ${rows.pages.length} pages (${duplicates} duplicates), ${rows.places.length} places ` +
     `(${rows.places.filter((p) => p.location).length} located), ${rows.pagePlaces.length} page-place links, ` +
     `${rows.events.length} events (${rows.eventPlaces.length} event-place links), ${rows.pagePeople.length} page-person rows, ` +
     `${rows.placeUses.length} place uses, ${rows.relations.length} person-place relations, ` +
-    `${rows.imageFacts.length} image facts (${rows.imageFactPlaces.length} image-place links).`,
+    `${rows.imageFacts.length} image facts (${rows.imageFactPlaces.length} image-place links), ` +
+    `${rows.pageImages.length} page images (${rows.pageImages.filter((i) => i.showable).length} showable).`,
 );
 
 if (dryRun) {
