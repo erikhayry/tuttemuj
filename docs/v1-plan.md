@@ -1,0 +1,102 @@
+# v1 plan: location buttons, no AI
+
+Decided on 2026-11-24. This replaces free-text questions as the first release.
+
+## What v1 is
+
+A mobile web app (PWA). The user allows location, and the app offers ready-made buttons for the places around them. Every answer is built from our own data with plain database queries: no Claude and no Voyage at request time, so running the app costs nothing per question. Every result links to the page on nykarlebyvyer.nu.
+
+- **Swedish only.** The UI is built for several languages from the start (see [Multi-language](#multi-language)), but only `sv` is shipped.
+- **No free text.** Free text and AI answers are v2.
+
+## Releases
+
+| Release | Scope |
+| --- | --- |
+| v1 | Location, 10 buttons, Swedish, mobile web/PWA |
+| v1.1 | Finnish and English UI, and translated summaries |
+| v2 | Free-text questions with AI answers (the current `/ask` work in #3) |
+
+## The 10 buttons
+
+Each button is a fixed query for the places near the user (the nearest located places within a radius). Labels are UI strings with stable ids, so they can be translated later.
+
+| # | Id | Label (sv) | Answer | Data |
+| --- | --- | --- | --- | --- |
+| 1 | `who-lived-here` | Vem bodde här? | People who lived at or owned the place, with years | **New:** person–place relations |
+| 2 | `what-happened-here` | Vad hände här? | Events at the place, oldest first | Existing: events and event places |
+| 3 | `stories-from-here` | Berätta en historia härifrån | Stories, memories and anecdotes about the place | Existing: story pitches and summaries. **New:** page type |
+| 4 | `old-images-from-here` | Visa gamla bilder härifrån | Photos and postcards of the place, with year | Existing: page images. **New:** which place and year each image shows |
+| 5 | `old-maps` | Visa på gamla kartor | Historic map pages that show the place | Existing: map pages (`sidor/karta/`) and their places |
+| 6 | `what-was-here` | Vad fanns här förr? | What the place used to be (school, pharmacy, shop…), with years, incl. demolished buildings | **New:** place uses |
+| 7 | `who-worked-here` | Vem arbetade här? | Businesses, workshops and the people who ran or worked in them | **New:** person–place relations and place uses |
+| 8 | `why-the-name` | Varför heter det så? | Where the street or place name comes from | **New:** name origin |
+| 9 | `on-this-day` | Hände på dagens datum | Events near the user on today's day and month, any year | Existing: event dates with month and day |
+| 10 | `nearby` | Vad finns i närheten? | Other places close by that have stories, for walking on | Existing: `nearby_places` |
+
+A button is only shown when it has at least one result for the places around the user.
+
+## Extraction
+
+v1 needs five new kinds of facts. All are derived facts and our own short text, never page text:
+
+- **Person–place relations**: who lived at, owned, built, ran or worked at a place, and the years if the page states them.
+- **Place uses**: what a place was used for (skola, apotek, bageri…), with years if stated.
+- **Name origin**: a short sentence in our own words about where a name comes from, only when the page explains it.
+- **Images**: for each large image on the page, which places it shows and the year, if the page says so.
+- **Page type**: photo, postcard, map, memory/story, article, list or menu.
+
+### Add-on pass instead of full re-extraction
+
+The ~3,700 pages already extracted keep their v1 data. A separate, smaller skill (`/enrich-pages`) reads each page again and only adds the new fields. New pages get the full v2 extraction, which covers everything. This costs less of the Claude subscription than redoing every page.
+
+### Images need markers in the text
+
+The text that the extractor reads today has no image positions, so it can't tell which caption belongs to which image. The parser will write an extraction text file with numbered markers (`[bild 1]`, with the alt text) where each image is. The text used for `contentHash` stays as it is, so adding the markers doesn't make every page look changed.
+
+### No recrawl
+
+All 8,710 fetched pages are in the local HTML cache (`.cache/pages`), so the parser changes run offline, like `images:backfill`. The crawl is close to finished (2 pages pending). A later issue adds a polite refresh: a conditional request (`If-Modified-Since`) per page, a few seconds apart, to pick up pages that changed on the site.
+
+### Versioned skills
+
+Today `EXTRACTION_VERSION` is one number and the skill file isn't tied to it. From now on:
+
+- Each data skill (`extract-pages`, `enrich-pages`) has a `version` in its frontmatter.
+- `extract:save` stamps the skill name and version into each page file (`extractionVersion` for the full extraction and an `enrichments` list for add-on passes).
+- A test fails if a skill's frontmatter version doesn't match the version constant in `packages/schema`.
+- `docs/extraction-versions.md` records what changed in each version.
+- `extract:next` and `enrich:next` pick pages whose version is older, so old data can be redone a version at a time.
+
+## Stack
+
+- **Effect** for the server and shared logic. **Effect Schema** replaces Zod everywhere, including `packages/schema`, the crawler and the loader. CLAUDE.md is updated to match.
+- **Foldkit** for the UI later. It is built on Effect and uses Effect Schema. It is pre-1.0 (v0.171) and web only (SPA, static or server rendering), which is fine for a mobile web app. Native apps (#5) are decided later.
+- **Supabase Postgres** with PostGIS stays the database. The loader keeps syncing from git `data/`.
+- **No AI and no Voyage at request time** in v1. The nightly embed can keep running so v2 has embeddings ready.
+
+## Testing
+
+No unit tests: feature tests with Playwright and property tests with Bombadil (UI) and generated requests (API). See `docs/testing.md`.
+
+## Server API (v1)
+
+- `GET /places/near?lat&lng&radius`: the located places near the user, nearest first.
+- `GET /buttons?lat&lng`: which of the 10 buttons have results here, with a count each.
+- `GET /buttons/:id?lat&lng`: the results of one button. Each result has our own title and summary, the year when known, image references and `sourceUrl`.
+
+Responses carry ids and data, never UI text, so the client can show them in any language.
+
+## Multi-language
+
+- UI strings live in a messages catalog keyed by id (`buttons.who-lived-here.label`), one file per language. v1 ships `sv` only; `fi` and `en` exist as empty catalogs with the same keys, checked by a test.
+- `Lang` in the schema stays `sv | fi | en`, and the app reads the language from one place (browser setting, then a chooser). In v1 the chooser only offers Swedish.
+- Our summaries are Swedish. v1.1 needs Finnish and English summaries too; how to make them (by hand, or as a Claude Code pass on the subscription) is decided then.
+
+## Coordinates are now the main limit
+
+v1 only works where places have coordinates. Today 397 of 2,174 gazetteer names do. Adding coordinates for the most-mentioned places (#40) is the most important data work for v1.
+
+## Images
+
+The site owner has agreed that the app may show the site's images. Images are still never downloaded or rehosted: the app loads them from nykarlebyvyer.nu and each image links to its page.
