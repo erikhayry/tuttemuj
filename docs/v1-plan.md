@@ -87,6 +87,13 @@ No unit tests: feature tests with Playwright and property tests with Bombadil (U
 
 Responses carry ids and data, never UI text, so the client can show them in any language.
 
+Built with Effect's `HttpApi` (#58) in `apps/api/src/v1/`: `api.ts` defines the endpoints (one definition gives validation, `/openapi.json`, a typed client and `/docs`), `buttons.ts` maps each database function's rows to results, `handlers.ts` implements them, `server.ts` serves them. Run it with `pnpm --filter @tuttemuj/api dev:v1` (port 8787, or `PORT`). It reads from Supabase with the service key and makes no Claude or Voyage calls.
+
+- Query: `lat`, `lng` (inside the Nykarleby bounds), `radius` (10–2000 m, default 200), `limit` (1–100, default 50). `on-this-day` also accepts `month` and `day`; without them it uses today's date in Finland. A bad value gives a 400.
+- Each result has `button`, the place (`placeId`, `placeName`, `distanceM`) and the page it comes from (`sourceUrl`, `pageTitle`), so the app can always link to nykarlebyvyer.nu. `nearby` results have no single source page; they carry the place and its `pageCount`.
+- `GET /places/near` returns the same `nearby` results: located places that have pages.
+- The older Hono server (`pnpm dev`, `/nearby` and `/ask`) is for v2 and stays until #3 moves over.
+
 ## Database functions (#57)
 
 `supabase/migrations/20261124230000_button_queries.sql`. One function per button, `button_<id with underscores>(lat, lng, radius_m, limit)`; `button_on_this_day` and `button_counts` also take the month and day (the caller sends today's date in Finnish time). Each row has the place (`place_id`, `place_name`, `distance_m`) and the `source_url` of the page it comes from. Pages that duplicate another page are left out.
