@@ -102,6 +102,15 @@ Built with Effect's `HttpApi` (#58) in `apps/api/src/v1/`: `api.ts` defines the 
 
 "Visa gamla bilder härifrån" returns image URLs from `page_images`, which the loader fills from the crawl's image list and Jev's answers (`data/images.jsonl`). Only images Jev marked as photos with a building or people (`showable`) are returned. The image stays on nykarlebyvyer.nu.
 
+## The app (#60)
+
+`apps/web` is a Foldkit single-page app: `model.ts`, `message.ts`, `update.ts`, `command.ts` (side effects) and `view/`, gathered by a thin `main.ts` styled with native CSS: variables and `@layer` in `src/styles.css`, no Tailwind. Run `pnpm --filter @tuttemuj/api dev:v1` and `pnpm --filter @tuttemuj/web dev`; Vite forwards `/api` to the Effect server, so there is no CORS to set up. `pnpm --filter @tuttemuj/web build` makes the static site in `apps/web/dist`.
+
+- Flow: "Använd min plats" (the browser asks for permission), then the buttons that have results within 200 m, then the results of one button. Denied or unavailable location shows a message and "Försök igen". A position outside Nykarleby, or with no results, shows "nothing here yet".
+- All text comes from `@tuttemuj/messages`; the API's answers are checked with the shared schemas. Each result links to its page on nykarlebyvyer.nu; old images load from the site and link to their page.
+- Installable: `manifest.webmanifest`, icons and a service worker (`public/sw.js`, production only) that keeps the app shell for offline start. It never caches `/api` or the site's images.
+- Not decided yet: where it is hosted and the production `/api` address.
+
 ## Multi-language
 
 - UI strings live in a messages catalog keyed by id (`buttons.who-lived-here.label`), one file per language. v1 ships `sv` only; `fi` and `en` exist as empty catalogs with the same keys, checked by the TypeScript build (`Record<MessageKey, string>`), so no unit test is needed. An empty message falls back to Swedish. The catalogs are in `packages/messages`: `message(lang, key, params)` fills `{name}` markers, and `resolveLang` is the one place that picks the language (saved choice, then browser, then Swedish; only `AVAILABLE_LANGS` are offered).
