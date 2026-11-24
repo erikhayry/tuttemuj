@@ -105,7 +105,12 @@
       "name": "Josef Jacobssons gård",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Fordom borgmästarens säte."
+      "description": "Fordom borgmästarens säte.",
+      "uses": [
+        {
+          "use": "borgmästarens säte"
+        }
+      ]
     },
     {
       "name": "Postmästarens gård",
@@ -183,6 +188,40 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kyrkan",
+        "Skolan",
+        "Prästgården",
+        "Tysk Peers gård",
+        "Kort Bockmöllers gård",
+        "Carl Nilssons gård",
+        "Borgmästarens gård",
+        "Josef Jacobssons gård",
+        "Postmästarens gård",
+        "Rådhuset",
+        "Wederquarn",
+        "Nykarleby älv",
+        "Prästgårdens beteshage",
+        "Åvik",
+        "Sockenstuguberget",
+        "Prästgårdens åker"
+      ],
+      "year": 1651
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-24T20:18:34.541Z"
+    }
+  ],
   "contentHash": "d699b0eef003f18b2f77b7f176d5ece0038494e806f3132fa17851be0d945534",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

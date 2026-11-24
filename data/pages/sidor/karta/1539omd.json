@@ -105,6 +105,33 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Österbotten",
+        "Karleby",
+        "Pedersöre",
+        "Vörå",
+        "Storkyro",
+        "Mustasaari",
+        "Korsholm",
+        "Räfsö",
+        "Närpes"
+      ],
+      "year": 1539
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-24T20:18:34.541Z"
+    }
+  ],
   "contentHash": "5b793c39b0b631e229684346b306d4dccfd4697b930e98c10838dd6df0038aae",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

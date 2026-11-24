@@ -180,6 +180,34 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Rådhuset",
+        "Josef Jacobssons gård",
+        "Kort Bockmöllers gård",
+        "Carol Nilssons gård",
+        "Tysk Peers gård",
+        "Länsmansgården",
+        "Postmästargården",
+        "Kyrkan",
+        "Skolan",
+        "Torget"
+      ],
+      "year": 1649
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-24T20:18:34.541Z"
+    }
+  ],
   "contentHash": "507052b931de99721bd8b8d4327dd9fc77884f1ccc5f160d7aa782bf2ac0ccb0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

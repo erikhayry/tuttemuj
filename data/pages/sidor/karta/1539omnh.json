@@ -54,6 +54,28 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bottniska viken",
+        "Bottenhavet",
+        "Kvarken",
+        "Bottenviken"
+      ],
+      "year": 1539
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-24T20:18:34.541Z"
+    }
+  ],
   "contentHash": "9b06d7b1fa39e1cb87d9988f43d861e20183824f60e19cd19c26105b8d4d9a3a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",
