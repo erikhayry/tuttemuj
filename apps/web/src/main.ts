@@ -222,19 +222,10 @@ type H = HtmlBuilder<Message>;
 
 const buttonKey = (id: ButtonId): MessageKey => `buttons.${id}.label`;
 
-const card = "rounded-xl bg-white p-4 shadow-sm ring-1 ring-stone-200";
-const primary =
-  "w-full rounded-xl bg-orange-900 px-4 py-3 text-left text-base font-medium text-white active:bg-orange-950";
-
 /** Every answer links to the page it comes from. */
 const sourceLink = (lang: Lang, h: H, url: string, title?: string): Html =>
   h.a(
-    [
-      h.Href(url),
-      h.Target("_blank"),
-      h.Rel("noopener"),
-      h.Class("mt-2 inline-block text-sm text-orange-900 underline"),
-    ],
+    [h.Href(url), h.Target("_blank"), h.Rel("noopener"), h.Class("source-link")],
     [title ? t(lang, "source.from", { title }) : t(lang, "source.read-more")],
   );
 
@@ -296,7 +287,7 @@ const resultView = (lang: Lang, h: H, r: ButtonResult): Html => {
   const { heading, body } = resultLines(lang, r);
   const place = r.button === "nearby" ? "" : r.placeName;
   return h.li(
-    [h.Class(card)],
+    [h.Class("card")],
     [
       // Old images are loaded from nykarlebyvyer.nu and link to their page; they are never rehosted.
       ...(r.button === "old-images-from-here"
@@ -308,18 +299,18 @@ const resultView = (lang: Lang, h: H, r: ButtonResult): Html => {
                   h.Src(r.imageUrl),
                   h.Alt(t(lang, "image.alt", { place: r.placeName })),
                   h.Loading("lazy"),
-                  h.Class("mb-2 w-full rounded-lg"),
+                  h.Class("result-image"),
                 ]),
               ],
             ),
           ]
         : []),
-      h.p([h.Class("font-medium text-stone-900")], [heading]),
-      ...(body ? [h.p([h.Class("mt-1 text-sm text-stone-700")], [body])] : []),
+      h.p([h.Class("result-title")], [heading]),
+      ...(body ? [h.p([h.Class("result-body")], [body])] : []),
       ...(place
         ? [
             h.p(
-              [h.Class("mt-1 text-xs text-stone-500")],
+              [h.Class("result-meta")],
               [`${place} · ${t(lang, "distance.metres", { distance: r.distanceM })}`],
             ),
           ]
@@ -332,33 +323,30 @@ const resultView = (lang: Lang, h: H, r: ButtonResult): Html => {
 };
 
 const message = (lang: Lang, h: H, key: MessageKey, extra: ReadonlyArray<Html> = []): Html =>
-  h.div([h.Class(`${card} text-stone-800`)], [h.p([], [t(lang, key)]), ...extra]);
+  h.div([h.Class("card notice")], [h.p([], [t(lang, key)]), ...extra]);
 
 const locateButton = (lang: Lang, h: H, key: MessageKey): Html =>
-  h.button([h.OnClick(Message.ClickedLocate()), h.Class(primary)], [t(lang, key)]);
+  h.button([h.OnClick(Message.ClickedLocate()), h.Class("button")], [t(lang, key)]);
 
 const resultsView = (model: Model, h: H): Html => {
   const { lang } = model;
   return h.section(
-    [h.Class("flex flex-col gap-3")],
+    [h.Class("stack")],
     [
       h.button(
-        [h.OnClick(Message.ClickedBack()), h.Class("self-start text-sm text-orange-900 underline")],
+        [h.OnClick(Message.ClickedBack()), h.Class("link-button")],
         [`← ${t(lang, "nav.back")}`],
       ),
-      h.h2(
-        [h.Class("text-xl font-semibold text-stone-900")],
-        [model.selected ? t(lang, buttonKey(model.selected)) : ""],
-      ),
+      h.h2([h.Class("section-title")], [model.selected ? t(lang, buttonKey(model.selected)) : ""]),
       AsyncData.matchDataSplitEmpty(model.results, {
         onIdle: () => h.empty,
-        onLoading: () => h.p([h.Class("text-stone-600")], [t(lang, "status.loading")]),
+        onLoading: () => h.p([h.Class("muted")], [t(lang, "status.loading")]),
         onFailure: () => message(lang, h, "status.error"),
         onData: (data) =>
           data.results.length === 0
             ? message(lang, h, "results.empty")
             : h.ul(
-                [h.Class("flex flex-col gap-3")],
+                [h.Class("stack")],
                 data.results.map((r) => resultView(lang, h, r)),
               ),
       }),
@@ -370,19 +358,19 @@ const buttonsView = (model: Model, h: H): Html => {
   const { lang } = model;
   return AsyncData.matchDataSplitEmpty(model.buttons, {
     onIdle: () => h.empty,
-    onLoading: () => h.p([h.Class("text-stone-600")], [t(lang, "status.loading")]),
+    onLoading: () => h.p([h.Class("muted")], [t(lang, "status.loading")]),
     onFailure: () => message(lang, h, "status.error", [locateButton(lang, h, "location.retry")]),
     onData: (data) =>
       data.buttons.length === 0
         ? message(lang, h, "status.nothing-here")
         : h.ul(
-            [h.Class("flex flex-col gap-3")],
+            [h.Class("stack")],
             data.buttons.map((b) =>
               h.li(
                 [],
                 [
                   h.button(
-                    [h.OnClick(Message.ClickedButton({ id: b.button })), h.Class(primary)],
+                    [h.OnClick(Message.ClickedButton({ id: b.button })), h.Class("button")],
                     [t(lang, buttonKey(b.button))],
                   ),
                 ],
@@ -399,12 +387,12 @@ const body = (model: Model, h: H): Html => {
   return AsyncData.matchDataSplitEmpty(model.position, {
     onIdle: () =>
       message(lang, h, "location.explain", [
-        h.div([h.Class("mt-3")], [locateButton(lang, h, "location.allow")]),
+        h.div([h.Class("notice-action")], [locateButton(lang, h, "location.allow")]),
       ]),
-    onLoading: () => h.p([h.Class("text-stone-600")], [t(lang, "status.loading")]),
+    onLoading: () => h.p([h.Class("muted")], [t(lang, "status.loading")]),
     onFailure: (reason) =>
       message(lang, h, reason === "denied" ? "location.denied.help" : "location.unavailable", [
-        h.div([h.Class("mt-3")], [locateButton(lang, h, "location.retry")]),
+        h.div([h.Class("notice-action")], [locateButton(lang, h, "location.retry")]),
       ]),
     onData: () => buttonsView(model, h),
   });
@@ -413,13 +401,13 @@ const body = (model: Model, h: H): Html => {
 export const view = (model: Model, h: H): Document => ({
   title: t(model.lang, "app.title"),
   body: h.main(
-    [h.Class("mx-auto flex min-h-screen max-w-md flex-col gap-4 bg-stone-50 p-4 pb-12")],
+    [h.Class("app")],
     [
       h.header(
         [],
         [
-          h.h1([h.Class("text-3xl font-bold text-orange-900")], [t(model.lang, "app.title")]),
-          h.p([h.Class("text-sm text-stone-600")], [t(model.lang, "app.tagline")]),
+          h.h1([h.Class("app-title")], [t(model.lang, "app.title")]),
+          h.p([h.Class("app-tagline muted")], [t(model.lang, "app.tagline")]),
         ],
       ),
       body(model, h),

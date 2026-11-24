@@ -1,1 +1,176 @@
-@import "tailwindcss";
+/*
+ * Native CSS: variables for every value and cascade layers for order. No CSS framework.
+ *
+ * `@layer` fixes which rules win regardless of selector weight or file order: later layers beat
+ * earlier ones. So `components` can override `base` without `!important` or specificity tricks.
+ * Each rule uses one class name that says what the thing is (`card`, `button`), not how it looks.
+ */
+@layer reset, tokens, base, components, utilities;
+
+@layer reset {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+  body,
+  h1,
+  h2,
+  p,
+  ul {
+    margin: 0;
+  }
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+  img {
+    display: block;
+    max-width: 100%;
+  }
+  button {
+    font: inherit;
+    cursor: pointer;
+  }
+}
+
+/* Design tokens: change a look here, once. Colors are semantic, not named after the hue. */
+@layer tokens {
+  :root {
+    --color-bg: #fafaf9;
+    --color-surface: #ffffff;
+    --color-text: #1c1917;
+    --color-text-muted: #57534e;
+    --color-text-subtle: #78716c;
+    --color-border: #e7e5e4;
+    --color-accent: #7c2d12;
+    --color-accent-pressed: #431407;
+    --color-on-accent: #ffffff;
+
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-8: 2rem;
+
+    --radius-s: 0.5rem;
+    --radius-m: 0.75rem;
+
+    --font-size-s: 0.875rem;
+    --font-size-xs: 0.75rem;
+    --font-size-l: 1.25rem;
+    --font-size-xl: 1.875rem;
+
+    --shadow-card: 0 1px 2px rgb(0 0 0 / 0.06);
+    --measure: 28rem;
+  }
+}
+
+@layer base {
+  body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.5;
+  }
+}
+
+@layer components {
+  .app {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+    min-height: 100vh;
+    max-width: var(--measure);
+    margin-inline: auto;
+    padding: var(--space-4) var(--space-4) var(--space-8);
+  }
+
+  .app-title {
+    color: var(--color-accent);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+  }
+  .app-tagline {
+    font-size: var(--font-size-s);
+  }
+
+  .stack {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .card {
+    padding: var(--space-4);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-m);
+    box-shadow: var(--shadow-card);
+  }
+  .notice-action {
+    margin-top: var(--space-3);
+  }
+
+  .button {
+    width: 100%;
+    padding: var(--space-3) var(--space-4);
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+    border: 0;
+    border-radius: var(--radius-m);
+    font-weight: 500;
+    text-align: left;
+
+    &:active {
+      background: var(--color-accent-pressed);
+    }
+  }
+
+  .link-button {
+    align-self: flex-start;
+    padding: 0;
+    background: none;
+    border: 0;
+    color: var(--color-accent);
+    font-size: var(--font-size-s);
+    text-decoration: underline;
+  }
+
+  .section-title {
+    font-size: var(--font-size-l);
+    font-weight: 600;
+  }
+
+  .result-image {
+    width: 100%;
+    margin-bottom: var(--space-2);
+    border-radius: var(--radius-s);
+  }
+  .result-title {
+    font-weight: 500;
+  }
+  .result-body {
+    margin-top: var(--space-1);
+    color: var(--color-text-muted);
+    font-size: var(--font-size-s);
+  }
+  .result-meta {
+    margin-top: var(--space-1);
+    color: var(--color-text-subtle);
+    font-size: var(--font-size-xs);
+  }
+  .source-link {
+    display: inline-block;
+    margin-top: var(--space-2);
+    color: var(--color-accent);
+    font-size: var(--font-size-s);
+    text-decoration: underline;
+  }
+}
+
+@layer utilities {
+  .muted {
+    color: var(--color-text-muted);
+  }
+}
