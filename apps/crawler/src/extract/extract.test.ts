@@ -2,6 +2,7 @@ import { mkdir, mkdtemp, readFile, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { dirname, join } from "node:path";
 import { EXTRACTION_VERSION, PageExtraction } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { describe, expect, it } from "vitest";
 import { PageCache } from "../cache.ts";
 import { Frontier } from "../frontier.ts";
@@ -58,7 +59,9 @@ describe("extraction batches", () => {
     const result = await saveDrafts({ paths, now: new Date("2026-11-15T00:00:00Z") });
     expect(result).toMatchObject({ saved: [URL_A], invalid: [] });
 
-    const saved = PageExtraction.parse(JSON.parse(await readFile(paths.page(URL_A), "utf8")));
+    const saved = Schema.decodeUnknownSync(PageExtraction)(
+      JSON.parse(await readFile(paths.page(URL_A), "utf8")),
+    );
     expect(saved).toMatchObject({ contentHash: "h1", extractionVersion: EXTRACTION_VERSION });
 
     // Already extracted with the same hash: nothing left to do.

@@ -43,7 +43,7 @@ type Resolved = { entities: PlaceEntity[]; review: PlaceReview[] };
 export function resolvePlaces(
   entries: GazetteerEntry[],
   pages: Pick<PageExtraction, "sourceUrl" | "places">[],
-  merges: PlaceMerge[] = [],
+  merges: readonly PlaceMerge[] = [],
 ): Resolved {
   // Union-find over gazetteer entries.
   const parent = entries.map((_, i) => i);

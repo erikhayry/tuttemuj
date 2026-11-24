@@ -6,8 +6,9 @@ import {
   type FrontierEntry,
   PageExtraction,
   PageExtractionDraft,
+  safeDecode,
 } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 import type { PageCache } from "../cache.ts";
 import type { Frontier } from "../frontier.ts";
 import type { Gazetteer } from "../gazetteer/geocode.ts";
@@ -33,7 +34,7 @@ async function writeJson(path: string, value: unknown): Promise<void> {
 /** A fetched page needs analysis if it has none, its content changed, or the extraction version is old. */
 async function needsExtraction(entry: FrontierEntry, paths: Paths): Promise<boolean> {
   if (entry.status !== "fetched" || !entry.contentHash) return false;
-  const existing = PageExtraction.safeParse(await readJson(paths.page(entry.url)));
+  const existing = safeDecode(PageExtraction)(await readJson(paths.page(entry.url)));
   return (
     !existing.success ||
     existing.data.contentHash !== entry.contentHash ||
@@ -60,7 +61,7 @@ export async function prepareBatch(opts: {
     await mkdir(dirname(textPath), { recursive: true });
     await writeFile(textPath, `${page.title}\n\n${page.text}\n`);
     tasks.push(
-      ExtractionTask.parse({
+      Schema.decodeUnknownSync(ExtractionTask)({
         sourceUrl: entry.url,
         title: page.title,
         contentHash: entry.contentHash,
@@ -70,7 +71,8 @@ export async function prepareBatch(opts: {
     );
   }
   await writeJson(paths.batch, tasks);
-  await writeJson(paths.schema, z.toJSONSchema(PageExtractionDraft, { io: "input" }));
+  const { schema, definitions } = Schema.toJsonSchemaDocument(PageExtractionDraft);
+  await writeJson(paths.schema, { ...schema, $defs: definitions });
   return tasks;
 }
 
@@ -89,7 +91,9 @@ export async function saveDrafts(opts: {
 }): Promise<SaveResult> {
   const { paths } = opts;
   const now = (opts.now ?? new Date()).toISOString();
-  const tasks = z.array(ExtractionTask).parse((await readJson(paths.batch)) ?? []);
+  const tasks = Schema.decodeUnknownSync(Schema.Array(ExtractionTask))(
+    (await readJson(paths.batch)) ?? [],
+  );
   const result: SaveResult = { saved: [], missing: [], invalid: [] };
 
   for (const task of tasks) {
@@ -104,16 +108,16 @@ export async function saveDrafts(opts: {
       result.missing.push(task.sourceUrl);
       continue;
     }
-    const draft = PageExtractionDraft.safeParse(raw);
+    const draft = safeDecode(PageExtractionDraft)(raw);
     if (!draft.success) {
-      result.invalid.push({ url: task.sourceUrl, error: z.prettifyError(draft.error) });
+      result.invalid.push({ url: task.sourceUrl, error: draft.message });
       continue;
     }
     if (draft.data.sourceUrl !== task.sourceUrl) {
       result.invalid.push({ url: task.sourceUrl, error: `sourceUrl is ${draft.data.sourceUrl}` });
       continue;
     }
-    const page = PageExtraction.parse({
+    const page = Schema.decodeUnknownSync(PageExtraction)({
       ...draft.data,
       contentHash: task.contentHash,
       extractionVersion: EXTRACTION_VERSION,

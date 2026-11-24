@@ -2,6 +2,7 @@
 import { readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { PageExtraction } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { loadConfig } from "../config.ts";
 import { loadGazetteer } from "../gazetteer/load.ts";
 
@@ -19,7 +20,7 @@ let located = 0;
 for (const file of files) {
   const path = join(dir, file);
   const page = gazetteer.geocodePage(
-    PageExtraction.parse(JSON.parse(await readFile(path, "utf8"))),
+    Schema.decodeUnknownSync(PageExtraction)(JSON.parse(await readFile(path, "utf8"))),
   );
   places += page.places.length;
   located += page.places.filter((p) => p.geo).length;

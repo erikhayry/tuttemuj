@@ -7,6 +7,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { PageExtraction } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { loadConfig } from "../config.ts";
 import { readGazetteerEntries } from "../gazetteer/load.ts";
 import { rankUnlocated } from "../gazetteer/unlocated.ts";
@@ -19,7 +20,9 @@ const config = loadConfig();
 const dir = join(config.DATA_DIR, "pages");
 const pages: PageExtraction[] = [];
 for (const file of (await readdir(dir, { recursive: true })).filter((f) => f.endsWith(".json"))) {
-  pages.push(PageExtraction.parse(JSON.parse(await readFile(join(dir, file), "utf8"))));
+  pages.push(
+    Schema.decodeUnknownSync(PageExtraction)(JSON.parse(await readFile(join(dir, file), "utf8"))),
+  );
 }
 const all = rankUnlocated(await readGazetteerEntries(config.DATA_DIR), pages);
 const rows = all.slice(0, limit);

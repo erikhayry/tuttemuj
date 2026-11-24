@@ -27,7 +27,7 @@ The analysis runs in Claude Code with the `/extract-pages` skill, on the user's 
 ## Conventions
 
 - A TypeScript pnpm monorepo: `apps/*` are runnable apps, `packages/*` are shared libraries.
-- **All types are Effect Schema schemas** in `packages/schema`. Get static types from the schema (`typeof X.Type`). Do not write interfaces that duplicate a schema. Validate data at every I/O boundary (files, HTTP, the Claude API, the database). Existing Zod code is being migrated (#49, #50); write new code with Effect Schema.
+- **All types are Effect Schema schemas** in `packages/schema`. Get static types from the schema (`typeof X.Type`). Do not write interfaces that duplicate a schema. Validate data at every I/O boundary (files, HTTP, the Claude API, the database). `packages/schema` is fully Effect Schema (#49). Zod remains only in the apps' own local schemas (env config, database rows) until #50; write new code with Effect Schema. Decode with `Schema.decodeUnknownSync(X)(value)`; `safeDecode(X)(value)` from `@tuttemuj/schema` is a bridge for code that still branches on success.
 - [Effect](https://effect.website) for server and shared logic. [Foldkit](https://foldkit.dev) for the UI.
 - Run TS directly with `tsx` and use `.ts` import extensions. `tsc` is used only for type-checking.
 - Biome handles lint and format (`pnpm format`).

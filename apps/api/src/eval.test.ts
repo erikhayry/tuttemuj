@@ -1,6 +1,7 @@
 import { readdirSync, readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { EvalSet } from "@tuttemuj/schema";
+import { Schema } from "effect";
 import { describe, expect, it } from "vitest";
 import { score, summarise } from "./eval.ts";
 
@@ -42,7 +43,9 @@ describe("summarise", () => {
 });
 
 describe("data/eval/questions.json", () => {
-  const cases = EvalSet.parse(JSON.parse(readFileSync(`${root}data/eval/questions.json`, "utf8")));
+  const cases = Schema.decodeUnknownSync(EvalSet)(
+    JSON.parse(readFileSync(`${root}data/eval/questions.json`, "utf8")),
+  );
 
   it("only expects pages that exist in data/pages", () => {
     const known = new Set<string>();

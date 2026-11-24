@@ -1,6 +1,6 @@
-import { z } from "zod";
+import { Schema } from "effect";
 
-export const PlaceKind = z.enum([
+export const PlaceKind = Schema.Literals([
   "street",
   "building",
   "farm",
@@ -11,4 +11,4 @@ export const PlaceKind = z.enum([
   "village",
   "other",
 ]);
-export type PlaceKind = z.infer<typeof PlaceKind>;
+export type PlaceKind = typeof PlaceKind.Type;

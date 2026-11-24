@@ -1,4 +1,4 @@
-import { HistoricalDate } from "@tuttemuj/schema";
+import { HistoricalDate, safeDecode } from "@tuttemuj/schema";
 import { describe, expect, it } from "vitest";
 import { inferEndYear } from "./end-year.ts";
 
@@ -31,8 +31,8 @@ describe("inferEndYear", () => {
 
 describe("HistoricalDate", () => {
   it("accepts a span and rejects an endYear that is not after year", () => {
-    expect(HistoricalDate.safeParse({ year: 1873, endYear: 1971 }).success).toBe(true);
-    expect(HistoricalDate.safeParse({ year: 1873 }).success).toBe(true);
-    expect(HistoricalDate.safeParse({ year: 1873, endYear: 1873 }).success).toBe(false);
+    expect(safeDecode(HistoricalDate)({ year: 1873, endYear: 1971 }).success).toBe(true);
+    expect(safeDecode(HistoricalDate)({ year: 1873 }).success).toBe(true);
+    expect(safeDecode(HistoricalDate)({ year: 1873, endYear: 1873 }).success).toBe(false);
   });
 });

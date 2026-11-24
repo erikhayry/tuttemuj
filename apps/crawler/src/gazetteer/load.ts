@@ -1,13 +1,17 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { GazetteerEntry } from "@tuttemuj/schema";
-import { z } from "zod";
+import { Schema } from "effect";
 import { Gazetteer } from "./geocode.ts";
 
 export const gazetteerPath = (dataDir: string): string => join(dataDir, "gazetteer.json");
 
 export async function readGazetteerEntries(dataDir: string): Promise<GazetteerEntry[]> {
-  return z.array(GazetteerEntry).parse(JSON.parse(await readFile(gazetteerPath(dataDir), "utf8")));
+  return [
+    ...Schema.decodeUnknownSync(Schema.Array(GazetteerEntry))(
+      JSON.parse(await readFile(gazetteerPath(dataDir), "utf8")),
+    ),
+  ];
 }
 
 /** The gazetteer, or undefined if data/gazetteer.json has not been built yet. */

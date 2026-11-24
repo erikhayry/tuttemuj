@@ -1,11 +1,12 @@
 import { appendFile, mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
-import type { z } from "zod";
+import { safeDecode } from "@tuttemuj/schema";
+import type { Schema } from "effect";
 
-export async function readJsonl<T extends z.ZodType>(
+export async function readJsonl<S extends Schema.ConstraintDecoder<unknown>>(
   path: string,
-  schema: T,
-): Promise<z.infer<T>[]> {
+  schema: S,
+): Promise<S["Type"][]> {
   let raw: string;
   try {
     raw = await readFile(path, "utf8");
@@ -13,12 +14,13 @@ export async function readJsonl<T extends z.ZodType>(
     if ((err as NodeJS.ErrnoException).code === "ENOENT") return [];
     throw err;
   }
+  const decode = safeDecode(schema);
   return raw
     .split("\n")
     .filter((line) => line.trim())
     .map((line, i) => {
-      const result = schema.safeParse(JSON.parse(line));
-      if (!result.success) throw new Error(`${path}:${i + 1}: ${result.error.message}`);
+      const result = decode(JSON.parse(line));
+      if (!result.success) throw new Error(`${path}:${i + 1}: ${result.message}`);
       return result.data;
     });
 }

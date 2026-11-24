@@ -1,52 +1,51 @@
-import { z } from "zod";
+import { Effect, Schema } from "effect";
 import { GeoPoint } from "./gazetteer.ts";
 import { SourceUrl } from "./source.ts";
 
 /** Languages the app answers in. Sources are always Swedish. */
-export const Lang = z.enum(["sv", "fi", "en"]);
-export type Lang = z.infer<typeof Lang>;
+export const Lang = Schema.Literals(["sv", "fi", "en"]);
+export type Lang = typeof Lang.Type;
 
 /** Body of POST /ask. Location is optional: a question can be asked from anywhere. */
-export const AskRequest = z
-  .object({
-    question: z.string().trim().min(3).max(500),
-    lat: GeoPoint.shape.lat.optional(),
-    lng: GeoPoint.shape.lng.optional(),
-    lang: Lang.default("sv"),
-  })
-  .refine((r) => (r.lat === undefined) === (r.lng === undefined), {
-    message: "lat and lng go together",
-    path: ["lat"],
-  });
-export type AskRequest = z.infer<typeof AskRequest>;
+export const AskRequest = Schema.Struct({
+  question: Schema.Trim.check(Schema.isMinLength(3), Schema.isMaxLength(500)),
+  lat: Schema.optionalKey(GeoPoint.fields.lat),
+  lng: Schema.optionalKey(GeoPoint.fields.lng),
+  lang: Lang.pipe(Schema.withDecodingDefaultKey(Effect.succeed("sv" as const))),
+}).check(
+  Schema.makeFilter(
+    (r) => (r.lat === undefined) === (r.lng === undefined) || "lat and lng go together",
+  ),
+);
+export type AskRequest = typeof AskRequest.Type;
 
 /** A page an answer is built from: our own title and the link to the original. */
-export const AskSource = z.object({
+export const AskSource = Schema.Struct({
   /** The number used as [n] in the answer. */
-  n: z.int().positive(),
+  n: Schema.Int.check(Schema.isGreaterThan(0)),
   sourceUrl: SourceUrl,
-  title: z.string(),
+  title: Schema.String,
   /** Our own summary of the page. Only set in search mode, where there is no written answer. */
-  summary: z.string().optional(),
+  summary: Schema.optionalKey(Schema.String),
   /** People the page names, as "Name (1850–1920, role)". Only set in search mode. */
-  people: z.array(z.string()).optional(),
+  people: Schema.optionalKey(Schema.Array(Schema.String)),
 });
-export type AskSource = z.infer<typeof AskSource>;
+export type AskSource = typeof AskSource.Type;
 
 /**
  * Response of POST /ask. In answer mode `answer` cites sources as [n]. When the facts do not answer
  * the question, `grounded` is false, `answer` says so, and `suggestions` are the nearest pages.
  * Never contains page text.
  */
-export const AskResponse = z.object({
+export const AskResponse = Schema.Struct({
   /**
    * "answer": Claude wrote `answer` from the sources. "search": no Claude, `answer` is a one-line
    * intro and `sources` are the best matching pages with our summaries.
    */
-  mode: z.enum(["answer", "search"]),
-  answer: z.string(),
-  grounded: z.boolean(),
-  sources: z.array(AskSource),
-  suggestions: z.array(z.object({ sourceUrl: SourceUrl, title: z.string() })),
+  mode: Schema.Literals(["answer", "search"]),
+  answer: Schema.String,
+  grounded: Schema.Boolean,
+  sources: Schema.Array(AskSource),
+  suggestions: Schema.Array(Schema.Struct({ sourceUrl: SourceUrl, title: Schema.String })),
 });
-export type AskResponse = z.infer<typeof AskResponse>;
+export type AskResponse = typeof AskResponse.Type;
