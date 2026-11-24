@@ -75,6 +75,10 @@ Today `EXTRACTION_VERSION` is one number and the skill file isn't tied to it. Fr
 - **Supabase Postgres** with PostGIS stays the database. The loader keeps syncing from git `data/`.
 - **No AI and no Voyage at request time** in v1. The nightly embed can keep running so v2 has embeddings ready.
 
+## Testing
+
+No unit tests: feature tests with Playwright and property tests with Bombadil (UI) and generated requests (API). See `docs/testing.md`.
+
 ## Server API (v1)
 
 - `GET /places/near?lat&lng&radius`: the located places near the user, nearest first.

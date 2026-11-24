@@ -30,7 +30,8 @@ The analysis runs in Claude Code with the `/extract-pages` skill, on the user's 
 - **All types are Effect Schema schemas** in `packages/schema`. Get static types from the schema (`typeof X.Type`). Do not write interfaces that duplicate a schema. Validate data at every I/O boundary (files, HTTP, the Claude API, the database). Existing Zod code is being migrated (#49, #50); write new code with Effect Schema.
 - [Effect](https://effect.website) for server and shared logic. [Foldkit](https://foldkit.dev) for the UI.
 - Run TS directly with `tsx` and use `.ts` import extensions. `tsc` is used only for type-checking.
-- Biome handles lint and format (`pnpm format`). Vitest handles tests (`*.test.ts` next to the source).
+- Biome handles lint and format (`pnpm format`).
+- **No unit tests.** Test features end to end and test properties (see `docs/testing.md`): Playwright for UI and API feature tests (one test per feature, not per line), Bombadil for UI property tests, generated requests for API property tests. Tests run against a local seeded Supabase, never production. Existing Vitest unit tests are replaced as their code moves to Effect.
 - Use conventional commits (`feat:`, `fix:`, `chore:`, `docs:`) and a branch per change, opened as a PR to `main`.
   - Exception: data-only commits (`data:`), i.e. `/extract-pages` results and the nightly crawl, are committed and pushed straight to `main`, with no branch or PR.
 - Source data is Swedish. The user-facing apps are multi-language (sv, fi, en to start), but v1 ships Swedish only. All UI text comes from per-language message catalogs keyed by id; API responses carry ids and data, never UI text.
