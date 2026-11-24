@@ -11,28 +11,28 @@ A mobile web app (PWA). The user allows location, and the app offers ready-made 
 
 ## Releases
 
-| Release | Scope |
-| --- | --- |
-| v1 | Location, 10 buttons, Swedish, mobile web/PWA |
-| v1.1 | Finnish and English UI, and translated summaries |
-| v2 | Free-text questions with AI answers (the current `/ask` work in #3) |
+| Release | Scope                                                               |
+| ------- | ------------------------------------------------------------------- |
+| v1      | Location, 10 buttons, Swedish, mobile web/PWA                       |
+| v1.1    | Finnish and English UI, and translated summaries                    |
+| v2      | Free-text questions with AI answers (the current `/ask` work in #3) |
 
 ## The 10 buttons
 
 Each button is a fixed query for the places near the user (the nearest located places within a radius). Labels are UI strings with stable ids, so they can be translated later.
 
-| # | Id | Label (sv) | Answer | Data |
-| --- | --- | --- | --- | --- |
-| 1 | `who-lived-here` | Vem bodde här? | People who lived at or owned the place, with years | **New:** person–place relations |
-| 2 | `what-happened-here` | Vad hände här? | Events at the place, oldest first | Existing: events and event places |
-| 3 | `stories-from-here` | Berätta en historia härifrån | Stories, memories and anecdotes about the place | Existing: story pitches and summaries. **New:** page type |
-| 4 | `old-images-from-here` | Visa gamla bilder härifrån | Photos and postcards of the place, with year | Existing: page images. **New:** which place and year each image shows |
-| 5 | `old-maps` | Visa på gamla kartor | Historic map pages that show the place | Existing: map pages (`sidor/karta/`) and their places |
-| 6 | `what-was-here` | Vad fanns här förr? | What the place used to be (school, pharmacy, shop…), with years, incl. demolished buildings | **New:** place uses |
-| 7 | `who-worked-here` | Vem arbetade här? | Businesses, workshops and the people who ran or worked in them | **New:** person–place relations and place uses |
-| 8 | `why-the-name` | Varför heter det så? | Where the street or place name comes from | **New:** name origin |
-| 9 | `on-this-day` | Hände på dagens datum | Events near the user on today's day and month, any year | Existing: event dates with month and day |
-| 10 | `nearby` | Vad finns i närheten? | Other places close by that have stories, for walking on | Existing: `nearby_places` |
+| #   | Id                     | Label (sv)                   | Answer                                                                                      | Data                                                                  |
+| --- | ---------------------- | ---------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | `who-lived-here`       | Vem bodde här?               | People who lived at or owned the place, with years                                          | **New:** person–place relations                                       |
+| 2   | `what-happened-here`   | Vad hände här?               | Events at the place, oldest first                                                           | Existing: events and event places                                     |
+| 3   | `stories-from-here`    | Berätta en historia härifrån | Stories, memories and anecdotes about the place                                             | Existing: story pitches and summaries. **New:** page type             |
+| 4   | `old-images-from-here` | Visa gamla bilder härifrån   | Photos and postcards of the place, with year                                                | Existing: page images. **New:** which place and year each image shows |
+| 5   | `old-maps`             | Visa på gamla kartor         | Historic map pages that show the place                                                      | Existing: map pages (`sidor/karta/`) and their places                 |
+| 6   | `what-was-here`        | Vad fanns här förr?          | What the place used to be (school, pharmacy, shop…), with years, incl. demolished buildings | **New:** place uses                                                   |
+| 7   | `who-worked-here`      | Vem arbetade här?            | Businesses, workshops and the people who ran or worked in them                              | **New:** person–place relations and place uses                        |
+| 8   | `why-the-name`         | Varför heter det så?         | Where the street or place name comes from                                                   | **New:** name origin                                                  |
+| 9   | `on-this-day`          | Hände på dagens datum        | Events near the user on today's day and month, any year                                     | Existing: event dates with month and day                              |
+| 10  | `nearby`               | Vad finns i närheten?        | Other places close by that have stories, for walking on                                     | Existing: `nearby_places`                                             |
 
 A button is only shown when it has at least one result for the places around the user.
 

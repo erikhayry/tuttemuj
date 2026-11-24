@@ -4,10 +4,10 @@ Decided on 2026-11-24. **No unit tests.** We test features from the outside, the
 
 ## The two kinds of test
 
-| Kind | UI | API |
-| --- | --- | --- |
-| **Feature tests (e2e)** | [Playwright](https://playwright.dev): one test per user-visible feature | Playwright Test (`request` fixture): one test per endpoint feature |
-| **Property tests** | [Bombadil](https://github.com/antithesishq/bombadil): random exploration of the running app, checking properties written in TypeScript | Generated requests (Effect Schema's arbitrary generators with fast-check), checking properties of every response |
+| Kind                    | UI                                                                                                                                     | API                                                                                                              |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Feature tests (e2e)** | [Playwright](https://playwright.dev): one test per user-visible feature                                                                | Playwright Test (`request` fixture): one test per endpoint feature                                               |
+| **Property tests**      | [Bombadil](https://github.com/antithesishq/bombadil): random exploration of the running app, checking properties written in TypeScript | Generated requests (Effect Schema's arbitrary generators with fast-check), checking properties of every response |
 
 Playwright Test is the runner for UI feature tests and for all API tests, so there is one runner and one report. Bombadil runs on its own against the app's URL.
 
