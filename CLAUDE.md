@@ -11,7 +11,8 @@ v1 (see `docs/v1-plan.md`) has no AI: the user allows location and picks from 10
 - Store only derived facts (entities, dates, coordinates), our own short summaries and source URLs.
 - Never commit or republish page text. Raw HTML stays in `.cache/`, which is gitignored.
 - Every fact and every answer must be traceable to a `sourceUrl`, and the user must be shown that link.
-- The site owner has agreed that the app may show the site's images. Load them from nykarlebyvyer.nu and link each to its page; never download or rehost them.
+- The site owner has agreed that the app may show the site's images. Load them from nykarlebyvyer.nu and link each to its page; never rehost them.
+- Images may be fetched only to classify them with TypeSafe Jev (`images:classify`, see `docs/images.md`): politely, like the crawl, into a temporary folder, deleted right after. Only Jev's answers are stored, never the image.
 
 ## Crawling
 

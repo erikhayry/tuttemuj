@@ -17,7 +17,8 @@
     "places:unmatched": "tsx src/cli/places-unmatched.ts",
     "extract:next": "tsx src/cli/extract-next.ts",
     "extract:save": "tsx src/cli/extract-save.ts",
-    "pages:mark-no-content": "tsx src/cli/pages-mark-no-content.ts"
+    "pages:mark-no-content": "tsx src/cli/pages-mark-no-content.ts",
+    "images:classify": "tsx --env-file-if-exists=../../.env src/cli/images-classify.ts"
   },
   "dependencies": {
     "@tuttemuj/schema": "workspace:*",

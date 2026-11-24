@@ -42,7 +42,8 @@ Every night at 03:15, `scripts/nightly.sh` does the following:
 
 1. Pulls the latest `main`.
 2. Crawls the next batch.
-3. Commits `data/` and pushes it, which is the backup.
+3. Classifies the next batch of images with TypeSafe Jev (`IMAGE_CLASSIFY_LIMIT`, default 1000), after the crawl so the site gets one request at a time. Needs `JEV_API_KEY` in the clone's `.env`; without it the step does nothing. See `docs/images.md`.
+4. Commits `data/` and pushes it, which is the backup.
 
 The log is written to `.cache/nightly.log`.
 

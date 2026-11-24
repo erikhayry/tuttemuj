@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Nightly crawl: fetch the next batch of pages, then commit and push data/ as backup.
+# Nightly crawl: fetch the next batch of pages, classify the next batch of images, then commit and
+# push data/ as backup.
 # Meant to run from a dedicated clone checked out on main (see docs/crawling.md),
 # so it never interferes with work in progress.
 set -euo pipefail
@@ -26,6 +27,11 @@ fi
 git pull --rebase --autostash --quiet
 pnpm install --frozen-lockfile --silent
 pnpm --filter @tuttemuj/crawler crawl
+# After the crawl, never at the same time, so the site gets one request at a time. Needs JEV_API_KEY
+# in .env (otherwise it does nothing). A failure here must not lose the crawl's data.
+images="$(pnpm --silent --filter @tuttemuj/crawler images:classify 2>&1 | { grep -v CGColor || true; } | tail -n 1)" ||
+  images="Image classification failed: $images"
+echo "$images"
 
 git add data
 if git diff --cached --quiet; then
@@ -33,6 +39,6 @@ if git diff --cached --quiet; then
   exit 0
 fi
 summary="$(tail -n 1 data/runs.jsonl)"
-git commit --quiet -m "data: nightly crawl $(date -u +%Y-%m-%d)" -m "$summary"
+git commit --quiet -m "data: nightly crawl $(date -u +%Y-%m-%d)" -m "$summary" -m "$images"
 git push --quiet
 echo "Pushed data."

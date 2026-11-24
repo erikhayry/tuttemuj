@@ -6,6 +6,7 @@ export * from "./entities.ts";
 export * from "./env.ts";
 export * from "./eval.ts";
 export * from "./gazetteer.ts";
+export * from "./image-class.ts";
 export * from "./names.ts";
 export * from "./nearby.ts";
 export * from "./no-content.ts";

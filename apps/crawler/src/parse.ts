@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto";
 import type { ImageRef, SourceUrl } from "@tuttemuj/schema";
 import * as cheerio from "cheerio";
-import { findImages, markImages } from "./images.ts";
+import { findImages, markImages } from "./images/find.ts";
 import { normalizeUrl } from "./url.ts";
 
 export type ParsedPage = {

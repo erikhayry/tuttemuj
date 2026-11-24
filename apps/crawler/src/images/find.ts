@@ -1,6 +1,6 @@
 import type { ImageRef, SourceUrl } from "@tuttemuj/schema";
 import type { CheerioAPI } from "cheerio";
-import { normalizeImageUrl } from "./url.ts";
+import { normalizeImageUrl } from "../url.ts";
 
 /** Shorter side and area limits: drops icons and arrows (by area) and thin strips like scale bars (by side). */
 const MIN_SIDE = 150;

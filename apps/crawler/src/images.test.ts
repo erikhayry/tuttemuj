@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import { describe, expect, it } from "vitest";
-import { findImages, isLargeImage } from "./images.ts";
+import { findImages, isLargeImage } from "./images/find.ts";
 
 const PAGE = "https://www.nykarlebyvyer.nu/sidor/karta/a.htm";
 const IMG = "https://www.nykarlebyvyer.nu/bilder/kartor";

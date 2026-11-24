@@ -11,9 +11,10 @@ Starts the installed launchd job `tuttemuj.crawl`, the same job that runs every 
 1. Checks that the clone is on `main`.
 2. Pulls `main`.
 3. Crawls up to `CRAWL_LIMIT` (1000) pages, politely.
-4. Commits `data/` as `data: nightly crawl <date>` and pushes.
+4. Classifies up to `IMAGE_CLASSIFY_LIMIT` (1000) images with TypeSafe Jev, if `JEV_API_KEY` is in `.env` (`docs/images.md`).
+5. Commits `data/` as `data: nightly crawl <date>` and pushes.
 
-A run takes about 2.5–3 hours (1000 pages × 5 s pause plus fetch time). Don't pass arguments or change the crawl settings: the point is to behave exactly like the nightly run.
+A run takes about 2.5–3 hours for the pages (1000 × 5 s pause plus fetch time), plus about as long again for the images. Don't pass arguments or change the crawl settings: the point is to behave exactly like the nightly run.
 
 ## Steps
 
@@ -36,6 +37,7 @@ A run takes about 2.5–3 hours (1000 pages × 5 s pause plus fetch time). Don't
    Tell the user the crawl has started and roughly how long it takes. Never report results before the background command has finished.
 5. **Report** once it's done:
    - The new line in `data/runs.jsonl`: fetched, failed, gone, new URLs, pending.
+   - The image line from the log: classified, failed, left, showable, to review.
    - `last exit code` from `launchctl print`.
    - The commit that was pushed (`git log --oneline -1`).
    - Any `✗` lines or errors in the log output.
