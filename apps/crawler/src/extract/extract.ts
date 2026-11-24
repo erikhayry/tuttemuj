@@ -6,6 +6,7 @@ import {
   type FrontierEntry,
   isEnriched,
   NO_CONTENT_PAGE_TYPES,
+  needsEnrichment,
   noContentPageType,
   PageExtraction,
   PageExtractionDraft,
@@ -18,6 +19,7 @@ import type { Gazetteer } from "../gazetteer/geocode.ts";
 import { parsePage } from "../parse.ts";
 import { readJson, writeJson } from "./json.ts";
 import type { extractionPaths } from "./paths.ts";
+import { referenceErrors } from "./references.ts";
 
 type Paths = ReturnType<typeof extractionPaths>;
 
@@ -29,9 +31,9 @@ async function needsExtraction(entry: FrontierEntry, paths: Paths): Promise<bool
   // An empty page or a menu is not worth redoing for a new version; only if its content changes.
   const { pageType } = existing.data;
   if (pageType !== undefined && NO_CONTENT_PAGE_TYPES.has(pageType)) return false;
-  // An enriched page (`/enrich-pages`) already has the fields the newer version added, so a version
-  // bump does not queue it again. New pages get the full extraction instead.
-  if (isEnriched(existing.data)) return false;
+  // Pages from before the v1 fields are brought up to date by `/enrich-pages` (done or waiting),
+  // not redone in full. A version bump re-extracts only pages that are neither.
+  if (isEnriched(existing.data) || needsEnrichment(existing.data)) return false;
   return existing.data.extractionVersion < EXTRACTION_VERSION;
 }
 
@@ -60,6 +62,7 @@ export async function prepareBatch(opts: {
         contentHash: entry.contentHash,
         textPath,
         draftPath: paths.draft(entry.url),
+        imageCount: page.images.length,
       }),
     );
   }
@@ -110,11 +113,25 @@ export async function saveDrafts(opts: {
       result.invalid.push({ url: task.sourceUrl, error: `sourceUrl is ${draft.data.sourceUrl}` });
       continue;
     }
-    // Mark pages without content of their own, unless the analyst already set a page type.
-    const pageType = draft.data.pageType ?? noContentPageType(draft.data);
+    // Names in relations and images must be on the page; the analyst fixes the draft otherwise.
+    const errors = referenceErrors(
+      {
+        people: draft.data.people.map((p) => p.name),
+        places: draft.data.places.map((p) => p.name),
+      },
+      draft.data,
+      task.imageCount,
+    );
+    if (errors.length) {
+      result.invalid.push({ url: task.sourceUrl, error: errors.join("\n") });
+      continue;
+    }
+    // A page the analyst typed as content but with no facts and a "no content" summary is still
+    // marked empty or menu, so a slip in the page type does not put it in search results.
+    const pageType = noContentPageType(draft.data) ?? draft.data.pageType;
     const page = Schema.decodeUnknownSync(PageExtraction)({
       ...draft.data,
-      ...(pageType ? { pageType } : {}),
+      pageType,
       contentHash: task.contentHash,
       extractionVersion: EXTRACTION_VERSION,
       extractedAt: now,

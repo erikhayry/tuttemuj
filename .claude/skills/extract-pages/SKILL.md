@@ -1,22 +1,22 @@
 ---
 
 name: extract-pages
-version: 1
-description: Analyse crawled nykarlebyvyer.nu pages into structured data (people, places, events, dates, summary) in data/pages. Use when the user asks to analyse, extract or process crawled pages, e.g. "/extract-pages 20".
+version: 2
+description: Analyse crawled nykarlebyvyer.nu pages into structured data (people, places, events, dates, summary, page type, person–place relations, place uses, image facts) in data/pages. Use when the user asks to analyse, extract or process crawled pages, e.g. "/extract-pages 20".
 ---
 
 # Extract pages
 
 Turn crawled pages into structured facts that validate against `PageExtractionDraft` (`packages/schema/src/entities.ts`). The argument is the number of pages to do. If no number is given, do 10.
 
-**Versioning.** `version` above must equal `EXTRACTION_VERSION` in `packages/schema/src/entities.ts` (a test checks this). When you change these instructions or the draft schema so that old pages should be redone, bump both and describe the change in `docs/extraction-versions.md`. `extract:next` then picks every page saved with an older version.
+**Versioning.** `version` above must equal `EXTRACTION_VERSION` in `packages/schema/src/entities.ts` (a test checks this). When you change these instructions or the draft schema so that old pages should be redone, bump both and describe the change in `docs/extraction-versions.md`. `extract:next` then picks every page saved with an older version, except pages from before the v1 fields: `/enrich-pages` brings those up to date instead.
 
 ## Steps
 
 1. Run `pnpm --filter @tuttemuj/crawler extract:next <count>`. It prints each page's text file and draft path.
    - The JSON Schema for drafts is in `.cache/extract/draft.schema.json`. Read it once.
 2. For each page:
-   - Read its text file.
+   - Read its text file. Large images are marked `[bild n]` in the text.
    - Write a draft JSON file to its `draftPath`.
    - To save context, do the pages one by one. Don't read them all first.
 3. Run `pnpm --filter @tuttemuj/crawler extract:save`.
@@ -49,11 +49,15 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
   - Give `birthYear`/`deathYear` only when the page states them.
   - `roles` covers things like occupation and title ("rådman", "skeppsbyggare").
   - Put spelling variants in `alternateNames`.
+- `pageType`: **always set it.** Pick the one that fits best:
+  - `photo` (mainly photographs with captions), `postcard` (vykort), `map` (a map, plan or chart), `story` (a memory, a tale, a personal account), `article` (a factual text about a topic, person, building or event), `list` (a register, table or list of names, houses or items), `menu` (only links to other pages), `empty` (no content of its own: a frame, a lone logo, an empty page).
 - `places`: streets, buildings, farms, districts, landmarks, waters, islands (incl. holmar, skär, ören) and villages.
   - Never write `geo`. `extract:save` adds coordinates by matching `address`, `name` and `alternateNames` against `data/gazetteer.json` (modern names). When the page gives a modern name, add it to `alternateNames` so the place can be located.
   - Pick the closest `kind`.
   - `address`: copy it as written (old addresses are valuable). Add today's address in the `description` only if the page gives it.
   - Places that are tied to a physical spot in Nykarleby are the most important, since the app answers "what happened here?".
+  - `uses`: what the place was used for, each as `use` (one short lowercase Swedish noun, such as "apotek", "skola", "bageri") with `startYear` and `endYear` when stated. Only uses the page states. Leave the field out when there are none.
+  - `nameOrigin`: where the place's name comes from, in **your own words, one Swedish sentence**. Only when the page explains it.
 - `events`: things that happened, each with a `date` as precise as the page allows.
   - `year` is required.
   - Set `circa: true` for "omkring", "ca" and similar.
@@ -62,6 +66,16 @@ Turn crawled pages into structured facts that validate against `PageExtractionDr
   - `description`: one self-contained sentence in Swedish, in your own words, that makes sense without the page: say what happened and name the place and the people when the page does.
   - `people` and `places` reference names used in the lists above.
 
+- `relations`: **always set it** (`[]` when the page states none). How a person in `people` is tied to a place in `places`; both names must be exactly as written in those lists.
+  - `relation` is one of: `lived` (bodde), `owned` (ägde), `built` (byggde eller lät bygga), `ran` (drev, e.g. a shop, inn or business), `worked` (arbetade där), `born` (föddes där), `died` (dog där).
+  - `startYear` and `endYear` only when the page states them. "Bodde där till 1920" has only `endYear: 1920`. A single year is the same value in both.
+  - Only what the page says. A place called "X:s gård" does not by itself say that X owned or lived there.
+  - One entry per person, place and relation.
+- `images`: **always set it** (`[]` when the page says nothing about its images). Only images the page says something about.
+  - `image` is the number in `[bild n]`.
+  - `places`: names from `places` that the image shows, when the page says so. A caption that names a street or a building counts.
+  - `year`: the year the image was made or shows, only when stated. "195X" or "1950-talet" is not a year: leave it out.
+  - Leave out images with no stated place and no year.
 - `comicCandidate`: **always set it**: `null`, or an object if the page tells a story that could become a comic. The user turns local stories into comics in another project.
   - A candidate has people (named or not) and something happening to them: a conflict, a danger, a turning point, a vivid scene or a strong memory. Lists, map captions and plain facts are `null`.
   - `potential`: `"high"` when the page itself carries the story (a scene, dialogue, a sequence of events, personal memories); `"medium"` when the page has a strong story seed but only a few lines of it.

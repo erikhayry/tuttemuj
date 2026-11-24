@@ -207,7 +207,7 @@ export const PageExtraction = Schema.Struct({
 export type PageExtraction = typeof PageExtraction.Type;
 
 /** Bump when the extraction instructions or schema change, so pages get re-analysed. */
-export const EXTRACTION_VERSION = 1;
+export const EXTRACTION_VERSION = 2;
 
 /**
  * What the analyst (Claude Code, run manually) writes for one page.
@@ -220,6 +220,11 @@ export const PageExtractionDraft = PageExtraction.mapFields(
     places: ArrayWithDefault(PlaceMentionDraft),
     /** Required in drafts: the analyst always decides (null when not a candidate). */
     comicCandidate: Schema.NullOr(ComicCandidate),
+    /** Required in drafts too: every page has a type. */
+    pageType: PageType,
+    /** Required in drafts: an empty list means "assessed, nothing found" (see `needsEnrichment`). */
+    relations: Schema.Array(PersonPlaceRelation),
+    images: Schema.Array(ImageFact),
   }),
 );
 export type PageExtractionDraft = typeof PageExtractionDraft.Type;
@@ -231,5 +236,7 @@ export const ExtractionTask = Schema.Struct({
   contentHash: Schema.String,
   textPath: Schema.String,
   draftPath: Schema.String,
+  /** How many `[bild n]` markers the text has, so `extract:save` can check image numbers. */
+  imageCount: Schema.Int.check(Schema.isGreaterThanOrEqualTo(0)),
 });
 export type ExtractionTask = typeof ExtractionTask.Type;

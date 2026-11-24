@@ -54,7 +54,7 @@ To run the same job now, use `/crawl` in Claude Code (`.claude/skills/crawl/SKIL
 A second job, `tuttemuj.extract`, runs at 04:00 (the crawl may still be running) and does what you would do by hand:
 
 1. Runs the data skills headless with `claude -p`, on your Claude Code subscription (`ANTHROPIC_API_KEY` is unset for them), one pass after the other:
-   - `/extract-pages` for `EXTRACT_COUNT` pages (default 0, so off): new pages, changed pages and pages extracted with an older skill version. It stays off until #55 teaches the skill the v1 fields, so new pages are not done twice.
+   - `/extract-pages` for `EXTRACT_COUNT` pages (default 100): new pages and changed pages. Since version 2 the skill writes the v1 fields too, so a new page is done in one pass. Pages from before v1 are left to `/enrich-pages`.
    - `/enrich-pages` for `ENRICH_COUNT` pages (default 50): adds the v1 fields to pages already extracted, until that backlog is done. After that it finds no pages and costs almost nothing.
    - Set a count to `0` to skip that pass. Each pass is stopped after `CLAUDE_TIME_LIMIT` seconds (default 5400, i.e. 90 minutes), so one bad run can't use your subscription all night.
 2. Commits and pushes `data/` (`data: nightly extract <date>`, listing the passes that ran). Pages a pass saved are committed even if the pass was stopped or failed.

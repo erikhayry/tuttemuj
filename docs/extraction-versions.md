@@ -10,7 +10,21 @@ Bump when the instructions or the draft schema change in a way that makes old pa
 
 ## Versions
 
-### 1 (current)
+### 2 (current)
+
+The v1 fields (#53, #55) are part of the full extraction, so a new page gets everything in one pass:
+
+- `pageType`: always set. `extract:save` still overrides it with `empty` or `menu` when the summary and facts say the page has no content of its own.
+- `relations`: person–place relations (lived, owned, built, ran, worked, born, died) with `startYear` and `endYear` when stated. Always set (`[]` when none).
+- `images`: per image (`[bild n]`), the places it shows and its year, only when the page says. Always set. Whether an image is a photo, and whether it shows buildings or people, is answered per image by Jev (`docs/images.md`), not here.
+- On each place: `uses` (what it was used for, with years) and `nameOrigin`.
+- `extract:save` rejects a draft whose relations or images name a person or place that is not on the page, or an image number that does not exist.
+
+Missing means "not assessed"; an empty list means "assessed, nothing found". On a page with an `enrichments` stamp, every place was assessed, so a place without `uses` has none.
+
+Pages extracted with version 1 are not redone for this bump: `/enrich-pages` adds the same fields to them (see below). Only pages whose content changes, or that have neither v1 fields nor a waiting enrichment, are re-extracted.
+
+### 1
 
 The first full extraction. Per page:
 
@@ -20,17 +34,6 @@ The first full extraction. Per page:
 - `events` with a date as precise as the page allows (`year`, `month`, `day`, `circa`, `endYear` for spans, original wording in `text`), and the people and places involved.
 - `comicCandidate`: always decided (`null` or a candidate with pitch and reason).
 - Only facts the page states. Nothing is filled in from memory.
-
-### Next (not released): v1 fields in the full extraction
-
-The schema accepts these optional fields (#53). `/extract-pages` does not ask for them yet and `EXTRACTION_VERSION` is not bumped, so no page is queued again. #55 updates that skill and bumps the version for new pages. Old pages get the same fields from `/enrich-pages` (below).
-
-- `pageType`: empty, photo, postcard, map, story, article, list or menu. `empty` and `menu` are already set on old pages by a rule on our own summary (`pages:mark-no-content`), and `extract:save` sets them on new pages.
-- `relations`: person–place relations (lived, owned, built, ran, worked, born, died) with `startYear` and `endYear` when stated.
-- `images`: per image (`[bild n]`), the places it shows and its year. Whether an image is a photo, and whether it shows buildings or people, is answered per image by Jev (`docs/images.md`), not here.
-- On each place: `uses` (what it was used for, with years) and `nameOrigin`.
-
-Missing means "not assessed"; an empty list means "assessed, nothing found". On a page with an `enrichments` stamp, every place was assessed, so a place without `uses` has none.
 
 ## Enrichment versions
 

@@ -3,9 +3,8 @@
 # Supabase (sync) and Voyage (embed). Runs in the same dedicated clone as nightly.sh.
 #
 # Two passes, each with its own batch size (0 skips a pass):
-#   /extract-pages  EXTRACT_COUNT (default 0 for now): new pages, changed pages and pages with an
-#                   older extraction version. Off until #55 teaches the skill the v1 fields, so
-#                   new pages are not extracted twice (once without them, once to enrich).
+#   /extract-pages  EXTRACT_COUNT (default 100): new pages and changed pages. Since version 2 the
+#                   skill writes the v1 fields too, so a new page is done in one pass.
 #   /enrich-pages   ENRICH_COUNT (default 50): adds the v1 fields to pages already extracted,
 #                   until that backlog is done. Then it finds nothing and costs nothing.
 # Each pass is stopped after CLAUDE_TIME_LIMIT seconds (default 5400). Whatever a pass saved is
@@ -21,7 +20,7 @@ for cmd in pnpm claude perl; do
   command -v "$cmd" >/dev/null || { echo "$cmd not found on PATH ($PATH)" >&2; exit 1; }
 done
 
-EXTRACT_COUNT="${EXTRACT_COUNT:-0}"
+EXTRACT_COUNT="${EXTRACT_COUNT:-100}"
 ENRICH_COUNT="${ENRICH_COUNT:-50}"
 CLAUDE_TIME_LIMIT="${CLAUDE_TIME_LIMIT:-5400}"
 for n in "$EXTRACT_COUNT" "$ENRICH_COUNT" "$CLAUDE_TIME_LIMIT"; do

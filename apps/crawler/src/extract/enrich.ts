@@ -15,6 +15,7 @@ import { parsePage } from "../parse.ts";
 import type { SaveResult } from "./extract.ts";
 import { readJson, writeJson } from "./json.ts";
 import type { enrichmentPaths } from "./paths.ts";
+import { referenceErrors } from "./references.ts";
 
 type Paths = ReturnType<typeof enrichmentPaths>;
 
@@ -101,25 +102,12 @@ export function mergeEnrichment(
   now: string,
 ): { page: Record<string, unknown> } | { errors: string[] } {
   const page = Schema.decodeUnknownSync(PageExtraction)(raw);
-  const people = new Set(page.people.map((p) => p.name));
   const places = new Set(page.places.map((p) => p.name));
-  const errors: string[] = [];
-
-  for (const [i, r] of draft.relations.entries()) {
-    if (!people.has(r.person))
-      errors.push(`relations[${i}]: "${r.person}" is not in the page's people`);
-    if (!places.has(r.place))
-      errors.push(`relations[${i}]: "${r.place}" is not in the page's places`);
-  }
-  const seenImages = new Set<number>();
-  for (const [i, im] of draft.images.entries()) {
-    if (im.image > imageCount)
-      errors.push(`images[${i}]: [bild ${im.image}] does not exist (${imageCount} images)`);
-    if (seenImages.has(im.image)) errors.push(`images[${i}]: [bild ${im.image}] is listed twice`);
-    seenImages.add(im.image);
-    for (const name of im.places)
-      if (!places.has(name)) errors.push(`images[${i}]: "${name}" is not in the page's places`);
-  }
+  const errors = referenceErrors(
+    { people: page.people.map((p) => p.name), places },
+    draft,
+    imageCount,
+  );
   const seenPlaces = new Set<string>();
   for (const [i, p] of draft.places.entries()) {
     if (!places.has(p.name)) errors.push(`places[${i}]: "${p.name}" is not in the page's places`);
