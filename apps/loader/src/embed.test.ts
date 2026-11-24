@@ -12,6 +12,7 @@ const page = (n: string, extra: Partial<PageRow> = {}): PageRow => ({
   topics: [],
   duplicate_of: null,
   comic_candidate: null,
+  page_type: null,
   content_hash: "h",
   extraction_version: 1,
   model: "m",

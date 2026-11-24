@@ -59,8 +59,10 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     "source_url",
   );
 
-  // Events after their pages and places, links after both.
+  // Events and the v1 facts after their pages and places, links after both.
   await upsert("events", rows.events, "id");
+  await upsert("place_uses", rows.placeUses, "id");
+  await upsert("image_facts", rows.imageFacts, "id");
 
   // Links: remove the ones that are gone, then add the current ones.
   const syncLinks = async (
@@ -92,6 +94,14 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
   );
 
   const stalePagePeople = await syncLinks("page_people", "page_url", "name", rows.pagePeople);
+  // Relations point at (page, person) rows, so they come after page_people.
+  await upsert("person_place_relations", rows.relations, "id");
+  const staleImagePlaces = await syncLinks(
+    "image_fact_places",
+    "image_id",
+    "place_id",
+    rows.imageFactPlaces,
+  );
 
   // Pages and places that no longer exist (their links go with them).
   const removeMissing = async (table: string, column: string, keep: string[]) => {
@@ -115,6 +125,21 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
     "id",
     rows.events.map((e) => e.id),
   );
+  const removedUses = await removeMissing(
+    "place_uses",
+    "id",
+    rows.placeUses.map((u) => u.id),
+  );
+  const removedRelations = await removeMissing(
+    "person_place_relations",
+    "id",
+    rows.relations.map((r) => r.id),
+  );
+  const removedImages = await removeMissing(
+    "image_facts",
+    "id",
+    rows.imageFacts.map((i) => i.id),
+  );
   const removedPlaces = await removeMissing(
     "places",
     "id",
@@ -129,6 +154,10 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       events: rows.events.length,
       event_places: rows.eventPlaces.length,
       page_people: rows.pagePeople.length,
+      place_uses: rows.placeUses.length,
+      person_place_relations: rows.relations.length,
+      image_facts: rows.imageFacts.length,
+      image_fact_places: rows.imageFactPlaces.length,
     },
     removed: {
       pages: removedPages,
@@ -137,6 +166,10 @@ export async function syncRows(url: string, key: string, rows: Rows): Promise<Sy
       page_places: stalePagePlaces,
       event_places: staleEventPlaces,
       page_people: stalePagePeople,
+      place_uses: removedUses,
+      person_place_relations: removedRelations,
+      image_facts: removedImages,
+      image_fact_places: staleImagePlaces,
     },
   };
 }

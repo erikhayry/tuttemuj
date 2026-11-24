@@ -1,5 +1,11 @@
 import type { PageExtraction, PageGroup, PlaceEntity } from "@tuttemuj/schema";
-import { GazetteerKind, IsoDateTime, normalizeName } from "@tuttemuj/schema";
+import {
+  GazetteerKind,
+  IsoDateTime,
+  normalizeName,
+  PageType,
+  PersonPlaceRelationKind,
+} from "@tuttemuj/schema";
 import { Schema } from "effect";
 
 /** Rows as they are written to the tables in supabase/migrations. Only derived facts, never page text. */
@@ -12,6 +18,8 @@ export const PageRow = Schema.Struct({
   topics: Schema.Array(Schema.String),
   duplicate_of: Schema.NullOr(Schema.String),
   comic_candidate: Schema.Unknown,
+  /** Null: not assessed yet (no v1 fields on the page). */
+  page_type: Schema.NullOr(PageType),
   content_hash: Schema.String,
   extraction_version: Schema.Int.check(Schema.isGreaterThan(0)),
   model: Schema.String,
@@ -30,7 +38,12 @@ export const PlaceRow = Schema.Struct({
 });
 export type PlaceRow = typeof PlaceRow.Type;
 
-export const PagePlaceRow = Schema.Struct({ page_url: Schema.String, place_id: Schema.String });
+export const PagePlaceRow = Schema.Struct({
+  page_url: Schema.String,
+  place_id: Schema.String,
+  /** Where the place's name comes from, as this page says (our own words), or null. */
+  name_origin: Schema.NullOr(Schema.String),
+});
 export type PagePlaceRow = typeof PagePlaceRow.Type;
 
 export const EventRow = Schema.Struct({
@@ -63,6 +76,46 @@ export const PagePersonRow = Schema.Struct({
 });
 export type PagePersonRow = typeof PagePersonRow.Type;
 
+/** What a place was used for, as one page says it (v1 button "Vad fanns här förr?"). */
+export const PlaceUseRow = Schema.Struct({
+  /** "<source url>#<n>": the n-th use on the page. */
+  id: Schema.String,
+  page_url: Schema.String,
+  place_id: Schema.String,
+  use: Schema.NonEmptyString,
+  start_year: Schema.NullOr(Schema.Int),
+  end_year: Schema.NullOr(Schema.Int),
+});
+export type PlaceUseRow = typeof PlaceUseRow.Type;
+
+/** How a person on a page is tied to a place (v1 buttons "Vem bodde här?" and "Vem arbetade här?"). */
+export const PersonPlaceRelationRow = Schema.Struct({
+  id: Schema.String,
+  page_url: Schema.String,
+  person_name: Schema.NonEmptyString,
+  place_id: Schema.String,
+  relation: PersonPlaceRelationKind,
+  start_year: Schema.NullOr(Schema.Int),
+  end_year: Schema.NullOr(Schema.Int),
+});
+export type PersonPlaceRelationRow = typeof PersonPlaceRelationRow.Type;
+
+/** What a page says one of its large images shows (v1 button "Visa gamla bilder härifrån"). */
+export const ImageFactRow = Schema.Struct({
+  /** "<source url>#bild<n>" */
+  id: Schema.String,
+  page_url: Schema.String,
+  image_number: Schema.Int.check(Schema.isGreaterThan(0)),
+  year: Schema.NullOr(Schema.Int),
+});
+export type ImageFactRow = typeof ImageFactRow.Type;
+
+export const ImageFactPlaceRow = Schema.Struct({
+  image_id: Schema.String,
+  place_id: Schema.String,
+});
+export type ImageFactPlaceRow = typeof ImageFactPlaceRow.Type;
+
 export type Rows = {
   pages: PageRow[];
   places: PlaceRow[];
@@ -70,6 +123,10 @@ export type Rows = {
   events: EventRow[];
   eventPlaces: readonly EventPlaceRow[];
   pagePeople: PagePersonRow[];
+  placeUses: PlaceUseRow[];
+  relations: PersonPlaceRelationRow[];
+  imageFacts: ImageFactRow[];
+  imageFactPlaces: ImageFactPlaceRow[];
 };
 
 /** `duplicate_of` per duplicate page, only where both pages have been analysed. */
@@ -120,6 +177,7 @@ export function buildRows(
         topics: p.topics,
         duplicate_of: dupOf.get(p.sourceUrl) ?? null,
         comic_candidate: p.comicCandidate ?? null,
+        page_type: p.pageType ?? null,
         content_hash: p.contentHash,
         extraction_version: p.extractionVersion,
         model: p.model,
@@ -139,15 +197,39 @@ export function buildRows(
     }),
   );
 
+  const index = placeIndex(places);
+
+  // A mention on a page means the place entities that page links to under any of its names.
+  const placeIdsFor = (page: PageExtraction, name: string): Set<string> => {
+    const mention = page.places.find((p) => p.name === name);
+    const byName = index.get(page.sourceUrl);
+    const ids = new Set<string>();
+    for (const key of [name, ...(mention?.alternateNames ?? [])].map(normalizeName))
+      for (const placeId of byName?.get(key) ?? []) ids.add(placeId);
+    return ids;
+  };
+
+  // `name_origin` comes from the page's mention of the place, so it is set per page and place.
+  const nameOrigins = new Map<string, string>();
+  for (const page of pages)
+    for (const mention of page.places)
+      if (mention.nameOrigin)
+        for (const placeId of placeIdsFor(page, mention.name))
+          nameOrigins.set(`${page.sourceUrl}\n${placeId}`, mention.nameOrigin);
+
   const pagePlaces = places.flatMap((p) =>
-    p.pages.filter((url) => known.has(url)).map((url) => ({ page_url: url, place_id: p.id })),
+    p.pages
+      .filter((url) => known.has(url))
+      .map((url) => ({
+        page_url: url,
+        place_id: p.id,
+        name_origin: nameOrigins.get(`${url}\n${p.id}`) ?? null,
+      })),
   );
 
-  const index = placeIndex(places);
   const events: EventRow[] = [];
   const eventPlaces: EventPlaceRow[] = [];
   for (const page of pages) {
-    const byName = index.get(page.sourceUrl);
     page.events.forEach((e, n) => {
       const id = `${page.sourceUrl}#${n}`;
       events.push(
@@ -166,11 +248,7 @@ export function buildRows(
       );
       // An event names a place as the page's place mention is called. Use all of the mention's names.
       const ids = new Set<string>();
-      for (const name of e.places) {
-        const mention = page.places.find((p) => p.name === name);
-        const names = [name, ...(mention?.alternateNames ?? [])].map(normalizeName);
-        for (const key of names) for (const placeId of byName?.get(key) ?? []) ids.add(placeId);
-      }
+      for (const name of e.places) for (const placeId of placeIdsFor(page, name)) ids.add(placeId);
       for (const placeId of ids) eventPlaces.push({ event_id: id, place_id: placeId });
     });
   }
@@ -197,6 +275,55 @@ export function buildRows(
     }
   }
 
+  // v1 fields. A name that matches no place entity (not located, or unknown) gives no row.
+  const placeUses: PlaceUseRow[] = [];
+  const relations: PersonPlaceRelationRow[] = [];
+  const imageFacts: ImageFactRow[] = [];
+  const imageFactPlaces: ImageFactPlaceRow[] = [];
+  for (const page of pages) {
+    let u = 0;
+    for (const mention of page.places)
+      for (const use of mention.uses ?? [])
+        for (const placeId of placeIdsFor(page, mention.name))
+          placeUses.push(
+            Schema.decodeUnknownSync(PlaceUseRow)({
+              id: `${page.sourceUrl}#${u++}`,
+              page_url: page.sourceUrl,
+              place_id: placeId,
+              use: use.use,
+              start_year: use.startYear ?? null,
+              end_year: use.endYear ?? null,
+            }),
+          );
+    let r = 0;
+    for (const rel of page.relations ?? [])
+      for (const placeId of placeIdsFor(page, rel.place))
+        relations.push(
+          Schema.decodeUnknownSync(PersonPlaceRelationRow)({
+            id: `${page.sourceUrl}#${r++}`,
+            page_url: page.sourceUrl,
+            person_name: rel.person,
+            place_id: placeId,
+            relation: rel.relation,
+            start_year: rel.startYear ?? null,
+            end_year: rel.endYear ?? null,
+          }),
+        );
+    for (const image of page.images ?? []) {
+      const id = `${page.sourceUrl}#bild${image.image}`;
+      imageFacts.push(
+        Schema.decodeUnknownSync(ImageFactRow)({
+          id,
+          page_url: page.sourceUrl,
+          image_number: image.image,
+          year: image.year ?? null,
+        }),
+      );
+      const ids = new Set(image.places.flatMap((name) => [...placeIdsFor(page, name)]));
+      for (const placeId of ids) imageFactPlaces.push({ image_id: id, place_id: placeId });
+    }
+  }
+
   return {
     pages: pageRows,
     places: placeRows,
@@ -204,5 +331,9 @@ export function buildRows(
     events,
     eventPlaces: Schema.decodeUnknownSync(Schema.Array(EventPlaceRow))(eventPlaces),
     pagePeople: [...pagePeople.values()],
+    placeUses,
+    relations,
+    imageFacts,
+    imageFactPlaces,
   };
 }

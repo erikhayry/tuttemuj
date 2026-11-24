@@ -67,8 +67,8 @@ describe("buildRows", () => {
       [],
     );
     expect(pagePlaces).toEqual([
-      { page_url: url("a"), place_id: "storbron" },
-      { page_url: url("a"), place_id: "x" },
+      { page_url: url("a"), place_id: "storbron", name_origin: null },
+      { page_url: url("a"), place_id: "x", name_origin: null },
     ]);
     expect(places[0]?.location).toBe("SRID=4326;POINT(22.5 63.5)");
     expect(places[1]?.location).toBeNull();
