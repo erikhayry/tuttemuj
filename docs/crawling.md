@@ -77,7 +77,7 @@ The skill (`.claude/skills/extract-pages/SKILL.md`) works in three steps:
 
 1. `extract:next` picks fetched pages that haven't been analysed, or whose content or `EXTRACTION_VERSION` has changed. It writes their plain text to `.cache/extract/`.
 2. Claude writes one draft JSON per page.
-3. `extract:save` validates each draft against the Zod schema, adds the hash, version and timestamp, and writes the result to `data/pages/<path>.json`.
+3. `extract:save` validates each draft against the Effect schema, adds the hash, version and timestamp, and writes the result to `data/pages/<path>.json`.
 
 Commit `data/pages/` afterwards. The next nightly run also pushes it.
 

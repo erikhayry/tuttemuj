@@ -1,12 +1,15 @@
 ---
 
 name: extract-pages
+version: 1
 description: Analyse crawled nykarlebyvyer.nu pages into structured data (people, places, events, dates, summary) in data/pages. Use when the user asks to analyse, extract or process crawled pages, e.g. "/extract-pages 20".
 ---
 
 # Extract pages
 
 Turn crawled pages into structured facts that validate against `PageExtractionDraft` (`packages/schema/src/entities.ts`). The argument is the number of pages to do. If no number is given, do 10.
+
+**Versioning.** `version` above must equal `EXTRACTION_VERSION` in `packages/schema/src/entities.ts` (a test checks this). When you change these instructions or the draft schema so that old pages should be redone, bump both and describe the change in `docs/extraction-versions.md`. `extract:next` then picks every page saved with an older version.
 
 ## Steps
 
