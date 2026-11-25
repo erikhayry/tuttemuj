@@ -1,0 +1,124 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770417br.htm",
+  "title": "Strejk vid ombyggnaden av brons lock och hästhållningen 1877",
+  "summary": "Korrespondens 14 april 1877: arbetarna vid ombyggnaden av brons lock strejkade den 9 april för högre dagspenning och ersattes av män från Gåsängs såg. Notisen nämner också hästhållningen, Nesslers vattenverk i forsen och Achtés konsert i seminariet.",
+  "topics": [
+    "strejk",
+    "bron",
+    "hästhållning",
+    "filfabrik"
+  ],
+  "people": [
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "filfabrikör"
+      ]
+    },
+    {
+      "name": "Julius Sund",
+      "alternateNames": [],
+      "roles": [
+        "viktualiehandlare"
+      ]
+    },
+    {
+      "name": "Achté",
+      "alternateNames": [],
+      "roles": [
+        "musiker"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "bron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gåsängs såg",
+      "kind": "building",
+      "alternateNames": [
+        "Gåsäng"
+      ],
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ]
+    },
+    {
+      "name": "Nesslers filfabrik",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "filfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Seminariets festivitetssal",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Strejk vid brobygget",
+      "date": {
+        "year": 1877,
+        "month": 4,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Arbetarna som byggde om locket på bron strejkade och ville ha 2 mark i dagspenning, men fick ersättare från Gåsängs såg.",
+      "people": [],
+      "places": [
+        "Storbron",
+        "Gåsängs såg"
+      ]
+    },
+    {
+      "title": "Konsert i seminariet",
+      "date": {
+        "year": 1877,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Herrskapet Achté gav en konsert i seminariets festivitetssal inför en för orten stor publik.",
+      "people": [
+        "Achté"
+      ],
+      "places": [
+        "Seminariets festivitetssal"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "J. W. Nessler",
+      "place": "Nesslers filfabrik",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "237cae340746e7605a2247a03da6a204668f228c62d546ee616165111c9bba21",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

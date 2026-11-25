@@ -1,0 +1,115 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/007forord.htm",
+  "title": "Förord m.m. till K. J. Hagfors av Margit Åström",
+  "summary": "Förordet till Margit Åströms biografi om K. J. Hagfors, bondpojken från Nedervetil som blev lektor och seminariedirektor i Nykarleby. Det ger en överblick över hans karriär från seminarist 1877 till direktor 1916–1930 och hans verksamhet som läroboksförfattare och tidningsman.",
+  "topics": [
+    "biografi",
+    "skolväsen",
+    "seminariet",
+    "journalistik"
+  ],
+  "people": [
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [
+        "Karl Johan Hagfors"
+      ],
+      "birthYear": 1860,
+      "roles": [
+        "seminariedirektor",
+        "lektor",
+        "läroboksförfattare",
+        "tidningsman"
+      ]
+    },
+    {
+      "name": "Teodor Schalin",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "J. J. Huldén",
+      "alternateNames": [],
+      "roles": [
+        "brevvän"
+      ]
+    },
+    {
+      "name": "Axel Ahlström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hagfors blir lektor vid Nykarleby seminarium",
+      "date": {
+        "year": 1895,
+        "circa": false
+      },
+      "description": "K. J. Hagfors blev lektor vid Nykarleby seminarium.",
+      "people": [
+        "K. J. Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Hagfors blir seminariedirektor",
+      "date": {
+        "year": 1916,
+        "circa": false
+      },
+      "description": "K. J. Hagfors blev direktor för Nykarleby seminarium och avgick från posten 1930.",
+      "people": [
+        "K. J. Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "K. J. Hagfors",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1895,
+      "endYear": 1930
+    }
+  ],
+  "images": [],
+  "contentHash": "56f46549d3d8d809296f0ffe2e1fed57e07966ff95fb8538e50c40d28d24efdb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

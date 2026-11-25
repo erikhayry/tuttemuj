@@ -44,6 +44,11 @@
       "kind": "building",
       "alternateNames": [
         "Elektr. Kraftstation"
+      ],
+      "uses": [
+        {
+          "use": "kraftstation"
+        }
       ]
     },
     {
@@ -121,6 +126,34 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Topeliusparken",
+        "Källbacken",
+        "Elektriska kraftstationen",
+        "Norrtullsgatan",
+        "Fiskaregatan",
+        "Grev Tottgatan",
+        "Källbackgatan",
+        "Topeliusgatan",
+        "Östra Esplanaden",
+        "Västra Esplanaden",
+        "Gustav Adolfsgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "aff95ea3b1cd7a35c31e02f85f8205fb9fb224c82ce5b38c97f3be6f6b368a0c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

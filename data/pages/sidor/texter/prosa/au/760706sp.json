@@ -1,0 +1,116 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760706sp.htm",
+  "title": "Nesslers filar på utställning, stöld av telegrafkassan och flyttning av spruthuset 1876",
+  "summary": "Korrespondens 30 juni 1876: kantor J. W. Nessler skickade filar till utställningen i Helsingfors, telegrafkassan stals men hittades i en kakelugn, och spruthuset flyttas för att ge plats åt rådstugu- och skolhustomter. Ett nytt stadsfängelse byggs vid spruthuset.",
+  "topics": [
+    "filhuggning",
+    "stöld",
+    "spruthus",
+    "stadsfängelse"
+  ],
+  "people": [
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "kantor",
+        "filhuggare"
+      ]
+    },
+    {
+      "name": "Holländer",
+      "alternateNames": [],
+      "roles": [
+        "polisbetjänt"
+      ]
+    },
+    {
+      "name": "Tjäder",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Spruthuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skonades av branden 1858 och står halvvägs ut i gatan enligt nya planen; flyttas österut vid torget."
+    },
+    {
+      "name": "Telegrafstationen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Spruthuset flyttas",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Spruthuset flyttades till södra sidan av de planerade rådstugu- och skolhustomterna öster om torget, och intill uppfördes ett nytt stadsfängelse.",
+      "people": [],
+      "places": [
+        "Spruthuset",
+        "Torget"
+      ]
+    },
+    {
+      "title": "Stöld av telegrafkassan",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Hela kassan på telegrafstationen, 180 mark, stals men återfanns orörd i en kakelugn.",
+      "people": [],
+      "places": [
+        "Telegrafstationen"
+      ]
+    },
+    {
+      "title": "Nykarleby stad brinner",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "description": "Spruthuset skonades av stadsbranden 1858.",
+      "people": [],
+      "places": [
+        "Spruthuset"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Telegrafkassan försvinner efter en glad kväll hos stationschefen. Polisen hittar ingenting förrän en siare pekar ut gömstället: en kakelugn i stationsrummet.",
+    "reason": "Liten kriminalgåta med lustig upplösning och tydliga roller.",
+    "characters": [
+      "Holländer"
+    ],
+    "places": [
+      "Telegrafstationen"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "e308b5d148232a8ff3fdf81df54ec2aacdd3d0a30be8a0109eab45f64a06340b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

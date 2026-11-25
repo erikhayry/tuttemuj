@@ -55,6 +55,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnsholmarna"
+      ],
+      "year": 1866
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "53083056472d9ee68ae89b6156392d69c121550c9c9767740391a9dc51e7eade",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

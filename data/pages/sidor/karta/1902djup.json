@@ -140,7 +140,12 @@
       "name": "Djupstens varv",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ungefär vid den norra planerade samlingsplatsen."
+      "description": "Ungefär vid den norra planerade samlingsplatsen.",
+      "uses": [
+        {
+          "use": "varv"
+        }
+      ]
     },
     {
       "name": "Sundströms villa",
@@ -217,6 +222,33 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [
+    {
+      "person": "Sundström",
+      "place": "Sundströms villa",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Djupsten",
+        "Djupstens varv",
+        "Sundströms villa"
+      ],
+      "year": 1902
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "d6a684d473da1e5e1f37c41e8b1a2e9d8df0b25b7d1b5d4d33c06ef8b3adbd25",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/01back.htm",
+  "title": "Bäck i Forsby by: hemmanets historia av Woldemar Backman",
+  "summary": "Skattehemmanet Bäck ligger cirka 3 kilometer söder om Nykarleby, öster om älven, och fanns redan 1549. Backman beskriver hur det blev kronohemman 1709, delades i flera hemman och fick sitt nuvarande nummer i Forsby efter bybildningen 1830.",
+  "topics": [
+    "hemman",
+    "Forsby",
+    "gårdshistoria"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Jakob Bäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Bäck",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Bäck i Forsby",
+      "kind": "farm",
+      "alternateNames": [
+        "Bäck",
+        "Bäck i Forsby by"
+      ],
+      "description": "Skattehemman cirka 3 km söder om staden, öster om älven; numera hemmansnummer 6 i Forsby.",
+      "uses": [
+        {
+          "use": "jordbruk"
+        }
+      ]
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bäck blir kronohemman",
+      "date": {
+        "year": 1709,
+        "circa": false
+      },
+      "description": "Hemmanet Bäck övergick år 1709 från skatte- till kronohemman.",
+      "people": [],
+      "places": [
+        "Bäck i Forsby"
+      ]
+    },
+    {
+      "title": "Forsby by bildas",
+      "date": {
+        "year": 1830,
+        "circa": false
+      },
+      "description": "Forsby by bildades 1830, då Bäck blev skattehemman i sin helhet.",
+      "people": [],
+      "places": [
+        "Forsby",
+        "Bäck i Forsby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "2e982a6a6f9181ae43f4b36bb61f2c10cbd6cd215a643ad9f55b481912c71c82",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

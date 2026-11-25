@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750412se.htm",
+  "title": "Korrespondens från Nykarleby i Åbo Underrättelser 1875",
+  "summary": "Nabopolassar skriver 6 april 1875 om förändringar i staden: gamla tjänstemän har lämnat, och lärarseminariet står inför öppnande med normalskolan. Han tar upp lärartjänster, borgmästarens lön, hantverkare och en harpkonsert i seminariets sal.",
+  "topics": [
+    "seminariet",
+    "skolväsen",
+    "hantverk",
+    "stadsliv"
+  ],
+  "people": [
+    {
+      "name": "V. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "filosofiekandidat",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Adolf Sjödén",
+      "alternateNames": [],
+      "roles": [
+        "harpvirtuos"
+      ]
+    },
+    {
+      "name": "Kullman",
+      "alternateNames": [],
+      "roles": [
+        "prost"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygårds bryggeri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Harpkonsert i seminariet",
+      "date": {
+        "year": 1875,
+        "month": 4,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Harpvirtuosen Adolf Sjödén gav en konsert i seminariets solennitetssal.",
+      "people": [
+        "Adolf Sjödén"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "bfe385057c4b9496fde303dc3cdcb27c3450bccc368c73fb3b91932828b05532",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

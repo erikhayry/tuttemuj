@@ -1,0 +1,115 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/landsorten_96.html",
+  "title": "Bref från landsorten i Åbo Underrättelser 1896",
+  "summary": "Brev från Nykarleby 17 februari 1896: en mild vinter, ett föredrag om djurskydd i seminariets festsal och nykterhetsföreningens nya läsesal. Brons ombyggnad beslöts i stället för en ny stenbro, och en skidtävling hölls från Andra sjön mot Alön.",
+  "topics": [
+    "vinter",
+    "djurskydd",
+    "nykterhet",
+    "skidtävling",
+    "bron"
+  ],
+  "people": [
+    {
+      "name": "Constance Ullner",
+      "alternateNames": [],
+      "roles": [
+        "föredragshållare"
+      ]
+    },
+    {
+      "name": "Alfr. Herler",
+      "alternateNames": [],
+      "roles": [
+        "kontorist"
+      ]
+    },
+    {
+      "name": "N. Viitala",
+      "alternateNames": [],
+      "roles": [
+        "arbetare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariets festsal",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stadens hamn med stor lastbrygga.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Alön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykterhetsföreningens läsesal",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "läsesal",
+          "startYear": 1896
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Föredrag om djurskydd",
+      "date": {
+        "year": 1896,
+        "month": 2,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Constance Ullner höll ett föredrag om djurskyddets uppfostrande betydelse i seminariets festsal.",
+      "people": [
+        "Constance Ullner"
+      ],
+      "places": [
+        "Seminariets festsal"
+      ]
+    },
+    {
+      "title": "Skidtävling från Andra sjön",
+      "date": {
+        "year": 1896,
+        "month": 2,
+        "day": 16,
+        "circa": false
+      },
+      "description": "En skidtävling i distansåkning hölls med bana från lastbryggan vid Andra sjön ut mot Alön.",
+      "people": [
+        "Alfr. Herler"
+      ],
+      "places": [
+        "Andra sjön",
+        "Alön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "bc981e20b34e54e0b23c0786093d37b0639bc4e91e0a4be3d5d5ed36be2b735b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761128trivi.html",
+  "title": "Lägre elementarskolan 1876",
+  "summary": "Korrespondens 23 november 1876: verksamheten vid lägre elementarskolan har upphört i brist på elever. Skribenten börjar skolans historia med pedagogen Toppelius och Johannes Remahl, och nämner dödsfallet av sågägaren Otto von Essen på Keppo.",
+  "topics": [
+    "skolväsen",
+    "lägre elementarskolan",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Toppelius",
+      "alternateNames": [],
+      "roles": [
+        "pedagog"
+      ]
+    },
+    {
+      "name": "Johannes Remahl",
+      "alternateNames": [],
+      "roles": [
+        "pedagog"
+      ]
+    },
+    {
+      "name": "Otto von Essen",
+      "alternateNames": [],
+      "roles": [
+        "sågägare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola",
+          "endYear": 1876
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Lägre elementarskolans verksamhet upphör",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Verksamheten vid lägre elementarskolan i Nykarleby upphörde i brist på elever.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Otto von Essen avlider",
+      "date": {
+        "year": 1876,
+        "month": 11,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Sågägaren och possessionaten Otto von Essen avled på Keppo i Jeppo, 63 år gammal.",
+      "people": [
+        "Otto von Essen"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "15faf8664b425e88a646cce1eeadb6db434a1b5ce07ea9108efcbc7e9266c364",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

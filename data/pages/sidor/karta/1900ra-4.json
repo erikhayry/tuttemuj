@@ -98,6 +98,32 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nystaden",
+        "Strandliden",
+        "Kyrkan",
+        "Arbetaregatan",
+        "Bergstigen",
+        "Badhusstigen",
+        "Jutasvägen",
+        "Östra Vattugränd",
+        "Döbelns gränd"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "e2de7eeddeecd3a5bd17f90ebe466ea1dd7b0b85732be9d04be42c67cbb2d894",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

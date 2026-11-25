@@ -365,10 +365,38 @@
     ]
   },
   {
+    "id": "alo-hamn",
+    "name": "alö hamn",
+    "kind": "landmark",
+    "aliases": [
+      "alö-fjärden"
+    ],
+    "gazetteerNames": [
+      "alö hamn"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750605al.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760306br.htm"
+    ]
+  },
+  {
+    "id": "alo-varv",
+    "name": "alö varv",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "alö varv"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750605al.htm"
+    ]
+  },
+  {
     "id": "alon",
     "name": "alön",
     "kind": "island",
     "aliases": [
+      "alö",
       "lybecks charlottenlund"
     ],
     "gazetteerNames": [
@@ -382,7 +410,9 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/alexande.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/alku.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/fartyg/usko.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/brander.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/brander.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750605al.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/landsorten_96.html"
     ]
   },
   {
@@ -411,6 +441,7 @@
     "name": "alörn",
     "kind": "island",
     "aliases": [
+      "ahlö holme",
       "lill al örn",
       "lill alörn",
       "lillalörn"
@@ -448,6 +479,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/sjohaga.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/topelidb.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kronolots_ls.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/priser1856.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660505tandstick_mm.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
   },
@@ -650,6 +683,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/sund_alfred75.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/weneliusk.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/wik_henrik.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760306br.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/landsorten_96.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/asjon1968.html"
     ]
   },
@@ -910,6 +945,7 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/roos_ge.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/wilkmanov.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/wilkmanov50ar.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/eftbrand.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
   },
@@ -1683,6 +1719,7 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/konsten/gatukonst.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/paskhaxor50t.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/vaxeltan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/ogats/00forord.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/v64p.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
@@ -2135,7 +2172,8 @@
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/jordfast.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/rattbron.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ryssfang.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ryssfang.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/860901ny.html"
     ]
   },
   {
@@ -2525,6 +2563,20 @@
     ]
   },
   {
+    "id": "bjorkbacka-i-munsala",
+    "name": "björkbacka i munsala",
+    "kind": "farm",
+    "aliases": [
+      "björkbacka"
+    ],
+    "gazetteerNames": [
+      "björkbacka i munsala"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/06jakob.htm"
+    ]
+  },
+  {
     "id": "bjorkholmarna",
     "name": "björkholmarna",
     "kind": "island",
@@ -2647,7 +2699,8 @@
       "björn i soklot"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/karta/1800-6.htm"
+      "https://www.nykarlebyvyer.nu/sidor/karta/1800-6.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/82back.htm"
     ]
   },
   {
@@ -2886,7 +2939,9 @@
     "id": "bonas",
     "name": "bonäs",
     "kind": "farm",
-    "aliases": [],
+    "aliases": [
+      "bonäsgårdarna"
+    ],
     "gazetteerNames": [
       "bonäs"
     ],
@@ -2901,7 +2956,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/luftskyd.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/castremp.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/liljestrom_elisabeth.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/tonbergp.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/tonbergp.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/bonas.htm"
     ]
   },
   {
@@ -3500,14 +3556,16 @@
     "name": "bro i nykarleby",
     "kind": "farm",
     "aliases": [
-      "bro"
+      "bro",
+      "bro i ytterjeppo"
     ],
     "gazetteerNames": [
       "bro i nykarleby"
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm",
-      "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldhem.htm"
+      "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldhem.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/27anders.htm"
     ]
   },
   {
@@ -3755,7 +3813,8 @@
     "name": "brunnsholmarna",
     "kind": "island",
     "aliases": [
-      "brunns holmarne"
+      "brunns holmarne",
+      "brunnsholmarne"
     ],
     "location": {
       "lat": 63.5181215,
@@ -3807,7 +3866,11 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/brunshus.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/hedstromeb.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/sockmave.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/dg/117dg.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/dg/117dg.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/islossning1853.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/710914brh.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751020brhlykt.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760127br.htm"
     ]
   },
   {
@@ -3827,7 +3890,9 @@
       "https://www.nykarlebyvyer.nu/sidor/kortindi/2225/2225_14F.html",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_D/LRDR062S.HTM",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/andrasjon_kw.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/brollbrh.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/brollbrh.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/islossning1853.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/710914brh.html"
     ]
   },
   {
@@ -4273,14 +4338,19 @@
     "name": "bäck i forsby",
     "kind": "farm",
     "aliases": [
-      "bäck"
+      "bäck",
+      "bäck i forsby by"
     ],
     "gazetteerNames": [
       "bäck i forsby"
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1800-9.htm",
-      "https://www.nykarlebyvyer.nu/sidor/minnesst/back.html"
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/back.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/00back.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/01back.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/03back.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/82back.htm"
     ]
   },
   {
@@ -5256,7 +5326,8 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_D/LRDR062S.HTM",
-      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/battur_sb.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/battur_sb.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/04indhan.htm"
     ]
   },
   {
@@ -6173,7 +6244,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/heikeliu.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/liljestrom_elisabeth.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/renlunde.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/litter46.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/litter46.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/forsback.htm"
     ]
   },
   {
@@ -6275,7 +6347,9 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/bjorjkund_helga_53.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/gyllenberga.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/lindfors_erik.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/lof_isak.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/lof_isak.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770312sk.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/01back.htm"
     ]
   },
   {
@@ -7190,8 +7264,7 @@
     "kind": "landmark",
     "aliases": [
       "begrafnings plats",
-      "gravgården",
-      "nykarleby begravningsplats"
+      "gravgården"
     ],
     "location": {
       "lat": 63.5222949,
@@ -7349,7 +7422,7 @@
   {
     "id": "gamlakarleby",
     "name": "gamlakarleby",
-    "kind": "district",
+    "kind": "other",
     "aliases": [
       "gkby",
       "karleby"
@@ -7359,7 +7432,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/juveliuse.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kankkonen_a.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/knapeev.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/knapeevsfv.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/knapeevsfv.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/backman.htm"
     ]
   },
   {
@@ -7370,6 +7444,18 @@
     "gazetteerNames": [],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/stjarn/kronqvistd.html"
+    ]
+  },
+  {
+    "id": "gammalt-brannvinsbranneri",
+    "name": "gammalt brännvinsbränneri",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "gammalt brännvinsbränneri"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660505tandstick_mm.html"
     ]
   },
   {
@@ -7448,7 +7534,9 @@
       "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_A/JSAJ006S.HTM",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gasangrf.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/feka.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/gasangsk.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/gasangsk.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/01indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/05indhan.htm"
     ]
   },
   {
@@ -9177,6 +9265,20 @@
     ]
   },
   {
+    "id": "gasangs-sag",
+    "name": "gåsängs såg",
+    "kind": "building",
+    "aliases": [
+      "gåsäng"
+    ],
+    "gazetteerNames": [
+      "gåsängs såg"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770417br.htm"
+    ]
+  },
+  {
     "id": "gastgifvar-i-soklot",
     "name": "gästgifvar i soklot",
     "kind": "farm",
@@ -9559,14 +9661,17 @@
     "id": "harald",
     "name": "harald",
     "kind": "farm",
-    "aliases": [],
+    "aliases": [
+      "haraldsfors"
+    ],
     "gazetteerNames": [
       "harald"
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1895liewendahl.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/utfafors.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/kronobrann.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/kronobrann.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/harald.htm"
     ]
   },
   {
@@ -9607,7 +9712,8 @@
       "haralds såg"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gasangrf.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/gasangrf.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/01inledn.htm"
     ]
   },
   {
@@ -9630,12 +9736,17 @@
     "id": "haraldsfors-sag",
     "name": "haraldsfors såg",
     "kind": "building",
-    "aliases": [],
+    "aliases": [
+      "haraldsfors",
+      "haraldsfors mjölkvarn"
+    ],
     "gazetteerNames": [
       "haraldsfors såg"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/nessler_jw.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/nessler_jw.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/02indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/05indhan.htm"
     ]
   },
   {
@@ -10726,7 +10837,10 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/haglunds.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/hogbackabarn.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/sofiam80.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/wichmanvu.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/wichmanvu.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/borgerskapet.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/hogbacka.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/hogbacka_rior.html"
     ]
   },
   {
@@ -11760,6 +11874,7 @@
       "juth träsk"
     ],
     "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/socken/trask.html"
     ]
   },
@@ -11828,7 +11943,10 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kummelb.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/mattsson_gerda.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/schulmanhu.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/namnbyte.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/namnbyte.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/01inledn.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo1.htm"
     ]
   },
   {
@@ -11899,7 +12017,9 @@
       "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_A/JSAJ006S.HTM",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ammu1808.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/juthas78.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/dyhr_lotte.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/dyhr_lotte.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/01inledn.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo1.htm"
     ]
   },
   {
@@ -12063,7 +12183,8 @@
       "juthbacka gård",
       "juthbacka kulturcentrum",
       "juthbacka semesterhem",
-      "juthbacka strandäng"
+      "juthbacka strandäng",
+      "juutbacka"
     ],
     "location": {
       "lat": 63.5157,
@@ -12136,7 +12257,11 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/herleas.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/juthfrok.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_magnus.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_olga.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/kjellman_olga.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/01indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/borgerskapet.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/jutbacka.htm"
     ]
   },
   {
@@ -12295,7 +12420,20 @@
       "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_I/LRIR048S.HTM",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/LR/LR_J/LRJX002X.HTM",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/NB/NB_A/NBAR053S.HTM",
-      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/svunnalv.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/div/svunnalv.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html"
+    ]
+  },
+  {
+    "id": "juths-fors",
+    "name": "juths fors",
+    "kind": "waterbody",
+    "aliases": [],
+    "gazetteerNames": [
+      "juths fors"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/jutbacka.htm"
     ]
   },
   {
@@ -12314,7 +12452,8 @@
       "https://www.nykarlebyvyer.nu/sidor/kortindi/89/WS/WSA/Wsa2.htm",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/AE/AE_B/dobeln.html",
       "https://www.nykarlebyvyer.nu/sidor/nykarleb/innehill.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/konsten/dobeln_bbh.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/konsten/dobeln_bbh.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html"
     ]
   },
   {
@@ -13362,7 +13501,9 @@
       "keppo"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/bladhpju.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/bladhpju.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo1.htm"
     ]
   },
   {
@@ -13627,14 +13768,16 @@
     "name": "klockars i nykarleby",
     "kind": "farm",
     "aliases": [
-      "klockars"
+      "klockars",
+      "klockars i jutas"
     ],
     "gazetteerNames": [
       "klockars i nykarleby"
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1800-7.htm",
-      "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldhem.htm"
+      "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldhem.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/01inledn.htm"
     ]
   },
   {
@@ -13785,6 +13928,22 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/frilundv.html"
+    ]
+  },
+  {
+    "id": "knuts-i-ytterjeppo",
+    "name": "knuts i ytterjeppo",
+    "kind": "farm",
+    "aliases": [
+      "knuts"
+    ],
+    "gazetteerNames": [
+      "knuts i ytterjeppo"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/01inledn.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/06jakob.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/87gabrie.htm"
     ]
   },
   {
@@ -13985,7 +14144,9 @@
     "id": "korsakers-kvarn",
     "name": "korsåkers kvarn",
     "kind": "building",
-    "aliases": [],
+    "aliases": [
+      "korsåker"
+    ],
     "gazetteerNames": [
       "korsåkers kvarn"
     ],
@@ -13995,7 +14156,8 @@
       "https://www.nykarlebyvyer.nu/sidor/kortindi/JH/JH_H/JHHR013S.HTM",
       "https://www.nykarlebyvyer.nu/sidor/panorama/alvbra06.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/brander.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/korsaker.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/korsaker.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/05indhan.htm"
     ]
   },
   {
@@ -14611,6 +14773,18 @@
     ]
   },
   {
+    "id": "kuddnissas",
+    "name": "kuddnissas",
+    "kind": "farm",
+    "aliases": [],
+    "gazetteerNames": [
+      "kuddnissas"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/borgerskapet.html"
+    ]
+  },
+  {
     "id": "kuddnas",
     "name": "kuddnäs",
     "kind": "farm",
@@ -14794,6 +14968,10 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topeliuszts.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topelizu.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/topezdau.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/025semin.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/860901ny.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/guffa_87.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/harald.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/socken/trask.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
@@ -14985,6 +15163,7 @@
     "aliases": [
       "kyrckian",
       "kyrkan i nykarleby",
+      "kyrkoplanen",
       "moderkyrkan",
       "ny=carleby stads och socken kÿrkia",
       "nykarleby kyrka",
@@ -15200,6 +15379,12 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/segertlu.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/soderman_anton.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/morgonvandr_27.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/561216trad.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761025appelberg.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770312sk.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/860901ny.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/altartavla.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs02.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/stad0992.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
@@ -15618,7 +15803,8 @@
       "https://www.nykarlebyvyer.nu/sidor/karta/1760myrman.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-5.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1806ho-7.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hskr/mkallare.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hskr/mkallare.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/eftbrand.html"
     ]
   },
   {
@@ -16823,7 +17009,8 @@
       "levälä"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agreng/div/dlslaktt.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agreng/div/dlslaktt.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/bjorklun.htm"
     ]
   },
   {
@@ -17973,6 +18160,18 @@
     ]
   },
   {
+    "id": "langofjarden",
+    "name": "långöfjärden",
+    "kind": "waterbody",
+    "aliases": [],
+    "gazetteerNames": [
+      "långöfjärden"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660705os.htm"
+    ]
+  },
+  {
     "id": "langon",
     "name": "långön",
     "kind": "island",
@@ -18050,6 +18249,19 @@
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/kortindi/JS/JS_B/jsba0074.htm",
       "https://www.nykarlebyvyer.nu/sidor/kortindi/VB/VB_B/vbba0024.htm"
+    ]
+  },
+  {
+    "id": "lagre-elementarskolan",
+    "name": "lägre elementarskolan",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "lägre elementarskolan"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750520ny.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761128trivi.html"
     ]
   },
   {
@@ -19422,11 +19634,12 @@
   {
     "id": "munsala-kyrka",
     "name": "munsala kyrka",
-    "kind": "other",
+    "kind": "building",
     "aliases": [],
     "gazetteerNames": [],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/stjarn/kyrkan20.html"
+      "https://www.nykarlebyvyer.nu/sidor/stjarn/kyrkan20.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/561216trad.html"
     ]
   },
   {
@@ -19550,7 +19763,8 @@
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/traprofessorn.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/myggan.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/sjohaga.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/sjohaga.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750605al.htm"
     ]
   },
   {
@@ -19681,17 +19895,21 @@
       "https://www.nykarlebyvyer.nu/sidor/karta/1858-1.htm",
       "https://www.nykarlebyvyer.nu/sidor/minnesst/aloren.htm",
       "https://www.nykarlebyvyer.nu/sidor/minnesst/namnbekw.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/namnbelp.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/namnbelp.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750605al.htm"
     ]
   },
   {
     "id": "napo",
     "name": "napo",
     "kind": "village",
-    "aliases": [],
+    "aliases": [
+      "napue"
+    ],
     "gazetteerNames": [],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vessenva.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/diverse/vessenva.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bvsof/01bvsof.htm"
     ]
   },
   {
@@ -19749,6 +19967,18 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/frkyrkt3.html"
+    ]
+  },
+  {
+    "id": "nesslers-filfabrik",
+    "name": "nesslers filfabrik",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "nesslers filfabrik"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770417br.htm"
     ]
   },
   {
@@ -20102,6 +20332,7 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/sjoblomro.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/spolankfsfv.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/morgonvandr_27.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751020brhlykt.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/frnormenno80.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/sv1926.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/torget_normen.html"
@@ -20246,6 +20477,18 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/Kottkont.htm"
+    ]
+  },
+  {
+    "id": "norra-tullhuset",
+    "name": "norra tullhuset",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "norra tullhuset"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs03.htm"
     ]
   },
   {
@@ -20398,6 +20641,21 @@
     ]
   },
   {
+    "id": "nya-hamnen",
+    "name": "nya hamnen",
+    "kind": "landmark",
+    "aliases": [
+      "skeppshamnen"
+    ],
+    "gazetteerNames": [
+      "nya hamnen"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/650408ha.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660705os.htm"
+    ]
+  },
+  {
     "id": "nya-jakobstadsvagen",
     "name": "nya jakobstadsvägen",
     "kind": "street",
@@ -20452,7 +20710,8 @@
     "aliases": [
       "jöns larssons hemman",
       "nybacka",
-      "recidenstomten"
+      "recidenstomten",
+      "skolhemmanet"
     ],
     "gazetteerNames": [
       "nybacka hemman"
@@ -20460,7 +20719,8 @@
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1858_edelfeldt3.html",
       "https://www.nykarlebyvyer.nu/sidor/nykarleb/gyldhem.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761221elementar.html"
     ]
   },
   {
@@ -20650,7 +20910,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/alvpanor.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/tagvarni.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/ztmetar.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/juthbabr.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/juthbabr.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750520ny.htm"
     ]
   },
   {
@@ -20756,7 +21017,9 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/fakta/nygalimo.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/laquist_hjalmar.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/laquist_hjalmar.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750412se.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760306br.htm"
     ]
   },
   {
@@ -20785,14 +21048,34 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/gusta-ban.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/joupers.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/sockenma.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/herleas.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/herleas.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/01indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750303ts.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751020brhlykt.html"
+    ]
+  },
+  {
+    "id": "nygards-laderfabrik",
+    "name": "nygårds läderfabrik",
+    "kind": "building",
+    "aliases": [
+      "nygårds lädergarveri"
+    ],
+    "gazetteerNames": [
+      "nygårds läderfabrik"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/04indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/06indhan.htm"
     ]
   },
   {
     "id": "nygards-olbryggeri",
     "name": "nygårds ölbryggeri",
     "kind": "building",
-    "aliases": [],
+    "aliases": [
+      "nygårdska ölbryggeriet"
+    ],
     "gazetteerNames": [
       "nygårds ölbryggeri"
     ],
@@ -20800,7 +21083,9 @@
       "https://www.nykarlebyvyer.nu/sidor/karta/1866kran.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1866krav.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/brander.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstr_o_%20olander_b_herler_a.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/hedstr_o_%20olander_b_herler_a.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/02indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751228petrol_mm.html"
     ]
   },
   {
@@ -21029,6 +21314,19 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1905birck.htm"
+    ]
+  },
+  {
+    "id": "nykarleby-begravningsplats",
+    "name": "nykarleby begravningsplats",
+    "kind": "landmark",
+    "aliases": [],
+    "gazetteerNames": [
+      "nykarleby begravningsplats"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/gravgaportar.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770312sk.htm"
     ]
   },
   {
@@ -21534,7 +21832,8 @@
     "aliases": [],
     "gazetteerNames": [],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/klockarspp.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/klockarspp.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/befostat.htm"
     ]
   },
   {
@@ -21730,6 +22029,8 @@
     "kind": "waterbody",
     "aliases": [
       "jeppobäcken",
+      "lappjoki",
+      "lappo elf",
       "lappo å",
       "lappo älf",
       "lappo älv",
@@ -21759,7 +22060,9 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/agrenesfv.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/karstetu.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/rosberju.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/herler_26.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/herler_26.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/islossning1853.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/pappersbruk1850.html"
     ]
   },
   {
@@ -21806,6 +22109,18 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/bergfeld.htm"
+    ]
+  },
+  {
+    "id": "nykterhetsforeningens-lasesal",
+    "name": "nykterhetsföreningens läsesal",
+    "kind": "building",
+    "aliases": [],
+    "gazetteerNames": [
+      "nykterhetsföreningens läsesal"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/landsorten_96.html"
     ]
   },
   {
@@ -21909,6 +22224,7 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/gardskop.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/semig20.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/pettersson_birck.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs01.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/stad0992.htm"
     ]
   },
@@ -22111,6 +22427,21 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/barrner_juthv.html"
+    ]
+  },
+  {
+    "id": "oldenburgs-benkvarn",
+    "name": "oldenburgs benkvarn",
+    "kind": "building",
+    "aliases": [
+      "nykarleby benmjölsfabrik"
+    ],
+    "gazetteerNames": [
+      "oldenburgs benkvarn"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/02indhan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/04indhan.htm"
     ]
   },
   {
@@ -23414,6 +23745,18 @@
     ]
   },
   {
+    "id": "renvaktar",
+    "name": "renvaktar",
+    "kind": "farm",
+    "aliases": [],
+    "gazetteerNames": [
+      "renvaktar"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/01indhan.htm"
+    ]
+  },
+  {
     "id": "renvaktars",
     "name": "renvaktars",
     "kind": "farm",
@@ -24058,6 +24401,20 @@
     ]
   },
   {
+    "id": "ryss-i-ytterjeppo",
+    "name": "ryss i ytterjeppo",
+    "kind": "farm",
+    "aliases": [
+      "ryss"
+    ],
+    "gazetteerNames": [
+      "ryss i ytterjeppo"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/87gabrie.htm"
+    ]
+  },
+  {
     "id": "radhusboulevarden",
     "name": "rådhusboulevarden",
     "kind": "street",
@@ -24110,6 +24467,7 @@
     "kind": "building",
     "aliases": [
       "nykarlebys rådhus",
+      "rådstugan",
       "skol- och rådhusbyggnad"
     ],
     "location": {
@@ -24172,7 +24530,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/sotorggf.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/sparbank.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/grenman_jf.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/polise20.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/polise20.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750303ts.html"
     ]
   },
   {
@@ -24443,7 +24802,10 @@
     "id": "saarela",
     "name": "saarela",
     "kind": "building",
-    "aliases": [],
+    "aliases": [
+      "juthbacka mjölkvarn",
+      "saarelakvarnen"
+    ],
     "gazetteerNames": [
       "saarela"
     ],
@@ -24451,6 +24813,7 @@
       "https://www.nykarlebyvyer.nu/sidor/jul/06jhkr004j.htm",
       "https://www.nykarlebyvyer.nu/sidor/karta/1800jutb.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/saarela.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/05indhan.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/jouperf.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/jouperp.htm"
     ]
@@ -24771,6 +25134,20 @@
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/kampen.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm"
+    ]
+  },
+  {
+    "id": "sandas-i-pensala",
+    "name": "sandås i pensala",
+    "kind": "farm",
+    "aliases": [
+      "sandås"
+    ],
+    "gazetteerNames": [
+      "sandås i pensala"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/67isak.htm"
     ]
   },
   {
@@ -25353,8 +25730,7 @@
     "name": "seminariesalen",
     "kind": "building",
     "aliases": [
-      "ahlbecksalen",
-      "seminariets festsal"
+      "ahlbecksalen"
     ],
     "gazetteerNames": [
       "seminariesalen"
@@ -25372,13 +25748,14 @@
     "name": "seminariet",
     "kind": "building",
     "aliases": [
+      "folkskolelärareseminariet",
       "folkskollärarseminariet i nykarleby",
       "lärarseminariet",
       "lärarseminariet i nykarleby",
       "nykarleby folkskoleseminarium",
       "nykarleby seminarium",
-      "seminariebyggnaderna",
-      "seminariets festsal"
+      "residenstomten",
+      "seminariebyggnaderna"
     ],
     "location": {
       "lat": 63.5263663,
@@ -25559,6 +25936,10 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/gangekv.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/wichmann.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/morgonvandr_27.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/007forord.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/025semin.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750412se.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/860901ny.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
   },
@@ -25593,6 +25974,25 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalidb.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalinjulk.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/schalizu.htm"
+    ]
+  },
+  {
+    "id": "seminariets-festivitetssal",
+    "name": "seminariets festivitetssal",
+    "kind": "building",
+    "aliases": [
+      "seminariets festsal"
+    ],
+    "gazetteerNames": [
+      "seminariets festivitetssal"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/ffsemi.htm",
+      "https://www.nykarlebyvyer.nu/sidor/minnesst/ffsemi2.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/upprop.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761221elementar.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770417br.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/landsorten_96.html"
     ]
   },
   {
@@ -26309,6 +26709,18 @@
     ]
   },
   {
+    "id": "skolhustomten",
+    "name": "skolhustomten",
+    "kind": "landmark",
+    "aliases": [],
+    "gazetteerNames": [
+      "skolhustomten"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs02.htm"
+    ]
+  },
+  {
     "id": "skolmuseet-i-storsved",
     "name": "skolmuseet i storsved",
     "kind": "building",
@@ -26551,7 +26963,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/fakta/telkarts.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/topelidb.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/nybergm.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/nybergm.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/borgerskapet.html"
     ]
   },
   {
@@ -27538,7 +27951,8 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/brandlarm.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/brunnalp.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/kyrkbrun.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/polisklp.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/polisklp.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760706sp.htm"
     ]
   },
   {
@@ -27944,7 +28358,9 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/korsaker.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/kyrvin04.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/nymana.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/herlerjo.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/herlerjo.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751228petrol_mm.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760127br.htm"
     ]
   },
   {
@@ -28372,6 +28788,20 @@
     ]
   },
   {
+    "id": "stor-hogvag",
+    "name": "stor högväg",
+    "kind": "farm",
+    "aliases": [
+      "stor högväg i ytterjeppo"
+    ],
+    "gazetteerNames": [
+      "stor högväg"
+    ],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/ahlstrom.htm"
+    ]
+  },
+  {
     "id": "stor-socklot",
     "name": "stor-socklot",
     "kind": "village",
@@ -28476,6 +28906,7 @@
     "name": "storbron",
     "kind": "landmark",
     "aliases": [
+      "bron",
       "bron över älven",
       "gamla storbron",
       "kyrkbron",
@@ -28631,6 +29062,12 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/rosenkcu.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/sjoblomr.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/dg/117dg.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/islossning1853.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751020brhlykt.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751228petrol_mm.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760127br.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770417br.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770512meteor.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lrakort.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
     ]
@@ -29764,7 +30201,8 @@
     ],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/karta/1905birck.htm",
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/LTAQ027T.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/LTAQ027T.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760706sp.htm"
     ]
   },
   {
@@ -30863,6 +31301,7 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/skridsto.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/sund_alfred75.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/tradjm.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760706sp.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/stad0992.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/upp/torget_normen.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/vandring/lratext.htm"
@@ -31157,7 +31596,9 @@
     "id": "trivialskolan",
     "name": "trivialskolan",
     "kind": "building",
-    "aliases": [],
+    "aliases": [
+      "trivial skolan"
+    ],
     "gazetteerNames": [
       "trivialskolan"
     ],
@@ -31172,7 +31613,8 @@
       "https://www.nykarlebyvyer.nu/sidor/nykarleb/historja.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/finlarki.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/hus/radhusls.htm",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/vaxeltan.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/vaxeltan.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/trivial1796.html"
     ]
   },
   {
@@ -31548,7 +31990,9 @@
       "tändsticksfabriken"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/texter/hus/lindfors.htm"
+      "https://www.nykarlebyvyer.nu/sidor/texter/hus/lindfors.htm",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750303ts.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760306br.htm"
     ]
   },
   {
@@ -32200,6 +32644,16 @@
     "gazetteerNames": [],
     "pages": [
       "https://www.nykarlebyvyer.nu/sidor/texter/pers/jernstrom_a37.html"
+    ]
+  },
+  {
+    "id": "viitavesi",
+    "name": "viitavesi",
+    "kind": "farm",
+    "aliases": [],
+    "gazetteerNames": [],
+    "pages": [
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/011fopavi.htm"
     ]
   },
   {
@@ -32865,12 +33319,15 @@
     "id": "wernamo",
     "name": "wernamo",
     "kind": "building",
-    "aliases": [],
+    "aliases": [
+      "wernamo kvarn"
+    ],
     "gazetteerNames": [
       "wernamo"
     ],
     "pages": [
-      "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/NNAH025S.HTM"
+      "https://www.nykarlebyvyer.nu/sidor/kortindi/DIV/DIV_A/NNAH025S.HTM",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/01indhan.htm"
     ]
   },
   {
@@ -33381,7 +33838,9 @@
     "id": "aminne",
     "name": "åminne",
     "kind": "other",
-    "aliases": [],
+    "aliases": [
+      "åminnet"
+    ],
     "gazetteerNames": [
       "åminne"
     ],
@@ -33395,7 +33854,9 @@
       "https://www.nykarlebyvyer.nu/sidor/texter/diverse/sjobloms_forsta.html",
       "https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm",
       "https://www.nykarlebyvyer.nu/sidor/texter/konsten/backlund_ragn.html",
-      "https://www.nykarlebyvyer.nu/sidor/texter/pers/kronolots_ls.html"
+      "https://www.nykarlebyvyer.nu/sidor/texter/pers/kronolots_ls.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660607aminne.html",
+      "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760306br.htm"
     ]
   },
   {

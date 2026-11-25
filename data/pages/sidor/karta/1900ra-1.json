@@ -89,6 +89,33 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nystaden",
+        "Seminarieområdet",
+        "Fåfängan",
+        "De la Gardiegatan",
+        "Norra Residensgatan",
+        "Södra Residensgatan",
+        "Vestanlid",
+        "Vasagatan",
+        "Seminariegatan",
+        "Västra Vattugatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "d063c1143ea247e59ab1414bda923c001bcfad38f26756d51ebc7319d447c683",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

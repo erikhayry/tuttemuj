@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html",
+  "title": "Om namnet Juthas i Åbo Tidning 1886",
+  "summary": "En insändare i Åbo Tidning 1886 hävdar att namnet Juthas ska skrivas med h och härstammar från köpmansätten Juthe i Nykarleby. Släkten har gett namn åt gästgiveriet, Juthbacka herrgård, Juthträsket och Juthforsen.",
+  "topics": [
+    "ortnamn",
+    "släkter",
+    "Juthas"
+  ],
+  "people": [
+    {
+      "name": "Juthe",
+      "alternateNames": [],
+      "roles": [
+        "köpmansätt"
+      ],
+      "description": "Släkt som enligt skribenten levde i Nykarleby från stadens äldsta tider."
+    },
+    {
+      "name": "Döbeln",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthas",
+      "kind": "farm",
+      "alternateNames": [
+        "Juutas"
+      ],
+      "description": "Bondgård några verst söder om staden som länge var gästgiveri.",
+      "uses": [
+        {
+          "use": "gästgiveri"
+        }
+      ],
+      "nameOrigin": "Namnet härleds i texten från köpmansätten Juthe som lär ha kommit från Danmark.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Herrgård.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthträsket",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Numera uttorkat träsk."
+    },
+    {
+      "name": "Juthforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Fors söder om bron."
+    }
+  ],
+  "events": [
+    {
+      "title": "Ryssarna bränner bron",
+      "date": {
+        "year": 1808,
+        "circa": false,
+        "text": "midsommardagen 1808"
+      },
+      "description": "Ryssarna brände bron i Nykarleby midsommardagen 1808, och Döbeln ville rida över Juthforsen men räddades med knapp nöd från att drunkna.",
+      "people": [
+        "Döbeln"
+      ],
+      "places": [
+        "Juthforsen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "bd4f337a8e93d5119a5a4c9524d17d7db49acd8eb21cac0abc318729e255c129",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

@@ -1,0 +1,84 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/04indhan.htm",
+  "title": "Industri och hantverk i Nkbynejden på 1800-talet, del 4",
+  "summary": "Del 4 följer industrin 1888–90: smeden Gustaf Blomquist i Vörå, glasbruket i Munsala och i Nykarleby landskommun Axel Oldenburgs benkvarn och Johan Engs garveri. Åström redovisar råvaror, arbetare och försäljningsvärden.",
+  "topics": [
+    "industri",
+    "hantverk",
+    "garveri",
+    "benmjöl"
+  ],
+  "people": [
+    {
+      "name": "Erik Åström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Axel Oldenburg",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Johan Eng",
+      "alternateNames": [
+        "John Eng"
+      ],
+      "roles": [
+        "garvare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Oldenburgs benkvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby benmjölsfabrik"
+      ],
+      "uses": [
+        {
+          "use": "benkvarn",
+          "startYear": 1888,
+          "endYear": 1890
+        }
+      ]
+    },
+    {
+      "name": "Engs garveri",
+      "kind": "building",
+      "alternateNames": [
+        "Nygårds lädergarveri"
+      ],
+      "uses": [
+        {
+          "use": "garveri"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Axel Oldenburg",
+      "place": "Oldenburgs benkvarn",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Eng",
+      "place": "Engs garveri",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "d7dc83a1db4188e100c16c218803de7898714eff8bcb15f1a3b10adee66e39c3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:23:15.053Z"
+}

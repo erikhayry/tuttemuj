@@ -130,6 +130,25 @@
       "Nykarleby"
     ]
   },
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby"
+      ],
+      "year": 1877
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "6fe71bd322d8e75c8cb68cd4df493080fce272aeb53cfda5eb9700ec6694404c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

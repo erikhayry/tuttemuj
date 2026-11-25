@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/03back.htm",
+  "title": "Släkten Bäck, gren I av Woldemar Backman",
+  "summary": "Den första och större grenen av släkten Bäck, från Susanna Andersdotter Bäck och Johan Persson, med släkttabeller över deras avkomlingar. Grenen spreds till Jeppo och Munsala och flera medlemmar emigrerade till Amerika.",
+  "topics": [
+    "släktforskning",
+    "Bäck",
+    "genealogi"
+  ],
+  "people": [
+    {
+      "name": "Susanna Andersdotter Bäck",
+      "alternateNames": [],
+      "birthYear": 1703,
+      "deathYear": 1767,
+      "roles": []
+    },
+    {
+      "name": "Johan Persson",
+      "alternateNames": [],
+      "deathYear": 1741,
+      "roles": []
+    },
+    {
+      "name": "Jakob Bäck",
+      "alternateNames": [],
+      "birthYear": 1725,
+      "deathYear": 1802,
+      "roles": [
+        "kronobonde",
+        "kyrkovärd"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bäck i Forsby",
+      "kind": "farm",
+      "alternateNames": [
+        "Bäck"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Susanna Andersdotter Bäck",
+      "place": "Bäck i Forsby",
+      "relation": "born",
+      "startYear": 1703,
+      "endYear": 1703
+    },
+    {
+      "person": "Susanna Andersdotter Bäck",
+      "place": "Bäck i Forsby",
+      "relation": "died",
+      "startYear": 1767,
+      "endYear": 1767
+    },
+    {
+      "person": "Jakob Bäck",
+      "place": "Bäck i Forsby",
+      "relation": "born",
+      "startYear": 1725,
+      "endYear": 1725
+    },
+    {
+      "person": "Jakob Bäck",
+      "place": "Bäck i Forsby",
+      "relation": "died",
+      "startYear": 1802,
+      "endYear": 1802
+    }
+  ],
+  "images": [],
+  "contentHash": "d570217c7e14b3cc8f782095f114d4be1f2980c1627d313428347c7243262991",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

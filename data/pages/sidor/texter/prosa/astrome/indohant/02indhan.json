@@ -1,0 +1,122 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/02indhan.htm",
+  "title": "Industri och hantverk i Nkbynejden på 1800-talet, del 2",
+  "summary": "Del 2 handlar mest om bruk, sågar och kvarnar i Oravais och Jeppo, med en lång uppräkning av industrier som grundades på 1870–90-talen. För Nykarleby landskommun nämns 1887 bland annat Nygårds ölbryggeri, Eng garveri och Oldenburgs benmjölsfabrik.",
+  "topics": [
+    "industri",
+    "hantverk",
+    "bryggeri",
+    "benmjölsfabrik"
+  ],
+  "people": [
+    {
+      "name": "Erik Åström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bryggeriägare"
+      ]
+    },
+    {
+      "name": "Axel Oldenburg",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Johan Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårds ölbryggeri",
+      "kind": "building",
+      "alternateNames": [
+        "Nygårdska ölbryggeriet"
+      ],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby benmjölsfabrik",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "benmjölsfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Haraldsfors",
+      "kind": "district",
+      "alternateNames": [
+        "Haraldsfors såg",
+        "Haraldsfors mjölkvarn"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Josef Herler bryggde öl vid Nygårds ölbryggeri",
+      "date": {
+        "year": 1887,
+        "circa": false
+      },
+      "description": "År 1887 ägde Josef Herler Nygårdska ölbryggeriet i Nykarleby landskommun, där öl bryggdes för hand.",
+      "people": [
+        "Josef Herler"
+      ],
+      "places": [
+        "Nygårds ölbryggeri"
+      ]
+    },
+    {
+      "title": "Haraldsfors såg tillkommer",
+      "date": {
+        "year": 1874,
+        "circa": false
+      },
+      "description": "Haraldsfors såg anges ha tillkommit år 1874.",
+      "people": [],
+      "places": [
+        "Haraldsfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Josef Herler",
+      "place": "Nygårds ölbryggeri",
+      "relation": "owned",
+      "startYear": 1887,
+      "endYear": 1887
+    },
+    {
+      "person": "Axel Oldenburg",
+      "place": "Nykarleby benmjölsfabrik",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "e53864aff447a57f4f9ba9ae8b00c78c197933697306d146e0b3fc1fce0b1214",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:23:15.053Z"
+}

@@ -60,6 +60,29 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Stor Alörn",
+        "Enholmsudden",
+        "Norrskatan",
+        "Namnberget",
+        "Norrviken",
+        "Söderviken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "40012e1dbef75900a957f02476800856248efd6472b8312051f9911948ec8dba",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

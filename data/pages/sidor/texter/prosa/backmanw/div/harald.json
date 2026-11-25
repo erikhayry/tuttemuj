@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/harald.htm",
+  "title": "Harald och släkten Kerrman av Woldemar Backman",
+  "summary": "Backman berättar om hemmanet Harald, som Zacharias Topelius ofta besökte på sina ferier på 1830- och 40-talen. Det ägdes av sjökaptenen och rådmannen Jakob Johan Kerrman, vars hustru var kusin till Topelius mor, och sidan följer släktens öden.",
+  "topics": [
+    "Harald",
+    "Topelius",
+    "släktforskning",
+    "gårdshistoria"
+  ],
+  "people": [
+    {
+      "name": "Jakob Johan Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten",
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Anna Helena Wacklin",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Kerrmans hustru och kusin till Topelius mor."
+    },
+    {
+      "name": "Katarina Kristina Wacklin",
+      "alternateNames": [],
+      "roles": [
+        "änka"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Harald",
+      "kind": "farm",
+      "alternateNames": [
+        "Haraldsfors"
+      ],
+      "description": "Hemman som Topelius ofta besökte; ägdes på 1830–40-talen av Jakob Johan Kerrman."
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En nitton år gammal flicka flyr från ett påtvingat äktenskap med sin älskade, seglar över Bottenhavet och gifter sig i Frötuna nära Norrtälje. Svårigheterna börjar i Stockholm, där mannen förlupit sin tjänst.",
+    "reason": "Kärlekshistoria med flykt över havet och ett tragiskt öde.",
+    "characters": [
+      "Katarina Kristina Wacklin"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Jakob Johan Kerrman",
+      "place": "Harald",
+      "relation": "owned"
+    },
+    {
+      "person": "Katarina Kristina Wacklin",
+      "place": "Harald",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "4098cc711c52fd76165bef8f5e24a2217cb18d0bef3086022774bffb41e3c3f5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

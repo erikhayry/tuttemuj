@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/06jakob.htm",
+  "title": "Gren II. Jakob Johansson Knuts och efterkommande av Woldemar Backman",
+  "summary": "Gren II av släkten Björklund börjar med byskräddaren Jakob Johansson Knuts, född 1758. Från honom härstammar släkterna Björklund, Lingonblad och Wahlberg, och sidan följer hans avkomlingar i Munsala och Nykarleby.",
+  "topics": [
+    "släktforskning",
+    "Björklund",
+    "genealogi"
+  ],
+  "people": [
+    {
+      "name": "Jakob Johansson Knuts",
+      "alternateNames": [],
+      "birthYear": 1758,
+      "deathYear": 1808,
+      "roles": [
+        "byskräddare"
+      ]
+    },
+    {
+      "name": "Erik Johan Björklund",
+      "alternateNames": [],
+      "birthYear": 1792,
+      "deathYear": 1825,
+      "roles": [
+        "försvarskarl",
+        "arbetare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Knuts i Ytterjeppo",
+      "kind": "farm",
+      "alternateNames": [
+        "Knuts"
+      ]
+    },
+    {
+      "name": "Björkbacka i Munsala",
+      "kind": "farm",
+      "alternateNames": [
+        "Björkbacka"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Jakob Johansson Knuts",
+      "place": "Knuts i Ytterjeppo",
+      "relation": "born",
+      "startYear": 1758,
+      "endYear": 1758
+    },
+    {
+      "person": "Jakob Johansson Knuts",
+      "place": "Björkbacka i Munsala",
+      "relation": "died",
+      "startYear": 1808,
+      "endYear": 1808
+    }
+  ],
+  "images": [],
+  "contentHash": "e166cd70d6ca5caed34f97f7694b0fe3749352c059e9f0e3b92d68e9ba9ff65e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

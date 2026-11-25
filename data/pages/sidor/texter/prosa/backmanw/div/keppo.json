@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo.htm",
+  "title": "Keppo gård av Woldemar Backman: innehållsförteckning",
+  "summary": "Innehållsförteckning till Backmans skrift från 1944 om Keppo gård, med ägare, byggnader och industrier som sågen, tullmjölkvarnen, oljeslageriet och yllespinneriet.",
+  "topics": [
+    "Keppo",
+    "gårdshistoria",
+    "industri"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppo gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Keppo"
+      ],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "menu",
+  "relations": [],
+  "images": [],
+  "contentHash": "06e0c02f09c994ea38fbcd00ca148ba68cd7afe3b01fcde1ccd10db901940031",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/06indhan.htm",
+  "title": "Industri och hantverk i Nkbynejden på 1800-talet, del 6",
+  "summary": "Del 6 följer industrin 1891–1900: smeder, färgare, garverier och spinnerier i Vörå, Munsala, Oravais och Jeppo. Nygårds garveri nämns som Nygårds Läderfabrik från 1897.",
+  "topics": [
+    "industri",
+    "hantverk",
+    "garveri",
+    "färgerier"
+  ],
+  "people": [
+    {
+      "name": "Erik Åström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "John Eng",
+      "alternateNames": [
+        "Johan Eng"
+      ],
+      "roles": [
+        "garvare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårds Läderfabrik",
+      "kind": "building",
+      "alternateNames": [
+        "Nygårds lädergarveri"
+      ],
+      "uses": [
+        {
+          "use": "läderfabrik",
+          "startYear": 1897
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Engs garveri får namnet Nygårds Läderfabrik",
+      "date": {
+        "year": 1897,
+        "circa": false
+      },
+      "description": "Från år 1897 fick John Engs garverirörelse i Nygård namnet Nygårds Läderfabrik.",
+      "people": [
+        "John Eng"
+      ],
+      "places": [
+        "Nygårds Läderfabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "John Eng",
+      "place": "Nygårds Läderfabrik",
+      "relation": "ran",
+      "startYear": 1897
+    }
+  ],
+  "images": [],
+  "contentHash": "6c93e8a2d77c73b525832fad86a7976f285abe4a24a2967d89bbd3646bd174d6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:23:15.053Z"
+}

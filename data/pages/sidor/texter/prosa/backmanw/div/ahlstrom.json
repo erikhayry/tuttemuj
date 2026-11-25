@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/ahlstrom.htm",
+  "title": "Några äldre, ännu i staden levande Nykarlebysläkter: Ahlström",
+  "summary": "Woldemar Backman följer släkten Ahlström i Nykarleby från Pär Jöransson Ahlström, som 1738 var dräng i Ytterjeppo och senare blev borgare i staden. Släkttabellerna beskriver bland annat sjömän och handlande bland ättlingarna.",
+  "topics": [
+    "släktforskning",
+    "Ahlström",
+    "genealogi"
+  ],
+  "people": [
+    {
+      "name": "Pär Jöransson Ahlström",
+      "alternateNames": [
+        "Petter Jöransson Ahlström"
+      ],
+      "deathYear": 1754,
+      "roles": [
+        "dräng",
+        "landbonde",
+        "borgare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Mårten Forssén",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stor Högväg",
+      "kind": "farm",
+      "alternateNames": [
+        "Stor Högväg i Ytterjeppo"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Pär Jöransson Ahlström",
+      "place": "Stor Högväg",
+      "relation": "worked",
+      "startYear": 1738,
+      "endYear": 1740
+    }
+  ],
+  "images": [],
+  "contentHash": "ec85cfdf5e3e5c15632a9231c8350988c27c0777c87423a101666a6c16210d4e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

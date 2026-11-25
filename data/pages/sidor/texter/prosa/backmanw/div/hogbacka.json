@@ -1,0 +1,110 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/hogbacka.htm",
+  "title": "Högbacka hemman i Nykarleby och dess ägare, den s.k. Högbackasläkten",
+  "summary": "Backman beskriver hemmanet Högbacka längst i norr i kyrkobyn, där älven möter viken, och dess ägare från 1549. Hemmanet delades 1755, brändes under stora ofreden och delades vidare 1838 och 1879.",
+  "topics": [
+    "hemman",
+    "Högbacka",
+    "släktforskning",
+    "stora ofreden"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Mårten Larsson Högbacka",
+      "alternateNames": [],
+      "deathYear": 1755,
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Gustav Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Johan Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Jakob Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "häradsdomare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Skattehemman längst i norr i kyrkobyn, i vinkeln mellan älven och viken; hemmansnummer 9 sedan 1831, tidigare 4.",
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Högbacka delas mellan två mågar",
+      "date": {
+        "year": 1755,
+        "circa": false
+      },
+      "description": "När Mårten Larsson Högbacka dog 1755 utan söner delades hemmanet mellan hans två mågar.",
+      "people": [
+        "Mårten Larsson Högbacka",
+        "Gustav Mattsson",
+        "Johan Henriksson"
+      ],
+      "places": [
+        "Högbacka"
+      ]
+    },
+    {
+      "title": "Högbacka brändes under stora ofreden",
+      "date": {
+        "year": 1723,
+        "circa": false
+      },
+      "description": "Högbacka härjades av ryssarna under stora ofreden och nämns i jordeboken 1723 som avbränt och öde.",
+      "people": [],
+      "places": [
+        "Högbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Mårten Larsson Högbacka",
+      "place": "Högbacka",
+      "relation": "owned",
+      "endYear": 1755
+    }
+  ],
+  "images": [],
+  "contentHash": "e56390da23868d65e923825e8ff4b2ddc6c83c8db99b732f1b37ad05404e7b65",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

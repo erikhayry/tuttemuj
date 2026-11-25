@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/jstadnabo65.html",
+  "title": "Notiser från Jakobstad 1865 med Nykarlebykopplingar",
+  "summary": "Jakobstadskorrespondens från 28 april 1865 om stadens brunn och rådhus och om sjömannen Johan Drakabacka från Nykarleby socken, som rymde för tjugo år sedan och nu återvänt från Sibirien under falskt namn. Sidan finns med för sina kopplingar till Nykarleby.",
+  "topics": [
+    "Jakobstad",
+    "rymling",
+    "Sibirien",
+    "brunn"
+  ],
+  "people": [
+    {
+      "name": "Johan Drakabacka",
+      "alternateNames": [],
+      "roles": [
+        "matros"
+      ],
+      "description": "Hemma från Nykarleby socken; rymde för tjugo år sedan och greps i Tomsk."
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Rymd sjöman hämtas från Sibirien",
+      "date": {
+        "year": 1865,
+        "circa": false
+      },
+      "description": "Matrosen Johan Drakabacka, som lämnade Jakobstad för tjugo år sedan, förhördes i Nykarleby och sändes till Jakobstad efter tre år i fängelse i Tomsk.",
+      "people": [
+        "Johan Drakabacka"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En matros från Nykarleby rymmer i en utländsk hamn och är glömd i tjugo år. Så dyker han upp, gripen i Sibirien, och påstår envist att han heter Rask och inte kan svenska, medan hans förra fru intygar vem han är.",
+    "reason": "Mysterium med en envis huvudperson och ett osannolikt äventyr.",
+    "characters": [
+      "Johan Drakabacka"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": []
+    }
+  ],
+  "contentHash": "e267669d4b22f576f0bb0d60948b7300dc671c7c63439071099818ebae60c5ac",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

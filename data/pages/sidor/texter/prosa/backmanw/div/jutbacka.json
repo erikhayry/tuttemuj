@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/jutbacka.htm",
+  "title": "Jutbacka: några anteckningar av Woldemar Backman",
+  "summary": "Backman redogör för Jutbacka skattehemman i kyrkobyn, med ägarlängd, byggnader och jordbruk. Namnet skrevs Juutbacka till början av 1700-talet och förekommer första gången 1654, då hemmanet var 1 2/3 mantal.",
+  "topics": [
+    "hemman",
+    "Jutbacka",
+    "ortnamn",
+    "gårdshistoria"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "T. E. Karsten",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "Hugo Lagström",
+      "alternateNames": [],
+      "roles": [
+        "magister"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Jutbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka",
+        "Juutbacka"
+      ],
+      "description": "Skattehemman i kyrkobyn som gränsar till stadens, Nygårds och Forsbackas marker.",
+      "nameOrigin": "Professor Karsten tror att förleden är en dialektform av gjuta, ett gammalt ord för sank däld.",
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juths fors",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Fors där stadens kvarn ligger."
+    }
+  ],
+  "events": [
+    {
+      "title": "Jutbacka nämns första gången",
+      "date": {
+        "year": 1654,
+        "circa": false
+      },
+      "description": "Namnet Jutbacka nämns första gången i mantalslängden 1654, då hemmanet var 1 2/3 mantal.",
+      "people": [],
+      "places": [
+        "Jutbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "33489440950212dde260c0fa6283925102d63e9e89294d391661bc95d52d0c0b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

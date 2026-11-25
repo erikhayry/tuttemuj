@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770512meteor.html",
+  "title": "Meteor över Nykarleby och nya bron 1877",
+  "summary": "Korrespondens 5 maj 1877: den 29 april sågs en stor meteor över orten, och folk tolkade den som ett tecken i det rysk-turkiska kriget eller som Guds varning. Brons nya lock är färdigt och byggdes billigare än beräknat.",
+  "topics": [
+    "meteor",
+    "vår",
+    "bron",
+    "folktro"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "bron"
+      ],
+      "description": "Brons lock hade byggts om och var färdigt i maj 1877.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stor meteor syns över Nykarleby",
+      "date": {
+        "year": 1877,
+        "month": 4,
+        "day": 29,
+        "circa": false
+      },
+      "description": "En ovanligt stor meteor färdades kl. 10 på kvällen över Nykarleby från nordost mot sydväst, och sjömän trodde att den var en raket som föll vid bron.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    },
+    {
+      "title": "Brons nya lock blir färdigt",
+      "date": {
+        "year": 1877,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Det ombyggda locket på bron i Nykarleby blev färdigt och blev billigare än beräknat.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ljus meteor drar över himlen en söndagskväll medan tjänstefolk och sjömän står på bron. Sjömännen svär att det var en raket slängd av herrskapet för att skrämma bort pigorna, och rädda pigor skyndar hem.",
+    "reason": "Lustig misstolkning av ett himlafenomen med flera olika karaktärer.",
+    "characters": [],
+    "places": [
+      "Storbron"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "a5f6906c62d2e8746f64b0fbfd9747e5d3c02e08f4c3797aa9c3df9e33bb1273",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750303ts.html",
+  "title": "Drätselkammaren, tobaksfabrik och tändsticksfabriken i Åbo Underrättelser 1875",
+  "summary": "Korrespondent från Nykarleby 23 februari 1875 går igenom förslag till reglemente för drätselkammaren och att stadens kungörelser nu sätts upp på rådstugan. Han nämner också att en tändsticksfabrik med 22 anställda ägs av A. Häggblom.",
+  "topics": [
+    "kommunalförvaltning",
+    "drätselkammaren",
+    "tändsticksfabrik",
+    "tobaksfabrik"
+  ],
+  "people": [
+    {
+      "name": "A. Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "fabriksägare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådstugan",
+      "kind": "building",
+      "alternateNames": [
+        "rådhuset"
+      ],
+      "description": "Där stadens kungörelser sätts upp.",
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Här fanns förr en mindre tobaksfabrik; nu garveri och ölbryggeri."
+    },
+    {
+      "name": "Tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "På Nykarleby stads utmark.",
+      "uses": [
+        {
+          "use": "tändsticksfabrik"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhusstämma om drätselkammarens reglemente",
+      "date": {
+        "year": 1875,
+        "month": 2,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Förslag till reglemente för drätselkammaren i Nykarleby stad skulle diskuteras vid rådhusstämma den 24 februari 1875.",
+      "people": [],
+      "places": [
+        "Rådstugan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "A. Häggblom",
+      "place": "Tändsticksfabriken",
+      "relation": "owned",
+      "startYear": 1875,
+      "endYear": 1875
+    }
+  ],
+  "images": [],
+  "contentHash": "e66d9d6bcb369a8e9db538442c4e9d49821dea60f22773d15ff8de85cef0063f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

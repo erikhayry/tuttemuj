@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/860901ny.html",
+  "title": "Nykarleby den 1 sept. 1886 i Åbo Underrättelser",
+  "summary": "Två tillfälliga besökare beskriver Nykarleby 1 september 1886: staden i grönska med breda gator och enkla hus. De skildrar kyrkan med takmålningar och en förteckning över pastorer sedan 1607, gravstenar på kyrkogården och seminariets byggnader på älvens västra strand.",
+  "topics": [
+    "Nykarleby",
+    "kyrkan",
+    "seminariet",
+    "kyrkogården"
+  ],
+  "people": [
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald",
+        "statsråd"
+      ]
+    },
+    {
+      "name": "Cordt Boch Möller",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ],
+      "description": "Hans gravsten från 1667 finns på kyrkogården."
+    },
+    {
+      "name": "Nicolaus Ringius",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Träkyrka med takmålningar, möjligen från 1749, fyra ljuskronor och altartavla med Kristus på korset; klockstapeln står vid östra ändan.",
+      "uses": [
+        {
+          "use": "kyrka"
+        }
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "Folkskolelärareseminariet"
+      ],
+      "description": "Ligger på älvens vänstra strand med fyra byggnader: normalskola, klassrum, kosthåll och direktorsbostad.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gården där Zachris Topelius föddes.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Församlingens egentliga gravgård utanför staden, med gravarna efter Topelius föräldrar."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Zachris Topelius",
+      "place": "Kuddnäs",
+      "relation": "born"
+    }
+  ],
+  "images": [],
+  "contentHash": "d068ef55c0a27ac972a689b5ad8ce54f8c87008ee80742ec38cc99d13045fb49",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

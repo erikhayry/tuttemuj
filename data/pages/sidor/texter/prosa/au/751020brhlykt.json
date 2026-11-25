@@ -1,0 +1,148 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751020brhlykt.html",
+  "title": "Gatubelysning, inlösning av Brunnsholmarna och normalskolan 1875",
+  "summary": "Kommunalstämman 5 oktober 1875 beslöt om gatubelysning med lyktor, bland annat vid bron, och att staden skulle lösa in Brunnsholmarnas brunnshus, restaurang, simhus och kägelbana. Normalskolan vid seminariet hade börjat sin verksamhet med knappt sextio elever.",
+  "topics": [
+    "gatubelysning",
+    "Brunnsholmarna",
+    "normalskolan",
+    "kommunalpolitik"
+  ],
+  "people": [
+    {
+      "name": "Thor Stenbäck",
+      "alternateNames": [],
+      "roles": [
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "Renvall",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmarne"
+      ],
+      "description": "Holmar i forsen med brunnshus, restaurang, simhus och kägelbana; underlyder Nygård hemman.",
+      "uses": [
+        {
+          "use": "brunnshus"
+        },
+        {
+          "use": "restaurang"
+        },
+        {
+          "use": "simhus"
+        },
+        {
+          "use": "kägelbana"
+        }
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1875
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Storbron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Beslut om gatubelysning",
+      "date": {
+        "year": 1875,
+        "month": 10,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Kommunalstämman beslöt att gårdsägarna vid de större gatorna skulle bekosta lyktor och att staden skulle sätta en lykta i vardera änden av bron.",
+      "people": [],
+      "places": [
+        "Bron"
+      ]
+    },
+    {
+      "title": "Beslut att inlösa Brunnsholmarnas byggnader",
+      "date": {
+        "year": 1875,
+        "month": 10,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Stämman beslöt att staden skulle inlösa brunnshuset, restaurangen, simhuset och kägelbanan på Brunnsholmarna för att inrätta en badanstalt.",
+      "people": [],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Normalskolan börjar",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Normalskolan vid seminariet började sin verksamhet i början av oktober 1875.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "13ad553f753142043eb34e1899a714ce7e540ef91bc6336801747bd9389d6152",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

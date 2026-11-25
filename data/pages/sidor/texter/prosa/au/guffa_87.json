@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/guffa_87.html",
+  "title": "Korrespondens av Guffa i Åbo Underrättelser 1887",
+  "summary": "Korrespondens 6 juli 1887 om kall väderlek och oro för skörden, livlig sjötrafik och kronokassören Fritz Olsons nya mejeri på Kuddnäs. Den avslutas med en minnesruna över kaptenskan Maria Albertina Kerrman.",
+  "topics": [
+    "väder",
+    "skörd",
+    "mejeri",
+    "dödsfall"
+  ],
+  "people": [
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "roles": [
+        "kronokassör"
+      ]
+    },
+    {
+      "name": "Maria Albertina Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "kaptenska"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Fritz Olsons egendom invid staden, där ett mejeri uppfördes.",
+      "uses": [
+        {
+          "use": "mejeri",
+          "startYear": 1887
+        }
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Mejeri byggs på Kuddnäs",
+      "date": {
+        "year": 1887,
+        "circa": false
+      },
+      "description": "Kronokassören Fritz Olson lät uppföra ett mejeri på sin egendom Kuddnäs invid staden.",
+      "people": [
+        "Fritz Olson"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Kaptenskan Kerrman avlider",
+      "date": {
+        "year": 1887,
+        "month": 7,
+        "day": 3,
+        "circa": false
+      },
+      "description": "Kaptenskan Maria Albertina Kerrman dog 73 år gammal.",
+      "people": [
+        "Maria Albertina Kerrman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Fritz Olson",
+      "place": "Kuddnäs",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "ab039502834e11706044e1aee08fba94c36669d7a8770d43eed1e2311e34f84e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

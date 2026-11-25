@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761221elementar.html",
+  "title": "Lägre elementarskolans historia, brännvinsbolaget m.m. 1876",
+  "summary": "Korrespondens 14 december 1876 om stark kyla, utskänkningsbolagets bodar och kommunens ekonomi. Skribenten avslutar lägre elementarskolans historia med en anekdot om pedagogen Remahl och skolhemmanet Nybacka.",
+  "topics": [
+    "skolhistoria",
+    "brännvinsutskänkning",
+    "kommunalekonomi"
+  ],
+  "people": [
+    {
+      "name": "Johannes Remahl",
+      "alternateNames": [],
+      "roles": [
+        "pedagog"
+      ]
+    },
+    {
+      "name": "J. G. Toppelius",
+      "alternateNames": [],
+      "roles": [
+        "pedagog"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Skolhemmanet"
+      ],
+      "description": "Skolhemman i Nykarleby sockens Kyrkoby, doneratet till staden för skolans underhåll."
+    },
+    {
+      "name": "Seminariets festivitetssal",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fest för normalskolans elever",
+      "date": {
+        "year": 1876,
+        "month": 12,
+        "day": 13,
+        "circa": false
+      },
+      "description": "En fest för normalskolans elever hölls i seminariets festivitetssal.",
+      "people": [],
+      "places": [
+        "Seminariets festivitetssal"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Pedagogen Remahl går hem över torget med en pappersbit hängande över örat utan att veta om det. Hans fru skrattar, och nästa dag får skolbarnen betala med plaggor.",
+    "reason": "Humoristisk anekdot med tydlig vändning och en komisk huvudperson.",
+    "characters": [
+      "Johannes Remahl"
+    ],
+    "places": [
+      "Nybacka"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johannes Remahl",
+      "place": "Nybacka",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "8847c02de70505ed7d7bb770231c54a8118676d9bda17b22c89ee808102af62c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

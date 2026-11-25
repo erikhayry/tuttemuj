@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/pappersbruk1850.html",
+  "title": "Privilegium för anläggande av ett pappersbruk i Åbo Tidningar 1850",
+  "summary": "Kort notis från 1850: byggmästaren Kuorikoski fick privilegium att anlägga ett pappersbruk vid Lappjoki, en halv mil söder om Nykarleby. Sidan anger att bruket inte blev av.",
+  "topics": [
+    "pappersbruk",
+    "industri"
+  ],
+  "people": [
+    {
+      "name": "Kuorikoski",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lappjoki",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Lappo å"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Privilegium för pappersbruk",
+      "date": {
+        "year": 1850,
+        "circa": false
+      },
+      "description": "Byggmästaren Kuorikoski fick privilegium att anlägga ett pappersbruk vid Lappjoki, en halv mil söder om Nykarleby.",
+      "people": [
+        "Kuorikoski"
+      ],
+      "places": [
+        "Lappjoki"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "5ce29a6160dcd0585112cebade5633035e26c86def9a6887db92038a040ee78a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

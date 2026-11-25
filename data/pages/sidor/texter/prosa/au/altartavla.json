@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/altartavla.html",
+  "title": "En 1700-tals altarmålning döljande spår av en äldre i Åbo Underrättelser 1928",
+  "summary": "Altartavlan Nattvarden i Nykarleby kyrka har restaurerats och visar sig dölja en äldre målning med en gyllene kalk, som kan komma från den gamla träkyrkan. Målningen tillskrivs den svenske målaren Daniel Hiulström, verksam i Österbotten på 1740–50-talen.",
+  "topics": [
+    "kyrkan",
+    "konst",
+    "restaurering",
+    "altartavla"
+  ],
+  "people": [
+    {
+      "name": "Daniel Hiulström",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Axel Haartman",
+      "alternateNames": [],
+      "roles": [
+        "restauratör"
+      ]
+    },
+    {
+      "name": "Karl Nygren",
+      "alternateNames": [],
+      "roles": [
+        "restauratör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Altartavlan Nattvarden hänger i kyrkan; bräder med bildfragment från den gamla träkyrkan finns bevarade.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Altartavlan Nattvarden restaureras",
+      "date": {
+        "year": 1928,
+        "circa": false
+      },
+      "description": "Altartavlan Nattvarden i Nykarleby kyrka restaurerades, och en äldre målning av en gyllene kalk upptäcktes under övermålningen.",
+      "people": [
+        "Axel Haartman",
+        "Karl Nygren"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "contentHash": "5f7f890608f466f6afad866a68b012a4ef5085e5f7e2346ac4b0f3cb39aace09",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

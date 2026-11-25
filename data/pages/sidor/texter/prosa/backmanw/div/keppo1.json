@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo1.htm",
+  "title": "Keppo gård m.m. av Woldemar Backman",
+  "summary": "Backman beskriver vägen från Nykarleby till Keppo gård och dess läge på en sex kilometer lång holme som bildas av älvens förgrening. Därifrån går han vidare till gårdens natur, mantal och namn.",
+  "topics": [
+    "Keppo",
+    "gårdshistoria",
+    "Jeppo"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppo gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Keppo"
+      ],
+      "description": "Ligger på en holme, cirka sex km lång och en km bred, mellan älvgrenarna.",
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jutas",
+      "kind": "village",
+      "alternateNames": [
+        "Juthas"
+      ],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jutas slagfält",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Med minnesstod.",
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "juthas slagfält",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "e29604353dbbd5855db135cbc089f1459e5865aecc0b80e0debacc69ea1f1fab",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

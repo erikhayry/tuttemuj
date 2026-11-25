@@ -1,0 +1,101 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/bonas.htm",
+  "title": "Bonäs hemman och släkten Bonäs av Woldemar Backman",
+  "summary": "Backman beskriver de tre Bonäsgårdarna, åtta kilometer söder om Nykarleby mellan landsvägen och en havsvik, och deras ägare. Släkten Bonäs har bott där sedan slutet av 1770-talet, och hemmanet var kronohemman före 1763.",
+  "topics": [
+    "hemman",
+    "släktforskning",
+    "Bonäs"
+  ],
+  "people": [
+    {
+      "name": "Hannes Bonäs",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "August Bonäs",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Erik Strandberg",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Erik Johan Beerman",
+      "alternateNames": [],
+      "deathYear": 1757,
+      "roles": [
+        "fänrik",
+        "löjtnant"
+      ]
+    },
+    {
+      "name": "Mikael Jesenhaus",
+      "alternateNames": [],
+      "deathYear": 1761,
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bonäs",
+      "kind": "farm",
+      "alternateNames": [
+        "Bonäsgårdarna"
+      ],
+      "description": "Tre gårdar i kyrkobyn, åtta kilometer söder om staden; hemmansnummer 14 sedan 1831, tidigare 22."
+    }
+  ],
+  "events": [
+    {
+      "title": "Löjtnant Beerman dör på Bonäs",
+      "date": {
+        "year": 1757,
+        "month": 3,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Löjtnant Erik Johan Beerman dog på Bonäs, 50 år gammal.",
+      "people": [
+        "Erik Johan Beerman"
+      ],
+      "places": [
+        "Bonäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Erik Johan Beerman",
+      "place": "Bonäs",
+      "relation": "died",
+      "startYear": 1757,
+      "endYear": 1757
+    }
+  ],
+  "images": [],
+  "contentHash": "ac2400667b6a14c810d4cd3275fc65809e0a56a7afc825dd040b8068e6a25ee4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

@@ -23,6 +23,7 @@
       "alternateNames": [
         "N. Karleby"
       ],
+      "nameOrigin": "På kartan skrivs stadens namn N. Karleby.",
       "geo": {
         "lat": 63.5217598,
         "lng": 22.5303558,
@@ -48,6 +49,26 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby",
+        "Jutas"
+      ],
+      "year": 1900
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "b648ae06c4a06b29346cdabe01878b22ea0099ecc6e73848319d2f429911682f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/trivial1796.html",
+  "title": "Trivialskolans flyttning från Nykarleby till Vasa",
+  "summary": "Ett kungligt brev, daterat 11 januari 1683 och tryckt i Åbo Tidningar 1796, befaller att trivialskolan i Nykarleby ska flyttas till Vasa. Lärarna skulle följa med, och böcker och instrument skulle hämtas till Vasa.",
+  "topics": [
+    "trivialskolan",
+    "skolväsen",
+    "1600-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl XI",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ]
+    },
+    {
+      "name": "Gezelius",
+      "alternateNames": [],
+      "roles": [
+        "biskop"
+      ]
+    },
+    {
+      "name": "Wrangel",
+      "alternateNames": [],
+      "roles": [
+        "landshövding"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Trivialskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Trivial Skolan"
+      ],
+      "uses": [
+        {
+          "use": "trivialskola",
+          "endYear": 1683
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Beslut om trivialskolans flyttning",
+      "date": {
+        "year": 1683,
+        "month": 1,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Kungen beslöt att trivialskolan i Nykarleby skulle flyttas till Vasa.",
+      "people": [
+        "Carl XI",
+        "Wrangel"
+      ],
+      "places": [
+        "Trivialskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "14628c427cddd62a0365ba6991c3faebd97120e1bbc7f8ef0093bcdade85a681",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

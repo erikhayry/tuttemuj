@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660705os.htm",
+  "title": "Nödår, ångfartyget Österbotten och drunkningsolycka ur Åbo Underrättelser 1866",
+  "summary": "Korrespondens från Nykarleby 27 juni 1866 om nödåret: sinande spannmålsförråd och dyrt mjöl. Ångfartyget Österbotten anlöpte stadens nya hamn första gången den 10 juni, och farmaceuten Johan Jakob Jakobsson, 29 år, drunknade i älven norr om staden.",
+  "topics": [
+    "nödår",
+    "ångfartyg",
+    "hamn",
+    "drunkning"
+  ],
+  "people": [
+    {
+      "name": "Johan Jakob Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "farmaceut"
+      ],
+      "description": "Drunknade vid simning i älven, 29 år gammal."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nya hamnen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stadens nya hamn med ångbåtsbrygga, cirka tre verst från staden."
+    },
+    {
+      "name": "Långöfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ångfartyget Österbotten anländer",
+      "date": {
+        "year": 1866,
+        "month": 6,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Ångfartyget Österbotten anlöpte för första gången stadens nya ångbåtsbrygga, och många gick ned till hamnen för att se det.",
+      "people": [],
+      "places": [
+        "Nya hamnen",
+        "Långöfjärden"
+      ]
+    },
+    {
+      "title": "Farmaceut drunknar",
+      "date": {
+        "year": 1866,
+        "month": 6,
+        "day": 26,
+        "circa": false
+      },
+      "description": "Farmaceuten Johan Jakob Jakobsson drunknade under simning i älven norr om staden.",
+      "people": [
+        "Johan Jakob Jakobsson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ångfartyget Österbotten närmar sig hamnen för första gången, och ryska flaggan hissas upp och ned i klockstapeln av två pojkar. Folk skräms och tror på olycka, medan en fattig enka stäms inför magistraten för att ha sålt öl vid bryggan.",
+    "reason": "Humoristiska scener och en sympatisk fattig huvudperson i en liten stad vid en stor händelse.",
+    "characters": [],
+    "places": [
+      "Nya hamnen"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "8b03c46af287c621a15101a64bf2fe3de9801795ff9986cb1bfdbabd3d3680ab",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

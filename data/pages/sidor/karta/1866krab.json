@@ -49,6 +49,11 @@
       "alternateNames": [
         "Stads qvarnen"
       ],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
       "geo": {
         "lat": 63.5209475,
         "lng": 22.5250358,
@@ -62,12 +67,22 @@
       "name": "Kvarndammen",
       "kind": "other",
       "alternateNames": [],
-      "description": "Stenarna mellan norra udden och kvarnen."
+      "description": "Stenarna mellan norra udden och kvarnen.",
+      "uses": [
+        {
+          "use": "kvarndamm"
+        }
+      ]
     },
     {
       "name": "Kägelbanan",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kägelbana"
+        }
+      ]
     },
     {
       "name": "Brunnsholmen",
@@ -99,6 +114,31 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnsholmarna",
+        "Surbrunnen",
+        "Stadskvarnen",
+        "Kvarndammen",
+        "Kägelbanan",
+        "Brunnsholmen",
+        "Brunnshuset"
+      ],
+      "year": 1866
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "14f9e6de3a1203edd0264b0e5742c9f2ef05a76e741e21b941ac1a75622cd83d",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

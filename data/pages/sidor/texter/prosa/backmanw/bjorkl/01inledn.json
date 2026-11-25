@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/01inledn.htm",
+  "title": "Inledning till En släkt Björklunds stamtavla av Woldemar Backman",
+  "summary": "Inledning som visar vägen från Jutas, 4 km söder om staden, längs älven till hemmanet Knuts i Ytterjeppo, där släkten Björklund hade sitt ursprung. Gabriel Johansson Knuts, död 1838, var sista husbonden på Knuts.",
+  "topics": [
+    "släktforskning",
+    "Björklund",
+    "Ytterjeppo"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Johansson Knuts",
+      "alternateNames": [],
+      "deathYear": 1838,
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Georg von Döbeln",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Jutas",
+      "kind": "village",
+      "alternateNames": [
+        "Juthas"
+      ],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jutas slagfält",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Med monument över Georg von Döbeln.",
+      "geo": {
+        "lat": 63.4877989,
+        "lng": 22.5227033,
+        "match": "name",
+        "gazetteerName": "juthas slagfält",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Haralds såg",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ]
+    },
+    {
+      "name": "Klockars",
+      "kind": "farm",
+      "alternateNames": [
+        "Klockars i Jutas"
+      ]
+    },
+    {
+      "name": "Knuts i Ytterjeppo",
+      "kind": "farm",
+      "alternateNames": [
+        "Knuts"
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Gabriel Johansson Knuts",
+      "place": "Knuts i Ytterjeppo",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "9070afd31c8df4786640c36b20dfde5e1b90190ebcaba5a274865509d99a56b6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

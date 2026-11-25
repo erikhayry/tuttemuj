@@ -49,6 +49,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby stadsfors",
+        "Nykarleby älv"
+      ],
+      "year": 1900
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "df2068772d21bce20195d17a806266bd493d7dcd960407a253f0f7111586f7c0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

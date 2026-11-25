@@ -52,7 +52,12 @@
       "alternateNames": [
         "Kronomagazin"
       ],
-      "description": "På Brostuguberget till vänster om Storbron."
+      "description": "På Brostuguberget till vänster om Storbron.",
+      "uses": [
+        {
+          "use": "magasin"
+        }
+      ]
     },
     {
       "name": "Brostuguberget",
@@ -83,6 +88,28 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Storbron",
+        "Kyrkan",
+        "Kronomagasinet",
+        "Brostuguberget"
+      ],
+      "year": 1842
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "9089c5707784a34328c760cb143613d46bdca0b7103bd20fa660146411c8efee",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

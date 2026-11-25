@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bvsof/04bvsof.htm",
+  "title": "Rättelse och tillägg samt källor till Befolkningen i Nykarleby stad vid tiden för stora ofreden",
+  "summary": "Rättelser och källförteckning till Backmans skrift. En rättelse gäller beckbrännaren som föll i beckpannan 1701 och som enligt rådhusrättens protokoll var Per Mattsson.",
+  "topics": [
+    "källor",
+    "beckbrännare"
+  ],
+  "people": [
+    {
+      "name": "Per Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "beckbrännare"
+      ]
+    },
+    {
+      "name": "Isak Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "beckbrännare"
+      ]
+    },
+    {
+      "name": "Hugo Lagström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Beckbrännaren faller i beckpannan",
+      "date": {
+        "year": 1701,
+        "month": 4,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Beckbrännaren Per Mattsson föll i beckpannan och omkom, enligt Nykarleby rådhusrätts protokoll.",
+      "people": [
+        "Per Mattsson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "d148aaa6054f58900f633d5b617e3c00e0564480c5d2106ab11b42d46a27e5d5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

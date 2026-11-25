@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs02.htm",
+  "title": "Branden i Nykarleby forna stadsplan av Woldemar Backman",
+  "summary": "Woldemar Backman skildrar stadsbranden som började kl. 7.15 på kvällen den 12 januari 1858 i ett stall på tomt 10 och lade nästan hela staden i aska. Kyrkan från 1708 och skolhustomten undgick branden.",
+  "topics": [
+    "stadsbranden",
+    "1858",
+    "brand"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Anders Granholm",
+      "alternateNames": [],
+      "roles": [
+        "kapten",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Abraham Vestlin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Anlagd 1708 och klarade sig undan branden 1858.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skolhustomten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Söder om kyrkan; trivialskolan fanns här 1640/41–1684."
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden i Nykarleby",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 12,
+        "circa": false
+      },
+      "description": "En brand som började i ett stall på tomt 10 lade under natten nästan hela Nykarleby stad i aska, trots en storm som försvårade släckningen.",
+      "people": [
+        "Anders Granholm"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En stormig januarikväll tar ett gammalt stall eld. Brandkåren med sina tre sprutor håller elden tillbaka i två timmar, men när husen vid torget tar eld förstår alla att staden är förlorad.",
+    "reason": "Dramatisk katastrof med tydligt förlopp över en natt.",
+    "characters": [
+      "Anders Granholm"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "724e02fdcd088ca99e7c32f3ccde42159056e18ad31f57971a0384ac041b6e3c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

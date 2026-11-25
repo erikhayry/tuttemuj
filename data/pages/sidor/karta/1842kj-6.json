@@ -54,6 +54,32 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [
+    {
+      "person": "Christina Ericsdotter Yrjäs",
+      "place": "Stadsbäcken",
+      "relation": "died"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Centrum",
+        "Stadsbäcken"
+      ],
+      "year": 1842
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "100370f00464bd25ef202b0de1f86b7d70d413c57442808ac9865e1daecfda3a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

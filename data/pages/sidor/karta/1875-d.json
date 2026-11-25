@@ -10,6 +10,17 @@
   "places": [],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "c5d038b32d2ec46f53f6379a66ac5c4ebb916262e3eb10b864a5f4473b481cf0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

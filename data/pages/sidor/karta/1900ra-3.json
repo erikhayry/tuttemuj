@@ -94,6 +94,7 @@
         "Lybecksgatan"
       ],
       "description": "Nuvarande Lybecksgatan.",
+      "nameOrigin": "Esplanaden längst ned på kartan är den gata som i dag heter Lybecksgatan.",
       "geo": {
         "lat": 63.5222646,
         "lng": 22.5305322,
@@ -106,6 +107,30 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Källbacken",
+        "Karleborgsgatan",
+        "Mathesiusgatan",
+        "Karlmansgatan",
+        "Bockmöllergatan",
+        "Östanlid",
+        "Esplanaden"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "085f529025ae418e7598f5b082a1608fbe81097d72338434af552efe6e7b5245",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

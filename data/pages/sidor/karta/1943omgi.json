@@ -232,6 +232,40 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nystaden",
+        "Nya Jakobstadsvägen",
+        "Källbackgatan",
+        "Attosbäcken",
+        "Järnvägen",
+        "Stationen",
+        "Storbron",
+        "Brunnsholmarna",
+        "Saarelaholmarna",
+        "Posten",
+        "Samskolan",
+        "Sjukhuset",
+        "Kyrkan",
+        "Normalskolan",
+        "Rådhuset",
+        "Sockenstugan"
+      ],
+      "year": 1947
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "7fb723377345a76c942fa09e34c98d64adbda4bfefeb1493a352757d72765dc9",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

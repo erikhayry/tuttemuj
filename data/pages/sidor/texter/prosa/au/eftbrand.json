@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/eftbrand.html",
+  "title": "Efter stadsbranden i Nykarleby, Åbo Underrättelser 1858",
+  "summary": "En korrespondens 1 februari 1858 beskriver läget efter stadsbranden: många köpmän ruinerade, apoteket illa utrustat och invånarna hopträngda i de 30–40 hus som återstod. Försäkringsbolaget Skandia betalade ut mindre än hälften av den försäkrade summan.",
+  "topics": [
+    "stadsbranden",
+    "1858",
+    "nödhjälp"
+  ],
+  "people": [
+    {
+      "name": "V. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "N. Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "apotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden i Nykarleby",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "description": "Efter branden återstod bara 30–40 små hus av Nykarleby stad, och flera köpmän förlorade allt.",
+      "people": [
+        "V. Sundström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "N. Malmberg",
+      "place": "Apoteket",
+      "relation": "owned",
+      "startYear": 1858,
+      "endYear": 1858
+    },
+    {
+      "person": "Berger",
+      "place": "Kyrkotorget",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "268beea03587dd3607de0a7976bf2f247391192153a63d6dda843b83b9371632",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

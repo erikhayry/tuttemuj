@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/ogats/00forord.html",
+  "title": "Några ord om Ögats bok",
+  "summary": "Robert Åsbacka berättar om hur romanen Ögats bok kom till: den började skrivas 1989, omarbetades och gavs ut 1992. Han minns skrivandet i Stockholm och sina litterära förebilder. Boken utspelas huvudsakligen i ett Nykarleby som aldrig nämns vid namn.",
+  "topics": [
+    "litteratur",
+    "roman",
+    "författare"
+  ],
+  "people": [
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ögats bok ges ut",
+      "date": {
+        "year": 1992,
+        "circa": false
+      },
+      "description": "Robert Åsbackas första roman Ögats bok utkom 1992, efter att han börjat skriva den 1989.",
+      "people": [
+        "Robert Åsbacka"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "cfff78e18659dfa922c1fdf8e55b9db71a24a2eb4272b17385378fc209097c16",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:23:15.053Z"
+}

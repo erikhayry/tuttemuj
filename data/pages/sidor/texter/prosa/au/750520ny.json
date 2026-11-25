@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750520ny.htm",
+  "title": "Indragning av lägre elementarskolan, källarfrihetsmedel och båtfärd längs älven 1875",
+  "summary": "Korrespondens från Nykarleby 15 maj 1875: rådhusstämman diskuterade att dra in lägre elementarskolan och borgmästarens rätt till källarfrihetsmedlen. Därefter börjar en skildring av en båtfärd från Nybron längs älven och om landhöjningen.",
+  "topics": [
+    "skolväsen",
+    "kommunalpolitik",
+    "landhöjning",
+    "båtfärd"
+  ],
+  "people": [
+    {
+      "name": "Häggström",
+      "alternateNames": [],
+      "roles": [
+        "häradshövding",
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Höckert",
+      "alternateNames": [],
+      "roles": [
+        "assessor",
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Teodor Alarik Vilander",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhusstämma om lägre elementarskolan",
+      "date": {
+        "year": 1875,
+        "month": 5,
+        "day": 12,
+        "circa": false
+      },
+      "description": "Rådhusstämman behandlade frågan om att dra in lägre elementarskolan, eftersom normalskolan vid seminariet snart skulle öppna.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "25c4395f08f86db3d914eadc2005a8d68d2130b0b97870c6789a9ddf3604cb16",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/750605al.htm",
+  "title": "Besök på Alön och ångaren Zachris Topelius i Åbo Underrättelser 1875",
+  "summary": "En båtfärd 31 maj 1875 från Nybron till Alö-fjärden och Alön, Nykarlebybornas sommarställe. Varvet där hade just sålts på auktion; ångaren Zachris Topelius var det sista fartyget som byggts. På ön nämns villan Myggan, Namnberget, Gamla Stugan och Charlottenlund.",
+  "topics": [
+    "Alön",
+    "varv",
+    "sommarnöje",
+    "hamn"
+  ],
+  "people": [
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alön",
+      "kind": "island",
+      "alternateNames": [
+        "Alö"
+      ],
+      "description": "Nykarlebybornas sommarställe med varv, villan Myggan, Namnberget och Charlottenlund."
+    },
+    {
+      "name": "Alö hamn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Alö-fjärden"
+      ],
+      "description": "Stadens hamn för större fartyg, skyddad men med trångt och grunt inlopp."
+    },
+    {
+      "name": "Myggan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Den äldsta villan på Alön, med namnteckningar på väggar och dörrposter."
+    },
+    {
+      "name": "Namnberget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Berg på Alön där besökare ristar in sitt namn i graniten."
+    },
+    {
+      "name": "Alö varv",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "varv",
+          "endYear": 1875
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Alö varvs byggnader säljs på auktion",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Byggnaderna vid varvet på Alön såldes på auktion på våren 1875 och forslades bort av köparen.",
+      "people": [],
+      "places": [
+        "Alö varv"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "58b118d0be0e16b00f5fab67bd1ef9176a8f02ff89749477925891e528594314",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

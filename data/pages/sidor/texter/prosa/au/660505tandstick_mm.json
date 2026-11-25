@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/660505tandstick_mm.html",
+  "title": "Nödtider, skeppsbygge och tändsticksfabriken i Åbo Underrättelser 1866",
+  "summary": "Ett insändare från Nykarleby 28 april 1866 beskriver penningbrist och brist på arbete. Skribenten försvarar planerna på en tändsticksfabrik i ett gammalt brännvinsbränneri söder om staden och ett skepp som byggs på Ahlö holme.",
+  "topics": [
+    "nödår",
+    "tändsticksfabrik",
+    "skeppsbyggeri",
+    "kirurgen Bäck"
+  ],
+  "people": [
+    {
+      "name": "Bäck",
+      "alternateNames": [],
+      "roles": [
+        "kirurg"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ahlö holme",
+      "kind": "island",
+      "alternateNames": [
+        "Alörn"
+      ],
+      "description": "Varvsplats där ett stort skepp påbörjats av stadens handlande.",
+      "uses": [
+        {
+          "use": "varv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gammalt brännvinsbränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Beläget 350 alnar söder om den obetydligaste stadsdelen; där ville man anlägga en tändsticksfabrik.",
+      "uses": [
+        {
+          "use": "brännvinsbränneri"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Ansökan om tändsticksfabrik",
+      "date": {
+        "year": 1866,
+        "circa": false
+      },
+      "description": "Man ansökte om att ändra ett gammalt brännvinsbränneri söder om staden till tändsticksfabrik, men planen motarbetades av några män i staden.",
+      "people": [],
+      "places": [
+        "Gammalt brännvinsbränneri"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "abd48dd31364aa042170693f3b19c8b9be1728f5b46a1cac4634716c8f4d749b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

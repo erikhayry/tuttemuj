@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/751228petrol_mm.html",
+  "title": "Petroleumlyktor på storbron, eldsvåda i stadskvarnen m.m. 1875",
+  "summary": "Korrespondens 20 december 1875: sedan november lyser två petroleumlyktor vid brons ändar, och en eldsvåda i stadskvarnen släcktes i tid. Texten tar också upp ett mord på en banvakt och hans hustru i Hangö och en polemik om kommunens åtgärder.",
+  "topics": [
+    "gatubelysning",
+    "brand",
+    "stadskvarnen",
+    "brott"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Olin",
+      "alternateNames": [],
+      "roles": [
+        "banvakt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "bron"
+      ],
+      "description": "Belystes från slutet av november 1875 med två petroleumlyktor.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggd av granit och skänkt av drottning Kristina, i ån inom Nygårds område.",
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygårds ölbryggeri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Petroleumlyktor på bron",
+      "date": {
+        "year": 1875,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Från slutet av november 1875 belystes bron över ån på kvällarna med två petroleumlyktor, en i vardera änden.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    },
+    {
+      "title": "Eldsvåda i stadskvarnen",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "En eldsvåda utbröt på natten i stadskvarnen men släcktes snabbt innan den hann sprida sig till bryggeriet och garveriet intill.",
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "effb7e24ad501347009013a3407ce3d97caf6d8a1ee39400c00b0dde4514d829",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

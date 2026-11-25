@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs03.htm",
+  "title": "Gårdsnummer 1–39 i Nykarleby forna stadsplan av Woldemar Backman",
+  "summary": "Woldemar Backman går igenom ägarna till tomterna 1–39 i gamla Nykarleby från 1777 till branden 1858. Han noterar att många handelssläkter som Ahlund, Berger och Juthe inte längre finns i staden, och en bild visar Norra tullhuset.",
+  "topics": [
+    "gårdsägare",
+    "tomter",
+    "släkter",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Norra tullhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Senare Herlers museum, Nykarleby museum.",
+      "uses": [
+        {
+          "use": "tullhus"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Norra tullhuset"
+      ]
+    }
+  ],
+  "contentHash": "e6959a2f476435779408bba82930380195afdf2ce5e409e82c06c067947b16a9",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

@@ -1,0 +1,46 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/710914brh.html",
+  "title": "Besök på Alön och ångaren Zachris Topelius i Åbo Underrättelser 1871",
+  "summary": "En resenär beskriver 1871 en utflykt från Vasa via Jakobstad till Nykarleby. Han berömmer Brunnsholmen med alar, gångbroar, brunnshus, kägelbana och restaurang samt utsikten längs älven.",
+  "topics": [
+    "resa",
+    "Brunnsholmen",
+    "turism"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Brunnsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmarna"
+      ],
+      "description": "Park med alar, gångbroar, stigar, brunnshus, kägelbana och restaurang; älven på båda sidor.",
+      "uses": [
+        {
+          "use": "brunnshus"
+        },
+        {
+          "use": "restaurang"
+        }
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "a18940a3c2ef70c2b7dd2c0175bdb75e546942e5b4773ff69f4bcd7eebd087d6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

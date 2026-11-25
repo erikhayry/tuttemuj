@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/01indhan.htm",
+  "title": "Industri och hantverk i Nkbynejden på 1800-talet, del 1",
+  "summary": "Erik Åström inleder serien med att konstatera att industrin söder om Nykarleby på 1800-talet gav få arbetstillfällen. Han räknar upp gamla kvarnar som Wernamo kvarn på Juthbacka (1817), Gasängskvarnen på Renvaktar (1856) samt Nygårds garveri, tobaksfabrik och ölbryggeri.",
+  "topics": [
+    "industri",
+    "hantverk",
+    "kvarnar",
+    "garverier"
+  ],
+  "people": [
+    {
+      "name": "Erik Åström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Wernamo kvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Wernamo"
+      ],
+      "description": "Mycket gammal kvarn i Nykarleby landskommun, på Juthbacka.",
+      "uses": [
+        {
+          "use": "kvarn",
+          "startYear": 1817
+        }
+      ]
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gasängskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Gasängs kvarn"
+      ],
+      "description": "Kvarn på Renvaktar i Kyrkobyn.",
+      "uses": [
+        {
+          "use": "kvarn",
+          "startYear": 1856
+        }
+      ]
+    },
+    {
+      "name": "Renvaktar",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Plats med garveri, tobaksfabrik och ölbryggeri."
+    }
+  ],
+  "events": [
+    {
+      "title": "Wernamo kvarn grundas",
+      "date": {
+        "year": 1817,
+        "circa": false
+      },
+      "description": "Wernamo kvarn på Juthbacka i Nykarleby landskommun grundades.",
+      "people": [],
+      "places": [
+        "Wernamo kvarn",
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Nygårds lädergarveri grundas",
+      "date": {
+        "year": 1859,
+        "circa": false
+      },
+      "description": "Nygårds lädergarveri grundades, och fabrikör Johan Eng drev det.",
+      "people": [
+        "Johan Eng"
+      ],
+      "places": [
+        "Nygård"
+      ]
+    },
+    {
+      "title": "Gasängskvarnen byggs",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "description": "Gasängskvarnen på Renvaktar i Kyrkobyn byggdes.",
+      "people": [],
+      "places": [
+        "Gasängskvarnen",
+        "Renvaktar"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Eng",
+      "place": "Nygård",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "2147783079ab314ebf6c352bb5920b6da3be1fe7708df77e7aec437fcd9585db",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:23:15.053Z"
+}

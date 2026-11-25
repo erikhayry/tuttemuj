@@ -80,12 +80,22 @@
     {
       "name": "Ångbåtsbryggan",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "ångbåtsbrygga"
+        }
+      ]
     },
     {
       "name": "Packhusen",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "packhus"
+        }
+      ]
     },
     {
       "name": "Tullmagasinet",
@@ -100,6 +110,11 @@
       "kind": "building",
       "alternateNames": [
         "Tull Stugan"
+      ],
+      "uses": [
+        {
+          "use": "tullstuga"
+        }
       ]
     },
     {
@@ -124,6 +139,55 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [
+    {
+      "person": "Pet Lybeck",
+      "place": "Magasinstomterna",
+      "relation": "owned"
+    },
+    {
+      "person": "C. Nylund",
+      "place": "Magasinstomterna",
+      "relation": "owned"
+    },
+    {
+      "person": "A. Häggblom",
+      "place": "Magasinstomterna",
+      "relation": "owned"
+    },
+    {
+      "person": "Mat Gyllenberg",
+      "place": "Magasinstomterna",
+      "relation": "owned"
+    },
+    {
+      "person": "J. W. Lundqvist",
+      "place": "Magasinstomterna",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby stads hamn",
+        "Ångbåtsbryggan",
+        "Packhusen",
+        "Tullstugan",
+        "Magasinstomterna"
+      ],
+      "year": 1884
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "3809952ca9d6ef9e7fac35cf5a91cc948b9aebc97902c7743086f8e622151ee7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

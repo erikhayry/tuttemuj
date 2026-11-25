@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bvsof/01bvsof.htm",
+  "title": "Kap. I. Inledning i Befolkningen i Nykarleby stad vid tiden för stora ofreden",
+  "summary": "Inledning som beskriver stora nordiska kriget i Finland: Viborg föll 1710, södra Finland var ockuperat 1713, och Armfelt förlorade slaget vid Napo 19 februari 1714. Därefter låg Österbotten öppet för ryssarna, och många flydde.",
+  "topics": [
+    "stora ofreden",
+    "stora nordiska kriget",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Armfelt",
+      "alternateNames": [],
+      "roles": [
+        "befälhavare"
+      ]
+    },
+    {
+      "name": "Galitsin",
+      "alternateNames": [],
+      "roles": [
+        "rysk överbefälhavare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Napo",
+      "kind": "village",
+      "alternateNames": [
+        "Napue"
+      ],
+      "description": "By i Storkyro där slaget stod 1714."
+    }
+  ],
+  "events": [
+    {
+      "title": "Slaget vid Napo",
+      "date": {
+        "year": 1714,
+        "month": 2,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Armfelt led ett förkrossande nederlag vid Napo by i Storkyro, och därefter låg Österbottens kust öppen för ryssarna.",
+      "people": [
+        "Armfelt"
+      ],
+      "places": [
+        "Napo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "60a70a154e7a55c4f3d51971e8b0ee246bd3b50ef44498a76c2cfc36b19d60a1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/priser1856.html",
+  "title": "Priser och sjukdomar i Nykarleby 1856",
+  "summary": "En notis från Nykarleby i Åbo Tidningar 1856 om att hoppet om fred sätter fart på handeln: ett nytt skeppsvarv på Alörn, höga tjärpriser och fallande smörpris. Notisen nämner också frossa och frisel hos stadens invånare.",
+  "topics": [
+    "handel",
+    "priser",
+    "tjära",
+    "varv",
+    "sjukdomar"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Plats där ett nytt skeppsvarv uppfördes.",
+      "uses": [
+        {
+          "use": "skeppsvarv",
+          "startYear": 1856
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nytt skeppsvarv på Alörn",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "description": "Ett nytt skeppsvarv uppfördes på Alörn, och virke fraktades dit från Virdois.",
+      "people": [],
+      "places": [
+        "Alörn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "489f4e0335db47995e677b349a40087db3635bf34ee440eb189ae7fbbc01ad07",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

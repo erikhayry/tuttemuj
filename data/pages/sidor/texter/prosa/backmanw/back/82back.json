@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/back/82back.htm",
+  "title": "Släkten Bäck, gren II av Woldemar Backman",
+  "summary": "Den andra grenen av släkten Bäck, från Anna Andersdotter Bäck och Anders Michelsson. Den hörde till hemmanet Bäck bara till 1788, och avkomlingarna bor i Nykarleby, Soklot och framför allt Munsala.",
+  "topics": [
+    "släktforskning",
+    "Bäck",
+    "genealogi"
+  ],
+  "people": [
+    {
+      "name": "Anna Andersdotter Bäck",
+      "alternateNames": [],
+      "birthYear": 1706,
+      "deathYear": 1778,
+      "roles": []
+    },
+    {
+      "name": "Anders Michelsson",
+      "alternateNames": [],
+      "birthYear": 1710,
+      "deathYear": 1775,
+      "roles": []
+    },
+    {
+      "name": "Anders Andersson Bäck",
+      "alternateNames": [],
+      "birthYear": 1733,
+      "deathYear": 1816,
+      "roles": []
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bäck i Forsby",
+      "kind": "farm",
+      "alternateNames": [
+        "Bäck"
+      ]
+    },
+    {
+      "name": "Björn i Soklot",
+      "kind": "farm",
+      "alternateNames": [
+        "Björn"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Anders Andersson säljer sin del av Bäck",
+      "date": {
+        "year": 1788,
+        "circa": false
+      },
+      "description": "Anders Andersson Bäck sålde sin del av hemmanet Bäck år 1788 och köpte ett hemman på Björn i Soklot.",
+      "people": [
+        "Anders Andersson Bäck"
+      ],
+      "places": [
+        "Bäck i Forsby",
+        "Björn i Soklot"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Anders Andersson Bäck",
+      "place": "Bäck i Forsby",
+      "relation": "owned",
+      "startYear": 1769,
+      "endYear": 1788
+    },
+    {
+      "person": "Anders Andersson Bäck",
+      "place": "Björn i Soklot",
+      "relation": "died",
+      "startYear": 1816,
+      "endYear": 1816
+    }
+  ],
+  "images": [],
+  "contentHash": "4d6615c1e61af103a12cd9d84e7c803971cccbb3d0b932d7dfce75cdb71d1d24",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

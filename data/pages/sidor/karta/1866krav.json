@@ -82,6 +82,11 @@
       "kind": "building",
       "alternateNames": [
         "Nygårds Ölbryggeri"
+      ],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
       ]
     },
     {
@@ -121,6 +126,32 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Den projekterade vägen till Brunnsholmarna",
+        "Brunnsholmarna",
+        "Brunnshuset",
+        "Th. Wahlbergs karaktärsbyggnad",
+        "Rådman J. Lybecks ria",
+        "Nygårds ölbryggeri",
+        "Fabrikör Engs åker",
+        "Nygårdsvägen"
+      ],
+      "year": 1866
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "d8e6432e6ef518224c6569b63cf36b8660d863d59f08d7e99ac554f9708a61c7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

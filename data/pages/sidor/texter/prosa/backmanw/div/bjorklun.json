@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/bjorklun.htm",
+  "title": "Björklund (Danielsson) av Woldemar Backman",
+  "summary": "Släktbok om släkten Björklund (Danielsson) för normalskolläraren Alex. Björklund, och samtidigt ett bidrag till Levälä hemmans personhistoria. Stamfadern Erik Simonsson överlämnade hemmanet vid sin död 1727, och hemmanet delades senare i tre.",
+  "topics": [
+    "släktforskning",
+    "Björklund",
+    "hemman"
+  ],
+  "people": [
+    {
+      "name": "Alex. Björklund",
+      "alternateNames": [],
+      "roles": [
+        "normalskollärare"
+      ]
+    },
+    {
+      "name": "Erik Simonsson",
+      "alternateNames": [],
+      "deathYear": 1727,
+      "roles": [
+        "stamfar"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Levälä",
+      "kind": "farm",
+      "alternateNames": [
+        "Levälä hemman"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Simonsson dör och överlämnar Levälä",
+      "date": {
+        "year": 1727,
+        "circa": false
+      },
+      "description": "Erik Simonsson överlämnade vid sin död år 1727 hemmanet Levälä åt en av sina söner.",
+      "people": [
+        "Erik Simonsson"
+      ],
+      "places": [
+        "Levälä"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Erik Simonsson",
+      "place": "Levälä",
+      "relation": "owned",
+      "endYear": 1727
+    }
+  ],
+  "images": [],
+  "contentHash": "f38c4cf582cc2a2192eb12a0bae83a45eded366dea54d5e12702a595996a1cb9",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

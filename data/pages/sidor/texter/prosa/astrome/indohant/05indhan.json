@@ -1,0 +1,160 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astrome/indohant/05indhan.htm",
+  "title": "Industri och hantverk i Nkbynejden på 1800-talet, del 5",
+  "summary": "Del 5 går igenom sågar och kvarnar 1888–90. I Nykarleby landskommun fanns sågen vid Haraldsfors och fyra kvarnar: Haraldsfors, Gasäng, Juthbacka/Saarela och Korsåker, med deras ägare. Därefter räknas kvarnar i Jeppo upp.",
+  "topics": [
+    "industri",
+    "sågar",
+    "kvarnar"
+  ],
+  "people": [
+    {
+      "name": "Erik Åström",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "roles": [
+        "sågägare"
+      ]
+    },
+    {
+      "name": "Vilhelm Forslund",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Simon Bagg",
+      "alternateNames": [],
+      "roles": [
+        "kvarnägare"
+      ]
+    },
+    {
+      "name": "Matts Bertell",
+      "alternateNames": [],
+      "roles": [
+        "kvarnägare"
+      ]
+    },
+    {
+      "name": "G. A. Häggström",
+      "alternateNames": [],
+      "roles": [
+        "kvarnägare"
+      ]
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "kvarnägare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Haraldsfors",
+      "kind": "district",
+      "alternateNames": [
+        "Haraldsfors såg",
+        "Haraldsfors mjölkvarn"
+      ],
+      "uses": [
+        {
+          "use": "såg"
+        },
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Gasängs kvarn",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Juthbacka mjölkvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Saarela",
+        "Saarelakvarnen"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Korsåkers kvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Korsåker"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Fritz Olson",
+      "place": "Haraldsfors",
+      "relation": "owned"
+    },
+    {
+      "person": "Vilhelm Forslund",
+      "place": "Haraldsfors",
+      "relation": "owned",
+      "startYear": 1888
+    },
+    {
+      "person": "Simon Bagg",
+      "place": "Gasängs kvarn",
+      "relation": "owned",
+      "startYear": 1888,
+      "endYear": 1890
+    },
+    {
+      "person": "Matts Bertell",
+      "place": "Gasängs kvarn",
+      "relation": "owned",
+      "startYear": 1888,
+      "endYear": 1890
+    },
+    {
+      "person": "G. A. Häggström",
+      "place": "Juthbacka mjölkvarn",
+      "relation": "owned",
+      "startYear": 1888
+    },
+    {
+      "person": "J. W. Nessler",
+      "place": "Korsåkers kvarn",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "d8feea11b255395659e4e5804daa62a9580e350cb47198693413c19095c6f4e9",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:23:15.053Z"
+}

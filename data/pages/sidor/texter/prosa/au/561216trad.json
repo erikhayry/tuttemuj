@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/561216trad.html",
+  "title": "Trädplanteringar ur Åbo Underrättelser 1856",
+  "summary": "Kyrkoherde Chr. Kullman skrev 1856 att ståndspersoner i Nykarleby stad planterat lövträd kring sina trånga gårdstomter. Församlingarna lovade också plantera träd längs kyrkoplanen, och skriftskolungdomen hade börjat vid Munsala stenkyrka.",
+  "topics": [
+    "trädplantering",
+    "stadsmiljö",
+    "kyrkan"
+  ],
+  "people": [
+    {
+      "name": "Chr. Kullman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkoplanen"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala kyrka",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Skrivelse om trädplantering",
+      "date": {
+        "year": 1856,
+        "month": 11,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Kyrkoherde Kullman skrev att Nykarlebys ståndspersoner redan planterat lövträd kring sina hus och att man lovat plantera träd längs kyrkoplanen.",
+      "people": [
+        "Chr. Kullman"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "9f436da718702ffd6eaee30c6226a88f6ea54fdb4b1f2d13a5bd06d5c3dc7d8b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

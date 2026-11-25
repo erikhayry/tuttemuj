@@ -1,0 +1,127 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760306br.htm",
+  "title": "Kolportören Sundholm, packhuset, tändsticksfabriken och Nygårds bryggeri 1876",
+  "summary": "Korrespondens 29 februari 1876: packhuset ska flyttas från Åminnet till den nya hamnen Andra Sjön, tändsticksfabriken byggs ut och Nygårds bryggeri ska byggas till. Därtill nämns en kringresande kolportör, hundskatt och fastlagstisdagen.",
+  "topics": [
+    "hamn",
+    "tändsticksfabrik",
+    "bryggeri",
+    "stadsliv"
+  ],
+  "people": [
+    {
+      "name": "Sundholm",
+      "alternateNames": [],
+      "roles": [
+        "kolportör",
+        "skollärare"
+      ]
+    },
+    {
+      "name": "A. Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "konsul",
+        "fabriksägare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminnet",
+      "kind": "district",
+      "alternateNames": [
+        "Åminne"
+      ]
+    },
+    {
+      "name": "Andra Sjön",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Stadens nya hamn.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Alö hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tändsticksfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Nygårds bryggeri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Packhuset flyttas till nya hamnen",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Packhuset skulle under vintern flyttas från Åminnet till stadens nya hamn Andra Sjön.",
+      "people": [],
+      "places": [
+        "Åminnet",
+        "Andra Sjön"
+      ]
+    },
+    {
+      "title": "Tändsticksfabriken byggs ut",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Konsul A. Häggbloms tändsticksfabrik fick betydande tillbyggnader under vintern.",
+      "people": [
+        "A. Häggblom"
+      ],
+      "places": [
+        "Tändsticksfabriken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "A. Häggblom",
+      "place": "Tändsticksfabriken",
+      "relation": "owned",
+      "startYear": 1876,
+      "endYear": 1876
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": []
+    }
+  ],
+  "contentHash": "129d9421d2868118a2949c679286efb0ec9a17a5fc6c3614ed1bca12a6b796f5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

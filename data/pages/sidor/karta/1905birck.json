@@ -195,6 +195,39 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kyrkan",
+        "Rådhuset",
+        "Postkontoret",
+        "Nykarleby bank",
+        "Wasa bank",
+        "Våghuset",
+        "Apoteket",
+        "Telegrafkontoret",
+        "Tullkammaren",
+        "Borgmästarens och stadsfiskalens bostad",
+        "Telefoncentralen",
+        "Gästgiveriet",
+        "Tidningstryckeriet",
+        "Seminariebyggnaderna",
+        "Järnvägsstationen"
+      ],
+      "year": 1905
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "43aed320295b575b005a241a902d0e2af5d7a0dfecd2cf24de3d1821d39906bf",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

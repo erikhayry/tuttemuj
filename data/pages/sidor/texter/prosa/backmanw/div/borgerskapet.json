@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/borgerskapet.html",
+  "title": "Borgerskapet i Nykarleby år 1808 av Woldemar Backman",
+  "summary": "Woldemar Backman presenterar borgerskapet i Nykarleby 1808, inför krigsåren 1808–09. Inledningen minns hur stora ofreden 1714–21 härjade staden och omgivande gårdar som Kuddnissas, Smedsbacka, Högbacka och Jutbacka.",
+  "topics": [
+    "borgerskap",
+    "1808",
+    "stora ofreden",
+    "släkter"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnissas",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jutbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Juthbacka"
+      ],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stora ofreden härjar staden",
+      "date": {
+        "year": 1714,
+        "endYear": 1721,
+        "circa": false
+      },
+      "description": "Under stora ofreden 1714–21 härjades och brändes en stor del av staden och gårdar som Högbacka och Jutbacka, och invånarna flydde.",
+      "people": [],
+      "places": [
+        "Högbacka",
+        "Jutbacka",
+        "Smedsbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "5b123d0d4420969ea984e076d7874f5fce2a2dd9587087d0dc75c18ad661c281",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

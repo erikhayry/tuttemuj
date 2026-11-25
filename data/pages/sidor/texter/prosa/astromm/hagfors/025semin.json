@@ -1,0 +1,127 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/025semin.htm",
+  "title": "Seminaristen Karl Johan Hagfors m.m. i K. J. Hagfors av Margit Åström",
+  "summary": "Kapitlet berättar hur Nykarleby valdes till plats för det svenska folkskollärarseminariet i Österbotten, med Anders Svedbergs skola i Munsala som förebild. Kuddnäs övervägdes, men man valde residenstomten på västra älvstranden där huvudbyggnaden stod klar 1875. Därefter följer Hagfors egen tid som seminarist.",
+  "topics": [
+    "seminariet",
+    "skolväsen",
+    "Topelius",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [
+        "Karl Johan Hagfors"
+      ],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "Anders Svedberg",
+      "alternateNames": [],
+      "birthYear": 1832,
+      "deathYear": 1889,
+      "roles": [
+        "skollärare",
+        "tidningsman",
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Carl Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "överinspektor"
+      ]
+    },
+    {
+      "name": "Uno Cygnaeus",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet",
+        "residenstomten"
+      ],
+      "description": "Seminariet byggdes på den så kallade residenstomten på västra älvstranden; huvudbyggnaden blev färdig hösten 1875.",
+      "uses": [
+        {
+          "use": "seminarium",
+          "startYear": 1873
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Topelius barndomshem, som erbjöds för seminariet men ansågs ligga för nära kyrkogården.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby seminarium invigs",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "description": "Nykarleby seminarium invigdes med fest, där Zachris Topelius läste en hyllningsdikt.",
+      "people": [
+        "Zachris Topelius"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Seminariets huvudbyggnad blir färdig",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Huvudbyggnaden för Nykarleby seminarium på residenstomten blev färdig hösten 1875.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "cd70604f22066a1166d8d8993ce9d620774657e708f31beabdd30c01a1b1b65a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

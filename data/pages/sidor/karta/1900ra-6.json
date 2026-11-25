@@ -46,6 +46,28 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Rummelbacken",
+        "Sjukhuset",
+        "Stationsområdet",
+        "Karl Grönforsgatan",
+        "Stationsgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "527b6f4df00d9ff831692eb308afc71c9361fda62e634d578b27dbe2db17d989",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

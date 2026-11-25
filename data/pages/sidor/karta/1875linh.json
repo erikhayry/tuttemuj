@@ -94,6 +94,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kyrkan",
+        "Torget"
+      ],
+      "year": 1875
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "e33695f5f080bb2515e5de860f7969fe1267550a6e53e70aa584aaebed89be70",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

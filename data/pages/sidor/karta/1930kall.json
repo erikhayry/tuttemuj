@@ -68,6 +68,7 @@
         "Nälkämäki"
       ],
       "description": "Mellan Grev Tottgatan, Borgaregatan, Mathesiusgatan och Gustav Adolfsgatan.",
+      "nameOrigin": "Vardagsnamnet Nälkämäki kom av att många stora familjer med knappa inkomster och hungriga barn bodde där.",
       "geo": {
         "lat": 63.52508289999999,
         "lng": 22.5386329,
@@ -158,6 +159,28 @@
       "Källbacken"
     ]
   },
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Källbacken",
+        "Grev Tottgatan",
+        "Borgaregatan",
+        "Mathesiusgatan",
+        "Gustav Adolfsgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "81b90759c72d623ff943208583d056971743ef03a790c2de07f43594a1e656aa",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -112,6 +112,7 @@
       "alternateNames": [
         "Stortorg"
       ],
+      "nameOrigin": "På kartan kallas torget Stortorg.",
       "geo": {
         "lat": 63.522438,
         "lng": 22.528594,
@@ -127,17 +128,32 @@
       "alternateNames": [
         "Wattenuppfordringsverket"
       ],
-      "description": "Vid Borgaregatans västra ände."
+      "description": "Vid Borgaregatans västra ände.",
+      "uses": [
+        {
+          "use": "vattenverk"
+        }
+      ]
     },
     {
       "name": "Stenhustomten",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "obebyggd tomt"
+        }
+      ]
     },
     {
       "name": "Rådhustomten",
       "kind": "other",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "obebyggd tomt"
+        }
+      ],
       "geo": {
         "lat": 63.5220214,
         "lng": 22.5268777,
@@ -239,6 +255,23 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 2,
+      "places": [],
+      "year": 1858
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "a45c5faed346d7cb9890b4e81bb02323030a1dada33205517a99501927e0cc48",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

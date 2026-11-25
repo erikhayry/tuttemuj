@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/760127br.htm",
+  "title": "Vattenbrist, vargavinter och reparation av Storbron 1876",
+  "summary": "Korrespondens 22 januari 1876: vattenbrist tvingade fram en provisorisk damm vid Brunnsholmarna för att hålla stadskvarnen igång. Skribenten skriver också om vargar och om att Storbrons lock behöver renoveras, med en anekdot om pedersöbor.",
+  "topics": [
+    "stadskvarnen",
+    "vargar",
+    "Storbron",
+    "vinter"
+  ],
+  "people": [
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmarne"
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "bron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Provisorisk damm byggs vid stadskvarnen",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "På grund av vattenbrist byggdes en provisorisk damm i forsen väster om Brunnsholmarna för att hålla stadskvarnen i gång.",
+      "people": [],
+      "places": [
+        "Stadskvarnen",
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Beslut att renovera Storbron",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Rådhusstämman beslöt på hösten att brons lock och träunderlag skulle renoveras under vintern.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Stadskvarnen"
+      ],
+      "year": 1984
+    },
+    {
+      "image": 2,
+      "places": [
+        "Storbron"
+      ],
+      "year": 1984
+    }
+  ],
+  "contentHash": "98641f030cc0760e67b7bd822702c4a70662040e05dd39cb7f0f7e825a19ca26",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

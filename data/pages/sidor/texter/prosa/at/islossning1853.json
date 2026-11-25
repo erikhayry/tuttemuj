@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/islossning1853.html",
+  "title": "Islossningen 1853",
+  "summary": "En notis i Åbo Tidningar 1853 beskriver en ovanligt våldsam islossning i Lappo å i början av maj. Sju kvarnar, broar och byggnader förstördes, Stora bron skadades och Brunnsholmen ödelades nästan helt.",
+  "topics": [
+    "islossning",
+    "översvämning",
+    "vårflod"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Skadades svårt av islossningen 1853.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunnsholmen",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmarna"
+      ],
+      "description": "Nästan totalt ödelagd av islossningen 1853.",
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lappo å",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Lappo elf"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Våldsam islossning",
+      "date": {
+        "year": 1853,
+        "month": 5,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Islossningen i Lappo å den 2 maj 1853 förstörde sju kvarnar, broar och byggnader och skadade Stora bron och Brunnsholmen.",
+      "people": [],
+      "places": [
+        "Lappo å",
+        "Stora bron",
+        "Brunnsholmen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En mörk vårkväll går isen i ån med våldsam kraft. Hela byggnader far ner genom forsen och invånare i kojorna nedanför staden räddar sig genom fönster och tak.",
+    "reason": "Dramatisk naturkatastrof med flykt i mörker och tydliga bilder.",
+    "characters": [],
+    "places": [
+      "Lappo å",
+      "Stora bron"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "884ff6483ef6b7626479341869549f40baef83d053a4de758edc8611a5d3c913",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

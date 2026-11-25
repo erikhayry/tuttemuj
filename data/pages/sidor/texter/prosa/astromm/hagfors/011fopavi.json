@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/011fopavi.htm",
+  "title": "Folket på Viitavesi m.m. i K. J. Hagfors av Margit Åström",
+  "summary": "Kapitlet beskriver Hagfors fädernegård Viitavesi i Nedervetil, där han föddes 17 oktober 1860, och gårdens och släktens historia. Gården har flyttats till Nedervetil hembygdsförenings område.",
+  "topics": [
+    "biografi",
+    "släkt",
+    "gård",
+    "Nedervetil"
+  ],
+  "people": [
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "birthYear": 1860,
+      "roles": [
+        "seminariedirektor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Viitavesi",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "K. J. Hagfors fädernegård i Nedervetil."
+    }
+  ],
+  "events": [
+    {
+      "title": "K. J. Hagfors föds",
+      "date": {
+        "year": 1860,
+        "month": 10,
+        "day": 17,
+        "circa": false
+      },
+      "description": "K. J. Hagfors föddes på gården Viitavesi i Nedervetil.",
+      "people": [
+        "K. J. Hagfors"
+      ],
+      "places": [
+        "Viitavesi"
+      ]
+    },
+    {
+      "title": "Viitavesi avskiljs från Skog",
+      "date": {
+        "year": 1850,
+        "circa": false
+      },
+      "description": "Gården Viitavesi avskildes från Skog år 1850.",
+      "people": [],
+      "places": [
+        "Viitavesi"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "K. J. Hagfors",
+      "place": "Viitavesi",
+      "relation": "born",
+      "startYear": 1860,
+      "endYear": 1860
+    }
+  ],
+  "images": [],
+  "contentHash": "cf68806859bd2bcedfbd557facc4f69d115cf9b2beca4ceac81b6c2cbf789134",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

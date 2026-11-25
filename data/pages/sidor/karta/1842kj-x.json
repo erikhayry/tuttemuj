@@ -33,6 +33,17 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "aa5283378e2f4a15d0cea4de054b5cece6fc91930bc2a31348e92663d397f1f7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

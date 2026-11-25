@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/2s/fs01.htm",
+  "title": "Stadsplanen i Nykarleby forna stadsplan av Woldemar Backman",
+  "summary": "Backman reder ut den gamla stadsplanens tillkomst före branden 1858. Han visar att den kända kartan av C. W. Gyldén från 1841 troligen återger en betydligt äldre plan och inte förhållandena 1841.",
+  "topics": [
+    "stadsplan",
+    "kartor",
+    "stadshistoria"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "C. W. Gyldén",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "description": "Del av staden väster om älven.",
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny stadsplan fastställs",
+      "date": {
+        "year": 1844,
+        "month": 4,
+        "day": 29,
+        "circa": false
+      },
+      "description": "En ny stadsplan med små ändringar fastställdes 29 april 1844 men hann knappast tillämpas.",
+      "people": [],
+      "places": [
+        "Nystaden"
+      ]
+    },
+    {
+      "title": "Gyldéns plankarta över Nykarleby",
+      "date": {
+        "year": 1841,
+        "circa": false
+      },
+      "description": "C. W. Gyldén utgav 1841 en plankarta över Nykarleby.",
+      "people": [
+        "C. W. Gyldén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "c73e176e3a2bc810e6dea51fe017714935627bd13b451a0f4de0b3ff1856647b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/770312sk.htm",
+  "title": "Beskattningen och romantiskt i Åbo Underrättelser 1877",
+  "summary": "Korrespondens 5 mars 1877: stadens inkomstbeskattning, där G. M. Hedström, Grundfeldt och Häggblom är högst taxerade. Därtill en berättelse om bonden Johan Sorfvist och hans hustru som gifte sig i Nykarleby kyrka och dog med en veckas mellanrum efter ett långt äktenskap.",
+  "topics": [
+    "beskattning",
+    "släkter",
+    "äktenskap"
+  ],
+  "people": [
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "A. Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Sorfvist",
+      "alternateNames": [
+        "Sorfvist-Jutt"
+      ],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Brita Stina",
+      "alternateNames": [],
+      "roles": [],
+      "description": "Johan Sorfvists maka från Forsby."
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby begravningsplats",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Makarna Sorfvist begravs",
+      "date": {
+        "year": 1877,
+        "month": 3,
+        "day": 3,
+        "circa": false
+      },
+      "description": "Johan Sorfvist och hans maka Brita Stina, som dött med en veckas mellanrum, jordfästes i Nykarleby kyrka och begravdes samma dag.",
+      "people": [
+        "Johan Sorfvist",
+        "Brita Stina"
+      ],
+      "places": [
+        "Nykarleby kyrka",
+        "Nykarleby begravningsplats"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Ett par som gifte sig under brudmarsch i Nykarleby kyrka för 40 år sedan dör med en veckas mellanrum. Samma orgel som spelade glad bröllopsmarsch spelar nu sorgmusik när de följs åt på två likvagnar.",
+    "reason": "Starkt, rörande symmetriskt slut på ett helt liv.",
+    "characters": [
+      "Johan Sorfvist",
+      "Brita Stina"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "0b8faaedfa88426c77a5e268fe23f20537d4292066552c88b9233beecd51175d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

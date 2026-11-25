@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/au/761025appelberg.html",
+  "title": "Kyrkoherde Appelberg och moderkyrkoförsamlingen 1876",
+  "summary": "Korrespondens 18 oktober 1876: kyrkoherde F. O. Appelberg tog farväl av Nykarleby moderkyrkoförsamling efter drygt sex år och flyttade till Lappajärvi. Skribenten återger även en vers om församlingens tillkomst år 1607 under Karl IX.",
+  "topics": [
+    "kyrkan",
+    "präster",
+    "församlingen",
+    "1600-talet"
+  ],
+  "people": [
+    {
+      "name": "F. O. Appelberg",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "kapellan"
+      ]
+    },
+    {
+      "name": "Kr. Kullman",
+      "alternateNames": [],
+      "roles": [
+        "prost",
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Jakobus Sigfridi Borgensis",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "Johannes Jacobi Nicarlus",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "moderkyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Appelberg tar farväl av församlingen",
+      "date": {
+        "year": 1876,
+        "month": 10,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Kyrkoherde F. O. Appelberg höll sin avskedspredikan i Nykarleby moderkyrkoförsamling och flyttade till Lappajärvi.",
+      "people": [
+        "F. O. Appelberg"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Nykarleby kyrka tillkommer",
+      "date": {
+        "year": 1607,
+        "circa": false
+      },
+      "description": "Enligt en versifierad berättelse uppstod församlingen och kyrkan i Nykarleby år 1607 under Karl IX.",
+      "people": [
+        "Jakobus Sigfridi Borgensis"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "F. O. Appelberg",
+      "place": "Nykarleby kyrka",
+      "relation": "worked",
+      "startYear": 1870,
+      "endYear": 1876
+    }
+  ],
+  "images": [],
+  "contentHash": "346f4ec7a84102477706e1c75e80d8924e1f9a511b95df8851431eb2ed067f84",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:26:38.239Z"
+}

@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/forsback.htm",
+  "title": "Forsbacka och dess ägare av Woldemar Backman",
+  "summary": "Woldemar Backman beskriver skattehemmanet Forsbacka i kyrkobyn, väster om älven och cirka 2 km söder om staden, och dess ägare. Hemmanet fanns redan 1549 och delades 1778 i tre delar.",
+  "topics": [
+    "hemman",
+    "gårdshistoria",
+    "Forsbacka"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Carlsson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Johan Hansson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Thomas Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Ivar A. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "universitetsrektor",
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Skattehemman i kyrkobyn väster om älven, cirka 2 km söder om staden; skild från stadens marker bara av Jutbacka. Hemmansnummer 5 sedan 1830, tidigare 20.",
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Forsbacka delas i tre",
+      "date": {
+        "year": 1778,
+        "circa": false
+      },
+      "description": "Hemmanet Forsbacka delades 1778 i tre delar, med nya ägare från Pedersöre, Purmo och Nedervetil.",
+      "people": [
+        "Johan Carlsson",
+        "Johan Hansson",
+        "Thomas Mattsson"
+      ],
+      "places": [
+        "Forsbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Carlsson",
+      "place": "Forsbacka",
+      "relation": "owned",
+      "startYear": 1778
+    },
+    {
+      "person": "Johan Hansson",
+      "place": "Forsbacka",
+      "relation": "owned",
+      "startYear": 1778
+    },
+    {
+      "person": "Thomas Mattsson",
+      "place": "Forsbacka",
+      "relation": "owned",
+      "startYear": 1778
+    }
+  ],
+  "images": [],
+  "contentHash": "28365603002cdca9cd99120f24d5a2a0b24d75e4c862e0a2574a030bc60e8e41",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

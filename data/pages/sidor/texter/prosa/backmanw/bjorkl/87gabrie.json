@@ -1,0 +1,100 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/87gabrie.htm",
+  "title": "Gren V. Gabriel Johansson Knuts och efterkommande och källor av Woldemar Backman",
+  "summary": "Sista grenen av släkten Björklund följer Gabriel Johansson Knuts (1772–1838), den sista husbonden på Knuts, som på 1820-talet sålde hemmanet och blev torpare där. Hans efterkommande flyttade bort, bland annat till Amerika och Jakobstad.",
+  "topics": [
+    "släktforskning",
+    "Björklund",
+    "genealogi"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Johansson Knuts",
+      "alternateNames": [],
+      "birthYear": 1772,
+      "deathYear": 1838,
+      "roles": [
+        "bonde",
+        "torpare"
+      ]
+    },
+    {
+      "name": "Isak Gabrielsson Knuts",
+      "alternateNames": [],
+      "birthYear": 1802,
+      "deathYear": 1868,
+      "roles": [
+        "bonde",
+        "torpare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Knuts i Ytterjeppo",
+      "kind": "farm",
+      "alternateNames": [
+        "Knuts"
+      ]
+    },
+    {
+      "name": "Ryss i Ytterjeppo",
+      "kind": "farm",
+      "alternateNames": [
+        "Ryss"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Gabriel Johansson säljer Knuts",
+      "date": {
+        "year": 1820,
+        "endYear": 1829,
+        "circa": false,
+        "text": "på 1820-talet"
+      },
+      "description": "Gabriel Johansson Knuts sålde hemmanet Knuts och blev torpare där.",
+      "people": [
+        "Gabriel Johansson Knuts"
+      ],
+      "places": [
+        "Knuts i Ytterjeppo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Gabriel Johansson Knuts",
+      "place": "Knuts i Ytterjeppo",
+      "relation": "owned",
+      "endYear": 1829
+    },
+    {
+      "person": "Gabriel Johansson Knuts",
+      "place": "Knuts i Ytterjeppo",
+      "relation": "died",
+      "startYear": 1838,
+      "endYear": 1838
+    },
+    {
+      "person": "Isak Gabrielsson Knuts",
+      "place": "Ryss i Ytterjeppo",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "a593233350d372eaf1c941018bc4220e25dfaeca65134da4af0c2d6c03826cd8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

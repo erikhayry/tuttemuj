@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/bjorkl/27anders.htm",
+  "title": "Gren III. Anders Johansson Bro och hans efterkommande av Woldemar Backman",
+  "summary": "Gren III, den största grenen av släkten Björklund, härstammar från Anders Johansson Bro (1763–1827), bonde på Bro i Ytterjeppo. Avkomlingarna blev bönder i Ytterjeppo och Munsala, och många emigrerade, de flesta till USA.",
+  "topics": [
+    "släktforskning",
+    "Björklund",
+    "emigration"
+  ],
+  "people": [
+    {
+      "name": "Anders Johansson Bro",
+      "alternateNames": [],
+      "birthYear": 1763,
+      "deathYear": 1827,
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bro i Ytterjeppo",
+      "kind": "farm",
+      "alternateNames": [
+        "Bro"
+      ],
+      "description": "Grannhemman till Knuts."
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Anders Johansson Bro",
+      "place": "Bro i Ytterjeppo",
+      "relation": "died",
+      "startYear": 1827,
+      "endYear": 1827
+    }
+  ],
+  "images": [],
+  "contentHash": "92c55850224d08cb00de96dd352d6f97ce7afe47def10e7a2f3018cb3c102d50",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T10:29:26.330Z"
+}

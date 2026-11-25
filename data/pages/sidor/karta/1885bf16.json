@@ -61,6 +61,14 @@
       ],
       "address": "gården N:o 16 i åttonde qvarteret och första stadsdelen, vid Södra torggatan",
       "description": "Försäkrad redan 1844. Husen klarade sig i stadsbranden 1858; mellandelen mellan husen tillkom 1891.",
+      "uses": [
+        {
+          "use": "skola"
+        },
+        {
+          "use": "rådhus"
+        }
+      ],
       "geo": {
         "lat": 63.5220214,
         "lng": 22.5268777,
@@ -196,6 +204,41 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1885
+    },
+    {
+      "image": 2,
+      "places": [
+        "Rådhuset",
+        "Södra Torggatan",
+        "Kyrkogatan",
+        "Klockstapeln"
+      ],
+      "year": 1885
+    },
+    {
+      "image": 3,
+      "places": [
+        "Kyrkoplan",
+        "Klockstapeln"
+      ],
+      "year": 1885
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T10:32:41.825Z"
+    }
+  ],
   "contentHash": "92382b28ed84a57eb3f6f61ab864156c1e0f39a4f2101d74629370a4201be733",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",
