@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/tvengrav.htm",
+  "title": "Tvenne gravstenar från 1600-talet i Nykarleby kyrka av Woldemar Backman",
+  "summary": "Woldemar Backman beskriver två gravstenar från 1600-talet som står i förstugan på södra långsidan av Nykarleby kyrka, troligen det enda minnet därifrån. Den ena är Nils Olofsson Ringius gravsten, den andra Cordt Bockmöllers.",
+  "topics": [
+    "gravstenar",
+    "Nykarleby kyrka",
+    "1600-talet"
+  ],
+  "people": [
+    {
+      "name": "Nils Olofsson Ringius",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Cordt Bockmöller",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby kyrka"
+      ],
+      "description": "Gravstenarna står vid väggen i förstugan på södra långsidan.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "6593a942a775edf0a2f2ebdef5ea8890cf30bb5bf5fdd5f8442a85812e8f4f17",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

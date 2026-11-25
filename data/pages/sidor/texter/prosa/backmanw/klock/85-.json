@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/klock/85-.htm",
+  "title": "Tab. 85-126 i Klockars i Nykarleby landskommuns kyrkoby. Hemman och släkt 1565-1935 av Woldemar Backman",
+  "summary": "Släkttabellerna 85–126 i Backmans Klockarsbok, fortsättning på andra grenen. Här finns bland annat bonden Erik Eriksson Måtar (1844–1911) på gården Måtar och hans barn.",
+  "topics": [
+    "Klockars",
+    "Måtar",
+    "släktforskning",
+    "släkttabeller"
+  ],
+  "people": [
+    {
+      "name": "Erik Eriksson Måtar",
+      "alternateNames": [],
+      "birthYear": 1844,
+      "deathYear": 1911,
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Anders Eriksson Måtar",
+      "alternateNames": [],
+      "birthYear": 1875,
+      "roles": [
+        "bonde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Måtar",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Erik Eriksson Måtar",
+      "place": "Måtar",
+      "relation": "born"
+    },
+    {
+      "person": "Erik Eriksson Måtar",
+      "place": "Måtar",
+      "relation": "died"
+    },
+    {
+      "person": "Anders Eriksson Måtar",
+      "place": "Måtar",
+      "relation": "born"
+    }
+  ],
+  "images": [],
+  "contentHash": "3c474674f8ebce27e2433322f09626b992730cfec5b16d981aac98085b64b0ca",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

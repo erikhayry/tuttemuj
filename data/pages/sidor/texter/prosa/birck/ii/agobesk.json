@@ -1,0 +1,68 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/agobesk.htm",
+  "title": "Ägornas beskaffenhet och storlek i Nykarleby stads historia del II av Erik Birck",
+  "summary": "Erik Birck beskriver Nykarleby stads ägor före branden: 5 11/24 mantal som donerades till staden genom kungligt brev 1685, deras fördelning och hur marken var fördelad mellan åker, äng och skog 1850.",
+  "topics": [
+    "stadens ekonomi",
+    "ägor",
+    "donationsjord",
+    "mantal"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Järfbacka",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Donation av mantal till staden",
+      "date": {
+        "year": 1685,
+        "month": 10,
+        "day": 23,
+        "circa": false
+      },
+      "description": "Genom kungligt brev donerades 5 11/24 mantal under Nykarleby stad till tomter, mulbete och avlöning av borgmästare och råd.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Skogsmark delas mellan staden och kyrkobyn",
+      "date": {
+        "year": 1776,
+        "circa": false
+      },
+      "description": "Skogs-, ut- och betesmark delades mellan staden och kyrkobyn.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "045aeeaf42fedb2a06e7cc57cf3b86f91f34d7b17009f62ea373a1a26c20858e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

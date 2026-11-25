@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/albertdy.htm",
+  "title": "Albert Dyhr i Nykarleby stads historia del II av Erik Birck",
+  "summary": "Handlanden Albert Dyhr, född i Uleåborg 1815, kom till Nykarleby 1830 som bodbetjänt hos rådman Lithén. Han blev djupt fäst vid dottern Mathilda, som Topelius lämnat, och de gifte sig 1844.",
+  "topics": [
+    "Albert Dyhr",
+    "handlande",
+    "Topelius",
+    "Nykarlebyfamiljer"
+  ],
+  "people": [
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "birthYear": 1815,
+      "roles": [
+        "handlande",
+        "bodbetjänt"
+      ]
+    },
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Mathilda Lithén",
+      "alternateNames": [],
+      "roles": [
+        "Topelius ungdomskärlek"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Rosa Lithén",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lithéns gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gård i Nykarleby som Dyhr tog över efter svärfaderns död."
+    }
+  ],
+  "events": [
+    {
+      "title": "Dyhr får burskap som handelsman",
+      "date": {
+        "year": 1841,
+        "circa": false
+      },
+      "description": "Albert Dyhr vann burskap som handelsman i Nykarleby.",
+      "people": [
+        "Albert Dyhr"
+      ],
+      "places": [
+        "Lithéns gård"
+      ]
+    },
+    {
+      "title": "Albert Dyhr gifter sig med Mathilda",
+      "date": {
+        "year": 1844,
+        "circa": false
+      },
+      "description": "Albert Dyhr och Mathilda Lithén gifte sig efter att Topelius lämnat henne.",
+      "people": [
+        "Albert Dyhr",
+        "Mathilda Lithén"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Albert Dyhr",
+      "place": "Lithéns gård",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "cbf7fec70bece5998e144bbcf03410323b9777a602fd8b66615ac3e9e64f8b48",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

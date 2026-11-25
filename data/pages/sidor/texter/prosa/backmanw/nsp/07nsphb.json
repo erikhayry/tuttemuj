@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/nsp/07nsphb.htm",
+  "title": "7. Hantverksborgare i Ett bidrag till Nykarleby stads personhistoria. Borgare och borgarsläkter 1721-1857 av Woldemar Backman",
+  "summary": "Förteckning över Nykarlebys hantverksborgare, ordnade efter yrke, från bagare och bokbindare till urmakare. Bland bagarna finns Johan Hytter, som fick burskap som bagarmästare 1775.",
+  "topics": [
+    "hantverkare",
+    "borgare",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Johan Hytter",
+      "alternateNames": [],
+      "birthYear": 1751,
+      "deathYear": 1796,
+      "roles": [
+        "bagarmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hytter får burskap",
+      "date": {
+        "year": 1775,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Bagaren Johan Hytter vann burskap som bagarmästare i Nykarleby.",
+      "people": [
+        "Johan Hytter"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "f12468e82a58c68a0ef6f3938952062d759055acc4e4455e0a7f7e443ee8ff7e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

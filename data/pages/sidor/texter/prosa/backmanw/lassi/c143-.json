@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/lassi/c143-.htm",
+  "title": "C. Matts Jakobsson Lassila och hans avkomlingar i Lassila i Kovjoki by av Nykarleby landskommun av Woldemar Backman",
+  "summary": "Släktgren C i Backmans Lassilabok: Matts Jakobsson Lassila (född 1717) och hans avkomlingar, som behållit sin hemmansdel sedan storskiftet 1757. Delen splittrades på 1800-talet i tre självständiga hemman.",
+  "topics": [
+    "Lassila",
+    "Kovjoki",
+    "släktforskning",
+    "släkttabeller"
+  ],
+  "people": [
+    {
+      "name": "Matts Jakobsson Lassila",
+      "alternateNames": [],
+      "birthYear": 1717,
+      "deathYear": 1782,
+      "roles": [
+        "ägare av Lassila"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lassila",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Storskiftet",
+      "date": {
+        "year": 1757,
+        "circa": false
+      },
+      "description": "Efter storskiftet tillföll hemmansdel III på Lassila Matts Jakobsson.",
+      "people": [
+        "Matts Jakobsson Lassila"
+      ],
+      "places": [
+        "Lassila"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Matts Jakobsson Lassila",
+      "place": "Lassila",
+      "relation": "born"
+    },
+    {
+      "person": "Matts Jakobsson Lassila",
+      "place": "Lassila",
+      "relation": "died"
+    }
+  ],
+  "images": [],
+  "contentHash": "a3f203968ea591c70a7acfa6b7c39016a6ec3574651cebc5d97c8bafc88be22c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

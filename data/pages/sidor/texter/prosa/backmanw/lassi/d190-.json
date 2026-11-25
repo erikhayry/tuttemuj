@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/lassi/d190-.htm",
+  "title": "D. Brita Jakobsdotter Lassila och Nils Pehrsson jämte deras avkomlingar i Lassila i Kovjoki by av Nykarleby landskommun av Woldemar Backman",
+  "summary": "Släktgren D i Backmans Lassilabok: Brita Jakobsdotter Lassila och Nils Pehrsson och deras avkomlingar. Deras hemmansdel gick oförändrad i arv till 1913, då den delades i två.",
+  "topics": [
+    "Lassila",
+    "Kovjoki",
+    "släktforskning",
+    "släkttabeller"
+  ],
+  "people": [
+    {
+      "name": "Brita Jakobsdotter Lassila",
+      "alternateNames": [],
+      "birthYear": 1717,
+      "deathYear": 1797,
+      "roles": []
+    },
+    {
+      "name": "Nils Pehrsson",
+      "alternateNames": [
+        "Nils Persson"
+      ],
+      "birthYear": 1708,
+      "roles": []
+    },
+    {
+      "name": "Anders Alfred Nordström",
+      "alternateNames": [],
+      "roles": [
+        "köpare från Purmo"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lassila",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hemmansdelen delas",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "description": "Hemmansdelen på Lassila delades i två lika delar, varav den ena såldes till Anders Alfred Nordström från Purmo.",
+      "people": [
+        "Anders Alfred Nordström"
+      ],
+      "places": [
+        "Lassila"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "69d4acbb9753d16753f739415bf2fd073cc5d0a5383c6afc3b36dfc09f6f37c8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

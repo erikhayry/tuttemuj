@@ -1162,5 +1162,12 @@
   {
     "name": "viitavesi",
     "reason": "outside-nykarleby"
-  }
+  },
+  { "name": "karkaus", "reason": "outside-nykarleby" },
+  { "name": "lappo kyrkoby", "reason": "outside-nykarleby" },
+  { "name": "carleborgs grevskap", "reason": "too-generic" },
+  { "name": "nykarleby provinsialläkardistrikt", "reason": "too-generic" },
+  { "name": "torp 133", "reason": "too-generic" },
+  { "name": "torp 137", "reason": "too-generic" },
+  { "name": "torp 139", "reason": "too-generic" }
 ]

@@ -18,6 +18,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby järnväg"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "9ac428a7f24f8b73b16d443cdfeaa07ad3549b2ea76a046abdec6ec97c2675bd",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

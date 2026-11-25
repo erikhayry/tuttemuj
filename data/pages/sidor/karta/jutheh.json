@@ -100,7 +100,12 @@
     {
       "name": "Brunnshuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "brunnshus"
+        }
+      ]
     },
     {
       "name": "Nykarleby älv",
@@ -162,6 +167,35 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gård nr 41",
+        "Rådhusgatan",
+        "Östra gatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Kyrkan",
+        "Klockstapeln",
+        "Spruthuset",
+        "Brunnen"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "0f6d7b2077fceabcf7d5b51a5b0f51d1990d8a92f279dfd558cd39e23984009c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

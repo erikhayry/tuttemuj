@@ -1,0 +1,74 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/schjoman.htm",
+  "title": "En släkt Schjoman av Woldemar Backman",
+  "summary": "Woldemar Backman berättar om den utdöda släkten Schjoman, vars namn lever kvar i det farliga \"schjomanska grundet\" mitt i Torsöfjärden. Släkten bodde i Nykarleby i fem led under cirka 125 år och var småborgare: handlande, skeppare och hantverkare.",
+  "topics": [
+    "släktforskning",
+    "Schjoman",
+    "skärgård",
+    "grund"
+  ],
+  "people": [
+    {
+      "name": "Hans Gustafsson",
+      "alternateNames": [],
+      "roles": [
+        "borgare",
+        "nybyggare"
+      ]
+    },
+    {
+      "name": "Anders Hansson",
+      "alternateNames": [
+        "Anders Hansson Schogman"
+      ],
+      "roles": [
+        "förste som tog släktnamn"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Schjomanska grundet",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Farligt grund mitt i Torsöfjärden.",
+      "nameOrigin": "Grundet har fått sitt namn efter släkten Schjoman."
+    },
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "2b27ddddc88c0f15a75f193cecfc66b95c7b9fe36fbbe5680d6327d814ef7603",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

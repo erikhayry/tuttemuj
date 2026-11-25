@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/apot150m.htm",
+  "title": "Nykarleby stamapoteks apotekare 11.7 1782 - 11.7 1932 av Woldemar Backman",
+  "summary": "Förteckning över Nykarleby apoteks apotekare från 1782 till i dag, med tjänstetider, och biografier över de första elva. Johan Julin fick apotekets privilegier 11 juli 1782 som dess första apotekare.",
+  "topics": [
+    "apotek",
+    "apotekare",
+    "Nykarleby stamapotek"
+  ],
+  "people": [
+    {
+      "name": "Johan Julin",
+      "alternateNames": [],
+      "birthYear": 1752,
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Anders Kihlgren",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Ehrenfried Kantzau",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Johan Benzelstjerna",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Oskar Waldemar Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby apotek",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby stamapotek"
+      ],
+      "uses": [
+        {
+          "use": "apotek",
+          "startYear": 1782
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Apotekets första privilegier",
+      "date": {
+        "year": 1782,
+        "month": 7,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Johan Julin fick privilegierna på apoteket i Nykarleby som dess första apotekare.",
+      "people": [
+        "Johan Julin"
+      ],
+      "places": [
+        "Nykarleby apotek"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Johan Julin",
+      "place": "Nykarleby apotek",
+      "relation": "ran",
+      "startYear": 1782,
+      "endYear": 1783
+    }
+  ],
+  "images": [],
+  "contentHash": "edcbddf298b579b4136f2b5ad914830510104bc35ea33e1c8ea52d35057e9422",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/lassi/b107-.htm",
+  "title": "B. Anders Jakobsson Lassila och hans avkomlingar i Lassila i Kovjoki by av Nykarleby landskommun av Woldemar Backman",
+  "summary": "Släktgren B i Backmans Lassilabok: Anders Jakobsson Lassila och hans avkomlingar. Grenen ägde sin hemmansdel till 1905, och 1925 såldes hemmanet på auktion till Frans Heselius från Pedersöre.",
+  "topics": [
+    "Lassila",
+    "Kovjoki",
+    "släktforskning",
+    "släkttabeller"
+  ],
+  "people": [
+    {
+      "name": "Anders Jakobsson Lassila",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Johannes Envik",
+      "alternateNames": [],
+      "deathYear": 1924,
+      "roles": [
+        "lanthandlare"
+      ]
+    },
+    {
+      "name": "Frans Heselius",
+      "alternateNames": [],
+      "roles": [
+        "köpare från Pedersöre"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lassila",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hemmanet inropas på auktion",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "description": "Lassila hemman inropades på offentlig auktion av Frans Heselius från Pedersöre.",
+      "people": [
+        "Frans Heselius"
+      ],
+      "places": [
+        "Lassila"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "0f2e0cb36b465ad161c1c8959a3e1ee675b789506f6291da3dbef3ad40b21c2e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

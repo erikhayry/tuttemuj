@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/halsokal.htm",
+  "title": "Nykarleby hälsokälla och Brunnsholmarna av Woldemar Backman",
+  "summary": "Woldemar Backman berättar om Nykarleby hälsokälla, en järnkälla på östra älvsluttningen strax söder om Engska garveriet. Källan användes för medicinska ändamål redan på 1700-talet och blomstrade under doktor Zacharias Topelius tid.",
+  "topics": [
+    "hälsokälla",
+    "kurort",
+    "surbrunn",
+    "Brunnsholmarna"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius d.ä.",
+      "alternateNames": [],
+      "deathYear": 1831,
+      "roles": [
+        "stadsläkare",
+        "provinsialläkare"
+      ]
+    },
+    {
+      "name": "Johan Forshaell",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby hälsokälla",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Järnkälla på östra älvsluttningen strax söder om Engska garveriet, nu en igenvuxen vattenfylld grop.",
+      "uses": [
+        {
+          "use": "hälsokälla"
+        }
+      ]
+    },
+    {
+      "name": "Engska garveriet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "garveri"
+        }
+      ]
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hälsokällan omnämns i Åbo Tidningar",
+      "date": {
+        "year": 1784,
+        "circa": false
+      },
+      "description": "Kyrkoherde Johan Forshaell skrev i Åbo Tidningar att hälsokällan i Nykarleby under flera år nyttjats mot olika sjukdomar.",
+      "people": [
+        "Johan Forshaell"
+      ],
+      "places": [
+        "Nykarleby hälsokälla"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "3959732339fb6c4ebf174e33bdb516095c7acc70ef77f0e315327ece3745acbb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

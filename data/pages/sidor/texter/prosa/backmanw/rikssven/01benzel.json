@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/rikssven/01benzel.htm",
+  "title": "Benzelstjerna m.fl. i Bidrag till kännedom om det rikssvenska inslaget i Nykarleby stads befolkning på 1700- och förra hälften av 1800-talet av Woldemar Backman",
+  "summary": "Förordet och de första släkterna i boken om rikssvenskar i Nykarleby. Backman beskriver hur staden anlades 1617 (privilegiebrev 1620) och hur befolkningen kom från landsbygden och från Sverige.",
+  "topics": [
+    "rikssvenskar",
+    "Nykarleby stads grundande",
+    "släktforskning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby stad anläggs",
+      "date": {
+        "year": 1617,
+        "circa": false
+      },
+      "description": "Staden Nykarleby anlades 1617, och privilegiebrevet utfärdades 1620.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "2870dabe62530c468d7ec8c4f589ae2ba79a47ea3d6dd1f5541e7b5afb3f8332",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

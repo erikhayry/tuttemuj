@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/diveb/majnieeb.htm",
+  "title": "När seminaristerna räddade Majniemi av Erik Birck",
+  "summary": "Erik Birck skriver om hur Nykarlebyborna på 1830-talet gjorde utfärder till skären och övernattade i fiskarstugor och varvsstugor, och om den gamla stugan på Alörn som fanns kvar till 1840-talet. Sidan leder fram till berättelsen om Majniemi.",
+  "topics": [
+    "skärgård",
+    "utfärder",
+    "sommarstugor",
+    "Alörn"
+  ],
+  "people": [
+    {
+      "name": "Matts Boman d.y.",
+      "alternateNames": [],
+      "birthYear": 1822,
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Emilie Topelius-Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Plats i skärgården med den s.k. Gamla stugan, som fanns kvar på 1840-talet.",
+      "uses": [
+        {
+          "use": "fiskarstuga"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "varvsstuga"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Majniemi",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "79e6b203d2bbc035ee096d48f5f1eb63b1ec69dd7a23dfa8f37db7e6bcc6d85a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

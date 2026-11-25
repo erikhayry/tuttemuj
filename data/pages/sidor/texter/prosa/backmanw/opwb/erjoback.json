@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/erjoback.htm",
+  "title": "En nykarlebyättling. Erik Johan Bäck av Woldemar Backman",
+  "summary": "Woldemar Backman skildrar Erik Johan Bäck, en man med rötter i Nykarleby. Släkten härstammar från beckbrännaren Johan Johansson, som var med vid stadens beckbruk vid åmynningen, och sidan följer släktens flytt och yrken under 1700-talet.",
+  "topics": [
+    "släktforskning",
+    "Bäck",
+    "beckbruk"
+  ],
+  "people": [
+    {
+      "name": "Erik Johan Bäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Johansson Beckbrännare",
+      "alternateNames": [],
+      "birthYear": 1673,
+      "deathYear": 1752,
+      "roles": [
+        "beckbrännare",
+        "stadstjänare"
+      ]
+    },
+    {
+      "name": "Johan Bäck",
+      "alternateNames": [],
+      "birthYear": 1760,
+      "deathYear": 1821,
+      "roles": [
+        "skräddare",
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby beckbruk",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Beckbruk vid åmynningen.",
+      "uses": [
+        {
+          "use": "beckbruk"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Johan Bäck får burskap som handlande",
+      "date": {
+        "year": 1809,
+        "circa": false
+      },
+      "description": "Johan Bäck fick burskap som handlande i Nykarleby efter att tidigare ha varit skräddare.",
+      "people": [
+        "Johan Bäck"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "fe57320bcb42709162b799d4d30ffb5bdd57fc313dc3f4eb1afec6495764ea10",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

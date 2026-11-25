@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/slaktana.htm",
+  "title": "Ett försök till släktanalys av Woldemar Backman",
+  "summary": "Föredrag av Woldemar Backman för läkarföreningarna i Nykarleby 1934 om hur släktforskning och stamtavlor kan användas för att studera ärftlighet hos människan. Sidan tar upp Mendels lag och exempel på stora släktutredningar.",
+  "topics": [
+    "släktforskning",
+    "ärftlighet",
+    "genealogi"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "föredragshållare"
+      ]
+    },
+    {
+      "name": "Margareta Burea",
+      "alternateNames": [],
+      "birthYear": 1594,
+      "deathYear": 1647,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Föredrag vid läkarföreningarnas möte",
+      "date": {
+        "year": 1934,
+        "month": 5,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Woldemar Backman höll ett föredrag om släktanalys vid Vasa- och Mellersta Österbottens läkarföreningars möte i Nykarleby.",
+      "people": [
+        "Woldemar Backman"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "0c825d5204c6c00f64acb29afa7b21e706411cd2be10c9579b2cce961c74e2dc",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

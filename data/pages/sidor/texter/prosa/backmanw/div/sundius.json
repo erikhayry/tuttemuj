@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/sundius.htm",
+  "title": "Lagman Christian Sundius i Munsala. Hans härstamning och efterkommande av Woldemar Backman",
+  "summary": "Woldemar Backman redogör 1945 för lagman Christian Sundius i Munsala, hans härstamning från den tyska ätten Kanneworff via Danmark, hans familj och efterkommande.",
+  "topics": [
+    "släktforskning",
+    "Sundius",
+    "Munsala",
+    "lagman"
+  ],
+  "people": [
+    {
+      "name": "Christian Sundius",
+      "alternateNames": [],
+      "roles": [
+        "lagman"
+      ]
+    },
+    {
+      "name": "Johan Georg Kanneworff",
+      "alternateNames": [],
+      "deathYear": 1703,
+      "roles": [
+        "föreståndare på Herlufsholm"
+      ]
+    },
+    {
+      "name": "Niels Kanneworff",
+      "alternateNames": [],
+      "birthYear": 1686,
+      "roles": [
+        "kantor",
+        "klockare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "0c36b7bcdca0d7c18709b12285cec37605447cfac39836d9aad173297c450e1d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

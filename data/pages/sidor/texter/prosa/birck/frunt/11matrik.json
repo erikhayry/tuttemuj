@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/frunt/11matrik.htm",
+  "title": "Matrikel till Fruntimmersskolan i Nykarleby, 1874-1909 av Erik Birck",
+  "summary": "Matrikel över de 202 elever som gick i Fruntimmersskolan i Nykarleby 1874–1909, med födelseår, föräldrar och in- och utskrivning. De flesta kom från ståndspersonsfamiljer, och de första pojkarna skrevs in hösten 1881.",
+  "topics": [
+    "Fruntimmersskolan",
+    "elevmatrikel",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Anna Henriksson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred Herler",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Fruntimmersskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "flickskola",
+          "startYear": 1874,
+          "endYear": 1909
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "De första pojkarna börjar",
+      "date": {
+        "year": 1881,
+        "circa": false
+      },
+      "description": "De första gossarna skrevs in hösten 1881 i Fruntimmersskolan i Nykarleby.",
+      "people": [],
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "c71ae673c2fb6f532fe395a6154f64d13dc064f0dfd3e7c9421fbfab57b63df2",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

@@ -1,0 +1,148 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/boende/botext.htm",
+  "title": "Gårdsägare 1810-1858",
+  "summary": "Erik Bircks förteckning över gårdstomterna i gamla Nykarleby och deras ägare 1810–1858, med boende enligt mantalslängden 1810. Gård 1 ägdes från 1810 av mamsellerna Steckzen, och sjökapten Reinhold Wilhelm Backman köpte tomterna 2–3 år 1804 och därefter nr 1 år 1812.",
+  "topics": [
+    "gårdsägare",
+    "gamla Nykarleby",
+    "mantalslängd",
+    "gårdstomter"
+  ],
+  "people": [
+    {
+      "name": "Reinhold Wilhelm Backman",
+      "alternateNames": [],
+      "birthYear": 1769,
+      "deathYear": 1832,
+      "roles": [
+        "sjökapten",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Cajsa Greta Steckzen",
+      "alternateNames": [],
+      "roles": [
+        "ägare av gård 1"
+      ]
+    },
+    {
+      "name": "Anna Steckzen",
+      "alternateNames": [],
+      "roles": [
+        "ägare av gård 1"
+      ]
+    },
+    {
+      "name": "Carl Jacob Stenman",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "E. Rechardt",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gård 1",
+      "kind": "building",
+      "alternateNames": [
+        "gårdsnr 1"
+      ]
+    },
+    {
+      "name": "Gård 2–3",
+      "kind": "building",
+      "alternateNames": [
+        "gårdsnr 2 och 3"
+      ]
+    },
+    {
+      "name": "Lilla Ågatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Backman köper gårdarna 2–3",
+      "date": {
+        "year": 1804,
+        "month": 4,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Sjökapten och handlande Reinhold Wilhelm Backman köpte gårdarna 2–3 i Nykarleby.",
+      "people": [
+        "Reinhold Wilhelm Backman"
+      ],
+      "places": [
+        "Gård 2–3"
+      ]
+    },
+    {
+      "title": "Backman inlöser gård 1",
+      "date": {
+        "year": 1812,
+        "month": 5,
+        "day": 12,
+        "circa": false
+      },
+      "description": "Reinhold Wilhelm Backman inlöste även gård 1, som sedan förenades med tomterna 2 och 3 fram till branden.",
+      "people": [
+        "Reinhold Wilhelm Backman"
+      ],
+      "places": [
+        "Gård 1"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Reinhold Wilhelm Backman",
+      "place": "Gård 2–3",
+      "relation": "owned",
+      "startYear": 1804
+    },
+    {
+      "person": "Reinhold Wilhelm Backman",
+      "place": "Gård 1",
+      "relation": "owned",
+      "startYear": 1812
+    },
+    {
+      "person": "Carl Jacob Stenman",
+      "place": "Gård 1",
+      "relation": "lived",
+      "startYear": 1810,
+      "endYear": 1810
+    }
+  ],
+  "images": [],
+  "contentHash": "9aeeb65809fa4a4c8748649750a90689222a135e6db9b91dfab5ced18bfab162",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

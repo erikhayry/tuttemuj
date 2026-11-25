@@ -1,0 +1,190 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/nygard.htm",
+  "title": "Nygård och dess ägare av Woldemar Backman",
+  "summary": "Woldemar Backman skriver 1932 om Nygård strax söder om Nykarleby stad. Hemmanet uppstod 1660 när Jutbacka delades, och sidan följer ägarna från prosten Nils Olofsson Ringius och framåt, med delningarna 1788 och 1796.",
+  "topics": [
+    "Nygård",
+    "hemman",
+    "ägare",
+    "släkter"
+  ],
+  "people": [
+    {
+      "name": "Nils Olofsson Ringius",
+      "alternateNames": [],
+      "deathYear": 1680,
+      "roles": [
+        "prost",
+        "kyrkoherde i Nykarleby",
+        "rektor"
+      ]
+    },
+    {
+      "name": "Carl Nilsson Ringius",
+      "alternateNames": [],
+      "deathYear": 1687,
+      "roles": [
+        "rektor",
+        "filosofiemagister"
+      ]
+    },
+    {
+      "name": "Matts Eriksson Aulin",
+      "alternateNames": [
+        "Matts Eriksson"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Lorenz Nordman",
+      "alternateNames": [],
+      "deathYear": 1737,
+      "roles": [
+        "länsman"
+      ]
+    },
+    {
+      "name": "Anders Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Nygård"
+      ]
+    },
+    {
+      "name": "Henrik Thilgren",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ]
+    },
+    {
+      "name": "Josef Jakobsson Munselii",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Markus Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman strax söder om Nykarleby stad, öster om älven.",
+      "nameOrigin": "Namnet visar att hemmanet är ett av nejdens yngsta."
+    },
+    {
+      "name": "Jutbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Jutbacka delas och Nygård bildas",
+      "date": {
+        "year": 1660,
+        "circa": false
+      },
+      "description": "Jutbacka delades mellan borgmästare Munselii arvingar, och den ena delen blev Nygård som såldes till prosten Nils Olofsson Ringius.",
+      "people": [
+        "Nils Olofsson Ringius"
+      ],
+      "places": [
+        "Nygård",
+        "Jutbacka"
+      ]
+    },
+    {
+      "title": "Nygård ligger öde",
+      "date": {
+        "year": 1712,
+        "endYear": 1727,
+        "circa": false
+      },
+      "description": "Under stora ofreden låg Nygård öde och obrukat.",
+      "people": [],
+      "places": [
+        "Nygård"
+      ]
+    },
+    {
+      "title": "Första delningen av Nygård",
+      "date": {
+        "year": 1788,
+        "circa": false
+      },
+      "description": "Anders Jakobsson sålde en tredjedel av Nygård till länsman Henrik Thilgren.",
+      "people": [
+        "Anders Jakobsson",
+        "Henrik Thilgren"
+      ],
+      "places": [
+        "Nygård"
+      ]
+    },
+    {
+      "title": "Andra delningen av Nygård",
+      "date": {
+        "year": 1796,
+        "circa": false
+      },
+      "description": "Efter Anders Jakobssons död delades hans del jämnt mellan hans två måg, vilket gav den tredelning som sedan bestått.",
+      "people": [],
+      "places": [
+        "Nygård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Nils Olofsson Ringius",
+      "place": "Nygård",
+      "relation": "owned"
+    },
+    {
+      "person": "Lorenz Nordman",
+      "place": "Nygård",
+      "relation": "owned",
+      "startYear": 1727,
+      "endYear": 1737
+    }
+  ],
+  "images": [],
+  "contentHash": "c6d17d62cc32b1509934287cd79ce8129bf662b1fa12ccc5686e93ff12b6d3f8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

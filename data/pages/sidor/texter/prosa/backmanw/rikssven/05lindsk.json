@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/rikssven/05lindsk.htm",
+  "title": "Lindskog m.fl. i Bidrag till kännedom om det rikssvenska inslaget i Nykarleby stads befolkning på 1700- och förra hälften av 1800-talet av Woldemar Backman",
+  "summary": "Släkten Lindskog och flera andra rikssvenska släkter i Nykarleby. Per Adolf Konstantin Lindskog, född i Stockholm 1826, kom som bokbindargesäll och hade ett tobaksspinneri som flyttades till Vörå 1858.",
+  "topics": [
+    "rikssvenskar",
+    "släktforskning",
+    "Lindskog",
+    "tobaksspinneri"
+  ],
+  "people": [
+    {
+      "name": "Per Adolf Konstantin Lindskog",
+      "alternateNames": [],
+      "birthYear": 1826,
+      "roles": [
+        "bokbindare",
+        "viktualiehandlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Vörå",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tillstånd till tobaksspinneri",
+      "date": {
+        "year": 1854,
+        "month": 5,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Per Adolf Konstantin Lindskog fick tillstånd att driva ett tobaksspinneri i Nykarleby, som flyttades till Vörå 1858.",
+      "people": [
+        "Per Adolf Konstantin Lindskog"
+      ],
+      "places": [
+        "Nykarleby",
+        "Vörå"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "84c932e7b6d114b28a120a390c17e24c53c960b7f5dc9d0c0c44be7b3294289e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

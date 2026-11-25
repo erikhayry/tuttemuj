@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/nsp/06nspsf.htm",
+  "title": "6. Förteckning över i Nykarleby byggda fartyg i Ett bidrag till Nykarleby stads personhistoria. Borgare och borgarsläkter 1721-1857 av Woldemar Backman",
+  "summary": "Förteckning över fartyg byggda i Nykarleby. Staden fick eget skeppsvarv på 1830-talet, och byggandet var livligt fram till 1860-talet. Det första varvet låg på Djupsten och flyttades på 1840-talet till Alörn.",
+  "topics": [
+    "skeppsbyggeri",
+    "varv",
+    "fartyg"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby skeppsvarv",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv",
+          "startYear": 1830
+        }
+      ]
+    },
+    {
+      "name": "Djupsten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Tidigare en ö vid älvens mynning, nu sammanhängande med fastlandet.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Varvet flyttas till Alörn",
+      "date": {
+        "year": 1840,
+        "endYear": 1849,
+        "circa": false,
+        "text": "på 1840-talet"
+      },
+      "description": "Nykarleby skeppsvarv flyttades från Djupsten till Alörn eftersom älven grundades upp.",
+      "people": [],
+      "places": [
+        "Nykarleby skeppsvarv",
+        "Djupsten",
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Varvet övertas av ett bolag",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "description": "Varvet övergick till ett bolag bildat av stadens köpmän.",
+      "people": [],
+      "places": [
+        "Nykarleby skeppsvarv"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "7a5f8c07c5bb48a578818c091888ae234781868f9f8d25833e50d46beb01865c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

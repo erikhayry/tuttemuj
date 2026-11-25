@@ -1,0 +1,140 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo3.htm",
+  "title": "Keppo gård av Woldemar Backman",
+  "summary": "Woldemar Backman går igenom de industriella inrättningarna vid Keppo fors i Nykarleby älv: såg, mjölkvarn, oljeslageri och yllevarufabrik. Sidan berättar om sågens äldsta tid på 1700-talet och om forsens rensning 1912.",
+  "topics": [
+    "Keppo fors",
+    "industri",
+    "såg",
+    "vattenkraft"
+  ],
+  "people": [
+    {
+      "name": "Johan Bladh",
+      "alternateNames": [],
+      "roles": [
+        "sågägare"
+      ]
+    },
+    {
+      "name": "Reinhold Vilhelm Backman",
+      "alternateNames": [],
+      "birthYear": 1724,
+      "deathYear": 1787,
+      "roles": [
+        "hovrättsadvokat",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Otto von Essen",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Keppo"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppo fors",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Den mellersta av tre forsar i Nykarleby älvs västra gren.",
+      "uses": [
+        {
+          "use": "vattenkraft"
+        }
+      ]
+    },
+    {
+      "name": "Keppo gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Keppo"
+      ],
+      "uses": [
+        {
+          "use": "såg"
+        },
+        {
+          "use": "mjölkvarn"
+        },
+        {
+          "use": "oljeslageri"
+        },
+        {
+          "use": "yllevarufabrik"
+        }
+      ],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Lavast fors",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Mjölnars fors",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Keppo fors rensas",
+      "date": {
+        "year": 1912,
+        "circa": false
+      },
+      "description": "Staten rensade Keppo fors, och av forsens forna betydelse finns två dammkistor kvar.",
+      "people": [],
+      "places": [
+        "Keppo fors"
+      ]
+    },
+    {
+      "title": "Sågbokhållare antecknad på Keppo",
+      "date": {
+        "year": 1771,
+        "circa": false
+      },
+      "description": "En sågbokhållare skrevs på Keppo, vilket är det första tecknet på sågpersonal där.",
+      "people": [],
+      "places": [
+        "Keppo gård"
+      ]
+    },
+    {
+      "title": "Sågen skattlagd",
+      "date": {
+        "year": 1785,
+        "circa": false
+      },
+      "description": "Sågen på Keppo blev skattlagd första gången.",
+      "people": [],
+      "places": [
+        "Keppo gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "3804131b84a5cf01580473fc1c0e564145f1d90a8f3237c63537571b0b6353fd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

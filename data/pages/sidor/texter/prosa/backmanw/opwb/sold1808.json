@@ -1,0 +1,126 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/sold1808.htm",
+  "title": "Nykarlebysoldater i 1808-1809 års krig av Woldemar Backman",
+  "summary": "Förteckning över soldater från Nykarleby som deltog i kriget 1808–09. Sidan förklarar först indelningsverket, där Nykarleby landskommun fick ställa 26 soldater från 1734, och bygger på en mönstringsrulla från 13 februari 1808.",
+  "topics": [
+    "1808–09 års krig",
+    "soldater",
+    "indelningsverket"
+  ],
+  "people": [
+    {
+      "name": "Erik Klinga",
+      "alternateNames": [],
+      "roles": [
+        "soldat"
+      ]
+    },
+    {
+      "name": "Elias Bastion",
+      "alternateNames": [],
+      "roles": [
+        "soldat"
+      ]
+    },
+    {
+      "name": "Petter Östman",
+      "alternateNames": [],
+      "roles": [
+        "soldat"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Överjeppo",
+      "kind": "village",
+      "alternateNames": [
+        "Jeppo"
+      ],
+      "geo": {
+        "lat": 63.3825301,
+        "lng": 22.6655781,
+        "match": "name",
+        "gazetteerName": "överjeppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Indelningsverket införs i Österbotten",
+      "date": {
+        "year": 1734,
+        "circa": false
+      },
+      "description": "Systemet med ständigt knecktehåll, där varje rote underhöll en soldat, började tillämpas i Österbotten.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Mönstringsrulla",
+      "date": {
+        "year": 1808,
+        "month": 2,
+        "day": 13,
+        "circa": false
+      },
+      "description": "En mönstringsrulla upprättades en vecka före krigets början och ligger till grund för förteckningen över soldaterna.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "b631f1e4458b8ccf90c6a9e0dffb24fc4301ca25cb076ae12761673c86504c3f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

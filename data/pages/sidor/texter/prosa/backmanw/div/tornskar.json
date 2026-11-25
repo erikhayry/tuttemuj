@@ -1,0 +1,75 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/tornskar.htm",
+  "title": "Tornskär och släkten Boman av Woldemar Backman",
+  "summary": "Woldemar Backman beskriver Tornskär längst ute i Nykarleby skärgård och fiskarsläkten Boman som i ungefär hundra år fiskat där. Ön har fått sitt namn av ett sjömärke som såg ut som ett torn och visade farleden mot stadens hamn.",
+  "topics": [
+    "Tornskär",
+    "skärgård",
+    "fiske",
+    "släkten Boman"
+  ],
+  "people": [
+    {
+      "name": "Johan Jakob Boman",
+      "alternateNames": [
+        "Janne Boman"
+      ],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Brita Isaksdotter Boman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "H. Österlund",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Liten klippö längst ute i Nykarleby skärgård, bestående av två holmar.",
+      "uses": [
+        {
+          "use": "fiske"
+        }
+      ],
+      "nameOrigin": "Namnet kommer av ett vitmålat sjömärke på norra udden som på avstånd kunde se ut som ett torn."
+    },
+    {
+      "name": "Nykarleby hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Jakob Boman",
+      "place": "Tornskär",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Tornskär"
+      ]
+    }
+  ],
+  "contentHash": "f472e45130d1badefcf4835bb676167690e0626461733f1cdae76b40decd134f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

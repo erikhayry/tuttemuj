@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/nsp/05nspsb.htm",
+  "title": "5. Skepparborgare 1800-1857 i Ett bidrag till Nykarleby stads personhistoria. Borgare och borgarsläkter 1721-1857 av Woldemar Backman",
+  "summary": "Förteckning över Nykarlebys skepparborgare 1800–1857, sjökaptener och styrmän. Bland dem sjökapten Gabriel Vilhelm Aspegren (1793–1855), som förde bland annat fregatten Ellida och briggen Rhea.",
+  "topics": [
+    "skepparborgare",
+    "sjöfart",
+    "sjökaptener"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Vilhelm Aspegren",
+      "alternateNames": [],
+      "birthYear": 1793,
+      "deathYear": 1855,
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Gabriel Aspegren",
+      "alternateNames": [],
+      "birthYear": 1708,
+      "deathYear": 1784,
+      "roles": [
+        "prost i Pedersöre"
+      ]
+    },
+    {
+      "name": "Bror Vilhelm Aspegren",
+      "alternateNames": [],
+      "birthYear": 1764,
+      "deathYear": 1826,
+      "roles": [
+        "fänrik",
+        "landsfiskal"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "c34f8e7f5894eb3a3faeb398c9f24df1f870d27b04f76693c420bbadd50c91c6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

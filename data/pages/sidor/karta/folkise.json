@@ -16,6 +16,12 @@
         "Kristliga Folkhögskolan i Nykarleby",
         "Folkhögskolan"
       ],
+      "uses": [
+        {
+          "use": "folkhögskola",
+          "startYear": 1920
+        }
+      ],
       "geo": {
         "lat": 63.5275083,
         "lng": 22.5269437,
@@ -41,6 +47,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kristliga folkhögskolan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "4691efd21a5e26eae407fd64c1db0348544ce84f078a8d66ca00c743e0f170f0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

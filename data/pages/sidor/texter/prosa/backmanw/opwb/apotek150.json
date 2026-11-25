@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/apotek150.htm",
+  "title": "Nykarleby stamapotek 150 år av Woldemar Backman",
+  "summary": "Woldemar Backman skriver 1932 om Nykarleby apotek, som fyllde 150 år sedan Johan Julin fick privilegier 1782. Apoteket var landets artonde, och sidan förklarar vad ett stamapotek var.",
+  "topics": [
+    "apotek",
+    "stamapotek",
+    "jubileum"
+  ],
+  "people": [
+    {
+      "name": "Johan Julin",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby apotek",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby stamapotek"
+      ],
+      "uses": [
+        {
+          "use": "apotek",
+          "startYear": 1782
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Julin får apotekets privilegier",
+      "date": {
+        "year": 1782,
+        "month": 7,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Johan Julin fick privilegier på apoteket i Nykarleby, som blev landets artonde apotek.",
+      "people": [
+        "Johan Julin"
+      ],
+      "places": [
+        "Nykarleby apotek"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "dca05b2e4de6b57997931e3132290769d834b4760e00e0d5361de42b6b11017f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

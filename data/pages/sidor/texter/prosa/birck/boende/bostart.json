@@ -1,0 +1,51 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/boende/bostart.htm",
+  "title": "Gårdsägare 1810-1858",
+  "summary": "Startsida till Erik Bircks sammanställning av gårdstomterna i gamla Nykarleby och deras ägare 1810–1858. Sidan förklarar hur kartan från 1841 används, och att man kan klicka på gårdsnummer för att se ägarlängder.",
+  "topics": [
+    "gårdsägare",
+    "gamla Nykarleby",
+    "stadsplan",
+    "karta"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Edvin Avellan",
+      "alternateNames": [],
+      "roles": [
+        "ögonvittne"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "menu",
+  "relations": [],
+  "images": [],
+  "contentHash": "db0fb282659ae516bd430c1eac4f73a017451094dc4379cd966384f0650139bb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

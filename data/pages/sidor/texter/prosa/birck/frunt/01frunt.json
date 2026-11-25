@@ -1,0 +1,57 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/frunt/01frunt.htm",
+  "title": "Kapitel 1-7 i Fruntimmersskolan i Nykarleby, 1874-1909 av Erik Birck",
+  "summary": "Erik Birck berättar om flickornas skolgång i Nykarleby och hur Fruntimmersskolan grundades. Flickor undervisades i stadens pedagogi redan under 1700-talet, och kapitlen följer sedan skolans planer, ekonomi och läroplan.",
+  "topics": [
+    "Fruntimmersskolan",
+    "flickskola",
+    "skolhistoria",
+    "pedagogin"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Fruntimmersskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "flickskola",
+          "startYear": 1874,
+          "endYear": 1909
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby pedagogi",
+      "kind": "building",
+      "alternateNames": [
+        "pedagogin"
+      ],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1624,
+          "endYear": 1841
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "21e9d706c950aaf4495c4e1091e852c742ff3d8c319badb0e670b0fbf78d66c2",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

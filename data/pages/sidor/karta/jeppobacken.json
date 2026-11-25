@@ -36,6 +36,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby älv"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "919229ae5d4497ee51d355a8a7d58ff08a254cdef60766afcf5359d73c69ff4e",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

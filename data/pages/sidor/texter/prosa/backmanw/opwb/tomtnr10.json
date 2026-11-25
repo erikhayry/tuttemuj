@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/tomtnr10.htm",
+  "title": "Tomt 10 i gamla Nykarleby av Woldemar Backman",
+  "summary": "Woldemar Backman går igenom tomt 10 i gamla Nykarleby, från vilken branden 1858 tog sin början. Ett brandförsäkringsbrev från 1834 beskriver byggnaderna på tomten och grannarna, och Backman efterlyser fler sådana brev.",
+  "topics": [
+    "tomt 10",
+    "brandförsäkring",
+    "bebyggelse",
+    "branden 1858"
+  ],
+  "people": [
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Tomt 10",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Tomt i gamla Nykarleby, där branden 1858 började."
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Allmänna Brandstods-Bolaget stiftas",
+      "date": {
+        "year": 1832,
+        "month": 12,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Allmänna Brandstods-Bolaget för Finland stiftades, och många Nykarlebyhusägare anslöt sig.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Brandförsäkringsbrev för tomt 10",
+      "date": {
+        "year": 1834,
+        "circa": false
+      },
+      "description": "Ett brandförsäkringsbrev utfärdades för tomt 10 med beskrivning av byggnaderna.",
+      "people": [],
+      "places": [
+        "Tomt 10"
+      ]
+    },
+    {
+      "title": "Stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "description": "En ödesdiger eldsvåda tog sin början på tomt 10 i Nykarleby.",
+      "people": [],
+      "places": [
+        "Tomt 10"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "fe039ac90fb0810cd62de824db6b5fa1d5c26246b5d38a9eb29dc53b291e4ef6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

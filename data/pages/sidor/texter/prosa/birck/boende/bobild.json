@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/boende/bobild.htm",
+  "title": "Gyldén 1841",
+  "summary": "Nästan tom sida…med en bild på stadsplanekartan över Nykarleby från 1841 av C. W. Gyldén, som används i Erik Bircks sammanställning av gårdsägare 1810–1858.",
+  "topics": [
+    "stadsplan",
+    "karta"
+  ],
+  "people": [
+    {
+      "name": "C. W. Gyldén",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1841
+    }
+  ],
+  "contentHash": "1d5d0728f2bc453e4bbdf0f13bfb96e017b83f1e8760e9096954d7f529b34ccb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

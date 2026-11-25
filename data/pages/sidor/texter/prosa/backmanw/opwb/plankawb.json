@@ -1,0 +1,125 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/plankawb.htm",
+  "title": "En plankarta över Nykarleby från 1600-talet av Woldemar Backman",
+  "summary": "Woldemar Backman visar att den kända plankartan över gamla Nykarleby, utgiven av C. W. Gyldén 1841, i praktiken är lantmätare Wislanders stadsplan från 1750. Skillnaden är att Storbron där ritats på sin nya plats, där den byggdes om efter att ryssarna bränt den 1808–09.",
+  "topics": [
+    "karta",
+    "stadsplan",
+    "Storbron",
+    "gamla Nykarleby"
+  ],
+  "people": [
+    {
+      "name": "C. W. Gyldén",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Wislander",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bro över älven som ryssarna brände under kriget 1808–09 och som byggdes om cirka 1815–1817 några tiotal meter längre ned.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Pädagogia",
+      "kind": "building",
+      "alternateNames": [
+        "pedagogien"
+      ]
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Storbron bränns",
+      "date": {
+        "year": 1808,
+        "endYear": 1809,
+        "circa": false
+      },
+      "description": "Ryssarna brände Storbron i Nykarleby under 1808–09 års krig.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    },
+    {
+      "title": "Ny Storbro byggs",
+      "date": {
+        "year": 1815,
+        "circa": false
+      },
+      "description": "En ny Storbro uppfördes några tiotal meter längre ned än den brända.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    },
+    {
+      "title": "Wislanders plankarta",
+      "date": {
+        "year": 1750,
+        "circa": false
+      },
+      "description": "Lantmätare Wislander gjorde en plankarta över Nykarleby.",
+      "people": [
+        "Wislander"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1841
+    }
+  ],
+  "contentHash": "e2a953e993b9aa1243e455e42a535498f216a33531e33631a7ca50b30f5304cf",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

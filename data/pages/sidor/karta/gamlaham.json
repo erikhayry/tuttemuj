@@ -200,7 +200,15 @@
         "Gamla hamnen",
         "Gamla hamnen vid Åminne"
       ],
-      "description": "Stadens tull- och lastageplats."
+      "description": "Stadens tull- och lastageplats.",
+      "uses": [
+        {
+          "use": "lastageplats"
+        },
+        {
+          "use": "tullplats"
+        }
+      ]
     },
     {
       "name": "Stadens packhus",
@@ -209,7 +217,15 @@
         "Pack- och våghuset",
         "Stadens Packhus"
       ],
-      "description": "Vid älven vid Åminnet; nytt hus byggt 1850."
+      "description": "Vid älven vid Åminnet; nytt hus byggt 1850.",
+      "uses": [
+        {
+          "use": "packhus"
+        },
+        {
+          "use": "våghus"
+        }
+      ]
     },
     {
       "name": "Allmänna bryggan vid Åminne",
@@ -221,6 +237,11 @@
       "kind": "building",
       "alternateNames": [
         "Djupstensvarvet"
+      ],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
       ]
     },
     {
@@ -285,7 +306,12 @@
       "alternateNames": [
         "Beckbruket"
       ],
-      "description": "På andra sidan älven mittemot lastageplatsen."
+      "description": "På andra sidan älven mittemot lastageplatsen.",
+      "uses": [
+        {
+          "use": "beckbruk"
+        }
+      ]
     },
     {
       "name": "Saltboden från Gamla hamn",
@@ -530,6 +556,70 @@
       "Allmänna bryggan vid Åminne"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Fredrik Lannér",
+      "place": "Stadens packhus",
+      "relation": "worked"
+    },
+    {
+      "person": "Jakob Falck",
+      "place": "Stadens packhus",
+      "relation": "worked"
+    },
+    {
+      "person": "Gustaf Turdin",
+      "place": "Åminne lastageplats",
+      "relation": "owned",
+      "endYear": 1838
+    },
+    {
+      "person": "Henrik Backman",
+      "place": "Åminne lastageplats",
+      "relation": "owned"
+    },
+    {
+      "person": "Lars Pensar",
+      "place": "Saltboden från Gamla hamn",
+      "relation": "built",
+      "startYear": 1974,
+      "endYear": 1974
+    },
+    {
+      "person": "Pia Nyman",
+      "place": "Saltboden från Gamla hamn",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Åminne lastageplats",
+        "Stadens packhus",
+        "Allmänna bryggan vid Åminne"
+      ],
+      "year": 1862
+    },
+    {
+      "image": 2,
+      "places": [
+        "Åminne lastageplats",
+        "Stadens packhus",
+        "Allmänna bryggan vid Åminne"
+      ],
+      "year": 1862
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "5c5b82d3642786dc1cd9f39376da0401a66bd3f6387b08525753aaefc80975ab",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

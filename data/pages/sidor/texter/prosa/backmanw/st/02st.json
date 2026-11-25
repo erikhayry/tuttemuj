@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/st/02st.htm",
+  "title": "Kap. 2. Om soldattorpen i Nykarleby landskommun jämte en översikt av soldaterna 1733-1809 i Soldattorp, soldater jämte deras efterkommande i Nykarleby landskommun av Woldemar Backman",
+  "summary": "Kapitlet om soldattorpen i Nykarleby landskommun: inget av torpen står kvar på sin ursprungliga plats. Av torp nr 131 i Ytterjeppo finns bara stenfoten kvar, och åkern nedanför kallas fortfarande Grås åker efter den sista soldaten.",
+  "topics": [
+    "soldattorp",
+    "soldater",
+    "Ytterjeppo"
+  ],
+  "people": [
+    {
+      "name": "Anna Björkqvist",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Torp 131",
+      "kind": "farm",
+      "alternateNames": [
+        "soldattorp nr 131"
+      ],
+      "description": "Soldattorp i Ytterjeppo, bara stenfoten finns kvar.",
+      "uses": [
+        {
+          "use": "soldattorp"
+        }
+      ]
+    },
+    {
+      "name": "Grås åker",
+      "kind": "other",
+      "alternateNames": [],
+      "nameOrigin": "Åkern har fått sitt namn efter torpets sista soldat."
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Soldattorpets stuga flyttas",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "description": "Enligt en uppgift flyttades stugan från soldattorp 131 först till Jutas och därifrån 1917 till Kovjoki nära stationen.",
+      "people": [],
+      "places": [
+        "Torp 131",
+        "Kovjoki"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "b61ecb3e2709b7bac7851f8d6dc0fc994daa8eadf13b0dbf3b5a20b2c49ecf27",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/barnaukt.htm",
+  "title": "Barnauktioner i Nykarleby stads historia del II av Erik Birck",
+  "summary": "Erik Birck redogör för barnauktionerna i Nykarleby före branden, där fattiga barn utauktionerades för ett år till den som begärde lägst ersättning. Han återger protokollet från auktionen 6 mars 1849 i sockenstugan.",
+  "topics": [
+    "fattigvård",
+    "barnauktioner",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Borg",
+      "alternateNames": [],
+      "roles": [
+        "prost"
+      ]
+    },
+    {
+      "name": "Elias Jacobsson Wik",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Isak Mattsson Ahlnäs",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Henric Gädda",
+      "alternateNames": [],
+      "roles": [
+        "barn"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Barnauktion i sockenstugan",
+      "date": {
+        "year": 1849,
+        "month": 3,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Barn utauktionerades för ett år till bönder som fick ersättning för föda, vård, kläder och undervisning i bokläsning.",
+      "people": [],
+      "places": [
+        "Sockenstugan"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "År 1849 bjuds fattiga barn ut på auktion i sockenstugan, och bönderna överbjuder varandra nedåt. Gossen Henric Gädda är ett av barnen.",
+    "reason": "Det mörka och tidstypiska bruket ger en stark scen med moraliskt tryck.",
+    "characters": [
+      "Henric Gädda",
+      "Gabriel Borg"
+    ],
+    "places": [
+      "Sockenstugan"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "4d1bae03b4fd8b1c9c9fb52822d323a425642d82427003d57bcf932a8817ac6a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

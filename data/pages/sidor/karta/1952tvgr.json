@@ -95,6 +95,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Fåfängan",
+        "Topeliusparken",
+        "Ämbetshustomten"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "a50ec127f1ad8c445034aa33c097129b7109aa0145d54897ec93ee5c7fe375a5",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

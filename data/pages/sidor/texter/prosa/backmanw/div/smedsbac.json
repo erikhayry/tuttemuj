@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/smedsbac.htm",
+  "title": "Smedsbacka och dess ägare. Några anteckningar av Woldemar Backman",
+  "summary": "Woldemar Backman följer hemmanet Smedsbackas ägare mellan 1590 och 1930. Hemmanet ligger tätt norr om Nykarleby stad och hörde till den donationsjord staden fick 1620.",
+  "topics": [
+    "Smedsbacka",
+    "hemman",
+    "ägare",
+    "donationsjord"
+  ],
+  "people": [
+    {
+      "name": "Mårten Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Smedsbacka"
+      ]
+    },
+    {
+      "name": "Anders Eriksson Smed",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Smedsbacka"
+      ]
+    },
+    {
+      "name": "Brita Hansdotter",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johannes Jacobi Nycarlus",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman norr om Nykarleby stads mark, mest väster om älven, i kyrkobyn.",
+      "nameOrigin": "Namnet kommer sannolikt av att någon tidigare ägare varit smed.",
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden får donationsjord",
+      "date": {
+        "year": 1620,
+        "circa": false
+      },
+      "description": "Nykarleby stad fick donationsjord vid sin grundläggning, och Smedsbacka hörde till den.",
+      "people": [],
+      "places": [
+        "Smedsbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Eriksson Smed",
+      "place": "Smedsbacka",
+      "relation": "owned",
+      "startYear": 1610
+    }
+  ],
+  "images": [],
+  "contentHash": "fd1303f0dd3d5a9b31d505e20c0ea77a40a9ec759bb53dce1faaa01e90911324",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

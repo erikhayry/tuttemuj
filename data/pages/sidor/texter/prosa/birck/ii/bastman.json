@@ -1,0 +1,103 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/bastman.htm",
+  "title": "Apotekare Bastman i Nykarleby stads historia del II av Erik Birck",
+  "summary": "Apotekare Adrian Reinhold Bastman, född 1797, var den originellaste av stadens apotekare. Han fick apotekets privilegium 1829 och gifte sig 1826 med en 71 år gammal förmögen kvinna, som han hemförde i täckt vagn och höll gömd för nyfikna stadsbor.",
+  "topics": [
+    "apotekare",
+    "Bastman",
+    "Nykarlebyfamiljer"
+  ],
+  "people": [
+    {
+      "name": "Adrian Reinhold Bastman",
+      "alternateNames": [],
+      "birthYear": 1797,
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Brita Beata Hedersvärd",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby apotek",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "apotek"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Bastman gifter sig",
+      "date": {
+        "year": 1826,
+        "month": 12,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Apotekare Bastman gifte sig med den 71-åriga Brita Beata Hedersvärd, som hade en viss förmögenhet.",
+      "people": [
+        "Adrian Reinhold Bastman",
+        "Brita Beata Hedersvärd"
+      ],
+      "places": []
+    },
+    {
+      "title": "Bastman får apoteksprivilegium",
+      "date": {
+        "year": 1829,
+        "month": 11,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Adrian Reinhold Bastman fick privilegium på apoteket i Nykarleby.",
+      "people": [
+        "Adrian Reinhold Bastman"
+      ],
+      "places": [
+        "Nykarleby apotek"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Apotekaren Bastman gifter sig med en 71-årig förmögen kvinna och kör hem henne i täckt vagn. Stadens herrar samlas utanför för att få se bruden, men porten slås igen framför deras näsor.",
+    "reason": "Scenen med nyfikna män och den stängda porten är komisk och visuell.",
+    "characters": [
+      "Adrian Reinhold Bastman",
+      "Brita Beata Hedersvärd"
+    ],
+    "places": [
+      "Nykarleby apotek"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Adrian Reinhold Bastman",
+      "place": "Nykarleby apotek",
+      "relation": "ran",
+      "startYear": 1829
+    }
+  ],
+  "images": [],
+  "contentHash": "d8b5f4d5c6a1e917d30f37b862949a7d2366ce3e5e868aaa06c0a068cba1b658",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

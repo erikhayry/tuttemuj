@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/npld50/02npld50.htm",
+  "title": "II. Geografisk översikt i Nykarleby provinsialläkardistrikt. En 50-års berättelse 1870-1920 (1924) av Woldemar Backman",
+  "summary": "Geografisk översikt över Nykarleby provinsialläkardistrikt, som ligger i södra Österbotten och har formen av en triangel med kusten som bas. Distriktet omfattar 3419 kvadratkilometer och kommuner från Nykarleby och Munsala till Lappo och Nurmo.",
+  "topics": [
+    "geografi",
+    "distrikt",
+    "kommuner"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby provinsialläkardistrikt",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby landskommun",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "b319eecef087fc21a26687a317ec19a823fad95de09677ebb4cc1ebf0176d86a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

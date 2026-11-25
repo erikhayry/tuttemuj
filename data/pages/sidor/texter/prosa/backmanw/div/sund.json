@@ -1,0 +1,72 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/sund.htm",
+  "title": "Några äldre, ännu i staden levande Nykarlebysläkter. I. Sund av Woldemar Backman",
+  "summary": "Släktutredning av Woldemar Backman om släkten Sund i Nykarleby. Det fanns minst fyra obesläktade Sund-släkter, och den äldsta började med borgaren Johan Carlsson Sund, som fanns i staden från 1720-talet.",
+  "topics": [
+    "släktforskning",
+    "Sund",
+    "Nykarleby släkter"
+  ],
+  "people": [
+    {
+      "name": "Johan Carlsson Sund",
+      "alternateNames": [],
+      "deathYear": 1756,
+      "roles": [
+        "borgare"
+      ]
+    },
+    {
+      "name": "Henrik Johansson Sund",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Johan Abrahamson Sund",
+      "alternateNames": [],
+      "birthYear": 1867,
+      "roles": [
+        "skomakare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jutbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "fa25d099a53f7fab7d0efc5d021727fe6fea3e8c7ff0bebec1ce0eb86321ec05",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

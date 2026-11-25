@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/klock/08-08.htm",
+  "title": "Tab. 8 Petter Persson Klockars i Nykarleby landskommuns kyrkoby. Hemman och släkt 1565-1935 av Woldemar Backman",
+  "summary": "Tabell 8 i Backmans Klockarsbok handlar om riksdagsmannen Petter Persson Klockars (1752–1814). Hans stora tvåvåningsgård skattade 1807 för 17 fönster, och sidan har en lista över hemmansbostäder i landskommunen efter antal fönster.",
+  "topics": [
+    "Klockars",
+    "riksdagsman",
+    "bostadsbyggnader",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Petter Persson Klockars",
+      "alternateNames": [
+        "Peter Persson Klockars",
+        "Per Persson Klockars"
+      ],
+      "birthYear": 1752,
+      "deathYear": 1814,
+      "roles": [
+        "riksdagsman",
+        "bonde"
+      ]
+    },
+    {
+      "name": "Jonas Kecklund",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Klockars",
+      "kind": "farm",
+      "alternateNames": [
+        "klockars i kyrkoby"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Petter Persson Klockars föds",
+      "date": {
+        "year": 1752,
+        "month": 5,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Petter Persson Klockars föddes på Klockars.",
+      "people": [
+        "Petter Persson Klockars"
+      ],
+      "places": [
+        "Klockars"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Petter Persson Klockars",
+      "place": "Klockars",
+      "relation": "born"
+    },
+    {
+      "person": "Petter Persson Klockars",
+      "place": "Klockars",
+      "relation": "died"
+    }
+  ],
+  "images": [],
+  "contentHash": "76eb6ff25ec7afc352afab672275d6cda361bcbfbd52f87e9e4662d41be4f28b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

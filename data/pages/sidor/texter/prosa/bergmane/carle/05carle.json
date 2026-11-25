@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/bergmane/carle/05carle.htm",
+  "title": "Kap. 5 i Några blad ur Carleborgs grefskaps historia 1652-59 av E. W. Bergman",
+  "summary": "Kapitlet om Ny Carleby trivialskola, som staden fick 1640. Skolan förföll på grund av bristande duglighet hos föreståndaren, och elevantalet sjönk efter hand.",
+  "topics": [
+    "trivialskola",
+    "skolväsende",
+    "Carleborgs grevskap"
+  ],
+  "people": [
+    {
+      "name": "Pehr Brahe",
+      "alternateNames": [],
+      "roles": [
+        "generalguvernör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Ny Carleby trivialskola",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1640
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden får trivialskola",
+      "date": {
+        "year": 1640,
+        "circa": false
+      },
+      "description": "Ny Carleby stad fick en trivialskola, som generalguvernör Pehr Brahe understödde med anslag från närliggande socknar.",
+      "people": [
+        "Pehr Brahe"
+      ],
+      "places": [
+        "Ny Carleby trivialskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "3232069393cbf73f42542393813781f22f823cd3baaf6547b517b8314b40df58",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

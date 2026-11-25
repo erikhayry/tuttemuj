@@ -1,0 +1,71 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/nsp/03nsphb.htm",
+  "title": "3. Handelsborgare 1800-1857 i Nykarleby stads personhistoria. Borgare och borgarsläkter 1721-1857 av Woldemar Backman",
+  "summary": "Förteckning över Nykarlebys handelsborgare 1800–1857 efter släktnamn, med levnadsdata, yrken, gårdar och familjer. Matts Ahlund var hökare och rådman, och bröderna Backman kom från Stockholm via Brahestad.",
+  "topics": [
+    "handelsborgare",
+    "släktforskning",
+    "Nykarleby stad"
+  ],
+  "people": [
+    {
+      "name": "Matts Ahlund",
+      "alternateNames": [],
+      "birthYear": 1780,
+      "deathYear": 1846,
+      "roles": [
+        "hökare",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Reinhold Vilhelm Backman",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Carl Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kristian Backman",
+      "alternateNames": [],
+      "deathYear": 1772,
+      "roles": [
+        "sjökapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brahestad",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "580350f6130c296884de86d6dcabaf25470a66fe146e1033c69942694972dd3a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

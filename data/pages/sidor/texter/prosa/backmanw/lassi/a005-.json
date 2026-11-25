@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/lassi/a005-.htm",
+  "title": "A. Susanna Jakobsdotter Lassila och Erik Jönsson och dessas avkomlingar i Lassila i Kovjoki by av Nykarleby landskommun av Woldemar Backman",
+  "summary": "Släktgren A i Backmans Lassilabok: avkomlingarna till Susanna Jakobsdotter Lassila och Erik Jönsson. De behöll sin hemmansdel i sex led tills den såldes 1856, och grenen tog namnet Asplund efter platsen Aspnabba.",
+  "topics": [
+    "Lassila",
+    "Kovjoki",
+    "släktforskning",
+    "släkttabeller"
+  ],
+  "people": [
+    {
+      "name": "Susanna Jakobsdotter Lassila",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Jönsson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Matts Vesterlund",
+      "alternateNames": [],
+      "roles": [
+        "köpare från Purmo"
+      ]
+    },
+    {
+      "name": "Erik Eriksson Asplund",
+      "alternateNames": [],
+      "deathYear": 1868,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lassila",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Aspnabba",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Lukus",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Hemmansdelen säljs",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "description": "Släktgrenens hemmansdel på Lassila såldes till Matts Vesterlund från Purmo.",
+      "people": [
+        "Matts Vesterlund"
+      ],
+      "places": [
+        "Lassila"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "427b2f5926ca31f6acf498a2668f444d709e455a5f2a7464deb4ac1b889f6495",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

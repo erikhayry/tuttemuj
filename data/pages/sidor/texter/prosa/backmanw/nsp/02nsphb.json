@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/nsp/02nsphb.htm",
+  "title": "2. Handelsborgare 1721-1799 i Ett bidrag till Nykarleby stads personhistoria. Borgare och borgarsläkter 1721-1857 av Woldemar Backman",
+  "summary": "Förteckning över Nykarlebys handelsborgare 1721–1799, ordnade efter släktnamn, med födelse-, vigsel- och dödsuppgifter. Bland dem Fredrik Ahtman, handlande som dog 1783, och Erik Aspegren, handlande 1722.",
+  "topics": [
+    "handelsborgare",
+    "släktforskning",
+    "Nykarleby stad"
+  ],
+  "people": [
+    {
+      "name": "Fredrik Ahtman",
+      "alternateNames": [
+        "Fredrik Achtman"
+      ],
+      "birthYear": 1754,
+      "deathYear": 1783,
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Erik Aspegren",
+      "alternateNames": [],
+      "birthYear": 1698,
+      "deathYear": 1766,
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "8f5b105d0cf01f839316a97a233f39714ea192dcd5162bd836da8087f29ceaca",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

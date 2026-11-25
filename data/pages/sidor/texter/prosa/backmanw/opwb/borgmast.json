@@ -1,0 +1,92 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/borgmast.htm",
+  "title": "Nykarleby stads borgmästare 1620-1925 av Woldemar Backman",
+  "summary": "Kronologisk förteckning över Nykarleby stads borgmästare från grundläggningen 1620 till 1925, med korta biografier. Första borgmästare var Gabriel Ljungson 1620–1629, och förteckningen är tillägnad den dåvarande borgmästaren Carl Stenfors.",
+  "topics": [
+    "borgmästare",
+    "stadsförvaltning",
+    "magistrat"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Ljungson",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Didrich Spikernagel",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Joseph Jakobsson Munselius",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Carl Stenfors",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby stad grundas",
+      "date": {
+        "year": 1620,
+        "month": 9,
+        "day": 7,
+        "circa": false
+      },
+      "description": "Nykarleby stad grundades, och en borgmästare och magistrat ställdes i spetsen för förvaltningen.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "b3d29e6d515d3d4cc3bcc5d141fb05a0d61f7a138d2b8c9db2b50ca5d2e092bf",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

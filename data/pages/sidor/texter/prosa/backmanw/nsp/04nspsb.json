@@ -1,0 +1,79 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/nsp/04nspsb.htm",
+  "title": "4. Skepparborgare 1721-1799 i Ett bidrag till Nykarleby stads personhistoria. Borgare och borgarsläkter 1721-1857 av Woldemar Backman",
+  "summary": "Förteckning över Nykarlebys skepparborgare 1721–1799 efter släkt. Släkten Ahlström har bott i staden sedan mitten av 1700-talet, och sex av dess medlemmar var skeppare.",
+  "topics": [
+    "skepparborgare",
+    "sjöfart",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Pär Jöransson Ahlström",
+      "alternateNames": [
+        "Petter Jöransson Ahlström"
+      ],
+      "birthYear": 1714,
+      "roles": []
+    },
+    {
+      "name": "Erik Ahlström",
+      "alternateNames": [],
+      "birthYear": 1740,
+      "deathYear": 1787,
+      "roles": [
+        "styrman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ytterjeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.44318990000001,
+        "lng": 22.5643332,
+        "match": "name",
+        "gazetteerName": "ytterjeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Erik Ahlström drunknar",
+      "date": {
+        "year": 1787,
+        "circa": false
+      },
+      "description": "Styrman Erik Ahlström drunknade nära Stockholm.",
+      "people": [
+        "Erik Ahlström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "e237414fae948fadb9d290ef1832c81dd89c71bf90dfae2e7e2e676d13aaeb8d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

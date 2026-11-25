@@ -24,6 +24,14 @@
       "kind": "building",
       "alternateNames": [],
       "description": "Brovaktarens bostad; i dag sommarkafé i stadens ägo, känt för sina väggmålningar.",
+      "uses": [
+        {
+          "use": "brovaktarbostad"
+        },
+        {
+          "use": "sommarcafé"
+        }
+      ],
       "geo": {
         "lat": 63.522469,
         "lng": 22.5233788,
@@ -87,6 +95,25 @@
       "Bron över älven"
     ]
   },
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brostugan",
+        "Bron över älven"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T22:17:24.664Z"
+    }
+  ],
   "contentHash": "7f06f81593dff3e9f71b97442813fb3d0437771b240a70c04f89a3d938fc1acc",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

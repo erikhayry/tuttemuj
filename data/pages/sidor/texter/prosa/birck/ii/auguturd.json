@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/auguturd.htm",
+  "title": "Augusta Turdin och Carl Rosenkampff i Nykarleby stads historia del II av Erik Birck",
+  "summary": "Erik Birck berättar om mamsell Augusta Turdin i Nykarleby och hennes giftermål med baron Carl Rosenkampff, som var 16 år äldre. Småstadsskvallret trodde att baronen gifte sig med henne för att hon skulle vara rik.",
+  "topics": [
+    "Nykarlebyfamiljer",
+    "Turdin",
+    "Rosenkampff",
+    "skvaller"
+  ],
+  "people": [
+    {
+      "name": "Augusta Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Rosenkampff",
+      "alternateNames": [],
+      "roles": [
+        "baron"
+      ]
+    },
+    {
+      "name": "Brita Stina Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Brita Alexandra Gyllenberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Mamsell Augusta Turdin ska gifta sig med en baron 16 år äldre. Skvallret går i staden om att han bara vill ha hennes förmögenhet, medan en liten flicka får kika på bruden i brudkammaren.",
+    "reason": "Förväntningar, rykten och en liten flickas perspektiv ger ett charmigt kammarspel.",
+    "characters": [
+      "Augusta Turdin",
+      "Carl Rosenkampff",
+      "Brita Alexandra Gyllenberg"
+    ],
+    "places": []
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "967eb129b0a5a2fc09cf5869fc85caf6d2219b643b9769f97f6e1a089e9a11ac",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

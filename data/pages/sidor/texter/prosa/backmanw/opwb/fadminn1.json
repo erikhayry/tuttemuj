@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/fadminn1.htm",
+  "title": "Till min faders minne I av Woldemar Backman",
+  "summary": "Woldemar Backman minns sin far Herman Backman, född 1840 på Harald hemman i Forsby. Som fattig pojke blev han sjöman redan vid tio års ålder och tog styrmansexamen i Borgå 1858, skeppsexamen 1862 och ångbåtsbefälhavarexamen 1878.",
+  "topics": [
+    "sjömän",
+    "minnesruna",
+    "Forsby",
+    "Herman Backman"
+  ],
+  "people": [
+    {
+      "name": "Herman Backman",
+      "alternateNames": [],
+      "birthYear": 1840,
+      "roles": [
+        "sjöman",
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Anna Charlotta",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1900,
+      "roles": []
+    },
+    {
+      "name": "Christina Sofia Wacklin",
+      "alternateNames": [],
+      "roles": [
+        "änka"
+      ]
+    },
+    {
+      "name": "Reinhold Vilhelm Backman",
+      "alternateNames": [],
+      "birthYear": 1769,
+      "deathYear": 1832,
+      "roles": [
+        "sjökapten",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Jakob Johan Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "rådman",
+        "sjökapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Harald",
+      "kind": "farm",
+      "alternateNames": [
+        "Haralds hemman"
+      ],
+      "description": "Hemman i Forsby."
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Karkaus",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Herman Backman föds",
+      "date": {
+        "year": 1840,
+        "month": 9,
+        "day": 25,
+        "circa": false
+      },
+      "description": "Herman Backman föddes på Harald hemman i Forsby.",
+      "people": [
+        "Herman Backman"
+      ],
+      "places": [
+        "Harald"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Herman Backman",
+      "place": "Harald",
+      "relation": "born",
+      "startYear": 1840,
+      "endYear": 1840
+    },
+    {
+      "person": "Jakob Johan Kerrman",
+      "place": "Harald",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "0136727862f427e30d238df3170f5177c532f6fea2eb084187f679f7b314cd8a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

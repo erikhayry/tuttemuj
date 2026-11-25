@@ -1,0 +1,95 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/agobytel.htm",
+  "title": "Ägobyte med landskommunen i Nykarleby stads historia del II av Erik Birck",
+  "summary": "För att genomföra den nya stadsplanen efter branden gjordes 1859 ett ägobyte med kyrkoherdebolet i Nykarleby socken. Förrättningen hölls 27 oktober 1859 under vicelantmätare C. E. Müller, med prosten Christoffer Kullman och borgmästare Montin närvarande.",
+  "topics": [
+    "stadsplan",
+    "ägobyte",
+    "efter branden"
+  ],
+  "people": [
+    {
+      "name": "C. E. Müller",
+      "alternateNames": [],
+      "roles": [
+        "vicelantmätare"
+      ]
+    },
+    {
+      "name": "Christoffer Kullman",
+      "alternateNames": [],
+      "roles": [
+        "prost"
+      ]
+    },
+    {
+      "name": "A. W. Montin",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Edelfelt",
+      "alternateNames": [],
+      "roles": [
+        "länsarkitekt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Guvernören fastställer ägobyte",
+      "date": {
+        "year": 1859,
+        "month": 9,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Guvernören i Vasa län fastställde att ett ägobyte med kyrkoherdebolet skulle ske för att förverkliga stadens nya plan.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Ägobytet förrättas",
+      "date": {
+        "year": 1859,
+        "month": 10,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Vicelantmätare Müller verkställde ägobytet mellan staden och kyrkoherdebolet.",
+      "people": [
+        "C. E. Müller"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "dd3f567df92d0947b920b6db730dfaaabbe942c673f830b069f95436d11a9268",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

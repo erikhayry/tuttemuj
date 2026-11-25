@@ -1,0 +1,105 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/rikssven/03forsbe.htm",
+  "title": "Forsberg m.fl. i Bidrag till kännedom om det rikssvenska inslaget i Nykarleby stads befolkning på 1700- och förra hälften av 1800-talet av Woldemar Backman",
+  "summary": "Släkten Forsberg i Nykarleby härstammar från Uppsala. Skomakaren Karl Johan Forsberg, född 1812, kom som sjöman till Finland, rymde från fartyget och slog sig ned i Nykarleby 1835. Hans mor ska enligt egen uppgift ha sagt att fadern var kronprinsen Bernadotte.",
+  "topics": [
+    "rikssvenskar",
+    "släktforskning",
+    "Forsberg"
+  ],
+  "people": [
+    {
+      "name": "Karl Johan Forsberg",
+      "alternateNames": [],
+      "birthYear": 1812,
+      "roles": [
+        "skomakare",
+        "sjöman",
+        "torpare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Forsberg bosätter sig i Nykarleby",
+      "date": {
+        "year": 1835,
+        "circa": false
+      },
+      "description": "Karl Johan Forsberg rymde från ett svenskt fartyg och slog sig ned i Nykarleby som skomakare.",
+      "people": [
+        "Karl Johan Forsberg"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Forsberg flyttar till Smedsbacka",
+      "date": {
+        "year": 1845,
+        "circa": false
+      },
+      "description": "Karl Johan Forsberg flyttade till Smedsbacka i Nykarleby landskommun som torpare.",
+      "people": [
+        "Karl Johan Forsberg"
+      ],
+      "places": [
+        "Smedsbacka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ung svensk skomakare rymmer från ett fartyg i Finland och bosätter sig i Nykarleby. Hans mor har hävdat att hans far var Sveriges kronprins.",
+    "reason": "Rymlingen med osäker kunglig härkomst ger en intressant bakgrundshistoria för en serie.",
+    "characters": [
+      "Karl Johan Forsberg"
+    ],
+    "places": [
+      "Nykarleby"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Karl Johan Forsberg",
+      "place": "Smedsbacka",
+      "relation": "lived",
+      "startYear": 1845
+    }
+  ],
+  "images": [],
+  "contentHash": "73113828085d2bcddccd7f99ea5329965a410fe948e46f9e9dad7b097a78cfc1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

@@ -1,0 +1,64 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/0bildf02.htm",
+  "title": "Bildförteckning till Nykarleby stads historia del II av Erik Birck",
+  "summary": "Innehållsförteckning…över bilderna i Erik Bircks Nykarleby stads historia del II, med bildtexter och källor, bland annat Lauvergnes teckning av staden 1839 och torget före branden.",
+  "topics": [
+    "bildförteckning",
+    "Nykarleby stads historia"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Greta Schalin",
+      "alternateNames": [],
+      "roles": [
+        "tecknare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby torg",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "menu",
+  "relations": [],
+  "images": [],
+  "contentHash": "39f48f1a74959ad5ea2b01c0dd3d2b4f6649f9a79404b7d51bae9a79f6b967df",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

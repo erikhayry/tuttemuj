@@ -1,0 +1,50 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/1873arsp.htm",
+  "title": "1873 års polisordning i Nykarleby stads historia del II av Erik Birck",
+  "summary": "Efter stadsbranden fick Nykarleby en ny polisordning, som guvernören fastställde 30 april 1873. Den påminde mycket om den gamla, men ny var bland annat regeln att granris från begravningar skulle sopas bort före middagen nästa dag.",
+  "topics": [
+    "polisordning",
+    "ordning",
+    "stadsförvaltning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny polisordning fastställs",
+      "date": {
+        "year": 1873,
+        "month": 4,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Guvernören fastställde en ny polisordning för Nykarleby stad efter branden.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "0cc3a2d210258a1a60a850840fa6247269e1eae9922a403fb2fae3c85e3725d1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

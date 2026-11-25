@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/nuvaslakt.htm",
+  "title": "Nuvarande Nykarleby-släkter med anor från tiden för Stora ofreden av Woldemar Backman",
+  "summary": "Woldemar Backman undersöker 1942 vilka Nykarlebysläkter som har anor från tiden före och under stora ofreden. Många flydde då och återvände aldrig, och han pekar ut fyra släkter som lever kvar, bland dem Forssén.",
+  "topics": [
+    "stora ofreden",
+    "släktforskning",
+    "Nykarleby släkter"
+  ],
+  "people": [
+    {
+      "name": "Agnes Forssén",
+      "alternateNames": [],
+      "birthYear": 1856,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stora ofreden når Österbotten",
+      "date": {
+        "year": 1714,
+        "circa": false
+      },
+      "description": "Efter nederlaget vid Napo by i Storkyro kom Österbotten i början av 1714 i direkt kontakt med kriget, och stora ofreden började.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Freden i Nystad",
+      "date": {
+        "year": 1721,
+        "circa": false
+      },
+      "description": "Freden i Nystad slöts och avslutade stora ofreden.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "8a2e72d4020b7b544188ba75ebda6b3417fee52fe12a94d50a381030d1e86c14",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

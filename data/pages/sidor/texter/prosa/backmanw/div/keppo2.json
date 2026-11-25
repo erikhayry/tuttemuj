@@ -1,0 +1,184 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/keppo2.htm",
+  "title": "Hemmanets natur, mantal, namn m.m. Keppo gård av Woldemar Backman",
+  "summary": "Woldemar Backman beskriver Keppo gård i Jeppo 1944: markens areal, skogen, parcelleringarna 1907, byggnaderna och jordbruket. Sidan följer ägarna från von Essen till Schauman och folkhögskolan. Branden 1869 förstörde sågen och gårdsbyggnaderna.",
+  "topics": [
+    "Keppo gård",
+    "jordbruk",
+    "skogsbruk",
+    "parcellering",
+    "gårdshistoria"
+  ],
+  "people": [
+    {
+      "name": "Otto von Essen",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Keppo"
+      ]
+    },
+    {
+      "name": "Otto Henrik von Essen",
+      "alternateNames": [],
+      "roles": [
+        "son till Otto von Essen"
+      ]
+    },
+    {
+      "name": "Hugo Grönlund",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Viktor Schauman",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Keppo"
+      ]
+    },
+    {
+      "name": "Johan Wilhelm Snellman",
+      "alternateNames": [],
+      "roles": [
+        "svåger till Otto von Essen"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppo gård",
+      "kind": "farm",
+      "alternateNames": [
+        "Keppo"
+      ],
+      "description": "Gård på en holme i Jeppo.",
+      "uses": [
+        {
+          "use": "jordbruk"
+        },
+        {
+          "use": "sågverk"
+        }
+      ],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Keppo fors",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Fällan",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Tollikko",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Storskiftet i Jeppo slutfört",
+      "date": {
+        "year": 1807,
+        "circa": false
+      },
+      "description": "Storskiftet i Jeppo slutfördes, och en komplettering gjordes 1882.",
+      "people": [],
+      "places": [
+        "Jeppo"
+      ]
+    },
+    {
+      "title": "Parcellering av Keppo",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "description": "Större delen av Keppos odlade mark avsöndrades i 20 parceller sedan firman Wilhelm Schauman övertagit hemmanet.",
+      "people": [],
+      "places": [
+        "Keppo gård"
+      ]
+    },
+    {
+      "title": "Eld i sågen",
+      "date": {
+        "year": 1869,
+        "month": 8,
+        "circa": false
+      },
+      "description": "I augusti 1869 brann sågen på Keppo ned tillsammans med brädgårdar och karaktärsbyggnad.",
+      "people": [],
+      "places": [
+        "Keppo gård"
+      ]
+    },
+    {
+      "title": "Otto von Essen tar gården i besittning",
+      "date": {
+        "year": 1838,
+        "circa": false,
+        "text": "slutet av 1838"
+      },
+      "description": "Otto von Essen flyttade med sin unga maka till Keppo och bröt därmed den 80-åriga traditionen med ägare som inte bodde på gården.",
+      "people": [
+        "Otto von Essen"
+      ],
+      "places": [
+        "Keppo gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Otto von Essen",
+      "place": "Keppo gård",
+      "relation": "lived",
+      "startYear": 1838
+    },
+    {
+      "person": "Viktor Schauman",
+      "place": "Keppo gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "9b949d24265f87caa64312d25c23113da374827f0cd7c0e98ab4260390f87dcd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

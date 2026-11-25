@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/halsokal2.html",
+  "title": "Nykarleby hälsokälla och Brunnsholmarna II av Woldemar Backman",
+  "summary": "Andra delen om hälsokällan och Brunnsholmarna: 1875 gjordes ett sista försök att rädda källan åt staden, när ägaren till Nygård ville bygga ett garveri där. Garveriet byggdes, och bara byggnaderna på holmarna övergick i stadens ägo.",
+  "topics": [
+    "hälsokälla",
+    "Brunnsholmarna",
+    "garveri",
+    "rådhusstämma"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby hälsokälla",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Holmar vid hälsokällan med hus för bad- och brunnsinrättning och restaurang.",
+      "uses": [
+        {
+          "use": "restaurang"
+        }
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhusstämma om Brunnsholmarna",
+      "date": {
+        "year": 1875,
+        "month": 10,
+        "day": 6,
+        "circa": false
+      },
+      "description": "En rådhusstämma beslöt att staden skulle försöka lösa in Brunnsholmarna, men ägaren till Nygård byggde ändå ett garveri vid hälsokällan.",
+      "people": [],
+      "places": [
+        "Brunnsholmarna",
+        "Nygård",
+        "Nykarleby hälsokälla"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "16905d6f6a6ad7d575dc5fc65223e2518b13527d792e8be225911f956d3888a1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

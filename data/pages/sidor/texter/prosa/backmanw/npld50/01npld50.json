@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/npld50/01npld50.htm",
+  "title": "I. Distriktets uppkomst och omfattning i Nykarleby provinsialläkardistrikt. En 50-års berättelse 1870-1920 (1924) av Woldemar Backman",
+  "summary": "Kapitlet beskriver hur provinsialläkardistrikten i Finland växte fram. Den första provinsialläkartjänsten inrättades 1749 för hela Österbotten med Vasa som station, och tjänsten gick i tre led från far till son i släkten Hast.",
+  "topics": [
+    "provinsialläkare",
+    "sjukvård",
+    "distriktsindelning"
+  ],
+  "people": [
+    {
+      "name": "Barthold Rudolf Hast",
+      "alternateNames": [],
+      "deathYear": 1784,
+      "roles": [
+        "provinsialläkare"
+      ]
+    },
+    {
+      "name": "Herman Henrik Hast",
+      "alternateNames": [],
+      "deathYear": 1749,
+      "roles": [
+        "landsfältskär i Österbotten"
+      ]
+    },
+    {
+      "name": "Herman Rudolf Hast",
+      "alternateNames": [],
+      "deathYear": 1821,
+      "roles": [
+        "provinsialläkare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Vasa",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Första provinsialläkartjänsten inrättas",
+      "date": {
+        "year": 1749,
+        "circa": false
+      },
+      "description": "Den första provinsialläkartjänsten i landet inrättades för hela Österbotten med Vasa som bostadsort.",
+      "people": [
+        "Barthold Rudolf Hast"
+      ],
+      "places": [
+        "Vasa"
+      ]
+    },
+    {
+      "title": "Distriktet delas i en norra och en södra hälft",
+      "date": {
+        "year": 1773,
+        "circa": false
+      },
+      "description": "Österbottens provinsialläkardistrikt delades i en nordlig och en sydlig hälft, med Uleåborg som station för den norra.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "459da09c907d44e283aeaf48e3acbf34c6f3ac07cf8c28e5861c88084f158f66",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

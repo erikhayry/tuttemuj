@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/klock/09-.htm",
+  "title": "Tab. 9-50 i Klockars i Nykarleby landskommuns kyrkoby. Nykarleby landskommuns kyrkoby. Hemman och släkt 1565-1935 av Woldemar Backman",
+  "summary": "Släkttabellerna 9–50 i Backmans Klockarsbok med släktens första gren, med födelse-, vigsel- och dödsdata. Bland annat nämndemannen Johan Persson Klockars (1773–1827), som drunknade i Nykarleby älv.",
+  "topics": [
+    "Klockars",
+    "släktforskning",
+    "släkttabeller"
+  ],
+  "people": [
+    {
+      "name": "Johan Persson Klockars",
+      "alternateNames": [],
+      "birthYear": 1773,
+      "deathYear": 1827,
+      "roles": [
+        "nämndeman",
+        "bonde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Klockars",
+      "kind": "farm",
+      "alternateNames": [
+        "klockars i kyrkoby"
+      ]
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Johan Persson Klockars",
+      "place": "Klockars",
+      "relation": "born"
+    },
+    {
+      "person": "Johan Persson Klockars",
+      "place": "Klockars",
+      "relation": "died"
+    }
+  ],
+  "images": [],
+  "contentHash": "58b184bd3d6e987a20be8e428d183d77480f066d0bd2df11f148c7104a63604b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

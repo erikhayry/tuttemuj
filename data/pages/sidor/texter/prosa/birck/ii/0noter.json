@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/0noter.html",
+  "title": "Noter till Nykarleby stads historia del II av Erik Birck",
+  "summary": "Noter till Erik Bircks Nykarleby stads historia del II, ordnade efter bokens 18 kapitel från gamla staden och borgerskapet till branden och folkmängden 1810–1880.",
+  "topics": [
+    "noter",
+    "Nykarleby stads historia"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "be763926c43ec99acf033a3fc84c60fefaafe4f0c78d38a42095163fcac4cb11",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

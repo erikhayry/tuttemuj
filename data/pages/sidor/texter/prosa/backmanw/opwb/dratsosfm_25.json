@@ -1,0 +1,82 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/opwb/dratsosfm_25.html",
+  "title": "Tvenne jubileer. Drätselkammaren 50 år och Stadsfullmäktige 40 år av Woldemar Backman i Österbottniska Posten 1925",
+  "summary": "Woldemar Backman tecknar 1925 historien om Nykarlebys stadsfullmäktige och drätselkammare. Fullmäktige infördes genom en förordning 1873, men staden valde 1874 att behålla det gamla rådhusstämmosystemet.",
+  "topics": [
+    "stadsfullmäktige",
+    "drätselkammare",
+    "kommunalförvaltning"
+  ],
+  "people": [
+    {
+      "name": "Kr. Fr. Forsius",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "F. W. Sundwall",
+      "alternateNames": [],
+      "roles": [
+        "seminariedirektor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhusstämma om stadsfullmäktige",
+      "date": {
+        "year": 1874,
+        "month": 12,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Vid en allmän rådhusstämma i Nykarleby beslöts att behålla det gamla representationssättet i stället för att införa stadsfullmäktige.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Inlaga om kommunalförvaltningen",
+      "date": {
+        "year": 1879,
+        "month": 6,
+        "day": 4,
+        "circa": false
+      },
+      "description": "En inlaga undertecknad av doktor Forsius och seminariedirektor Sundwall föredrogs inför magistraten.",
+      "people": [
+        "Kr. Fr. Forsius",
+        "F. W. Sundwall"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "ef7dc59c0008d283422092e4409fb347af090f7808860b894fc32d73c1396e1c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

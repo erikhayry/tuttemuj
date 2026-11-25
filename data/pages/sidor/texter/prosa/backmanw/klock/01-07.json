@@ -1,0 +1,89 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/klock/01-07.htm",
+  "title": "Klockars i Nykarleby landskommuns kyrkoby. Hemman och släkt 1565-1935 av Woldemar Backman",
+  "summary": "Inledningen till Woldemar Backmans bok om Klockars hemman, vars gårdar ligger i en klunga cirka 4 km söder om Nykarleby stad. Sidan berättar om hemmanets namn och skatteförhållanden och att det delades 1760.",
+  "topics": [
+    "Klockars",
+    "hemman",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Nils Klockare",
+      "alternateNames": [],
+      "roles": [
+        "äldsta kände ägare"
+      ]
+    },
+    {
+      "name": "Per Hindersson",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Klockars"
+      ]
+    },
+    {
+      "name": "Uriel Henrikson",
+      "alternateNames": [],
+      "roles": [
+        "studerande",
+        "redaktionssekreterare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Klockars",
+      "kind": "farm",
+      "alternateNames": [
+        "Perhinders",
+        "klockars i kyrkoby"
+      ],
+      "description": "Hemman i Nykarleby landskommuns kyrkoby, cirka 4 km söder om Nykarleby stad.",
+      "nameOrigin": "Det officiella namnet kommer av den äldsta kände ägaren Nils Klockare; i dagligt tal kallas gården Perhinders efter Per Hindersson."
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Klockars återgår till skatte",
+      "date": {
+        "year": 1760,
+        "month": 7,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Klockars hemman inlöstes åter till skattehemman och delades samma år mellan bröder.",
+      "people": [],
+      "places": [
+        "Klockars"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Per Hindersson",
+      "place": "Klockars",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "17c4fc37efba9b3003406e085f66f8b1bf19b648cddf51001238beb303c936c6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

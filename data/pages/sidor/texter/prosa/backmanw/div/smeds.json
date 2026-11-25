@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/backmanw/div/smeds.htm",
+  "title": "Smeds i Soklot. Hemman och släkt av Woldemar Backman",
+  "summary": "Woldemar Backman skriver om hemmanet Smeds, den nordligaste gården i Soklot by, och släkten som bott där. Hemmanet bildades av två hemman som slogs ihop 1690, och efter stora ofreden togs det upp 1722 av Johan Mattsson, stamfader till flera släkter.",
+  "topics": [
+    "Smeds",
+    "Soklot",
+    "hemman",
+    "släktforskning"
+  ],
+  "people": [
+    {
+      "name": "Johan Mattsson",
+      "alternateNames": [],
+      "deathYear": 1761,
+      "roles": [
+        "stamfader",
+        "bonde på Smeds"
+      ]
+    },
+    {
+      "name": "Knut Isaksson",
+      "alternateNames": [],
+      "roles": [
+        "ägare av Smeds"
+      ]
+    },
+    {
+      "name": "Per Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Isak Månsson",
+      "alternateNames": [],
+      "roles": [
+        "husbonde på Smeds"
+      ]
+    },
+    {
+      "name": "Hugo Lagström",
+      "alternateNames": [],
+      "roles": [
+        "magister"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Smeds",
+      "kind": "farm",
+      "alternateNames": [
+        "Smeds i Soklot",
+        "Per Ers Smeds"
+      ],
+      "description": "Hemman nummer 20, den nordligaste gården i Soklot by, vid gränsen mot Pedersöre."
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Smeds upptas på nytt",
+      "date": {
+        "year": 1722,
+        "circa": false
+      },
+      "description": "Efter stora ofreden togs hemmanet Smeds upp av Johan Mattsson.",
+      "people": [
+        "Johan Mattsson"
+      ],
+      "places": [
+        "Smeds"
+      ]
+    },
+    {
+      "title": "Smeds delas",
+      "date": {
+        "year": 1761,
+        "circa": false
+      },
+      "description": "Smeds hemman delades mellan Johan Mattssons söner efter hans död.",
+      "people": [
+        "Johan Mattsson"
+      ],
+      "places": [
+        "Smeds"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Mattsson",
+      "place": "Smeds",
+      "relation": "owned",
+      "startYear": 1722,
+      "endYear": 1761
+    }
+  ],
+  "images": [],
+  "contentHash": "8ee7f12db75b5d3bdc84ebfdb2c02a60bd084bf1246bcd0d869822dda9968ee4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}

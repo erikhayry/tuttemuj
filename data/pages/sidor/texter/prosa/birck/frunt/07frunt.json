@@ -1,0 +1,90 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/frunt/07frunt.htm",
+  "title": "Kapitel 7-9 i Fruntimmersskolan i Nykarleby, 1874-1909 av Erik Birck",
+  "summary": "Kapitlen om hur staden övertog flickskolan och Nykarleby samskola började 1896. Direktionen valdes, en instruktion godkändes av stadsfullmäktige 11 november 1896, och skolans gamla bibliotek gicks igenom.",
+  "topics": [
+    "Nykarleby samskola",
+    "Fruntimmersskolan",
+    "skolhistoria"
+  ],
+  "people": [
+    {
+      "name": "Nanna Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "direktionsmedlem"
+      ]
+    },
+    {
+      "name": "Bertha Myréen",
+      "alternateNames": [],
+      "roles": [
+        "direktionsmedlem"
+      ]
+    },
+    {
+      "name": "Mathilda Nessler",
+      "alternateNames": [],
+      "roles": [
+        "direktionsmedlem"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Fruntimmersskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Inrymdes en tid efter sekelskiftet i den Sundströmska, senare Holmströmska byggnaden vid kyrkan och bron.",
+      "uses": [
+        {
+          "use": "flickskola"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Instruktionen för samskolan godkänns",
+      "date": {
+        "year": 1896,
+        "month": 11,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige godkände instruktionen för den av staden övertagna flickskolan, Nykarleby samskola.",
+      "people": [],
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "7ecaf5f0cee66a051a4e9bcbcd9bbf75afcd80c5dfa74b456eadd05344125c16",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T22:15:36.576Z"
+}
