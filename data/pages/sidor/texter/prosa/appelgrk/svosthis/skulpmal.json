@@ -1,0 +1,56 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/appelgrk/svosthis/skulpmal.htm",
+  "title": "Om den skulpterade och målade inredningen i svenska Österbottens kyrkor av Kari Appelgren",
+  "summary": "Kari Appelgren beskriver den skulpterade och målade inredningen i Svenska Österbottens kyrkor, ur Svenska Österbottens historia del V. Texten går igenom altaruppsatser, predikstolar och belysning i ett drygt trettiotal kyrkor, bland dem Nykarleby.",
+  "topics": [
+    "kyrkokonst",
+    "kyrkoinredning",
+    "Österbotten"
+  ],
+  "people": [
+    {
+      "name": "Kari Appelgren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby får stadsrättigheter",
+      "date": {
+        "year": 1620,
+        "circa": false
+      },
+      "description": "Nykarleby grundades som stad 1620, samma år som Gamla Karleby, och fick en växande församling.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "1bd82415e975cd02edfa141b6b64a33828ef4e912e5d9d7c2048a6bfff1cfd43",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

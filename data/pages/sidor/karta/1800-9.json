@@ -90,6 +90,33 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Forsby",
+        "Bro",
+        "Bäck",
+        "Drakabacka",
+        "Lillberget",
+        "Lillollas",
+        "Mickelsbacka",
+        "Sorvist",
+        "Torp",
+        "Yrjäs"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "6c3388b2c1e5068cf24284b328ff182189e4a4d14198f2153dcb5468c7764efe",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

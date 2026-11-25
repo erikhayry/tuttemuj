@@ -1,0 +1,102 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/pe1865_2/herrskap.htm",
+  "title": "Herrskapstiden",
+  "summary": "Om herrskapstiden 1653–1674, då drottning Kristina delade ut Österbottens socknar som förläningar till adelsmän. Nykarleby, Lappo och Ilmola socknar gavs som grevskap åt Klas Tott den 20 mars 1652.",
+  "topics": [
+    "herrskapstiden",
+    "förläningar",
+    "1600-talet"
+  ],
+  "people": [
+    {
+      "name": "Kristina",
+      "alternateNames": [],
+      "roles": [
+        "drottning"
+      ]
+    },
+    {
+      "name": "Klas Tott",
+      "alternateNames": [],
+      "roles": [
+        "greve"
+      ]
+    },
+    {
+      "name": "Gabriel Bengtsson Oxenstierna",
+      "alternateNames": [],
+      "roles": [
+        "riksskattmästare"
+      ]
+    },
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [
+        "Nykarleby socken"
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Österbotten",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Herrskapstiden",
+      "date": {
+        "year": 1653,
+        "endYear": 1674,
+        "circa": false
+      },
+      "description": "Under herrskapstiden fanns Österbottens socknar som förläningar åt adelsmän.",
+      "people": [],
+      "places": [
+        "Österbotten"
+      ]
+    },
+    {
+      "title": "Nykarleby grevskap åt Klas Tott",
+      "date": {
+        "year": 1652,
+        "month": 3,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Drottning Kristina gav Nykarleby, Lappo och Ilmola socknar som grevskap åt Klas Tott.",
+      "people": [
+        "Kristina",
+        "Klas Tott"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "02bc2b2eddaab2345f21c679972dd37b6d88441b419d063a3ae00824ab052799",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

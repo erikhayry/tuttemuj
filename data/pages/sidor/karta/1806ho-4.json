@@ -66,6 +66,27 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Källbacken",
+        "Storgatan",
+        "Lilla Källgatan",
+        "Östra Lillgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "7513f81f870af898d161383d96ba12a82a9acdb341cf62328191fa68ee8b9027",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

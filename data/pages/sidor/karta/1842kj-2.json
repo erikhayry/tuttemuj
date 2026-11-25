@@ -58,6 +58,27 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Norra tull",
+        "Vägen till Gamlakarleby",
+        "Frillas hemman"
+      ],
+      "year": 1842
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "e00f2e0789424f3e7f9297a08fb4d2eb7ae124ea10845976a478b77e85125ca4",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

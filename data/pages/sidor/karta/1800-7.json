@@ -116,6 +116,34 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Vexala",
+        "Monäsfjärden",
+        "Munsala",
+        "Hummelholmen",
+        "Tärnishällan",
+        "Helsing",
+        "Klockars",
+        "Skrifvars",
+        "Bertila",
+        "Haga",
+        "Fogel"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "b02eac1c7697458d592ae240303d8da066319cf1bdb6a175f3b11269f5b295db",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

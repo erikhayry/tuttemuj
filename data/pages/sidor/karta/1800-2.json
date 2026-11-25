@@ -134,7 +134,15 @@
       "name": "Kubban",
       "kind": "other",
       "alternateNames": [],
-      "description": "Tidigare lotsstation, nu villaområde."
+      "description": "Tidigare lotsstation, nu villaområde.",
+      "uses": [
+        {
+          "use": "lotsstation"
+        },
+        {
+          "use": "villaområde"
+        }
+      ]
     },
     {
       "name": "Björkholmen",
@@ -301,6 +309,42 @@
       "Hummelskär"
     ]
   },
+  "pageType": "map",
+  "relations": [
+    {
+      "person": "Långholm",
+      "place": "Sandön",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Torsön",
+        "Fjäderholmarna",
+        "Granskär",
+        "Aspskär",
+        "Hummelskär",
+        "Lodöberget",
+        "Kubban",
+        "Björkholmen",
+        "Tjuvhällan",
+        "Sandön",
+        "Granholmen",
+        "Alön",
+        "Trutön"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "0bb2ecea7bf8c976fc5693400aa924a176ad833ca4a277be2fe2e29fa90dc538",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

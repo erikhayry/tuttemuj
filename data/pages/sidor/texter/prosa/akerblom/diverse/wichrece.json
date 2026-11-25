@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/wichrece.htm",
+  "title": "Nykarleby stad 1620-1920, recension av K.V. Åkerblom",
+  "summary": "K. V. Åkerblom recenserar direktor Wichmanns minnesskrift Nykarleby stad 1620–1920 och kompletterar den med rättelser. Han tar bland annat upp Nykarleby sockens bildande 1607–1610 och att stadens grundläggningsår 1617 saknar stöd i källorna.",
+  "topics": [
+    "bokrecension",
+    "Nykarleby stads historia",
+    "Nykarleby socken"
+  ],
+  "people": [
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "hembygdsforskare"
+      ]
+    },
+    {
+      "name": "W. K. E. Wichmann",
+      "alternateNames": [
+        "V. K. E. Wichmann"
+      ],
+      "roles": [
+        "direktor",
+        "historielärare"
+      ]
+    },
+    {
+      "name": "Karl IX",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ]
+    },
+    {
+      "name": "Isak Behm",
+      "alternateNames": [],
+      "roles": [
+        "landshövding"
+      ]
+    },
+    {
+      "name": "Filip Scheding",
+      "alternateNames": [],
+      "roles": [
+        "häradshövding"
+      ]
+    },
+    {
+      "name": "Jacobus Sigfridi Borgoensis",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [
+        "Nykarleby stad",
+        "Nykarleby socken"
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lappå by",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Pilgrimsfärd till Vadstena",
+      "date": {
+        "year": 1375,
+        "circa": true,
+        "text": "Omkring år 1375"
+      },
+      "description": "Tre personer från Lappå by vallfärdade till Vadstena kloster, där två av dem enligt berättelsen blev botade genom åkallan av den heliga Birgitta.",
+      "people": [],
+      "places": [
+        "Lappå by"
+      ]
+    },
+    {
+      "title": "Nykarleby socken bildas",
+      "date": {
+        "year": 1607,
+        "endYear": 1610,
+        "circa": false,
+        "text": "1607–1610"
+      },
+      "description": "Nykarleby socken bildades av byar från Vörå och Pedersöre efter att kungen låtit omreglera socknarna i Österbotten.",
+      "people": [
+        "Karl IX"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Stadsprivilegier",
+      "date": {
+        "year": 1620,
+        "month": 9,
+        "day": 7,
+        "circa": false
+      },
+      "description": "Nykarleby stad fick sina stadsprivilegier, medan uppgiften att staden grundades 1617 enligt Åkerblom saknar stöd.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "f652d73c55a2de788a41f28bc32442edb185ce365dda5ca02746c8e9ab4fa7ec",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

@@ -64,6 +64,32 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Jutas"
+      ],
+      "year": 1808
+    },
+    {
+      "image": 2,
+      "places": [
+        "Jutas"
+      ],
+      "year": 1808
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "5a7c5d8d865dd5d2d95d36e996c3b9f3c411f013ef46d70e17be8d438b777d81",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

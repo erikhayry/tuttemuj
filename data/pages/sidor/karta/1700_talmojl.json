@@ -16,7 +16,8 @@
       "kind": "island",
       "alternateNames": [
         "Kasagrundsbåk"
-      ]
+      ],
+      "nameOrigin": "Kartan har ett äldre namn på ön, Kasagrundsbåk."
     },
     {
       "name": "Markusholmen",
@@ -24,6 +25,7 @@
       "alternateNames": [
         "Björkskär"
       ],
+      "nameOrigin": "Kartan har ett äldre namn på holmen, Björkskär.",
       "geo": {
         "lat": 63.5303554,
         "lng": 22.4512775,
@@ -166,6 +168,41 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Tornskär",
+        "Markusholmen",
+        "Furuskärshällarna",
+        "Torsön",
+        "Hästskär",
+        "Djupsten",
+        "Lodön",
+        "Sandören",
+        "Hästbådan",
+        "Bådan",
+        "Stor Alörn",
+        "Lill Alörn",
+        "Rödklubben",
+        "Hargrundet",
+        "Kyrkogårdsskär",
+        "Laxörn",
+        "Långörn",
+        "Larsholmarna"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "af13e9e70dac2da11e3114b9185dab93492c76234ad7b46450f06cf688090adb",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

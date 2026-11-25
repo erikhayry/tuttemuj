@@ -193,6 +193,42 @@
       "Soklot"
     ]
   },
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Soklot",
+        "Karviken",
+        "Storträsk",
+        "Storberget",
+        "Långberget",
+        "Kackurdunt",
+        "Digerträsk",
+        "Kuddnäs",
+        "Tornberget",
+        "Björn",
+        "Frost",
+        "Gästgifvar",
+        "Hintz",
+        "Mikkilä",
+        "Nisula",
+        "Rank",
+        "Smeds",
+        "Torp",
+        "Wik"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "560a4b4888c7a4514a290f7bcd97113032b19b7e2e0f694d016a737459c2b63d",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -94,6 +94,29 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Juthbacka kvarn",
+        "Saarela",
+        "Koski bryggeri",
+        "Värnamogården",
+        "Nygårds hemman"
+      ],
+      "year": 1900
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "058c67c484bf86b2090c792d7e8324550877b3b9db4c23ee52afc30d8f5bd589",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,184 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/sandnasa.htm",
+  "title": "Sandnäs glasbruk av K.V. Åkerblom",
+  "summary": "Sandnäs glasbruk låg i Vexala vid Monäs sund och var i drift 1847–1894. Texten räknar upp de många ägarna och de svenska glasblåsarsläkter som flyttade in, och berättar om bränderna 1887 och 1894.",
+  "topics": [
+    "glasbruk",
+    "industri",
+    "Vexala"
+  ],
+  "people": [
+    {
+      "name": "J. P. Ehnqvist",
+      "alternateNames": [
+        "Ehnqvist",
+        "Enqvist"
+      ],
+      "birthYear": 1817,
+      "deathYear": 1866,
+      "roles": [
+        "handelsbokhållare",
+        "grundare av Sandnäs glasbruk"
+      ]
+    },
+    {
+      "name": "Abraham Ramstedt",
+      "alternateNames": [],
+      "roles": [
+        "ägare"
+      ]
+    },
+    {
+      "name": "J. Basilier",
+      "alternateNames": [],
+      "roles": [
+        "ägare"
+      ]
+    },
+    {
+      "name": "Lovisa Vilhelmina Sundius",
+      "alternateNames": [],
+      "birthYear": 1803,
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sandnäs glasbruk",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "glasbruk",
+          "startYear": 1847,
+          "endYear": 1894
+        }
+      ]
+    },
+    {
+      "name": "Vexala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4826,
+        "lng": 22.3829,
+        "match": "name",
+        "gazetteerName": "vexala",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Monäs sund",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Mariedahl",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemmanet på vars mark glasbruket anlades."
+    },
+    {
+      "name": "Åminne gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Bergers gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Vit gård ovanför Brostugan."
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sandnäs glasbruk grundas",
+      "date": {
+        "year": 1847,
+        "circa": false
+      },
+      "description": "Sandnäs glasbruk grundades i Vexala vid Monäs sund av handelsbokhållare J. P. Ehnqvist.",
+      "people": [
+        "J. P. Ehnqvist"
+      ],
+      "places": [
+        "Sandnäs glasbruk",
+        "Vexala"
+      ]
+    },
+    {
+      "title": "Eldsvåda på glasbruket",
+      "date": {
+        "year": 1887,
+        "circa": false
+      },
+      "description": "Sandnäs glasbruk drabbades av en ödeläggande eldsvåda.",
+      "people": [],
+      "places": [
+        "Sandnäs glasbruk"
+      ]
+    },
+    {
+      "title": "Glasbruket brinner ned",
+      "date": {
+        "year": 1894,
+        "month": 10,
+        "circa": false
+      },
+      "description": "Sandnäs glasbruk brann ned i oktober, då J. Basilier ägde det efter att Abraham Ramstedt köpt det samma år.",
+      "people": [
+        "J. Basilier",
+        "Abraham Ramstedt"
+      ],
+      "places": [
+        "Sandnäs glasbruk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "J. P. Ehnqvist",
+      "place": "Bergers gård",
+      "relation": "built"
+    },
+    {
+      "person": "J. P. Ehnqvist",
+      "place": "Mariedahl",
+      "relation": "died",
+      "startYear": 1866,
+      "endYear": 1866
+    },
+    {
+      "person": "Abraham Ramstedt",
+      "place": "Sandnäs glasbruk",
+      "relation": "owned",
+      "startYear": 1894
+    }
+  ],
+  "images": [],
+  "contentHash": "bd21988a41173db6168d845d7d94678700a3f399892da25aea65788ef9f71866",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

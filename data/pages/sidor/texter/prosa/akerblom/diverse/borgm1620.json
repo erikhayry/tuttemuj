@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/borgm1620.htm",
+  "title": "Borgmästare och rådmän i Nykarleby 1620-1680 av K. V. Åkerblom",
+  "summary": "K. V. Åkerblom sammanställer uppgifter om Nykarlebys borgmästare och rådmän 1620–1680 ur stadens domböcker. Han rättar en tidigare förteckning av W. Backman som saknade två borgmästare och hade fel ordningsföljd.",
+  "topics": [
+    "borgmästare",
+    "rådmän",
+    "Nykarleby stads historia"
+  ],
+  "people": [
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "hembygdsforskare"
+      ]
+    },
+    {
+      "name": "W. Backman",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [
+        "Nykarleby stad"
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Borgmästare och rådmän 1620–1680",
+      "date": {
+        "year": 1620,
+        "endYear": 1680,
+        "circa": false
+      },
+      "description": "Texten sammanställer Nykarleby stads borgmästare och rådmän under åren 1620–1680 utifrån domböcker och andra källor.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "adf216bdc499acb6829512689dafe15f7d43a5728f72ad4bc89f0c83c15c5007",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

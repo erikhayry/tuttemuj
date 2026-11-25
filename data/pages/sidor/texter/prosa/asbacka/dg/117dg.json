@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/dg/117dg.htm",
+  "title": "Utsikt från bron i Döbelns gränd av Robert Åsbacka",
+  "summary": "Utdrag ur Robert Åsbackas Döbelns gränd där Balder hala upp en sprittunna ur ån vid bron. Han bär den längs åbranten mot stora bron och fäster den i vattnet.",
+  "topics": [
+    "skönlitteratur",
+    "sprit"
+  ],
+  "people": [
+    {
+      "name": "Balder",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "0195e0d926c954ecaf63a9a754a30614d5aadcbadc8f12f784ecce334a263077",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

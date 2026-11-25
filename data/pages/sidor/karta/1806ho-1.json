@@ -107,6 +107,30 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Norrtull",
+        "Storgatan",
+        "Källbackgatan",
+        "Tullgatan",
+        "Tullporten",
+        "Tullhuset",
+        "Stadsbäcken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "782ecff5a9393442ddb171d87530d5ced7505e8ba951c19d6b92cd17726d0906",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

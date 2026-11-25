@@ -220,6 +220,34 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby kyrka",
+        "Klockstapeln",
+        "Södra tullhuset",
+        "Scholan",
+        "Reckhardtska-Heikelska-Kivinenska gården",
+        "Gamla Storbron",
+        "Skolgatan",
+        "Rådhusgatan",
+        "Kyrktorget",
+        "Mellangatan",
+        "Östra gatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "41a2a4c37c13b5cd3ef72b4e0173747f620c3cebf4b0810527af3be125369883",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

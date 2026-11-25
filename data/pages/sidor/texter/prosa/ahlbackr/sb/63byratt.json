@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/ahlbackr/sb/63byratt.htm",
+  "title": "forts. Byrättsprotokoll i Socklot byrätts protokoll 1751-1761 av Ragna Ahlbäck",
+  "summary": "Fortsättning på Socklots byrättsprotokoll, med bland annat regler om att ängarna ska vara fridlysta, klagomål över en hund som bits och tvist om bokhållare Lööfs främmande hästar på Grisellörn. Sidan slutar med åldermansvalet 1751 och bomärken som bekräftar det.",
+  "topics": [
+    "byrätt",
+    "Socklot",
+    "byalag",
+    "1751"
+  ],
+  "people": [
+    {
+      "name": "Anders Lööf",
+      "alternateNames": [
+        "Herr Bookhållaren Lööf"
+      ],
+      "roles": [
+        "bokhållare"
+      ]
+    },
+    {
+      "name": "Mats Snåre",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Michelä Mi(c)hell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Lassila",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ragna Ahlbäck",
+      "alternateNames": [],
+      "roles": [
+        "utgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [
+        "Sochlot"
+      ],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Grisellörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Karwiken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Åldermansvalet i Socklot",
+      "date": {
+        "year": 1751,
+        "circa": false
+      },
+      "description": "Byalaget i Socklot valde ålderman, och bomärken på sidan bekräftar valet.",
+      "people": [],
+      "places": [
+        "Socklot"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 3,
+      "places": [],
+      "year": 1751
+    },
+    {
+      "image": 4,
+      "places": [],
+      "year": 1751
+    }
+  ],
+  "contentHash": "1c9981bb9cedd70a8f526e967293aae3a4ef5db0ea81c08651ef0c3784042543",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

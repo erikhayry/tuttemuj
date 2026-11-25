@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/borgm1680.htm",
+  "title": "Borgmästare och rådmän i Nykarleby 1680-1750 av K. V. Åkerblom",
+  "summary": "Fortsättning på K. V. Åkerbloms förteckning över Nykarlebys borgmästare och rådmän, för åren 1680–1750, med korta biografier ur rådstugurättens protokoll. Bland borgmästarna nämns Wilhelm Ross, född 1625 och död 1690.",
+  "topics": [
+    "borgmästare",
+    "rådmän",
+    "Nykarleby stads historia"
+  ],
+  "people": [
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "hembygdsforskare"
+      ]
+    },
+    {
+      "name": "Wilhelm Ross",
+      "alternateNames": [],
+      "birthYear": 1625,
+      "deathYear": 1690,
+      "roles": [
+        "borgmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [
+        "Nykarleby stad"
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wilhelm Ross borgmästare",
+      "date": {
+        "year": 1671,
+        "endYear": 1690,
+        "circa": false
+      },
+      "description": "Wilhelm Ross var borgmästare i Nykarleby 1671–1690.",
+      "people": [
+        "Wilhelm Ross"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "ab5e4758cb34d8abf329a4c68e1f139ed8d15960f2a9341e4d6b9dd331f96cde",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

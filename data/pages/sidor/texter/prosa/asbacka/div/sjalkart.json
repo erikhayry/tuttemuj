@@ -1,0 +1,225 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/asbacka/div/sjalkart.html",
+  "title": "Självbiografisk – KARTA Över Staden Nykarleby av Robert Åsbacka.",
+  "summary": "Robert Åsbacka berättar om sina uppväxtår i Nykarleby som en karta över adresser: Borgaregatan, Gustaf Adolfsgatan, Bankgatan och Källargrillen. Texten ger lokala minnen av Möbel-Kalle, bokhandlaren Shakespeare och von Döbeln.",
+  "topics": [
+    "minnen",
+    "uppväxt",
+    "Nykarleby",
+    "Robert Åsbacka"
+  ],
+  "people": [
+    {
+      "name": "Robert Åsbacka",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Tom Johansson",
+      "alternateNames": [],
+      "roles": [
+        "kusin"
+      ]
+    },
+    {
+      "name": "Möbel-Kalle",
+      "alternateNames": [],
+      "roles": [
+        "möbelhandlare"
+      ]
+    },
+    {
+      "name": "Ragnvald Thors",
+      "alternateNames": [
+        "Shakespeare"
+      ],
+      "roles": [
+        "bokhandlare"
+      ]
+    },
+    {
+      "name": "von Döbeln",
+      "alternateNames": [],
+      "roles": [
+        "general"
+      ]
+    },
+    {
+      "name": "Ola Larsmo",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Borgaregatan 18",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 18",
+      "description": "Gult trähus i två våningar högst upp i backen."
+    },
+    {
+      "name": "Borgaregatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Borgaregatan 3",
+      "description": "Lågt gammalt trähus nere i backen mot ån, där enligt berättelsen von Döbeln låg skadad.",
+      "geo": {
+        "lat": 63.52377,
+        "lng": 22.5295899,
+        "match": "address",
+        "gazetteerName": "borgaregatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustaf Adolfsgatan 11",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustaf Adolfsgatan 11",
+      "uses": [
+        {
+          "use": "möbelaffär"
+        }
+      ]
+    },
+    {
+      "name": "Bankgatan 11",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan 11",
+      "uses": [
+        {
+          "use": "bokhandel"
+        }
+      ],
+      "geo": {
+        "lat": 63.5223428,
+        "lng": 22.5326767,
+        "match": "address",
+        "gazetteerName": "bankgatan 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mellangatan 11",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Mellangatan 11",
+      "geo": {
+        "lat": 63.52520699999999,
+        "lng": 22.5228164,
+        "match": "address",
+        "gazetteerName": "mellangatan 11",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källargrillen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Östra esplanadgatan 11",
+      "uses": [
+        {
+          "use": "grill"
+        }
+      ]
+    },
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg mittemot Bankgatan 11.",
+      "uses": [
+        {
+          "use": "restaurang"
+        }
+      ]
+    },
+    {
+      "name": "Döbelns gränd",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Enligt berättelsen låg von Döbeln skadad i ett gult hus här."
+    },
+    {
+      "name": "Södra tullhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Von Döbeln skadad i Nykarleby",
+      "date": {
+        "year": 1808,
+        "circa": false,
+        "text": "1808 (enligt en uppgift 1809)"
+      },
+      "description": "Enligt en berättelse låg general von Döbeln skadad i huset vid Borgaregatan 3, en uppgift som texten själv kallar en historia från småstaden.",
+      "people": [
+        "von Döbeln"
+      ],
+      "places": [
+        "Borgaregatan 3"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Robert Åsbacka",
+      "place": "Borgaregatan 3",
+      "relation": "lived"
+    },
+    {
+      "person": "Robert Åsbacka",
+      "place": "Gustaf Adolfsgatan 11",
+      "relation": "lived"
+    },
+    {
+      "person": "Robert Åsbacka",
+      "place": "Bankgatan 11",
+      "relation": "lived"
+    },
+    {
+      "person": "Möbel-Kalle",
+      "place": "Gustaf Adolfsgatan 11",
+      "relation": "ran"
+    },
+    {
+      "person": "Ragnvald Thors",
+      "place": "Bankgatan 11",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Södra tullhuset",
+        "Döbelns gränd"
+      ]
+    }
+  ],
+  "contentHash": "3ffa8069e724fb499010b008ec85a960207d6a02a611b0865ec4cc52369831e9",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

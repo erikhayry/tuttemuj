@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/arsbera/samsko30t.html",
+  "title": "Årsberättelser för Nykarleby samskola under 1930-talet",
+  "summary": "Årsberättelse för Nykarleby samskola läsåret 1938–39, skolans 20:e. Eleverna var fler än någonsin och hemorterna visar att skolan betydde mycket även utanför staden, men scharlakansfeber och mässling störde arbetet.",
+  "topics": [
+    "skola",
+    "årsberättelse",
+    "epidemier",
+    "1930-talet"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skolan avslutar sitt 20:e läsår",
+      "date": {
+        "year": 1939,
+        "circa": false,
+        "text": "läsåret 1938–39"
+      },
+      "description": "Nykarleby samskola avslutade sitt tjugonde läsår med rekordstor elevsiffra men störd av scharlakansfeber och mässling.",
+      "people": [],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "7d7146747bb7970b42e72396718cbab80b34245ed648326ea188c99d24b1b8de",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

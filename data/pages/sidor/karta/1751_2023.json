@@ -16,7 +16,12 @@
         "Gallhagen"
       ],
       "address": "korsningen Topeliusesplanaden-Bankgatan",
-      "description": "Gammal begravningsplats öster om staden på 1750 års karta."
+      "description": "Gammal begravningsplats öster om staden på 1750 års karta.",
+      "uses": [
+        {
+          "use": "begravningsplats"
+        }
+      ]
     },
     {
       "name": "Topeliusesplanaden",
@@ -79,6 +84,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Begravningsplatsen vid Gallhagen",
+        "Topeliusesplanaden",
+        "Bankgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "a8af5222cff9adb41d16da8e02d81941a7f0e0525fe52ef10878355050faad05",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

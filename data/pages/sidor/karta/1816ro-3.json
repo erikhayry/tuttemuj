@@ -32,6 +32,23 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1816
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "e992beb2f53d117b1c5817d59392f32bcf99e977f4f4e80da1632fbb7e9b681a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

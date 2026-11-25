@@ -196,6 +196,31 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Andrasjön",
+        "Rödklubben",
+        "Bonäsfjärden",
+        "Brudholmarna",
+        "Långön",
+        "Björkskär",
+        "Larsholmen",
+        "Smedsbacka"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "90cb735bbc3d98e1ecf47227797f4c1f92ec419d402709f49d3221e048bc6a7c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

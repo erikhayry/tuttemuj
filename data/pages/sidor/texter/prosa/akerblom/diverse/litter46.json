@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/litter46.htm",
+  "title": "Nykarleby socken och stad omtalad i nya böcker av K. V. Åkerblom",
+  "summary": "K. V. Åkerblom presenterar nya böcker som nämner Nykarleby socken och stad, främst professor Ivar A. Heikels barndomsminnen. Boken berättar om sockneadjunktsgården på Forsbacka och om att församlingen till 1866 hade tre präster.",
+  "topics": [
+    "bokrecension",
+    "Nykarleby",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "hembygdsforskare"
+      ]
+    },
+    {
+      "name": "Ivar A. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "August Heikel",
+      "alternateNames": [],
+      "roles": [
+        "sockneadjunkt"
+      ]
+    },
+    {
+      "name": "Kaldén",
+      "alternateNames": [],
+      "roles": [
+        "andra lärare i stadens elementarskola"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "sockneadjunktsgården på Forsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sockneadjunktsgård"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "August Heikel",
+      "place": "sockneadjunktsgården på Forsbacka",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "0a9a1afd0162b7a27369058f4408c42472ab91704853dfd42c7e3b5a6c9c3fc6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

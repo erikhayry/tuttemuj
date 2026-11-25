@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/arsbera/samgymarsber.html",
+  "title": "Årsberättelser för Nykarleby Samskola och dess efterföljare",
+  "summary": "Samling årsberättelser för Nykarleby samskola och dess efterföljare, från samskolan 1919 via samlyceum och gymnasium till Topeliusgymnasiet. Läsåret 1967–68 var skolans 49:e och hade 284 elever.",
+  "topics": [
+    "skola",
+    "årsberättelser",
+    "Nykarleby samskola"
+  ],
+  "people": [
+    {
+      "name": "Kerstin Karlström",
+      "alternateNames": [],
+      "roles": [
+        "lärare i matematik och fysik"
+      ]
+    },
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserare"
+      ]
+    },
+    {
+      "name": "Lars Erik Bergman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby samlyceum",
+        "Nykarleby gymnasium",
+        "Topeliusgymnasiet"
+      ],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1919
+        }
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sista läraren från författarens tid går i pension",
+      "date": {
+        "year": 2014,
+        "month": 4,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Kerstin Karlström, lärare i matematik och fysik, slutade undervisa och gick i pension.",
+      "people": [
+        "Kerstin Karlström"
+      ],
+      "places": [
+        "Nykarleby samskola"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Kerstin Karlström",
+      "place": "Nykarleby samskola",
+      "relation": "worked",
+      "endYear": 2014
+    }
+  ],
+  "images": [],
+  "contentHash": "7acd26b902a2596612d204dfa1a995325bb0038eea34927baed08e7dc1a5ac04",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agreng/div/dlmoders.htm",
+  "title": "Ett modersmål, en hembygd i Detta liv av Gösta Ågren.",
+  "summary": "Gösta Ågren skriver om Nykarleby-dialekten som sitt modersmål och om dess bevarade genussystem, där tingen är han, hon eller det. Han berättar också om Lippjärv, där landhöjningen gjort att havet ligger tusen år bort.",
+  "topics": [
+    "dialekt",
+    "Nykarleby-målet",
+    "landhöjning",
+    "Lippjärv"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": [
+        "kolorerare"
+      ]
+    },
+    {
+      "name": "Karl-Gustav Hedberg",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Jarl Frilund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [
+        "Lippjärv kyrkby"
+      ],
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Härmälä",
+      "kind": "farm",
+      "alternateNames": [
+        "härmälä i lippjärv"
+      ]
+    },
+    {
+      "name": "Frilund",
+      "kind": "farm",
+      "alternateNames": [
+        "frilund i lippjärv"
+      ]
+    },
+    {
+      "name": "Blomqvist",
+      "kind": "farm",
+      "alternateNames": [
+        "blomqvist i lippjärv"
+      ]
+    },
+    {
+      "name": "Björk",
+      "kind": "farm",
+      "alternateNames": [
+        "björk i lippjärv"
+      ]
+    },
+    {
+      "name": "Kvarken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Lippjärv"
+      ],
+      "year": 1936
+    }
+  ],
+  "contentHash": "e491d2940870865f61cc481c30401885253008cce6e3f8adb0e01d5a84d893b5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

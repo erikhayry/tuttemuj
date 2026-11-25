@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/gangekv.htm",
+  "title": "V. K. E. Wichmanns-Gånge Rolfs lektorsår i Nykarleby av K. V. Åkerblom",
+  "summary": "K. V. Åkerblom skildrar V. K. E. Wichmanns, skalden Gånge Rolfs, tid som lektor vid folkskollärarseminariet i Nykarleby. Texten ger en nyanserad bild av hans liv och börjar med att han ställdes inför lektorstjänsten på senhösten 1882.",
+  "topics": [
+    "Wichmann",
+    "Gånge Rolf",
+    "Nykarleby seminarium"
+  ],
+  "people": [
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [
+        "Viktor Karl Emil Wichmann",
+        "Gånge Rolf"
+      ],
+      "birthYear": 1856,
+      "roles": [
+        "lektor",
+        "skald",
+        "kyrkoherdeson"
+      ]
+    },
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "hembygdsforskare"
+      ]
+    },
+    {
+      "name": "Albert Strengell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "överinspektor"
+      ]
+    },
+    {
+      "name": "L. L. Lindelöf",
+      "alternateNames": [],
+      "roles": [
+        "statsråd",
+        "överdirektör i skolstyrelsen"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "folkskollärarseminariet i Nykarleby"
+      ],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wichmann föds",
+      "date": {
+        "year": 1856,
+        "month": 8,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Viktor Karl Emil Wichmann föddes som kyrkoherdeson i Brahestad.",
+      "people": [
+        "V. K. E. Wichmann"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lektorstjänsten blir ledig",
+      "date": {
+        "year": 1882,
+        "circa": false,
+        "text": "senhösten 1882"
+      },
+      "description": "Wichmann uppmanades infinna sig i skolstyrelsen eftersom lektorstjänsten i historia, geografi och pedagogik vid seminariet i Nykarleby behövde besättas.",
+      "people": [
+        "V. K. E. Wichmann",
+        "Albert Strengell"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "8b5f47e515dd3b0abae6608ceb3443c22846a3602f240ecb74b277dd18bf12a7",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

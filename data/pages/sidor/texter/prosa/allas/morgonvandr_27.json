@@ -1,0 +1,116 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/morgonvandr_27.html",
+  "title": "En morgonvandring i Topelius' stad av Dagmar Bergh-Palmros i Allas Krönika 1927",
+  "summary": "Dagmar Bergh-Palmros skildrar i Allas Krönika 1927 en söndagsmorgonpromenad i Topelius stad Nykarleby. Hon går genom kvarteren öster om älven med gatunamn som Gref Tottgatan och Gustaf Adolfsgatan.",
+  "topics": [
+    "Nykarleby 1927",
+    "promenad",
+    "tidningsreportage"
+  ],
+  "people": [
+    {
+      "name": "Dagmar Bergh-Palmros",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Ahlström",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Kyrkan i Nykarleby"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "normalskolehuset"
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gref Tottgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5260036,
+        "lng": 22.5362541,
+        "match": "name",
+        "gazetteerName": "grev tottgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gustaf Adolfsgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "contentHash": "cb8cf1cc9d415124963cc78034d79b75d5c0a165d1640d657545782e67288076",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

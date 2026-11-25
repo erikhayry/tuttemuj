@@ -156,6 +156,33 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Torget",
+        "Rådhuset",
+        "Apoteket",
+        "Lilla Ågatan",
+        "Ågatan",
+        "Rådhusgatan",
+        "Storgatan",
+        "Norra Torggatan",
+        "Södra Torggatan",
+        "Södra gatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "ada48a8f149c4b90fac5927b9eeca771c64a5d447b3eff5257e9b8db77df9f6e",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

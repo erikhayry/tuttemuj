@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agreng/enman/01forord.htm",
+  "title": "Förord m.m. till En man gick genom stormen. Leo Ågrens liv och diktning av Gösta Ågren",
+  "summary": "Förordet och inledande kapitel i Gösta Ågrens bok om Leo Ågren. Förordsskribenten minns Leo som allvarlig skolkamrat i Nykarleby samskola, och texten tar upp författargruppen Liftraser som bildades hösten 1957.",
+  "topics": [
+    "Leo Ågren",
+    "litteratur",
+    "Liftraser",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Leo Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lars Huldén",
+      "alternateNames": [],
+      "roles": [
+        "förordsskribent"
+      ]
+    },
+    {
+      "name": "Evert Huldén",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby samskola",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nörråkers",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Gård i Monå där författargruppen Liftraser bildades."
+    }
+  ],
+  "events": [
+    {
+      "title": "Liftraser bildas",
+      "date": {
+        "year": 1957,
+        "circa": false,
+        "text": "Hösten 1957"
+      },
+      "description": "Författargruppen Liftraser bildades hos Lars Huldéns föräldrar på Nörråkers i Monå.",
+      "people": [
+        "Lars Huldén"
+      ],
+      "places": [
+        "Nörråkers"
+      ]
+    },
+    {
+      "title": "Leo Ågrens första roman",
+      "date": {
+        "year": 1954,
+        "circa": false
+      },
+      "description": "Leo Ågrens första roman kom ut.",
+      "people": [
+        "Leo Ågren"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "3929bf8f1c9b8b828e7bf90a9edb6d054ba3382804afd66a8f7154ab76d08455",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

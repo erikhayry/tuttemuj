@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/allas/herler_26.html",
+  "title": "På besök i finländska hem. Hos bokhandlare Josef Herler i Nykarleby av Zero i Allas Krönika 1926",
+  "summary": "Reportage i Allas Krönika 1926 om bokhandlare Josef Herlers hem vid älven i Nykarleby. Herler hade tidigare varit skådespelare vid Svenska Inhemska Teatern i Åbo, och texten skildrar staden, älven och bokhandeln.",
+  "topics": [
+    "bokhandel",
+    "Nykarleby 1926",
+    "tidningsreportage"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare",
+        "skådespelare"
+      ]
+    },
+    {
+      "name": "Aleko Lilius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Herlers bokhandel",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Boklådan låg i stadens centrum utan älvutsikt.",
+      "uses": [
+        {
+          "use": "bokhandel"
+        }
+      ],
+      "geo": {
+        "lat": 63.5234,
+        "lng": 22.5306,
+        "match": "name",
+        "gazetteerName": "herlers bokhandel",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhustorget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Berget är numera delvis bortsprängt."
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Josef Herler",
+      "place": "Herlers bokhandel",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "bcbe8924e5d301a15e7e524bb5384ddb34c26ca66874d1874e54b65bef9fd585",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

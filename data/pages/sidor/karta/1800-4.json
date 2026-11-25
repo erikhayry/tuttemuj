@@ -50,7 +50,13 @@
       "name": "Sjöbodan på Grundön",
       "kind": "building",
       "alternateNames": [],
-      "description": "Sjöbod från 1789."
+      "description": "Sjöbod från 1789.",
+      "uses": [
+        {
+          "use": "sjöbod",
+          "startYear": 1789
+        }
+      ]
     },
     {
       "name": "Grundön",
@@ -131,6 +137,31 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Frösön",
+        "Kotaskär",
+        "Grundön",
+        "Domarbacka",
+        "Henriksnäs",
+        "Djupön",
+        "Svensön",
+        "Skattön"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "9e5e0f1c2e938bcb49c6bea1d92e93f26fdfdbcf67879b465c56cf31bf4585e8",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

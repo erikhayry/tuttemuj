@@ -148,6 +148,41 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [
+    {
+      "person": "Lindskog",
+      "place": "Vipplustig",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kyrkoby",
+        "Stenisträsk",
+        "Munkgrund",
+        "Vipplustig",
+        "Juthas",
+        "Juthbacka",
+        "Drakabacka",
+        "Bonäs",
+        "Loilax",
+        "Loilaxviken",
+        "Mickelsbacka",
+        "Forsbacka"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "c1ba7680ea64461ea15147d2bd87039a66c9e2900eaec706449eec1a45128417",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

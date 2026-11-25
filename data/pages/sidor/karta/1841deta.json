@@ -45,6 +45,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby"
+      ],
+      "year": 1841
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "c98ddd2fd54706d5eb8b91aa98008e2b21320442db81c81320363b191962335b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

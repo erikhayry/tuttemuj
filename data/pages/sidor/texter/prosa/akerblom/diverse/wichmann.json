@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/wichmann.html",
+  "title": "V. K. E. Wichmann - Gånge Rolf av K. V. Åkerblom.",
+  "summary": "K. V. Åkerbloms biografi över V. K. E. Wichmann, Gånge Rolf, som var lektor vid Nykarleby seminarium 1885–1912 och direktor 1912–1916. Den här delen handlar om hans släkt, barndom, skolgång och tid som ledare för de svenskösterbottniska studenterna i Helsingfors.",
+  "topics": [
+    "Wichmann",
+    "Gånge Rolf",
+    "biografi",
+    "Nykarleby seminarium"
+  ],
+  "people": [
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [
+        "Viktor Karl Emil Wichmann",
+        "Gånge Rolf"
+      ],
+      "roles": [
+        "lektor",
+        "direktor",
+        "skald"
+      ]
+    },
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "skolråd"
+      ]
+    },
+    {
+      "name": "Bror Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wichmann lektor vid seminariet",
+      "date": {
+        "year": 1885,
+        "endYear": 1912,
+        "circa": false
+      },
+      "description": "V. K. E. Wichmann verkade som lektor i historia, geografi och pedagogik vid Nykarleby seminarium.",
+      "people": [
+        "V. K. E. Wichmann"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Wichmann direktor",
+      "date": {
+        "year": 1912,
+        "endYear": 1916,
+        "circa": false
+      },
+      "description": "V. K. E. Wichmann var direktor för Nykarleby seminarium.",
+      "people": [
+        "V. K. E. Wichmann"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "V. K. E. Wichmann",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1885,
+      "endYear": 1916
+    }
+  ],
+  "images": [],
+  "contentHash": "2dc29b031e9d7f0de45f3a2670cf35bde42c332b06acb27b8e0e438554e54c89",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

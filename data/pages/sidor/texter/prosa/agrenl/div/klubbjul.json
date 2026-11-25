@@ -1,0 +1,70 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agrenl/div/klubbjul.htm",
+  "title": "En jul i klubbekrigets tider av Leo Ågren",
+  "summary": "Leo Ågrens julnovell En jul i klubbekrigets tider, publicerad i Österbottniska Posten 1945, skildrar tre frusna män som kämpar sig fram genom snöstorm med vargar efter sig. Lars Pensar har digitaliserat och kommenterat den.",
+  "topics": [
+    "novell",
+    "Leo Ågren",
+    "klubbekriget",
+    "skönlitteratur"
+  ],
+  "people": [
+    {
+      "name": "Leo Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "digitaliserare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Novellen publiceras",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "description": "Leo Ågrens julnovell En jul i klubbekrigets tider publicerades i Österbottniska Posten nr 52.",
+      "people": [
+        "Leo Ågren"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Tre dödströtta män vadar genom drivsnö med vargarna närgångna, och måste kasta sina vapen för att orka. En av dem tappar sin bössa när handsken frusit fast vid röret.",
+    "reason": "En stark överlevnadsberättelse med fara, kyla och tydliga bilder.",
+    "characters": [],
+    "places": []
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "c88c590e8d25e28ae7e5f20278a96a5f2017d3adb62b000e1ba840012bd3f7b3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

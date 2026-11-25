@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/namnbyte.htm",
+  "title": "Historiskt stöd för namnet Karleborg av K. V. Åkerblom",
+  "summary": "K. V. Åkerblom föreslog 1944 att Nykarleby landskommun skulle återta det historiska namnet Karleborg, som i 1600-talet även var namn på grevskapet och socknen. Sidan har också Woldemar Backmans inlägg i namndebatten i Österbottniska Posten.",
+  "topics": [
+    "namndebatt",
+    "Karleborg",
+    "Nykarleby landskommun",
+    "1944"
+  ],
+  "people": [
+    {
+      "name": "K. V. Åkerblom",
+      "alternateNames": [],
+      "roles": [
+        "hembygdsforskare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lorentz Freese",
+      "alternateNames": [],
+      "roles": [
+        "t.f. hauptman"
+      ]
+    },
+    {
+      "name": "Erich Juthe",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby landskommun",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Jutas",
+      "kind": "farm",
+      "alternateNames": [
+        "Juut",
+        "Jut"
+      ],
+      "nameOrigin": "Hemmanet fick enligt Backman sitt namn efter Erich Juthe, som ägde det omkring mitten av 1500-talet.",
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kommunalfullmäktige behandlar namnfrågan",
+      "date": {
+        "year": 1944,
+        "month": 12,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Kommunalfullmäktige i Nykarleby landskommun behandlade åter frågan om att ändra kommunens namn och beslöt att invänta nya förslag.",
+      "people": [],
+      "places": [
+        "Nykarleby landskommun"
+      ]
+    },
+    {
+      "title": "Backmans inlägg i Österbottniska Posten",
+      "date": {
+        "year": 1944,
+        "month": 12,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Woldemar Backman skrev i Österbottniska Posten emot förslaget att kalla socknen Jutas.",
+      "people": [
+        "Woldemar Backman"
+      ],
+      "places": [
+        "Jutas"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Erich Juthe",
+      "place": "Jutas",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "60d846f3e513b6e12f71e3e67937eb51e3a31f50db6c212a17370b10a608bd5b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

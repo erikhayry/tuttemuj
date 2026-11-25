@@ -65,6 +65,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 2,
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "8866976bfc20999f3c67e4e3afb4569ada40801316506fda4b68746282d96e56",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

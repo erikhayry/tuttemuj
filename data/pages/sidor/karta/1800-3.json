@@ -77,6 +77,36 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Griselön",
+        "Björkön",
+        "Hästbåda",
+        "Kepalot",
+        "Käringön",
+        "Lodön",
+        "Nätön",
+        "Skataholm",
+        "Storholmen",
+        "Wådön",
+        "Öskatan",
+        "Hästbådafjärden",
+        "Hästbåda sund"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "c23b533dadf444124f7d84ef84ca136ea3dd217a3148e3675ac0b5847edaeb2b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

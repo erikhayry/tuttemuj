@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agreng/enman/04ballad.htm",
+  "title": "Ballad m.m. En man gick genom stormen. Leo Ågrens liv och diktning av Gösta Ågren",
+  "summary": "Kapitel ur Gösta Ågrens bok om Leo Ågren om hur romanen Ballad kom till en höstkväll 1961 i en lägenhet vid Genvägen i Jakobstad. Boken skrevs färdig samma höst och ses som en sammanfattning av hans författarskap.",
+  "topics": [
+    "Leo Ågren",
+    "Ballad",
+    "biografi"
+  ],
+  "people": [
+    {
+      "name": "Leo Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Dan",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Genvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "description": "Gata i Jakobstad där Leo Ågren bodde i en lägenhet 1961.",
+      "geo": {
+        "lat": 63.43859659999999,
+        "lng": 22.4569775,
+        "match": "name",
+        "gazetteerName": "genvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ballad skrivs",
+      "date": {
+        "year": 1961,
+        "circa": false,
+        "text": "höstkväll 1961"
+      },
+      "description": "Leo Ågren började skriva romanen Ballad en höstkväll i en lägenhet vid Genvägen i Jakobstad och slutförde den samma höst.",
+      "people": [
+        "Leo Ågren"
+      ],
+      "places": [
+        "Genvägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1961
+    }
+  ],
+  "contentHash": "a97a1165068d470e8b3f92f30594477678d2debcc88501f02b5bcfdfc2d25ad3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

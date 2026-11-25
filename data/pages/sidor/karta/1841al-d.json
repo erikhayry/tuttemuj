@@ -104,6 +104,33 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [
+    {
+      "person": "M. Lithén",
+      "place": "Charlottenlund",
+      "relation": "built",
+      "startYear": 1834
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Charlottenlund",
+        "Nygårds hemman",
+        "Lillalörn"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-25T07:07:54.610Z"
+    }
+  ],
   "contentHash": "56eafc50f2bdae84c5425072eb5afa746bf00aec37c22ce04cc2df88c7c7032c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

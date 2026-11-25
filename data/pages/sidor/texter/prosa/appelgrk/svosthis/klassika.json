@@ -1,0 +1,67 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/appelgrk/svosthis/klassika.htm",
+  "title": "Om den skulpterade och målade inredningen i svenska Österbottens kyrkor, Klassicismen av Kari Appelgren",
+  "summary": "Kari Appelgren skriver om klassicismen i Svenska Österbottens kyrkoinredning efter förordningen 1776 som krävde att ritningar godkändes i Stockholm. Han beskriver bland annat predikstolen i Munsala kyrka och Rijfarnas verkstad.",
+  "topics": [
+    "kyrkokonst",
+    "klassicism",
+    "predikstolar"
+  ],
+  "people": [
+    {
+      "name": "Kari Appelgren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Carl Hårleman",
+      "alternateNames": [],
+      "roles": [
+        "överintendent",
+        "arkitekt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Munsala kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "Munsala"
+      ],
+      "description": "Predikstolen står i nordöstra korshörnet.",
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Förordning om kyrkors inredning",
+      "date": {
+        "year": 1776,
+        "month": 7,
+        "day": 31,
+        "circa": false
+      },
+      "description": "En förordning krävde att ritningar till kyrkors inredning, som predikstolar och orglar, skulle granskas och godkännas i Stockholm innan de tillverkades.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "b7b87e601adba09162a45a788cabf7dfd4a6445b4d7aaec19ec1bf54687288f4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

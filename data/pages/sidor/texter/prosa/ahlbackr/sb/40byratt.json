@@ -1,0 +1,81 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/ahlbackr/sb/40byratt.htm",
+  "title": "Byrättsprotokoll i Socklots byrätts protokoll 1751-1761 av Ragna Ahlbäck",
+  "summary": "Första delen av byrättsprotokollen från Socklot, som börjar 29 april 1751. Bokhållare Anders Lööf ber byalaget om rätt att dra not vid Lodören och om en ny gårdstomt.",
+  "topics": [
+    "byrätt",
+    "Socklot",
+    "fiske",
+    "1751"
+  ],
+  "people": [
+    {
+      "name": "Anders Lööf",
+      "alternateNames": [],
+      "roles": [
+        "bokhållare"
+      ]
+    },
+    {
+      "name": "Ragna Ahlbäck",
+      "alternateNames": [],
+      "roles": [
+        "utgivare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [
+        "Såcklot"
+      ],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lodören",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Wädören",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Byrättens protokoll 29 april 1751",
+      "date": {
+        "year": 1751,
+        "month": 4,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Socklots byrätt behandlade bokhållare Anders Lööfs önskemål om notdragning vid Lodören och om en ny gårdstomt.",
+      "people": [
+        "Anders Lööf"
+      ],
+      "places": [
+        "Socklot",
+        "Lodören"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "725c0937328fd179d850669edd8ddc8df33653b795d85407490f1d14db74b086",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}

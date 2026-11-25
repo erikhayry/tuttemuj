@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/agreng/div/nkbyidik.htm",
+  "title": "Nykarleby i dikten av Gösta Ågren i Författare om författare",
+  "summary": "Gösta Ågren skriver om hur Nykarleby skildrats i dikt och prosa, och börjar med brandkårsmötet i juni 1895 där lektor V. K. E. Wichmann red i spetsen. Texten tar upp Wichmanns brandkårssång och hans svenskhetspatos.",
+  "topics": [
+    "litteratur",
+    "brandkår",
+    "Nykarleby i dikten"
+  ],
+  "people": [
+    {
+      "name": "Gösta Ågren",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [
+        "Gånge Rolf"
+      ],
+      "roles": [
+        "seminarielektor",
+        "skald",
+        "brandchef"
+      ]
+    },
+    {
+      "name": "Emil Forsander",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Ahlstedt",
+      "alternateNames": [],
+      "roles": [
+        "skräddare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "village",
+      "alternateNames": [
+        "Nykarleby stad"
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brandkårsmöte i Nykarleby",
+      "date": {
+        "year": 1895,
+        "month": 6,
+        "circa": false
+      },
+      "description": "Nykarleby gästades av brandkårer från Gamlakarleby till Vasa, och festtåget paraderade längs stadens huvudgator med Wichmann i spetsen.",
+      "people": [
+        "V. K. E. Wichmann",
+        "Emil Forsander"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "65c97c8a815248a034e94ee8eef79da05c1e86a743c7237004dcd618b9246bec",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-25T07:05:47.880Z"
+}
