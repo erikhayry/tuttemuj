@@ -37,7 +37,15 @@
       "alternateNames": [
         "södra brunnsholmen"
       ],
-      "description": "Den södra Brunnsholmen syns i övre vänstra hörnet."
+      "description": "Den södra Brunnsholmen syns i övre vänstra hörnet.",
+      "geo": {
+        "lat": 63.51789660647075,
+        "lng": 22.521220181493575,
+        "match": "name",
+        "gazetteerName": "brunnsholmen",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Bostads Ab Ebba Brahe",

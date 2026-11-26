@@ -53,7 +53,15 @@
       "alternateNames": [
         "Haraldsfors"
       ],
-      "description": "Hemman som Topelius ofta besökte; ägdes på 1830–40-talen av Jakob Johan Kerrman."
+      "description": "Hemman som Topelius ofta besökte; ägdes på 1830–40-talen av Jakob Johan Kerrman.",
+      "geo": {
+        "lat": 63.4766530878393,
+        "lng": 22.537315932150378,
+        "match": "name",
+        "gazetteerName": "harald",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Kuddnäs",

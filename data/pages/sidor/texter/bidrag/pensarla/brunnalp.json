@@ -55,7 +55,15 @@
     {
       "name": "Kyrkbrunnen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52281787172463,
+        "lng": 22.527306701582177,
+        "match": "name",
+        "gazetteerName": "kyrkbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Normalskolan",
@@ -75,7 +83,15 @@
     {
       "name": "Spruthuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52279294332854,
+        "lng": 22.52734212032026,
+        "match": "name",
+        "gazetteerName": "spruthuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

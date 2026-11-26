@@ -36,7 +36,15 @@
       "kind": "building",
       "alternateNames": [
         "Hagalund"
-      ]
+      ],
+      "geo": {
+        "lat": 63.519185566198,
+        "lng": 22.531305293375013,
+        "match": "name",
+        "gazetteerName": "hagalund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

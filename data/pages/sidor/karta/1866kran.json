@@ -112,7 +112,15 @@
       "kind": "island",
       "alternateNames": [
         "Brunns holmen"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51789660647075,
+        "lng": 22.521220181493575,
+        "match": "name",
+        "gazetteerName": "brunnsholmen",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Brunnshuset",

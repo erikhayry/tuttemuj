@@ -26,7 +26,15 @@
     {
       "name": "Seminarieområdet",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52644342970428,
+        "lng": 22.52616251450928,
+        "match": "name",
+        "gazetteerName": "seminarieområdet",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

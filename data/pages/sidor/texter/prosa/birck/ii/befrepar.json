@@ -206,7 +206,15 @@
           "use": "bostad",
           "startYear": 1858
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.52279294332854,
+        "lng": 22.52734212032026,
+        "match": "name",
+        "gazetteerName": "spruthuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Norra vaktstugan",
@@ -216,7 +224,15 @@
     {
       "name": "Kyrkotorget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52235437065672,
+        "lng": 22.526422516825875,
+        "match": "name",
+        "gazetteerName": "kyrkotorget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Roos'ska gården",

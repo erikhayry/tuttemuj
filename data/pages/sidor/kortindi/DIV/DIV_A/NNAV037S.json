@@ -69,7 +69,15 @@
       "alternateNames": [
         "von Döbelns hus"
       ],
-      "description": "Huset ägdes av familjen Barck."
+      "description": "Huset ägdes av familjen Barck.",
+      "geo": {
+        "lat": 63.522965831833396,
+        "lng": 22.529430187205104,
+        "match": "name",
+        "gazetteerName": "föreningsbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

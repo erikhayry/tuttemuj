@@ -156,7 +156,15 @@
         {
           "use": "bränneri"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.4766530878393,
+        "lng": 22.537315932150378,
+        "match": "name",
+        "gazetteerName": "harald",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Marie kyrkogård",
@@ -169,7 +177,15 @@
     {
       "name": "Ragnörn",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Gården nr 60",

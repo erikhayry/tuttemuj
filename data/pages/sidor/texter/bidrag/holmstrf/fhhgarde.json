@@ -37,7 +37,15 @@
     {
       "name": "Holmströms gård",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkogatan",
@@ -55,7 +63,15 @@
     {
       "name": "Holmströms magasin",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

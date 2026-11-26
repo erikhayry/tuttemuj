@@ -23,7 +23,15 @@
       "alternateNames": [
         "Brandkårshuset Asgård"
       ],
-      "description": "Före detta brandkårshuset, numera missionshuset."
+      "description": "Före detta brandkårshuset, numera missionshuset.",
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bankgatan",

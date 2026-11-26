@@ -13,7 +13,15 @@
       "name": "Skogsparken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Platsen som visas på kortet."
+      "description": "Platsen som visas på kortet.",
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

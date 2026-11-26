@@ -24,7 +24,15 @@
       "kind": "building",
       "alternateNames": [],
       "address": "tomt nr 26 vid S. Torggatan",
-      "description": "Byggt 1893."
+      "description": "Byggt 1893.",
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "gustav adolfsgatan",

@@ -59,7 +59,15 @@
     {
       "name": "Trivialskolan",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521920603003906,
+        "lng": 22.52700863939408,
+        "match": "name",
+        "gazetteerName": "trivialskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

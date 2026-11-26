@@ -12,7 +12,15 @@
     {
       "name": "Apoteksbacken",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524462187408105,
+        "lng": 22.527734294694085,
+        "match": "name",
+        "gazetteerName": "apoteksbacken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Bastun vid stranden",

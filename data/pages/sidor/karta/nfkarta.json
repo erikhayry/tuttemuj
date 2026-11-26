@@ -28,7 +28,15 @@
     {
       "name": "Järnvägen",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52536667468017,
+        "lng": 22.54687224014678,
+        "match": "name",
+        "gazetteerName": "nykarleby järnväg",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Bangatan",

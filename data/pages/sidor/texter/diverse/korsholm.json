@@ -106,7 +106,15 @@
     {
       "name": "Eden hotell",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522445654003285,
+        "lng": 22.531176547364193,
+        "match": "name",
+        "gazetteerName": "hotell eden",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bio Scala",

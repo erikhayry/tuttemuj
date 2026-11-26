@@ -334,7 +334,15 @@
     {
       "name": "Harald",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4766530878393,
+        "lng": 22.537315932150378,
+        "match": "name",
+        "gazetteerName": "harald",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Gården nr 127",
@@ -420,7 +428,15 @@
     {
       "name": "Skogsparken",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -12,7 +12,15 @@
     {
       "name": "Griselön",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.61206729765105,
+        "lng": 22.492223954581956,
+        "match": "name",
+        "gazetteerName": "griselön",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Björkön",

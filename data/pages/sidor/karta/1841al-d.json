@@ -47,7 +47,15 @@
       "name": "Charlottenlund",
       "kind": "building",
       "alternateNames": [],
-      "description": "Anlagd av M. Lithén; sommarvillan och rester av kajanläggningen finns kvar. De största magasinen var ca 35 m långa."
+      "description": "Anlagd av M. Lithén; sommarvillan och rester av kajanläggningen finns kvar. De största magasinen var ca 35 m långa.",
+      "geo": {
+        "lat": 63.55951991698526,
+        "lng": 22.43378997179907,
+        "match": "name",
+        "gazetteerName": "charlottenlund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nygårds hemman",

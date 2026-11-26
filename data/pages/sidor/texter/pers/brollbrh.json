@@ -13,7 +13,15 @@
       "name": "Brunnsholmen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Värdshus där bröllopet hölls."
+      "description": "Värdshus där bröllopet hölls.",
+      "geo": {
+        "lat": 63.51789660647075,
+        "lng": 22.521220181493575,
+        "match": "name",
+        "gazetteerName": "brunnsholmen",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     }
   ],
   "events": [

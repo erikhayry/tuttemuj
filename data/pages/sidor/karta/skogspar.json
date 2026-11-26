@@ -14,7 +14,15 @@
       "name": "Skogsparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Väster om seminariet; parken hade gångar, dammar och en paviljong."
+      "description": "Väster om seminariet; parken hade gångar, dammar och en paviljong.",
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

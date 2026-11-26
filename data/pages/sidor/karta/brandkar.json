@@ -15,7 +15,15 @@
       "alternateNames": [
         "Asgård"
       ],
-      "description": "Huset med tornet."
+      "description": "Huset med tornet.",
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

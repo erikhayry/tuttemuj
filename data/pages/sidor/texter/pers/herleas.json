@@ -207,7 +207,15 @@
       "kind": "building",
       "alternateNames": [
         "Juthbacka teaters hus"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51989683887683,
+        "lng": 22.534423189947866,
+        "match": "name",
+        "gazetteerName": "juthbacka teater",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby seminarium",
@@ -227,7 +235,15 @@
     {
       "name": "Restaurang von Döbeln",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522418769115106,
+        "lng": 22.531700963103503,
+        "match": "name",
+        "gazetteerName": "restaurang von döbeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthbacka",

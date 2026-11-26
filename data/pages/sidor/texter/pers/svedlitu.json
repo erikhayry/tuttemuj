@@ -40,7 +40,15 @@
       "alternateNames": [
         "Flora"
       ],
-      "description": "Svedlin donerade medel till statyn."
+      "description": "Svedlin donerade medel till statyn.",
+      "geo": {
+        "lat": 63.52429398331142,
+        "lng": 22.527773957724808,
+        "match": "name",
+        "gazetteerName": "florastatyn",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

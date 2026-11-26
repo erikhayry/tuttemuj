@@ -47,7 +47,15 @@
         "Brandkårshuset",
         "Hyddan"
       ],
-      "description": "Tornet ger utsikt över centrum."
+      "description": "Tornet ger utsikt över centrum.",
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bönehuset",
@@ -62,7 +70,15 @@
     {
       "name": "Hanséns café",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522137983947204,
+        "lng": 22.534487562964966,
+        "match": "name",
+        "gazetteerName": "hanséns café",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bromans gård",

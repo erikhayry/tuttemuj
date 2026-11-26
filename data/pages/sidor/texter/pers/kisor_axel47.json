@@ -53,7 +53,15 @@
     {
       "name": "Nordiska föreningsbanken",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522965831833396,
+        "lng": 22.529430187205104,
+        "match": "name",
+        "gazetteerName": "föreningsbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Florastatyn",
@@ -61,7 +69,15 @@
       "alternateNames": [
         "Flora"
       ],
-      "description": "I Fåfängan; seminaristerna sjöng där på Floradagen."
+      "description": "I Fåfängan; seminaristerna sjöng där på Floradagen.",
+      "geo": {
+        "lat": 63.52429398331142,
+        "lng": 22.527773957724808,
+        "match": "name",
+        "gazetteerName": "florastatyn",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Fåfängan",

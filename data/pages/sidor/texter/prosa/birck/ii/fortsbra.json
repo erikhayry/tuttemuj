@@ -154,7 +154,15 @@
       "kind": "landmark",
       "alternateNames": [
         "Gamla hamn"
-      ]
+      ],
+      "geo": {
+        "lat": 63.528147961516225,
+        "lng": 22.532372737074724,
+        "match": "name",
+        "gazetteerName": "gamla hamn",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Spruthuset",
@@ -165,12 +173,28 @@
         {
           "use": "spruthus"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.52279294332854,
+        "lng": 22.52734212032026,
+        "match": "name",
+        "gazetteerName": "spruthuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkotorget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52235437065672,
+        "lng": 22.526422516825875,
+        "match": "name",
+        "gazetteerName": "kyrkotorget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Gården nr 37",

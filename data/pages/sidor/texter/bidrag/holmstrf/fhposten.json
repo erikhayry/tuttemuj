@@ -28,7 +28,15 @@
       "name": "Postkontoret",
       "kind": "building",
       "alternateNames": [],
-      "description": "Låg i Holmströms gård längs Kyrkogatan."
+      "description": "Låg i Holmströms gård längs Kyrkogatan.",
+      "geo": {
+        "lat": 63.52378507413313,
+        "lng": 22.528341672141377,
+        "match": "name",
+        "gazetteerName": "posten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

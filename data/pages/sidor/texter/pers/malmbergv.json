@@ -35,7 +35,15 @@
       "alternateNames": [
         "Flora"
       ],
-      "description": "Statyetten Flora, skänkt till staden av nykarlebybor och uppställd utanför skulptörens barndomshem."
+      "description": "Statyetten Flora, skänkt till staden av nykarlebybor och uppställd utanför skulptörens barndomshem.",
+      "geo": {
+        "lat": 63.52429398331142,
+        "lng": 22.527773957724808,
+        "match": "name",
+        "gazetteerName": "florastatyn",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -34,7 +34,15 @@
       "name": "Seminarieområdet",
       "kind": "district",
       "alternateNames": [],
-      "description": "Området som ligger bakom utfallssänkan."
+      "description": "Området som ligger bakom utfallssänkan.",
+      "geo": {
+        "lat": 63.52644342970428,
+        "lng": 22.52616251450928,
+        "match": "name",
+        "gazetteerName": "seminarieområdet",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -19,7 +19,15 @@
           "use": "park",
           "startYear": 1886
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Seminariet",

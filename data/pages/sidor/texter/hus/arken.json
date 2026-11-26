@@ -72,7 +72,15 @@
     {
       "name": "Aspskär",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58957194719679,
+        "lng": 22.37897508331219,
+        "match": "name",
+        "gazetteerName": "aspskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Hummelskär",

@@ -38,12 +38,28 @@
     {
       "name": "Alören",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58255571909249,
+        "lng": 22.428276413635153,
+        "match": "name",
+        "gazetteerName": "alören",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Charlottenlund",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.55951991698526,
+        "lng": 22.43378997179907,
+        "match": "name",
+        "gazetteerName": "charlottenlund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Djupsten",

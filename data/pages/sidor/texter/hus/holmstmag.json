@@ -33,7 +33,15 @@
       "name": "Holmströms magasin",
       "kind": "building",
       "alternateNames": [],
-      "description": "Nordväst om kyrkan på älvstranden, ungefär där ankaret finns i dag."
+      "description": "Nordväst om kyrkan på älvstranden, ungefär där ankaret finns i dag.",
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkan",

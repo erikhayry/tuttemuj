@@ -14,7 +14,15 @@
       "name": "nykarleby jernväg",
       "kind": "other",
       "alternateNames": [],
-      "description": "Museijärnvägsföreningen som gav ut vykortet."
+      "description": "Museijärnvägsföreningen som gav ut vykortet.",
+      "geo": {
+        "lat": 63.52536667468017,
+        "lng": 22.54687224014678,
+        "match": "name",
+        "gazetteerName": "nykarleby järnväg",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     }
   ],
   "events": [

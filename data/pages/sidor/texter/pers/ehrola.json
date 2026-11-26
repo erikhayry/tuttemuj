@@ -41,7 +41,15 @@
       "name": "Busstationen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Busstationen låg i Glassbaren-Gulf-huset vid esplanaden och Borgaregatan."
+      "description": "Busstationen låg i Glassbaren-Gulf-huset vid esplanaden och Borgaregatan.",
+      "geo": {
+        "lat": 63.52222387418698,
+        "lng": 22.53014916884063,
+        "match": "name",
+        "gazetteerName": "busstationen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Glassbaren",

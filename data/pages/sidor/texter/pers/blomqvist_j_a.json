@@ -26,7 +26,15 @@
       "name": "Posten",
       "kind": "building",
       "alternateNames": [],
-      "description": "Posten och telegrafen, vars trappa Jan-Anders sitter på."
+      "description": "Posten och telegrafen, vars trappa Jan-Anders sitter på.",
+      "geo": {
+        "lat": 63.52378507413313,
+        "lng": 22.528341672141377,
+        "match": "name",
+        "gazetteerName": "posten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybo",

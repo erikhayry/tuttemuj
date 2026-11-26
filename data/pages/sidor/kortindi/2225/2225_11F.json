@@ -29,7 +29,15 @@
       "name": "Sarlinska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gård vid Borgaregatan i övre vänstra hörnet."
+      "description": "Gård vid Borgaregatan i övre vänstra hörnet.",
+      "geo": {
+        "lat": 63.52394092740199,
+        "lng": 22.529852667959084,
+        "match": "name",
+        "gazetteerName": "sarlinska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Grundfeldtska gården",

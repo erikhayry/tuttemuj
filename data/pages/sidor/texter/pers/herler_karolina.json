@@ -49,7 +49,15 @@
       "alternateNames": [
         "det herlerska hemmet vid älvens strand"
       ],
-      "description": "Hem vid älvens strand."
+      "description": "Hem vid älvens strand.",
+      "geo": {
+        "lat": 63.52093372972557,
+        "lng": 22.525638386685962,
+        "match": "name",
+        "gazetteerName": "herlerska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -55,7 +55,15 @@
       "name": "Mejeriet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Mejeriet där en man poserade med ett sto 1951."
+      "description": "Mejeriet där en man poserade med ett sto 1951.",
+      "geo": {
+        "lat": 63.52116485527564,
+        "lng": 22.527155272004673,
+        "match": "name",
+        "gazetteerName": "mejeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Lillbron",

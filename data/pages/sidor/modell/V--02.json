@@ -63,7 +63,15 @@
     {
       "name": "Herlerska gården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52093372972557,
+        "lng": 22.525638386685962,
+        "match": "name",
+        "gazetteerName": "herlerska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Forsby byagård",

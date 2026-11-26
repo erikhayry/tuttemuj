@@ -139,7 +139,15 @@
           "startYear": 1867,
           "endYear": 1867
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.52279294332854,
+        "lng": 22.52734212032026,
+        "match": "name",
+        "gazetteerName": "spruthuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby kyrka",

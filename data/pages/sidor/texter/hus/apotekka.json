@@ -30,7 +30,15 @@
       "name": "Apoteksbacken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Vid korsningen Kyrkogatan–Borgaregatan."
+      "description": "Vid korsningen Kyrkogatan–Borgaregatan.",
+      "geo": {
+        "lat": 63.524462187408105,
+        "lng": 22.527734294694085,
+        "match": "name",
+        "gazetteerName": "apoteksbacken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkogatan",

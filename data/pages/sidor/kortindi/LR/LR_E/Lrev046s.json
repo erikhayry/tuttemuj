@@ -58,7 +58,15 @@
         "Pensars gård",
         "Bergers gård"
       ],
-      "description": "Handelsgården som nu kallas Nylunds, tidigare Pensars."
+      "description": "Handelsgården som nu kallas Nylunds, tidigare Pensars.",
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Sundströms gård",

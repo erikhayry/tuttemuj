@@ -201,7 +201,15 @@
     {
       "name": "Harald",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4766530878393,
+        "lng": 22.537315932150378,
+        "match": "name",
+        "gazetteerName": "harald",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Haraldsholmen",

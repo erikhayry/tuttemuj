@@ -1219,7 +1219,15 @@
       "name": "Topeliusgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Den norra gatan som gjorts om till park."
+      "description": "Den norra gatan som gjorts om till park.",
+      "geo": {
+        "lat": 63.52467191532589,
+        "lng": 22.53363920559916,
+        "match": "name",
+        "gazetteerName": "topeliusgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Mathesiusgatan",
@@ -1919,7 +1927,15 @@
       "alternateNames": [
         "Idrottsgården"
       ],
-      "description": "Byggd på 1960-talet."
+      "description": "Byggd på 1960-talet.",
+      "geo": {
+        "lat": 63.52068762498356,
+        "lng": 22.514781434637346,
+        "match": "name",
+        "gazetteerName": "idrotts- och ungdomsgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Frillmossen",
@@ -2004,7 +2020,15 @@
     {
       "name": "Sockenstuguberget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521384222901204,
+        "lng": 22.52662328781764,
+        "match": "name",
+        "gazetteerName": "sockenstuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Prostas hagan",
@@ -2331,7 +2355,15 @@
         {
           "use": "åldringscenter"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.519185566198,
+        "lng": 22.531305293375013,
+        "match": "name",
+        "gazetteerName": "hagalund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Vattentornet",

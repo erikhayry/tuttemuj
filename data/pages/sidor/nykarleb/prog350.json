@@ -20,7 +20,15 @@
       "name": "idrotts- och ungdomsgården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huvudfesten hölls här."
+      "description": "Huvudfesten hölls här.",
+      "geo": {
+        "lat": 63.52068762498356,
+        "lng": 22.514781434637346,
+        "match": "name",
+        "gazetteerName": "idrotts- och ungdomsgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

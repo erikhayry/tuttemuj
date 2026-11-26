@@ -137,12 +137,28 @@
     {
       "name": "Hagalund",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.519185566198,
+        "lng": 22.531305293375013,
+        "match": "name",
+        "gazetteerName": "hagalund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Hanséns café",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522137983947204,
+        "lng": 22.534487562964966,
+        "match": "name",
+        "gazetteerName": "hanséns café",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

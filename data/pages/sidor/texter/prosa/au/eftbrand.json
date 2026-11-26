@@ -52,7 +52,15 @@
     {
       "name": "Kyrkotorget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52235437065672,
+        "lng": 22.526422516825875,
+        "match": "name",
+        "gazetteerName": "kyrkotorget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

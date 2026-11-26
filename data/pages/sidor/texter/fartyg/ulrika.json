@@ -96,7 +96,15 @@
     {
       "name": "Restaurang von Döbeln",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522418769115106,
+        "lng": 22.531700963103503,
+        "match": "name",
+        "gazetteerName": "restaurang von döbeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Vasklot",

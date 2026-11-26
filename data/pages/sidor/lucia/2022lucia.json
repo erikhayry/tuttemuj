@@ -91,7 +91,15 @@
       "name": "församlingshemmet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Här hölls luciafesten 2022."
+      "description": "Här hölls luciafesten 2022.",
+      "geo": {
+        "lat": 63.520578859366424,
+        "lng": 22.53289007604204,
+        "match": "name",
+        "gazetteerName": "församlingshemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

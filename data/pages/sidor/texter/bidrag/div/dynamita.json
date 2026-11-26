@@ -55,7 +55,15 @@
       "kind": "building",
       "alternateNames": [
         "Jeansborg nr 13"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51835179085641,
+        "lng": 22.527190709333077,
+        "match": "name",
+        "gazetteerName": "kyrkoby skola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Joupers fabrik",
@@ -104,7 +112,15 @@
     {
       "name": "Sockenstuguberget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521384222901204,
+        "lng": 22.52662328781764,
+        "match": "name",
+        "gazetteerName": "sockenstuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Forsby",

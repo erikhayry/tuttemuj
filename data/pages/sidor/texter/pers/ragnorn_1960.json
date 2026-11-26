@@ -117,7 +117,15 @@
       "alternateNames": [
         "Ragnörforsen"
       ],
-      "description": "Forsen där rensningen skedde."
+      "description": "Forsen där rensningen skedde.",
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     }
   ],
   "events": [

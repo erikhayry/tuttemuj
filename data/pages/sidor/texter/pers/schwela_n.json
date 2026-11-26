@@ -22,7 +22,15 @@
       "kind": "building",
       "alternateNames": [
         "Nykarleby postkontor"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52378507413313,
+        "lng": 22.528341672141377,
+        "match": "name",
+        "gazetteerName": "posten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

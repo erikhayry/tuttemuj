@@ -23,7 +23,15 @@
       "name": "charlottenlund",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Huset nära namnberget."
+      "description": "Huset nära namnberget.",
+      "geo": {
+        "lat": 63.55951991698526,
+        "lng": 22.43378997179907,
+        "match": "name",
+        "gazetteerName": "charlottenlund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

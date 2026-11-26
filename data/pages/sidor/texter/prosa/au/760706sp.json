@@ -35,7 +35,15 @@
       "name": "Spruthuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Skonades av branden 1858 och står halvvägs ut i gatan enligt nya planen; flyttas österut vid torget."
+      "description": "Skonades av branden 1858 och står halvvägs ut i gatan enligt nya planen; flyttas österut vid torget.",
+      "geo": {
+        "lat": 63.52279294332854,
+        "lng": 22.52734212032026,
+        "match": "name",
+        "gazetteerName": "spruthuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Telegrafstationen",

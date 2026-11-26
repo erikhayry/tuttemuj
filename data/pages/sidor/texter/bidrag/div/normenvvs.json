@@ -53,12 +53,28 @@
     {
       "name": "Kyrkbrunnen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52281787172463,
+        "lng": 22.527306701582177,
+        "match": "name",
+        "gazetteerName": "kyrkbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströms magasin",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

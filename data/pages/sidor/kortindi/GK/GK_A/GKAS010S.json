@@ -12,7 +12,15 @@
       "name": "Skogsparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Parken på kortet."
+      "description": "Parken på kortet.",
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

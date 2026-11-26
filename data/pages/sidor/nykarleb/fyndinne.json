@@ -13,7 +13,15 @@
       "name": "aspskär",
       "kind": "island",
       "alternateNames": [],
-      "description": "Plats för ett vrak med fynd från 1600- och 1700-talen."
+      "description": "Plats för ett vrak med fynd från 1600- och 1700-talen.",
+      "geo": {
+        "lat": 63.58957194719679,
+        "lng": 22.37897508331219,
+        "match": "name",
+        "gazetteerName": "aspskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "markby",

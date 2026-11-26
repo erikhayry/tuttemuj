@@ -26,7 +26,15 @@
       "alternateNames": [
         "Stadsforsen"
       ],
-      "description": "Forsen fotograferad söderut från Storbron."
+      "description": "Forsen fotograferad söderut från Storbron.",
+      "geo": {
+        "lat": 63.52084241328539,
+        "lng": 22.52395539238511,
+        "match": "name",
+        "gazetteerName": "juthforsen",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Brunnsholmarna",

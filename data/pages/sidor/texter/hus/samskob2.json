@@ -70,7 +70,15 @@
     {
       "name": "Sarlinska gården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52394092740199,
+        "lng": 22.529852667959084,
+        "match": "name",
+        "gazetteerName": "sarlinska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Borgaregatan",

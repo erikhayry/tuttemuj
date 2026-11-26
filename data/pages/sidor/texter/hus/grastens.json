@@ -153,7 +153,15 @@
     {
       "name": "Holmströms magasin",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Sundströms magasin",
@@ -163,7 +171,15 @@
     {
       "name": "Sockenstuguberget",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521384222901204,
+        "lng": 22.52662328781764,
+        "match": "name",
+        "gazetteerName": "sockenstuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [

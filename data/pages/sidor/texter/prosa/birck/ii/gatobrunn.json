@@ -103,7 +103,15 @@
           "startYear": 1837,
           "endYear": 1837
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.52235437065672,
+        "lng": 22.526422516825875,
+        "match": "name",
+        "gazetteerName": "kyrkotorget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadsbäcken",

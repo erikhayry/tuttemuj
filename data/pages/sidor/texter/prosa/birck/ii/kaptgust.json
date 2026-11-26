@@ -139,7 +139,15 @@
     {
       "name": "Alörsfjärden",
       "kind": "waterbody",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58629777431156,
+        "lng": 22.447330826826224,
+        "match": "name",
+        "gazetteerName": "alörsfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Charlottenlund",
@@ -150,7 +158,15 @@
         {
           "use": "villa"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.55951991698526,
+        "lng": 22.43378997179907,
+        "match": "name",
+        "gazetteerName": "charlottenlund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Monäs sund",

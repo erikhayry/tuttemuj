@@ -24,7 +24,15 @@
       "alternateNames": [
         "Alö"
       ],
-      "description": "Nykarlebybornas sommarställe med varv, villan Myggan, Namnberget och Charlottenlund."
+      "description": "Nykarlebybornas sommarställe med varv, villan Myggan, Namnberget och Charlottenlund.",
+      "geo": {
+        "lat": 63.58288673778681,
+        "lng": 22.426419952651553,
+        "match": "name",
+        "gazetteerName": "alön",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Alö hamn",

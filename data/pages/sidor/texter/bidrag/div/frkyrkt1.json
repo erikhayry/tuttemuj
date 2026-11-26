@@ -56,14 +56,30 @@
     {
       "name": "Kyrkbrunnen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52281787172463,
+        "lng": 22.527306701582177,
+        "match": "name",
+        "gazetteerName": "kyrkbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Sandqvistska gården",
       "kind": "farm",
       "alternateNames": [
         "Holmströms"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

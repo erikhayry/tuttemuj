@@ -14,7 +14,15 @@
       "name": "kärleksstigen",
       "kind": "street",
       "alternateNames": [],
-      "description": "Stig nedanför Bomans gård vid Seminariegatan, där 20 km-målningen finns."
+      "description": "Stig nedanför Bomans gård vid Seminariegatan, där 20 km-målningen finns.",
+      "geo": {
+        "lat": 63.523054163526695,
+        "lng": 22.524079197302466,
+        "match": "name",
+        "gazetteerName": "kärleksstigen",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "bomans gård",

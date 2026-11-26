@@ -20,7 +20,15 @@
       "name": "Hotell Eden",
       "kind": "building",
       "alternateNames": [],
-      "description": "Restaurang von Döbeln och Hotell Eden."
+      "description": "Restaurang von Döbeln och Hotell Eden.",
+      "geo": {
+        "lat": 63.522445654003285,
+        "lng": 22.531176547364193,
+        "match": "name",
+        "gazetteerName": "hotell eden",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bankgatan",

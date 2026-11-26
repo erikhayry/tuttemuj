@@ -56,7 +56,15 @@
       "name": "trivialskolan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858."
+      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858.",
+      "geo": {
+        "lat": 63.521920603003906,
+        "lng": 22.52700863939408,
+        "match": "name",
+        "gazetteerName": "trivialskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "nykarleby museum",

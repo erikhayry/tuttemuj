@@ -42,7 +42,15 @@
       "name": "hanséns café",
       "kind": "building",
       "alternateNames": [],
-      "description": "Grundarbetena för caféet pågick när bilden togs."
+      "description": "Grundarbetena för caféet pågick när bilden togs.",
+      "geo": {
+        "lat": 63.522137983947204,
+        "lng": 22.534487562964966,
+        "match": "name",
+        "gazetteerName": "hanséns café",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

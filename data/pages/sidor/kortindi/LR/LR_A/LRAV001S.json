@@ -84,7 +84,15 @@
       "name": "Brandkårshuset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gamla brandkårshuset, nu ägt av missionsförsamlingen."
+      "description": "Gamla brandkårshuset, nu ägt av missionsförsamlingen.",
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

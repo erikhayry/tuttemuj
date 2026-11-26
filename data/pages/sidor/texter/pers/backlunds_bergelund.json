@@ -19,7 +19,15 @@
       "name": "Skogsparken",
       "kind": "district",
       "alternateNames": [],
-      "description": "Där ett litet hus stod, som en av personerna på fotot bodde i."
+      "description": "Där ett litet hus stod, som en av personerna på fotot bodde i.",
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

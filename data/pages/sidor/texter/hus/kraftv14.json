@@ -189,7 +189,15 @@
       "kind": "waterbody",
       "alternateNames": [
         "Stadsforsen"
-      ]
+      ],
+      "geo": {
+        "lat": 63.518901957916576,
+        "lng": 22.52209451221638,
+        "match": "name",
+        "gazetteerName": "nykarleby stadsfors",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Utskovsluckan",
@@ -236,7 +244,15 @@
     {
       "name": "Alörsfjärden",
       "kind": "waterbody",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58629777431156,
+        "lng": 22.447330826826224,
+        "match": "name",
+        "gazetteerName": "alörsfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Tvättinrättningen",

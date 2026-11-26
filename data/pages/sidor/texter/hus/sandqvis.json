@@ -145,7 +145,15 @@
         "Tomt 43",
         "Sandqvistska gården"
       ],
-      "description": "Vid korsningen Bankgatan–Kyrkogatan; tomt 43, före branden 2—3. Stadens största gård."
+      "description": "Vid korsningen Bankgatan–Kyrkogatan; tomt 43, före branden 2—3. Stadens största gård.",
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Grönhuset",

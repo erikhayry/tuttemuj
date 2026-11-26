@@ -160,17 +160,41 @@
     {
       "name": "Restaurang von Döbeln",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522418769115106,
+        "lng": 22.531700963103503,
+        "match": "name",
+        "gazetteerName": "restaurang von döbeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Hotell Eden",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522445654003285,
+        "lng": 22.531176547364193,
+        "match": "name",
+        "gazetteerName": "hotell eden",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Posten",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52378507413313,
+        "lng": 22.528341672141377,
+        "match": "name",
+        "gazetteerName": "posten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Telefonväxeln",

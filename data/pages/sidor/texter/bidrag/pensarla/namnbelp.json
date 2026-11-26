@@ -96,7 +96,15 @@
       "kind": "building",
       "alternateNames": [
         "Lugnet"
-      ]
+      ],
+      "geo": {
+        "lat": 63.55951991698526,
+        "lng": 22.43378997179907,
+        "match": "name",
+        "gazetteerName": "charlottenlund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Pettersborg",

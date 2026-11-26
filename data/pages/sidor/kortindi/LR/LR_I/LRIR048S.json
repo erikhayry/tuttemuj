@@ -14,7 +14,15 @@
       "kind": "waterbody",
       "alternateNames": [
         "Juthforsen"
-      ]
+      ],
+      "geo": {
+        "lat": 63.518901957916576,
+        "lng": 22.52209451221638,
+        "match": "name",
+        "gazetteerName": "nykarleby stadsfors",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Seminariet",

@@ -35,7 +35,15 @@
       "name": "ragnörn",
       "kind": "other",
       "alternateNames": [],
-      "description": "Fångstplats för nejonögon i älven. Här finns en grop som fungerar som sump."
+      "description": "Fångstplats för nejonögon i älven. Här finns en grop som fungerar som sump.",
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "frill",

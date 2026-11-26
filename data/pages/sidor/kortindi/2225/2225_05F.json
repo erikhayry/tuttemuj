@@ -30,7 +30,15 @@
       "name": "Pensars gård",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gården vars trappa syns på kortet."
+      "description": "Gården vars trappa syns på kortet.",
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

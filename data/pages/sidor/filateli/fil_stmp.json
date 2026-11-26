@@ -25,7 +25,15 @@
     {
       "name": "Nykarleby postkontor",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52378507413313,
+        "lng": 22.528341672141377,
+        "match": "name",
+        "gazetteerName": "posten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kovjoki",

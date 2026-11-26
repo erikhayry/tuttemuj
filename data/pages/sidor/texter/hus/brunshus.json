@@ -26,7 +26,15 @@
     {
       "name": "Värdshuset på Brunnsholmarna",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51849194746259,
+        "lng": 22.521803964142805,
+        "match": "name",
+        "gazetteerName": "värdshuset på brunnsholmarna",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Brunnsholmarna",

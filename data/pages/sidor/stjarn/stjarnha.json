@@ -26,12 +26,28 @@
       "name": "Idrotts- och ungdomsgården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gamla byggnaden som revs och byggdes om."
+      "description": "Gamla byggnaden som revs och byggdes om.",
+      "geo": {
+        "lat": 63.52068762498356,
+        "lng": 22.514781434637346,
+        "match": "name",
+        "gazetteerName": "idrotts- och ungdomsgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Församlingshemmet",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.520578859366424,
+        "lng": 22.53289007604204,
+        "match": "name",
+        "gazetteerName": "församlingshemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

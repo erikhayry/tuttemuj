@@ -33,7 +33,15 @@
     {
       "name": "Ragnörn",
       "kind": "waterbody",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Vernamo",
@@ -80,7 +88,15 @@
       "kind": "waterbody",
       "alternateNames": [
         "Juthforsen"
-      ]
+      ],
+      "geo": {
+        "lat": 63.518901957916576,
+        "lng": 22.52209451221638,
+        "match": "name",
+        "gazetteerName": "nykarleby stadsfors",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     }
   ],
   "events": [

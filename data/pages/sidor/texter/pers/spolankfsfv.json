@@ -59,12 +59,28 @@
       "kind": "building",
       "alternateNames": [
         "Nordiska Föreningsbanken"
-      ]
+      ],
+      "geo": {
+        "lat": 63.522965831833396,
+        "lng": 22.529430187205104,
+        "match": "name",
+        "gazetteerName": "föreningsbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby järnväg",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52536667468017,
+        "lng": 22.54687224014678,
+        "match": "name",
+        "gazetteerName": "nykarleby järnväg",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -19,7 +19,15 @@
     {
       "name": "Kyrkoby skola",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51835179085641,
+        "lng": 22.527190709333077,
+        "match": "name",
+        "gazetteerName": "kyrkoby skola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

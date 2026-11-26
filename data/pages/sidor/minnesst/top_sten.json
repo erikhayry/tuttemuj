@@ -89,7 +89,15 @@
       "name": "pensars gård",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Tjänstgjorde som rådhus 1918, när stadsborna möttes för att planera stenen."
+      "description": "Tjänstgjorde som rådhus 1918, när stadsborna möttes för att planera stenen.",
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

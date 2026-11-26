@@ -86,7 +86,15 @@
     {
       "name": "Hanséns café",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522137983947204,
+        "lng": 22.534487562964966,
+        "match": "name",
+        "gazetteerName": "hanséns café",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "KAP-PAS",
@@ -100,7 +108,15 @@
       "kind": "building",
       "alternateNames": [
         "Bönehuset"
-      ]
+      ],
+      "geo": {
+        "lat": 63.520578859366424,
+        "lng": 22.53289007604204,
+        "match": "name",
+        "gazetteerName": "församlingshemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Emil Fors järnaffär",

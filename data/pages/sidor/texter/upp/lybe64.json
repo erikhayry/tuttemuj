@@ -71,7 +71,15 @@
     {
       "name": "Topeliusgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52467191532589,
+        "lng": 22.53363920559916,
+        "match": "name",
+        "gazetteerName": "topeliusgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Mathesiusgatan",

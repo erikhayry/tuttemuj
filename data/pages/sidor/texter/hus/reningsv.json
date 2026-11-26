@@ -31,7 +31,15 @@
     {
       "name": "Ragnörn",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Gamla begravningsplatsen",

@@ -48,7 +48,15 @@
     {
       "name": "Alören",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58255571909249,
+        "lng": 22.428276413635153,
+        "match": "name",
+        "gazetteerName": "alören",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Djupsten",

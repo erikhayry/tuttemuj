@@ -36,7 +36,15 @@
     {
       "name": "Västra esplanadgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Sollefteågatan",
@@ -54,7 +62,15 @@
     {
       "name": "Topeliusgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52467191532589,
+        "lng": 22.53363920559916,
+        "match": "name",
+        "gazetteerName": "topeliusgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Andrasjövägen",

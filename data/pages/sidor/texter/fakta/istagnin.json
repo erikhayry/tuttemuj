@@ -49,7 +49,15 @@
       "name": "mejeriet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Isen användes i mejeriet."
+      "description": "Isen användes i mejeriet.",
+      "geo": {
+        "lat": 63.52116485527564,
+        "lng": 22.527155272004673,
+        "match": "name",
+        "gazetteerName": "mejeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "kraftverksdammen",

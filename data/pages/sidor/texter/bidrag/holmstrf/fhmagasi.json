@@ -32,7 +32,15 @@
       "kind": "building",
       "alternateNames": [
         "bilstallet"
-      ]
+      ],
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Stora bron",

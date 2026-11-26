@@ -37,7 +37,15 @@
     {
       "name": "Busstationen",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52222387418698,
+        "lng": 22.53014916884063,
+        "match": "name",
+        "gazetteerName": "busstationen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Lippjärv",

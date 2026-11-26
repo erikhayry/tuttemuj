@@ -55,7 +55,15 @@
     {
       "name": "Föreningsbanken",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522965831833396,
+        "lng": 22.529430187205104,
+        "match": "name",
+        "gazetteerName": "föreningsbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

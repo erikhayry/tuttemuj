@@ -39,7 +39,15 @@
       "name": "Trivialskolan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huset där den manuella telefonväxeln fanns."
+      "description": "Huset där den manuella telefonväxeln fanns.",
+      "geo": {
+        "lat": 63.521920603003906,
+        "lng": 22.52700863939408,
+        "match": "name",
+        "gazetteerName": "trivialskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rudnäs ur & guld",

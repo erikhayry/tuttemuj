@@ -51,7 +51,15 @@
       "kind": "building",
       "alternateNames": [
         "idrotts- och ungdomsgården"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52068762498356,
+        "lng": 22.514781434637346,
+        "match": "name",
+        "gazetteerName": "idrotts- och ungdomsgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

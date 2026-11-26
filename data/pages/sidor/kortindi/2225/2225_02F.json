@@ -51,7 +51,15 @@
       "name": "Busstationen",
       "kind": "other",
       "alternateNames": [],
-      "description": "Syns i bilden kring torget."
+      "description": "Syns i bilden kring torget.",
+      "geo": {
+        "lat": 63.52222387418698,
+        "lng": 22.53014916884063,
+        "match": "name",
+        "gazetteerName": "busstationen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Östra Esplanadgatan",
@@ -71,7 +79,15 @@
       "name": "Västra Esplanadgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Gatan syns från norr i bilden, med Samskolan."
+      "description": "Gatan syns från norr i bilden, med Samskolan.",
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Samskolan",

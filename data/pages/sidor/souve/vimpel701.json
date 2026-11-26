@@ -25,7 +25,15 @@
     {
       "name": "nykarleby vattentorn",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52427410771508,
+        "lng": 22.537208828429847,
+        "match": "name",
+        "gazetteerName": "nykarleby vattentorn",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

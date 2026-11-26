@@ -69,7 +69,15 @@
       "name": "Holmströms",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Grannen mot vilken den lilla byggnaden låg."
+      "description": "Grannen mot vilken den lilla byggnaden låg.",
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "De gamlas hem",

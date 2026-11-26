@@ -1,5 +1,10 @@
 [
   {
+    "name": "alörsfjärden",
+    "kind": "waterbody",
+    "location": { "lat": 63.58629777431156, "lng": 22.447330826826224 }
+  },
+  {
     "name": "astasalen",
     "kind": "building",
     "note": "Exhibition venue in Nykarleby."
@@ -18,9 +23,19 @@
     "note": "Pub in Nykarleby."
   },
   {
+    "name": "gamla hamn",
+    "kind": "district",
+    "location": { "lat": 63.528147961516225, "lng": 22.532372737074724 }
+  },
+  {
     "name": "hällgrunds båk",
     "kind": "landmark",
     "note": "Beacon built 1824 by Nykarleby burghers."
+  },
+  {
+    "name": "juthforsen",
+    "kind": "waterbody",
+    "location": { "lat": 63.52084241328539, "lng": 22.52395539238511 }
   },
   {
     "name": "leppon",
@@ -162,12 +177,14 @@
   },
   {
     "name": "alön",
-    "kind": "island"
+    "kind": "island",
+    "location": { "lat": 63.58288673778681, "lng": 22.426419952651553 }
   },
   {
     "name": "alören",
     "kind": "island",
-    "note": "Island in the Nykarleby archipelago."
+    "note": "Island in the Nykarleby archipelago.",
+    "location": { "lat": 63.58255571909249, "lng": 22.428276413635153 }
   },
   {
     "name": "alörn",
@@ -280,7 +297,8 @@
   },
   {
     "name": "apoteksbacken",
-    "kind": "landmark"
+    "kind": "landmark",
+    "location": { "lat": 63.524462187408105, "lng": 22.527734294694085 }
   },
   {
     "name": "apoteksentrén",
@@ -330,7 +348,8 @@
   },
   {
     "name": "aspskär",
-    "kind": "island"
+    "kind": "island",
+    "location": { "lat": 63.58957194719679, "lng": 22.37897508331219 }
   },
   {
     "name": "aspskärssund",
@@ -746,7 +765,8 @@
       "hyddan",
       "missionshuset"
     ],
-    "note": "Fire-brigade house Asgård with the tower, later Missionshuset/Hyddan."
+    "note": "Fire-brigade house Asgård with the tower, later Missionshuset/Hyddan.",
+    "location": { "lat": 63.52168882172475, "lng": 22.532311417528305 }
   },
   {
     "name": "brandstationen",
@@ -861,7 +881,8 @@
     "kind": "island",
     "alternateNames": [
       "brunns holmen"
-    ]
+    ],
+    "location": { "lat": 63.51789660647075, "lng": 22.521220181493575 }
   },
   {
     "name": "brunnsholmens danshus",
@@ -929,7 +950,8 @@
   },
   {
     "name": "busstationen",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52222387418698, "lng": 22.53014916884063 }
   },
   {
     "name": "butkan",
@@ -1049,7 +1071,8 @@
   },
   {
     "name": "charlottenlund",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.55951991698526, "lng": 22.43378997179907 }
   },
   {
     "name": "charlottenlunds drängstuga",
@@ -1490,7 +1513,8 @@
     "alternateNames": [
       "flora"
     ],
-    "note": "Statue in Fåfängan."
+    "note": "Statue in Fåfängan.",
+    "location": { "lat": 63.52429398331142, "lng": 22.527773957724808 }
   },
   {
     "name": "florina",
@@ -1782,7 +1806,8 @@
       "von döbelns hus",
       "nordiska föreningsbanken"
     ],
-    "note": "Bank building owned by the Barck family; also called von Döbelns hus."
+    "note": "Bank building owned by the Barck family; also called von Döbelns hus.",
+    "location": { "lat": 63.522965831833396, "lng": 22.529430187205104 }
   },
   {
     "name": "föreningsbankens uthus",
@@ -1799,7 +1824,8 @@
   },
   {
     "name": "församlingshemmet",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.520578859366424, "lng": 22.53289007604204 }
   },
   {
     "name": "galgbacken",
@@ -2045,7 +2071,8 @@
     "kind": "island",
     "alternateNames": [
       "grisselön"
-    ]
+    ],
+    "location": { "lat": 63.61206729765105, "lng": 22.492223954581956 }
   },
   {
     "name": "grosshandlarvillan",
@@ -2329,7 +2356,8 @@
   },
   {
     "name": "hagalund",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.519185566198, "lng": 22.531305293375013 }
   },
   {
     "name": "hagalunds åldringscenter",
@@ -2380,12 +2408,14 @@
   },
   {
     "name": "hanséns café",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.522137983947204, "lng": 22.534487562964966 }
   },
   {
     "name": "harald",
     "kind": "farm",
-    "alternateNames": ["haralds hemman"]
+    "alternateNames": ["haralds hemman"],
+    "location": { "lat": 63.4766530878393, "lng": 22.537315932150378 }
   },
   {
     "name": "haralden",
@@ -2511,7 +2541,8 @@
     "alternateNames": [
       "herlerska hemmet",
       "det herlerska hemmet vid älvens strand"
-    ]
+    ],
+    "location": { "lat": 63.52093372972557, "lng": 22.525638386685962 }
   },
   {
     "name": "heselius kvarn",
@@ -2551,7 +2582,8 @@
     "kind": "building",
     "alternateNames": [
       "holmströms"
-    ]
+    ],
+    "location": { "lat": 63.52334137631144, "lng": 22.526668366978203 }
   },
   {
     "name": "holmströms lekstuga",
@@ -2559,7 +2591,8 @@
   },
   {
     "name": "holmströms magasin",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.522933815872186, "lng": 22.526108845346094 }
   },
   {
     "name": "holmströms uthus",
@@ -2592,7 +2625,8 @@
     "alternateNames": [
       "eden hotel",
       "eden hotell"
-    ]
+    ],
+    "location": { "lat": 63.522445654003285, "lng": 22.531176547364193 }
   },
   {
     "name": "hotell juthbacka",
@@ -2723,7 +2757,8 @@
   {
     "name": "idrotts- och ungdomsgården",
     "kind": "building",
-    "note": "Sports and youth centre; 350-year jubilee festival 1970."
+    "note": "Sports and youth centre; 350-year jubilee festival 1970.",
+    "location": { "lat": 63.52068762498356, "lng": 22.514781434637346 }
   },
   {
     "name": "idrotts-ungdomsgården",
@@ -3008,7 +3043,8 @@
     "alternateNames": [
       "nykarleby ungdomsförenings hus",
       "juthbacka teaters hus"
-    ]
+    ],
+    "location": { "lat": 63.51989683887683, "lng": 22.534423189947866 }
   },
   {
     "name": "juthbackaallén",
@@ -3683,7 +3719,8 @@
   {
     "name": "kyrkbrunnen",
     "kind": "landmark",
-    "note": "Well in the churchyard, built 1841."
+    "note": "Well in the churchyard, built 1841.",
+    "location": { "lat": 63.52281787172463, "lng": 22.527306701582177 }
   },
   {
     "name": "kyrkby skola",
@@ -3726,7 +3763,8 @@
   {
     "name": "kyrkoby skola",
     "kind": "building",
-    "note": "School in Kyrkoby."
+    "note": "School in Kyrkoby.",
+    "location": { "lat": 63.51835179085641, "lng": 22.527190709333077 }
   },
   {
     "name": "kyrkogården",
@@ -3758,7 +3796,8 @@
     "alternateNames": [
       "kyrktorget",
       "kÿrkiotorget"
-    ]
+    ],
+    "location": { "lat": 63.52235437065672, "lng": 22.526422516825875 }
   },
   {
     "name": "kyrkovallen",
@@ -3846,7 +3885,8 @@
   },
   {
     "name": "kärleksstigen",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.523054163526695, "lng": 22.524079197302466 }
   },
   {
     "name": "kärlekstallen",
@@ -4573,7 +4613,8 @@
   {
     "name": "mejeriet",
     "kind": "building",
-    "note": "Dairy built 1937 near the children's home and Bangatan."
+    "note": "Dairy built 1937 near the children's home and Bangatan.",
+    "location": { "lat": 63.52116485527564, "lng": 22.527155272004673 }
   },
   {
     "name": "mejeriets skorsten",
@@ -5170,7 +5211,8 @@
       "järnvägen",
       "nykarleby jernväg"
     ],
-    "note": "Narrow-gauge railway, sold 1916."
+    "note": "Narrow-gauge railway, sold 1916.",
+    "location": { "lat": 63.52536667468017, "lng": 22.54687224014678 }
   },
   {
     "name": "nykarleby järnvägsstation",
@@ -5279,7 +5321,8 @@
     "kind": "waterbody",
     "alternateNames": [
       "stadsforsen"
-    ]
+    ],
+    "location": { "lat": 63.518901957916576, "lng": 22.52209451221638 }
   },
   {
     "name": "nykarleby telegrafkontor",
@@ -5299,7 +5342,8 @@
     "kind": "building",
     "alternateNames": [
       "per aspera ad astra"
-    ]
+    ],
+    "location": { "lat": 63.52427410771508, "lng": 22.537208828429847 }
   },
   {
     "name": "nykarleby värdshus",
@@ -5515,7 +5559,8 @@
   },
   {
     "name": "pensars gård",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52300251896424, "lng": 22.528289334287365 }
   },
   {
     "name": "pentzinsgrundet",
@@ -5577,7 +5622,8 @@
       "postkontoret",
       "nykarleby postkontor",
       "postkontoret i nykarleby"
-    ]
+    ],
+    "location": { "lat": 63.52378507413313, "lng": 22.528341672141377 }
   },
   {
     "name": "postmästargården",
@@ -5705,7 +5751,8 @@
   },
   {
     "name": "ragnörn",
-    "kind": "other"
+    "kind": "other",
+    "location": { "lat": 63.51797704112232, "lng": 22.52131347383679 }
   },
   {
     "name": "rajåkern",
@@ -5775,7 +5822,8 @@
     "kind": "building",
     "alternateNames": [
       "restaurang v döbeln"
-    ]
+    ],
+    "location": { "lat": 63.522418769115106, "lng": 22.531700963103503 }
   },
   {
     "name": "rian-rian",
@@ -6162,7 +6210,8 @@
   },
   {
     "name": "sarlinska gården",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52394092740199, "lng": 22.529852667959084 }
   },
   {
     "name": "sauna obscura",
@@ -6246,7 +6295,8 @@
   },
   {
     "name": "seminarieområdet",
-    "kind": "district"
+    "kind": "district",
+    "location": { "lat": 63.52644342970428, "lng": 22.52616251450928 }
   },
   {
     "name": "seminariesalen",
@@ -6454,7 +6504,8 @@
   },
   {
     "name": "skogsparken",
-    "kind": "landmark"
+    "kind": "landmark",
+    "location": { "lat": 63.5266819425088, "lng": 22.517727743444205 }
   },
   {
     "name": "skogsparkens skola",
@@ -6593,7 +6644,8 @@
     "kind": "landmark",
     "alternateNames": [
       "bergh"
-    ]
+    ],
+    "location": { "lat": 63.521384222901204, "lng": 22.52662328781764 }
   },
   {
     "name": "socklot",
@@ -6781,7 +6833,8 @@
     "alternateNames": [
       "spruthus",
       "stadens spruthus"
-    ]
+    ],
+    "location": { "lat": 63.52279294332854, "lng": 22.52734212032026 }
   },
   {
     "name": "spåras uthus",
@@ -7532,7 +7585,8 @@
   },
   {
     "name": "topeliusgatan",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.52467191532589, "lng": 22.53363920559916 }
   },
   {
     "name": "topeliusgymnasiet",
@@ -7669,7 +7723,8 @@
   {
     "name": "trivialskolan",
     "kind": "building",
-    "note": "Former elementary school, now Rådhuset."
+    "note": "Former elementary school, now Rådhuset.",
+    "location": { "lat": 63.521920603003906, "lng": 22.52700863939408 }
   },
   {
     "name": "trollebo",
@@ -8022,7 +8077,8 @@
   },
   {
     "name": "värdshuset på brunnsholmarna",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.51849194746259, "lng": 22.521803964142805 }
   },
   {
     "name": "värmecentralen vid juthbacka",
@@ -8059,7 +8115,8 @@
   },
   {
     "name": "västra esplanadgatan",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.52218544975374, "lng": 22.530324736737978 }
   },
   {
     "name": "västra vattugatan",

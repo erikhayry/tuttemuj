@@ -20,7 +20,15 @@
       "name": "kyrkbrunnen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Visas på pärmbilden."
+      "description": "Visas på pärmbilden.",
+      "geo": {
+        "lat": 63.52281787172463,
+        "lng": 22.527306701582177,
+        "match": "name",
+        "gazetteerName": "kyrkbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

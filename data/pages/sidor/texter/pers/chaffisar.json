@@ -50,7 +50,15 @@
       "name": "Föreningsbanken",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns i högra kanten på ett foto vid torget."
+      "description": "Syns i högra kanten på ett foto vid torget.",
+      "geo": {
+        "lat": 63.522965831833396,
+        "lng": 22.529430187205104,
+        "match": "name",
+        "gazetteerName": "föreningsbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

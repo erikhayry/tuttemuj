@@ -137,7 +137,15 @@
       "name": "Pensars gård",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gård på Kyrkogatans östra sida."
+      "description": "Gård på Kyrkogatans östra sida.",
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Gråstenskällaren",
@@ -157,7 +165,15 @@
       "name": "Holmströms magasin",
       "kind": "building",
       "alternateNames": [],
-      "description": "Revs i samband med dammbygget 1984."
+      "description": "Revs i samband med dammbygget 1984.",
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströms uthus",

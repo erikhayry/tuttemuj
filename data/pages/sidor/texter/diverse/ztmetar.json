@@ -67,7 +67,15 @@
     {
       "name": "Ragnörn",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Mellansand",
@@ -84,7 +92,15 @@
       "kind": "island",
       "alternateNames": [
         "Lybecks Charlottenlund"
-      ]
+      ],
+      "geo": {
+        "lat": 63.58288673778681,
+        "lng": 22.426419952651553,
+        "match": "name",
+        "gazetteerName": "alön",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Majniemi",
@@ -117,7 +133,15 @@
     {
       "name": "Gamla hamn",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.528147961516225,
+        "lng": 22.532372737074724,
+        "match": "name",
+        "gazetteerName": "gamla hamn",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Kovjoki station",

@@ -14,7 +14,15 @@
       "name": "Apoteksbacken",
       "kind": "street",
       "alternateNames": [],
-      "description": "Apoteksbackens slut syns till vänster."
+      "description": "Apoteksbackens slut syns till vänster.",
+      "geo": {
+        "lat": 63.524462187408105,
+        "lng": 22.527734294694085,
+        "match": "name",
+        "gazetteerName": "apoteksbacken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby kyrka",

@@ -111,7 +111,15 @@
     {
       "name": "Gamla hamn",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.528147961516225,
+        "lng": 22.532372737074724,
+        "match": "name",
+        "gazetteerName": "gamla hamn",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Heselius kvarn",

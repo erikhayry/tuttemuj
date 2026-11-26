@@ -200,7 +200,15 @@
       "kind": "landmark",
       "alternateNames": [
         "Gamla hamn"
-      ]
+      ],
+      "geo": {
+        "lat": 63.528147961516225,
+        "lng": 22.532372737074724,
+        "match": "name",
+        "gazetteerName": "gamla hamn",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Seminariets huvudbyggnad",
@@ -452,7 +460,15 @@
     {
       "name": "Alön",
       "kind": "island",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58288673778681,
+        "lng": 22.426419952651553,
+        "match": "name",
+        "gazetteerName": "alön",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Markusholmen",

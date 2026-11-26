@@ -69,7 +69,15 @@
       "name": "Juthforsen",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Fors söder om bron."
+      "description": "Fors söder om bron.",
+      "geo": {
+        "lat": 63.52084241328539,
+        "lng": 22.52395539238511,
+        "match": "name",
+        "gazetteerName": "juthforsen",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     }
   ],
   "events": [

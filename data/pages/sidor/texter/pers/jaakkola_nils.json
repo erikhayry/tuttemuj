@@ -78,7 +78,15 @@
       "name": "Pensars gård",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Jaakkola ägde den sedermera."
+      "description": "Jaakkola ägde den sedermera.",
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nylunds gård",

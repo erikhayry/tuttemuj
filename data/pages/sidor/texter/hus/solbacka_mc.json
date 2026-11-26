@@ -148,12 +148,28 @@
     {
       "name": "Apoteksbacken",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524462187408105,
+        "lng": 22.527734294694085,
+        "match": "name",
+        "gazetteerName": "apoteksbacken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströms magasin",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522933815872186,
+        "lng": 22.526108845346094,
+        "match": "name",
+        "gazetteerName": "holmströms magasin",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Gråstenskällaren",

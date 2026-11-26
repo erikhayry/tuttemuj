@@ -21,7 +21,15 @@
       "name": "trivialskolan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Skolan som invigdes 1641. Huset är inte originalbyggnaden från 1600-talet."
+      "description": "Skolan som invigdes 1641. Huset är inte originalbyggnaden från 1600-talet.",
+      "geo": {
+        "lat": 63.521920603003906,
+        "lng": 22.52700863939408,
+        "match": "name",
+        "gazetteerName": "trivialskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [
