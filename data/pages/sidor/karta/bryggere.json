@@ -13,7 +13,15 @@
       "name": "Bryggeriet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Den röda längan vid stranden."
+      "description": "Den röda längan vid stranden.",
+      "geo": {
+        "lat": 63.52100957579514,
+        "lng": 22.525061657401842,
+        "match": "name",
+        "gazetteerName": "bryggeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Vattenkvarnen",

@@ -51,13 +51,29 @@
       "name": "Bryggeriet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns på östra stranden."
+      "description": "Syns på östra stranden.",
+      "geo": {
+        "lat": 63.52100957579514,
+        "lng": 22.525061657401842,
+        "match": "name",
+        "gazetteerName": "bryggeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Heikelska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Syns på östra stranden."
+      "description": "Syns på östra stranden.",
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Engska gården",

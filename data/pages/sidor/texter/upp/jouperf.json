@@ -48,14 +48,30 @@
     {
       "name": "Rajåkern",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51610819236524,
+        "lng": 22.535090149581507,
+        "match": "name",
+        "gazetteerName": "rajåkern",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Joupers fabrik",
       "kind": "building",
       "alternateNames": [
         "Joupers"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rajåkersvägen",

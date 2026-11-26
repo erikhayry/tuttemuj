@@ -13,7 +13,15 @@
       "name": "döbelns gränd",
       "kind": "street",
       "alternateNames": [],
-      "description": "Fotografiet är taget här."
+      "description": "Fotografiet är taget här.",
+      "geo": {
+        "lat": 63.5220775087621,
+        "lng": 22.525682630490916,
+        "match": "name",
+        "gazetteerName": "döbelns gränd",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "älvbrantshusen",

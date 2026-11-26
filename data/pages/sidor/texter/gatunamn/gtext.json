@@ -608,7 +608,15 @@
       "alternateNames": [
         "Döbelnsgränd"
       ],
-      "description": "Borttagen ur stadsplanen men går att vandra längs; namnskylt på f.d. Södra tullhuset."
+      "description": "Borttagen ur stadsplanen men går att vandra längs; namnskylt på f.d. Södra tullhuset.",
+      "geo": {
+        "lat": 63.5220775087621,
+        "lng": 22.525682630490916,
+        "match": "name",
+        "gazetteerName": "döbelns gränd",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Erik Bergmansgata",
@@ -2006,7 +2014,15 @@
     {
       "name": "Jouperfabriken",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Juthas",
@@ -2120,7 +2136,15 @@
         "Nygården",
         "Matts Perssons hemman"
       ],
-      "description": "Hemman nr 12 i Kyrkoby söder om staden, avskilt från Jutbacka 1660."
+      "description": "Hemman nr 12 i Kyrkoby söder om staden, avskilt från Jutbacka 1660.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Nålörn",
@@ -2150,7 +2174,15 @@
     {
       "name": "Rajåkern",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51610819236524,
+        "lng": 22.535090149581507,
+        "match": "name",
+        "gazetteerName": "rajåkern",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Rimalsbacken",
@@ -2269,7 +2301,15 @@
       "alternateNames": [
         "Värnamo"
       ],
-      "description": "Parcellerades 25 maj 1900."
+      "description": "Parcellerades 25 maj 1900.",
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Östervall",

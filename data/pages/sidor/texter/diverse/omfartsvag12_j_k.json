@@ -70,7 +70,15 @@
     {
       "name": "Rajåkern",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51610819236524,
+        "lng": 22.535090149581507,
+        "match": "name",
+        "gazetteerName": "rajåkern",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Ängsbrinken",

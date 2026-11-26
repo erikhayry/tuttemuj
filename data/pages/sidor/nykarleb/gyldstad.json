@@ -28,7 +28,15 @@
       "name": "heikelska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858."
+      "description": "Byggnad på älvens östra sida som klarade stadsbranden 1858.",
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "döbelns hus",

@@ -103,7 +103,15 @@
     {
       "name": "Bonäs",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.42140101603979,
+        "lng": 22.262697788821946,
+        "match": "name",
+        "gazetteerName": "bonäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Andra sjön",

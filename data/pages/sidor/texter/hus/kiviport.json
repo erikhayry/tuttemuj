@@ -23,7 +23,15 @@
     {
       "name": "Heikelska gården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Heikelska gårdens port",
@@ -35,7 +43,15 @@
       "kind": "building",
       "alternateNames": [
         "Joupers gjuteri"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Herlers bokhandel",

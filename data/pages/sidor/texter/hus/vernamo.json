@@ -28,7 +28,15 @@
         "Värnamo",
         "Värnamo kaplansboställe"
       ],
-      "description": "Kaplansboställe vid Juthasvägen med stadens längsta veranda."
+      "description": "Kaplansboställe vid Juthasvägen med stadens längsta veranda.",
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkan",
@@ -46,7 +54,15 @@
     {
       "name": "Joupers fabrik",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

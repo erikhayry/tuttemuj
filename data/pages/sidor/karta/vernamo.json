@@ -16,7 +16,15 @@
         "Värnamo",
         "Värnamogården"
       ],
-      "description": "Prästgård från 1926."
+      "description": "Prästgård från 1926.",
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

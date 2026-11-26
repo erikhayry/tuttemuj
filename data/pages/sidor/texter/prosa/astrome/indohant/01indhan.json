@@ -75,7 +75,15 @@
       "name": "Nygård",
       "kind": "district",
       "alternateNames": [],
-      "description": "Plats med garveri, tobaksfabrik och ölbryggeri."
+      "description": "Plats med garveri, tobaksfabrik och ölbryggeri.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -61,7 +61,15 @@
       "alternateNames": [
         "Bonäsgårdarna"
       ],
-      "description": "Tre gårdar i kyrkobyn, åtta kilometer söder om staden; hemmansnummer 14 sedan 1831, tidigare 22."
+      "description": "Tre gårdar i kyrkobyn, åtta kilometer söder om staden; hemmansnummer 14 sedan 1831, tidigare 22.",
+      "geo": {
+        "lat": 63.42140101603979,
+        "lng": 22.262697788821946,
+        "match": "name",
+        "gazetteerName": "bonäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

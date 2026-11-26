@@ -287,7 +287,15 @@
       "alternateNames": [
         "Joupers"
       ],
-      "description": "Fabrik vars huvudprodukt var bladfjädrar."
+      "description": "Fabrik vars huvudprodukt var bladfjädrar.",
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kovjoki resår",

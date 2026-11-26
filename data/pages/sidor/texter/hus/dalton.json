@@ -148,12 +148,28 @@
     {
       "name": "Rajåkern",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51610819236524,
+        "lng": 22.535090149581507,
+        "match": "name",
+        "gazetteerName": "rajåkern",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Döbelns gränd",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220775087621,
+        "lng": 22.525682630490916,
+        "match": "name",
+        "gazetteerName": "döbelns gränd",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Sollefteågatan",

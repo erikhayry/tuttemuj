@@ -35,7 +35,15 @@
       "alternateNames": [
         "jouperfabriken"
       ],
-      "description": "Industri på udden vid älven."
+      "description": "Industri på udden vid älven.",
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "juthbacka kvarn",

@@ -124,7 +124,15 @@
       "name": "Nygård",
       "kind": "farm",
       "alternateNames": [],
-      "description": "Hemman på Gyldéns karta från 1841."
+      "description": "Hemman på Gyldéns karta från 1841.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Prästgård",

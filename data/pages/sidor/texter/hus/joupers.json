@@ -41,14 +41,30 @@
       "kind": "building",
       "alternateNames": [
         "Joupers fabriksanläggning"
-      ]
+      ],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nygårds hemman",
       "kind": "farm",
       "alternateNames": [
         "Nygård"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Joupersgatan",

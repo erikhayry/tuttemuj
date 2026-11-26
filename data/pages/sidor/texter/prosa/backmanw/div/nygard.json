@@ -80,7 +80,15 @@
       "kind": "farm",
       "alternateNames": [],
       "description": "Hemman strax söder om Nykarleby stad, öster om älven.",
-      "nameOrigin": "Namnet visar att hemmanet är ett av nejdens yngsta."
+      "nameOrigin": "Namnet visar att hemmanet är ett av nejdens yngsta.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Jutbacka",

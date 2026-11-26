@@ -39,12 +39,28 @@
       "name": "Vernamo",
       "kind": "building",
       "alternateNames": [],
-      "description": "Prästgård."
+      "description": "Prästgård.",
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Heikelska gården",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Storbron",

@@ -115,7 +115,15 @@
       "name": "Heikelska gården",
       "kind": "building",
       "alternateNames": [],
-      "address": "nr 136"
+      "address": "nr 136",
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Norra tullen",

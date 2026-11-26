@@ -41,7 +41,15 @@
       "name": "Bryggeriet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Äldsta delen byggd 1864; senare garveri."
+      "description": "Äldsta delen byggd 1864; senare garveri.",
+      "geo": {
+        "lat": 63.52100957579514,
+        "lng": 22.525061657401842,
+        "match": "name",
+        "gazetteerName": "bryggeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Sockenstugan",

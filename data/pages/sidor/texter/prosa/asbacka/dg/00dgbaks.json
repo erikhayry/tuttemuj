@@ -73,7 +73,15 @@
     {
       "name": "Döbelns gränd",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220775087621,
+        "lng": 22.525682630490916,
+        "match": "name",
+        "gazetteerName": "döbelns gränd",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "restaurang von Döbeln",

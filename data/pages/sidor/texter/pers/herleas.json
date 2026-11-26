@@ -178,7 +178,15 @@
       "alternateNames": [
         "Herlerska gården"
       ],
-      "description": "Herlers hem på älvstranden, omkring 200 år gammalt enligt texten; tidigare ägt av familjen Lybeck."
+      "description": "Herlers hem på älvstranden, omkring 200 år gammalt enligt texten; tidigare ägt av familjen Lybeck.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Herlers museum",

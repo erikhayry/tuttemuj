@@ -27,7 +27,15 @@
       "name": "Nygård",
       "kind": "district",
       "alternateNames": [],
-      "description": "Området som flygbilden börjar i."
+      "description": "Området som flygbilden börjar i.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "Sockenstugan",

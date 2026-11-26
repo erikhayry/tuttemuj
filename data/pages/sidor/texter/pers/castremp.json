@@ -88,7 +88,15 @@
       "name": "Bonäs",
       "kind": "village",
       "alternateNames": [],
-      "description": "Där hon ibland fick paddla iland när det var stiltje."
+      "description": "Där hon ibland fick paddla iland när det var stiltje.",
+      "geo": {
+        "lat": 63.42140101603979,
+        "lng": 22.262697788821946,
+        "match": "name",
+        "gazetteerName": "bonäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

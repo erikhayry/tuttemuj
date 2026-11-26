@@ -30,7 +30,15 @@
       "alternateNames": [
         "café tullmagasinet"
       ],
-      "description": "Öppet sommartid sedan 2001."
+      "description": "Öppet sommartid sedan 2001.",
+      "geo": {
+        "lat": 63.518896720912444,
+        "lng": 22.462341587638846,
+        "match": "name",
+        "gazetteerName": "tullmagasinet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "packhusplanen",

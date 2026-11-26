@@ -73,14 +73,30 @@
     {
       "name": "Värnamogården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nygårds hemman",
       "kind": "farm",
       "alternateNames": [
         "Nygårds h[emma]ns egor"
-      ]
+      ],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [

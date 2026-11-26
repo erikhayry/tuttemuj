@@ -155,7 +155,15 @@
       "name": "Bryggeriet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ett av motiven i Herlers målningar."
+      "description": "Ett av motiven i Herlers målningar.",
+      "geo": {
+        "lat": 63.52100957579514,
+        "lng": 22.525061657401842,
+        "match": "name",
+        "gazetteerName": "bryggeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Stadskvarnen",

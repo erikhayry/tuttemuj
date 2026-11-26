@@ -663,7 +663,8 @@
   },
   {
     "name": "bonäs",
-    "kind": "farm"
+    "kind": "farm",
+    "location": { "lat": 63.42140101603979, "lng": 22.262697788821946 }
   },
   {
     "name": "bonäs lötet",
@@ -880,7 +881,8 @@
   },
   {
     "name": "bryggeriet",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52100957579514, "lng": 22.525061657401842 }
   },
   {
     "name": "brännan",
@@ -1210,7 +1212,8 @@
   },
   {
     "name": "döbelns gränd",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.5220775087621, "lng": 22.525682630490916 }
   },
   {
     "name": "döbelnsgränd",
@@ -2425,7 +2428,8 @@
   },
   {
     "name": "heikelska gården",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52168176762176, "lng": 22.525897480773796 }
   },
   {
     "name": "heikelska gårdens port",
@@ -2845,7 +2849,8 @@
     "kind": "building",
     "alternateNames": [
       "joupers fabrik"
-    ]
+    ],
+    "location": { "lat": 63.51762782406637, "lng": 22.522706368305755 }
   },
   {
     "name": "joupers",
@@ -5067,7 +5072,8 @@
     "alternateNames": [
       "nygård",
       "nygårds hns egor"
-    ]
+    ],
+    "location": { "lat": 63.5182477084895, "lng": 22.52465889479854 }
   },
   {
     "name": "nygårds ölbryggeri",
@@ -5704,7 +5710,8 @@
   {
     "name": "rajåkern",
     "kind": "farm",
-    "alternateNames": ["raijåkern"]
+    "alternateNames": ["raijåkern"],
+    "location": { "lat": 63.51610819236524, "lng": 22.535090149581507 }
   },
   {
     "name": "rank i soklot",
@@ -7709,7 +7716,8 @@
     "kind": "building",
     "alternateNames": [
       "packhus"
-    ]
+    ],
+    "location": { "lat": 63.518896720912444, "lng": 22.462341587638846 }
   },
   {
     "name": "tullporten",
@@ -8034,7 +8042,8 @@
     "alternateNames": [
       "vernamo",
       "värnamo"
-    ]
+    ],
+    "location": { "lat": 63.51745045615829, "lng": 22.514660378336742 }
   },
   {
     "name": "västanträsk",
