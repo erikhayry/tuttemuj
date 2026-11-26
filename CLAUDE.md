@@ -47,6 +47,7 @@ The analysis runs in Claude Code with the `/extract-pages` skill, on the user's 
 - `pnpm lint` / `pnpm format`
 - `pnpm typecheck`
 - `pnpm test`
+- `pnpm coords`: local web tool for adding coordinates to places (`apps/coords`, used by `/coords`; writes `data/sources/manual-places.json`)
 - `pnpm data:rebuild`: rebuild the derived files in `data/` (offline). `pnpm data:publish`: that, then sync to Supabase and embed with Voyage (needs `.env` keys, writes to production)
 
 ## Roadmap

@@ -1,0 +1,185 @@
+/* Native CSS with variables and cascade layers, as in apps/web/src/styles.css. */
+@layer reset, tokens, base, components;
+
+@layer reset {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+  body,
+  h1,
+  h2,
+  p,
+  ul {
+    margin: 0;
+  }
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+  img {
+    display: block;
+    max-width: 100%;
+  }
+  button,
+  input {
+    font: inherit;
+  }
+}
+
+@layer tokens {
+  :root {
+    --color-bg: #fafaf9;
+    --color-surface: #ffffff;
+    --color-text: #1c1917;
+    --color-text-muted: #57534e;
+    --color-border: #e7e5e4;
+    --color-accent: #7c2d12;
+    --color-on-accent: #ffffff;
+    --color-error: #b91c1c;
+
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-8: 2rem;
+
+    --radius-s: 0.5rem;
+    --radius-m: 0.75rem;
+
+    --font-size-s: 0.875rem;
+    --font-size-l: 1.25rem;
+    --font-size-xl: 1.875rem;
+
+    --measure: 70rem;
+    --image-column: 16rem;
+    --input-min: 20rem;
+  }
+}
+
+@layer base {
+  body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.5;
+  }
+  a {
+    color: var(--color-accent);
+  }
+}
+
+@layer components {
+  .app,
+  .place {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+  .app {
+    max-width: var(--measure);
+    margin-inline: auto;
+    padding: var(--space-4) var(--space-4) var(--space-8);
+  }
+
+  .app-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-2);
+  }
+  .app-title {
+    color: var(--color-accent);
+    font-size: var(--font-size-xl);
+  }
+  .muted {
+    color: var(--color-text-muted);
+    font-size: var(--font-size-s);
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    padding: var(--space-4);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-m);
+  }
+  .place-name,
+  .section-title {
+    font-size: var(--font-size-l);
+  }
+  .map-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+  }
+
+  .coords-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+  .input {
+    flex: 1 1 var(--input-min);
+    min-width: 0;
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-s);
+  }
+  .button {
+    padding: var(--space-2) var(--space-4);
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+    border: 1px solid var(--color-accent);
+    border-radius: var(--radius-s);
+    cursor: pointer;
+
+    &:disabled {
+      opacity: 0.5;
+      cursor: default;
+    }
+  }
+  .button-quiet {
+    background: transparent;
+    color: var(--color-accent);
+  }
+  .error {
+    flex-basis: 100%;
+    color: var(--color-error);
+  }
+
+  .context {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    font-size: var(--font-size-s);
+  }
+
+  .images {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(var(--image-column), 100%), 1fr));
+    align-items: start;
+    gap: var(--space-4);
+  }
+  .panorama {
+    grid-column: 1 / -1;
+  }
+  .figure {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    font-size: var(--font-size-s);
+
+    & img {
+      width: 100%;
+      border-radius: var(--radius-s);
+    }
+  }
+  .figure-label {
+    color: var(--color-text-muted);
+  }
+}
