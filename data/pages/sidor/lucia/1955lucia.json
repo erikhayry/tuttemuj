@@ -20,7 +20,15 @@
     {
       "name": "Sockenstugan",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "De gamlas hem",

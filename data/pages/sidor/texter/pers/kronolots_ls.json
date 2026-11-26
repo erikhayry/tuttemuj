@@ -226,7 +226,15 @@
         "Socklothällan",
         "Soklothällan"
       ],
-      "description": "Lotsplats med båk byggd 1824."
+      "description": "Lotsplats med båk byggd 1824.",
+      "geo": {
+        "lat": 63.641935178752654,
+        "lng": 22.417153909643126,
+        "match": "name",
+        "gazetteerName": "soklothällan",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Hällgrund",
@@ -234,7 +242,15 @@
       "alternateNames": [
         "Hällgrunds båk"
       ],
-      "description": "Lotsplats och fyr där Johannes Wikström var stationerad."
+      "description": "Lotsplats och fyr där Johannes Wikström var stationerad.",
+      "geo": {
+        "lat": 63.641935178752654,
+        "lng": 22.417153909643126,
+        "match": "name",
+        "gazetteerName": "soklothällan",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Mässkär",
@@ -264,7 +280,15 @@
     {
       "name": "Åminne",
       "kind": "district",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Torsölandet",

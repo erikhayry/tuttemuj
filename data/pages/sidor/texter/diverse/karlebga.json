@@ -50,7 +50,15 @@
     {
       "name": "Södra Torggatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "södra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Karlssons smedja",

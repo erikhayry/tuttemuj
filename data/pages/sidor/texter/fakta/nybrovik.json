@@ -61,7 +61,15 @@
       "name": "lybeckska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "I fonden på fotot."
+      "description": "I fonden på fotot.",
+      "geo": {
+        "lat": 63.524822180066515,
+        "lng": 22.529184560208723,
+        "match": "name",
+        "gazetteerName": "lybeckska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "alörn",

@@ -141,7 +141,15 @@
       "name": "Sockenstugan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Användes som klubblokal."
+      "description": "Användes som klubblokal.",
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Andrasjön",

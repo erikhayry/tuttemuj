@@ -41,7 +41,15 @@
       "name": "frill",
       "kind": "other",
       "alternateNames": [],
-      "description": "Hemmet där fotona togs."
+      "description": "Hemmet där fotona togs.",
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

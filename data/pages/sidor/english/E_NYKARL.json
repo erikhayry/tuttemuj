@@ -72,7 +72,15 @@
       "alternateNames": [
         "Lepo",
         "Kyrkoby"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "name",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby kyrka",

@@ -44,7 +44,15 @@
       "name": "Lybeckska gården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Gården längst till vänster på kortet. Ett uthus revs omkring 1973."
+      "description": "Gården längst till vänster på kortet. Ett uthus revs omkring 1973.",
+      "geo": {
+        "lat": 63.524822180066515,
+        "lng": 22.529184560208723,
+        "match": "name",
+        "gazetteerName": "lybeckska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Fåfängan",

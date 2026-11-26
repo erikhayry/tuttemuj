@@ -40,7 +40,15 @@
       "kind": "village",
       "alternateNames": [
         "Nykarleby Forsby"
-      ]
+      ],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     }
   ],
   "events": [

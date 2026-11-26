@@ -40,7 +40,15 @@
       "alternateNames": [
         "Frillas hemmans ägor",
         "Frillan"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

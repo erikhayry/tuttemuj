@@ -33,6 +33,11 @@
     "note": "Soda water factory in Nykarleby."
   },
   {
+    "name": "forsby",
+    "kind": "village",
+    "location": { "lat": 63.49979843502178, "lng": 22.54475819706958 }
+  },
+  {
     "name": "nykarleby arbetarförenings gård",
     "kind": "building"
   },
@@ -1645,7 +1650,8 @@
       "frill",
       "frillas hemman",
       "frillas hemmans ägor"
-    ]
+    ],
+    "location": { "lat": 63.52744458331194, "lng": 22.535213407320192 }
   },
   {
     "name": "frillholmen",
@@ -3699,7 +3705,8 @@
   {
     "name": "kyrkoby",
     "kind": "village",
-    "alternateNames": ["kyrkobyn"]
+    "alternateNames": ["kyrkobyn"],
+    "location": { "lat": 63.52242678353371, "lng": 22.529290896854878 }
   },
   {
     "name": "kyrkoby folkskola",
@@ -4310,7 +4317,8 @@
   },
   {
     "name": "lybeckska gården",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.524822180066515, "lng": 22.529184560208723 }
   },
   {
     "name": "lybeckska huset",
@@ -5310,7 +5318,8 @@
       "nye carleby elf",
       "nykarleby elf",
       "nykarleby älf"
-    ]
+    ],
+    "location": { "lat": 63.52143194693046, "lng": 22.524165959807195 }
   },
   {
     "name": "nykobes betongstation",
@@ -6563,7 +6572,8 @@
     "kind": "building",
     "alternateNames": [
       "sockne stugan"
-    ]
+    ],
+    "location": { "lat": 63.52121940637777, "lng": 22.52634999385902 }
   },
   {
     "name": "sockenstuguberget",
@@ -6618,7 +6628,8 @@
     "alternateNames": [
       "hällgrund",
       "soklot hällan"
-    ]
+    ],
+    "location": { "lat": 63.641935178752654, "lng": 22.417153909643126 }
   },
   {
     "name": "sokothällan",
@@ -7279,7 +7290,8 @@
   },
   {
     "name": "södra torggatan",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.521850546282025, "lng": 22.53077032844419 }
   },
   {
     "name": "södra tullen",
@@ -8254,7 +8266,8 @@
   },
   {
     "name": "åminne",
-    "kind": "other"
+    "kind": "other",
+    "location": { "lat": 63.55428336823829, "lng": 22.522567420169104 }
   },
   {
     "name": "åminne gård",

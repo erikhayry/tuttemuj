@@ -116,7 +116,15 @@
     {
       "name": "Södra Torggatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "södra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Norra Torggatan",
@@ -133,7 +141,15 @@
       "kind": "waterbody",
       "alternateNames": [
         "Nykarleby Elf"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52143194693046,
+        "lng": 22.524165959807195,
+        "match": "name",
+        "gazetteerName": "nykarleby älv",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "Stortorget",

@@ -13,7 +13,15 @@
       "name": "hällgrund",
       "kind": "other",
       "alternateNames": [],
-      "description": "Platsen för båken."
+      "description": "Platsen för båken.",
+      "geo": {
+        "lat": 63.641935178752654,
+        "lng": 22.417153909643126,
+        "match": "name",
+        "gazetteerName": "soklothällan",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     }
   ],
   "events": [

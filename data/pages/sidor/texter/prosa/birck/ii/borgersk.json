@@ -464,14 +464,30 @@
       "kind": "village",
       "alternateNames": [
         "Forsby"
-      ]
+      ],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkobyn",
       "kind": "village",
       "alternateNames": [
         "Kyrkoby"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "name",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Jungar",

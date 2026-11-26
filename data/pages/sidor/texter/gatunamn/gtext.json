@@ -2086,7 +2086,15 @@
     {
       "name": "Lybeckska gården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524822180066515,
+        "lng": 22.529184560208723,
+        "match": "name",
+        "gazetteerName": "lybeckska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Nybacka hemman",
@@ -2337,7 +2345,15 @@
     {
       "name": "Åminne",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Lepu",

@@ -26,7 +26,15 @@
     {
       "name": "Lybeckska gården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.524822180066515,
+        "lng": 22.529184560208723,
+        "match": "name",
+        "gazetteerName": "lybeckska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusgatan",

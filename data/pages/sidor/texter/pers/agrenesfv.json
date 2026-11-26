@@ -45,7 +45,15 @@
       "name": "nykarleby älv",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Familjen vandrade ned längs älven i romanen Olga."
+      "description": "Familjen vandrade ned längs älven i romanen Olga.",
+      "geo": {
+        "lat": 63.52143194693046,
+        "lng": 22.524165959807195,
+        "match": "name",
+        "gazetteerName": "nykarleby älv",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     },
     {
       "name": "lippjärv",

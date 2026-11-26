@@ -56,7 +56,15 @@
     {
       "name": "Nykarleby älv",
       "kind": "waterbody",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52143194693046,
+        "lng": 22.524165959807195,
+        "match": "name",
+        "gazetteerName": "nykarleby älv",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

@@ -93,7 +93,15 @@
     {
       "name": "Forsby",
       "kind": "village",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Forsbackan",

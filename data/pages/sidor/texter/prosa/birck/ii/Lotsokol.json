@@ -219,7 +219,15 @@
         {
           "use": "lotsstation"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.641935178752654,
+        "lng": 22.417153909643126,
+        "match": "name",
+        "gazetteerName": "soklothällan",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Torsön",
@@ -244,7 +252,15 @@
     {
       "name": "Frill",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Åminne",
@@ -257,7 +273,15 @@
         {
           "use": "torp"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Haralds hemman",
@@ -270,7 +294,15 @@
     {
       "name": "Forsby",
       "kind": "village",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Tornskär",

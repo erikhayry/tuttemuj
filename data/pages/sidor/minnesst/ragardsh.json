@@ -37,7 +37,15 @@
       "alternateNames": [
         "åminne"
       ],
-      "description": "Gården som Rågårdshällan ligger utanför."
+      "description": "Gården som Rågårdshällan ligger utanför.",
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "galgbacken",

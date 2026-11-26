@@ -26,7 +26,15 @@
       "alternateNames": [
         "Frill natur- och landskapsområde"
       ],
-      "description": "Grönområde med ängar och skog nära stadens centrum. Tidigare en del av Kuddnäs hemman."
+      "description": "Grönområde med ängar och skog nära stadens centrum. Tidigare en del av Kuddnäs hemman.",
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     }
   ],
   "events": [

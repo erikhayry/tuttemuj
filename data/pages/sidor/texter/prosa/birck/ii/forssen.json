@@ -250,13 +250,29 @@
     {
       "name": "Frillan",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
     },
     {
       "name": "Harald",
       "kind": "farm",
       "alternateNames": [],
-      "address": "Kyrkobyn"
+      "address": "Kyrkobyn",
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "address",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby",

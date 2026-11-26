@@ -178,12 +178,28 @@
       "name": "Bonäs",
       "kind": "farm",
       "alternateNames": [],
-      "address": "Kyrkobyn"
+      "address": "Kyrkobyn",
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "address",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkobyn",
       "kind": "village",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "name",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
     },
     {
       "name": "Jeppo",
