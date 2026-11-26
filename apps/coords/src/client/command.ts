@@ -1,4 +1,4 @@
-import { CoordsNextResponse, CoordsSaveResponse } from "@tuttemuj/schema";
+import { CoordsIgnoreResponse, CoordsNextResponse, CoordsSaveResponse } from "@tuttemuj/schema";
 import { Effect, Schema } from "effect";
 import { HttpClient, HttpClientRequest } from "effect/http";
 import { Command, Http } from "foldkit";
@@ -36,6 +36,17 @@ export const Save = Command.define("Save", {
           ? Message.SucceededSave({ name: response.name, location: response.location })
           : Message.RejectedSave({ reason: response.reason }),
       ),
+      Effect.catch(() => Effect.succeed(Message.FailedSave())),
+      Effect.provide(Http.layer),
+    ),
+});
+
+export const Ignore = Command.define("Ignore", {
+  args: { name: Schema.String },
+  messages: [Message.SucceededIgnore, Message.FailedSave],
+  execute: (body) =>
+    postJson("/ignore", body, CoordsIgnoreResponse).pipe(
+      Effect.map(({ name }) => Message.SucceededIgnore({ name })),
       Effect.catch(() => Effect.succeed(Message.FailedSave())),
       Effect.provide(Http.layer),
     ),

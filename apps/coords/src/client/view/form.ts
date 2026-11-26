@@ -36,6 +36,15 @@ export const coordsForm = (model: Model, h: H): Html =>
         ],
         ["Skip"],
       ),
+      h.button(
+        [
+          h.Type("button"),
+          h.Class("button button-quiet"),
+          h.Disabled(model.saving),
+          h.OnClick(Message.ClickedNotInNykarleby()),
+        ],
+        ["Not in Nykarleby"],
+      ),
       ...(model.saveError
         ? [h.p([h.Class("error"), h.Role("alert")], [ERRORS[model.saveError]])]
         : []),

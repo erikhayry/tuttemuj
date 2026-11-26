@@ -1,8 +1,9 @@
 // Read data/sources/manual-places.json and add a location to it, changing nothing else in the file.
-import { readFile, rename, writeFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { type GazetteerKind, type GeoPoint, ManualPlace, normalizeName } from "@tuttemuj/schema";
 import { Schema } from "effect";
+import { writeAtomically } from "./write-file.ts";
 
 const decodePlaces = Schema.decodeUnknownSync(Schema.fromJsonString(Schema.Array(ManualPlace)));
 
@@ -65,9 +66,6 @@ export const saveLocation = async (dataDir: string, place: NewLocation): Promise
   const next = withLocation(await readFile(path(dataDir), "utf8"), place);
   if (next === undefined) return false;
   decodePlaces(next); // Never write a file the gazetteer build cannot read.
-  // Temp file + rename, so a crash never leaves a half-written file.
-  const tmp = `${path(dataDir)}.tmp`;
-  await writeFile(tmp, next);
-  await rename(tmp, path(dataDir));
+  await writeAtomically(path(dataDir), next);
   return true;
 };

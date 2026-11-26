@@ -53,6 +53,10 @@ export const CoordsSaveRequest = Schema.Struct({
   input: Schema.String,
 });
 
+/** "Not in Nykarleby": the place goes to data/sources/ignored-places.json. */
+export const CoordsIgnoreRequest = Schema.Struct({ name: Schema.NonEmptyString });
+export const CoordsIgnoreResponse = Schema.Struct({ name: Schema.String });
+
 export const CoordsRejection = Schema.Literals(["unreadable", "outside-area", "already-located"]);
 export type CoordsRejection = typeof CoordsRejection.Type;
 

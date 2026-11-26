@@ -11,6 +11,8 @@ export const Message = defineMessageUnion({
   RejectedSave: { reason: CoordsRejection },
   FailedSave: {},
   ClickedSkip: {},
+  ClickedNotInNykarleby: {},
+  SucceededIgnore: { name: Schema.String },
   ClickedRetry: {},
 });
 export type Message = typeof Message.Type;

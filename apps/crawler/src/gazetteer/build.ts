@@ -2,6 +2,7 @@ import {
   type GazetteerEntry,
   type GazetteerKind,
   GeoPoint,
+  type IgnoredPlace,
   type ManualPlace,
   type Nkby2018Sources,
   normalizeName,
@@ -32,10 +33,12 @@ const FALLBACK_SHARED_BY = 5;
 /**
  * Merge the nkby-2018 files and the hand-made corrections into one sorted gazetteer, one entry per name.
  * Rejected source points are kept as `missingLocation` so they can be filled in by hand later.
+ * An ignored name (outside Nykarleby, too generic) gets no entry, unless it has coordinates.
  */
 export function buildGazetteer(
   src: Nkby2018Sources,
   manual: readonly ManualPlace[] = [],
+  ignored: readonly IgnoredPlace[] = [],
 ): GazetteerEntry[] {
   const kinds = new Map<string, GazetteerKind>();
   for (const name of src.postalAreas) kinds.set(normalizeName(name), "village");
@@ -101,5 +104,8 @@ export function buildGazetteer(
     }
   }
 
-  return [...entries.values()].sort((a, b) => a.name.localeCompare(b.name, "sv"));
+  const skip = new Set(ignored.map((p) => normalizeName(p.name)));
+  return [...entries.values()]
+    .filter((e) => e.location || !skip.has(e.name))
+    .sort((a, b) => a.name.localeCompare(b.name, "sv"));
 }

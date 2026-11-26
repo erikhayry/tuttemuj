@@ -1,6 +1,6 @@
 import { AsyncData, type Update } from "foldkit";
 import { modifyFields } from "foldkit/struct";
-import { LoadNext, Save } from "./command.ts";
+import { Ignore, LoadNext, Save } from "./command.ts";
 import { Message } from "./message.ts";
 import { type Model, NextData } from "./model.ts";
 
@@ -48,6 +48,18 @@ export const update = (model: Model, message: Message) =>
         modifyFields(model, { saved: (saved) => [{ name, location }, ...saved] }),
         model.skipped,
       ),
+
+    ClickedNotInNykarleby: () => {
+      const name = currentName(model);
+      if (!name || model.saving) return { model };
+      return {
+        model: modifyFields(model, { saving: () => true, saveError: () => null }),
+        commands: [Ignore({ name })],
+      };
+    },
+
+    SucceededIgnore: ({ name }) =>
+      advance(modifyFields(model, { ignored: (ignored) => [name, ...ignored] }), model.skipped),
 
     RejectedSave: ({ reason }) => ({
       model: modifyFields(model, { saving: () => false, saveError: () => reason }),

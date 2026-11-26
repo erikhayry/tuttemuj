@@ -1,7 +1,7 @@
-/** Build data/gazetteer.json from data/sources/nkby-2018 and data/sources/manual-places.json. */
+/** Build data/gazetteer.json from nkby-2018, manual-places.json and ignored-places.json. */
 import { readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { ManualPlace, Nkby2018 } from "@tuttemuj/schema";
+import { IgnoredPlace, ManualPlace, Nkby2018 } from "@tuttemuj/schema";
 import { Schema } from "effect";
 import { loadConfig } from "../config.ts";
 import { buildGazetteer } from "../gazetteer/build.ts";
@@ -15,6 +15,10 @@ const manual = Schema.decodeUnknownSync(Schema.Array(ManualPlace))(
   JSON.parse(await readFile(join(config.DATA_DIR, "sources", "manual-places.json"), "utf8")),
 );
 
+const ignored = Schema.decodeUnknownSync(Schema.Array(IgnoredPlace))(
+  JSON.parse(await readFile(join(config.DATA_DIR, "sources", "ignored-places.json"), "utf8")),
+);
+
 const entries = buildGazetteer(
   {
     geocodedLocales: Schema.decodeUnknownSync(Nkby2018.geocodedLocales)(
@@ -25,6 +29,7 @@ const entries = buildGazetteer(
     postalAreas: Schema.decodeUnknownSync(Nkby2018.postalAreas)(await read("postal-areas.json")),
   },
   manual,
+  ignored,
 );
 // One entry per line: readable and gives small git diffs.
 await writeFile(

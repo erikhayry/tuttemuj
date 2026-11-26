@@ -17,9 +17,11 @@ export const Model = Schema.Struct({
   input: Schema.String,
   saving: Schema.Boolean,
   saveError: Schema.NullOr(SaveError),
-  /** Skipped and saved places are forgotten when the page is reloaded; the saved ones are on disk. */
+  /** These lists are forgotten on reload. Saved and ignored places are already on disk. */
   skipped: Schema.Array(Schema.String),
   saved: Schema.Array(SavedPlace),
+  /** Marked "Not in Nykarleby". */
+  ignored: Schema.Array(Schema.String),
 });
 export type Model = typeof Model.Type;
 
@@ -31,6 +33,7 @@ export const init: Runtime.ApplicationInit<Model, Message> = () => ({
     saveError: null,
     skipped: [],
     saved: [],
+    ignored: [],
   },
   // Unlike apps/web, which waits for a click, this starts loading at once.
   commands: [LoadNext({ skipped: [] })],
