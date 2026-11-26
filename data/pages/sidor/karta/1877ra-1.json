@@ -106,7 +106,15 @@
     {
       "name": "Östra Långgatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52146055959843,
+        "lng": 22.53473479533369,
+        "match": "name",
+        "gazetteerName": "östra långgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Södra Tvärgatan",
@@ -129,7 +137,15 @@
     {
       "name": "Norra Torggatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52270006915547,
+        "lng": 22.530149332227236,
+        "match": "name",
+        "gazetteerName": "norra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Norra Tvärgatan",

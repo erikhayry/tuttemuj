@@ -33,7 +33,15 @@
       "alternateNames": [
         "Lybecks gård"
       ],
-      "address": "Norra Torggatan"
+      "address": "Norra Torggatan",
+      "geo": {
+        "lat": 63.52270006915547,
+        "lng": 22.530149332227236,
+        "match": "address",
+        "gazetteerName": "norra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Wiks Hotell",

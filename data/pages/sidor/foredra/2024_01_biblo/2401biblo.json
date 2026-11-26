@@ -67,7 +67,15 @@
     {
       "name": "Stadsbiblioteket",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523042627586705,
+        "lng": 22.53046318427079,
+        "match": "name",
+        "gazetteerName": "stadsbiblioteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Rådhuset",

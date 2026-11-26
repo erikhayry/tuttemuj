@@ -43,7 +43,15 @@
       "name": "Älvbranten",
       "kind": "building",
       "alternateNames": [],
-      "description": "Bostadsaktiebolag, två halvfärdiga hus."
+      "description": "Bostadsaktiebolag, två halvfärdiga hus.",
+      "geo": {
+        "lat": 63.52010876583659,
+        "lng": 22.521809223128855,
+        "match": "name",
+        "gazetteerName": "älvbranten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Holmströmska gården",

@@ -54,7 +54,15 @@
       "name": "sparbanken",
       "kind": "building",
       "alternateNames": [],
-      "description": "Låg här förr, enligt sidan."
+      "description": "Låg här förr, enligt sidan.",
+      "geo": {
+        "lat": 63.52386396181246,
+        "lng": 22.53077221380886,
+        "match": "name",
+        "gazetteerName": "sparbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "thulins gård",

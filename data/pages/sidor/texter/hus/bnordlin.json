@@ -134,7 +134,15 @@
         "Nordlings gård"
       ],
       "address": "tomt nr 19 vid S. Torggatan",
-      "description": "Sollefteågatan 9 vid korsningen med Topeliusesplanaden, mot torget; byggd i början av 1860-talet, riven 1978."
+      "description": "Sollefteågatan 9 vid korsningen med Topeliusesplanaden, mot torget; byggd i början av 1860-talet, riven 1978.",
+      "geo": {
+        "lat": 63.52166921690244,
+        "lng": 22.529908755695946,
+        "match": "name",
+        "gazetteerName": "nylunds/nordlings gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Torget",
@@ -218,7 +226,15 @@
     {
       "name": "Lövhyddan",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52188617564486,
+        "lng": 22.52766972629034,
+        "match": "name",
+        "gazetteerName": "lövhyddan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Normen",

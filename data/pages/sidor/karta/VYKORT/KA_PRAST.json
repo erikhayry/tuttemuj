@@ -12,7 +12,15 @@
     {
       "name": "Prästgården",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51948831716835,
+        "lng": 22.5306269771368,
+        "match": "name",
+        "gazetteerName": "prästgården",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

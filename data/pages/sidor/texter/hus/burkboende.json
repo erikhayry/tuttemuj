@@ -244,7 +244,15 @@
       "name": "Älvbranten",
       "kind": "building",
       "alternateNames": [],
-      "description": "Internat och kosthåll för seminaristerna, åtminstone 1965–71."
+      "description": "Internat och kosthåll för seminaristerna, åtminstone 1965–71.",
+      "geo": {
+        "lat": 63.52010876583659,
+        "lng": 22.521809223128855,
+        "match": "name",
+        "gazetteerName": "älvbranten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Burkebo",
@@ -504,7 +512,15 @@
     {
       "name": "Lövhyddan",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52188617564486,
+        "lng": 22.52766972629034,
+        "match": "name",
+        "gazetteerName": "lövhyddan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Gröna huset",

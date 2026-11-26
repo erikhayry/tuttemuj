@@ -123,7 +123,15 @@
     {
       "name": "Sparbanken",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52386396181246,
+        "lng": 22.53077221380886,
+        "match": "name",
+        "gazetteerName": "sparbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Hotell Eden",

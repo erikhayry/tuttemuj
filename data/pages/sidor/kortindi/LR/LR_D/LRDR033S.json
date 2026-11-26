@@ -26,7 +26,15 @@
     {
       "name": "Klappbryggan",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522813528087795,
+        "lng": 22.525786604835414,
+        "match": "name",
+        "gazetteerName": "klappbryggan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusparken",

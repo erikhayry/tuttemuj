@@ -123,7 +123,15 @@
     {
       "name": "Bergfeldtska gården",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52078640189076,
+        "lng": 22.530357843479386,
+        "match": "name",
+        "gazetteerName": "bergfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Borgaregatan",

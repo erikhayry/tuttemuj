@@ -39,7 +39,15 @@
     {
       "name": "Lövhyddan",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52188617564486,
+        "lng": 22.52766972629034,
+        "match": "name",
+        "gazetteerName": "lövhyddan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

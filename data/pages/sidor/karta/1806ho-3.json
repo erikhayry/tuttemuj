@@ -31,7 +31,15 @@
     {
       "name": "Nybron",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51643660255903,
+        "lng": 22.526813782591933,
+        "match": "name",
+        "gazetteerName": "nybron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Ågatan",

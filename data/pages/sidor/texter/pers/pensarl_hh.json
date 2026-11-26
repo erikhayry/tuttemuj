@@ -45,7 +45,15 @@
     {
       "name": "S:ta Birgitta kyrka",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522607735052134,
+        "lng": 22.526510424138955,
+        "match": "name",
+        "gazetteerName": "sankta birgitta kyrkan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

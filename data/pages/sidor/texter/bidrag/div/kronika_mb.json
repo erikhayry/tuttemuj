@@ -35,7 +35,15 @@
       "name": "Nybo",
       "kind": "building",
       "alternateNames": [],
-      "description": "Familjen Blomqvists villa."
+      "description": "Familjen Blomqvists villa.",
+      "geo": {
+        "lat": 63.51848187165512,
+        "lng": 22.46728739137162,
+        "match": "name",
+        "gazetteerName": "nybo",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Barlastgrundet",

@@ -34,7 +34,15 @@
       "name": "Stadsbiblioteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Låg i en hörnbyggnad 1962–74."
+      "description": "Låg i en hörnbyggnad 1962–74.",
+      "geo": {
+        "lat": 63.523042627586705,
+        "lng": 22.53046318427079,
+        "match": "name",
+        "gazetteerName": "stadsbiblioteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -243,13 +243,29 @@
       "name": "prästgården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Påbörjad 1916."
+      "description": "Påbörjad 1916.",
+      "geo": {
+        "lat": 63.51948831716835,
+        "lng": 22.5306269771368,
+        "match": "name",
+        "gazetteerName": "prästgården",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
     },
     {
       "name": "sankta birgitta kyrkan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ett av de historiska platserna."
+      "description": "Ett av de historiska platserna.",
+      "geo": {
+        "lat": 63.522607735052134,
+        "lng": 22.526510424138955,
+        "match": "name",
+        "gazetteerName": "sankta birgitta kyrkan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

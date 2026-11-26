@@ -20,7 +20,15 @@
     {
       "name": "Älvbranten",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52010876583659,
+        "lng": 22.521809223128855,
+        "match": "name",
+        "gazetteerName": "älvbranten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Gråstenskvarnen",

@@ -125,7 +125,15 @@
       "kind": "street",
       "alternateNames": [
         "Nybro Esplanaden"
-      ]
+      ],
+      "geo": {
+        "lat": 63.524336941770116,
+        "lng": 22.53613626981032,
+        "match": "name",
+        "gazetteerName": "nybro boulevarden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusgatan",

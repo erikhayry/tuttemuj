@@ -160,7 +160,15 @@
       "kind": "building",
       "alternateNames": [
         "Nordlings gård"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52166921690244,
+        "lng": 22.529908755695946,
+        "match": "name",
+        "gazetteerName": "nylunds/nordlings gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bangatan",

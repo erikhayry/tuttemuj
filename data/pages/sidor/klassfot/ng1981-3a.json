@@ -11,7 +11,15 @@
     {
       "name": "Nykarleby gymnasium",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5267084706711,
+        "lng": 22.52658663380648,
+        "match": "name",
+        "gazetteerName": "nykarleby gymnasium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

@@ -58,7 +58,15 @@
       "name": "sankta birgitta kyrkan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Från 1708."
+      "description": "Från 1708.",
+      "geo": {
+        "lat": 63.522607735052134,
+        "lng": 22.526510424138955,
+        "match": "name",
+        "gazetteerName": "sankta birgitta kyrkan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "klockstapeln",

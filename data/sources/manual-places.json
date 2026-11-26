@@ -545,7 +545,8 @@
   },
   {
     "name": "bergfeldtska gården",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52078640189076, "lng": 22.530357843479386 }
   },
   {
     "name": "bergmans loftvilla vid andrasjön",
@@ -3067,7 +3068,8 @@
   {
     "name": "juutas",
     "kind": "landmark",
-    "note": "Same place as juthas (Jutas battlefield). Merge later."
+    "note": "Same place as juthas (Jutas battlefield). Merge later.",
+    "location": { "lat": 63.4878418564258, "lng": 22.522955286416725 }
   },
   {
     "name": "järfbacka",
@@ -3389,7 +3391,8 @@
   },
   {
     "name": "klappbryggan",
-    "kind": "landmark"
+    "kind": "landmark",
+    "location": { "lat": 63.522813528087795, "lng": 22.525786604835414 }
   },
   {
     "name": "klarakvarteren",
@@ -4438,7 +4441,8 @@
   },
   {
     "name": "lövhyddan",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52188617564486, "lng": 22.52766972629034 }
   },
   {
     "name": "lövings snickeri",
@@ -4960,7 +4964,8 @@
   },
   {
     "name": "norra torggatan",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.52270006915547, "lng": 22.530149332227236 }
   },
   {
     "name": "norra tullen",
@@ -5040,7 +5045,8 @@
   {
     "name": "nybo",
     "kind": "other",
-    "note": "Place name from a Blomqvist page."
+    "note": "Place name from a Blomqvist page.",
+    "location": { "lat": 63.51848187165512, "lng": 22.46728739137162 }
   },
   {
     "name": "nyboda arbetscentral",
@@ -5052,7 +5058,8 @@
     "alternateNames": [
       "nybro-boule-warden",
       "nybroboulevarden"
-    ]
+    ],
+    "location": { "lat": 63.524336941770116, "lng": 22.53613626981032 }
   },
   {
     "name": "nybrobacken",
@@ -5068,7 +5075,8 @@
   },
   {
     "name": "nybron",
-    "kind": "landmark"
+    "kind": "landmark",
+    "location": { "lat": 63.51643660255903, "lng": 22.526813782591933 }
   },
   {
     "name": "nybroviken",
@@ -5186,7 +5194,8 @@
   },
   {
     "name": "nykarleby gymnasium",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.5267084706711, "lng": 22.52658663380648 }
   },
   {
     "name": "nykarleby hamn",
@@ -5389,7 +5398,8 @@
     "alternateNames": [
       "nordlings gård",
       "nylunds gård"
-    ]
+    ],
+    "location": { "lat": 63.52166921690244, "lng": 22.529908755695946 }
   },
   {
     "name": "nymans gård",
@@ -5689,7 +5699,8 @@
     "kind": "farm",
     "alternateNames": [
       "prestegården"
-    ]
+    ],
+    "location": { "lat": 63.51948831716835, "lng": 22.5306269771368 }
   },
   {
     "name": "prästgårdens beteshage",
@@ -6206,7 +6217,8 @@
     "note": "Church shown in the Kyrkogatan panorama, from 1708 according to the page.",
     "alternateNames": [
       "s:ta birgitta kyrka"
-    ]
+    ],
+    "location": { "lat": 63.522607735052134, "lng": 22.526510424138955 }
   },
   {
     "name": "sarlinska gården",
@@ -6353,7 +6365,8 @@
     "note": "On the seminary grounds.",
     "alternateNames": [
       "kosthållet"
-    ]
+    ],
+    "location": { "lat": 63.526229379193424, "lng": 22.525960855692333 }
   },
   {
     "name": "seminariets kosthållsbyggnad",
@@ -6782,7 +6795,8 @@
     "kind": "building",
     "alternateNames": [
       "nykarleby sparbank"
-    ]
+    ],
+    "location": { "lat": 63.52386396181246, "lng": 22.53077221380886 }
   },
   {
     "name": "sparvboet",
@@ -6901,7 +6915,8 @@
   },
   {
     "name": "stadsbiblioteket",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.523042627586705, "lng": 22.53046318427079 }
   },
   {
     "name": "stadsbrunnen",
@@ -8283,7 +8298,8 @@
   },
   {
     "name": "älvbranten",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.52010876583659, "lng": 22.521809223128855 }
   },
   {
     "name": "älvbrantshusen",
@@ -8431,7 +8447,8 @@
   },
   {
     "name": "östra långgatan",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.52146055959843, "lng": 22.53473479533369 }
   },
   {
     "name": "östra vattugränd",

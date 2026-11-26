@@ -82,7 +82,15 @@
       "kind": "building",
       "alternateNames": [
         "Kosthållet"
-      ]
+      ],
+      "geo": {
+        "lat": 63.526229379193424,
+        "lng": 22.525960855692333,
+        "match": "name",
+        "gazetteerName": "seminariets kosthåll",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

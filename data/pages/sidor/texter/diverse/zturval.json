@@ -40,7 +40,15 @@
       "name": "Stadsbiblioteket",
       "kind": "building",
       "alternateNames": [],
-      "description": "Forskarrummet och hembygdssamlingen."
+      "description": "Forskarrummet och hembygdssamlingen.",
+      "geo": {
+        "lat": 63.523042627586705,
+        "lng": 22.53046318427079,
+        "match": "name",
+        "gazetteerName": "stadsbiblioteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Larsmo bibliotek",

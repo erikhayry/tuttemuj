@@ -15,7 +15,15 @@
       "name": "Älvbranten",
       "kind": "district",
       "alternateNames": [],
-      "description": "Området som flygbilden visar."
+      "description": "Området som flygbilden visar.",
+      "geo": {
+        "lat": 63.52010876583659,
+        "lng": 22.521809223128855,
+        "match": "name",
+        "gazetteerName": "älvbranten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Seminariet",

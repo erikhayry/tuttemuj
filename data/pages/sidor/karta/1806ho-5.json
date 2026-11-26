@@ -112,7 +112,15 @@
     {
       "name": "Norra Torggatan",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52270006915547,
+        "lng": 22.530149332227236,
+        "match": "name",
+        "gazetteerName": "norra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Södra Torggatan",
