@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "exports": {
+    "./gazetteer/*": "./src/gazetteer/*.ts",
+    "./jsonl": "./src/jsonl.ts"
+  },
   "scripts": {
     "typecheck": "tsc -p .",
     "seed": "tsx src/cli/seed.ts",

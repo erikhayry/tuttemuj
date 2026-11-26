@@ -1,5 +1,6 @@
 export * from "./ask.ts";
 export * from "./buttons.ts";
+export * from "./coords.ts";
 export * from "./decode.ts";
 export * from "./defaults.ts";
 export * from "./embedding.ts";
