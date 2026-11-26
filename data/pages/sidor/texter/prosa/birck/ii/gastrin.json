@@ -1,0 +1,328 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/gastrin.htm",
+  "title": "Klockare och orgelnister, Anders Gästrin och fattiggubben",
+  "summary": "Orgelnisten Anders Gästrin snidade omkring 1848–1849 en fattiggubbe som ställdes upp mitt för Stora bron. Sidan berättar också om stadens klockare, tjärvräkningen och en adjunkt som begravdes för tidigt.",
+  "topics": [
+    "kyrka",
+    "orgelnist",
+    "klockare",
+    "träsnideri",
+    "fattigvård",
+    "tjära"
+  ],
+  "people": [
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [],
+      "birthYear": 1820,
+      "roles": [
+        "orgelnist",
+        "bildsnidare",
+        "tjärvräkare"
+      ]
+    },
+    {
+      "name": "Simon Fontell",
+      "alternateNames": [],
+      "deathYear": 1822,
+      "roles": [
+        "klockare"
+      ]
+    },
+    {
+      "name": "Erik Finnström",
+      "alternateNames": [],
+      "roles": [
+        "klockare",
+        "vaccinatör"
+      ]
+    },
+    {
+      "name": "Isak Erik Brander",
+      "alternateNames": [],
+      "deathYear": 1854,
+      "roles": [
+        "klockare"
+      ]
+    },
+    {
+      "name": "Gustaf Erik Brander",
+      "alternateNames": [],
+      "roles": [
+        "viceklockare"
+      ]
+    },
+    {
+      "name": "Simon Sundqvist",
+      "alternateNames": [
+        "Simon Sundquist"
+      ],
+      "roles": [
+        "orgelnist",
+        "klockare"
+      ]
+    },
+    {
+      "name": "Carl Gustaf Marklund",
+      "alternateNames": [
+        "C. G. Marklund"
+      ],
+      "roles": [
+        "orgelnist"
+      ]
+    },
+    {
+      "name": "Jonas Friborg",
+      "alternateNames": [],
+      "birthYear": 1784,
+      "deathYear": 1857,
+      "roles": [
+        "kopparslagare"
+      ]
+    },
+    {
+      "name": "Hans Henrik Lingonblad",
+      "alternateNames": [],
+      "birthYear": 1803,
+      "deathYear": 1888,
+      "roles": [
+        "kyrkväktare"
+      ]
+    },
+    {
+      "name": "Mårten Kristian Vesslin",
+      "alternateNames": [],
+      "deathYear": 1824,
+      "roles": [
+        "adjunkt"
+      ]
+    },
+    {
+      "name": "Hallongren",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gästgivars",
+      "kind": "farm",
+      "alternateNames": [
+        "Gästgivars i Monå"
+      ],
+      "address": "N:o 2 i Monå by i Munsala"
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kyrka"
+        }
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gamla hamn",
+      "kind": "district",
+      "alternateNames": [
+        "Gamla hamnen"
+      ]
+    },
+    {
+      "name": "Hallonstenen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "vid vägskälet, där man söderifrån kom in genom Rajåkern",
+      "nameOrigin": "Stenen fick namnet efter länsman Hallongren, som körde omkull på den."
+    },
+    {
+      "name": "Munsala kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kyrka"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Adjunkten som begravdes för tidigt",
+      "date": {
+        "year": 1824,
+        "circa": false
+      },
+      "description": "Adjunkt Vesslin, som troddes ha dött efter att ha kört omkull på en vägsten, hördes gny i sin kista och befanns ha vänt sig innan han dog.",
+      "people": [
+        "Mårten Kristian Vesslin"
+      ],
+      "places": [
+        "Hallonstenen"
+      ]
+    },
+    {
+      "title": "Gästrin blir orgelnist",
+      "date": {
+        "year": 1840,
+        "month": 9,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Anders Gästrin antogs som orgelnist i Nykarleby församling.",
+      "people": [
+        "Anders Gästrin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fattiggubben snidas",
+      "date": {
+        "year": 1848,
+        "endYear": 1849,
+        "circa": true,
+        "text": "omkring 1848 eller 1849"
+      },
+      "description": "Anders Gästrin snidade en fattiggubbe av en furumast från Alörn, och den ställdes vid kyrkogården mitt för Stora bron för att samla pengar åt de fattiga.",
+      "people": [
+        "Anders Gästrin",
+        "Jonas Friborg"
+      ],
+      "places": [
+        "Alörn",
+        "Stora bron"
+      ]
+    },
+    {
+      "title": "Fattiggubben bränns upp",
+      "date": {
+        "year": 1870,
+        "endYear": 1879,
+        "circa": false,
+        "text": "på 1870-talet"
+      },
+      "description": "Kyrkväktaren Lingonblad högg sönder den borttagna fattiggubben och brände upp den i sakristians kamin.",
+      "people": [
+        "Hans Henrik Lingonblad"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Gästrins välmående träfattiggubbe samlar in kopek vid kyrkan och blir stadens samtalsämne, tills den årtionden senare huggs sönder och eldas upp i sakristian.",
+    "reason": "En träfigur med ett eget livsöde ger en rolig och vemodig bildberättelse.",
+    "characters": [
+      "Anders Gästrin",
+      "Hans Henrik Lingonblad"
+    ],
+    "places": [
+      "Stora bron",
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Anders Gästrin",
+      "place": "Gästgivars",
+      "relation": "born",
+      "startYear": 1820,
+      "endYear": 1820
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Munsala kyrka"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Munsala kyrka"
+      ],
+      "year": 2014
+    }
+  ],
+  "contentHash": "53619012712a91840294d6783f868769b680c2b21e0878b77f8a9e1b34e1d5ee",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:15:25.368Z"
+}

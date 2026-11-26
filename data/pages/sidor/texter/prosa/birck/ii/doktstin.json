@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/doktstin.htm",
+  "title": "”Doktors Stina” och dr Topelius bränneri",
+  "summary": "”Doktors Stina”, Stina Mickelsdotter Sigfrids från Soklot, var dr Topelius trotjänarinna på Kuddnäs och en känd figur i staden. Hon smakade flitigt av brännvinet i gårdens bränneri, och Erik Birck berättar även om barnflickan Brita Kivirantas språkförbistring.",
+  "topics": [
+    "tjänstefolk",
+    "brännvin",
+    "Topelius",
+    "vardagsliv",
+    "anekdoter"
+  ],
+  "people": [
+    {
+      "name": "Stina Mickelsdotter Sigfrids",
+      "alternateNames": [
+        "Doktors Stina",
+        "Sifri"
+      ],
+      "birthYear": 1794,
+      "deathYear": 1868,
+      "roles": [
+        "piga",
+        "tjänarinna"
+      ]
+    },
+    {
+      "name": "Topelius d.ä.",
+      "alternateNames": [
+        "dr Topelius"
+      ],
+      "roles": [
+        "läkare"
+      ]
+    },
+    {
+      "name": "Z. Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Brita Kiviranta",
+      "alternateNames": [],
+      "birthYear": 1774,
+      "deathYear": 1847,
+      "roles": [
+        "barnflicka"
+      ]
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Zachris"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Sofia Topelius",
+      "alternateNames": [
+        "Sofia"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Hilda Olsson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bränneri"
+        }
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "”Doktors Stina” vaktar brännvinspannan på Kuddnäs och smakar så flitigt av dropparna att hon blir oklar, medan barnflickan Brita förklarar på hemsnickrad svenska varför barnen gråter.",
+    "reason": "Två färgstarka tjänarinnor med dialektrepliker och komiska scener i Topelius barndomshem.",
+    "characters": [
+      "Stina Mickelsdotter Sigfrids",
+      "Brita Kiviranta",
+      "Zachris Topelius"
+    ],
+    "places": [
+      "Kuddnäs"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Stina Mickelsdotter Sigfrids",
+      "place": "Kuddnäs",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1847
+    }
+  ],
+  "contentHash": "bca9ddde5536ee97a3c08b023c413ed7502ec516e77b81be2057832d47fac48f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

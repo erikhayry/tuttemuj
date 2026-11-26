@@ -1,0 +1,203 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/graderin.html",
+  "title": "Graderingen av stadens jord",
+  "summary": "År 1850 graderades stadens åkrar, ängar och utmarker i tre klasser inför en ny taxering. Sidan räknar upp många gamla ägo- och platsnamn runt Nykarleby, från Frill i norr till Juthbacka i söder.",
+  "topics": [
+    "jordbruk",
+    "taxering",
+    "ägogradering",
+    "ortnamn"
+  ],
+  "people": [
+    {
+      "name": "Hildén",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handlande"
+      ]
+    },
+    {
+      "name": "A. Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handlande"
+      ]
+    },
+    {
+      "name": "A. Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Hans Holmström",
+      "alternateNames": [
+        "H. Holmström"
+      ],
+      "roles": [
+        "koffertkapten"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "Jacob Biggs",
+      "alternateNames": [],
+      "roles": [
+        "godeman"
+      ]
+    },
+    {
+      "name": "Matts Backman",
+      "alternateNames": [],
+      "roles": [
+        "godeman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Frill",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Åminne",
+      "kind": "district",
+      "alternateNames": [
+        "Åminnet"
+      ]
+    },
+    {
+      "name": "Frillmossabacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [
+        "Kofjoki vägen"
+      ],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rikilämossbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Raijåkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Söderåkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ohls",
+      "kind": "farm",
+      "alternateNames": [
+        "Ohls hemman"
+      ]
+    },
+    {
+      "name": "Svenkan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Lillberget",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Notarieängen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Jämmerdal",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Klockaråkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Hällåkern",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Formanshagen",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadens jord graderas",
+      "date": {
+        "year": 1850,
+        "month": 7,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Stadens ägor graderades i klasser efter markens beskaffenhet och avstånd från staden, som grund för en ny taxering.",
+      "people": [
+        "Hildén",
+        "Hans Holmström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "2b7f37d41d6de9b8f92fc6d9dcfa69999c5fd3f7cefc2c9a20b9b4a389dbb47a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:15:25.368Z"
+}

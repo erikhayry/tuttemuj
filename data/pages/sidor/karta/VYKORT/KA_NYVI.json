@@ -25,6 +25,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nybroviken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "0e2edc425d3575630e85e5b36f0f17147cf55d9d65f93c2e349a60f341dec483",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

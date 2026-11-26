@@ -38,6 +38,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kristliga folkhögskolan"
+      ],
+      "year": 1914
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "a6bc0d656abd8349b5b8e642e2c0105520a3c6e6496541305fb54cd658395985",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

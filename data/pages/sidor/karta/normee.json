@@ -14,6 +14,14 @@
       "kind": "building",
       "alternateNames": [],
       "description": "Övningsskola för seminariets elever; fortfarande skola.",
+      "uses": [
+        {
+          "use": "skola"
+        },
+        {
+          "use": "övningsskola"
+        }
+      ],
       "geo": {
         "lat": 63.52274980000001,
         "lng": 22.528589,
@@ -39,6 +47,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "b88b344883e2c72319742c0355685c28c928aa261463a36fdb815855f7cb5143",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

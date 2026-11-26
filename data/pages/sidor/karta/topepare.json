@@ -30,6 +30,12 @@
       "name": "Topeliusparken",
       "kind": "landmark",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "park",
+          "startYear": 1864
+        }
+      ],
       "geo": {
         "lat": 63.5251781,
         "lng": 22.5308346,
@@ -83,6 +89,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Topeliusparken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "847a3e214cfff8c2ec88b4ea67c8739ee51e459d007ec5fcbb2798d598d28164",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

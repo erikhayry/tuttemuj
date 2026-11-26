@@ -39,6 +39,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nybroforsen"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "020cc46c0bd6fe3833f94a42a3b50fa22c546601e4894461fc6dda18aaafeaa5",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

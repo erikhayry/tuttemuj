@@ -1,0 +1,194 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/fartdjup.htm",
+  "title": "Fartyg, byggda på Djupsten för nykarlebyredarnas räkning efter 1810",
+  "summary": "Förteckningen visar fartyg som Nykarlebys redare lät bygga på Djupstens varv, från barkskeppet Jupiter 1829 till fregattskeppet Adolf 1840. Erik Birck räknar också upp äldre skepp som ännu seglade i början av 1800-talet, med ägare, storlek och öden.",
+  "topics": [
+    "skeppsbyggnad",
+    "fartyg",
+    "redare",
+    "sjöfart"
+  ],
+  "people": [
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [
+        "Ad. Hammarin"
+      ],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Petter Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "G. Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "G. W. Turdin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Matts Ahlund",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "J. J. Kempe",
+      "alternateNames": [],
+      "deathYear": 1805,
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Joh. Turdin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Josef Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. F. Sager",
+      "alternateNames": [],
+      "roles": [
+        "snusfabrikör"
+      ]
+    },
+    {
+      "name": "C. R. Backman",
+      "alternateNames": [],
+      "deathYear": 1830,
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Barkskeppet Jupiter byggs",
+      "date": {
+        "year": 1829,
+        "circa": false
+      },
+      "description": "Barkskeppet Jupiter byggdes på Djupsten för Isak Lindqvist, Adolf Hammarin och Petter Lybeck.",
+      "people": [
+        "Isak Lindqvist",
+        "Adolf Hammarin",
+        "Petter Lybeck"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "NyCarleby byggs",
+      "date": {
+        "year": 1839,
+        "circa": false
+      },
+      "description": "Fregattskeppet NyCarleby byggdes på Djupsten för Matts Lithén och C. J. Berger.",
+      "people": [
+        "Matts Lithén",
+        "C. J. Berger"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Fregatten Adolf byggs",
+      "date": {
+        "year": 1840,
+        "circa": false
+      },
+      "description": "Fregattskeppet Adolf byggdes på Djupsten för Adolf Hammarin; det förolyckades 1843.",
+      "people": [
+        "Adolf Hammarin"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "1cf2bb562486d57af7e6a430360db9185bfd73e09a2edee0ad86eb3597257f76",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

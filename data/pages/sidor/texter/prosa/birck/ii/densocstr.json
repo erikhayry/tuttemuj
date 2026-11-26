@@ -1,0 +1,96 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/densocstr.html",
+  "title": "Den sociala strukturen 1815–1855",
+  "summary": "Nykarleby växte från 689 invånare 1810 till 1217 år 1855, och kvinnorna var länge klart fler än männen. Erik Birck redovisar tabeller över yrken, stånd, hantverk och hushåll, där handlande, sjöfolk och drängar blev många fler före branden.",
+  "topics": [
+    "befolkning",
+    "statistik",
+    "yrken",
+    "hantverk",
+    "hushåll"
+  ],
+  "people": [
+    {
+      "name": "Nils Mathesius",
+      "alternateNames": [],
+      "roles": [
+        "kapellan"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Befolkningen 1810",
+      "date": {
+        "year": 1810,
+        "circa": false
+      },
+      "description": "Nykarleby hade omkring 689 invånare efter att befolkningen minskat under krigsåren.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Befolkningen 1815",
+      "date": {
+        "year": 1815,
+        "circa": false
+      },
+      "description": "Nykarleby hade 712 invånare, varav 420 kvinnor, fördelade på 145 hushåll.",
+      "people": [
+        "Nils Mathesius"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Befolkningen 1840",
+      "date": {
+        "year": 1840,
+        "circa": false
+      },
+      "description": "Nykarleby hade 963 invånare i 176 hushåll.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Befolkningen 1855",
+      "date": {
+        "year": 1855,
+        "circa": false
+      },
+      "description": "Nykarleby hade 1217 kyrkskrivna invånare, och antalet sjöfolk hade stigit till 122.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "bdf7cf3d4c8966df7da215e5321a5ccddbfce1028eb23d9f5ac9404d07f88ffd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

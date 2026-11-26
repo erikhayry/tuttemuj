@@ -1,0 +1,294 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/gamlaham.htm",
+  "title": "Djupstensvarvet förfaller. Stadens packhus i Gamla hamn",
+  "summary": "På 1840-talet förföll både Gamla hamn vid Åminne och Djupstens hamn, när skeppsbyggeriet flyttade till Alörn. Ett nytt pack- och våghus byggdes 1850, och en plankarta från 1862 visar magasinen.",
+  "topics": [
+    "hamn",
+    "packhus",
+    "tull",
+    "magasin",
+    "sjöfart"
+  ],
+  "people": [
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Fredrik Lannér",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Jakob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [
+        "Alb. Dyhr"
+      ],
+      "roles": [
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [],
+      "roles": [
+        "orgelnist"
+      ]
+    },
+    {
+      "name": "Gustaf Turdin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Henrik Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "E. Davidsson",
+      "alternateNames": [],
+      "roles": [
+        "kartritare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla hamn",
+      "kind": "district",
+      "alternateNames": [
+        "Gamla hamnen"
+      ],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    },
+    {
+      "name": "Åminne",
+      "kind": "district",
+      "alternateNames": [
+        "Åminnet",
+        "Åminne lastageplats"
+      ],
+      "uses": [
+        {
+          "use": "lastageplats"
+        }
+      ]
+    },
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [
+        "Djupstens holme",
+        "Djupstenshamnen"
+      ],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        },
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadens packhus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "invid och på östra sidan om allmänna postvägen vid Åminnet",
+      "uses": [
+        {
+          "use": "packhus"
+        }
+      ]
+    },
+    {
+      "name": "Bonäsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Beckbruket",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hamnen ska rustas upp",
+      "date": {
+        "year": 1845,
+        "month": 11,
+        "day": 17,
+        "circa": false
+      },
+      "description": "Staden beslöt att bygga om bryggan vid Åminne i gråsten och att reparera möljan vid Djupsten.",
+      "people": [
+        "J. A. Lybeck"
+      ],
+      "places": [
+        "Åminne",
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Krav på nytt packhus",
+      "date": {
+        "year": 1845,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Tullförvaltare Lannér krävde ett nytt pack- och våghus vid Åminne, eftersom det gamla var förfallet och trångt.",
+      "people": [
+        "Johan Fredrik Lannér"
+      ],
+      "places": [
+        "Stadens packhus",
+        "Åminne"
+      ]
+    },
+    {
+      "title": "Nytt packhus byggs",
+      "date": {
+        "year": 1850,
+        "circa": false
+      },
+      "description": "Det nya pack- och våghuset vid Åminne byggdes.",
+      "people": [],
+      "places": [
+        "Åminne"
+      ]
+    },
+    {
+      "title": "Djupstensmöljan auktioneras ut",
+      "date": {
+        "year": 1857,
+        "month": 11,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Virket i den förfallna möljan vid Djupsten skulle säljas på auktion och ropades in av rådman Dyhr.",
+      "people": [
+        "Albert Dyhr"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Sista magasinet säljs",
+      "date": {
+        "year": 1910,
+        "circa": false
+      },
+      "description": "Det sista magasinet vid Åminne lastageplats såldes till Wilh. Schaumans bolag och blev barack för skogsarbetare.",
+      "people": [],
+      "places": [
+        "Åminne"
+      ]
+    },
+    {
+      "title": "Saltbod flyttas",
+      "date": {
+        "year": 1974,
+        "circa": false
+      },
+      "description": "Lars Pensar flyttade en saltbod med årtalet 1642, ursprungligen från Gamla hamn, till sin villatomt vid Andrasjön.",
+      "people": [
+        "Lars Pensar"
+      ],
+      "places": [
+        "Gamla hamn",
+        "Andrasjön"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Åminne"
+      ],
+      "year": 1862
+    },
+    {
+      "image": 2,
+      "places": [
+        "Åminne"
+      ]
+    }
+  ],
+  "contentHash": "5dbfb3c4de95e90ecabf2893c843c77b24ef354a65c5b83d3eb579f0894bbed8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:15:25.368Z"
+}

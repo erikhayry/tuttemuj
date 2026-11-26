@@ -47,7 +47,15 @@
       "name": "Lokstallet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Byggdes senare om till brandstation."
+      "description": "Byggdes senare om till brandstation.",
+      "uses": [
+        {
+          "use": "lokstall"
+        },
+        {
+          "use": "brandstation"
+        }
+      ]
     },
     {
       "name": "Stationsgatan",
@@ -121,6 +129,30 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Stationsområdet",
+        "Stationshuset",
+        "Lokstallet",
+        "Stationsgatan",
+        "Mathesiusgatan",
+        "Bangatan"
+      ],
+      "year": 1907
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "ec4405ae047da99605aab66fea31b1aaa5589ab887d658c2fe9412c54f2cbd06",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

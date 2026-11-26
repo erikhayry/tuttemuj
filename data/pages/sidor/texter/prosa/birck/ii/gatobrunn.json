@@ -1,0 +1,237 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/gatobrunn.htm",
+  "title": "Gator och brunnar iordningställes",
+  "summary": "För att säkra släckvattnet beslöt staden 1837 att anlägga körvägar från älven och gräva en allmän brunn på Kyrkotorget. Samtidigt tvistades det om vem som skulle stenlägga gatorna och Stadsbäcken.",
+  "topics": [
+    "brandskydd",
+    "gator",
+    "brunnar",
+    "stenläggning",
+    "Stadsbäcken"
+  ],
+  "people": [
+    {
+      "name": "Johan Haeggström",
+      "alternateNames": [
+        "Haeggström"
+      ],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Gustaf Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Erik Tåg",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "Anders Liljeqvist",
+      "alternateNames": [],
+      "roles": [
+        "guldsmed"
+      ]
+    },
+    {
+      "name": "Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Victor Federley",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "vicestadsfiskal",
+        "brofogde"
+      ]
+    },
+    {
+      "name": "Josef Werfving",
+      "alternateNames": [],
+      "roles": [
+        "inspektor",
+        "byggmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nybrobacken"
+      ]
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "brunnsplats",
+          "startYear": 1837,
+          "endYear": 1837
+        }
+      ]
+    },
+    {
+      "name": "Stadsbäcken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra Lillgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustaf Lindqvists gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomterna 1—3 i södra stadsdelen"
+    },
+    {
+      "name": "Gården nr 79",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 79"
+    },
+    {
+      "name": "Gården nr 25",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "½ tomten nr 25, vid Nybrobacken"
+    }
+  ],
+  "events": [
+    {
+      "title": "Vattenvägar och brunn beslutas",
+      "date": {
+        "year": 1837,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Staden beslöt att anlägga uppkörsvägar för vatten från älven, stenlägga gator och Stadsbäcken och gräva en allmän brunn på Kyrkotorget.",
+      "people": [
+        "Johan Haeggström"
+      ],
+      "places": [
+        "Kyrkotorget",
+        "Stadsbäcken"
+      ]
+    },
+    {
+      "title": "Guldsmeden klagar",
+      "date": {
+        "year": 1837,
+        "month": 5,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Guldsmed Anders Liljeqvist klagade över skyldigheten att stenlägga Östra Lillgatan, och staden åtog sig att reparera muren längs bäcken.",
+      "people": [
+        "Anders Liljeqvist"
+      ],
+      "places": [
+        "Östra Lillgatan",
+        "Stadsbäcken"
+      ]
+    },
+    {
+      "title": "Gatusyn",
+      "date": {
+        "year": 1838,
+        "month": 5,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Vid en syn av stadens gator och gränder befanns flera andelar i Östra gatan vara i dåligt skick.",
+      "people": [
+        "Hammarin",
+        "Victor Federley",
+        "J. H. Forssén"
+      ],
+      "places": [
+        "Östra gatan"
+      ]
+    },
+    {
+      "title": "Stensättningen av bäcken",
+      "date": {
+        "year": 1839,
+        "month": 2,
+        "circa": false
+      },
+      "description": "Inspektor Josef Werfving utsågs att leda stensättningen av Stadsbäcken under vintern.",
+      "people": [
+        "Josef Werfving"
+      ],
+      "places": [
+        "Stadsbäcken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Gustaf Lindqvist",
+      "place": "Gustaf Lindqvists gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Anders Liljeqvist",
+      "place": "Gården nr 79",
+      "relation": "owned",
+      "startYear": 1837,
+      "endYear": 1837
+    },
+    {
+      "person": "Wahlberg",
+      "place": "Gården nr 25",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "7eabdd356d2b2234ce486b185a7f78ed276ef9b9d1ed00684e934076190562e1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:15:25.368Z"
+}

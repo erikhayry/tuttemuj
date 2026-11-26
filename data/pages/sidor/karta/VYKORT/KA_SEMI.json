@@ -57,7 +57,12 @@
       "alternateNames": [
         "Verkstadsbyggnaden"
       ],
-      "description": "Normalskolan låg på vinden."
+      "description": "Normalskolan låg på vinden.",
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
     },
     {
       "name": "Seminariets huvudbyggnad",
@@ -74,6 +79,30 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Seminarieområdet",
+        "Seminariegatan",
+        "Seminariets internat",
+        "Seminariets direktorsbostad",
+        "Seminariets verkstadsbyggnad",
+        "Seminariets huvudbyggnad",
+        "Seminariets kosthåll"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "961dc124a973b45095ce81886e340b67197e205cb37cb9d65bf0e3f8304ce4b4",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

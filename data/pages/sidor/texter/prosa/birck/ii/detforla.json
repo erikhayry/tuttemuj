@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/detforla.htm",
+  "title": "Det förändrade läget efter 1809",
+  "summary": "Efter 1809 förändrades handeln och sjöfarten i Nykarleby: Sverige tappade betydelse och Ryssland blev en ny marknad. Erik Birck skildrar krig, konjunkturer och salthandel, och hur tjära, beck, smör och spannmål färdades mellan inlandet, staden och utlandet.",
+  "topics": [
+    "handel",
+    "sjöfart",
+    "tjära",
+    "salt",
+    "konjunkturer",
+    "export"
+  ],
+  "people": [
+    {
+      "name": "Pehr Malm d.ä.",
+      "alternateNames": [],
+      "roles": [
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "Petter Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Petter Malm",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminne",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tjärhov"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fartygen beslagtas",
+      "date": {
+        "year": 1809,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Ryssarna lade alla finländska fartyg under beslag, vilket tillsammans med kriget lamslog sjöfarten för bland annat Nykarleby.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Tjära säljs till Jakobstad",
+      "date": {
+        "year": 1834,
+        "circa": false
+      },
+      "description": "Nykarlebyhandlandena Petter Lybeck och Adolf Hammarin sålde sammanlagt 2000 tunnor tjära till Petter Malm i Jakobstad.",
+      "people": [
+        "Petter Lybeck",
+        "Adolf Hammarin",
+        "Petter Malm"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "da88d3cd4a7df0ed45563b2712ef3f6d8b31a07db90325c5e9f0048958d368a0",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

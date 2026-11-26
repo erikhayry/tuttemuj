@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/brandkv.htm",
+  "title": "Vad som återstod efter stadsbranden 1858",
+  "summary": "Efter stadsbranden 1858 stod minst 53 boningshus kvar i Nykarleby, utöver bland annat kyrkan, skolhuset och tullgårdarna. Sidan listar tomt för tomt de ägare som fick lösen av staden för bevarade hus vid nyregleringen, främst i kvarteren i öster och nordost.",
+  "topics": [
+    "stadsbranden 1858",
+    "tomtreglering",
+    "husägare"
+  ],
+  "people": [
+    {
+      "name": "E. A. Henelius",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "C. E. Ekholm",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "F. M. Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "A. J. Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "A. Gästrin",
+      "alternateNames": [],
+      "roles": [
+        "organist"
+      ]
+    },
+    {
+      "name": "H. Löfgren",
+      "alternateNames": [],
+      "roles": [
+        "krukmakare"
+      ]
+    },
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "F. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "C. F. Brännholm",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skolhuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rechardtska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Senare Heikel/Kivinen."
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Trädgårdsgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Södra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hus räddas undan branden",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "description": "Minst 46 privata hus och gårdar räddades undan stadsbranden i Nykarleby, förutom kyrkan, skolhuset och andra byggnader.",
+      "people": [],
+      "places": [
+        "Nykarleby",
+        "Kyrkan",
+        "Skolhuset",
+        "Rechardtska gården"
+      ]
+    },
+    {
+      "title": "Tomter och byggnader löses in",
+      "date": {
+        "year": 1858,
+        "endYear": 1866,
+        "circa": false
+      },
+      "description": "Vid nyregleringen efter branden betalade Nykarleby stad ut lösen för gamla tomter, källare, stenmurar, brunnar och byggnader.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "8e5db3f88803a4dd75172b62b2b680ebb4ed774f40b90e03af37e76e4c886099",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

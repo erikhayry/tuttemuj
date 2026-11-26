@@ -1,0 +1,232 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/fattigfoko.html",
+  "title": "Fattigvårdsförsörjningskommittén",
+  "summary": "År 1846 fick Nykarleby en fattigvårdskommitté under prosten Gabriel Borg, och utbetalningarna ur stadskassan upphörde. Erik Birck redovisar hur avgiften taxerades, vilka änkor, barn och sjuka som fick understöd och hur förre apotekaren Bastman utackorderades.",
+  "topics": [
+    "fattigvård",
+    "understöd",
+    "skatter",
+    "änkor",
+    "barn"
+  ],
+  "people": [
+    {
+      "name": "Gabriel Borg",
+      "alternateNames": [
+        "prosten Borg"
+      ],
+      "roles": [
+        "prost",
+        "ordförande"
+      ]
+    },
+    {
+      "name": "J. Haeggström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "A. Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Anders Grönqvist",
+      "alternateNames": [],
+      "roles": [
+        "skräddare"
+      ]
+    },
+    {
+      "name": "H. H. Garbén",
+      "alternateNames": [],
+      "roles": [
+        "skomakarålderman"
+      ]
+    },
+    {
+      "name": "Johan Fellman",
+      "alternateNames": [],
+      "roles": [
+        "urmakare"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "M. Sandström",
+      "alternateNames": [
+        "Sandström"
+      ],
+      "roles": [
+        "handelsman",
+        "kassör"
+      ]
+    },
+    {
+      "name": "A. R. Bastman",
+      "alternateNames": [
+        "Bastman"
+      ],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Jakob Lenning",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Anna Hjelte",
+      "alternateNames": [],
+      "roles": [
+        "skräddaränka"
+      ]
+    },
+    {
+      "name": "Anders Felander",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Johan Jacob Andersson Pelkos",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Matts Broo",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Maria Broo",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fattigkommittén tillsätts",
+      "date": {
+        "year": 1846,
+        "month": 5,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Kyrkostämman i Nykarleby beslöt tillsätta en fattigvårdsförsörjningskommitté för staden.",
+      "people": [
+        "Gabriel Borg",
+        "J. Haeggström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Första fattigmönstringen",
+      "date": {
+        "year": 1847,
+        "month": 1,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Stadens fattiga mönstrades inför kommittén och beviljades understöd att hämta halvårsvis.",
+      "people": [
+        "Gabriel Borg",
+        "M. Sandström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Bastman utackorderas",
+      "date": {
+        "year": 1848,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Förre apotekaren Bastman, som försörjdes av fattigvården, flyttade från bonden Pelkos i Forsby till bonden Matts Broo.",
+      "people": [
+        "A. R. Bastman",
+        "Johan Jacob Andersson Pelkos",
+        "Matts Broo"
+      ],
+      "places": [
+        "Forsby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Jacob Andersson Pelkos",
+      "place": "Forsby",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "654239f7de741735d805a84a8a9b99bc3f416ddd3b30cbe0f1590a2107c4db55",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

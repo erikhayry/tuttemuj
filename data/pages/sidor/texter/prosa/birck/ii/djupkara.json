@@ -1,0 +1,132 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/djupkara.htm",
+  "title": "Djupsten som karantänsplats",
+  "summary": "När koleran hotade 1848 blev holmen Djupsten karantänsplats och Sofie Lybecks hus vid väderkvarnen sjukhus. Erik Birck berättar om karantänen på Alörns redd, den åtta dagar långa väntetiden och de regler som stadens lotsar måste följa.",
+  "topics": [
+    "kolera",
+    "karantän",
+    "sjöfart",
+    "lotsar",
+    "sjukvård"
+  ],
+  "people": [
+    {
+      "name": "Sofie Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådmansänka"
+      ]
+    },
+    {
+      "name": "J. Lingonblad",
+      "alternateNames": [],
+      "roles": [
+        "stadsbetjänt",
+        "uppsyningsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "karantänsplats",
+          "startYear": 1848,
+          "endYear": 1848
+        },
+        {
+          "use": "lasarett"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sofie Lybecks hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på västra sidan om älven invid hennes väderkvarn",
+      "uses": [
+        {
+          "use": "sjukhus",
+          "startYear": 1848
+        }
+      ]
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lodörssundet",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Lodörs sundet"
+      ]
+    },
+    {
+      "name": "Sandörn",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Karantän mot koleran",
+      "date": {
+        "year": 1848,
+        "circa": false
+      },
+      "description": "Magistraten inrättade ett kolerasjukhus i Sofie Lybecks hus och gjorde Djupstens norra udde till karantänsplats; karantänen varade tre månader och tio dagar.",
+      "people": [
+        "Sofie Lybeck",
+        "J. Lingonblad"
+      ],
+      "places": [
+        "Djupsten",
+        "Sofie Lybecks hus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Sofie Lybeck",
+      "place": "Sofie Lybecks hus",
+      "relation": "owned",
+      "startYear": 1848,
+      "endYear": 1848
+    },
+    {
+      "person": "J. Lingonblad",
+      "place": "Djupsten",
+      "relation": "worked",
+      "startYear": 1848,
+      "endYear": 1848
+    }
+  ],
+  "images": [],
+  "contentHash": "e1ef57e745b7f2a812703ab26d521d6fe649540840a70ead3831ee212fab73fb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

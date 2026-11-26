@@ -59,6 +59,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hugos lindo"
+      ],
+      "year": 1981
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "821e86031cde188b368c856f0d211fe1d68bd46cdb413d2a114d8ad345d9a963",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

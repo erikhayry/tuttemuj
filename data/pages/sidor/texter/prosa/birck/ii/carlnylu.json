@@ -1,0 +1,127 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/carlnylu.htm",
+  "title": "Carl Nylund",
+  "summary": "Carl Nylund (1838–1918) blev tidigt föräldralös och uppfostrades från 1852 hos rådman C. W. Sundström i Nykarleby. Efter tio år som Sundströms biträde fick han handelsburskap 1863 och blev en av stadens ledande skeppsredare och handelsmän vid 1800-talets slut.",
+  "topics": [
+    "handel",
+    "skeppsredare",
+    "släkten Nylund",
+    "personhistoria"
+  ],
+  "people": [
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [
+        "Calle"
+      ],
+      "birthYear": 1838,
+      "deathYear": 1918,
+      "roles": [
+        "handlande",
+        "skeppsredare",
+        "konsul"
+      ]
+    },
+    {
+      "name": "Johanna Nylund",
+      "alternateNames": [
+        "Johanna Silfvast"
+      ],
+      "roles": []
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Hansson Nylund",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Gustaf Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "August Lilius",
+      "alternateNames": [],
+      "roles": [
+        "handelsskollärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Klostréms stuga",
+      "kind": "building",
+      "alternateNames": [
+        "Kloströms stuga"
+      ],
+      "description": "Familjen Nylunds bostad i Nystaden, senare skomakare Kloströms."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nylund kommer till Sundströms",
+      "date": {
+        "year": 1852,
+        "circa": false
+      },
+      "description": "Den 14-årige Carl Nylund kom att uppfostras i rådman C. W. Sundströms hus i Nykarleby.",
+      "people": [
+        "Carl Nylund",
+        "C. W. Sundström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nylund blir handlande",
+      "date": {
+        "year": 1863,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Carl Nylund antogs till in- och utrikeshandlande i Nykarleby.",
+      "people": [
+        "Carl Nylund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Hansson Nylund",
+      "place": "Klostréms stuga",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "4e7920c8aa19e0d6621abf5903a51b643c3e29ab0b5c4d0b64af057deb04b349",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

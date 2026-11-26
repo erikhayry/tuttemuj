@@ -1,0 +1,381 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/blockadb.htm",
+  "title": "Blockadbrytning och smuggling under Krimkriget",
+  "summary": "Under Krimkriget 1854–1856 smugglade Nykarlebyborna tjära till Sverige och hem salt, trots den engelska flottan. Birck berättar om nybyggda båtar, nattliga färder från Granskärssundet till Ratan, jakter bland skären och den engelska fregatten som sökte sig mot hamnen vid Alörn 1855.",
+  "topics": [
+    "Krimkriget",
+    "smuggling",
+    "sjöfart",
+    "båtbyggen",
+    "salt och tjära"
+  ],
+  "people": [
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Jacob Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Sandström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "E. L. J. Gellin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "A. Söderlund",
+      "alternateNames": [
+        "Anders Söderlund"
+      ],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Johan Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Erik Dahlsten",
+      "alternateNames": [],
+      "roles": [
+        "sjöman",
+        "torpare"
+      ]
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Frans Hedström",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Joggun Sjöberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Drakabacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. E. Jessberg",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Hedman",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [
+        "Alön"
+      ],
+      "uses": [
+        {
+          "use": "varv",
+          "startYear": 1854
+        },
+        {
+          "use": "hamn"
+        },
+        {
+          "use": "magasin"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nålörn",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "båtbygge",
+          "startYear": 1854
+        }
+      ]
+    },
+    {
+      "name": "Granskärssundet",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Granskärs sund"
+      ]
+    },
+    {
+      "name": "Granskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Stubben",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Frill",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Furuskärshällarna",
+      "kind": "landmark",
+      "alternateNames": [
+        "Furuvikshällarna"
+      ]
+    },
+    {
+      "name": "Bredskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Mickelsörarna",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla hamnen",
+      "kind": "landmark",
+      "alternateNames": [
+        "Gamla hamn"
+      ]
+    },
+    {
+      "name": "Ragnörsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5358546,
+        "lng": 22.5325748,
+        "match": "name",
+        "gazetteerName": "ragnörsforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "utkikstorn",
+          "startYear": 1855,
+          "endYear": 1855
+        }
+      ],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ratan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Hamn i Västerbotten, Sverige."
+    }
+  ],
+  "events": [
+    {
+      "title": "Skonerten Kiirus byggs",
+      "date": {
+        "year": 1854,
+        "circa": false
+      },
+      "description": "Rådmännen Sundström och Sandström lät bygga skonerten Kiirus på Alörns varv och gömde det halvfärdiga fartyget för fienden i skärgården.",
+      "people": [
+        "C. W. Sundström",
+        "Matts Sandström"
+      ],
+      "places": [
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Smuggelfärderna börjar",
+      "date": {
+        "year": 1854,
+        "circa": false
+      },
+      "description": "Fiskarbröderna Boman och sjöman Dahlsten torde ha varit de första Nykarlebybor som gav sig över till svenska kusten efter salt.",
+      "people": [
+        "Matts Boman",
+        "Johan Boman",
+        "Erik Dahlsten"
+      ],
+      "places": []
+    },
+    {
+      "title": "Engelsk fregatt vid hamnen",
+      "date": {
+        "year": 1855,
+        "month": 9,
+        "day": 18,
+        "circa": false
+      },
+      "description": "En engelsk fregatt sökte sig in mot Nykarleby hamn, undersökte ett magasin på Alörn och brände sedan en galeas på väg från Umeå.",
+      "people": [],
+      "places": [
+        "Alörn",
+        "Klockstapeln"
+      ]
+    },
+    {
+      "title": "Skutor jagas vid Furuskärshällarna",
+      "date": {
+        "year": 1855,
+        "month": 11,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Ett engelskt fartyg jagade och besköt tre Nykarlebyfartyg utanför Furuskärshällarna; skutorna räddade sig bland klipporna men en blev svårt skadad.",
+      "people": [],
+      "places": [
+        "Furuskärshällarna"
+      ]
+    },
+    {
+      "title": "Najaden kommer hem",
+      "date": {
+        "year": 1856,
+        "month": 6,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Rådman Bergers skonert Najaden, som legat i Köpenhamn vid fredsslutet, hemfördes till Nykarleby under skepparen J. E. Jessberg.",
+      "people": [
+        "C. J. Berger",
+        "J. E. Jessberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Kapten Frans Hedström smyger i maj ut mot Sverige med last förbi engelsmännens blockad, medan ”Joggun” Sjöberg ligger på lur och försöker skugga honom genom skärgården.",
+    "reason": "Kapplöpning, nattliga seglatser och slughet mellan smugglarna ger spänning och humor.",
+    "characters": [
+      "Frans Hedström",
+      "Joggun Sjöberg",
+      "G. M. Hedström"
+    ],
+    "places": [
+      "Alörn",
+      "Granskär",
+      "Furuskärshällarna"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Boman",
+      "place": "Tornskär",
+      "relation": "worked"
+    },
+    {
+      "person": "Johan Boman",
+      "place": "Stubben",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "b05181712bc3393848b36e06c3ea672b9f545a464f182b1cdeaa7cfa95d6197d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

@@ -25,6 +25,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Tullstranden"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "ada91d4c446fb2e37bc7f00225f6b5be4eb1218155fc7f1146e42d0374bf549a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

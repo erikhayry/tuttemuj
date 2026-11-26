@@ -1,0 +1,278 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/jupiter.htm",
+  "title": "Jupiter och Jupiterfonden",
+  "summary": "Barkskeppet Jupiter byggdes på Djupsten 1829 och seglade på England och Medelhavet tills det förliste 1851. Redarna grundade 1831 Jupiterfonden för stadens fattiga, en av Nykarlebys äldsta donationer.",
+  "topics": [
+    "sjöfart",
+    "skeppsbyggeri",
+    "Djupsten",
+    "donation",
+    "fattigvård"
+  ],
+  "people": [
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [
+        "A. Lindqvist"
+      ],
+      "roles": [
+        "rådman",
+        "handlande",
+        "redare"
+      ]
+    },
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [
+        "A. Hammarin"
+      ],
+      "roles": [
+        "rådman",
+        "handlande",
+        "redare"
+      ]
+    },
+    {
+      "name": "Petter Lybeck",
+      "alternateNames": [
+        "P. Lybeck"
+      ],
+      "roles": [
+        "rådman",
+        "handlande",
+        "redare"
+      ]
+    },
+    {
+      "name": "Matts Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Petter Rundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Sofia Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlandeänka"
+      ]
+    },
+    {
+      "name": "Joh. Petter Rundström",
+      "alternateNames": [
+        "J. P. Rundström"
+      ],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Joh. Wilhelm Rundström",
+      "alternateNames": [],
+      "roles": [
+        "styrman"
+      ]
+    },
+    {
+      "name": "Gustaf Nyman",
+      "alternateNames": [],
+      "roles": [
+        "konstapel"
+      ]
+    },
+    {
+      "name": "Johan Frilund",
+      "alternateNames": [],
+      "roles": [
+        "timmerman"
+      ]
+    },
+    {
+      "name": "Johan Blom",
+      "alternateNames": [],
+      "roles": [
+        "båtsman"
+      ]
+    },
+    {
+      "name": "Johan Öhman",
+      "alternateNames": [],
+      "roles": [
+        "matros"
+      ]
+    },
+    {
+      "name": "Matts Ljungeld",
+      "alternateNames": [],
+      "roles": [
+        "matros"
+      ]
+    },
+    {
+      "name": "Engelbert Brännholm",
+      "alternateNames": [],
+      "roles": [
+        "kock"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "vattenskout"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "P. W. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sofia Charlotta Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv",
+          "startYear": 1829,
+          "endYear": 1829
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby sjömanshus",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sjömanshus"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Jupiter byggs",
+      "date": {
+        "year": 1829,
+        "circa": false
+      },
+      "description": "Barkskeppet Jupiter byggdes av furu på stadens skeppsvarv på Djupsten för Lindqvist, Hammarin och Lybeck.",
+      "people": [
+        "Isak Lindqvist",
+        "Adolf Hammarin",
+        "Petter Lybeck"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Jupiterfonden grundas",
+      "date": {
+        "year": 1831,
+        "month": 12,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Jupiters redare donerade ett kapital vars ränta årligen skulle delas ut till stadens fattiga.",
+      "people": [
+        "Isak Lindqvist",
+        "Petter Lybeck",
+        "Adolf Hammarin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Jupiter byggs om",
+      "date": {
+        "year": 1848,
+        "circa": false
+      },
+      "description": "Byggmästare Matts Henriksson byggde om Jupiter, som därefter åter gick till sjöss under skepparen Rundström.",
+      "people": [
+        "Matts Henriksson",
+        "Joh. Petter Rundström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Jupiter förliser",
+      "date": {
+        "year": 1851,
+        "circa": false
+      },
+      "description": "Nykarlebyskeppet Jupiter förliste utanför Malaga.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gåva i guld",
+      "date": {
+        "year": 1890,
+        "month": 12,
+        "circa": false
+      },
+      "description": "Rådman J. A. Lybeck lät sonen överlämna 2000 mark i guld till stadens fattiga i anslutning till Jupiterfonden.",
+      "people": [
+        "J. A. Lybeck",
+        "P. W. Lybeck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fonden slås samman",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "description": "Jupiterfonden slogs samman med 22 andra fonder till en socialhjälpsfond.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "6c4cd4cc47dfb9150376405c1cdcf069bb5eb7abd74f02cbe4c31c7d45551554",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

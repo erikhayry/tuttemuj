@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/forvorga.htm",
+  "title": "Förvaltningens organisation",
+  "summary": "Nykarleby styrdes på 1800-talet av magistraten och borgerskapets äldste, som varje 1 maj valde stadens befattningshavare. Erik Birck redovisar besluten 1839 och 1845 och räknar upp tjänsterna, från borgmästare och stadsfiskal till svinstickare och barnmorska.",
+  "topics": [
+    "förvaltning",
+    "magistrat",
+    "borgerskap",
+    "befattningar"
+  ],
+  "people": [
+    {
+      "name": "A. J. Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Carl Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [
+        "Berger"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [
+        "Lybeck"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [
+        "Forssén"
+      ],
+      "roles": [
+        "vicestadsfiskal"
+      ]
+    },
+    {
+      "name": "J. V. Forsberg",
+      "alternateNames": [
+        "Forsberg"
+      ],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "Magnus Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "A. A. Grönqvist",
+      "alternateNames": [],
+      "roles": [
+        "skräddare"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "A. Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. A. Haeggström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "G. A. Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Erik Östman",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådstudagen 1839",
+      "date": {
+        "year": 1839,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Magistraten och borgerskapet i Nykarleby valde befattningshavare och beslöt om extra brandvakt vid storm och torka.",
+      "people": [
+        "C. J. Berger",
+        "C. J. Collander",
+        "J. A. Lybeck"
+      ],
+      "places": [
+        "Nykarleby",
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Val av stadens äldste",
+      "date": {
+        "year": 1845,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Nykarleby valde stadens äldste, skattarmän, kyrkoråd och andra förtroendemän.",
+      "people": [
+        "G. A. Lindqvist",
+        "C. J. Collander"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "5097d2e4e72911b705e1a81795a0c6e8b9b7fe73d31f6751033e224534466b71",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:10:39.311Z"
+}

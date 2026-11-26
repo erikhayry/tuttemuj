@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/folkmang.htm",
+  "title": "Folkmängden i Nykarleby",
+  "summary": "Nykarlebys folkmängd steg från 689 år 1810 till 1217 år 1855, sjönk efter branden och uppgick 1880 till 1220. Erik Birck redovisar födslar, vigslar, spädbarnsdöd och dödsorsaker, med lungsoten som värsta farsot, samt dr Topelius rapport om hälsoläget 1829.",
+  "topics": [
+    "befolkning",
+    "statistik",
+    "sjukdomar",
+    "dödlighet",
+    "lungsot"
+  ],
+  "people": [
+    {
+      "name": "Topelius",
+      "alternateNames": [
+        "dr Topelius"
+      ],
+      "roles": [
+        "provinsialläkare"
+      ]
+    },
+    {
+      "name": "Josefina Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "mamsell"
+      ]
+    },
+    {
+      "name": "Josef Collander",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. Ad. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "C. P. Löfberg",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lappå ån",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Rapport om tyfus",
+      "date": {
+        "year": 1829,
+        "circa": false
+      },
+      "description": "Dr Topelius rapporterade att nervfeber hela året drabbat Nykarlebydistriktet i lindrig form och krävde skyddsåtgärder.",
+      "people": [
+        "Topelius"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Rödsoten",
+      "date": {
+        "year": 1833,
+        "circa": false
+      },
+      "description": "Rödsoten skördade 31 offer, främst barn.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Folkmängden före branden",
+      "date": {
+        "year": 1855,
+        "circa": false
+      },
+      "description": "Nykarleby stad hade 1217 invånare, fler än något av de närmaste decennierna efter branden fram till 1880.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "d0144bbb68f0ca63de361714300ffb8c4f2e1200d8f8eccc2d59cae1f77ecceb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:10:39.311Z"
+}

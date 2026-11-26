@@ -77,6 +77,14 @@
       "alternateNames": [],
       "address": "Gref Tottgatan",
       "description": "Liten grå bastu utanför Roosas lindo nedanför backkrönet; ägd av familjerna Andell och Ahlström, riven troligen före 1972.",
+      "uses": [
+        {
+          "use": "bastu"
+        },
+        {
+          "use": "tvättstuga"
+        }
+      ],
       "geo": {
         "lat": 63.5260036,
         "lng": 22.5362541,
@@ -151,7 +159,12 @@
       "name": "Svanströms mangelstuga",
       "kind": "building",
       "alternateNames": [],
-      "description": "Intill gamla mejeriet."
+      "description": "Intill gamla mejeriet.",
+      "uses": [
+        {
+          "use": "mangelstuga"
+        }
+      ]
     },
     {
       "name": "Gamla mejeriet",
@@ -162,7 +175,12 @@
       "name": "Stadsbastun",
       "kind": "building",
       "alternateNames": [],
-      "description": "Hade ett tvätteri."
+      "description": "Hade ett tvätteri.",
+      "uses": [
+        {
+          "use": "tvätteri"
+        }
+      ]
     },
     {
       "name": "Atto Marklunds bilskrot",
@@ -226,6 +244,59 @@
       "Källbacken"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Else-Maj",
+      "place": "Florahemmet",
+      "relation": "lived",
+      "startYear": 2009
+    },
+    {
+      "person": "Ann-Britt Enlund",
+      "place": "Källbacken",
+      "relation": "lived"
+    },
+    {
+      "person": "Atto Marklund",
+      "place": "Atto Marklunds bilskrot",
+      "relation": "owned"
+    },
+    {
+      "person": "Svanström",
+      "place": "Svanströms mangelstuga",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Ahlströms bastu",
+        "Ladan på Roosas lindo"
+      ],
+      "year": 1956
+    },
+    {
+      "image": 2,
+      "places": [
+        "Mathesiusgatan",
+        "Grev Tottgatan",
+        "Ahlströms bastu",
+        "Atto Marklunds bilskrot",
+        "Ladan på Roosas lindo"
+      ],
+      "year": 1964
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "f0c664c765683c2a8b3887628429d379959647380dab164d6f479cb7a0400a24",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

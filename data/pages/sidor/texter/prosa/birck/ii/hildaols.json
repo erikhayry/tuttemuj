@@ -1,0 +1,239 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/hildaols.htm",
+  "title": "Hilda Olson 1832–1915, en nykarlebykonstnär",
+  "summary": "Hilda Olson (1832–1915) skildrade det gamla Nykarleby före branden i akvareller, teckningar och anteckningar. Hon studerade i Helsingfors, ritade spindlar på en forskningsresa till Krim och slutade sina dagar i London.",
+  "topics": [
+    "konst",
+    "akvarell",
+    "resor",
+    "översättning",
+    "Krim",
+    "London"
+  ],
+  "people": [
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "birthYear": 1832,
+      "deathYear": 1915,
+      "roles": [
+        "målarinna",
+        "mönsterriterska",
+        "översättare"
+      ]
+    },
+    {
+      "name": "Olov Olson",
+      "alternateNames": [
+        "Olsen"
+      ],
+      "deathYear": 1851,
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Karin Palm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Oskar Olson",
+      "alternateNames": [
+        "Oskar Olson"
+      ],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "Alexander von Nordmann",
+      "alternateNames": [
+        "Alex. von Nordmann"
+      ],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [
+        "magister"
+      ]
+    },
+    {
+      "name": "A. W. Öller",
+      "alternateNames": [],
+      "roles": [
+        "stationschef"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Åminnegården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Herlers museum",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "museum"
+        }
+      ]
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "station"
+        }
+      ],
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen Olson kommer till staden",
+      "date": {
+        "year": 1828,
+        "circa": false
+      },
+      "description": "Den norskfödde sjökaptenen Olov Olson flyttade till Nykarleby.",
+      "people": [
+        "Olov Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Studieresan till Krim",
+      "date": {
+        "year": 1860,
+        "month": 5,
+        "day": 27,
+        "endYear": 1861,
+        "circa": false
+      },
+      "description": "Hilda Olson följde professor Nordmann på en studieresa till södra Ryssland och Krim för att teckna spindlar.",
+      "people": [
+        "Hilda Olson",
+        "Alexander von Nordmann"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hilda återvänder hem",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "description": "Hilda Olson flyttade tillbaka till Nykarleby för att vårda sin mor.",
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Flytten till London",
+      "date": {
+        "year": 1877,
+        "circa": false
+      },
+      "description": "Efter moderns död tog Hilda Olson en plats som mönsterriterska i London.",
+      "people": [
+        "Hilda Olson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sista besöket",
+      "date": {
+        "year": 1906,
+        "circa": false
+      },
+      "description": "Hilda Olson besökte Nykarleby för sista gången, kom med lilla tåget från Kovjoki station och fann staden mycket förändrad.",
+      "people": [
+        "Hilda Olson",
+        "Fritz Olson"
+      ],
+      "places": [
+        "Kovjoki station"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En ung konstnär från den nedbrunna småstaden reser genom Europa till Krim för att rita spindlar, och slutar årtionden senare ensam med sin katt i ett kallt London under världskriget.",
+    "reason": "Ett stort livsöde med resor och tydlig kontrast mellan början och slut.",
+    "characters": [
+      "Hilda Olson",
+      "Alexander von Nordmann"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl Oskar Olson",
+      "place": "Kuddnäs",
+      "relation": "owned"
+    },
+    {
+      "person": "Carl Oskar Olson",
+      "place": "Åminnegården",
+      "relation": "lived",
+      "startYear": 1906,
+      "endYear": 1906
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1864
+    },
+    {
+      "image": 3,
+      "places": [
+        "Herlers museum"
+      ]
+    }
+  ],
+  "contentHash": "e0854457e0eb0cbe8ca4655071f2381a310294415e7c587e6127e9dcf7e8f877",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

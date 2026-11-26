@@ -1,0 +1,177 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/grundfaf.htm",
+  "title": "Grundfeldts affärsverksamhet",
+  "summary": "Carl Grundfeldt i Nykarleby sålde vin och sprit långt in i det finska inlandet på 1850- och 1860-talen. Kundernas brev berättar om läckande kärl, törstiga forkarlar, dålig konjak och en rikedom som ändå växte.",
+  "topics": [
+    "handel",
+    "spritvaror",
+    "transporter",
+    "kommissionärer",
+    "ångmaskin"
+  ],
+  "people": [
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [
+        "Grundfeldt"
+      ],
+      "roles": [
+        "grosshandlare",
+        "skeppsredare"
+      ]
+    },
+    {
+      "name": "Joh. Parviainen",
+      "alternateNames": [
+        "M. Parviainen"
+      ],
+      "roles": [
+        "kommissionär"
+      ]
+    },
+    {
+      "name": "F. Lemström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. Ramstedt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "F. M. Possenius",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. Nasaroff",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Fr. Degener",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "P. Aug. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Nettelbladt",
+      "alternateNames": [],
+      "roles": [
+        "grosshandlare"
+      ]
+    },
+    {
+      "name": "W. Moldakoff",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "deathYear": 1946,
+      "roles": []
+    },
+    {
+      "name": "Karl Wenelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Läkargården",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ångmaskinen säljs till Kuopio",
+      "date": {
+        "year": 1865,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Nykarleby Warfsbolag sålde en ångmaskin till en köpman i Kuopio, och Grundfeldt brottades med att få den transporterad i vårföret.",
+      "people": [
+        "Carl Grundfeldt",
+        "W. Moldakoff"
+      ],
+      "places": []
+    },
+    {
+      "title": "Konkurser under nödåren",
+      "date": {
+        "year": 1866,
+        "endYear": 1869,
+        "circa": false
+      },
+      "description": "Under nödåren gick flera av Grundfeldts affärskontakter i konkurs, bland dem C. J. Berger och M. Sandström i Nykarleby.",
+      "people": [
+        "Carl Grundfeldt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tullen tömmer kassan",
+      "date": {
+        "year": 1869,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Tullen på en stor varusändning tömde nästan Grundfeldts kassa, så P. Aug. Lybeck måste låna pengar medan Grundfeldt var i Tyskland.",
+      "people": [
+        "Carl Grundfeldt",
+        "P. Aug. Lybeck",
+        "J. A. Lybeck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Vin och konjak skickas med häst och ångbåt till inlandet, men längs vägen borrar forkarlarna hål, suger ur faten med halmstrån och fyller på, medan arga kunder skriver brev till Nykarleby.",
+    "reason": "Svinnet på vägen kan bli en rolig kedja av småfusk och ursinniga brev.",
+    "characters": [
+      "Carl Grundfeldt",
+      "F. Lemström",
+      "Joh. Parviainen"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl Grundfeldt",
+      "place": "Läkargården",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "a8830e25ada92b001ef365f62e7ba5d7eb93d75c1c016cb9322c1e60a67a1328",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:15:25.368Z"
+}

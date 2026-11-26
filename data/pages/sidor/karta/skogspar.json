@@ -19,6 +19,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Skogsparken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "e246f655714cf01533581b732f882c78e50d6534dffdfdd94baf825402310516",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

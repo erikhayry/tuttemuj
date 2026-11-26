@@ -1,0 +1,158 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/josefibe.htm",
+  "title": "Josephine Berg",
+  "summary": "Josefine Bergh (1839–1928), kallad \"Magermamsell\", kom till Nykarleby som 14-åring efter Vasa brand och blev en av stadens mest kända välgörare. År 1875 blev hon första kvinnan i fattigvårdsstyrelsen.",
+  "topics": [
+    "välgörenhet",
+    "fattigvård",
+    "fruntimmersförening",
+    "glasmästare",
+    "släkt"
+  ],
+  "people": [
+    {
+      "name": "Josefine Bergh",
+      "alternateNames": [
+        "Josephine Berg",
+        "Magermamsell"
+      ],
+      "birthYear": 1839,
+      "deathYear": 1928,
+      "roles": []
+    },
+    {
+      "name": "Maria Albertina Kerrman",
+      "alternateNames": [
+        "fru Kerrman"
+      ],
+      "birthYear": 1814,
+      "deathYear": 1887,
+      "roles": [
+        "kaptenska"
+      ]
+    },
+    {
+      "name": "Jakob Kerrman",
+      "alternateNames": [
+        "Kukku"
+      ],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Olof Herman Bergh",
+      "alternateNames": [],
+      "birthYear": 1779,
+      "deathYear": 1820,
+      "roles": [
+        "glasmästare"
+      ]
+    },
+    {
+      "name": "Susanna Lisa Nyström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Bergh",
+      "alternateNames": [],
+      "birthYear": 1744,
+      "deathYear": 1810,
+      "roles": [
+        "glasmästare"
+      ]
+    },
+    {
+      "name": "Anna Lisa Lund",
+      "alternateNames": [],
+      "birthYear": 1750,
+      "deathYear": 1840,
+      "roles": []
+    },
+    {
+      "name": "Johan Samuel Bergh",
+      "alternateNames": [],
+      "birthYear": 1801,
+      "deathYear": 1855,
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Elisabet Ulrika Vikstrand",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby Beckbränneri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "beckbränneri"
+        }
+      ]
+    },
+    {
+      "name": "Gården nr 44",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 44"
+    }
+  ],
+  "events": [
+    {
+      "title": "Josefine kommer till Nykarleby",
+      "date": {
+        "year": 1852,
+        "circa": false
+      },
+      "description": "Efter Vasa brand hämtade fru Kerrman sin brorsdotter Josefine Bergh till Nykarleby, där hon blev kvar hela livet.",
+      "people": [
+        "Josefine Bergh",
+        "Maria Albertina Kerrman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Första kvinnan i fattigvårdsstyrelsen",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Josefine Bergh invaldes som första kvinnliga medlem i Nykarlebys fattigvårdsstyrelse.",
+      "people": [
+        "Josefine Bergh"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Kaptenskan sparar pengar på banken till sin egen begravning, men maken \"Kukku\" tar ut dem i en knipa, och när hon dör får den unga brorsdottern betala gravölet.",
+    "reason": "En liten tragikomisk berättelse med ett tydligt svek och ånger.",
+    "characters": [
+      "Maria Albertina Kerrman",
+      "Jakob Kerrman",
+      "Josefine Bergh"
+    ],
+    "places": []
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Olof Herman Bergh",
+      "place": "Gården nr 44",
+      "relation": "owned",
+      "startYear": 1802
+    }
+  ],
+  "images": [],
+  "contentHash": "99d0e5f5a0c2baff4ec25b91e93df220253092a75d5cc0e674166718f2c4d8e2",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

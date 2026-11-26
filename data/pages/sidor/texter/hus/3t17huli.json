@@ -60,6 +60,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hugos lindo",
+        "Ladan på Hugos lindo"
+      ],
+      "year": 1982
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "f7decfaf962e1b01dc9dad4df608413fb07728a3f220befd752a9b04d6ef9502",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

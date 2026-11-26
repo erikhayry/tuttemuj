@@ -94,7 +94,12 @@
       "name": "Calamnius jaktstuga",
       "kind": "building",
       "alternateNames": [],
-      "description": "Flyttad från Kubban till Borgaregatan 3; Topelius vistades där. Riven 1995."
+      "description": "Flyttad från Kubban till Borgaregatan 3; Topelius vistades där. Riven 1995.",
+      "uses": [
+        {
+          "use": "jaktstuga"
+        }
+      ]
     },
     {
       "name": "Kubban",
@@ -195,6 +200,48 @@
       "Knutars gård"
     ]
   },
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Calamnius",
+      "place": "Calamnius jaktstuga",
+      "relation": "owned"
+    },
+    {
+      "person": "Alf Nikonen",
+      "place": "Knutars gård",
+      "relation": "owned",
+      "startYear": 2004,
+      "endYear": 2004
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Knutars gård",
+        "Borgaregatan",
+        "Normalskolan",
+        "Klockstapeln"
+      ],
+      "year": 1975
+    },
+    {
+      "image": 2,
+      "places": [
+        "Knutars gård"
+      ],
+      "year": 1984
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "a15f602490520bccaa4a13b3fe555e0817482116b814d3d173f69629da7bfa70",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

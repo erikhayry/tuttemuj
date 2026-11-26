@@ -1,0 +1,168 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/forafatt.htm",
+  "title": "Förändringar i fattigvårdskommittén. Nya vårdnadshavare",
+  "summary": "Åren 1850–1853 byttes ledamöter i Nykarlebys fattigvårdskommitté, och fattiga barn och kvinnor utackorderades till bönder, sjömän och hantverkare. Erik Birck namnger vårdarna och de understödda samt visar hur hyresbidrag och uttaxering ordnades.",
+  "topics": [
+    "fattigvård",
+    "utackordering",
+    "barn",
+    "understöd"
+  ],
+  "people": [
+    {
+      "name": "Fabian Mikael Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Magnus Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "Christian Wennerholm",
+      "alternateNames": [
+        "Chr. Wennerholm"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Carl Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "N. Aug. Bergsten",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "A. J. Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Christoffer Kullman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "ordförande"
+      ]
+    },
+    {
+      "name": "Fr. Alcenius",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "Jonas Friborg",
+      "alternateNames": [],
+      "roles": [
+        "kopparslagare"
+      ]
+    },
+    {
+      "name": "Fredrik Granholm",
+      "alternateNames": [],
+      "roles": [
+        "kardmakare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Kullman blir ordförande",
+      "date": {
+        "year": 1852,
+        "month": 12,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Kyrkoherde Christoffer Kullman satt för första gången som ordförande i Nykarlebys fattigvårdskommitté.",
+      "people": [
+        "Christoffer Kullman"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Fattiga utackorderas",
+      "date": {
+        "year": 1852,
+        "month": 12,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Nykarleby hade nio fattighjon utackorderade till bland annat bönder, sjömän och hantverkare i staden och byarna.",
+      "people": [],
+      "places": [
+        "Nykarleby",
+        "Soklot",
+        "Forsby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "ecf4a1b98b242a921f4908e221a0578cd53a4d7ed875e3f94fc1d1e8bba91c49",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:10:39.311Z"
+}

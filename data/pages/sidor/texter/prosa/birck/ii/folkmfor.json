@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/folkmfor.htm",
+  "title": "Folkmängdsförändringarna 1865–70",
+  "summary": "Under nödåren dog ingen i Nykarleby stad av svält, men på landsbygden runtom skördade hunger och tyfus hundratals liv 1868. Erik Birck redovisar siffrorna, fattigvårdens soppkokning och minnet av rimsmidaren Pelkus-Ant, som själv gick under.",
+  "topics": [
+    "nödåren",
+    "hungersnöd",
+    "tyfus",
+    "befolkning",
+    "fattigvård"
+  ],
+  "people": [
+    {
+      "name": "Pelkus-Ant",
+      "alternateNames": [
+        "Pelkus"
+      ],
+      "deathYear": 1868,
+      "roles": [
+        "rimsmidare"
+      ]
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Aug. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lena Höglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kyrkoherdeboställe"
+        }
+      ],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [
+        "Fotsby"
+      ]
+    },
+    {
+      "name": "Kyrkan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hungeråret 1868",
+      "date": {
+        "year": 1868,
+        "circa": false
+      },
+      "description": "I Nykarleby landsförsamling dog 224 personer av hunger eller följdsjukdomar, medan ingen i stadsförsamlingen svalt ihjäl.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Soppkokning för de fattiga",
+      "date": {
+        "year": 1868,
+        "circa": false
+      },
+      "description": "Fattigvården i Nykarleby betalade ut sitt största belopp före första världskriget, bland annat för soppkokning och bakning som Lena Höglund skötte.",
+      "people": [
+        "Lena Höglund"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Rimsmidaren Pelkus-Ant möter på en stadspromenad prästen, koppkärringen och svarvaren, döper om dem till storljugaren, blodsugaren och träskruvaren och förutspår att det går illa för honom den dagen.",
+    "reason": "En kvicktänkt originalgestalt med färdiga dialektrepliker mot en mörk nödårsbakgrund.",
+    "characters": [
+      "Pelkus-Ant"
+    ],
+    "places": [
+      "Nykarleby"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Boman",
+      "place": "Källbacken",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "3228e151c3ef9ca8b143d1a0ca07fa7ae621defd7d11ec2bb84436e5a6c9f924",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:10:39.311Z"
+}

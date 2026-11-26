@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/brandsto.htm",
+  "title": "Brandstodsbolaget träder i verksamhet",
+  "summary": "På 1830-talet försökte brandstodsbolaget förbättra brandsäkerheten i Nykarleby, där nästan alla hus hade eldfarliga tak av takved. Gårdsägarna drog ut på kraven, brandmanskapet misslyckades när Häggbloms ria brann 1838 och först 1839 stärktes vakthållningen.",
+  "topics": [
+    "brandskydd",
+    "brandförsäkring",
+    "brandvakter",
+    "takved"
+  ],
+  "people": [
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "stadsfogde",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Henrik Sund",
+      "alternateNames": [],
+      "roles": [
+        "hökare",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Johan Wilhelm Forsberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Carl Erik Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare",
+        "rotmästare"
+      ]
+    },
+    {
+      "name": "Magnus Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare",
+        "rotmästare"
+      ]
+    },
+    {
+      "name": "Anders Adolf Grönqvist",
+      "alternateNames": [],
+      "roles": [
+        "skräddare",
+        "rotmästare"
+      ]
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Anders Ropar",
+      "alternateNames": [],
+      "roles": [
+        "brandvakt"
+      ]
+    },
+    {
+      "name": "Henrik Limingo",
+      "alternateNames": [],
+      "roles": [
+        "brandvakt"
+      ]
+    },
+    {
+      "name": "Anders Gädda",
+      "alternateNames": [],
+      "roles": [
+        "brandvakt"
+      ]
+    },
+    {
+      "name": "Jakob Gästgifvars",
+      "alternateNames": [],
+      "roles": [
+        "brandvakt"
+      ]
+    },
+    {
+      "name": "Johan Wärn",
+      "alternateNames": [],
+      "roles": [
+        "brandvakt"
+      ]
+    },
+    {
+      "name": "Matts Larsson Wörlin",
+      "alternateNames": [],
+      "roles": [
+        "brandvakt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Häggbloms ria här brann 1838."
+    },
+    {
+      "name": "Spruthuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Rådhusstämma om takvedstak",
+      "date": {
+        "year": 1838,
+        "month": 4,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Nykarlebyborna diskuterade förslaget att förbjuda takvedstak och ville ha tio års övergångstid.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Häggbloms ria brinner",
+      "date": {
+        "year": 1838,
+        "month": 10,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Häggbloms ria på Nygård brann ned medan det ovana brandmanskapet sprutade över elden; Topelius skildrade villervallan.",
+      "people": [
+        "Z. Topelius"
+      ],
+      "places": [
+        "Nygård"
+      ]
+    },
+    {
+      "title": "Brandtillbud mitt i staden",
+      "date": {
+        "year": 1838,
+        "month": 12,
+        "day": 31,
+        "circa": false
+      },
+      "description": "En eldsvåda var nära att bryta ut hos Salins mitt i Nykarleby under en svår storm.",
+      "people": [
+        "Z. Topelius"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Nattpatruller införs",
+      "date": {
+        "year": 1839,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Vid stark blåst eller torka skulle tio man patrullera nattetid i staden tillsammans med brandvakten.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Rian på Nygård brinner och hela staden rusar till: strålarna går över elden, en rad män tumlar i diket och gubben Wiklund får vattnet rakt i flinten.",
+    "reason": "Topelius beskriver ett komiskt släckningsfiasko med tydliga bilder.",
+    "characters": [
+      "Z. Topelius"
+    ],
+    "places": [
+      "Nygård"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "9dbcc7f9ba1b2b1c588b15e2e465e6dfc4747b71204a749f54628bf1f0c606d4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

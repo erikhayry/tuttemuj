@@ -1,0 +1,339 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/brhhbreb.htm",
+  "title": "Brunnsholmarna och Nykarleby hälsobrunn",
+  "summary": "Hälsokällan vid älven och Brunnsholmarna var Nykarlebys brunnsort från 1700-talet, med brunnshus, bad, värdshus och kägelbana. Brunnsdrickandet upphörde på 1870-talet, ett nytt värdshus byggdes 1898 och revs 1918; källan och holmarna har försvunnit sedan älvens vatten höjts.",
+  "topics": [
+    "hälsobrunn",
+    "Brunnsholmarna",
+    "värdshus",
+    "nöjesliv"
+  ],
+  "people": [
+    {
+      "name": "Johan Ersson Julin",
+      "alternateNames": [],
+      "roles": [
+        "apotekare",
+        "naturforskare"
+      ]
+    },
+    {
+      "name": "Z. Topelius d.ä.",
+      "alternateNames": [
+        "dr Topelius"
+      ],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Chr. Reinh. Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Benzelstjerna",
+      "alternateNames": [],
+      "roles": [
+        "apotekare",
+        "brunnsintendent"
+      ]
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Hedström",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Ernst V. Knape",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "K. F. Spolander",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmen",
+        "Holmen"
+      ],
+      "uses": [
+        {
+          "use": "värdshus",
+          "endYear": 1893
+        },
+        {
+          "use": "kägelbana",
+          "startYear": 1836
+        },
+        {
+          "use": "värdshus",
+          "startYear": 1898,
+          "endYear": 1918
+        }
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby hälsobrunn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Nykarleby Surbrunn",
+        "hälsokällan"
+      ],
+      "description": "På östra älvstranden mittemot Brunnsholmarna, knappt 100 meter söder om Engs gård.",
+      "uses": [
+        {
+          "use": "hälsokälla"
+        }
+      ]
+    },
+    {
+      "name": "Brunnshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggt över källan efter 1812.",
+      "uses": [
+        {
+          "use": "brunnshus"
+        }
+      ]
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Nygård"
+      ]
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Jutbacka"
+      ],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Tirskärssund",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Härifrån hämtades gyttja till baden; numera fastland."
+    },
+    {
+      "name": "Gråstenskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Kvarndammen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Engs gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Brunnshuset byggs",
+      "date": {
+        "year": 1812,
+        "circa": true,
+        "text": "efter 1812"
+      },
+      "description": "Rådman Isak Lindqvist lät bygga ett brunnshus över Nykarleby hälsokälla.",
+      "people": [
+        "Isak Lindqvist"
+      ],
+      "places": [
+        "Brunnshuset",
+        "Nykarleby hälsobrunn"
+      ]
+    },
+    {
+      "title": "Kägelbana anläggs",
+      "date": {
+        "year": 1836,
+        "circa": false
+      },
+      "description": "Apotekare Benzelstjerna anlade en kägelbana vid sommarvärdshuset på Brunnsholmarna.",
+      "people": [
+        "Johan Benzelstjerna"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Källan stängs",
+      "date": {
+        "year": 1865,
+        "circa": false
+      },
+      "description": "När kontraktet med Nygårds hemman gick ut stängdes Nykarleby hälsokälla i fem år.",
+      "people": [],
+      "places": [
+        "Nykarleby hälsobrunn",
+        "Nygårds hemman"
+      ]
+    },
+    {
+      "title": "Anläggningen säljs och rivs",
+      "date": {
+        "year": 1893,
+        "circa": false
+      },
+      "description": "Staden sålde värdshuset på Brunnsholmen för 176 mark, varefter allt revs och flyttades bort.",
+      "people": [],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Nytt värdshus på Holmen",
+      "date": {
+        "year": 1898,
+        "circa": false
+      },
+      "description": "Ett bolag av stadens herrar lät uppföra ett nytt värdshus på Brunnsholmen.",
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    },
+    {
+      "title": "Värdshuset rivs",
+      "date": {
+        "year": 1918,
+        "circa": false
+      },
+      "description": "Anläggningen på Brunnsholmen såldes och revs på sommaren.",
+      "people": [
+        "K. F. Spolander",
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "Brunnsholmarna"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Isak Lindqvist",
+      "place": "Brunnshuset",
+      "relation": "built"
+    },
+    {
+      "person": "Johan Benzelstjerna",
+      "place": "Brunnsholmarna",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby hälsobrunn",
+        "Juthbacka"
+      ],
+      "year": 1849
+    },
+    {
+      "image": 3,
+      "places": [
+        "Nykarleby hälsobrunn",
+        "Juthbacka"
+      ],
+      "year": 1849
+    },
+    {
+      "image": 4,
+      "places": [
+        "Brunnsholmarna",
+        "Kvarndammen"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Brunnsholmarna"
+      ],
+      "year": 1900
+    }
+  ],
+  "contentHash": "59ae97377e469ec3525fefe2db87232cb66a127bedc48c4bde6d15c4621f5792",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

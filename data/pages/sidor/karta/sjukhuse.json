@@ -16,6 +16,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Sjukhuset"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "ccc827a5e9e896addb6b8e69a88428415777db8acb612409a95d995f4be67626",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

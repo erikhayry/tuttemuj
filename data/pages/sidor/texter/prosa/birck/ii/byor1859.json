@@ -1,0 +1,65 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/byor1859.htm",
+  "title": "Byggnadsordningen av år 1859",
+  "summary": "Nykarlebys byggnadsordning av 1859 skulle hindra en ny stadsbrand med breda gator, brandgator, lövträd och stränga regler för hus och verkstäder. Trähus fick bara vara en våning, eldfarliga och illaluktande verksamheter förvisades till utkanterna och husen skulle brädfodras och målas.",
+  "topics": [
+    "byggnadsordning",
+    "stadsplan",
+    "brandskydd",
+    "esplanader"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Förslaget till byggnadsordning godkänns",
+      "date": {
+        "year": 1859,
+        "month": 1,
+        "day": 10,
+        "circa": false
+      },
+      "description": "En rådhusstämma i Nykarleby godkände magistratens förslag till ny byggnadsordning.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Byggnadsordningen fastställs",
+      "date": {
+        "year": 1859,
+        "month": 8,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Senaten avgav den av kejsaren fastställda byggnadsordningen för Nykarleby stad.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "ff1a34fa288b3016664c77935e544dda0b7e292d019abe567f799c85ad9b2a0f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

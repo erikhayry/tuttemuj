@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/ebnystad.htm",
+  "title": "Den nya stadsplanen av år 1858",
+  "summary": "Efter branden fick Nykarleby 1858 en ny rutplan av länsarkitekten C. A. Edelfelt, med breda gator, brandgator och boulevarder planterade med lövträd. Planen indelade staden i 36 kvarter och ökade dess areal teoretiskt drygt tre gånger.",
+  "topics": [
+    "stadsplan",
+    "stadsbranden",
+    "brandsäkerhet",
+    "tomter",
+    "gator"
+  ],
+  "people": [
+    {
+      "name": "Carl Albert Edelfelt",
+      "alternateNames": [
+        "Edelfelt"
+      ],
+      "roles": [
+        "länsarkitekt"
+      ]
+    },
+    {
+      "name": "C. A. Setterberg",
+      "alternateNames": [],
+      "birthYear": 1812,
+      "deathYear": 1871,
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Alexander II",
+      "alternateNames": [],
+      "roles": [
+        "kejsare"
+      ]
+    },
+    {
+      "name": "L. P. Kjäldström",
+      "alternateNames": [
+        "Kjäldström"
+      ],
+      "roles": [
+        "skeppsbyggmästare"
+      ]
+    },
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gamla staden",
+      "kind": "district",
+      "alternateNames": [
+        "Huvudstaden",
+        "gamla delen av staden"
+      ]
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsplanen godkänns",
+      "date": {
+        "year": 1858,
+        "month": 9,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Kejsar Alexander II godkände C. A. Edelfelts nya stadsplan för det brunna Nykarleby.",
+      "people": [
+        "Alexander II",
+        "Carl Albert Edelfelt"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Stadsplanen avvägs",
+      "date": {
+        "year": 1859,
+        "circa": false
+      },
+      "description": "L. P. Kjäldström avvägde Nykarlebys nya stadsplan, varefter gator och torg fylldes ut eller sänktes.",
+      "people": [
+        "L. P. Kjäldström"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Gator och torg namnges",
+      "date": {
+        "year": 1860,
+        "month": 5,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Nykarleby indelades i stadsdelar och gator, torg och andra allmänna platser fick bestämda namn.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "26d9fbb6488004699c16037842421c409a1942a6aa48ae838c0899ded202d46e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

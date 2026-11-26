@@ -142,6 +142,52 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "K. J. Ahlskog",
+      "place": "Ahlskogs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Sigrid Ahlskog",
+      "place": "Ahlskogs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Nils Solvin",
+      "place": "Ahlskogs gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Ingmar Nylund",
+      "place": "Ahlskogs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Engström",
+      "place": "Ahlskogs gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Ahlskogs gård",
+        "Grev Tottgatan",
+        "Norra parkhuset"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "46c4331e8c3bd717b8abc893dc6a9128c261a6547baa2689dd8265a66a9463b6",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -386,6 +386,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Leder till stadens hamn vid Andrasjön; gick fram till mitten av 1980-talet längs nuvarande Idrottsgatan och Idrottsgränd.",
+      "nameOrigin": "Vägen har fått namnet av att den leder till stadens hamn vid Andrasjön.",
       "geo": {
         "lat": 63.5219692,
         "lng": 22.4894431,
@@ -430,6 +431,7 @@
         "Tullgatan"
       ],
       "description": "Uppkallad efter ett badhus vid gatans tänkta förlängning mot älven; förlängdes från 1970-talet.",
+      "nameOrigin": "Namnet kommer av ett badhus som låg vid gatans planerade förlängning mot älven.",
       "geo": {
         "lat": 63.52254449999999,
         "lng": 22.5185687,
@@ -446,6 +448,7 @@
         "Södra Tvärgatan"
       ],
       "description": "Järnvägen från Kovjoki till Andrasjön gick längs gatan 1900–1916.",
+      "nameOrigin": "Gatan är uppkallad efter sin tidigare funktion, eftersom järnvägen gick längs den.",
       "geo": {
         "lat": 63.5196402,
         "lng": 22.5392551,
@@ -462,6 +465,7 @@
         "Norra Torggatan"
       ],
       "description": "Bankverksamhet sedan 1898 då Vasa Aktie Bank etablerade sig här.",
+      "nameOrigin": "Namnet syftar på den bankverksamhet som har funnits vid gatan sedan 1898.",
       "geo": {
         "lat": 63.5222074,
         "lng": 22.5351597,
@@ -504,6 +508,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Uppkallad efter Cordt Bockmöller, borgmästare 1653–67; tillkom i stadsplanen 1912.",
+      "nameOrigin": "Gatan är uppkallad efter borgmästaren Cordt Bockmöller.",
       "geo": {
         "lat": 63.5216242,
         "lng": 22.5400655,
@@ -518,6 +523,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Nära idrottscentrumet; från 1990-talet.",
+      "nameOrigin": "Namnet hänger ihop med att gränden ligger nära idrottscentrumet.",
       "geo": {
         "lat": 63.51784699999999,
         "lng": 22.5129881,
@@ -534,6 +540,7 @@
         "Norra Tvärgatan"
       ],
       "description": "Det enda av de fyra stånden som fått en gata.",
+      "nameOrigin": "Gatan hedrar borgarståndet, det enda av de fyra stånden som har fått en gata.",
       "geo": {
         "lat": 63.5232479,
         "lng": 22.5356973,
@@ -547,13 +554,15 @@
       "name": "Brogatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Vid Storbron; ingen bor vid den och den saknar namnskylt."
+      "description": "Vid Storbron; ingen bor vid den och den saknar namnskylt.",
+      "nameOrigin": "Namnet kommer av att gatan ligger vid Storbron."
     },
     {
       "name": "Frihemsvägen",
       "kind": "street",
       "alternateNames": [],
       "description": "Anlagd 2002 vid f.d. Frihemmet.",
+      "nameOrigin": "Vägen går över tomten där åldringshemmet Frihemmet tidigare stod.",
       "geo": {
         "lat": 63.51791670000001,
         "lng": 22.5470782,
@@ -568,6 +577,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Uppkallad efter seminariets förste direktor Frans Edvard Conradi; från 1980-talet.",
+      "nameOrigin": "Gatan är uppkallad efter Conradi, seminariets första direktor.",
       "geo": {
         "lat": 63.5426727,
         "lng": 22.5371728,
@@ -582,6 +592,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Nära idrottscentrumet; från 1980-talet.",
+      "nameOrigin": "Namnet hänger ihop med att gränden ligger nära idrottscentrumet.",
       "geo": {
         "lat": 63.5171357,
         "lng": 22.5118658,
@@ -621,6 +632,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "På industriområdet; från 1980-talet.",
+      "nameOrigin": "Gatan har fått namnet av att den ligger på stadens industriområde.",
       "geo": {
         "lat": 63.5270731,
         "lng": 22.5457636,
@@ -637,6 +649,7 @@
         "Fiskaregatan"
       ],
       "description": "Hette Fiskaregatan i 1912 års stadsplan.",
+      "nameOrigin": "Namnet bygger på en yrkesbenämning.",
       "geo": {
         "lat": 63.52688,
         "lng": 22.5351826,
@@ -679,6 +692,7 @@
         "Sibeliusgatan"
       ],
       "description": "Efter Frillmossen nordost om staden; leder till pälsfarmernas industriområde och var del av gamla vägen till Kovjoki.",
+      "nameOrigin": "Namnet kommer av området Frillmossen nordost om staden.",
       "geo": {
         "lat": 63.5291159,
         "lng": 22.5510306,
@@ -693,6 +707,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Östra stadsdelen från 1970-talet med barrträdsnamn.",
+      "nameOrigin": "Gränden ligger i en stadsdel där gatorna fick namn efter barrträd.",
       "geo": {
         "lat": 63.51931990000001,
         "lng": 22.5459186,
@@ -721,6 +736,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Färgare Wahlberg hade bostad och verkstad vid älvstranden här.",
+      "nameOrigin": "Namnet bygger på en yrkesbenämning.",
       "geo": {
         "lat": 63.5187174,
         "lng": 22.5255838,
@@ -740,6 +756,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Östra stadsdelen från 1970-talet.",
+      "nameOrigin": "Gränden ligger i en stadsdel där gatorna fick namn efter barrträd.",
       "geo": {
         "lat": 63.51854660000001,
         "lng": 22.5447849,
@@ -754,6 +771,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Östra stadsdelen från 1970-talet.",
+      "nameOrigin": "Vägen ligger i en stadsdel där gatorna fick namn efter barrträd.",
       "geo": {
         "lat": 63.51838309999999,
         "lng": 22.5441992,
@@ -771,6 +789,7 @@
         "Norra Staketgatan"
       ],
       "description": "Uppkallad efter greve Klas Åkesson Tott av Carleborg.",
+      "nameOrigin": "Gatan är uppkallad efter greven Klas Åkesson Tott av Carleborg.",
       "geo": {
         "lat": 63.5260036,
         "lng": 22.5362541,
@@ -788,6 +807,7 @@
         "Skolgatan"
       ],
       "description": "Efter stadens grundläggare Gustav II Adolf.",
+      "nameOrigin": "Gatan hedrar stadens grundläggare Gustav II Adolf.",
       "geo": {
         "lat": 63.5234563,
         "lng": 22.5335698,
@@ -863,6 +883,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Västra stadsdelen från 1970-talet med skogsbärsnamn.",
+      "nameOrigin": "Gränden ligger i en stadsdel där två gator fick namn efter skogsbär.",
       "geo": {
         "lat": 63.5253775,
         "lng": 22.5167411,
@@ -877,6 +898,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Efter hemmanet Högbacka mitt emot Kuddnäs.",
+      "nameOrigin": "Vägen är uppkallad efter hemmanet Högbacka på andra sidan älven från Kuddnäs.",
       "geo": {
         "lat": 63.5319811,
         "lng": 22.5272084,
@@ -893,6 +915,7 @@
         "Andrasjövägen"
       ],
       "description": "Leder till Idrotts- och ungdomsgården; Ebba Brahes ruddamm låg där gatan ansluter till Juthasvägen.",
+      "nameOrigin": "Gatan leder till gränden som går till idrotts- och ungdomsgården.",
       "geo": {
         "lat": 63.5205716,
         "lng": 22.5174409,
@@ -907,6 +930,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Leder till idrottsgården och Skogsvallen.",
+      "nameOrigin": "Gränden leder till idrotts- och ungdomsgården och idrottsplatsen Skogsvallen.",
       "geo": {
         "lat": 63.5199909,
         "lng": 22.5146671,
@@ -923,6 +947,7 @@
         "Kuddnäsvägen"
       ],
       "description": "Den norra utfartsvägen mot Jakobstad, uträtad på 1950-talet.",
+      "nameOrigin": "Namnet kommer av att den norra utfartsvägen leder till Jakobstad.",
       "geo": {
         "lat": 63.5661983,
         "lng": 22.5711643,
@@ -937,6 +962,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Efter hemmanet Jeansborg, tidigare kyrkoherdebolet.",
+      "nameOrigin": "Vägen är uppkallad efter hemmanet Jeansborg, vars mark den går över.",
       "geo": {
         "lat": 63.5171249,
         "lng": 22.5341641,
@@ -967,6 +993,7 @@
         "Jutasvägen"
       ],
       "description": "Gamla södra utfartsvägen väster om älven mot Juthas, del av gamla kustvägen till Åbo.",
+      "nameOrigin": "Vägen har fått namnet av att den leder till Juthas.",
       "geo": {
         "lat": 63.5058416,
         "lng": 22.5287879,
@@ -980,7 +1007,8 @@
       "name": "Järnvägsgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Del av banvallen för den nya järnvägen från 1949."
+      "description": "Del av banvallen för den nya järnvägen från 1949.",
+      "nameOrigin": "Namnet syftar på den tidigare järnvägen, och en del av gatan är byggd på banvallen."
     },
     {
       "name": "Jöns Drakes väg",
@@ -1014,6 +1042,7 @@
         "Östra Långgatan"
       ],
       "description": "Uppkallad efter grevskapet Carleborg; från 1858.",
+      "nameOrigin": "Gatan har fått namnet efter grevskapet Carleborg.",
       "geo": {
         "lat": 63.5232479,
         "lng": 22.5356973,
@@ -1041,13 +1070,15 @@
       "name": "Kisorsvägen",
       "kind": "street",
       "alternateNames": [],
-      "description": "Avstickare från Andrasjö strandväg till f.d. Kisors brygga."
+      "description": "Avstickare från Andrasjö strandväg till f.d. Kisors brygga.",
+      "nameOrigin": "Vägen leder till den tidigare Kisors brygga."
     },
     {
       "name": "Klockaregränd",
       "kind": "street",
       "alternateNames": [],
       "description": "På gammal prästgårdsmark, 1970-talet.",
+      "nameOrigin": "Gränden ligger på gammal prästgårdsmark där gatorna fick namn med kyrklig anknytning.",
       "geo": {
         "lat": 63.51818359999999,
         "lng": 22.5337715,
@@ -1076,6 +1107,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Uträtades på 1890-talet med infart i stadens östra del.",
+      "nameOrigin": "Namnet kommer av att vägen leder till Kovjoki.",
       "geo": {
         "lat": 63.52817249999999,
         "lng": 22.6088869,
@@ -1090,6 +1122,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Leder till f.d. Heselius kvarn vid Jakobstadsvägen; ca 1975, över området Kampen.",
+      "nameOrigin": "Vägen leder till den tidigare Heselius kvarn.",
       "geo": {
         "lat": 63.5226926,
         "lng": 22.5472926,
@@ -1104,6 +1137,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Går intill kyrkan; från 1858.",
+      "nameOrigin": "Namnet kommer av att gatan går intill kyrkan.",
       "geo": {
         "lat": 63.52292689999999,
         "lng": 22.5276398,
@@ -1118,6 +1152,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "På Källbacken; delen vid esplanaden blev grönområde 1967.",
+      "nameOrigin": "Gatan har fått namnet av att den ligger på Källbacken.",
       "geo": {
         "lat": 63.52501299999999,
         "lng": 22.5386757,
@@ -1131,6 +1166,7 @@
       "name": "Lingongränd",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Gränden ligger i en stadsdel där två gator fick namn efter skogsbär.",
       "geo": {
         "lat": 63.5244005,
         "lng": 22.5150667,
@@ -1161,6 +1197,7 @@
         "Nybro Boulevarden"
       ],
       "description": "Börjar vid Lybeckska gården; hedrar Johan Adolf (Janne) Lybeck.",
+      "nameOrigin": "Enligt Wichmann hedrar namnet Johan Adolf (Janne) Lybeck.",
       "geo": {
         "lat": 63.5242987,
         "lng": 22.536147,
@@ -1197,6 +1234,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Mellan Bergstigen och Residensgatan; 1970-talet.",
+      "nameOrigin": "Namnet kommer av att gatan ligger mellan Bergstigen och Residensgatan.",
       "geo": {
         "lat": 63.5256472,
         "lng": 22.5228374,
@@ -1233,6 +1271,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Efter hemmanet Nybacka, där seminariet byggdes.",
+      "nameOrigin": "Gatan är uppkallad efter hemmanet Nybacka, som låg där seminariet senare byggdes.",
       "geo": {
         "lat": 63.52916509999999,
         "lng": 22.5210858,
@@ -1248,6 +1287,7 @@
       "alternateNames": [
         "Joupersgränd"
       ],
+      "nameOrigin": "Namnet har samma bakgrund som Nygårdsvägen, hemmanet Nygård söder om staden.",
       "geo": {
         "lat": 63.5204306,
         "lng": 22.5276199,
@@ -1262,6 +1302,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Efter hemmanet Nygård söder om staden.",
+      "nameOrigin": "Vägen är uppkallad efter hemmanet Nygård strax söder om staden.",
       "geo": {
         "lat": 63.5194967,
         "lng": 22.5270853,
@@ -1275,13 +1316,15 @@
       "name": "Nålövägen",
       "kind": "street",
       "alternateNames": [],
-      "description": "Leder till gamla hamnen Nålörn."
+      "description": "Leder till gamla hamnen Nålörn.",
+      "nameOrigin": "Vägen leder till den gamla hamnen Nålörn."
     },
     {
       "name": "Patmosgatan",
       "kind": "street",
       "alternateNames": [],
       "description": "Efter folkhögskoleföreståndaren Johannes Nyströms hus Patmos från 1930-talet.",
+      "nameOrigin": "Namnet kommer av att folkhögskoleföreståndaren Johannes Nyström kallade sitt hus Patmos.",
       "geo": {
         "lat": 63.529988,
         "lng": 22.5194706,
@@ -1295,6 +1338,7 @@
       "name": "Prästgårdsgränd",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Gränden ligger på gammal prästgårdsmark där gatorna fick namn med kyrklig anknytning.",
       "geo": {
         "lat": 63.5180089,
         "lng": 22.5318215,
@@ -1309,6 +1353,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Leder till ett av de första farmområdena på Frillmossen.",
+      "nameOrigin": "Vägen leder till ett av de första pälsfarmsområdena på Frillmossen.",
       "geo": {
         "lat": 63.5329542,
         "lng": 22.5446337,
@@ -1370,6 +1415,7 @@
         "Westra Långgatan"
       ],
       "description": "Leder till f.d. seminariet.",
+      "nameOrigin": "Namnet kommer av att gatan leder till det tidigare seminariet.",
       "geo": {
         "lat": 63.5261522,
         "lng": 22.5248821,
@@ -1383,6 +1429,7 @@
       "name": "Sexmansgränd",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Gränden ligger på gammal prästgårdsmark där gatorna fick namn med kyrklig anknytning.",
       "geo": {
         "lat": 63.5173956,
         "lng": 22.5345789,
@@ -1410,6 +1457,7 @@
       "name": "Skogsgatan",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Namnet förklaras med att det växer skog på platsen.",
       "geo": {
         "lat": 63.5239834,
         "lng": 22.5165899,
@@ -1459,6 +1507,7 @@
         "Södra Torggatan"
       ],
       "description": "Nytt namn 1948 som tack till vänorten Sollefteå för stöd under kriget.",
+      "nameOrigin": "Gatan döptes om som tack för hjälpen under kriget från Sollefteå, stadens dåvarande fadderort.",
       "geo": {
         "lat": 63.52178359999999,
         "lng": 22.5301266,
@@ -1491,6 +1540,7 @@
         "Västra Staketgatan"
       ],
       "description": "I den gamla staden var staketgatorna de yttersta, med staket mot strövande boskap.",
+      "nameOrigin": "I den gamla staden fanns staket längs de yttersta gatorna för att hålla boskapen ute.",
       "geo": {
         "lat": 63.5221321,
         "lng": 22.5201394,
@@ -1523,6 +1573,7 @@
       "name": "Stjärnfallet",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Namnet hör till ett bostadsområde där gatorna fick namn efter himlafenomen.",
       "geo": {
         "lat": 63.5187588,
         "lng": 22.4975108,
@@ -1536,6 +1587,7 @@
       "name": "Regnbågen",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Namnet hör till ett bostadsområde där gatorna fick namn efter himlafenomen.",
       "geo": {
         "lat": 63.5194364,
         "lng": 22.5056109,
@@ -1548,7 +1600,8 @@
     {
       "name": "Norrskenet",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "nameOrigin": "Namnet hör till ett bostadsområde där gatorna fick namn efter himlafenomen."
     },
     {
       "name": "Strandliden",
@@ -1560,17 +1613,20 @@
       "name": "Sundbergsvägen",
       "kind": "street",
       "alternateNames": [],
-      "description": "Går på Sundbergs ägor."
+      "description": "Går på Sundbergs ägor.",
+      "nameOrigin": "Vägen går över mark som har tillhört Sundbergs."
     },
     {
       "name": "Tallgränd",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "nameOrigin": "Gränden ligger i en stadsdel där gatorna fick namn efter barrträd."
     },
     {
       "name": "Tallvägen",
       "kind": "street",
       "alternateNames": [],
+      "nameOrigin": "Vägen ligger i en stadsdel där gatorna fick namn efter barrträd.",
       "geo": {
         "lat": 63.5202127,
         "lng": 22.5445576,
@@ -1591,6 +1647,7 @@
         "Östra Esplanadgatan"
       ],
       "description": "Uppkallad efter Zacharias Topelius; senaste namnbytet 1989.",
+      "nameOrigin": "Esplanaden är uppkallad efter Zacharias Topelius.",
       "geo": {
         "lat": 63.523653,
         "lng": 22.531456,
@@ -1611,6 +1668,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Mellan Lundagatan och Staketgatan; början på 1970-talet.",
+      "nameOrigin": "Namnet kommer av att gatan går på tvären mellan Lundagatan och Staketgatan.",
       "geo": {
         "lat": 63.52142079999999,
         "lng": 22.5172635,
@@ -1671,6 +1729,7 @@
         "Vestanlid"
       ],
       "description": "Lid betyder backe eller sluttning; från 1912.",
+      "nameOrigin": "Lid betyder backe eller sluttning, och gatan har en motsvarighet i Östanlid i öster.",
       "geo": {
         "lat": 63.52898070000001,
         "lng": 22.5233536,
@@ -1685,6 +1744,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Leder till Ytterjeppo.",
+      "nameOrigin": "Namnet kommer av att vägen leder till Ytterjeppo.",
       "geo": {
         "lat": 63.47623389999999,
         "lng": 22.5288015,
@@ -1699,6 +1759,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Gamla utfartsvägen norrut mot Åminne, Socklot och Jakobstad, del av kustvägen till Uleåborg.",
+      "nameOrigin": "Namnet kommer av att den gamla utfartsvägen leder mot Åminne.",
       "geo": {
         "lat": 63.5580228,
         "lng": 22.5428763,
@@ -1711,13 +1772,15 @@
     {
       "name": "Älvgränd",
       "kind": "street",
-      "alternateNames": []
+      "alternateNames": [],
+      "nameOrigin": "Namnet kommer av att gränden leder mot älven."
     },
     {
       "name": "Östanlid",
       "kind": "street",
       "alternateNames": [],
       "description": "Från 1912.",
+      "nameOrigin": "Lid betyder backe eller sluttning, och gatan har en motsvarighet i Västanlid i väster.",
       "geo": {
         "lat": 63.52071429999999,
         "lng": 22.5411701,
@@ -1731,7 +1794,8 @@
       "name": "Östervallsgränd",
       "kind": "street",
       "alternateNames": [],
-      "description": "Efter åldringshemmet Östervall från 1930-talet."
+      "description": "Efter åldringshemmet Östervall från 1930-talet.",
+      "nameOrigin": "Gränden är uppkallad efter åldringshemmet Östervall."
     },
     {
       "name": "Östra Vattugränd",
@@ -1744,6 +1808,7 @@
       "kind": "street",
       "alternateNames": [],
       "description": "Längs älvens östra strand mot Forsby.",
+      "nameOrigin": "Vägen går längs älvens östra strand.",
       "geo": {
         "lat": 63.47834529999999,
         "lng": 22.5318815,
@@ -1777,6 +1842,15 @@
         "Nils Olofssons hemman"
       ],
       "description": "Hemman nr 10 i Kyrkoby norr om centrum; Topelius födelsehem.",
+      "uses": [
+        {
+          "use": "åldringshem"
+        },
+        {
+          "use": "museum"
+        }
+      ],
+      "nameOrigin": "Hugo Lagström härleder namnet från hemmansägaren Nils Olofsson, som kan ha kallats Kuddniss.",
       "geo": {
         "lat": 63.5303,
         "lng": 22.5337,
@@ -1795,6 +1869,11 @@
         "Prästgården"
       ],
       "description": "Hemman nr 13 i Kyrkoby; kyrkoherdebolet, fick namnet på 1790-talet.",
+      "uses": [
+        {
+          "use": "kyrkoherdebol"
+        }
+      ],
       "geo": {
         "lat": 63.5179146,
         "lng": 22.5329914,
@@ -1808,13 +1887,23 @@
       "name": "Ebba Brahes ruddamm",
       "kind": "waterbody",
       "alternateNames": [],
-      "description": "Söder om staden vid det rivna sockenmagasinet, ungefär där Idrottsgatan möter Juthasvägen."
+      "description": "Söder om staden vid det rivna sockenmagasinet, ungefär där Idrottsgatan möter Juthasvägen.",
+      "uses": [
+        {
+          "use": "fiskdamm"
+        }
+      ]
     },
     {
       "name": "Skogsvallen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Idrottsplats anlagd i mitten på 1980-talet vid gamla banvallen."
+      "description": "Idrottsplats anlagd i mitten på 1980-talet vid gamla banvallen.",
+      "uses": [
+        {
+          "use": "idrottsplats"
+        }
+      ]
     },
     {
       "name": "Idrotts- och ungdomsgården",
@@ -1847,7 +1936,14 @@
       "name": "Frihemmet",
       "kind": "building",
       "alternateNames": [],
-      "description": "Åldringshem 1909–84."
+      "description": "Åldringshem 1909–84.",
+      "uses": [
+        {
+          "use": "åldringshem",
+          "startYear": 1909,
+          "endYear": 1984
+        }
+      ]
     },
     {
       "name": "Andrasjön",
@@ -1856,6 +1952,11 @@
         "Andra sjön"
       ],
       "description": "Stadens hamn.",
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
       "geo": {
         "lat": 63.5202693,
         "lng": 22.4689706,
@@ -1869,6 +1970,7 @@
       "name": "Bådan",
       "kind": "other",
       "alternateNames": [],
+      "nameOrigin": "Namnet förklaras med en landbåda som förebådar att land är nära vid kusten.",
       "geo": {
         "lat": 63.6321026,
         "lng": 22.37423,
@@ -1955,7 +2057,18 @@
       "name": "Heselius kvarn",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid Jakobstadsvägen; senare elfirma och konstskola."
+      "description": "Vid Jakobstadsvägen; senare elfirma och konstskola.",
+      "uses": [
+        {
+          "use": "kvarn"
+        },
+        {
+          "use": "elfirma"
+        },
+        {
+          "use": "konstskola"
+        }
+      ]
     },
     {
       "name": "Kovjoki station",
@@ -1983,7 +2096,13 @@
         "Recidenstomten",
         "Jöns Larssons hemman"
       ],
-      "description": "Hemman nr 7 i Kyrkoby där seminariet byggdes; här låg greve Totts residens."
+      "description": "Hemman nr 7 i Kyrkoby där seminariet byggdes; här låg greve Totts residens.",
+      "uses": [
+        {
+          "use": "hemman"
+        }
+      ],
+      "nameOrigin": "Hemmanet kallades också Recidenstomten eftersom ett residens för greve Klas Tott byggdes där."
     },
     {
       "name": "Nygårds hemman",
@@ -1999,7 +2118,12 @@
       "name": "Nålörn",
       "kind": "other",
       "alternateNames": [],
-      "description": "Gammal hamn."
+      "description": "Gammal hamn.",
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
     },
     {
       "name": "Patmos",
@@ -2017,19 +2141,32 @@
       "kind": "landmark",
       "alternateNames": [
         "Remalsbacken"
-      ]
+      ],
+      "nameOrigin": "Backens namn påminner om Johan Remahl, stamfar för en släkt av präster och skollärare."
     },
     {
       "name": "Greve Totts residens",
       "kind": "building",
       "alternateNames": [],
-      "description": "Där f.d. stadsträdgårdsmästarbostaden finns i dag."
+      "description": "Där f.d. stadsträdgårdsmästarbostaden finns i dag.",
+      "uses": [
+        {
+          "use": "residens"
+        }
+      ]
     },
     {
       "name": "Seminariet",
       "kind": "building",
       "alternateNames": [],
       "description": "1873–1971.",
+      "uses": [
+        {
+          "use": "lärarseminarium",
+          "startYear": 1873,
+          "endYear": 1971
+        }
+      ],
       "geo": {
         "lat": 63.5263663,
         "lng": 22.5260457,
@@ -2122,13 +2259,23 @@
       "name": "Östervall",
       "kind": "building",
       "alternateNames": [],
-      "description": "Åldringshem byggt på 1930-talet, nedlagt på 1980-talet."
+      "description": "Åldringshem byggt på 1930-talet, nedlagt på 1980-talet.",
+      "uses": [
+        {
+          "use": "åldringshem"
+        }
+      ]
     },
     {
       "name": "Hagalund",
       "kind": "building",
       "alternateNames": [],
-      "description": "Åldringscenter."
+      "description": "Åldringscenter.",
+      "uses": [
+        {
+          "use": "åldringscenter"
+        }
+      ]
     },
     {
       "name": "Vattentornet",
@@ -2484,6 +2631,148 @@
     ],
     "places": []
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Edvard Rundell",
+      "place": "Högbacka hemman",
+      "relation": "ran",
+      "startYear": 1929,
+      "endYear": 1929
+    },
+    {
+      "person": "Harald Mårtens",
+      "place": "Högbacka hemman",
+      "relation": "ran"
+    },
+    {
+      "person": "Zacharias Topelius",
+      "place": "Kuddnäs",
+      "relation": "born"
+    },
+    {
+      "person": "Zacharias Topelius",
+      "place": "Kuddnäs",
+      "relation": "lived"
+    },
+    {
+      "person": "Nils Olofsson",
+      "place": "Kuddnäs",
+      "relation": "owned"
+    },
+    {
+      "person": "Johannes Forshæll",
+      "place": "Jeansborg",
+      "relation": "lived",
+      "startYear": 1769,
+      "endYear": 1792
+    },
+    {
+      "person": "Johannes Grandelius",
+      "place": "Jeansborg",
+      "relation": "lived",
+      "startYear": 1681,
+      "endYear": 1692
+    },
+    {
+      "person": "Erik Florinus",
+      "place": "Jeansborg",
+      "relation": "lived",
+      "startYear": 1669
+    },
+    {
+      "person": "Johannes Jakobi Nicarlus",
+      "place": "Smedsbacka hemman",
+      "relation": "lived",
+      "startYear": 1620,
+      "endYear": 1626
+    },
+    {
+      "person": "Johannes Jakobi Nicarlus",
+      "place": "Bäll-hemmanet",
+      "relation": "owned",
+      "startYear": 1626,
+      "endYear": 1636
+    },
+    {
+      "person": "Jacobus Jacobi Carlman",
+      "place": "Forsbacka",
+      "relation": "lived",
+      "startYear": 1648,
+      "endYear": 1664
+    },
+    {
+      "person": "Nicarlos Olofsson Ringius",
+      "place": "Nygårds hemman",
+      "relation": "lived",
+      "startYear": 1660,
+      "endYear": 1680
+    },
+    {
+      "person": "Anders Eriksson Smedh",
+      "place": "Smedsbacka hemman",
+      "relation": "ran",
+      "startYear": 1610,
+      "endYear": 1610
+    },
+    {
+      "person": "Mårten Eriksson",
+      "place": "Järfbacka",
+      "relation": "ran"
+    },
+    {
+      "person": "Klas Tott",
+      "place": "Greve Totts residens",
+      "relation": "lived"
+    },
+    {
+      "person": "Johannes Nyström",
+      "place": "Patmos",
+      "relation": "owned"
+    },
+    {
+      "person": "Söderström",
+      "place": "Vernamo",
+      "relation": "built"
+    },
+    {
+      "person": "Frans Edvard Conradi",
+      "place": "Seminariet",
+      "relation": "worked",
+      "startYear": 1873
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bankgatan",
+        "Karleborgsgatan"
+      ],
+      "year": 2024
+    },
+    {
+      "image": 2,
+      "places": [
+        "Kyrkogatan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Gustav Adolfsgatan",
+        "Källbackgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "cdd897de9d281d7e8b7de4752dccb9d662e69eeb06bbe63eb6f0c9be926eec6a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

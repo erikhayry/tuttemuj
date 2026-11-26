@@ -1,0 +1,200 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/livigang.htm",
+  "title": "Livet kommer åter i gång. Svårigheter för redarna",
+  "summary": "Våren 1858, strax efter stadsbranden, kom sjöfart och skeppsbyggeri i Nykarleby försiktigt i gång igen. Handlanden Grundfeldt och Warfsbolaget kämpade med skulder, dåliga konjunkturer och avbrutna fartygsbyggen.",
+  "topics": [
+    "stadsbranden",
+    "sjöfart",
+    "skeppsbyggeri",
+    "ekonomi",
+    "Warfsbolaget"
+  ],
+  "people": [
+    {
+      "name": "Edelfelt",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Grundfeldt",
+      "alternateNames": [
+        "Carl Grundfeldt"
+      ],
+      "roles": [
+        "handlande",
+        "redare"
+      ]
+    },
+    {
+      "name": "Edvard Boehm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kjäldström",
+      "alternateNames": [],
+      "roles": [
+        "skeppsbyggmästare"
+      ]
+    },
+    {
+      "name": "C. P. Löfberg",
+      "alternateNames": [
+        "Löfberg"
+      ],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "W. Bergman",
+      "alternateNames": [],
+      "roles": [
+        "leverantör"
+      ]
+    },
+    {
+      "name": "J. J. Wedel",
+      "alternateNames": [],
+      "roles": [
+        "handelshus"
+      ]
+    },
+    {
+      "name": "Otto v. Essen",
+      "alternateNames": [],
+      "roles": [
+        "possessionat"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Elias Roos",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Frans Hedström",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Smedsbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "rederikontor",
+          "startYear": 1858,
+          "endYear": 1858
+        }
+      ],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Munkgrundet",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv",
+          "startYear": 1858,
+          "endYear": 1858
+        }
+      ],
+      "geo": {
+        "lat": 63.4945965,
+        "lng": 22.4341026,
+        "match": "name",
+        "gazetteerName": "munkgrundet",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Arbetet på Toivo stoppas",
+      "date": {
+        "year": 1858,
+        "month": 2,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Grundfeldt meddelade att vinterns arbeten på barkskeppet Toivo hade ställts in på grund av stadsbranden.",
+      "people": [
+        "Grundfeldt",
+        "Edvard Boehm",
+        "Kjäldström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Utrikeshandeln återupptas",
+      "date": {
+        "year": 1858,
+        "month": 5,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Ett fartyg avseglade till Lissabon och ett till Stockholm när utrikeshandeln kom i gång igen efter branden.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Briggen Toimi sjösätts",
+      "date": {
+        "year": 1858,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Briggen Toimi löpte av stapeln på Munkgrundet.",
+      "people": [
+        "Otto v. Essen",
+        "G. M. Hedström",
+        "Elias Roos",
+        "Frans Hedström"
+      ],
+      "places": [
+        "Munkgrundet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Grundfeldt",
+      "place": "Smedsbacka",
+      "relation": "lived",
+      "startYear": 1858,
+      "endYear": 1858
+    }
+  ],
+  "images": [],
+  "contentHash": "c177ed8301adac95cd10d228b4234b95af6479ff1f3ac397e0b95ec9c13721b0",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:23:17.127Z"
+}

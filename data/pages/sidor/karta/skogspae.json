@@ -13,7 +13,13 @@
       "name": "Skogsparken",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Väster om seminariet; parken hade gångar, dammar och en paviljong."
+      "description": "Väster om seminariet; parken hade gångar, dammar och en paviljong.",
+      "uses": [
+        {
+          "use": "park",
+          "startYear": 1886
+        }
+      ]
     },
     {
       "name": "Seminariet",
@@ -44,6 +50,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Skogsparken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "0c8c74a7099d8883fae314858294f170478e25c5d6a9ec3a313a11f59c0c9ba5",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,196 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/hjalpatg.htm",
+  "title": "Hjälpåtgärder efter branden",
+  "summary": "Efter stadsbranden i januari 1858 strömmade mat, kläder och pengar till Nykarleby från hela Finland. Jakobstad såg eldskenet men agerade först nästa dag, och kejsaren, Vasa och Helsingfors bidrog stort.",
+  "topics": [
+    "stadsbranden",
+    "nödhjälp",
+    "insamling",
+    "konsert",
+    "kejsargåva"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Montin",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Alexander von Etter",
+      "alternateNames": [
+        "Alexander v. Etter"
+      ],
+      "roles": [
+        "assessor"
+      ]
+    },
+    {
+      "name": "Fredrik Pacius",
+      "alternateNames": [
+        "Pacius"
+      ],
+      "roles": [
+        "tonsättare"
+      ]
+    },
+    {
+      "name": "B. A. Mannelin",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Granholm",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Granholms gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "invid torget"
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kyrka"
+        }
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nykarleby brinner",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 12,
+        "circa": false
+      },
+      "description": "En brand bröt på kvällen ut i handlande Granholms gård vid torget och lade i stormen största delen av Nykarleby i aska, medan kyrkan klarade sig.",
+      "people": [
+        "Granholm"
+      ],
+      "places": [
+        "Granholms gård",
+        "Torget",
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Den första hjälpen",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 13,
+        "circa": false
+      },
+      "description": "Jakobstadsborna samlade ihop omkring femton lass mat och kläder åt de brandskadade i Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kejsarens gåva",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Assessor von Etter kom till Nykarleby med 5000 rubel ur kejsarens handkassa till de brandskadade.",
+      "people": [
+        "Alexander von Etter"
+      ],
+      "places": []
+    },
+    {
+      "title": "Konsert för Nykarleby",
+      "date": {
+        "year": 1858,
+        "month": 3,
+        "day": 17,
+        "circa": false
+      },
+      "description": "Akademiska sångföreningen gav under Fredrik Pacius ledning en lyckad konsert i Helsingfors till förmån för det nedbrunna Nykarleby.",
+      "people": [
+        "Fredrik Pacius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Folk i Jakobstad ser himlen glöda i sydväst, gissar hit och dit och går och lägger sig i väntan på bud, men skyndar nästa morgon att lasta foror med mat, öl och kläder.",
+    "reason": "Kontrasten mellan likgiltighet och brådskande hjälp ger en dramatisk berättelse.",
+    "characters": [
+      "Montin"
+    ],
+    "places": [
+      "Torget"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1858
+    }
+  ],
+  "contentHash": "127edb06a2d030a49ec3a41f97684476d2859a6f7625544c52c76853fcc2a159",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

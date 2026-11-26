@@ -1138,6 +1138,7 @@
   {
     "name": "djupstens skatan",
     "kind": "island",
+    "alternateNames": ["djupstensskatan"],
     "note": "Skerry in the archipelago owned by the town."
   },
   {
@@ -1689,7 +1690,8 @@
   },
   {
     "name": "furuskär",
-    "kind": "island"
+    "kind": "island",
+    "alternateNames": ["furuskäret"]
   },
   {
     "name": "furuskären",
@@ -1985,7 +1987,8 @@
   },
   {
     "name": "granskärssundet",
-    "kind": "waterbody"
+    "kind": "waterbody",
+    "alternateNames": ["granskärssund", "granskärs sund"]
   },
   {
     "name": "granviks gård",
@@ -2371,7 +2374,8 @@
   },
   {
     "name": "harald",
-    "kind": "farm"
+    "kind": "farm",
+    "alternateNames": ["haralds hemman"]
   },
   {
     "name": "haralden",
@@ -3694,7 +3698,8 @@
   },
   {
     "name": "kyrkoby",
-    "kind": "village"
+    "kind": "village",
+    "alternateNames": ["kyrkobyn"]
   },
   {
     "name": "kyrkoby folkskola",
@@ -4215,7 +4220,9 @@
     "name": "lodösundet",
     "kind": "waterbody",
     "alternateNames": [
-      "lodö sundet"
+      "lodö sundet",
+      "lodörssundet",
+      "lodörs sundet"
     ]
   },
   {
@@ -5294,6 +5301,9 @@
     "alternateNames": [
       "jeppobäcken",
       "lappo älf",
+      "lappo älv",
+      "lappoälven",
+      "lappå ån",
       "lappo å",
       "lapuanjoki",
       "ny-karleby elf",
@@ -5413,7 +5423,8 @@
     "name": "p a lybecks gård",
     "kind": "building",
     "alternateNames": [
-      "lybecks gård"
+      "lybecks gård",
+      "p aug lybecks hus"
     ],
     "note": "Merchant P. A. Lybeck's house, built 1861."
   },
@@ -5488,7 +5499,8 @@
   },
   {
     "name": "pentzinsgrundet",
-    "kind": "island"
+    "kind": "island",
+    "alternateNames": ["pentzins grund"]
   },
   {
     "name": "pepparkakshuset",
@@ -5677,7 +5689,8 @@
   },
   {
     "name": "rajåkern",
-    "kind": "farm"
+    "kind": "farm",
+    "alternateNames": ["raijåkern"]
   },
   {
     "name": "rank i soklot",
@@ -6108,7 +6121,8 @@
   },
   {
     "name": "sandön",
-    "kind": "island"
+    "kind": "island",
+    "alternateNames": ["sandö"]
   },
   {
     "name": "sandören",
@@ -6286,6 +6300,7 @@
   {
     "name": "seminariets trädgårdsmästarbostad",
     "kind": "building",
+    "alternateNames": ["trädgårdsmästarbostaden vid seminariet"],
     "note": "On the site of greve totts residens."
   },
   {
@@ -6608,6 +6623,7 @@
   {
     "name": "sokothällan",
     "kind": "landmark",
+    "alternateNames": ["soklothällans båk", "socklothällans känningsbåk", "häll båk"],
     "note": "Landmark with a daymark (känningsbåk) in Socklot."
   },
   {
@@ -6739,7 +6755,8 @@
     "name": "spruthuset",
     "kind": "building",
     "alternateNames": [
-      "spruthus"
+      "spruthus",
+      "stadens spruthus"
     ]
   },
   {
@@ -7637,7 +7654,8 @@
   },
   {
     "name": "tufvans grund",
-    "kind": "waterbody"
+    "kind": "waterbody",
+    "alternateNames": ["tufvan"]
   },
   {
     "name": "tullgatan",
@@ -8246,6 +8264,7 @@
   {
     "name": "åminnegård",
     "kind": "building",
+    "alternateNames": ["åminnegården"],
     "note": "Residence on the riverbank built by Fritz Olson, after 1900."
   },
   {
@@ -8658,16 +8677,146 @@
   { "name": "lukus", "kind": "farm", "note": "Farm in Kovjoki." },
   { "name": "måtar", "kind": "farm", "note": "Farm in the Nykarleby church village area." },
   { "name": "ny carleby trivialskola", "kind": "building", "note": "Trivial school of Nykarleby, founded 1640." },
-  { "name": "nykarleby beckbruk", "kind": "building", "note": "Pitch works at the river mouth." },
-  { "name": "nykarleby hälsokälla", "kind": "landmark", "note": "Iron spring on the east river slope south of Engska garveriet." },
+  { "name": "nykarleby beckbruk", "kind": "building", "alternateNames": ["nykarleby beckbränneri"], "note": "Pitch works at the river mouth." },
+  { "name": "nykarleby hälsokälla", "kind": "landmark", "alternateNames": ["nykarleby hälsobrunn"], "note": "Iron spring on the east river slope south of Engska garveriet." },
   { "name": "nykarleby skeppsvarv", "kind": "building", "alternateNames": ["skeppsvarvet"], "note": "Shipyard on Djupsten, later moved to Alörn." },
   { "name": "pädagogia", "kind": "building", "alternateNames": ["pedagogien"], "note": "Old school building of Nykarleby." },
   { "name": "residensbygget i carleborg", "kind": "building", "alternateNames": ["kungsgårdsbyggnaden"], "note": "Royal-estate building west of the river opposite the town, begun 1654." },
-  { "name": "schjomanska grundet", "kind": "waterbody", "note": "Dangerous shoal in the middle of Torsöfjärden." },
+  { "name": "schjomanska grundet", "kind": "waterbody", "alternateNames": ["schjomansgrundet", "sjumansgrundet", "schaumansgrundet", "schjomans grund"], "note": "Dangerous shoal in the middle of Torsöfjärden, named after the Schjoman family." },
   { "name": "tollikko", "kind": "farm", "note": "Farm near Keppo in Jeppo." },
   { "name": "torp 131 i ytterjeppo", "kind": "farm", "alternateNames": ["torp 131", "soldattorp nr 131"], "note": "Soldier cottage in Ytterjeppo; only the stone foundation remains." },
   { "name": "gård 1 i gamla nykarleby", "kind": "building", "alternateNames": ["gård 1", "gårdsnr 1"], "note": "Old town lot 1, Nykarleby." },
   { "name": "gård 2–3 i gamla nykarleby", "kind": "building", "alternateNames": ["gård 2–3", "gårdsnr 2 och 3"], "note": "Old town lots 2–3, Nykarleby." },
   { "name": "gård 1–3 i gamla nykarleby", "kind": "building", "alternateNames": ["gård 1–3", "gården 1-3"], "note": "Old town lots 1–3, Nykarleby." },
-  { "name": "lithéns gård", "kind": "building", "note": "Merchant house in old Nykarleby." }
+  { "name": "lithéns gård", "kind": "building", "alternateNames": ["dyhrs gård", "lithénska gården"], "note": "Merchant house in old Nykarleby." },
+  { "name": "jungar", "alternateNames": ["jungar by"] },
+  { "name": "mickelsbacka", "alternateNames": ["mickelsbacka hemman"] },
+  { "name": "alisvajbäcken", "kind": "waterbody" },
+  { "name": "apotekets övre källare", "kind": "building" },
+  { "name": "aspegrens handelsgård", "kind": "building" },
+  { "name": "axel kisors gård", "kind": "building" },
+  { "name": "bergers köpmanshus", "kind": "building" },
+  { "name": "bergkubban", "kind": "island" },
+  { "name": "bonäs varv", "kind": "building", "note": "Shipyard in Nykarleby parish." },
+  { "name": "bonäsbacken", "kind": "landmark" },
+  { "name": "bredskär", "kind": "island" },
+  { "name": "bäckas sidon", "kind": "building" },
+  { "name": "caisa brunbergs gård", "kind": "building", "note": "Lot 108 on Källbacken; housed the school for the poor." },
+  { "name": "calamniuska gården", "kind": "building", "alternateNames": ["calamniuska tomten"], "note": "Lots 16–17 by the old market square." },
+  { "name": "collanderska gården", "kind": "building" },
+  { "name": "djupstena", "kind": "other", "alternateNames": ["djupstena sund"] },
+  { "name": "djupstensfjärden", "kind": "waterbody" },
+  { "name": "dyhrs tvättstuga", "kind": "building", "note": "Wash house by the river." },
+  { "name": "elementarskolan i nykarleby", "kind": "building" },
+  { "name": "formanshagen", "kind": "other", "note": "Piece of town land." },
+  { "name": "frillas berget", "kind": "landmark" },
+  { "name": "frillmossabacken", "kind": "landmark" },
+  { "name": "första kampen", "kind": "landmark", "note": "Midsummer meeting place north of Kuddnäs, east of the highway." },
+  { "name": "gamla staden", "kind": "district", "note": "The pre-fire town." },
+  { "name": "granholms gård", "kind": "building" },
+  { "name": "granholmska gården", "kind": "building" },
+  { "name": "gustaf lindqvists gård", "kind": "building" },
+  { "name": "gårdarna nr 6—9", "kind": "building", "note": "Old town lots 6–9, Nykarleby." },
+  { "name": "gård 9 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 9"], "note": "Old town lot 9, Nykarleby." },
+  { "name": "gård 11 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 11"], "note": "Old town lot 11 by the market square." },
+  { "name": "gård 12 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 12"], "note": "Old town lot 12, Nykarleby." },
+  { "name": "gård 19 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 19"], "note": "Old town lot 19, Nykarleby." },
+  { "name": "gård 20 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 20"], "note": "Old town lot 20, Nykarleby." },
+  { "name": "gård 25 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 25"], "note": "Old town lot 25, Nykarleby." },
+  { "name": "gård 26 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 26"], "note": "Old town lot 26, Nykarleby." },
+  { "name": "gård 37 i gamla nykarleby", "kind": "building", "note": "Old town lot 37, second quarter. Not the later house at Gustav Adolfsgatan 15." },
+  { "name": "gård 41 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 41"], "note": "Old town lot 41, next to the pharmacy." },
+  { "name": "gård 44 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 44"], "note": "Old town lot 44, Nykarleby." },
+  { "name": "gård 45 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 45"], "note": "Old town lot 45 between Rådhusgatan and Östra gatan." },
+  { "name": "gård 47 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 47"], "note": "Old town lot 47, Nykarleby." },
+  { "name": "gård 49 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 49"], "note": "Old town lot 49, Nykarleby." },
+  { "name": "gård 60 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 60"], "note": "Old town lot 60, Nykarleby." },
+  { "name": "gård 61 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 61"], "note": "Old town lot 61, Nykarleby." },
+  { "name": "gård 76 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 76"], "note": "Old town lot 76, Nykarleby." },
+  { "name": "gård 77 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 77"], "note": "Old town lot 77, Nykarleby." },
+  { "name": "gård 79 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 79"], "note": "Old town lot 79, Nykarleby." },
+  { "name": "gård 82 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 82"], "note": "Old town lot 82, Nykarleby." },
+  { "name": "gård 91 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 91"], "note": "Old town lot 91, Nykarleby." },
+  { "name": "gård 113 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 113"], "note": "Old town lot 113, Nykarleby." },
+  { "name": "gård 127 i gamla nykarleby", "kind": "building", "alternateNames": ["gården nr 127"], "note": "Lot just south of Kuddnäs, north of the old town border." },
+  { "name": "gåshällan", "kind": "landmark" },
+  { "name": "gästgivars i monå", "kind": "farm", "note": "Farm No. 2 in Monå, Munsala." },
+  { "name": "hammarinska tomten", "kind": "other" },
+  { "name": "harapotten", "kind": "landmark" },
+  { "name": "herpmans gränd", "kind": "street" },
+  { "name": "herpmansgrundet", "kind": "island" },
+  { "name": "herpmanssanden", "kind": "landmark" },
+  { "name": "hilma wiljanens stuga", "kind": "building" },
+  { "name": "hummelskärssundet", "kind": "waterbody" },
+  { "name": "hällåkern", "kind": "other", "note": "Piece of town land." },
+  { "name": "högbacken", "kind": "landmark" },
+  { "name": "isak lindqvists gård", "kind": "building" },
+  { "name": "johannisborg", "kind": "building" },
+  { "name": "josef collanders gård", "kind": "building" },
+  { "name": "jungarå fors", "kind": "waterbody", "note": "Rapids on the Nykarleby river." },
+  { "name": "juthska gården", "kind": "building" },
+  { "name": "jämmerdal", "kind": "other", "note": "Piece of town land." },
+  { "name": "kalfholmssundet", "kind": "waterbody", "alternateNames": ["kalfholms sundet"] },
+  { "name": "kempeska-aspegrenska gården", "kind": "building" },
+  { "name": "kjellmanska huset", "kind": "building" },
+  { "name": "klockaråkern", "kind": "other", "note": "Piece of town land." },
+  { "name": "klostréms stuga", "kind": "building", "alternateNames": ["kloströms stuga"] },
+  { "name": "kråkskärsfjärden", "kind": "waterbody" },
+  { "name": "kyrkostrand", "kind": "district" },
+  { "name": "leppogubbssanden", "kind": "landmark" },
+  { "name": "lillberget", "kind": "landmark", "note": "Ground in the town; not the Forsby farm." },
+  { "name": "lillgrund", "kind": "waterbody" },
+  { "name": "lithénska fåfängan", "kind": "other", "note": "Small park between the Lybeck house and the river." },
+  { "name": "lotsstugan på hällgrund", "kind": "building" },
+  { "name": "luiskalholmen", "kind": "island" },
+  { "name": "lybecksgatan 13", "kind": "building" },
+  { "name": "lybeckska magasinet", "kind": "building", "alternateNames": ["lithénska magasinet"], "note": "Warehouse at Remahlsbacken used as a theatre." },
+  { "name": "långörssundet", "kind": "waterbody" },
+  { "name": "läkargården", "kind": "building" },
+  { "name": "marie kyrkogård", "kind": "landmark" },
+  { "name": "mjölnars hemman", "kind": "farm", "note": "Farm in Jeppo." },
+  { "name": "monäsviken", "kind": "waterbody", "note": "Bay in Vexala." },
+  { "name": "norra tullporten", "kind": "landmark", "alternateNames": ["tullporten vid norra tullen"], "note": "North toll gate of the old town." },
+  { "name": "norra vaktstugan", "kind": "building" },
+  { "name": "notarieängen", "kind": "other", "note": "Piece of town land." },
+  { "name": "nya gravgården", "kind": "landmark", "note": "Cemetery consecrated in 1833." },
+  { "name": "nykarleby sjömanshus", "kind": "building" },
+  { "name": "ollila i soklot", "kind": "farm", "alternateNames": ["jöns gertruds"], "note": "Farm in Soklot." },
+  { "name": "rechardtska gården", "kind": "building" },
+  { "name": "repslagaregatan", "kind": "street" },
+  { "name": "rikilämossbacken", "kind": "landmark" },
+  { "name": "roos'ska gården", "kind": "building" },
+  { "name": "rådman dyhrs linda", "kind": "other" },
+  { "name": "rådman sandströms bod", "kind": "building" },
+  { "name": "rödkubban", "kind": "island" },
+  { "name": "rörklubben", "kind": "island" },
+  { "name": "samuel kempes gård", "kind": "building" },
+  { "name": "sandgrund", "kind": "waterbody", "note": "Shoal east of Torsön." },
+  { "name": "sandnabba", "kind": "other" },
+  { "name": "sandström—sundströmska gården", "kind": "building" },
+  { "name": "sandöbukten", "kind": "waterbody" },
+  { "name": "simon bäcks torp", "kind": "farm" },
+  { "name": "skatavägen", "kind": "street" },
+  { "name": "skolhuset", "kind": "building" },
+  { "name": "sofie lybecks hus", "kind": "building" },
+  { "name": "soklotsanden", "kind": "landmark" },
+  { "name": "stadens begravningsplats", "kind": "landmark" },
+  { "name": "stadshäktet", "kind": "building", "note": "Town jail of old Nykarleby." },
+  { "name": "stora boulevarden", "kind": "street", "alternateNames": ["stora boulevardgatan"] },
+  { "name": "stora bracken", "kind": "building", "alternateNames": ["stor brattjin"] },
+  { "name": "storgrundet", "kind": "island" },
+  { "name": "storön", "kind": "island" },
+  { "name": "sundströms gård vid kyrkotorget", "kind": "building" },
+  { "name": "svenkan", "kind": "other", "note": "Piece of town land." },
+  { "name": "svältgärdet", "kind": "landmark", "alternateNames": ["hungeråkern"] },
+  { "name": "söderåkern", "kind": "other", "note": "Piece of town land." },
+  { "name": "tirskärssund", "kind": "waterbody" },
+  { "name": "trutörsgrundet", "kind": "waterbody", "note": "Fishing shoal near Soklot." },
+  { "name": "trädgårdsgatan", "kind": "street" },
+  { "name": "turdinska gården", "kind": "building", "alternateNames": ["turdinska huset"], "note": "House by the old market square." },
+  { "name": "werfvings tåget", "kind": "other", "note": "Boundary point between town land and Kuddnäs." },
+  { "name": "werfvingska gården", "kind": "building" },
+  { "name": "wänskapsremmaren", "kind": "landmark", "note": "Sea mark east of Hällgrund." },
+  { "name": "åminnetorpet", "kind": "farm", "alternateNames": ["bomans torp"], "note": "Croft at Åminne under Kuddnäs." },
+  { "name": "ölunds platsen", "kind": "landmark" }
 ]

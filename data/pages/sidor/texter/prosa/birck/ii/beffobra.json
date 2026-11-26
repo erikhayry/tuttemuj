@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/beffobra.htm",
+  "title": "Stadens befolkning före branden",
+  "summary": "År 1855, tre år före branden, hade Nykarleby 1217 invånare i 224 hushåll. Erik Birck redovisar yrken och stånd, bland annat 122 skeppare och sjömän, 22 handelsmän och hantverkare i 22 olika yrken.",
+  "topics": [
+    "befolkning",
+    "statistik",
+    "yrken",
+    "hantverk"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Befolkningen 1850",
+      "date": {
+        "year": 1850,
+        "circa": false
+      },
+      "description": "Nykarleby stad hade 1134 invånare.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Befolkningen 1855",
+      "date": {
+        "year": 1855,
+        "circa": false
+      },
+      "description": "Nykarleby stad hade 1217 invånare i 224 hushåll, tre år före stadsbranden.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "38e51fddc880c24b18cb296c4373fb67912ead5ea055c2317e3fbde7295c7349",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

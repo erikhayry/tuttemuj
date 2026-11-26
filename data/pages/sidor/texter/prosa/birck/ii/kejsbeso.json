@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/kejsbeso.htm",
+  "title": "Kejsarbesöket och kommerserådstiteln",
+  "summary": "Kejsar Alexander I övernattade i Nykarleby den 3 september 1819 hos rådman Turdin vid torget, på orökt halm från Topelius åker. Förridarna körde först fel till Kuddnäs, och en vacker arbetarhustru sägs ha fått en kejserlig kyss.",
+  "topics": [
+    "kejsarbesök",
+    "Alexander I",
+    "torget",
+    "tradition"
+  ],
+  "people": [
+    {
+      "name": "Alexander I",
+      "alternateNames": [
+        "kejsar Alexander"
+      ],
+      "deathYear": 1825,
+      "roles": [
+        "kejsare"
+      ]
+    },
+    {
+      "name": "Turdin",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius d.ä.",
+      "alternateNames": [
+        "dr. Topelius",
+        "Z. Topelius senior"
+      ],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "Sann-Brit Sundqvist",
+      "alternateNames": [
+        "Den förlorade Skönheten"
+      ],
+      "roles": [
+        "kopperska"
+      ]
+    },
+    {
+      "name": "Aline Rosenkampff",
+      "alternateNames": [
+        "Aline"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Augusta Rosenkampff",
+      "alternateNames": [
+        "Augusta"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Turdinska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid torget"
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Norra tullporten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kejsaren övernattar",
+      "date": {
+        "year": 1819,
+        "month": 9,
+        "day": 3,
+        "circa": false
+      },
+      "description": "Kejsar Alexander I kom på kvällen till Nykarleby, möttes av brinnande tjärtunnor och tog in hos rådman Turdin vid torget.",
+      "people": [
+        "Alexander I",
+        "Turdin"
+      ],
+      "places": [
+        "Turdinska gården",
+        "Torget",
+        "Norra tullporten",
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En mörk höstkväll svänger kejsarens förridare fel in i allén till Kuddnäs, och sedan måste staden i all hast hitta orökt halm eftersom härskaren inte vill sova på dun.",
+    "reason": "Det storslagna besöket krockar med småstadens bestyr på ett roligt sätt.",
+    "characters": [
+      "Alexander I",
+      "Turdin",
+      "Zacharias Topelius d.ä.",
+      "Sann-Brit Sundqvist"
+    ],
+    "places": [
+      "Turdinska gården",
+      "Kuddnäs",
+      "Juthas"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Turdin",
+      "place": "Turdinska gården",
+      "relation": "lived",
+      "startYear": 1819,
+      "endYear": 1819
+    }
+  ],
+  "images": [],
+  "contentHash": "141011c851f323c6c855a9e7e33a2246fe558cb220a9ddf2e0c5b7e1c64475be",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:18:42.340Z"
+}

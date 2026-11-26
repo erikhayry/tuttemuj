@@ -1,0 +1,204 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/hungerar.htm",
+  "title": "Nykarleby under hungeråren",
+  "summary": "Missväxten 1862 slog hårt mot det nyss brunna Nykarleby, och hungrande strömmade in till staden. Rådman Lybeck lät nödställda bygga kajen vid villan Charlottenlund och röja \"Hungeråkern\" mot mjöl.",
+  "topics": [
+    "hungerår",
+    "missväxt",
+    "fattigvård",
+    "nödhjälpsarbete",
+    "skulder"
+  ],
+  "people": [
+    {
+      "name": "Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Kullman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "prost"
+      ]
+    },
+    {
+      "name": "E. J. Höckert",
+      "alternateNames": [
+        "Höckert"
+      ],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Hildegard Dyhr",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emelie Häggblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mathilda Malmberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sofia Westlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "A. Dyhr",
+      "alternateNames": [
+        "Alb. Dyhr"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Alexander Back",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Charlottenlund",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på Alörn",
+      "uses": [
+        {
+          "use": "villa"
+        }
+      ]
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Svältgärdet",
+      "kind": "landmark",
+      "alternateNames": [
+        "Hungeråkern"
+      ],
+      "address": "norr om staden",
+      "uses": [
+        {
+          "use": "åker"
+        }
+      ],
+      "nameOrigin": "Enligt traditionen lät rådman Lybeck hungrande människor odla upp åkern, därav namnet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Frosten slår till",
+      "date": {
+        "year": 1862,
+        "circa": false
+      },
+      "description": "Nykarlebytrakten drabbades av missväxt, och nöden förvärrades av bostadsbristen efter stadsbranden.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Insamling för de fattiga",
+      "date": {
+        "year": 1862,
+        "month": 12,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Stadsborna hade samlat in pengar och spannmål till nödhjälpsarbete, och några fruar tog hand om att dela ut handslöjdsarbete.",
+      "people": [
+        "Hildegard Dyhr",
+        "Emelie Häggblom",
+        "Sofia Westlin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kyrkoherden försvaras",
+      "date": {
+        "year": 1863,
+        "month": 8,
+        "day": 27,
+        "circa": false
+      },
+      "description": "I Helsingfors Dagblad försvarades kyrkoherde Kullman, som anklagats för att tjäna på att betala daglönare i frostskadad råg.",
+      "people": [
+        "Kullman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Auktion på de fattigas arbeten",
+      "date": {
+        "year": 1863,
+        "month": 11,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Vävnader och garn som de nödlidande tillverkat såldes på offentlig auktion i Nykarleby.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Hungriga tiggare bär sten till rådman Lybecks ståtliga kaj på Alörn och får kornmjöl i lön, medan stadens fruar delar ut lin och ull så att kvinnorna kan arbeta för brödet.",
+    "reason": "Nödåren ger starka bilder av hunger, arbete och klasskillnader.",
+    "characters": [
+      "Lybeck",
+      "Sofia Westlin"
+    ],
+    "places": [
+      "Charlottenlund",
+      "Svältgärdet"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Lybeck",
+      "place": "Charlottenlund",
+      "relation": "owned"
+    },
+    {
+      "person": "Lybeck",
+      "place": "Svältgärdet",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "2ba757390a3829874b12fde38bbb60b85319eb068b8432fd70a1a781f0fb0990",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

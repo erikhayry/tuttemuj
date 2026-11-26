@@ -1,0 +1,263 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/brandsyn.htm",
+  "title": "Brandsynerna medför ökad brandsäkerhet",
+  "summary": "Brandsyner i Nykarleby 1837–1839 avslöjade trasiga ugnar, murar och tak i många gårdar, även hos rådmännen. Magistraten dömde försumliga ägare till böter, och den stränga övervakningen höjde småningom stadens brandsäkerhet.",
+  "topics": [
+    "brandsyn",
+    "brandskydd",
+    "gårdsägare",
+    "magistraten"
+  ],
+  "people": [
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [],
+      "roles": [
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "brandmästare",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Henrik Forssén",
+      "alternateNames": [],
+      "roles": [
+        "vicestadsfiskal",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. A. Haeggström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Johan Åberg",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "J. P. Rundström",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Anna Elisabeth Stenman",
+      "alternateNames": [],
+      "roles": [
+        "f. borgmästarinna"
+      ]
+    },
+    {
+      "name": "Magnus Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "Robert Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    },
+    {
+      "name": "Carl Fredrik Renström",
+      "alternateNames": [],
+      "roles": [
+        "kakelugnsmakare"
+      ]
+    },
+    {
+      "name": "Fredrik Granholm",
+      "alternateNames": [],
+      "roles": [
+        "kardmakare"
+      ]
+    },
+    {
+      "name": "Jonas Friborg",
+      "alternateNames": [],
+      "roles": [
+        "kopparslagare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 136"
+    },
+    {
+      "name": "Norra tullen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gården nr 26",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 26",
+      "description": "Stadsfiskal Forsséns gård, utdömd vid brandsynen 1838."
+    },
+    {
+      "name": "Gården nr 76",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 76"
+    },
+    {
+      "name": "Gården nr 91",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 91",
+      "uses": [
+        {
+          "use": "smedja"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brandsyn avslöjar brister",
+      "date": {
+        "year": 1837,
+        "month": 5,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Brandmästarna Collander och Lybeck fann vid brandsyn att de flesta gårdsägarna i Nykarleby hade brister att reparera.",
+      "people": [
+        "C. J. Collander",
+        "J. A. Lybeck"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Försumliga gårdsägare bötfälls",
+      "date": {
+        "year": 1837,
+        "circa": false
+      },
+      "description": "Magistraten dömde flera gårdsägare till böter för att brandfarliga brister inte hade avhjälpts.",
+      "people": [
+        "Matts Lithén",
+        "Johan Henrik Forssén"
+      ],
+      "places": [
+        "Nykarleby",
+        "Norra tullen"
+      ]
+    },
+    {
+      "title": "Gården nr 26 utdöms",
+      "date": {
+        "year": 1838,
+        "month": 5,
+        "day": 25,
+        "circa": false
+      },
+      "description": "Stadsfiskal Forsséns gård dömdes ut vid brandsynen och hyresgästen färgare Wahlberg måste flytta.",
+      "people": [
+        "Magnus Wahlberg",
+        "Johan Henrik Forssén"
+      ],
+      "places": [
+        "Gården nr 26"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anna Elisabeth Stenman",
+      "place": "Heikelska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Henrik Forssén",
+      "place": "Gården nr 26",
+      "relation": "owned"
+    },
+    {
+      "person": "Magnus Wahlberg",
+      "place": "Gården nr 26",
+      "relation": "lived",
+      "endYear": 1838
+    },
+    {
+      "person": "Jonas Friborg",
+      "place": "Gården nr 76",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Åberg",
+      "place": "Gården nr 91",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "8c21703e7c167c4e8afab2ddd22b6738755226e9d55834e03480874115375363",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

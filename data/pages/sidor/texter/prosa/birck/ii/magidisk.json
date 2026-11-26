@@ -1,0 +1,221 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/magidisk.htm",
+  "title": "Magistraten diskuterar läget. Grundfeldts förslag. Nattvaktskår organiseras",
+  "summary": "Under hungersnöden hösten 1867 föreslog rådman Carl Grundfeldt att rensa Nykarleby älv till båtled som nödhjälpsarbete. Av rädsla för stölder ställde staden också upp en extra nattvaktskår, men det blev lugnt.",
+  "topics": [
+    "hungersnöd",
+    "nödhjälp",
+    "älven",
+    "nattvakt",
+    "fattigvård"
+  ],
+  "people": [
+    {
+      "name": "E. J. Höckert",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "M. Sandström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [
+        "C. Grundfeldt"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "E. A. Waselius",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "P. Aug. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. W. Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Gustaf Mauritz Hedström",
+      "alternateNames": [
+        "G. M. Hedström"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Anders Johan Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakarmästare"
+      ]
+    },
+    {
+      "name": "Robert Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "hökare"
+      ]
+    },
+    {
+      "name": "Johan Lingonblad",
+      "alternateNames": [
+        "Lingonblad"
+      ],
+      "roles": [
+        "stadsfogde"
+      ]
+    },
+    {
+      "name": "Johan Sundqvist",
+      "alternateNames": [],
+      "roles": [
+        "mätare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Ny Karlebyelf"
+      ]
+    },
+    {
+      "name": "Jungarå fors",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Stadens spruthus",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "samlingsplats",
+          "startYear": 1867,
+          "endYear": 1867
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första mötet om hungersnöden",
+      "date": {
+        "year": 1867,
+        "month": 9,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby höll sitt första sammanträde om hungersnöden och diskuterade uppköp av allmogens hemslöjd.",
+      "people": [
+        "E. J. Höckert",
+        "J. A. Lybeck",
+        "M. Sandström",
+        "Carl Grundfeldt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Grundfeldts älvförslag godkänns",
+      "date": {
+        "year": 1867,
+        "month": 10,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Borgerskapet förenade sig om Carl Grundfeldts förslag att staden skulle delta i kostnaden för att rensa älven till båtled upp till Lappo.",
+      "people": [
+        "Carl Grundfeldt"
+      ],
+      "places": [
+        "Nykarleby älv"
+      ]
+    },
+    {
+      "title": "Extra nattvakt",
+      "date": {
+        "year": 1867,
+        "month": 12,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Magistraten godkände förslaget om en extra nattvaktskår som varje kväll skulle samlas utanför stadens spruthus.",
+      "people": [
+        "Johan Lingonblad"
+      ],
+      "places": [
+        "Stadens spruthus"
+      ]
+    },
+    {
+      "title": "Hedströms konkurs",
+      "date": {
+        "year": 1878,
+        "circa": false
+      },
+      "description": "Handlanden Gustaf Mauritz Hedström gick i konkurs.",
+      "people": [
+        "Gustaf Mauritz Hedström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "09c8d9b846f056ef484a1d5c9f2679bd97ad74c19ff665a4573c4545adf62761",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:25:19.720Z"
+}

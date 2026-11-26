@@ -1,0 +1,236 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/herpman.htm",
+  "title": "Landsfiskal Georg Ludvig Herpman",
+  "summary": "Landsfiskal Herpman var ett av ortens största original, livrädd för smuts och kvinnors beröring efter ett nattligt överfall. Om somrarna bodde han i en fönsterlös stuga på Herpmansgrundet mitt emot Alörn.",
+  "topics": [
+    "original",
+    "landsfiskal",
+    "Herpmansgrundet",
+    "brännvin",
+    "skärgård"
+  ],
+  "people": [
+    {
+      "name": "Georg Ludvig Herpman",
+      "alternateNames": [
+        "Herpman",
+        "Johan Ludvig Herpman"
+      ],
+      "roles": [
+        "landsfiskal",
+        "advokat"
+      ]
+    },
+    {
+      "name": "Clara Boman",
+      "alternateNames": [
+        "Rillas Lara"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Eleonora Herpman",
+      "alternateNames": [
+        "Nora"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskardräng"
+      ]
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Petter Aug. Lybeck",
+      "alternateNames": [
+        "Janne Lybeck"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Gustaf Lithén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Elis Johansson",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Herpmansgrundet",
+      "kind": "island",
+      "alternateNames": [],
+      "address": "utanför Lodörn mitt emot Alörns Charlottenlund på östra sidan om Alörsfjärden",
+      "uses": [
+        {
+          "use": "sommarstuga"
+        }
+      ],
+      "nameOrigin": "Grundet fick sitt namn efter landsfiskal Herpman, som bodde där om somrarna."
+    },
+    {
+      "name": "Lodörn",
+      "kind": "island",
+      "alternateNames": [
+        "Lodören"
+      ]
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Åminnetorpet",
+      "kind": "farm",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ]
+    },
+    {
+      "name": "Herpmans gränd",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Frill",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Åminne",
+      "kind": "district",
+      "alternateNames": [
+        "Åminnet"
+      ]
+    },
+    {
+      "name": "Nålörn",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Beckbruket",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Herpman blir landsfiskal",
+      "date": {
+        "year": 1825,
+        "circa": false
+      },
+      "description": "Georg Ludvig Herpman antecknades som inflyttad till Nykarleby från Oravais som landsfiskal.",
+      "people": [
+        "Georg Ludvig Herpman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den renlighetsgalne landsfiskalen gömmer sig i en stuga utan fönster på sin klippö, skurar marken där ungdomarna trampat och möter guvernörens släde med orden att halva vägen är guvernörens.",
+    "reason": "En färgstark figur med många korta scener och repliker.",
+    "characters": [
+      "Georg Ludvig Herpman",
+      "Hilda Olson",
+      "Matts Boman",
+      "Eleonora Herpman"
+    ],
+    "places": [
+      "Herpmansgrundet",
+      "Åminnetorpet"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Georg Ludvig Herpman",
+      "place": "Åminne",
+      "relation": "lived"
+    },
+    {
+      "person": "Georg Ludvig Herpman",
+      "place": "Herpmansgrundet",
+      "relation": "lived"
+    },
+    {
+      "person": "Georg Ludvig Herpman",
+      "place": "Åminnetorpet",
+      "relation": "owned"
+    },
+    {
+      "person": "Georg Ludvig Herpman",
+      "place": "Herpmans gränd",
+      "relation": "lived"
+    },
+    {
+      "person": "Clara Boman",
+      "place": "Frill",
+      "relation": "lived"
+    },
+    {
+      "person": "Elis Johansson",
+      "place": "Herpmansgrundet",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Herpmansgrundet"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [],
+      "year": 1846
+    }
+  ],
+  "contentHash": "239e4b6455ecf58694116be5ad140b3e1f4a4a6abb8d1615521ffa0b270e5626",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

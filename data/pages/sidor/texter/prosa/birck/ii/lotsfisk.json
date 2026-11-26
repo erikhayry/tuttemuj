@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/lotsfisk.htm",
+  "title": "Lotsarnas fiske vid Soklothällan",
+  "summary": "Lotsarnas rätt att fiska strömming vid Soklothällan ledde ständigt till tvister mellan staden och Soklotbönderna. År 1837 arrenderade staden rätten av byamännen för fyra år, efter att förhandlingarna först kört fast.",
+  "topics": [
+    "lotsväsen",
+    "fiske",
+    "arrende",
+    "tvist",
+    "strömming"
+  ],
+  "people": [
+    {
+      "name": "Johan Brunberg",
+      "alternateNames": [],
+      "roles": [
+        "styrman",
+        "lots"
+      ]
+    },
+    {
+      "name": "Anders Schytén",
+      "alternateNames": [
+        "Schytén"
+      ],
+      "roles": [
+        "lots"
+      ]
+    },
+    {
+      "name": "Johan Solvin",
+      "alternateNames": [
+        "Solvin"
+      ],
+      "roles": [
+        "sjöman",
+        "lots"
+      ]
+    },
+    {
+      "name": "Gustaf Turdin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Kerrman",
+      "alternateNames": [
+        "Durren Kerrman"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Nybonde",
+      "alternateNames": [],
+      "roles": [
+        "byaman"
+      ]
+    },
+    {
+      "name": "Matts Frost",
+      "alternateNames": [],
+      "roles": [
+        "byaman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hällgrund",
+      "kind": "island",
+      "alternateNames": [
+        "Soklothällan",
+        "Soklothällarna"
+      ],
+      "uses": [
+        {
+          "use": "fiskeplats"
+        }
+      ]
+    },
+    {
+      "name": "Trutörsgrundet",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "fiskeplats"
+        }
+      ]
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Arrendet avtalas",
+      "date": {
+        "year": 1837,
+        "month": 5,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Rådman Berger meddelade att Soklot byamän på fyra år arrenderat ut till staden rätten att låta lotsarna fiska strömming kring Soklothällan.",
+      "people": [
+        "Berger",
+        "Johan Nybonde",
+        "Matts Frost"
+      ],
+      "places": [
+        "Hällgrund",
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Solvin blir lots",
+      "date": {
+        "year": 1837,
+        "circa": false
+      },
+      "description": "Sjömannen Johan Solvin åtog sig lotsbefattningen på fyra år och avlade lotseden.",
+      "people": [
+        "Johan Solvin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kerrmans konkurs",
+      "date": {
+        "year": 1837,
+        "month": 9,
+        "day": 12,
+        "circa": false
+      },
+      "description": "Före detta rådman Kerrman, som hade fått förhandlingarna om fisket att köra fast, förklarades i konkurs.",
+      "people": [
+        "Kerrman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "7d14d3ed5c6c9d3460bad90c0087e4b326624082f30a9e0b0fb5e59ccc60b577",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:23:17.127Z"
+}

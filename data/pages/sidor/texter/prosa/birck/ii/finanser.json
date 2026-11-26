@@ -1,0 +1,130 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/finanser.html",
+  "title": "Finanserna",
+  "summary": "Nykarlebys ekonomi före branden vilade på osäkra inkomster och en rad skilda kassor, och underskotten täcktes genom uttaxering. Erik Birck förklarar kassorna, sjömanshuset, donationsjorden och stadskällarens förmåner, med ett talesätt om att allt slutar i någons konkurs.",
+  "topics": [
+    "stadens ekonomi",
+    "kassor",
+    "sjömanshus",
+    "donationsjord",
+    "skatter"
+  ],
+  "people": [
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Ad. Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Juthe",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Jakob Johan Kerrman",
+      "alternateNames": [
+        "J. J. Kerrman"
+      ],
+      "roles": [
+        "rådman",
+        "skeppare",
+        "waterschout"
+      ]
+    },
+    {
+      "name": "Johan Ölund",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "direktor"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sjömanshuskassan bildas",
+      "date": {
+        "year": 1814,
+        "circa": false
+      },
+      "description": "Nykarlebys sjömanshuskassa bildades, och sjömanshuset förestods av råd- och handelsmannen Johan Juthe.",
+      "people": [
+        "Johan Juthe"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Sjömanshus inrättas på nytt",
+      "date": {
+        "year": 1844,
+        "month": 2,
+        "day": 12,
+        "circa": false
+      },
+      "description": "En sjömanshusdirektion bildades i Nykarleby efter att länsstyrelsen kungjort att ett sjömanshus skulle inrättas.",
+      "people": [
+        "Johan Ölund",
+        "Jakob Johan Kerrman"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Mark till seminariet",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "description": "Nykarleby avstod 6 tunnland jord till det nygrundade seminariet.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "4e221600507f10728a2c362ad302e37c7bb0b40fab6a3efe6b24a0a0cf3185de",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:10:39.311Z"
+}

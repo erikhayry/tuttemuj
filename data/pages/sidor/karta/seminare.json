@@ -16,6 +16,19 @@
         "Lärarseminariet"
       ],
       "description": "Seminariets lokaler används nu av Nykarleby gymnasium och högstadiet.",
+      "uses": [
+        {
+          "use": "lärarseminarium",
+          "startYear": 1873,
+          "endYear": 1971
+        },
+        {
+          "use": "gymnasium"
+        },
+        {
+          "use": "högstadium"
+        }
+      ],
       "geo": {
         "lat": 63.5263663,
         "lng": 22.5260457,
@@ -54,6 +67,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Seminariet"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "8632d8c21b9a78fd730ab78a0593d44d49b4d3b3de78f13d6beae014fbeda2f7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

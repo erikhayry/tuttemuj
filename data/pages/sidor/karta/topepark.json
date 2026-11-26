@@ -26,6 +26,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Topeliusparken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "b9ff5e9f3a24d89d5d116e22cf95979e13f7e99f2dc8c4387de3662fbac0e86c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

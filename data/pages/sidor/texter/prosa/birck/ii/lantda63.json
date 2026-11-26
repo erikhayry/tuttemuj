@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/lantda63.htm",
+  "title": "Lantdagsvalen. Lantdagen 1863–1864",
+  "summary": "Rådman Carl Grundfeldt valdes 1863 till Nykarlebys borgerskaps representant vid lantdagen i Helsingfors. Staden firade öppnandet med kanonskott och ljus i fönstren, och Grundfeldt drev bland annat frågan om att rensa upp Lappo älv.",
+  "topics": [
+    "lantdagen",
+    "val",
+    "Lappo älv",
+    "sjöfart",
+    "politik"
+  ],
+  "people": [
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "M. Sandström",
+      "alternateNames": [
+        "Sandström"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Gabriel Tengström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "stads- och landsfiskal"
+      ]
+    },
+    {
+      "name": "P. Aug. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Alb. Dyhr",
+      "alternateNames": [
+        "Dyhr"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Höckert",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Sundström",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Henelius",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Löfberg",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Ph. U. Strengberg",
+      "alternateNames": [
+        "Strengberg"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Petter Malm",
+      "alternateNames": [],
+      "roles": [
+        "kommerseråd"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Esplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222646,
+        "lng": 22.5305322,
+        "match": "name",
+        "gazetteerName": "esplanaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådman Sandströms bod",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bod",
+          "startYear": 1863,
+          "endYear": 1863
+        }
+      ]
+    },
+    {
+      "name": "Rådman Dyhrs linda",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lappo älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Lappo elf"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Grundfeldt väljs",
+      "date": {
+        "year": 1863,
+        "month": 8,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Nykarlebys borgerskap valde rådman Carl Grundfeldt till lantdagsman med 128 röster mot 87 för rådman Sandström.",
+      "people": [
+        "Carl Grundfeldt",
+        "M. Sandström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lantdagens öppnande firas",
+      "date": {
+        "year": 1863,
+        "month": 9,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Nykarleby firade lantdagens öppnande med kanonskott, flaggor på Stora bron, ljus i fönstren och skålar på Brunnsholmarna.",
+      "people": [
+        "P. Aug. Lybeck"
+      ],
+      "places": [
+        "Stora bron",
+        "Esplanaden",
+        "Brunnsholmarna",
+        "Rådman Dyhrs linda"
+      ]
+    },
+    {
+      "title": "Petition om Lappo älv",
+      "date": {
+        "year": 1863,
+        "month": 12,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Carl Grundfeldt lade fram en petition om att undersöka möjligheten att rensa upp Lappo älv för stock- och tjärflottning.",
+      "people": [
+        "Carl Grundfeldt"
+      ],
+      "places": [
+        "Lappo älv"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den nyss nedbrunna småstaden vill visa att den lever: kanonerna dundrar i gryningen, varje litet hus tänder ljus, tjärtunnor brinner på älven och herrarna skålar för Finland.",
+    "reason": "En färgstark festdag i en stad som reser sig efter branden ger rika bilder.",
+    "characters": [
+      "P. Aug. Lybeck"
+    ],
+    "places": [
+      "Stora bron",
+      "Brunnsholmarna"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "43e9e565c6c5a01bcd83e93ef6a19651138198feb6828a5d5cf1cb094b604785",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:21:46.483Z"
+}

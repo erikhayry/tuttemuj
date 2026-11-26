@@ -37,6 +37,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "ac18a3a7e6d45cf6d69c88bfcc057e71aa7ea4e2ed31eae03b429664b7858326",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,183 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/by1859ti.htm",
+  "title": "Byggnadsordningens tillämpning och utveckling",
+  "summary": "Byggnadsordningen av 1859 gav det återuppbyggda Nykarleby breda esplanader, fyrkantiga kvarter och gröna tomter. År 1874 var många hus ännu inte brädfodrade, och ägarna kallades till rådhusrätten där de skyllde på penningbrist och väntade ändringar av reglerna.",
+  "topics": [
+    "byggnadsordning",
+    "stadsplan",
+    "återuppbyggnad",
+    "efter branden"
+  ],
+  "people": [
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Rosina Axelson",
+      "alternateNames": [],
+      "roles": [
+        "sjökaptensänka"
+      ]
+    },
+    {
+      "name": "C. Nylund",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Rob. Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "C. A. Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Alex. Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Abr. Westlin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Maria Sund",
+      "alternateNames": [
+        "Maria Sandström"
+      ],
+      "roles": [
+        "hökaränka"
+      ]
+    },
+    {
+      "name": "Forssén",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stora Boulevardgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 44",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 44"
+    },
+    {
+      "name": "Gården nr 79",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 79"
+    },
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Önskan om nytt stadsnamn",
+      "date": {
+        "year": 1860,
+        "circa": false
+      },
+      "description": "Efter branden ville Nykarlebyborna ge den nya staden Wasanamnet som Vasa lämnat, men planen genomfördes aldrig.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Ägare förhörs om brädfodring",
+      "date": {
+        "year": 1874,
+        "month": 11,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Ägare till obrädfodrade gårdar kallades till rådhusrätten i Nykarleby och fick fem års frist.",
+      "people": [
+        "Forssén",
+        "G. M. Hedström",
+        "J. A. Lybeck",
+        "Alex. Dyhr"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Alex. Dyhr",
+      "place": "Gården nr 44",
+      "relation": "owned"
+    },
+    {
+      "person": "Maria Sund",
+      "place": "Gården nr 79",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "a41a629b4f3a0e8d01aa592bd8de1a371659e5d3e836bdc1d67f3811bf510100",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

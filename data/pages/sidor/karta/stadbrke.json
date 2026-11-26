@@ -11,7 +11,12 @@
       "name": "Stadsbrunnen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "Flyttad till kyrkogården på andra sidan Kyrkogatan."
+      "description": "Flyttad till kyrkogården på andra sidan Kyrkogatan.",
+      "uses": [
+        {
+          "use": "brunn"
+        }
+      ]
     },
     {
       "name": "Kyrkogatan",
@@ -47,6 +52,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "8d065f2b66068610820d4fe2d5ef5bbe499dbfe27a49d74855c07715b8a5f76b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

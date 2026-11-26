@@ -1,0 +1,231 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/hallgrun.htm",
+  "title": "Hällgrund eller \"Hellån\"",
+  "summary": "På Hällgrund lät Nykarlebys borgare 1824 bygga båken \"Hällan\", landmärket vid norra inloppet till stadens hamn. Sidan beskriver båken, lotsstugorna och fyren på Pentzins grund.",
+  "topics": [
+    "båk",
+    "lotsning",
+    "farled",
+    "skärgård",
+    "fyr"
+  ],
+  "people": [
+    {
+      "name": "Nils Pentzin d.ä.",
+      "alternateNames": [],
+      "roles": [
+        "fiskarborgare"
+      ]
+    },
+    {
+      "name": "Nils Pentzin d.y.",
+      "alternateNames": [],
+      "roles": [
+        "fiskarborgare"
+      ]
+    },
+    {
+      "name": "Kristina Werfving",
+      "alternateNames": [
+        "Werfvings Kristina"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Bjarne Wikström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hällgrund",
+      "kind": "island",
+      "alternateNames": [
+        "Hellån",
+        "Soklothällan",
+        "Socklothällan",
+        "Hällon"
+      ]
+    },
+    {
+      "name": "Soklothällans båk",
+      "kind": "landmark",
+      "alternateNames": [
+        "Hällan",
+        "Käringen",
+        "Socklothällans känningsbåk"
+      ],
+      "uses": [
+        {
+          "use": "båk",
+          "startYear": 1824
+        }
+      ],
+      "nameOrigin": "Namnet Käringen sägs komma av att Werfvings Kristina liknade båkens svarta tak, vita och röda delar vid hennes hår, ansikte och kjol."
+    },
+    {
+      "name": "Lotsstugan på Hällgrund",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "lotsstuga"
+        }
+      ]
+    },
+    {
+      "name": "Pentzins grund",
+      "kind": "island",
+      "alternateNames": [],
+      "address": "strax norr om Hällgrund",
+      "uses": [
+        {
+          "use": "fyr"
+        }
+      ],
+      "nameOrigin": "Grundet har namn efter fiskarborgarna Nils Pentzin den äldre och den yngre."
+    },
+    {
+      "name": "Storgrundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [
+        "Thorsön"
+      ],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stubben",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Mässkär",
+      "kind": "island",
+      "alternateNames": [
+        "Messkär"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Båken byggs",
+      "date": {
+        "year": 1824,
+        "circa": false
+      },
+      "description": "Nykarlebys borgerskap lät anlägga en känningsbåk på Hällgrund.",
+      "people": [],
+      "places": [
+        "Soklothällans båk",
+        "Hällgrund"
+      ]
+    },
+    {
+      "title": "Kronan löser in båken",
+      "date": {
+        "year": 1849,
+        "circa": false
+      },
+      "description": "Kronan löste in båken och lotsstugan på Hällgrund av staden.",
+      "people": [],
+      "places": [
+        "Soklothällans båk",
+        "Lotsstugan på Hällgrund"
+      ]
+    },
+    {
+      "title": "Ny lotsstuga",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "En ny rödmålad lotsstuga byggdes på Hällgrund.",
+      "people": [],
+      "places": [
+        "Lotsstugan på Hällgrund"
+      ]
+    },
+    {
+      "title": "Båken får ny panel",
+      "date": {
+        "year": 2000,
+        "circa": false
+      },
+      "description": "Båken på Hällgrund fick ny panel vid en renovering.",
+      "people": [],
+      "places": [
+        "Soklothällans båk"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En solbränd flicka som följer sin far på fiske ser den nybyggda båken och döper den till Käringen, eftersom den har hennes svarta hår, vita ansikte och röda kjol.",
+    "reason": "Namnsägnen gör ett landmärke till en figur som är lätt att teckna.",
+    "characters": [
+      "Kristina Werfving"
+    ],
+    "places": [
+      "Soklothällans båk",
+      "Hällgrund"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Soklothällans båk"
+      ],
+      "year": 1999
+    },
+    {
+      "image": 2,
+      "places": [
+        "Hällgrund"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Hällgrund"
+      ]
+    }
+  ],
+  "contentHash": "befb54fabc4aa995e13d78b190aab9c1160aa068aa211ed22e9ab787f901708a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:15:25.368Z"
+}

@@ -24,6 +24,14 @@
         "F.d. Rådhuset"
       ],
       "description": "Det före detta rådhuset.",
+      "uses": [
+        {
+          "use": "skola"
+        },
+        {
+          "use": "rådhus"
+        }
+      ],
       "geo": {
         "lat": 63.5220214,
         "lng": 22.5268777,
@@ -51,6 +59,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Trivialskolan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "132679b8a592f982ea83ce9617910a6ed629e50ad9597f95274dee4469cbd1d0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

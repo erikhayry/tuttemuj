@@ -1,0 +1,231 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/dealdref.htm",
+  "title": "De äldre farlederna",
+  "summary": "Flera gamla farleder gick från havet genom skärgården in till Nykarleby hamn, bland annat genom Granskärssundet förbi Alörn och söderifrån förbi Stubben och Frösön. Erik Birck följer lederna med hjälp av kartor från 1700-talet och förklarar kasarna och märkena på Tornskär.",
+  "topics": [
+    "farleder",
+    "sjöfart",
+    "skärgården",
+    "ortnamn",
+    "kartor"
+  ],
+  "people": [
+    {
+      "name": "Fillmer",
+      "alternateNames": [],
+      "roles": [
+        "kartritare"
+      ]
+    },
+    {
+      "name": "Nordenankar",
+      "alternateNames": [
+        "Nordenanckar"
+      ],
+      "roles": [
+        "kartritare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": [
+        "Kasgrundet",
+        "Bådan",
+        "Hästskärsbådan",
+        "Tonskär"
+      ],
+      "uses": [
+        {
+          "use": "båk",
+          "startYear": 1693
+        }
+      ],
+      "nameOrigin": "Namnet kom av tornet eller kasen av sten och trä som borgerskapet satte upp där till vägledning för sjöfarare.",
+      "geo": {
+        "lat": 63.6321026,
+        "lng": 22.37423,
+        "match": "name",
+        "gazetteerName": "bådan",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hästskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Granskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Granskärssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Storalörn",
+      "kind": "island",
+      "alternateNames": [
+        "Alörn"
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lillalörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupstena",
+      "kind": "other",
+      "alternateNames": [
+        "Djupstena sund"
+      ]
+    },
+    {
+      "name": "Rågårdshällan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Larsmårsholmen",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tullstuga"
+        }
+      ]
+    },
+    {
+      "name": "Soklothällan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hummelskärssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Frösöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Alörsfjärden"
+      ]
+    },
+    {
+      "name": "Stubben",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Frösön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Långörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Långörssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Norrfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kråkskärsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Hästbådafjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Grisselön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Nätön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Rörklubben",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Numera sammanväxt med Alörn och Storgrundet."
+    }
+  ],
+  "events": [
+    {
+      "title": "Torn byggs på Bådan",
+      "date": {
+        "year": 1693,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Nykarleby borgerskap satte upp ett litet torn av sten och trä på Bådan, nuvarande Tornskär, till ledning för sjöfarare.",
+      "people": [],
+      "places": [
+        "Tornskär"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "b272511d2f69d0425a8e4888fe5504640af0ca0b5fe59b3667145a399fcf8d66",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

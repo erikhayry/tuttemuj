@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/exim1830.htm",
+  "title": "Export, import och sjöfart till 1830-talets slut",
+  "summary": "Nykarlebys ekonomi vilade i början av 1800-talet på handel och sjöfart, med tjära, beck, pottaska och trävaror som viktigaste exportvaror. Erik Birck jämför exporten med grannstädernas, listar stadens fartyg 1838 och visar en tjärförsäljning till Lübeck.",
+  "topics": [
+    "handel",
+    "sjöfart",
+    "export",
+    "tjära",
+    "fartyg",
+    "statistik"
+  ],
+  "people": [
+    {
+      "name": "M. Lithén",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "G. A. Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "redare"
+      ]
+    },
+    {
+      "name": "I. Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "G. W. Turdin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Ad. Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "M. Ahllund",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Petter Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "A. Felander",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Chr. Wennerholm",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Handeln efter kriget",
+      "date": {
+        "year": 1813,
+        "circa": false
+      },
+      "description": "Nykarlebys export och import uppgick sammanlagt till 159 524 rubel, vilket visar att handeln åter kommit igång efter kriget.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Tjärförsäljning i Lübeck",
+      "date": {
+        "year": 1837,
+        "circa": false
+      },
+      "description": "Rådman Petter Lybeck i Nykarleby fick avräkning för 600 tunnor tjära som skeppet Paulina fört till Lübeck.",
+      "people": [
+        "Petter Lybeck",
+        "A. Felander"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Stadens flotta 1838",
+      "date": {
+        "year": 1838,
+        "circa": false
+      },
+      "description": "Nykarleby hade 16 fartyg i början av året och 14 vid årets slut, efter förlisningar och en försäljning.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "4eae40abccd1acfa7d93d21ad7d066ca5354a3d514a9a6152d438f1baffffdfe",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

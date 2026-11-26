@@ -13,6 +13,11 @@
       "kind": "district",
       "alternateNames": [],
       "description": "Park i östra delen av staden med stenblock från senaste istiden.",
+      "uses": [
+        {
+          "use": "park"
+        }
+      ],
       "geo": {
         "lat": 63.526907,
         "lng": 22.52727,
@@ -25,6 +30,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Rummelbacken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "f77658514af340362111b9c4967598eb28156f59ec5b96c2c00378a14d1e8e91",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

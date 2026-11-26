@@ -1,0 +1,183 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/jjback.htm",
+  "title": "Folkkirurgen Jakob Johannes Bäck och madam Renström",
+  "summary": "Torparsonen Jakob Bäck (1824–1879) från Forsby lärde sig massage och benläkning av madam Renström och blev en vida berömd folkkirurg. Han kallades ända till Petersburg och anses vara förebild för Topelius fältskär.",
+  "topics": [
+    "folkmedicin",
+    "kirurgi",
+    "massage",
+    "Forsby",
+    "fältskär"
+  ],
+  "people": [
+    {
+      "name": "Jakob Johannes Bäck",
+      "alternateNames": [
+        "Jakob Bäck",
+        "Johan Jakob Bäck"
+      ],
+      "birthYear": 1824,
+      "deathYear": 1879,
+      "roles": [
+        "folkkirurg",
+        "stadsfältskär"
+      ]
+    },
+    {
+      "name": "Clara Fredrika Renström",
+      "alternateNames": [
+        "Madam Renström"
+      ],
+      "birthYear": 1802,
+      "roles": [
+        "massör",
+        "naturläkare"
+      ]
+    },
+    {
+      "name": "Karl Fredrik Renström",
+      "alternateNames": [],
+      "birthYear": 1804,
+      "roles": [
+        "kakelugnsmakare"
+      ]
+    },
+    {
+      "name": "Simon Bäck",
+      "alternateNames": [],
+      "roles": [
+        "torpare"
+      ]
+    },
+    {
+      "name": "Matts Bäck",
+      "alternateNames": [],
+      "deathYear": 1891,
+      "roles": []
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Zacharias Topelius"
+      ],
+      "roles": [
+        "doktor",
+        "författare"
+      ]
+    },
+    {
+      "name": "C. W. Fontell",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "J. F. Blank",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "S. P. Berg",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Simon Bäcks torp",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "i Forsby i Nykarleby landskommun"
+    }
+  ],
+  "events": [
+    {
+      "title": "Egen praktik",
+      "date": {
+        "year": 1839,
+        "circa": false
+      },
+      "description": "Femtonårige Jakob Bäck, som lärt sig av madam Renström, började praktisera på egen hand.",
+      "people": [
+        "Jakob Johannes Bäck",
+        "Clara Fredrika Renström"
+      ],
+      "places": [
+        "Forsby"
+      ]
+    },
+    {
+      "title": "Examen för medicinalstyrelsen",
+      "date": {
+        "year": 1863,
+        "circa": false
+      },
+      "description": "Jakob Bäck avlade en enskild examen så att han fick fortsätta sin läkarverksamhet.",
+      "people": [
+        "Jakob Johannes Bäck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsfältskär i Vasa",
+      "date": {
+        "year": 1867,
+        "circa": false
+      },
+      "description": "Jakob Bäck kallades till stadsfältskär i Vasa och hade tjänsten till sin död.",
+      "people": [
+        "Jakob Johannes Bäck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kallad till Petersburg",
+      "date": {
+        "year": 1877,
+        "circa": false
+      },
+      "description": "Under turkiska kriget kallade krigsministern Jakob Bäck till Petersburg för att sköta krigsskadade.",
+      "people": [
+        "Jakob Johannes Bäck"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En klen skräddarlärling som aldrig kan bli bonde möter en lång, snusande madam med järnfingrar som alltid vill ha en toddy först, och blir läkaren som folk lämnar sina kryckor hos.",
+    "reason": "En tydlig lärling–mästare-berättelse med starka figurer och en framgångsresa.",
+    "characters": [
+      "Jakob Johannes Bäck",
+      "Clara Fredrika Renström",
+      "Simon Bäck"
+    ],
+    "places": [
+      "Simon Bäcks torp",
+      "Forsby"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Clara Fredrika Renström",
+      "place": "Simon Bäcks torp",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "580cc593ea84be5e242ee6ae88aa6449170e9b92d6d8f6c713d433ab0649b8ba",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

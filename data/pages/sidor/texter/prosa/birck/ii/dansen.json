@@ -1,0 +1,156 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/dansen.htm",
+  "title": "Dansen på bron",
+  "summary": "Dans på Storbron i Nykarleby var förbjuden men förekom ändå, och magistraten satte vite på den 1896. Birck berättar om en dans den 1 maj 1862 som slutade med att en dräng slogs ihjäl, om byslagsmål på bron och om flottarna som senare gjorde staden orolig.",
+  "topics": [
+    "ordning",
+    "dans",
+    "slagsmål",
+    "Storbron",
+    "flottning"
+  ],
+  "people": [
+    {
+      "name": "Ernst V. Knape",
+      "alternateNames": [],
+      "roles": [
+        "skald",
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "K. Fr. Forsius",
+      "alternateNames": [],
+      "roles": [
+        "provinsialläkare"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Stora bron",
+        "stora bron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dödligt slagsmål vid dansen",
+      "date": {
+        "year": 1862,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Vid dans på Storbron i Nykarleby uppstod slagsmål och en dräng från Forsbacka slogs ihjäl.",
+      "people": [],
+      "places": [
+        "Storbron",
+        "Forsbacka"
+      ]
+    },
+    {
+      "title": "Broavgiften avskaffas",
+      "date": {
+        "year": 1889,
+        "circa": false
+      },
+      "description": "Broavgiften för utsocknebor som gick över Storbron avskaffades.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    },
+    {
+      "title": "Dans på bron förbjuds",
+      "date": {
+        "year": 1896,
+        "month": 8,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Magistraten satte 20 marks vite för folksamlingar med dans och oljud på Stora bron.",
+      "people": [],
+      "places": [
+        "Storbron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Majdansen på Storbron 1862 urartar i slagsmål, en dräng dör och en Forsbo döms till tukthus, men kommer efter tolv år hem och gifter sig med sin gamla flamma.",
+    "reason": "En dramatisk och oväntat försonande historia med tydlig plats.",
+    "characters": [],
+    "places": [
+      "Storbron"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "6f348a2beda4f5860a5d9137e42e293b2f61f024b36c85ce590d3719ee3e7aa3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/inroteri.htm",
+  "title": "Inrotering av matlagen",
+  "summary": "År 1848 fördelades 27 fattiga barn i Nykarleby genom lottdragning på rotar för mat och vård, och några fick gå i skola. Efter borgares besvär upphävde guvernören beslutet, och barnen skulle i stället auktioneras ut.",
+  "topics": [
+    "fattigvård",
+    "barn",
+    "rotehjon",
+    "skola",
+    "tiggeri"
+  ],
+  "people": [
+    {
+      "name": "Fredrica Fontell",
+      "alternateNames": [],
+      "roles": [
+        "barnskollärare"
+      ]
+    },
+    {
+      "name": "C. A. Cajan",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Hans Holmström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Nordqvist",
+      "alternateNames": [],
+      "roles": [
+        "kronolänsman"
+      ]
+    },
+    {
+      "name": "Herpman",
+      "alternateNames": [],
+      "roles": [
+        "landsfiskal"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Elementarskolan i Nykarleby",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1848,
+          "endYear": 1848
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Barn fördelas på rotar",
+      "date": {
+        "year": 1848,
+        "month": 3,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Fattigvårdskommittén beslöt att 27 barn i Nykarleby skulle få mat och vård hos rotarna för att minska tiggeriet.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Beslutet upphävs",
+      "date": {
+        "year": 1848,
+        "month": 8,
+        "day": 17,
+        "circa": false
+      },
+      "description": "Guvernören upphävde roteringen efter borgarnas besvär, och kommittén beslöt därefter att auktionera ut barnen.",
+      "people": [
+        "Hans Holmström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "f65e6e03847414ddd565261d8b4ca46a86ee13494023ca48416133df23baa2a4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

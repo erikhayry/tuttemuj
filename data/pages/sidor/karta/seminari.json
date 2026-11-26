@@ -27,6 +27,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Seminariet"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "a405d3c68ae1e53b56e7882effabcd9af4b2fa2fe259432cb4e46efd1d629fe9",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

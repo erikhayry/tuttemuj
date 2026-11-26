@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/histbakg.html",
+  "title": "Den historiska bakgrunden till fattigvården före branden",
+  "summary": "Före branden sköttes fattigvården i Nykarleby med en fattigkassa som fylldes av kollekter, böter, danser och gåvor. Sidan berättar om missväxtåren, barnens utauktionering och vilka som fick understöd.",
+  "topics": [
+    "fattigvård",
+    "missväxt",
+    "hungerår",
+    "välgörenhet",
+    "fattigkassa"
+  ],
+  "people": [
+    {
+      "name": "M. Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "M. Sandström",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handlande"
+      ]
+    },
+    {
+      "name": "Garbén",
+      "alternateNames": [],
+      "roles": [
+        "änka"
+      ]
+    },
+    {
+      "name": "Anna Sophia Häggman",
+      "alternateNames": [
+        "Anna Häggman"
+      ],
+      "roles": []
+    },
+    {
+      "name": "A. R. Bastman",
+      "alternateNames": [
+        "Bastman"
+      ],
+      "deathYear": 1850,
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Anders Gästrin",
+      "alternateNames": [
+        "Gästrin"
+      ],
+      "roles": [
+        "organist"
+      ]
+    },
+    {
+      "name": "G. G. Roos",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Hedvig Snellman",
+      "alternateNames": [],
+      "roles": [
+        "änkeprostinna"
+      ]
+    },
+    {
+      "name": "G. W. Aspegren",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "rådhus"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nödhjälp efter missväxt",
+      "date": {
+        "year": 1833,
+        "circa": false
+      },
+      "description": "Pengar och spannmål som samlats in för de missväxtdrabbade delades ut till bland annat Nykarleby socken.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Vård av en blind kvinna",
+      "date": {
+        "year": 1836,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Änkan Garbén fick bidrag av staden och fattigkassan för att sköta den blinda och sinnessjuka Anna Sophia Häggman.",
+      "people": [
+        "Garbén",
+        "Anna Sophia Häggman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fattiggubben betalas",
+      "date": {
+        "year": 1846,
+        "month": 11,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Organist Gästrin fick betalt av fattigkassan för att ha tillverkat en fattiggubbe, som sedan blev en viktig inkomstkälla.",
+      "people": [
+        "Anders Gästrin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Missväxt",
+      "date": {
+        "year": 1851,
+        "circa": false
+      },
+      "description": "Skörden slog fel, vilket följdes av brist på livsmedel och ny missväxt följande sommar.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "6b4b7e009b21559178070d0e157b16f60f365322636d693d186bf1b5231a8fda",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

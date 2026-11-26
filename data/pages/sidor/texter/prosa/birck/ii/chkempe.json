@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/chkempe.htm",
+  "title": "Catharina Helena Kempe",
+  "summary": "Catharina Helena Kempe (1784–1875) var änka efter en sjötullvaktmästare och Nykarlebys levande tidning, som visste allt om vad som hände i staden. Hilda Olson beskriver hennes kvicka och ibland elaka tunga, hennes glada lynne trots ett svårt äktenskap och hennes gammaldags klädsel.",
+  "topics": [
+    "stadsoriginal",
+    "släkten Kempe",
+    "skvaller",
+    "kvinnoliv"
+  ],
+  "people": [
+    {
+      "name": "Catharina Helena Kempe",
+      "alternateNames": [
+        "Giers"
+      ],
+      "birthYear": 1784,
+      "deathYear": 1875,
+      "roles": [
+        "änka"
+      ]
+    },
+    {
+      "name": "Fredrik Reinhold Kempe",
+      "alternateNames": [],
+      "birthYear": 1781,
+      "deathYear": 1840,
+      "roles": [
+        "sjötullvaktmästare"
+      ]
+    },
+    {
+      "name": "Jonas Johan Giers",
+      "alternateNames": [],
+      "roles": [
+        "tullinspektor",
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Samuel Kempe d.y.",
+      "alternateNames": [],
+      "deathYear": 1815,
+      "roles": [
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Gumman Kempe, stadens vandrande tidning i gammaldags mössa, vägrar ta emot en hatt eftersom hon skulle se ut som katten i gluggen och skryter med att hon som 35-åring hoppade över sju ladutak.",
+    "reason": "En färgstark gestalt med färdiga repliker som lämpar sig för korta serieepisoder.",
+    "characters": [
+      "Catharina Helena Kempe"
+    ],
+    "places": [
+      "Nykarleby"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Catharina Helena Kempe",
+      "place": "Nykarleby",
+      "relation": "born",
+      "startYear": 1784,
+      "endYear": 1784
+    }
+  ],
+  "images": [],
+  "contentHash": "5bd0553f9b598b59fdab4be49fa7691df4c6c34001d1373eeab4262865e95539",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:06:55.919Z"
+}

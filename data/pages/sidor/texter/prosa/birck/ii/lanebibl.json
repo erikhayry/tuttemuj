@@ -1,0 +1,134 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/lanebibl.htm",
+  "title": "Lånebiblioteket",
+  "summary": "Förmögna borgare i Nykarleby grundade ett läsebibliotek 1813 eller 1814, som rådman Isak Lindqvist länge skötte. Efter att det skingrats instiftade dr Forsius 1864 ett nytt bibliotek, som Lotta Lindqvist förestod till 1913.",
+  "topics": [
+    "bibliotek",
+    "läsning",
+    "kulturliv",
+    "fattigskolan"
+  ],
+  "people": [
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "deathYear": 1853,
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Kr. Fredr. Forsius",
+      "alternateNames": [
+        "dr Forsius"
+      ],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "Lotta Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Maria Sofia Backlund",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Caisa Brunbergs gård",
+      "kind": "building",
+      "alternateNames": [
+        "Gården nr 108"
+      ],
+      "address": "nr 108 på Källbacken",
+      "uses": [
+        {
+          "use": "fattigskola"
+        },
+        {
+          "use": "bibliotek"
+        }
+      ]
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Läsebiblioteket stiftas",
+      "date": {
+        "year": 1813,
+        "circa": true,
+        "text": "1813 eller 1814"
+      },
+      "description": "Några förmögna borgare i Nykarleby bildade en förening som grundade ett läsebibliotek.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Nytt bibliotek instiftas",
+      "date": {
+        "year": 1864,
+        "circa": false
+      },
+      "description": "Dr Kr. Fredr. Forsius instiftade ett nytt lånebibliotek i Nykarleby och donerade böcker till det.",
+      "people": [
+        "Kr. Fredr. Forsius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lotta Lindqvist tar över",
+      "date": {
+        "year": 1866,
+        "endYear": 1913,
+        "circa": false
+      },
+      "description": "Lotta Lindqvist kom hem från Brahestad, tog emot lånebiblioteket och skötte det i flera decennier.",
+      "people": [
+        "Lotta Lindqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "824ad8d8b156449fb47707a217623a9629fc1e6cc3631dce054742d0117eba67",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:21:46.483Z"
+}

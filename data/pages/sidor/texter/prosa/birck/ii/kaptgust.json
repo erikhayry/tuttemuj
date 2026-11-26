@@ -1,0 +1,209 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/kaptgust.htm",
+  "title": "Kapten Gustaf Nymans berättelse från kriget",
+  "summary": "År 1854 kapade engelsmännen Gustaf Nymans saltlastade jakt, och han ljög friskt om kanoner och kosacker som skulle försvara Nykarleby. Besättningen sattes över på en annan båt och kom hem via Alörn, medan jakten sprängdes.",
+  "topics": [
+    "Krimkriget",
+    "blockadbrytning",
+    "kapning",
+    "sjöfart",
+    "skärgård"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Nyman",
+      "alternateNames": [
+        "Gustaf Jakobsson Nyman"
+      ],
+      "birthYear": 1820,
+      "deathYear": 1906,
+      "roles": [
+        "styrman",
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Matts Edvard Sarlin",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Theodor Häggblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. F. Ahlström",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Pettersson",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Jungell",
+      "alternateNames": [],
+      "roles": [
+        "kronolots"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Henrik Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hällgrund",
+      "kind": "island",
+      "alternateNames": [
+        "Hällan"
+      ]
+    },
+    {
+      "name": "Leppogubben",
+      "kind": "island",
+      "alternateNames": [
+        "Leppon"
+      ]
+    },
+    {
+      "name": "Soklotsanden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Granskärssund",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Granskärs sund"
+      ]
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Charlottenlund",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på Alörn",
+      "uses": [
+        {
+          "use": "villa"
+        }
+      ]
+    },
+    {
+      "name": "Monäs sund",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Jakten Iris kapas",
+      "date": {
+        "year": 1854,
+        "circa": false
+      },
+      "description": "Det engelska krigsfartyget Porcupine kapade styrman Gustaf Nymans saltlastade jakt Iris, förhörde honom om Nykarlebys försvar och sprängde sedan jakten.",
+      "people": [
+        "Gustaf Nyman"
+      ],
+      "places": [
+        "Hällgrund"
+      ]
+    },
+    {
+      "title": "Nyman blir borgare",
+      "date": {
+        "year": 1865,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Sjökapten Gustaf Nyman fick burskap i Nykarleby.",
+      "people": [
+        "Gustaf Nyman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Styrman Nyman river sitt pass, spelar dum bonde och lurar den engelska kaptenen med påhittade kanonbatterier och trehundra kosacker, och håller kikaren som en bössa när han ska peka ut båken.",
+    "reason": "Förhöret med lögner och list är en färdig komisk äventyrsscen med dialog.",
+    "characters": [
+      "Gustaf Nyman"
+    ],
+    "places": [
+      "Hällgrund",
+      "Soklotsanden",
+      "Leppogubben"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "J. A. Lybeck",
+      "place": "Charlottenlund",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "768bed412b2134c87c3be456b5b1e59a0be48a898b4ea61f62e571b15d1279d4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:18:42.340Z"
+}

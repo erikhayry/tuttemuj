@@ -25,11 +25,35 @@
     {
       "name": "Värdshuset på Brunnsholmarna",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "värdshus"
+        }
+      ]
     }
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnsholmarna",
+        "Värdshuset på Brunnsholmarna"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "af35aaacb44cd8f9a303919656dc7f0d274422be30e516333eb1a1db8d39b5c7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

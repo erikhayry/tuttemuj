@@ -17,6 +17,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Stadsbrunnen"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "e994535a65f0b1d7d32f85ce5717bc687ee83654ecf58a0b3fbfdc4dadb5cd10",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

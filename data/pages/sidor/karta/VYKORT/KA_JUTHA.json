@@ -53,6 +53,26 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Juthas",
+        "Döbelnmonumentet vid Juthas",
+        "Slagfältet vid Juthas"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "bb1109a9e5010bd1afd79806ef9663229c95e51e5f8e733c5cbd2546ede3244e",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

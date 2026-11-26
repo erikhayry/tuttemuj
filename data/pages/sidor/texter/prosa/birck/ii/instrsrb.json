@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/instrsrb.htm",
+  "title": "Instruktionen för stads- och rättsbetjänte 1845",
+  "summary": "År 1845 fick Nykarlebys stadsbetjänt och rådhusvaktmästare en egen instruktion när Johan Lingonblad tillträdde. Han skulle patrullera stan, vakta häktet och elda och städa i rådhuset i uniform och polisbricka.",
+  "topics": [
+    "polis",
+    "rådhuset",
+    "häkte",
+    "stadsförvaltning"
+  ],
+  "people": [
+    {
+      "name": "Johan Lingonblad",
+      "alternateNames": [
+        "Lingonblad"
+      ],
+      "roles": [
+        "stadsbetjänt",
+        "rådhusvaktmästare",
+        "skomakargesäll"
+      ]
+    },
+    {
+      "name": "Henrik Lööf",
+      "alternateNames": [],
+      "roles": [
+        "stadsbetjänt",
+        "rådhusvaktmästare"
+      ]
+    },
+    {
+      "name": "Petter Olof Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "stadsbetjänt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "rådhus",
+          "startYear": 1845,
+          "endYear": 1845
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadshäktet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "häkte",
+          "startYear": 1845,
+          "endYear": 1845
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny instruktion för stadsbetjänten",
+      "date": {
+        "year": 1845,
+        "circa": false
+      },
+      "description": "En särskild instruktion för stadsbetjänt och rådhusvaktmästare utfärdades när Johan Lingonblad anställdes efter Henrik Lööf.",
+      "people": [
+        "Johan Lingonblad",
+        "Henrik Lööf"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Lönerna höjs",
+      "date": {
+        "year": 1847,
+        "circa": false
+      },
+      "description": "Stadsbetjänterna Lingonblad och Wahlberg fick höjd lön och plikt att patrullera dagligen som poliser.",
+      "people": [
+        "Johan Lingonblad",
+        "Petter Olof Wahlberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Lingonblad",
+      "place": "Rådhuset",
+      "relation": "worked",
+      "startYear": 1845
+    }
+  ],
+  "images": [],
+  "contentHash": "f16f8cf01f8ec6c893ac41d33192cba736eae643ed414eecfe4414be2978c089",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:17:37.536Z"
+}

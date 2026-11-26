@@ -1,0 +1,136 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/bilagor.htm",
+  "title": "Bilagor: kartor över Nykarleby",
+  "summary": "Förteckning över kartbilagorna i Nykarleby stads historia: planer och kartor över staden och dess omgivning från 1740 till 1866. Bland dem finns Gullic Wislanders karta, Gyldéns plan från 1841 och en plan gjord efter branden 1858.",
+  "topics": [
+    "kartor",
+    "stadsplan",
+    "arkiv"
+  ],
+  "people": [
+    {
+      "name": "Gullic Wislander",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "Abrah. H. Holm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl von Rosenkampff",
+      "alternateNames": [],
+      "roles": [
+        "ingenjörlöjtnant"
+      ]
+    },
+    {
+      "name": "M. G. Fillmer",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "lantmäteriauskultant"
+      ]
+    },
+    {
+      "name": "C. W. Gyldén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "A. W. Welin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. J. Krank",
+      "alternateNames": [],
+      "roles": [
+        "vicelantmätare"
+      ]
+    },
+    {
+      "name": "Alex. von Rechenberg",
+      "alternateNames": [],
+      "roles": [
+        "guvernör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunns Holmarne",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmarna"
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadskarta upprättas",
+      "date": {
+        "year": 1740,
+        "circa": false
+      },
+      "description": "Kommissionslantmätaren Gullic Wislander upprättade en karta över Nykarleby stad.",
+      "people": [
+        "Gullic Wislander"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Karta över Brunnsholmarna",
+      "date": {
+        "year": 1866,
+        "circa": false
+      },
+      "description": "Vicelantmätare K. J. Krank mätte upp Brunnsholmarna och en del av Nykarleby stad.",
+      "people": [
+        "K. J. Krank"
+      ],
+      "places": [
+        "Brunns Holmarne",
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [],
+  "contentHash": "e6d4ee6aa02f54f2f1e080c74f33399311372400d7d36497f59695d753e4d67a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:04:05.999Z"
+}

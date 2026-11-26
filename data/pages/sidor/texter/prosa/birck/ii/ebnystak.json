@@ -1,0 +1,87 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/ebnystak.htm",
+  "title": "Plan av Nykarleby stad 1860",
+  "summary": "Plankartan över Nykarleby efter branden kopierades av O. W. Kjellman den 12 maj 1860. Teckenförklaringen visar var sten- och trähus fick byggas och var kyrkan, rådhuset, skolan, kvarnen, vattenverket och brunnarna skulle ligga.",
+  "topics": [
+    "stadsplan",
+    "karta",
+    "stadsbranden"
+  ],
+  "people": [
+    {
+      "name": "O. W. Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "lantmätare"
+      ]
+    },
+    {
+      "name": "C. A. Edelfelt",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "L. P. Kjäldström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Otto von Blom",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [
+        "Nycarleby Stad"
+      ],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsdelsindelningen godkänns",
+      "date": {
+        "year": 1860,
+        "month": 5,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Landskansliet i Vasa godkände indelningen av Nykarleby i stadsdelar och namnen på gator och allmänna platser.",
+      "people": [
+        "Otto von Blom"
+      ],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby"
+      ],
+      "year": 1860
+    }
+  ],
+  "contentHash": "fe0d6a9ce3d0e32220fef24a85c0044cee66fa3db87dc33ee70bbb0cfa5a9282",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

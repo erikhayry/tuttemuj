@@ -113,6 +113,18 @@
       ],
       "address": "Topeliusesplanaden 31",
       "description": "Strax norr om korsningen med Grev Tottgatan; byggt om till bostad 2020.",
+      "uses": [
+        {
+          "use": "kyrka"
+        },
+        {
+          "use": "restaurang"
+        },
+        {
+          "use": "bostad",
+          "startYear": 2020
+        }
+      ],
       "geo": {
         "lat": 63.5250216,
         "lng": 22.5325996,
@@ -273,6 +285,45 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Eliel Backlund",
+      "place": "Eliel Backlunds gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Adventskapellet",
+        "Topeliusesplanaden",
+        "Grev Tottgatan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Adventskapellet",
+        "Eliel Backlunds gård"
+      ],
+      "year": 2020
+    },
+    {
+      "image": 4,
+      "places": [],
+      "year": 2020
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "d00da0b44bf22d24fee95b92d72abb77df0588d29890c14bcf8bb8fe37c3e28e",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

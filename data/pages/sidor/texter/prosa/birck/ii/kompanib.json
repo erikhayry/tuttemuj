@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/kompanib.htm",
+  "title": "\"Kompanibåten\" Nykarleby. M. E. Sarlins äventyr",
+  "summary": "Under Krimkriget fick skonaren Ceres namnet \"Kompanibåten\" då flera affärsmän delade på lasterna. M. E. Sarlin, då styrman, kapades utanför Hällgrund, skröt om försvaret och förde engelsmannen till Monå i stället för staden.",
+  "topics": [
+    "Krimkriget",
+    "blockadbrytning",
+    "sjöfart",
+    "anekdot"
+  ],
+  "people": [
+    {
+      "name": "Carl August Sjöberg",
+      "alternateNames": [
+        "Joggun Sjöberg"
+      ],
+      "birthYear": 1817,
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Alb. Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Edvard Sarlin",
+      "alternateNames": [
+        "M. E. Sarlin"
+      ],
+      "roles": [
+        "styrman",
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "E. A. Rechardt",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Hällgrund",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Monå",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.38986419999999,
+        "lng": 22.3625299,
+        "match": "name",
+        "gazetteerName": "monå",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sarlin blir skeppare",
+      "date": {
+        "year": 1859,
+        "circa": false
+      },
+      "description": "Matts Edvard Sarlin avlade skepparexamen och började föra fartyg.",
+      "people": [
+        "Matts Edvard Sarlin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den kapade Sarlin målar upp skyddsvallar, kanoner och tusentals soldater för engelsmännen, och när han tvingas lotsa dem till Nykarleby styr han dem till Monå i stället.",
+    "reason": "En listig fånge som lurar en övermäktig fiende är en klassisk äventyrsberättelse.",
+    "characters": [
+      "Matts Edvard Sarlin"
+    ],
+    "places": [
+      "Hällgrund",
+      "Monå"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "5ffcbeb435806e6d065ab044fdf15ed142e2b87308c6a9475857dd30c9155d22",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:21:46.483Z"
+}

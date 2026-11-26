@@ -25,6 +25,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "map",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "e02e3e54291aae8414ee72463e8bb584973697d3b076496c3f991232e1006c3b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

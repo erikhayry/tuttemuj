@@ -1,0 +1,270 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/fartland.htm",
+  "title": "Nykarlebyfartyg, byggda på landsortsvarv eller i andra städer",
+  "summary": "Många av Nykarlebys fartyg byggdes på landsortsvarv i skärgården och andra orter eller köptes utifrån. Erik Birck berättar om handlanden Kerrmans tvist med Soklotbönder om en försenad skonert 1814 och listar fartygen före Krimkriget med ägare och öden.",
+  "topics": [
+    "skeppsbyggnad",
+    "fartyg",
+    "redare",
+    "rättstvist",
+    "sjöfart"
+  ],
+  "people": [
+    {
+      "name": "Johan Jakob Kerrman",
+      "alternateNames": [
+        "J. J. Kerrman",
+        "Kerrman"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Eric Nybond",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Johan Jacobsson Nybond",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Anders Andersson Nybond",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Gabriel Wilhelm Aspegren",
+      "alternateNames": [
+        "G. W. Aspegren"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "redare",
+        "rådman"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "G. W. Turdin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "A. Dyhr",
+      "alternateNames": [
+        "Alb. Dyhr"
+      ],
+      "roles": [
+        "handlande",
+        "redare"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Henrik Backman",
+      "alternateNames": [
+        "Henr. Backman"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Johan Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "M. Sandström",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Djupsten",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sandnabba",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "i Vexala",
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ]
+    },
+    {
+      "name": "Granviks skeppsvarv",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "Soklot",
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "address",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skonerten som dröjde",
+      "date": {
+        "year": 1814,
+        "month": 8,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Handlanden Kerrman stämde bönder från Soklot för att den beställda skonerten hade levererats ofullständig och försenad.",
+      "people": [
+        "Johan Jakob Kerrman",
+        "Eric Nybond",
+        "Johan Jacobsson Nybond",
+        "Anders Andersson Nybond"
+      ],
+      "places": [
+        "Soklot",
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Fregatten Ellida byggs",
+      "date": {
+        "year": 1828,
+        "circa": false
+      },
+      "description": "Fregattskeppet Ellida byggdes på Sandnabba i Vexala för Joh. Turdin.",
+      "people": [],
+      "places": [
+        "Sandnabba"
+      ]
+    },
+    {
+      "title": "Skonerten Ceres byggs",
+      "date": {
+        "year": 1849,
+        "circa": false
+      },
+      "description": "Skonerten Ceres byggdes för handlanden A. Dyhr på Granviks skeppsvarv i Soklot.",
+      "people": [
+        "A. Dyhr"
+      ],
+      "places": [
+        "Granviks skeppsvarv",
+        "Soklot"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "720d0b612b3e94927c71186ed1580621b665935a23dffab05cd28687d42188dd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

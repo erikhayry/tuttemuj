@@ -110,6 +110,11 @@
       "alternateNames": [
         "Rummelbacksbrunnen",
         "pumpen vid Rummelbacken"
+      ],
+      "uses": [
+        {
+          "use": "brunn"
+        }
       ]
     },
     {
@@ -142,7 +147,12 @@
     {
       "name": "Gunhild Hanséns matservering",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "matservering"
+        }
+      ]
     }
   ],
   "events": [
@@ -190,6 +200,63 @@
       "Rummelbacken"
     ]
   },
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Gunhild Hansén",
+      "place": "Gunhild Hanséns matservering",
+      "relation": "ran"
+    },
+    {
+      "person": "Anna-Lisa Lindfors",
+      "place": "Gunhild Hanséns matservering",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Mittersta Rummelbacksbrunnen"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Mittersta Rummelbacksbrunnen"
+      ],
+      "year": 1955
+    },
+    {
+      "image": 3,
+      "places": [
+        "Mittersta Rummelbacksbrunnen"
+      ],
+      "year": 1959
+    },
+    {
+      "image": 4,
+      "places": [
+        "Mittersta Rummelbacksbrunnen"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Mittersta Rummelbacksbrunnen",
+        "Remalskroken"
+      ],
+      "year": 2009
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-26T03:34:05.481Z"
+    }
+  ],
   "contentHash": "7e3cd92501307b117c2064ff1d397397eb7fbdd9dee2baadbb4da95781d1b35f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,226 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/fattregl.html",
+  "title": "Fattigvårdsreglementet 1853",
+  "summary": "Reglementet av 1853 gjorde fattigvården i Nykarleby till en kommunal angelägenhet med en styrelse, tre distrikt och avgifter för nästan alla över 15 år. Erik Birck redovisar taxeringsklasserna, styrelsens medlemmar och understöden fram till året före branden.",
+  "topics": [
+    "fattigvård",
+    "reglemente",
+    "skatter",
+    "understöd"
+  ],
+  "people": [
+    {
+      "name": "Christoffer Kullman",
+      "alternateNames": [
+        "Kristofer Kullman"
+      ],
+      "roles": [
+        "kyrkoherde",
+        "ordförande"
+      ]
+    },
+    {
+      "name": "A. W. Montin",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Jacob Blank",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "N. A. Bergsten",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "A. J. Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "M. Sandström",
+      "alternateNames": [],
+      "roles": [
+        "notarie"
+      ]
+    },
+    {
+      "name": "J. H. Forssén",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Henric Sund",
+      "alternateNames": [],
+      "roles": [
+        "hökare"
+      ]
+    },
+    {
+      "name": "Hans Henric Garbén",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Johan Lingonblad",
+      "alternateNames": [],
+      "roles": [
+        "distriktsuppsyningsman"
+      ]
+    },
+    {
+      "name": "Robert Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "distriktsuppsyningsman"
+      ]
+    },
+    {
+      "name": "Anna Greta Ollant",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Hannula",
+      "alternateNames": [],
+      "roles": [
+        "torpare"
+      ]
+    },
+    {
+      "name": "Anna Sanna Glansk",
+      "alternateNames": [],
+      "roles": [
+        "demoiselle"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5217598,
+        "lng": 22.5303558,
+        "match": "name",
+        "gazetteerName": "nykarleby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Reglementet granskas",
+      "date": {
+        "year": 1853,
+        "month": 10,
+        "day": 23,
+        "circa": false
+      },
+      "description": "Församlingen och fattigförsörjningskommittén i Nykarleby samlades för att granska ett nytt fattigvårdsreglemente, som kom att gälla till 1877.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Reglementet godkänns",
+      "date": {
+        "year": 1854,
+        "month": 3,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Guvernören godkände Nykarlebys nya fattigvårdsreglemente.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    },
+    {
+      "title": "Nödåret ökar behovet",
+      "date": {
+        "year": 1856,
+        "circa": false
+      },
+      "description": "Ett nödår ökade antalet fattiga, så att uttaxeringen för 1857 måste höjas till omkring 500 rubel.",
+      "people": [],
+      "places": [
+        "Nykarleby"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Hannula",
+      "place": "Smedsbacka",
+      "relation": "lived",
+      "startYear": 1855,
+      "endYear": 1855
+    }
+  ],
+  "images": [],
+  "contentHash": "a5f9ad29ec23b74502d08f0722b01bd250213f04380d43c5b2883c47cd5cc525",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:08:57.375Z"
+}

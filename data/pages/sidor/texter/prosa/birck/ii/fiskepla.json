@@ -1,0 +1,527 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/fiskepla.htm",
+  "title": "Fiskeplatser och fångstsätt",
+  "summary": "I Nykarlebys skärgård fiskade man från stugor på Furuskärshällan, Tornskär och Stubben, och i älven togs lake, lax, sik och nejonögon. Erik Birck skildrar fiskeåret, familjen Bomans arbete, strömmingshandeln med finnar och nätingsfisket i Nybroforsen.",
+  "topics": [
+    "fiske",
+    "skärgården",
+    "älven",
+    "släkten Boman",
+    "nejonögon",
+    "strömming"
+  ],
+  "people": [
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Gustaf Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare",
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Johan Jakob Boman",
+      "alternateNames": [
+        "Janne Boman"
+      ],
+      "deathYear": 1934,
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Hulda Sofia Höglund",
+      "alternateNames": [
+        "Hulda Boman"
+      ],
+      "deathYear": 1950,
+      "roles": []
+    },
+    {
+      "name": "Johan Ericsson Boman",
+      "alternateNames": [
+        "Åminne-Boman",
+        "Brännvins-Boman"
+      ],
+      "deathYear": 1914,
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Maja-Kajsa Styrmans",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Boman",
+      "alternateNames": [],
+      "deathYear": 1895,
+      "roles": [
+        "fiskare",
+        "båtbyggare"
+      ]
+    },
+    {
+      "name": "Erik Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Ester Sofia Boman",
+      "alternateNames": [
+        "Ester Sofia Forsbacka"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Rolf Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Emil Sjöroos",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Collander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Emilia Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Bergbom",
+      "alternateNames": [],
+      "roles": [
+        "assessor"
+      ]
+    },
+    {
+      "name": "Carl Gustaf Boman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. O. Olson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Finnhamn",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "Torsö, innanför Furuskärshällan",
+      "nameOrigin": "Namnet kommer troligen av att Lappoborna hade ett fiskeläge där."
+    },
+    {
+      "name": "Furuskärshällan",
+      "kind": "island",
+      "alternateNames": [
+        "Furuskärshällarna"
+      ],
+      "uses": [
+        {
+          "use": "fiskeläge"
+        }
+      ]
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [
+        "Torsö",
+        "Torsöholme"
+      ],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frillas berget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "vid Kuddnäs"
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Granskärssundet",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Majniemi",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "Lillalörn",
+      "description": "Udde med en fiskarstuga som Topelius hustru köpte 1855.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "address",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [
+        "Stora Alörn",
+        "Lilla Alörn",
+        "Lillalörn"
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lamalot",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "fiskeläge"
+        }
+      ]
+    },
+    {
+      "name": "Laxön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Loppan",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5189373,
+        "lng": 22.4200284,
+        "match": "name",
+        "gazetteerName": "loppan",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": [
+        "Kasgrundet",
+        "Båken"
+      ],
+      "uses": [
+        {
+          "use": "fiskeläge"
+        }
+      ]
+    },
+    {
+      "name": "Stubben",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "fiskeläge"
+        }
+      ]
+    },
+    {
+      "name": "Gåshällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "i åmynningen"
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Alisvajbäcken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Sandöbukten",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Herpmanssanden",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Hästbådan",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupstensfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Helsingkallan",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Källbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Stadsforsen"
+      ],
+      "uses": [
+        {
+          "use": "nätingsfiske"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nybron",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Grundön",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Tornskärsarrendet",
+      "date": {
+        "year": 1859,
+        "month": 5,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Fiskaren Matts Boman gav högsta budet i auktionen om att arrendera stadens fiskevatten.",
+      "people": [
+        "Matts Boman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Rik fångst vid jultid",
+      "date": {
+        "year": 1856,
+        "month": 12,
+        "circa": false
+      },
+      "description": "Fisket i Nykarleby var så rikt att även de fattigaste hade råd med färsk fisk till julen.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tornskär blir skattehemman",
+      "date": {
+        "year": 1956,
+        "circa": false
+      },
+      "description": "Hela Tornskär avskildes till fiskaren Erik Boman och hans hustru som ett nytt skattehemman.",
+      "people": [
+        "Erik Boman",
+        "Ester Sofia Boman"
+      ],
+      "places": [
+        "Tornskär"
+      ]
+    },
+    {
+      "title": "Olaglig sikfångst",
+      "date": {
+        "year": 1910,
+        "month": 10,
+        "circa": false
+      },
+      "description": "Flera fiskare och fiskargillets ordförande bötfälldes för att ha tagit säckvis med sik nedanför Nybron och Ragnörn.",
+      "people": [
+        "Carl Gustaf Boman",
+        "Johan Jakob Boman",
+        "K. O. Olson"
+      ],
+      "places": [
+        "Nybron",
+        "Ragnörn"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Fiskarkvinnorna går helt oskyldigt genom tullporten med en så full av byke, antagligen assessor Bergboms eget, och under kläderna ligger den stora laxen som tullkarlarna förgäves vaktar på.",
+    "reason": "En listig smugglarhistoria med tydlig scen och poäng, omgiven av flera fina skärgårdsanekdoter.",
+    "characters": [
+      "Johan Bergbom"
+    ],
+    "places": [
+      "Frillas berget"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Boman",
+      "place": "Källbacken",
+      "relation": "lived"
+    },
+    {
+      "person": "Gustaf Boman",
+      "place": "Källbacken",
+      "relation": "lived"
+    },
+    {
+      "person": "Johan Boman",
+      "place": "Högbacka",
+      "relation": "lived"
+    },
+    {
+      "person": "Matts Boman",
+      "place": "Tornskär",
+      "relation": "worked"
+    },
+    {
+      "person": "Erik Boman",
+      "place": "Tornskär",
+      "relation": "owned",
+      "startYear": 1956
+    },
+    {
+      "person": "Maria Emilia Topelius",
+      "place": "Majniemi",
+      "relation": "owned",
+      "startYear": 1855
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Tornskär"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 2,
+      "places": [
+        "Tornskär"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Tornskär"
+      ],
+      "year": 1973
+    },
+    {
+      "image": 4,
+      "places": [
+        "Nybroforsen"
+      ],
+      "year": 1902
+    }
+  ],
+  "contentHash": "b96d8a7e1e1d12b632ad89d5113dca4e29ec7a6542ea7178fef8bd2e7749f13e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-26T03:10:39.311Z"
+}
