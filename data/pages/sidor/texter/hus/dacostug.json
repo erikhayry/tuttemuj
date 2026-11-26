@@ -67,7 +67,15 @@
     {
       "name": "Gröna huset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52289328655638,
+        "lng": 22.531447179848815,
+        "match": "name",
+        "gazetteerName": "gröna huset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bergfeldtska gården",

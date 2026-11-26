@@ -99,7 +99,15 @@
       "kind": "street",
       "alternateNames": [
         "Östra Esplanad"
-      ]
+      ],
+      "geo": {
+        "lat": 63.52383125976564,
+        "lng": 22.531867828384666,
+        "match": "name",
+        "gazetteerName": "östra esplanaden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Västra Esplanaden",

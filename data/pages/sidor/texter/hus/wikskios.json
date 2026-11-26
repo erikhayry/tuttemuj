@@ -84,7 +84,15 @@
     {
       "name": "Wiks hotell",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5227237,
+        "lng": 22.5318378,
+        "match": "name",
+        "gazetteerName": "wiks hotell",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Djupsten",

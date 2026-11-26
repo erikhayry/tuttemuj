@@ -66,7 +66,15 @@
       "name": "Wiks hotell",
       "kind": "building",
       "alternateNames": [],
-      "description": "Hotell på Bankgatans vänstra sida."
+      "description": "Hotell på Bankgatans vänstra sida.",
+      "geo": {
+        "lat": 63.5227237,
+        "lng": 22.5318378,
+        "match": "name",
+        "gazetteerName": "wiks hotell",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Finnströms skrädderi",

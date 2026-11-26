@@ -94,7 +94,15 @@
       "name": "Herlers museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Huset där familjen Olson bodde efter flytten till staden."
+      "description": "Huset där familjen Olson bodde efter flytten till staden.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "herlers museum",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Källbacken",

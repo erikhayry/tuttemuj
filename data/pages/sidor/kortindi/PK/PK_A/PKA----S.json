@@ -29,12 +29,12 @@
         "Sollefteågatan"
       ],
       "geo": {
-        "lat": 63.52178359999999,
-        "lng": 22.5301266,
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
         "match": "name",
-        "gazetteerName": "sollefteågatan",
+        "gazetteerName": "köpmansgatan",
         "gazetteerKind": "street",
-        "source": "nkby-2018"
+        "source": "manual"
       }
     },
     {
@@ -66,7 +66,15 @@
     {
       "name": "Stadsbrunnen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52286476510718,
+        "lng": 22.52744791504833,
+        "match": "name",
+        "gazetteerName": "stadsbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

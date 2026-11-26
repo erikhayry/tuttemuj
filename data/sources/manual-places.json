@@ -2110,7 +2110,8 @@
     "kind": "building",
     "alternateNames": [
       "grönhuset"
-    ]
+    ],
+    "location": { "lat": 63.52289328655638, "lng": 22.531447179848815 }
   },
   {
     "name": "gröpmagasinet vid nykarleby regale bränneri",
@@ -2488,7 +2489,8 @@
   },
   {
     "name": "herlers museum",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.5272847, "lng": 22.5333886 }
   },
   {
     "name": "herlers mälteri",
@@ -3888,7 +3890,8 @@
   },
   {
     "name": "köpmansgatan",
-    "kind": "street"
+    "kind": "street",
+    "location": { "lat": 63.521850546282025, "lng": 22.53077032844419 }
   },
   {
     "name": "köttboden",
@@ -4067,7 +4070,8 @@
   },
   {
     "name": "liljedahls affärshus",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.522441186534955, "lng": 22.531521938766957 }
   },
   {
     "name": "liljeqvistska gården",
@@ -5380,7 +5384,8 @@
     "kind": "other",
     "alternateNames": [
       "nålören"
-    ]
+    ],
+    "location": { "lat": 63.542340705307474, "lng": 22.532501198257712 }
   },
   {
     "name": "nålörnsåkern",
@@ -6370,7 +6375,8 @@
     "kind": "building",
     "alternateNames": [
       "nykarleby sjukhus"
-    ]
+    ],
+    "location": { "lat": 63.52275674593732, "lng": 22.53856439306395 }
   },
   {
     "name": "sjöbloms gård",
@@ -6840,7 +6846,8 @@
   {
     "name": "stadsbrunnen",
     "kind": "landmark",
-    "note": "Town well from the 1840s, moved to the churchyard."
+    "note": "Town well from the 1840s, moved to the churchyard.",
+    "location": { "lat": 63.52286476510718, "lng": 22.52744791504833 }
   },
   {
     "name": "stadsbrunnshuset",
@@ -7595,6 +7602,11 @@
     "kind": "landmark"
   },
   {
+    "name": "tornskär",
+    "kind": "island",
+    "location": { "lat": 63.59797996305235, "lng": 22.334004107983414 }
+  },
+  {
     "name": "torp i forsby",
     "kind": "farm",
     "note": "Farm in Forsby."
@@ -8123,7 +8135,8 @@
   },
   {
     "name": "wiks hotell",
-    "kind": "building"
+    "kind": "building",
+    "location": { "lat": 63.5227237, "lng": 22.5318378 }
   },
   {
     "name": "wiks hörnet",
@@ -8339,7 +8352,8 @@
       "östra esplanad",
       "östra esplanadgatan",
       "östra esplanaden 11"
-    ]
+    ],
+    "location": { "lat": 63.52383125976564, "lng": 22.531867828384666 }
   },
   {
     "name": "östra gatan",

@@ -42,7 +42,15 @@
           "use": "fiske"
         }
       ],
-      "nameOrigin": "Namnet kommer av ett vitmålat sjömärke på norra udden som på avstånd kunde se ut som ett torn."
+      "nameOrigin": "Namnet kommer av ett vitmålat sjömärke på norra udden som på avstånd kunde se ut som ett torn.",
+      "geo": {
+        "lat": 63.59797996305235,
+        "lng": 22.334004107983414,
+        "match": "name",
+        "gazetteerName": "tornskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby hamn",

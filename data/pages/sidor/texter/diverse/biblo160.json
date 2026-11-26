@@ -70,7 +70,15 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Östra Esplanaden 11",
-      "description": "Topeliusesplanaden."
+      "description": "Topeliusesplanaden.",
+      "geo": {
+        "lat": 63.52383125976564,
+        "lng": 22.531867828384666,
+        "match": "address",
+        "gazetteerName": "östra esplanaden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Topeliusesplanaden 7",

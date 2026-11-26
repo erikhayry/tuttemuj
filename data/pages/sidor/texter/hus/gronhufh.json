@@ -98,7 +98,15 @@
       "alternateNames": [
         "Gröna huset"
       ],
-      "description": "Affärs- och bostadshus nordost om torget, byggt 1967 av Arne Jungerstam."
+      "description": "Affärs- och bostadshus nordost om torget, byggt 1967 av Arne Jungerstam.",
+      "geo": {
+        "lat": 63.52289328655638,
+        "lng": 22.531447179848815,
+        "match": "name",
+        "gazetteerName": "gröna huset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Torget",
@@ -170,7 +178,15 @@
     {
       "name": "Liljedahls affärshus",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522441186534955,
+        "lng": 22.531521938766957,
+        "match": "name",
+        "gazetteerName": "liljedahls affärshus",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Vattentornet",

@@ -104,7 +104,15 @@
         {
           "use": "museum"
         }
-      ]
+      ],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "herlers museum",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Kovjoki station",

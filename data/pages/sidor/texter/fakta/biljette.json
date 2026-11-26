@@ -35,7 +35,15 @@
       "name": "herlers museum",
       "kind": "building",
       "alternateNames": [],
-      "description": "Biljetterna såldes här."
+      "description": "Biljetterna såldes här.",
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "herlers museum",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

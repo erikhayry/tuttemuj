@@ -53,7 +53,15 @@
       "name": "Liljedahls affärshus",
       "kind": "building",
       "alternateNames": [],
-      "address": "vid korsningen Topeliusesplanaden-Bankgatan"
+      "address": "vid korsningen Topeliusesplanaden-Bankgatan",
+      "geo": {
+        "lat": 63.522441186534955,
+        "lng": 22.531521938766957,
+        "match": "name",
+        "gazetteerName": "liljedahls affärshus",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

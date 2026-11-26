@@ -49,7 +49,15 @@
       "name": "Östra Esplanadgatan",
       "kind": "street",
       "alternateNames": [],
-      "description": "Gårdar från norr till söder längs gatan syns i bilden."
+      "description": "Gårdar från norr till söder längs gatan syns i bilden.",
+      "geo": {
+        "lat": 63.52383125976564,
+        "lng": 22.531867828384666,
+        "match": "name",
+        "gazetteerName": "östra esplanaden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
     },
     {
       "name": "Andelsbankens hus",

@@ -20,7 +20,15 @@
       "name": "wiks hotell",
       "kind": "building",
       "alternateNames": [],
-      "description": "Hotellet som utfärdade räkningen."
+      "description": "Hotellet som utfärdade räkningen.",
+      "geo": {
+        "lat": 63.5227237,
+        "lng": 22.5318378,
+        "match": "name",
+        "gazetteerName": "wiks hotell",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

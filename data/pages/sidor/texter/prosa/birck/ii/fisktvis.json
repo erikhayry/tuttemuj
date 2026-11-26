@@ -98,7 +98,15 @@
       "kind": "island",
       "alternateNames": [
         "Båken"
-      ]
+      ],
+      "geo": {
+        "lat": 63.59797996305235,
+        "lng": 22.334004107983414,
+        "match": "name",
+        "gazetteerName": "tornskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Frösön",

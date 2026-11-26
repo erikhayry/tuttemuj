@@ -49,12 +49,28 @@
     {
       "name": "Liljedahls affärshus",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522441186534955,
+        "lng": 22.531521938766957,
+        "match": "name",
+        "gazetteerName": "liljedahls affärshus",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Wiks hotell",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5227237,
+        "lng": 22.5318378,
+        "match": "name",
+        "gazetteerName": "wiks hotell",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     },
     {
       "name": "Bankgatan",

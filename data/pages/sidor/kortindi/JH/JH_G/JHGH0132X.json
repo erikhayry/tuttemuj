@@ -13,7 +13,15 @@
       "name": "Stadsbrunnen",
       "kind": "landmark",
       "alternateNames": [],
-      "description": "På kyrktomtens nordöstra hörn."
+      "description": "På kyrktomtens nordöstra hörn.",
+      "geo": {
+        "lat": 63.52286476510718,
+        "lng": 22.52744791504833,
+        "match": "name",
+        "gazetteerName": "stadsbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Nykarleby kyrka",

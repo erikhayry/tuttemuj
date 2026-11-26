@@ -50,7 +50,15 @@
     {
       "name": "Herlers museum",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "herlers museum",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [

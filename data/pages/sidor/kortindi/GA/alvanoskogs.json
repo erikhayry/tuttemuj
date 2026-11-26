@@ -30,7 +30,15 @@
       "name": "Nålörn",
       "kind": "island",
       "alternateNames": [],
-      "description": "Segeljollen Älvan är av Nålörn."
+      "description": "Segeljollen Älvan är av Nålörn.",
+      "geo": {
+        "lat": 63.542340705307474,
+        "lng": 22.532501198257712,
+        "match": "name",
+        "gazetteerName": "nålörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
     },
     {
       "name": "Majniemi",

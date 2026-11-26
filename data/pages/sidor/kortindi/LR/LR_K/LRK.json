@@ -21,7 +21,15 @@
     {
       "name": "Sjukhuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52275674593732,
+        "lng": 22.53856439306395,
+        "match": "name",
+        "gazetteerName": "sjukhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
     }
   ],
   "events": [],

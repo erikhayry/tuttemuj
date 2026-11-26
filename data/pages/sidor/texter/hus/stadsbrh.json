@@ -33,7 +33,15 @@
     {
       "name": "Stadsbrunnen",
       "kind": "landmark",
-      "alternateNames": []
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52286476510718,
+        "lng": 22.52744791504833,
+        "match": "name",
+        "gazetteerName": "stadsbrunnen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
     },
     {
       "name": "Kyrkan",

@@ -17,7 +17,15 @@
       "alternateNames": [
         "Kasagrundsbåk"
       ],
-      "nameOrigin": "Kartan har ett äldre namn på ön, Kasagrundsbåk."
+      "nameOrigin": "Kartan har ett äldre namn på ön, Kasagrundsbåk.",
+      "geo": {
+        "lat": 63.59797996305235,
+        "lng": 22.334004107983414,
+        "match": "name",
+        "gazetteerName": "tornskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
     },
     {
       "name": "Markusholmen",
