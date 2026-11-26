@@ -3,11 +3,12 @@ import { Effect } from "effect";
 import { HttpApiBuilder } from "effect/http-api";
 import { CoordsApi } from "./api.ts";
 import { CoordsData } from "./data.ts";
+import { ignoreOutside, readIgnoredNames } from "./ignored-places.ts";
 import { readManualPlaces, saveLocation } from "./manual-places.ts";
 import { parseCoords } from "./parse-coords.ts";
 import { describePlace } from "./place.ts";
 
-/** Names located since the gazetteer was last built: they are in the manual file only. */
+/** Names with coordinates in the manual file. */
 const locatedByHand = async (dataDir: string) =>
   new Set(
     (await readManualPlaces(dataDir)).flatMap((p) => (p.location ? [normalizeName(p.name)] : [])),
@@ -28,8 +29,12 @@ export const CoordsHandlers = HttpApiBuilder.group(
         // `Effect.promise` wraps async code that is not expected to fail: a rejection becomes a
         // "defect", which the server answers with a 500.
         Effect.promise(async () => {
-          const located = await locatedByHand(data.dataDir);
-          const open = data.ranked.filter((p) => !located.has(p.name));
+          // Both files may have changed since the gazetteer was last built.
+          const [located, ignored] = await Promise.all([
+            locatedByHand(data.dataDir),
+            readIgnoredNames(data.dataDir),
+          ]);
+          const open = data.ranked.filter((p) => !located.has(p.name) && !ignored.has(p.name));
           const skipped = new Set(payload.skipped);
           const next = open.find((p) => !skipped.has(p.name));
           return { place: next ? describePlace(data, next) : null, remaining: open.length };
@@ -52,6 +57,19 @@ export const CoordsHandlers = HttpApiBuilder.group(
           return saved
             ? { result: "saved" as const, name: entry.name, location: point.data }
             : rejected("already-located");
+        }),
+      )
+      .handle("ignore", ({ payload }) =>
+        Effect.promise(async () => {
+          const entry = data.entries.get(payload.name);
+          if (!entry) throw new Error(`Unknown place: ${payload.name}`);
+          // The other names too, so `places:unmatched` does not report them as new places. A name
+          // that is also a place of its own is left alone.
+          const others = (entry.alternateNames ?? []).filter(
+            (n) => !data.entries.has(normalizeName(n)),
+          );
+          await ignoreOutside(data.dataDir, [entry.name, ...others]);
+          return { name: entry.name };
         }),
       );
   }),

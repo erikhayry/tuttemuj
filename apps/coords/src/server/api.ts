@@ -1,4 +1,6 @@
 import {
+  CoordsIgnoreRequest,
+  CoordsIgnoreResponse,
   CoordsNextRequest,
   CoordsNextResponse,
   CoordsSaveRequest,
@@ -16,6 +18,10 @@ export class CoordsGroup extends HttpApiGroup.make("coords").add(
   HttpApiEndpoint.post("save", "/save", {
     payload: CoordsSaveRequest,
     success: CoordsSaveResponse,
+  }),
+  HttpApiEndpoint.post("ignore", "/ignore", {
+    payload: CoordsIgnoreRequest,
+    success: CoordsIgnoreResponse,
   }),
 ) {}
 
