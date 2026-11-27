@@ -1,0 +1,212 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/affarsli.htm",
+  "title": "Affärslivet från 1930-talet till vår tid",
+  "summary": "Erik Birck räknar upp Nykarlebys butiker, hantverkare och småindustrier från 1930 till 1975, från urmakare och kaféer till minkfarmar och verkstäder. Länge rådde stagnation, tills kraftverket och pälsdjursaveln förbättrade ekonomin.",
+  "topics": [
+    "affärsliv",
+    "butiker",
+    "hantverkare",
+    "industri",
+    "depressionen"
+  ],
+  "people": [
+    {
+      "name": "Hjalmar Lahtinen",
+      "alternateNames": [
+        "H. Lahtinen"
+      ],
+      "roles": [
+        "skräddare"
+      ]
+    },
+    {
+      "name": "Aug. Casén",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare"
+      ]
+    },
+    {
+      "name": "O. Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "A.J. Blomström",
+      "alternateNames": [],
+      "roles": [
+        "urmakare"
+      ]
+    },
+    {
+      "name": "Karl Granberg",
+      "alternateNames": [],
+      "roles": [
+        "bagare"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "bagare"
+      ]
+    },
+    {
+      "name": "Otto Hansén",
+      "alternateNames": [],
+      "roles": [
+        "kaféägare",
+        "målare"
+      ]
+    },
+    {
+      "name": "E. Ström",
+      "alternateNames": [],
+      "roles": [
+        "bryggeriägare"
+      ]
+    },
+    {
+      "name": "K.J. Jouper",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "K.J. Pensar",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Ingmar Jouper",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Armas Mäenpää",
+      "alternateNames": [],
+      "roles": [
+        "gjutare"
+      ]
+    },
+    {
+      "name": "R. Schauman",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Wiks resandehem",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "resandehem"
+        },
+        {
+          "use": "hotell"
+        }
+      ]
+    },
+    {
+      "name": "Haralds såg",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg",
+          "startYear": 1901
+        }
+      ]
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nödhjälpsarbeten under depressionen",
+      "date": {
+        "year": 1936,
+        "endYear": 1937,
+        "circa": false
+      },
+      "description": "Arbetet var ännu knappt i Nykarleby och omkring 20 personer fick nödhjälpsarbete.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Snickerifabriken Sowo grundas",
+      "date": {
+        "year": 1945,
+        "circa": false
+      },
+      "description": "Snickerifabriken Sowo grundades vid Seminariegatan i Nykarleby.",
+      "people": [
+        "R. Schauman"
+      ],
+      "places": [
+        "Seminariegatan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "d6b74589a4118457738b7695d9223ee63cf3c5f3e58221ecbe22d69fdcb2ae6d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,314 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/busstaxi.htm",
+  "title": "Busstationen",
+  "summary": "Nykarlebys bussresenärer väntade i nära 30 år ute i alla väder eller i tillfälliga rum, innan busstationen vid torget invigdes den 6 januari 1954. Vid grundgrävningen kom gravar från den gamla begravningsplatsen i dagen.",
+  "topics": [
+    "busstation",
+    "busstrafik",
+    "torget",
+    "begravningsplats",
+    "kafé"
+  ],
+  "people": [
+    {
+      "name": "Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "överlärare"
+      ]
+    },
+    {
+      "name": "Arvid Haldin",
+      "alternateNames": [
+        "dir. Haldin"
+      ],
+      "roles": [
+        "direktör"
+      ]
+    },
+    {
+      "name": "K.J. Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Anders Nordström",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Axel Pensar",
+      "alternateNames": [],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "Cindy Blöth",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Neskar Ahmed",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Wikska hörnet",
+      "kind": "other",
+      "alternateNames": [
+        "Grönhuset",
+        "Wiks hörn"
+      ],
+      "uses": [
+        {
+          "use": "busshållplats"
+        }
+      ],
+      "geo": {
+        "lat": 63.52289328655638,
+        "lng": 22.531447179848815,
+        "match": "name",
+        "gazetteerName": "gröna huset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Laqvists kafé",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 18 vid Köpmansgatan (nuv. Sollefteågatan)",
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ]
+    },
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "köpmansgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Björkvalls hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt 59, hörnet av Borgaregatan och Östra Esplanadgatan",
+      "uses": [
+        {
+          "use": "busstation"
+        }
+      ]
+    },
+    {
+      "name": "Busstationen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Västra Esplanadgatan vid torgets östra sida",
+      "uses": [
+        {
+          "use": "busstation",
+          "startYear": 1954
+        },
+        {
+          "use": "kafé"
+        }
+      ],
+      "geo": {
+        "lat": 63.52222387418698,
+        "lng": 22.53014916884063,
+        "match": "name",
+        "gazetteerName": "busstationen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "begravningsplats",
+          "endYear": 1833
+        }
+      ],
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gula stugan",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Kuddnäs"
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gamla fryseriet",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Åminnevägen"
+    }
+  ],
+  "events": [
+    {
+      "title": "Busstationen invigs",
+      "date": {
+        "year": 1954,
+        "month": 1,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Nykarlebys nya busstation vid torget invigdes, ritad av arkitekt K.J. Ahlskog och byggd av Bröderna Eng.",
+      "people": [
+        "K.J. Ahlskog",
+        "Arvid Haldin"
+      ],
+      "places": [
+        "Busstationen"
+      ]
+    },
+    {
+      "title": "Grillen Cindy's Burgers öppnar",
+      "date": {
+        "year": 2014,
+        "circa": false
+      },
+      "description": "Grillen Cindy's Burgers etablerades i före detta busstationen och verkade till 2017.",
+      "people": [
+        "Cindy Blöth"
+      ],
+      "places": [
+        "Busstationen"
+      ]
+    },
+    {
+      "title": "Scandic burger & grill öppnar",
+      "date": {
+        "year": 2017,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Neskar Ahmed öppnade Scandic burger & grill i före detta busstationen.",
+      "people": [
+        "Neskar Ahmed"
+      ],
+      "places": [
+        "Busstationen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Cindy Blöth",
+      "place": "Busstationen",
+      "relation": "ran",
+      "startYear": 2014,
+      "endYear": 2017
+    },
+    {
+      "person": "Neskar Ahmed",
+      "place": "Busstationen",
+      "relation": "ran",
+      "startYear": 2017
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Busstationen"
+      ],
+      "year": 1953
+    },
+    {
+      "image": 2,
+      "places": [
+        "Busstationen"
+      ],
+      "year": 2012
+    },
+    {
+      "image": 3,
+      "places": [
+        "Busstationen"
+      ],
+      "year": 2023
+    }
+  ],
+  "contentHash": "1b2709127bbb70336aeb00dbf507be83b28cb172070ac1f4919e5946ae9a3ce0",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bircksbastu.html",
+  "title": "Bircks bastu",
+  "summary": "Sidan har ingen egen text utöver ett fotografi av Holger Haglund som visar Bircks bastu på älvstranden nedanför Köttkontrollen.",
+  "topics": [
+    "bastu",
+    "älvstranden",
+    "foto"
+  ],
+  "people": [
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bircks bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på älvstranden nedanför Köttkontrollen",
+      "uses": [
+        {
+          "use": "bastu"
+        }
+      ]
+    },
+    {
+      "name": "Köttkontrollen",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bircks bastu"
+      ]
+    }
+  ],
+  "contentHash": "fb1a2a521817139b0dc3f75fd10d552d12e43a6cd7d945e21aafaf42f829f080",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

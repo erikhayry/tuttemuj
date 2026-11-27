@@ -1,0 +1,317 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/biografe.htm",
+  "title": "Levande bilder gör sitt inträde",
+  "summary": "I oktober 1908 såg Nykarlebyborna för första gången ”levande bilder”, när bröderna Holmströms Sagoland Biograf hade premiär på rådhuset. Fast bio kom 1921 vid Karleborgsgatan, och senare drev Reino Tallbäck Bio Scala.",
+  "topics": [
+    "biograf",
+    "film",
+    "nöjen",
+    "Bio Scala",
+    "centralantenn"
+  ],
+  "people": [
+    {
+      "name": "Bröderna Holmström",
+      "alternateNames": [],
+      "roles": [
+        "biografägare"
+      ]
+    },
+    {
+      "name": "Alex. Anttila",
+      "alternateNames": [],
+      "roles": [
+        "biografägare"
+      ]
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Reino Tallbäck",
+      "alternateNames": [],
+      "roles": [
+        "biografägare"
+      ]
+    },
+    {
+      "name": "Runar Bäck",
+      "alternateNames": [],
+      "roles": [
+        "biografägare"
+      ]
+    },
+    {
+      "name": "Carl Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "polismästare"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Arna Brännkärr",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "biograf",
+          "startYear": 1908,
+          "endYear": 1908
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Finska arbetarföreningens hus",
+      "kind": "building",
+      "alternateNames": [
+        "Ringska gården",
+        "Karleborg"
+      ],
+      "address": "Karleborgsgatan 1",
+      "uses": [
+        {
+          "use": "biograf",
+          "startYear": 1921
+        }
+      ],
+      "geo": {
+        "lat": 63.5198641,
+        "lng": 22.5342084,
+        "match": "address",
+        "gazetteerName": "karleborgsgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Karleborgsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "karleborgsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bio Scala",
+      "kind": "building",
+      "alternateNames": [
+        "Kulturhuset Scala"
+      ],
+      "uses": [
+        {
+          "use": "biograf",
+          "startYear": 1936
+        }
+      ]
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52368880279052,
+        "lng": 22.530872162678012,
+        "match": "name",
+        "gazetteerName": "samskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Hanséns café",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "mitt emot församlingshemmet",
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ],
+      "geo": {
+        "lat": 63.522137983947204,
+        "lng": 22.534487562964966,
+        "match": "name",
+        "gazetteerName": "hanséns café",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjokkvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första filmvisningen",
+      "date": {
+        "year": 1908,
+        "month": 10,
+        "circa": false
+      },
+      "description": "Sagoland Biograf hade premiärförevisning av levande bilder på rådhuset i Nykarleby.",
+      "people": [
+        "Bröderna Holmström"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Tältbio på torget",
+      "date": {
+        "year": 1910,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Elektro Biograf visade film i ett stort tält på torget.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Fast biograf öppnar",
+      "date": {
+        "year": 1921,
+        "month": 12,
+        "circa": false
+      },
+      "description": "Staden fick en fast biografteater i finska arbetarföreningens hus vid Karleborgsgatan.",
+      "people": [
+        "Alex. Anttila"
+      ],
+      "places": [
+        "Finska arbetarföreningens hus"
+      ]
+    },
+    {
+      "title": "Reino Tallbäck köper biografen",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "description": "Reino Tallbäck köpte biografen, byggde om huset och drev den under namnet Bio Scala.",
+      "people": [
+        "Reino Tallbäck"
+      ],
+      "places": [
+        "Bio Scala"
+      ]
+    },
+    {
+      "title": "Centralantenn byggs",
+      "date": {
+        "year": 1969,
+        "circa": false
+      },
+      "description": "Ett centralantennandelslag bildades i Nykarleby med polismästare Carl Kronqvist som drivande kraft.",
+      "people": [
+        "Carl Kronqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Alex. Anttila",
+      "place": "Finska arbetarföreningens hus",
+      "relation": "ran",
+      "startYear": 1921,
+      "endYear": 1930
+    },
+    {
+      "person": "Reino Tallbäck",
+      "place": "Bio Scala",
+      "relation": "owned",
+      "startYear": 1936
+    },
+    {
+      "person": "Reino Tallbäck",
+      "place": "Bio Scala",
+      "relation": "ran",
+      "startYear": 1936
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bio Scala"
+      ]
+    }
+  ],
+  "contentHash": "a2c5f3b6a14a07333fa1de0f688d601ec14e297b73cbf61071de640ae79f10d3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

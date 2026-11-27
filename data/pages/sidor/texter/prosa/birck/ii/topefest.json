@@ -1,0 +1,195 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/topefest.htm",
+  "title": "Topeliusfester på 1860- och 1870-talet",
+  "summary": "När Zacharias Topelius fyllde 50 år 1868 firade Nykarleby honom med tal, sång, skådespel och dans i det gamla röda skolhuset. Vid en senare fest brast ”jungfru Susanna” ut i skratt för öppen ridå och höll på att få alla med sig.",
+  "topics": [
+    "Topelius",
+    "fester",
+    "amatörteater",
+    "sångförening"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": [
+        "författare",
+        "professor"
+      ]
+    },
+    {
+      "name": "Olivia Forsius",
+      "alternateNames": [],
+      "roles": [
+        "doktorinna"
+      ]
+    },
+    {
+      "name": "Konon Falck",
+      "alternateNames": [],
+      "roles": [
+        "student",
+        "körledare"
+      ]
+    },
+    {
+      "name": "Dr Forsius",
+      "alternateNames": [],
+      "roles": [
+        "läkare"
+      ]
+    },
+    {
+      "name": "Hanna Sarlin",
+      "alternateNames": [
+        "Hanna Sundström"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Lotta Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Manne Appelberg",
+      "alternateNames": [],
+      "roles": [
+        "student"
+      ]
+    },
+    {
+      "name": "Julius Sandström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Majken Sandström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hanna Forssén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lina Kjellman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lydia Calonius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Frans Dyhr",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lotte Dyhr",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mimmi Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alexandra Falck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla röda skolhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Topeliusfesterna hölls i den lilla salen.",
+      "uses": [
+        {
+          "use": "skola"
+        },
+        {
+          "use": "festlokal"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius 50-årsfest",
+      "date": {
+        "year": 1868,
+        "month": 1,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Nykarleby firade Topelius 50-årsdag med tal, sång, skådespel och dans i det gamla röda skolhuset.",
+      "people": [
+        "Zacharias Topelius",
+        "Olivia Forsius",
+        "Konon Falck"
+      ],
+      "places": [
+        "Gamla röda skolhuset"
+      ]
+    },
+    {
+      "title": "Andra Topeliussoarén",
+      "date": {
+        "year": 1871,
+        "month": 1,
+        "day": 14,
+        "circa": false,
+        "text": "den 14 jan. 1871 eller möjligen den 30 dec. 1870"
+      },
+      "description": "En andra soaré till Topelius ära hölls i den gamla lilla skolsalen i anledning av hans silverbröllopsdag.",
+      "people": [],
+      "places": [
+        "Gamla röda skolhuset"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Ridån ska just gå upp för levande porträtt när någon skyndar på ”jungfru Susanna” och hon får ett skrattanfall på öppen scen. Porträtten börjar rycka i ansiktet, tills ”hennes nåd” räddar kvällen med ett skarpt tillrop från sin ram.",
+    "reason": "En komisk scen med tydlig upptrappning, replikbyte och räddning i sista stund.",
+    "characters": [
+      "Hanna Sarlin",
+      "Lotta Lindqvist",
+      "Frans Dyhr",
+      "Majken Sandström"
+    ],
+    "places": [
+      "Gamla röda skolhuset"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "d0d94b432426ccd32c14aa42ec0c8981fd180d7ce35a2b67dc0b28e9dab2d84b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

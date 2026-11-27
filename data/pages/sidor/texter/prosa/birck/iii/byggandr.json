@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/byggandr.htm",
+  "title": "Byggnadsordningen ändras",
+  "summary": "Nykarlebyborna ville mjuka upp stadens stränga byggregler: förbudet 1877 mot pärttak väckte motstånd och eldstäder på vinden efterfrågades. Ett ändringsförslag antogs av fullmäktige 1893.",
+  "topics": [
+    "byggnadsordning",
+    "pärttak",
+    "eldstäder",
+    "bostadsbrist"
+  ],
+  "people": [
+    {
+      "name": "J.A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Oskar Lindbohm",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lindbohms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Falcks gård",
+        "Övergaards gård",
+        "Sjöskogs gård"
+      ],
+      "address": "tomt nr 117 vid Westra Långgatan, senare Seminariegatan"
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [
+        "Westra Långgatan"
+      ],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Pärttak inskränks",
+      "date": {
+        "year": 1877,
+        "month": 1,
+        "day": 16,
+        "circa": false
+      },
+      "description": "En kungörelse inskränkte rätten att täcka hus i Nykarleby med pärtor.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ändrad byggnadsordning antas",
+      "date": {
+        "year": 1893,
+        "month": 3,
+        "day": 13,
+        "circa": false
+      },
+      "description": "Nykarlebys stadsfullmäktige antog förslaget att ändra byggnadsordningen så att bland annat eldstäder kunde tillåtas i vindsrum.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Oskar Lindbohm",
+      "place": "Lindbohms gård",
+      "relation": "owned",
+      "startYear": 1867
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Lindbohms gård",
+        "Seminariegatan"
+      ],
+      "year": 1880
+    }
+  ],
+  "contentHash": "5a7041b8c9576aa782edd2890d5bb2fbf0af1ddd70c59cb2bdda371bb3b11e2c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

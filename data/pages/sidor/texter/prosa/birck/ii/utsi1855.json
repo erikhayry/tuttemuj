@@ -1,0 +1,192 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/utsi1855.htm",
+  "title": "Utsikt över staden år 1855",
+  "summary": "Läraren Edvin Avellan beskrev 1855, några år före branden, hur Nykarleby såg ut från den stora bron: björkklädda älvbranter, Kuddnäs vita hus, Juthbacka och träkyrkan med sin tupp. Gatorna var smala som gränder och stenlagda med vassa stenar.",
+  "topics": [
+    "stadsbild",
+    "före branden",
+    "brevskildring",
+    "älven"
+  ],
+  "people": [
+    {
+      "name": "Edvin Avellan",
+      "alternateNames": [],
+      "birthYear": 1830,
+      "deathYear": 1912,
+      "roles": [
+        "kollega vid Wasa trivialskola"
+      ]
+    },
+    {
+      "name": "Gustaf Ad. Avellan",
+      "alternateNames": [],
+      "roles": [
+        "sekreterare"
+      ]
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "häradsskrivare"
+      ]
+    },
+    {
+      "name": "Benzelstjerna",
+      "alternateNames": [],
+      "roles": [
+        "apotekerska"
+      ]
+    },
+    {
+      "name": "J. Knutson",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Emilie Topelius",
+      "alternateNames": [],
+      "roles": [
+        "tecknare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Bro med stenkistor, uppförd av strömrensningskåren 1817.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Vitt stenhus på östra älvstranden där Topelius föddes.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Korskyrka av trä.",
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52235437065672,
+        "lng": 22.526422516825875,
+        "match": "name",
+        "gazetteerName": "kyrkotorget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stora bron byggs",
+      "date": {
+        "year": 1817,
+        "circa": false
+      },
+      "description": "Strömrensningskåren byggde 1817 den stora bron med stenkistor över älven i Nykarleby.",
+      "people": [],
+      "places": [
+        "Stora bron"
+      ]
+    },
+    {
+      "title": "Avellan beskriver staden",
+      "date": {
+        "year": 1855,
+        "month": 9,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Läraren Edvin Avellan skildrade i ett brev till sin far utsikten över Nykarleby kort efter ankomsten.",
+      "people": [
+        "Edvin Avellan"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Zachris Topelius",
+      "place": "Kuddnäs",
+      "relation": "born"
+    },
+    {
+      "person": "Kjellman",
+      "place": "Juthbacka",
+      "relation": "owned",
+      "startYear": 1855,
+      "endYear": 1855
+    }
+  ],
+  "images": [],
+  "contentHash": "6417c1bf723436419179b07cda6167c6268065c1ac67059f395803bce3c7edcd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

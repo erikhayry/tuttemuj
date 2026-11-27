@@ -1,0 +1,142 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bassin.htm",
+  "title": "En eldares hågkomster",
+  "summary": "Skolrådet J.L. Birck arbetade som 15-åring som lokeldare på Nykarlebybanan och mindes slitet. Sommaren 1901 eldade man med tjärig ved från Stora brons rivna brolock, och vintertid kunde snöstormar stoppa tåget i drivorna.",
+  "topics": [
+    "järnväg",
+    "lokeldare",
+    "tåg",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "J.L. Birck",
+      "alternateNames": [
+        "J. L. Birck"
+      ],
+      "roles": [
+        "skolråd",
+        "lokeldare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Storbron",
+      "description": "En anhalt för tåget låg intill.",
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smaldöraboden",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "i gamla skolhuset vid Kyrkogatan",
+      "description": "En anhalt för tåget låg intill."
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Eldning med gamla brolocket",
+      "date": {
+        "year": 1901,
+        "circa": false,
+        "text": "sommaren 1901"
+      },
+      "description": "Nykarlebytåget eldades med ved från Stora brons rivna brolock, vilket slaggade igen lokets roster.",
+      "people": [
+        "J.L. Birck"
+      ],
+      "places": [
+        "Stora bron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Femtonårige eldaren matar loket med tjärig, grusig brovirke tills ”Nykarlebybässen” slaggar igen och måste mejslas ren. På vintern kör tåget fast i drivorna, konduktören pulsar iväg med postsäcken och pojken gräver i timmar.",
+    "reason": "En ung huvudperson, ett egensinnigt lok och tydliga missöden sommar som vinter.",
+    "characters": [
+      "J.L. Birck"
+    ],
+    "places": [
+      "Stora bron",
+      "Kovjoki"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "c98f2e38106fbd78c005f7ae86e1b5a7a78f54726f66f0466b7208696c200c4f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,207 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/tjarhiss.htm",
+  "title": "Rådman Lindqvists tjärhiss och repslagarbanan",
+  "summary": "Vid Gamla hamnen lät rådman Isak Lindqvist bygga ett hisstorn som sänkte tjärtunnor ner till lastbåtarna. Norr om Kyrkotorget spann repslagare Matts Schjoman sina trossar längs Östra gatan, där träarmar i husknutarna höll repet uppe.",
+  "topics": [
+    "tjärhandel",
+    "hamn",
+    "repslagare",
+    "hantverk"
+  ],
+  "people": [
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Schjoman",
+      "alternateNames": [],
+      "birthYear": 1776,
+      "deathYear": 1837,
+      "roles": [
+        "repslagare"
+      ]
+    },
+    {
+      "name": "Hans Schjoman",
+      "alternateNames": [],
+      "roles": [
+        "repslagare"
+      ]
+    },
+    {
+      "name": "Maria Hägglin",
+      "alternateNames": [
+        "Maria Schjoman"
+      ],
+      "birthYear": 1780,
+      "deathYear": 1858,
+      "roles": [
+        "repslagaränka"
+      ]
+    },
+    {
+      "name": "Johan Schjoman",
+      "alternateNames": [],
+      "birthYear": 1779,
+      "deathYear": 1850,
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Kristina Hägglin",
+      "alternateNames": [],
+      "deathYear": 1861,
+      "roles": []
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "berättare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Hisstornet",
+      "kind": "building",
+      "alternateNames": [
+        "Tjärhissen"
+      ],
+      "address": "vid Gamla hamnen",
+      "uses": [
+        {
+          "use": "tjärhiss"
+        }
+      ]
+    },
+    {
+      "name": "Gamla hamnen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Repslagarbanan",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "norr om Kyrkotorget bakom stadens spruthus",
+      "uses": [
+        {
+          "use": "repslageri"
+        }
+      ]
+    },
+    {
+      "name": "Kyrkotorget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52235437065672,
+        "lng": 22.526422516825875,
+        "match": "name",
+        "gazetteerName": "kyrkotorget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 69",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Östra gatan"
+    },
+    {
+      "name": "Djupstensfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58629777431156,
+        "lng": 22.447330826826224,
+        "match": "name",
+        "gazetteerName": "alörsfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Matts Schjoman blir borgare",
+      "date": {
+        "year": 1808,
+        "month": 10,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Repslagargesällen Matts Schjoman vann burskap i Nykarleby och drev sedan repslageri där.",
+      "people": [
+        "Matts Schjoman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Repslageriet upphör",
+      "date": {
+        "year": 1846,
+        "circa": false
+      },
+      "description": "Maria Schjoman, som fortsatt makens repslagarhantverk, sade upp det 1846.",
+      "people": [
+        "Maria Hägglin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Schjoman",
+      "place": "Gården nr 69",
+      "relation": "owned"
+    },
+    {
+      "person": "Matts Schjoman",
+      "place": "Repslagarbanan",
+      "relation": "ran"
+    },
+    {
+      "person": "Maria Hägglin",
+      "place": "Repslagarbanan",
+      "relation": "ran",
+      "endYear": 1846
+    },
+    {
+      "person": "Isak Lindqvist",
+      "place": "Hisstornet",
+      "relation": "built"
+    }
+  ],
+  "images": [],
+  "contentHash": "59764ac6035d2a25db9b64ddd1236d368acf737cb2cda5e4d56653eb996353db",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

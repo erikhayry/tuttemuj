@@ -1,0 +1,382 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/cykobil.htm",
+  "title": "Kommunikationerna förbättras: cykeln och biltrafiken",
+  "summary": "Den första bilen rullade in i Nykarleby den 23 april 1907 och väckte stor uppmärksamhet. Erik Birck följer utvecklingen från Gustaf Hedströms velociped 1882 till Joel Lillqvists taxi, bensinstationer och de första busslinjerna.",
+  "topics": [
+    "bilar",
+    "cykel",
+    "taxi",
+    "busstrafik",
+    "bensinstation"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Ramstedt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Artur Eklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [
+        "Nessler"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Anders Fors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Lillqvist",
+      "alternateNames": [],
+      "roles": [
+        "taxiägare"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Wikman",
+      "alternateNames": [],
+      "roles": [
+        "forman"
+      ]
+    },
+    {
+      "name": "Joel Ahlström",
+      "alternateNames": [],
+      "birthYear": 1870,
+      "deathYear": 1953,
+      "roles": [
+        "postiljon"
+      ]
+    },
+    {
+      "name": "Karl Joel Ahlström",
+      "alternateNames": [],
+      "birthYear": 1912,
+      "deathYear": 1967,
+      "roles": [
+        "postförare"
+      ]
+    },
+    {
+      "name": "W. Svanbäck",
+      "alternateNames": [],
+      "roles": [
+        "taxiägare"
+      ]
+    },
+    {
+      "name": "Alfred Sund",
+      "alternateNames": [],
+      "roles": [
+        "forman"
+      ]
+    },
+    {
+      "name": "Aina Sund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Holger Sund",
+      "alternateNames": [],
+      "roles": [
+        "bensinstationsinnehavare"
+      ]
+    },
+    {
+      "name": "Arvid Haldin",
+      "alternateNames": [],
+      "roles": [
+        "bussägare"
+      ]
+    },
+    {
+      "name": "Ida Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Kurre",
+      "alternateNames": [],
+      "roles": [
+        "krönikör"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthas",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Alfred Sunds gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "invid norra tullen (tomt 219)"
+    },
+    {
+      "name": "Gården på Gustav Adolfsgatan 44",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 44",
+      "geo": {
+        "lat": 63.5270275,
+        "lng": 22.5350226,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 44",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gustaf Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Gustav Adolfsgatan"
+      ],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52178359999999,
+        "lng": 22.5301266,
+        "match": "name",
+        "gazetteerName": "sollefteågatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Esso-stationen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 18 vid Sollefteågatan",
+      "uses": [
+        {
+          "use": "bensinstation"
+        }
+      ]
+    },
+    {
+      "name": "TB-stationen",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "hörnet av Sollefteågatan och Gustaf Adolfsgatan",
+      "uses": [
+        {
+          "use": "bensinstation"
+        }
+      ]
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första velocipeden",
+      "date": {
+        "year": 1882,
+        "circa": false
+      },
+      "description": "Gustaf Hedström skaffade som första i Nykarleby en velociped.",
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Första bilen i staden",
+      "date": {
+        "year": 1907,
+        "month": 4,
+        "day": 23,
+        "circa": false
+      },
+      "description": "Den första bilen visade sig i Nykarleby, körd av två herrar från Jakobstad.",
+      "people": [
+        "Holger Ramstedt",
+        "Artur Eklund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadens första taxibil",
+      "date": {
+        "year": 1913,
+        "circa": false
+      },
+      "description": "Joel Lillqvist skaffade Nykarlebys första automobil för taxitrafik och fick stadens första körkort.",
+      "people": [
+        "Joel Lillqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Regelbunden biltrafik till Vasa",
+      "date": {
+        "year": 1914,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Joel Lillqvist öppnade den första regelbundna biltrafiken mellan Nykarleby och Vasa.",
+      "people": [
+        "Joel Lillqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Haldins buss börjar trafikera",
+      "date": {
+        "year": 1924,
+        "month": 7,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Arvid Haldins buss började trafikera linjen Jakobstad–Nykarleby–Vasa.",
+      "people": [
+        "Arvid Haldin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En vårdag 1907 puttrar den första bilen in i staden efter nästan två timmars färd på usel väg bland skenande hästar, och hela Nykarleby samlas för att glo på vidundret.",
+    "reason": "Mötet mellan häststaden och den nya maskinen ger fin visuell komik.",
+    "characters": [
+      "Holger Ramstedt",
+      "Artur Eklund"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Alfred Sund",
+      "place": "Gården på Gustav Adolfsgatan 44",
+      "relation": "built"
+    },
+    {
+      "person": "Holger Sund",
+      "place": "TB-stationen",
+      "relation": "ran",
+      "startYear": 1975,
+      "endYear": 1975
+    }
+  ],
+  "images": [
+    {
+      "image": 4,
+      "places": [
+        "Bankgatan"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [],
+      "year": 1934
+    },
+    {
+      "image": 3,
+      "places": [],
+      "year": 1924
+    }
+  ],
+  "contentHash": "581d431123f8abd1165b98ab2811248b5e5093568c4f20ef0c32e5779036710e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

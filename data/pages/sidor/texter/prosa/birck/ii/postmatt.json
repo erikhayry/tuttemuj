@@ -1,0 +1,183 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/postmatt.htm",
+  "title": "Post-Matti",
+  "summary": "Postföraren Matts Johansson, ”Post-Matti”, född 1851, körde posten till Tervajoki med egna hästar, revolver och en stor klocka på skakeln. Han köpte mamsell Glansks stuga på Frillan och fortsatte tills smalspåret kom 1899.",
+  "topics": [
+    "post",
+    "postförare",
+    "personhistoria",
+    "hästar"
+  ],
+  "people": [
+    {
+      "name": "Matts Johansson",
+      "alternateNames": [
+        "Post-Matti",
+        "Ojanperä"
+      ],
+      "birthYear": 1851,
+      "deathYear": 1901,
+      "roles": [
+        "postförare"
+      ]
+    },
+    {
+      "name": "Sundberg",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Lovisa Bäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Glansk",
+      "alternateNames": [
+        "Anna-Sanna Glansk",
+        "mamsell Glansk"
+      ],
+      "roles": [
+        "försäljare"
+      ]
+    },
+    {
+      "name": "Matts Elis Johansson",
+      "alternateNames": [
+        "Glanskas-Matt"
+      ],
+      "birthYear": 1888,
+      "deathYear": 1962,
+      "roles": [
+        "folkskollärare",
+        "director cantus"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mamsell Glansks stuga",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Frillan",
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "address",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Frillan",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygård",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Här hade smeden Sundberg Matts Johansson hos sig.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gravgårdslindan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Arrenderad betesmark."
+    },
+    {
+      "name": "Kamplindan",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Arrenderad betesmark."
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Smalspåriga järnvägen tar över posten",
+      "date": {
+        "year": 1899,
+        "circa": false
+      },
+      "description": "Postförare Matts Johansson körde posten till dess att den smalspåriga järnvägen kom.",
+      "people": [
+        "Matts Johansson"
+      ],
+      "places": []
+    },
+    {
+      "title": "Post-Matti dör",
+      "date": {
+        "year": 1901,
+        "month": 8,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Postföraren Matts Johansson, Post-Matti, avled.",
+      "people": [
+        "Matts Johansson"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Johansson",
+      "place": "Mamsell Glansks stuga",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "8702179b7c6c589021d2ef554dbbb6d2eca40886ea165071af3e1161fb742bab",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

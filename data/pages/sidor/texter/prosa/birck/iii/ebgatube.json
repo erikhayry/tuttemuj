@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebgatube.htm",
+  "title": "Staden får sitt första elverk och gatubelysning",
+  "summary": "I början av 1880-talet lyste en enda lykta i Nykarleby, utanför handlanden Häggbloms butik. Petroleumlyktorna kom 1882, och efter sekelskiftet infördes elljus från kvarnen i älven – så svagt att man bara såg var lamporna hängde.",
+  "topics": [
+    "gatubelysning",
+    "elverk",
+    "elektricitet",
+    "petroleumlyktor"
+  ],
+  "people": [
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J.W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare",
+        "arrendator"
+      ]
+    },
+    {
+      "name": "K.F. Spolander",
+      "alternateNames": [
+        "Spolander"
+      ],
+      "roles": []
+    },
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "A.F. Mennander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "G. Roos",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Häggbloms butik",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "V. Esplanadgatan 10, senare samskolans hus",
+      "uses": [
+        {
+          "use": "handelsbod"
+        }
+      ]
+    },
+    {
+      "name": "V. Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Rådhus Boulevarden",
+        "Stora Boulevardgatan",
+        "Topeliusesplanaden"
+      ],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "apotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stadens vattenverk i älven där elljuset producerades.",
+      "uses": [
+        {
+          "use": "kvarn"
+        },
+        {
+          "use": "elverk"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Beslut om petroleumlyktor",
+      "date": {
+        "year": 1882,
+        "month": 2,
+        "circa": false
+      },
+      "description": "Rådhusstämman i Nykarleby beslöt skaffa petroleumlyktor till gatorna.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gatlyktorna anländer",
+      "date": {
+        "year": 1882,
+        "month": 11,
+        "circa": false
+      },
+      "description": "De efterlängtade tio gatlamporna kom till Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Frågan om elljus väcks",
+      "date": {
+        "year": 1900,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige i Nykarleby tog upp frågan om elektrisk belysning, som sedan producerades vid kvarnen i älven.",
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Kraftverket startar",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "description": "Först när Kraftverket kommit i gång fick Nykarleby småningom en tillfredsställande belysning.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "J.W. Nessler",
+      "place": "Stadskvarnen",
+      "relation": "ran"
+    },
+    {
+      "person": "Alfred Häggblom",
+      "place": "Häggbloms butik",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "4f4b4ff00c1e35a933dac1eb83609668455c854594840eccd3eec5e200243a8a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

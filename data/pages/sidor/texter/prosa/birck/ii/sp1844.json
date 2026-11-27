@@ -1,0 +1,125 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sp1844.htm",
+  "title": "Stadsplanen av år 1844",
+  "summary": "Lantmätaren Otto Wilhelm Kjellman gjorde en ny stadsplan för Nykarleby med rakare gator och tomter, och kejsar Nikolai I stadfäste den 1844. Erik Birck redogör för villkoren och för de äldre kartorna av Wislander, Holm, Rosenkampff och Gyldén.",
+  "topics": [
+    "stadsplan",
+    "kartor",
+    "lantmäteri",
+    "reglering"
+  ],
+  "people": [
+    {
+      "name": "Otto Wilhelm Kjellman",
+      "alternateNames": [
+        "O.W. Kjellman"
+      ],
+      "roles": [
+        "lantmäteriauskultant"
+      ]
+    },
+    {
+      "name": "C. Cronstedt",
+      "alternateNames": [],
+      "roles": [
+        "guvernör"
+      ]
+    },
+    {
+      "name": "Nikolai I",
+      "alternateNames": [],
+      "roles": [
+        "kejsare"
+      ]
+    },
+    {
+      "name": "J. Haeggström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Carl Rosenkampff",
+      "alternateNames": [],
+      "roles": [
+        "ingenjörslöjtnant",
+        "friherre"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kjellman får uppdrag att reglera staden",
+      "date": {
+        "year": 1843,
+        "month": 1,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby gav Otto Wilhelm Kjellman i uppdrag att göra en ny reglering av staden.",
+      "people": [
+        "Otto Wilhelm Kjellman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsplanen stadfästs",
+      "date": {
+        "year": 1844,
+        "month": 10,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Kejsar Nikolai I stadfäste förslaget till reglering och utvidgning av Nykarleby.",
+      "people": [
+        "Nikolai I"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tomtboken fastställs",
+      "date": {
+        "year": 1845,
+        "month": 5,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Magistraten fastställde Kjellmans tomtbok för den nya stadsplanen i Nykarleby.",
+      "people": [
+        "Otto Wilhelm Kjellman"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "d553ce16c8b7b2779640a3715fd103107cdb3171180abbec7d0d27d38d826c8b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

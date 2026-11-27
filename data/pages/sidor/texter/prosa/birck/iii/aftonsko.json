@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/aftonsko.htm",
+  "title": "Aftonskolan eller skolan för försummade barn",
+  "summary": "Nykarleby beslöt 1893 inrätta en aftonskola för barn vars skolgång blivit försummad, och verksamheten kom i gång våren 1895. Erik Birck berättar om förberedelserna, statsbidragen och svårigheterna att få eleverna till skolan.",
+  "topics": [
+    "skolhistoria",
+    "aftonskola",
+    "folkskola",
+    "fattigdom",
+    "barn"
+  ],
+  "people": [
+    {
+      "name": "Floman",
+      "alternateNames": [],
+      "roles": [
+        "överinspektor"
+      ]
+    },
+    {
+      "name": "Dahl",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Wilhelm Johansson",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "K. E. Wichmann",
+      "alternateNames": [
+        "Wichmann"
+      ],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "K. F. Spolander",
+      "alternateNames": [
+        "Spolander"
+      ],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Schalin",
+      "alternateNames": [],
+      "roles": [
+        "direktor",
+        "folkskolinspektör"
+      ]
+    },
+    {
+      "name": "Alfhild Illberg",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Ida Sundström",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "K. V. Petrell",
+      "alternateNames": [
+        "Petrell"
+      ],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Folkskolan",
+      "kind": "building",
+      "alternateNames": [
+        "nykarleby stadsfolkskola"
+      ],
+      "uses": [
+        {
+          "use": "folkskola"
+        }
+      ]
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Aftonskolan beslutas",
+      "date": {
+        "year": 1893,
+        "month": 12,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige godkände en aftonskola för försummade barn och en andra lärarinna vid folkskolan.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Aftonskolan börjar",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "vårterminen 1895"
+      },
+      "description": "Skolan för försummade barn kom i gång med Alfhild Illberg som lärarinna.",
+      "people": [
+        "Alfhild Illberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Skolan uteblir",
+      "date": {
+        "year": 1903,
+        "circa": false,
+        "text": "hösten 1903"
+      },
+      "description": "Skolan för försummade barn kunde inte starta på grund av för få elever, vilket kyrkoherde Petrell reagerade på.",
+      "people": [
+        "K. V. Petrell"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "e8a257bd1acf91aeb78d280f6ad5c5a43de42ae39c99c348d699dac2a106bdad",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

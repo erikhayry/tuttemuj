@@ -1,0 +1,312 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bibliote.htm",
+  "title": "Stadsbiblioteket",
+  "summary": "Nykarlebys bibliotek byggde länge på borgarnas frivilliga insatser och togs över av staden 1922, då det rymdes i ett bokskåp i rådhuset. Erik Birck följer flyttarna mellan magasin, gårdar och nya hus samt bibliotekarierna genom åren.",
+  "topics": [
+    "bibliotek",
+    "folkbildning",
+    "bokbuss",
+    "stadsförvaltning"
+  ],
+  "people": [
+    {
+      "name": "Charlotte Lindqvist",
+      "alternateNames": [
+        "Lotte Lindqvist"
+      ],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Judit Sundell",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Pehr Tonberg",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Margit Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Eva Grahn",
+      "alternateNames": [],
+      "roles": [
+        "deltidsbibliotekarie"
+      ]
+    },
+    {
+      "name": "Ture Granqvist",
+      "alternateNames": [],
+      "roles": [
+        "chefsbibliotekarie"
+      ]
+    },
+    {
+      "name": "Barbro Boldt",
+      "alternateNames": [],
+      "roles": [
+        "biblioteksinspektör"
+      ]
+    },
+    {
+      "name": "Liselotte Harjulin",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Anne-Lie Haglund",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Nina Granberg",
+      "alternateNames": [],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Johannes Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bibliotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Döbelns gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bibliotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bibliotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [
+        "V. Esplanadgatan"
+      ],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sparbankshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Ö. Esplanadgatan",
+      "uses": [
+        {
+          "use": "bibliotek",
+          "startYear": 1974,
+          "endYear": 1981
+        }
+      ]
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bibliotek",
+          "startYear": 1981
+        }
+      ],
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Folkbiblioteket instiftas",
+      "date": {
+        "year": 1864,
+        "circa": false
+      },
+      "description": "Ett folkbibliotek grundades i Nykarleby och verkade till 1911.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Staden tar över biblioteket",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "description": "Nykarleby stad övertog biblioteket, som då var inrymt i ett bokskåp i rådhuset.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Biblioteket får större utrymmen",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "description": "Stadsbiblioteket flyttade till större utrymmen i ett nybyggt hus vid Västra Esplanadgatan.",
+      "people": [],
+      "places": [
+        "Västra Esplanadgatan"
+      ]
+    },
+    {
+      "title": "Bokbussen skaffas",
+      "date": {
+        "year": 1976,
+        "circa": false
+      },
+      "description": "Nykarleby skaffade en bokbuss till biblioteket.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Flytten till ämbetshuset",
+      "date": {
+        "year": 1981,
+        "circa": false
+      },
+      "description": "Stadsbiblioteket flyttade till det nybyggda ämbetshuset.",
+      "people": [],
+      "places": [
+        "Ämbetshuset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Rådhuset"
+      ]
+    }
+  ],
+  "contentHash": "ed0b692d1ba678d046cbaa62362f4dc4c4ffded72bac6ce2daaac2c404fb2999",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,235 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebhabfinn.htm",
+  "title": "HAB:s gårdsbyggnader",
+  "summary": "Helsingfors Aktiebank restaurerade sitt hus i hörnet av Bankgatan och Esplanaden men lät riva gårdens ”finnstuga” och ekonomibyggnader. På platsen byggdes 1966 ett affärshus med sju lokaler, enligt Erik Birck.",
+  "topics": [
+    "rivning",
+    "bank",
+    "finnstugan",
+    "handelsgård",
+    "gamla foton"
+  ],
+  "people": [
+    {
+      "name": "P. Aug. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rolf Gandell",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Gullback",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Krister Nordström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils-Ole Nordström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ragnar Nordström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Else-Maj Nabb",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunvor Nabb",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Finnstugan",
+      "kind": "building",
+      "alternateNames": [
+        "P. Aug. Lybecks finnstuga"
+      ],
+      "address": "Topeliusesplanaden 10, i hörnet av Esplanaden och Bankgatan"
+    },
+    {
+      "name": "Helsingfors Aktiebanks hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "hörnet av Bankgatan och V. Esplanadgatan",
+      "uses": [
+        {
+          "use": "bank"
+        }
+      ]
+    },
+    {
+      "name": "Föreningsbankens hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt 41, vid torget",
+      "uses": [
+        {
+          "use": "bank"
+        }
+      ],
+      "geo": {
+        "lat": 63.522965831833396,
+        "lng": 22.529430187205104,
+        "match": "name",
+        "gazetteerName": "föreningsbanken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "V. Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Esplanaden",
+        "Topeliusesplanaden"
+      ],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Samskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52368880279052,
+        "lng": 22.530872162678012,
+        "match": "name",
+        "gazetteerName": "samskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs park",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Affärshus byggs där finnstugan stod",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "description": "Jakobstads byggnadsbyrå byggde ett affärshus med sju lokaler på bankens tomt vid Esplanaden, där finnstugan rivits.",
+      "people": [],
+      "places": [
+        "Finnstugan",
+        "V. Esplanadgatan"
+      ]
+    },
+    {
+      "title": "Staden köper gården",
+      "date": {
+        "year": 2013,
+        "circa": false
+      },
+      "description": "Gården i hörnet av Esplanaden och Bankgatan köptes 2013 av staden.",
+      "people": [],
+      "places": [
+        "Helsingfors Aktiebanks hus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Finnstugan"
+      ],
+      "year": 1960
+    },
+    {
+      "image": 3,
+      "places": [
+        "V. Esplanadgatan",
+        "Bankgatan"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Kuddnäs park"
+      ]
+    }
+  ],
+  "contentHash": "a79e829619a831a175cb62fd50c60f903226e9c51fb54d11db0d4166b116d965",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

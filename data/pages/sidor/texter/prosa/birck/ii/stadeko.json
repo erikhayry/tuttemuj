@@ -1,0 +1,305 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/stadeko.html",
+  "title": "Stadens ekonomi 1831–1855",
+  "summary": "Räkenskaperna visar vad Nykarleby stad levde på 1831–1855: skatter, avgifter och frivillig taxering, och vem som fick lön. Erik Birck berättar också om brännvinsbränning, krogarrenden, tjärvräkningen på torget och rojarens provsmakning.",
+  "topics": [
+    "stadens ekonomi",
+    "skatter",
+    "brännvin",
+    "tjärvräkning",
+    "tjänstemän"
+  ],
+  "people": [
+    {
+      "name": "Fr. Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Johan Henric Forssén",
+      "alternateNames": [
+        "J. H. Forssén"
+      ],
+      "roles": [
+        "stadsfogde",
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "C. J. Collander",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "kassaman"
+      ]
+    },
+    {
+      "name": "Henrik Sund",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "I. Lindqvist",
+      "alternateNames": [
+        "Isak Lindqvist"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "deathYear": 1846,
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Rob. Ahlqvist",
+      "alternateNames": [
+        "Rob. Ahlquist"
+      ],
+      "roles": [
+        "skomakare",
+        "viktualiehandlare"
+      ]
+    },
+    {
+      "name": "Johanna Charlotta Ekblad",
+      "alternateNames": [],
+      "roles": [
+        "styrmansänka"
+      ]
+    },
+    {
+      "name": "Magnus Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare",
+        "rojare"
+      ]
+    },
+    {
+      "name": "Anders Grönqvist",
+      "alternateNames": [
+        "Anders Adolf Grönqvist"
+      ],
+      "roles": [
+        "skräddare"
+      ]
+    },
+    {
+      "name": "Jakob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Johan Benzelstjerna",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Jakob Wacker",
+      "alternateNames": [],
+      "roles": [
+        "svinstickare"
+      ]
+    },
+    {
+      "name": "Henrik Lööf",
+      "alternateNames": [],
+      "roles": [
+        "rådhusvaktmästare",
+        "tjärvräkare"
+      ]
+    },
+    {
+      "name": "Anders Gädda",
+      "alternateNames": [],
+      "roles": [
+        "tjärvräkare"
+      ]
+    },
+    {
+      "name": "Johan Eriksson Sund",
+      "alternateNames": [],
+      "roles": [
+        "skeppsbyggmästare",
+        "hemmansägare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadskällaren",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "krog"
+        }
+      ]
+    },
+    {
+      "name": "Stora torget",
+      "kind": "landmark",
+      "alternateNames": [
+        "torget"
+      ],
+      "uses": [
+        {
+          "use": "tjärvräkning"
+        }
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Åminnet",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "upplagsplats"
+        },
+        {
+          "use": "våg- och packhus"
+        }
+      ],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "i Forsby utanför staden",
+      "uses": [
+        {
+          "use": "prästboställe"
+        }
+      ],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lillollas",
+      "kind": "farm",
+      "alternateNames": [
+        "lillollas kaplansbol"
+      ],
+      "uses": [
+        {
+          "use": "kaplansboställe"
+        }
+      ]
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brännvinspanneavgiften avskaffas",
+      "date": {
+        "year": 1839,
+        "month": 2,
+        "circa": false
+      },
+      "description": "Borgerskapet i Nykarleby beslöt att brännvinspanneavgiften till stadskassan skulle upphöra.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Rojningstvist i packhuset",
+      "date": {
+        "year": 1848,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Skräddaren Anders Grönqvist vägrade låta tullförvaltare Falcks kärl rojas utan stadens rojare, och saken ledde till att nya personer utsågs.",
+      "people": [
+        "Anders Grönqvist",
+        "Jakob Falck",
+        "Magnus Wahlberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nytt packhus",
+      "date": {
+        "year": 1850,
+        "circa": false
+      },
+      "description": "Nykarleby uppförde ett nytt packhus.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tjärvräkning förbjuds på torget",
+      "date": {
+        "year": 1882,
+        "month": 7,
+        "day": 3,
+        "circa": false
+      },
+      "description": "Magistraten förbjöd all tjärvräkning på torget och anvisade en plan på stranden söder om tullstugan.",
+      "people": [],
+      "places": [
+        "Stora torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "21c7d847ea0cba02372d1adfe865158a2e7be46f49278af8c83f34639fa511ca",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

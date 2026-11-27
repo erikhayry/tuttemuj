@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/topomgam.htm",
+  "title": "Topelius om det gamla Nykarleby",
+  "summary": "Zachris Topelius mindes på äldre dagar sin hemstad som den var under 1800-talets första hälft: krokiga gator, låga trähus och kor på väg till bete. Tjärflottor kom nerför Lappo älv, och stadens egna skepp förde hem salt, kaffe och varor.",
+  "topics": [
+    "Topelius",
+    "stadsliv",
+    "tjärhandel",
+    "sjöfart",
+    "minnen"
+  ],
+  "people": [
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Gustaf Adolf",
+      "alternateNames": [],
+      "roles": [
+        "kung"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lappo älv",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52143194693046,
+        "lng": 22.524165959807195,
+        "match": "name",
+        "gazetteerName": "nykarleby älv",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52084241328539,
+        "lng": 22.52395539238511,
+        "match": "name",
+        "gazetteerName": "juthforsen",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Forsen norr om staden.",
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hade torn och klocka, med arrest i bottenvåningen.",
+      "uses": [
+        {
+          "use": "rådhus"
+        },
+        {
+          "use": "arrest"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stora bron bränns",
+      "date": {
+        "year": 1808,
+        "circa": false,
+        "text": "midsommardagen 1808"
+      },
+      "description": "Ryssarna brände Nykarlebys stora bro midsommardagen 1808.",
+      "people": [],
+      "places": [
+        "Stora bron"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "23dca635ec3ccd00bd713140de5dfb18c3163dff04f0795235b3b9fecfd57bfa",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

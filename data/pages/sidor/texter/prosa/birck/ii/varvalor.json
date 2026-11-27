@@ -1,0 +1,208 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/varvalor.htm",
+  "title": "Skeppsvarven på Alörn",
+  "summary": "Alörn blev från slutet av 1830-talet platsen för Nykarlebys skeppsvarv och bryggor. Rådman J. A. Lybeck byggde det första privata varvet där, och sjöfarten blomstrade tills hamnen på 1860-talet flyttade till Bonäsfjärden.",
+  "topics": [
+    "skeppsvarv",
+    "sjöfart",
+    "hamn",
+    "bryggor"
+  ],
+  "people": [
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "C. Grundfeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Petter Jacob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Gustaf Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Nils Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare",
+        "ångbåtsagent"
+      ]
+    },
+    {
+      "name": "J. Nordling",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bonäsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Falckens brygga",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "på Alörsstranden",
+      "uses": [
+        {
+          "use": "brygga"
+        }
+      ]
+    },
+    {
+      "name": "Emilienburg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Sommarstuga på Alörn, tidigare Gustaf Turdins.",
+      "uses": [
+        {
+          "use": "sommarstuga"
+        }
+      ]
+    },
+    {
+      "name": "Gråsön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Charlottenlund",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "J. A. Lybecks villa.",
+      "uses": [
+        {
+          "use": "villa"
+        }
+      ],
+      "geo": {
+        "lat": 63.55951991698526,
+        "lng": 22.43378997179907,
+        "match": "name",
+        "gazetteerName": "charlottenlund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lybecks varv på Alörn",
+      "date": {
+        "year": 1830,
+        "endYear": 1839,
+        "circa": false,
+        "text": "i slutet på 1830-talet"
+      },
+      "description": "Rådman J. A. Lybeck lät bygga ett privat varv på Alörn för att färdigställa barkskeppet Alltid.",
+      "people": [
+        "J. A. Lybeck"
+      ],
+      "places": [
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Förtöjningspålar vid ångbåtsbryggan",
+      "date": {
+        "year": 1858,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Apotekare Malmberg anhöll om att få sätta två förtöjningspålar utanför landningsbryggan på Alörn.",
+      "people": [
+        "Nils Malmberg"
+      ],
+      "places": [
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Stenkaj byggs vid Charlottenlund",
+      "date": {
+        "year": 1867,
+        "endYear": 1868,
+        "circa": false
+      },
+      "description": "Under hungeråren byggdes en stor kaj av sten utanför J. A. Lybecks villa Charlottenlund.",
+      "people": [
+        "J. A. Lybeck"
+      ],
+      "places": [
+        "Charlottenlund"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Petter Jacob Falck",
+      "place": "Falckens brygga",
+      "relation": "built"
+    }
+  ],
+  "images": [],
+  "contentHash": "5bdb9acbcdb7fb0479c6ce4aa5e7a45c3f60220ec3041e2130eba2a5c04bbf3d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

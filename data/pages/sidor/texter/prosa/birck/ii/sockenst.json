@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sockenst.htm",
+  "title": "Sockenstuguberget",
+  "summary": "Berget sydost om södra tullstugan fick namnet Sockenstuguberget redan före 1740, efter landsförsamlingens sockenstuga. Den nyare sockenstugan revs på 1970-talet, och ännu på 1860-talet stod gamla kyrkstugor nedanför berget.",
+  "topics": [
+    "sockenstugan",
+    "kyrkstugor",
+    "landsförsamlingen"
+  ],
+  "people": [
+    {
+      "name": "Per-Erik Willman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare",
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Jorma Metso",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Sockenstuguberget",
+      "kind": "landmark",
+      "alternateNames": [
+        "Berget"
+      ],
+      "address": "sydost om södra tullstugan",
+      "nameOrigin": "Berget fick sitt namn av sockenstugan som landsförsamlingen uppförde där.",
+      "geo": {
+        "lat": 63.521384222901204,
+        "lng": 22.52662328781764,
+        "match": "name",
+        "gazetteerName": "sockenstuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Byggd efter 1828, riven på 1970-talet.",
+      "uses": [
+        {
+          "use": "sockenstuga"
+        }
+      ],
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Södra tullstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Engs gjuteri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "gjuteri"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Sockenstugan"
+      ],
+      "year": 1970
+    },
+    {
+      "image": 2,
+      "places": [
+        "Sockenstugan",
+        "Engs gjuteri"
+      ]
+    }
+  ],
+  "contentHash": "5dbcfd650d3b833d20e33b94e4f38586ccb9a405436fef4fd3fef8edbf8df176",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

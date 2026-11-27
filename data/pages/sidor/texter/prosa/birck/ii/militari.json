@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/militari.htm",
+  "title": "Militärinkvarteringen i staden under Krimkriget",
+  "summary": "Under Krimkriget 1854–1856 var rysk och finländsk militär inkvarterad i Nykarleby, på Högbacka och i byarna omkring. Erik Birck berättar om bataljonsstaben, brännvinsaffärerna på Nybondas hemman i Socklot och tvisterna om inkvarteringskassans pengar.",
+  "topics": [
+    "Krimkriget",
+    "militär",
+    "inkvartering",
+    "stadens ekonomi"
+  ],
+  "people": [
+    {
+      "name": "Krook",
+      "alternateNames": [],
+      "roles": [
+        "löjtnant"
+      ]
+    },
+    {
+      "name": "Gabriel Etholén",
+      "alternateNames": [
+        "Etholén"
+      ],
+      "roles": [
+        "överste"
+      ]
+    },
+    {
+      "name": "Sofia Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlandeänka"
+      ]
+    },
+    {
+      "name": "C.G. Ekholm",
+      "alternateNames": [
+        "Ekholm"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J. Lingonblad",
+      "alternateNames": [],
+      "roles": [
+        "rådhusvaktmästare"
+      ]
+    },
+    {
+      "name": "C.W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Bataljonsstaben var av allt att döma förlagd här.",
+      "uses": [
+        {
+          "use": "militärstab"
+        }
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Ryska soldater var förlagda här.",
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nybondas hemman",
+      "kind": "farm",
+      "alternateNames": [
+        "Nybondas i Socklot"
+      ],
+      "description": "Hemman i Socklot där ryssar var inkvarterade."
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Militär inkvarteras i staden",
+      "date": {
+        "year": 1854,
+        "circa": false
+      },
+      "description": "Från 1854, under Krimkriget, var både rysk och indelt finländsk militär inkvarterad i Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Beslut om kosthåll åt indelta soldater",
+      "date": {
+        "year": 1855,
+        "month": 8,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Magistraten och borgerskapets äldste i Nykarleby beslöt om kosthållet för elva indelta soldater.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ekholm avsäger sig vedleveransen",
+      "date": {
+        "year": 1856,
+        "month": 4,
+        "day": 7,
+        "circa": false
+      },
+      "description": "Handlanden C.G. Ekholm meddelade att han inte längre kunde leverera ved till militären i Nykarleby.",
+      "people": [
+        "C.G. Ekholm"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Inkvarterade ryssar på Nybondas i Socklot vill ha en sup, men bonden vågar inte sälja. De klagar hos översten på Kuddnäs, bonden får order att sälja – och blir välmående på kuppen.",
+    "reason": "En liten komisk förveckling med en tydlig vändning.",
+    "characters": [
+      "Gabriel Etholén"
+    ],
+    "places": [
+      "Nybondas hemman",
+      "Kuddnäs"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "a516fa065bfdd39abe80a289b5901a29031c00fd4392d1cbaa0bfa03cb6de661",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,248 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sundsand.htm",
+  "title": "Sundström och Sandström",
+  "summary": "Handelsmännen C. W. Sundström och Matts Sandström var kompanjoner och bodde i samma gård nr 19 innan de skildes 1847. Erik Birck berättar om deras skepp, Sundströms godhet mot fattiga gäldenärer och förlusterna i Kurimo järnbruk.",
+  "topics": [
+    "handelsmän",
+    "rederi",
+    "konkurs",
+    "järnbruk",
+    "personhistoria"
+  ],
+  "people": [
+    {
+      "name": "Christian Wilhelm Sundström",
+      "alternateNames": [
+        "C. W. Sundström"
+      ],
+      "birthYear": 1817,
+      "deathYear": 1869,
+      "roles": [
+        "handlande",
+        "rådman",
+        "redare"
+      ]
+    },
+    {
+      "name": "Matts Sandström",
+      "alternateNames": [
+        "Sandström"
+      ],
+      "birthYear": 1818,
+      "deathYear": 1876,
+      "roles": [
+        "handlande",
+        "rådman",
+        "redare"
+      ]
+    },
+    {
+      "name": "Petter Abraham Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Gustaf Adolf Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Stina Johanna Sundström",
+      "alternateNames": [
+        "Stina Johanna Rönnqvist"
+      ],
+      "deathYear": 1898,
+      "roles": []
+    },
+    {
+      "name": "Kajsa Greta Lassander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mathilda Charlotta Hjelte",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ida Basilier",
+      "alternateNames": [],
+      "roles": [
+        "sångerska"
+      ]
+    },
+    {
+      "name": "Otto v. Essen",
+      "alternateNames": [
+        "v. Essen"
+      ],
+      "roles": [
+        "patron"
+      ]
+    },
+    {
+      "name": "Axel Backman",
+      "alternateNames": [
+        "Kurimo-Backman"
+      ],
+      "roles": [
+        "bruksförvaltare"
+      ]
+    },
+    {
+      "name": "Hanna Sarlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gården nr 19",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "norr om Kyrkotorget",
+      "description": "Tvåvåningshus med port mitt på."
+    },
+    {
+      "name": "Gården nr 1—3",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 128",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Beckbruket",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "beckbruk"
+        }
+      ]
+    },
+    {
+      "name": "Keppo",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Dyhrs sal",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "konsertsal"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Kompanjonerna skiljs",
+      "date": {
+        "year": 1847,
+        "circa": false
+      },
+      "description": "Sundström och Sandström upplöste sitt bolag, och Sundström köpte gården nr 1–3.",
+      "people": [
+        "Christian Wilhelm Sundström",
+        "Matts Sandström"
+      ],
+      "places": [
+        "Gården nr 1—3"
+      ]
+    },
+    {
+      "title": "Ida Basiliers första konsert",
+      "date": {
+        "year": 1869,
+        "circa": false
+      },
+      "description": "Rådman Sandström stämde pianot inför sångerskan Ida Basiliers första konsert i Dyhrs sal i Nykarleby.",
+      "people": [
+        "Ida Basilier",
+        "Matts Sandström"
+      ],
+      "places": [
+        "Dyhrs sal"
+      ]
+    },
+    {
+      "title": "Sandström går i konkurs",
+      "date": {
+        "year": 1869,
+        "circa": false
+      },
+      "description": "Rådman Matts Sandström gick i konkurs, och hans varulager såldes ut 1870.",
+      "people": [
+        "Matts Sandström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Christian Wilhelm Sundström",
+      "place": "Gården nr 19",
+      "relation": "lived"
+    },
+    {
+      "person": "Matts Sandström",
+      "place": "Gården nr 19",
+      "relation": "lived"
+    },
+    {
+      "person": "Petter Abraham Lybeck",
+      "place": "Gården nr 19",
+      "relation": "owned",
+      "endYear": 1843
+    },
+    {
+      "person": "Matts Sandström",
+      "place": "Gården nr 19",
+      "relation": "owned",
+      "startYear": 1843
+    },
+    {
+      "person": "Christian Wilhelm Sundström",
+      "place": "Gården nr 1—3",
+      "relation": "owned",
+      "startYear": 1847
+    },
+    {
+      "person": "Matts Sandström",
+      "place": "Gården nr 128",
+      "relation": "owned",
+      "startYear": 1858
+    }
+  ],
+  "images": [],
+  "contentHash": "64054fd9733add1f58aea8f0d4a3cec3cd1738b1c767953fa7c604c3b6ebbdf3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

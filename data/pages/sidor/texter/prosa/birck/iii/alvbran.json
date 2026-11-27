@@ -1,0 +1,202 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/alvbran.htm",
+  "title": "Älvbranten",
+  "summary": "Bostadsbygget Älvbranten vid Ebba Brahes ruddamm startade 1949 som botemedel mot bostadsbristen men slutade i skandal och konkurs 1951. Staten tog över husen för seminariets behov, och senare har de rymt bland annat polis och konstskola.",
+  "topics": [
+    "Älvbranten",
+    "bostadsbygge",
+    "skandal",
+    "seminariet",
+    "stadsplanering"
+  ],
+  "people": [
+    {
+      "name": "T. A. Lybeck",
+      "alternateNames": [
+        "Lybeck"
+      ],
+      "birthYear": 1911,
+      "deathYear": 1951,
+      "roles": [
+        "direktör"
+      ]
+    },
+    {
+      "name": "Castrén",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Hilding Ekelund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Greta Jansson",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": [
+        "bagarmästare"
+      ]
+    },
+    {
+      "name": "Peter Bergström",
+      "alternateNames": [],
+      "roles": [
+        "tecknare"
+      ]
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Älvbranten",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Bostadshus byggda från 1949.",
+      "geo": {
+        "lat": 63.52010876583659,
+        "lng": 22.521809223128855,
+        "match": "name",
+        "gazetteerName": "älvbranten",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ebba Brahes ruddamm",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Konstskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Verkade i Älvbrantens hus.",
+      "uses": [
+        {
+          "use": "konstskola",
+          "startYear": 1983,
+          "endYear": 1999
+        }
+      ]
+    },
+    {
+      "name": "Ämbetshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5221649,
+        "lng": 22.5310114,
+        "match": "name",
+        "gazetteerName": "ämbetshuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomten arrenderas till Älvbranten",
+      "date": {
+        "year": 1949,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Direktör T. A. Lybeck anhöll om mark vid Ebba Brahes ruddamm för bostadshus, och staden arrenderade ut tomten och gick i borgen.",
+      "people": [
+        "T. A. Lybeck"
+      ],
+      "places": [
+        "Ebba Brahes ruddamm"
+      ]
+    },
+    {
+      "title": "Aravaskandalen",
+      "date": {
+        "year": 1951,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Bostadsbolaget Älvbranten gick i konkurs och direktör Lybeck tog sitt liv, varefter staden fick ta över lånet den borgat för.",
+      "people": [
+        "T. A. Lybeck"
+      ],
+      "places": [
+        "Älvbranten"
+      ]
+    },
+    {
+      "title": "Konstskolan inleder verksamhet",
+      "date": {
+        "year": 1983,
+        "circa": false
+      },
+      "description": "Konstskolan grundades och verkade i Älvbrantens hus till 1999.",
+      "people": [],
+      "places": [
+        "Konstskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "T. A. Lybeck",
+      "place": "Älvbranten",
+      "relation": "built"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Älvbranten"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Konstskolan"
+      ],
+      "year": 1986
+    }
+  ],
+  "contentHash": "a678e285b80ac5c586f94e1e5058aab6fb9c5a728743f2ca308af8bff94409bd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

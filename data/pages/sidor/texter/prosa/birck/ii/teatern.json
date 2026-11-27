@@ -1,0 +1,177 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/teatern.htm",
+  "title": "Teatern",
+  "summary": "Rådman Matts Lithéns stora ria på Remahlsbacken, utanför södra stadstullen, gjordes en tid om till teater. Resande sällskap spelade där, och på 1830- och 1840-talen uppträdde också stadens tjänstejungfrur med egen teaterförening.",
+  "topics": [
+    "teater",
+    "nöjen",
+    "Remahlsbacken",
+    "spöken"
+  ],
+  "people": [
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "teaterdirektör"
+      ]
+    },
+    {
+      "name": "Sofie Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Remahl",
+      "alternateNames": [],
+      "deathYear": 1768,
+      "roles": [
+        "prost",
+        "pedagog"
+      ]
+    },
+    {
+      "name": "Michael Jesenhaus",
+      "alternateNames": [],
+      "roles": [
+        "prost"
+      ]
+    },
+    {
+      "name": "Zacharias Schalin",
+      "alternateNames": [
+        "Z. Schalin"
+      ],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Remahlsbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "address": "utanför södra stadstullen"
+    },
+    {
+      "name": "Teaterrian",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på Remahlsbacken",
+      "uses": [
+        {
+          "use": "ria"
+        },
+        {
+          "use": "teater"
+        }
+      ]
+    },
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Arbetarföreningens föreningshus med teaterscen.",
+      "uses": [
+        {
+          "use": "föreningshus"
+        }
+      ],
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "I gula salen övades sällskapsspektakel.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bro-Petters stuga",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på berget vid skogsbrynet"
+    }
+  ],
+  "events": [
+    {
+      "title": "Barnfesten med Topelius",
+      "date": {
+        "year": 1887,
+        "month": 8,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Z. Topelius talade till barnen vid en barnfest på en äng som hörde till prästgårdens mark nära Remahlsbacken.",
+      "people": [
+        "Zachris Topelius"
+      ],
+      "places": [
+        "Remahlsbacken"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En präst i full skrud går med sin bok mot en gengångare, som sägs vara hans egen företrädare, och driver honom ända till grinden med ropet ”Vik hädan!”. Eller var det prästen själv som gick igen?",
+    "reason": "En kort spökhistoria med stark bild och en tvetydig slutpoäng.",
+    "characters": [
+      "Johan Remahl",
+      "Michael Jesenhaus"
+    ],
+    "places": [
+      "Remahlsbacken"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Lithén",
+      "place": "Teaterrian",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "04b4b776934fe5bd3619b2f758342c4b4a5ff8f1fdfbdfe2745253f34e93ac7e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

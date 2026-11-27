@@ -1,0 +1,55 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/detfredlf.html",
+  "title": "Älven nedanför Jöns Drakesväg fylld med stockar",
+  "summary": "Sidan har ingen egen text utöver en bildtext: ett foto av älven nedanför Jöns Drakesväg fylld med stockar.",
+  "topics": [
+    "älven",
+    "timmerflottning",
+    "foto"
+  ],
+  "people": [
+    {
+      "name": "Mikael Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Jöns Drakesväg",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5287676,
+        "lng": 22.5356601,
+        "match": "name",
+        "gazetteerName": "jöns drakes väg",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Jöns Drakesväg"
+      ]
+    }
+  ],
+  "contentHash": "530815a4be9a76dc5bc1c6a3334559b2de85829cd27ada750d22e53d33577d82",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

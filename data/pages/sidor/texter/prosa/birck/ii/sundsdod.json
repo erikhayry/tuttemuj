@@ -1,0 +1,131 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sundsdod.htm",
+  "title": "C. W. Sundströms död",
+  "summary": "Rådman C. W. Sundström omkom hösten 1869 vid Råttbron nära Gamla hamnen, när en skygg häst välte hans vagn över honom. Han var en av stadens driftigaste redare och hade under nödåren lånat ut mycket säd åt fattiga.",
+  "topics": [
+    "olycka",
+    "redare",
+    "personhistoria",
+    "nödåren"
+  ],
+  "people": [
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "deathYear": 1869,
+      "roles": [
+        "rådman",
+        "redare",
+        "köpman"
+      ]
+    },
+    {
+      "name": "Gustaf Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Hanna Sundström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Elisabet Sundström",
+      "alternateNames": [
+        "Betty"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Maria Lundqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Törnudd",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsul",
+        "redare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Råttbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Djupt dike mellan staden och nuvarande gamla begravningsplatsen."
+    },
+    {
+      "name": "Gamla hamnen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sundström omkommer vid Råttbron",
+      "date": {
+        "year": 1869,
+        "month": 10,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Rådman C. W. Sundströms häst skyggade vid Råttbron, vagnen välte och Sundström kvävdes under den.",
+      "people": [
+        "C. W. Sundström"
+      ],
+      "places": [
+        "Råttbron"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Sundström vill hellre sova i egen säng och kör hem i höstmörkret med en ny häst. Vid Råttbron skyggar den för två nya grindstolpar, och vagnen välter över honom.",
+    "reason": "En kort och ödesmättad kväll med tydlig dramatik.",
+    "characters": [
+      "C. W. Sundström"
+    ],
+    "places": [
+      "Råttbron"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "821a6eb7dc542ffaf0bb87f6511754cbfed147b5e700629fa2843f38ae8812f1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

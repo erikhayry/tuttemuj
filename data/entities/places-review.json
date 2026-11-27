@@ -49,6 +49,22 @@
   {
     "reason": "same-coordinates",
     "ids": [
+      "herlers-museum",
+      "tullhuset"
+    ],
+    "detail": "All at 63.5272847,22.5333886: herlers museum, tullhuset"
+  },
+  {
+    "reason": "same-coordinates",
+    "ids": [
+      "kopmansgatan",
+      "sodra-torggatan"
+    ],
+    "detail": "All at 63.521850546282025,22.53077032844419: köpmansgatan, södra torggatan"
+  },
+  {
+    "reason": "same-coordinates",
+    "ids": [
       "topeliiparken",
       "topeliusparken"
     ],
@@ -113,6 +129,146 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "nygards-bryggeri",
+      "nygards-olbryggeri"
+    ],
+    "detail": "\"Nygårds bryggeri\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/alkohant.htm matches nygards-bryggeri, nygards-olbryggeri"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "gastgiveriet",
+      "stadshotellet"
+    ],
+    "detail": "\"Gästgiveriet\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/alkohant.htm matches gastgiveriet, stadshotellet"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "de-gamlas-hem",
+      "lybeckska-garden"
+    ],
+    "detail": "\"Lybeckska gården\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/arkekomm.htm matches de-gamlas-hem, lybeckska-garden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "barnhemmet",
+      "sparvboet"
+    ],
+    "detail": "\"Barnhemmet Sparvboet\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/barnhemm.htm matches barnhemmet, sparvboet"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "marielund",
+      "villa-elisa"
+    ],
+    "detail": "\"Villa Elisa\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/barnhemm.htm matches marielund, villa-elisa"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "karleborg",
+      "ringska-garden"
+    ],
+    "detail": "\"Finska arbetarföreningens hus\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/biografe.htm matches karleborg, ringska-garden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "kopmansgatan",
+      "sollefteagatan"
+    ],
+    "detail": "\"Köpmansgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/busstaxi.htm matches kopmansgatan, sollefteagatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "kallbackgatan",
+      "karleborgsgatan",
+      "ostra-langgatan"
+    ],
+    "detail": "\"Källbackgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bygg1922.htm matches kallbackgatan, karleborgsgatan, ostra-langgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "lindbohms-gard",
+      "overgaards-gard"
+    ],
+    "detail": "\"Lindbohms gård\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/byggandr.htm matches lindbohms-gard, overgaards-gard"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "gustaf-adolfsgatan",
+      "gustav-adolfsgatan"
+    ],
+    "detail": "\"Gustaf Adolfsgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/cykobil.htm matches gustaf-adolfsgatan, gustav-adolfsgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "langon",
+      "langorn"
+    ],
+    "detail": "\"Långön\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/deladeas.htm matches langon, langorn"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "nalon",
+      "nalorn"
+    ],
+    "detail": "\"Nålön\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/deladeas.htm matches nalon, nalorn"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "idrotts-och-ungdomsgarden",
+      "ungdomsgarden"
+    ],
+    "detail": "\"Idrotts- och Ungdomsgården\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/denyasko.htm matches idrotts-och-ungdomsgarden, ungdomsgarden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "radhusboulevarden",
+      "stora-boulevarden",
+      "topeliusesplanaden",
+      "vastra-esplanadgatan"
+    ],
+    "detail": "\"V. Esplanadgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebgatube.htm matches radhusboulevarden, stora-boulevarden, topeliusesplanaden, vastra-esplanadgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "esplanaden",
+      "topeliusesplanaden",
+      "vastra-esplanadgatan"
+    ],
+    "detail": "\"V. Esplanadgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebhabfinn.htm matches esplanaden, topeliusesplanaden, vastra-esplanadgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "juutas",
+      "monumentet-vid-juthas"
+    ],
+    "detail": "\"Juthasmonumentet\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebjutmon.htm matches juutas, monumentet-vid-juthas"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "juthas",
+      "juthas-slagfalt"
+    ],
+    "detail": "\"Juthas\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebjutmon.htm matches juthas, juthas-slagfalt"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "aminne",
       "aminnetorpet"
     ],
@@ -157,6 +313,14 @@
       "brunnsholmen"
     ],
     "detail": "\"Brunnsholmarna\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/brhhbreb.htm matches brunnsholmarna, brunnsholmen"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "nykarleby-halsokalla",
+      "surbrunnen"
+    ],
+    "detail": "\"Nykarleby hälsobrunn\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/brhhbreb.htm matches nykarleby-halsokalla, surbrunnen"
   },
   {
     "reason": "mention-matches-several",
@@ -257,6 +421,14 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "gard-11-i-gamla-nykarleby",
+      "kempeska-garden"
+    ],
+    "detail": "\"Gården nr 11\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/grundfefeb.htm matches gard-11-i-gamla-nykarleby, kempeska-garden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "socklothallan",
       "soklothallan"
     ],
@@ -289,6 +461,86 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "gard-23-i-gamla-nykarleby",
+      "lilla-byggningen"
+    ],
+    "detail": "\"Gården nr 23\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/lindqvis.htm matches gard-23-i-gamla-nykarleby, lilla-byggningen"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "gamla-radhuset",
+      "radhuset"
+    ],
+    "detail": "\"Gamla rådhuset\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/radhuseb.htm matches gamla-radhuset, radhuset"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "alorn",
+      "hammarinska-varvet"
+    ],
+    "detail": "\"Alörn\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sjofigan.htm matches alorn, hammarinska-varvet"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "an",
+      "nykarleby-alv"
+    ],
+    "detail": "\"Nykarleby älv\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/skiftet.html matches an, nykarleby-alv"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "ragnorforsen",
+      "ragnorn"
+    ],
+    "detail": "\"Ragnörns fors\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/skiftet.html matches ragnorforsen, ragnorn"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "heikelska-garden",
+      "rechardtska-garden"
+    ],
+    "detail": "\"Rechardtska gården\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/slackbar.htm matches heikelska-garden, rechardtska-garden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "berget",
+      "sockenstuguberget"
+    ],
+    "detail": "\"Sockenstuguberget\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sockenst.htm matches berget, sockenstuguberget"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "ostra-lillgatan",
+      "tradgardsgatan"
+    ],
+    "detail": "\"Trädgårdsgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/spobebyg.htm matches ostra-lillgatan, tradgardsgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "koppelbacken",
+      "rummelbacken"
+    ],
+    "detail": "\"Koppelbacken\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/spobebyg.htm matches koppelbacken, rummelbacken"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "gard-11-i-gamla-nykarleby",
+      "turdinska-garden"
+    ],
+    "detail": "\"Turdinska gården\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/turdgard.htm matches gard-11-i-gamla-nykarleby, turdinska-garden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "jeppo",
       "overjeppo"
     ],
@@ -301,6 +553,14 @@
       "juutas"
     ],
     "detail": "\"Juthas\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/at/jutas1886.html matches juthas, juutas"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "nybacka-hemman",
+      "seminariet"
+    ],
+    "detail": "\"Nykarleby seminarium\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/astromm/hagfors/025semin.htm matches nybacka-hemman, seminariet"
   },
   {
     "reason": "mention-matches-several",
@@ -327,14 +587,6 @@
       "juthas"
     ],
     "detail": "\"Jutas\" on https://www.nykarlebyvyer.nu/sidor/texter/prosa/akerblom/diverse/namnbyte.htm matches jut, juthas"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "juthas",
-      "juthas-slagfalt"
-    ],
-    "detail": "\"Jutas slagfält\" on https://www.nykarlebyvyer.nu/sidor/texter/pers/dyhr_lotte.html matches juthas, juthas-slagfalt"
   },
   {
     "reason": "mention-matches-several",
@@ -415,14 +667,6 @@
       "topeliusparken"
     ],
     "detail": "\"Topeliusparken\" on https://www.nykarlebyvyer.nu/sidor/texter/pers/polise20.htm matches topeliiparken, topeliusparken"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "ragnorforsen",
-      "ragnorn"
-    ],
-    "detail": "\"Ragnörn\" on https://www.nykarlebyvyer.nu/sidor/texter/pers/ragnorn_1960.html matches ragnorforsen, ragnorn"
   },
   {
     "reason": "mention-matches-several",
@@ -523,14 +767,6 @@
   {
     "reason": "mention-matches-several",
     "ids": [
-      "kopmansgatan",
-      "sollefteagatan"
-    ],
-    "detail": "\"Sollefteågatan\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/bnordlin.htm matches kopmansgatan, sollefteagatan"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
       "topeliusesplanaden",
       "vastra-esplanadgatan"
     ],
@@ -551,14 +787,6 @@
       "stadsbrunnen"
     ],
     "detail": "\"Stadsbrunnen\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/brostu2010.html matches kyrkbrunnen, stadsbrunnen"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "nalon",
-      "nalorn"
-    ],
-    "detail": "\"Nålön\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/fellmaneb.htm matches nalon, nalorn"
   },
   {
     "reason": "mention-matches-several",
@@ -708,17 +936,10 @@
     "ids": [
       "hab",
       "hab-s-trappa",
+      "helsingfors-aktiebanks-hus",
       "lybeckska-huset"
     ],
-    "detail": "\"Helsingfors Aktiebanks hus\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/lybeckeb.htm matches hab, hab-s-trappa, lybeckska-huset"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "de-gamlas-hem",
-      "lybeckska-garden"
-    ],
-    "detail": "\"Lybeckska gården\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/lybeckeb2.htm matches de-gamlas-hem, lybeckska-garden"
+    "detail": "\"Helsingfors Aktiebanks hus\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/lybeckeb.htm matches hab, hab-s-trappa, helsingfors-aktiebanks-hus, lybeckska-huset"
   },
   {
     "reason": "mention-matches-several",
@@ -727,6 +948,14 @@
       "wiks-hotell"
     ],
     "detail": "\"Wiks hotell\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/mannfvik.htm matches viks-hotell, wiks-hotell"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "helsingfors-aktiebanks-hus",
+      "lybeckska-huset"
+    ],
+    "detail": "\"Helsingfors Aktiebanks hus\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/nordeaslut.html matches helsingfors-aktiebanks-hus, lybeckska-huset"
   },
   {
     "reason": "mention-matches-several",
@@ -745,22 +974,6 @@
       "trivialskolan"
     ],
     "detail": "\"Trivialskolan\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/radhusls.htm matches radhuset, trivialskolan"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "langon",
-      "langorn"
-    ],
-    "detail": "\"Långörn\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/rank_jenny.html matches langon, langorn"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "koppelbacken",
-      "rummelbacken"
-    ],
-    "detail": "\"Rummelbacken\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/rummelbeb.htm matches koppelbacken, rummelbacken"
   },
   {
     "reason": "mention-matches-several",
@@ -805,6 +1018,14 @@
   {
     "reason": "mention-matches-several",
     "ids": [
+      "laquists-gard",
+      "westlins-gard"
+    ],
+    "detail": "\"Hedströms gård\" on https://www.nykarlebyvyer.nu/sidor/texter/hus/westlineb.htm matches laquists-gard, westlins-gard"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
       "bergstigen",
       "brogatan"
     ],
@@ -825,6 +1046,14 @@
       "residensgatan"
     ],
     "detail": "\"Erik Bergmansgata\" on https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm matches de-la-gardiegatan, residensgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "grev-tottgatan",
+      "norra-staketgatan"
+    ],
+    "detail": "\"Grev Tottgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm matches grev-tottgatan, norra-staketgatan"
   },
   {
     "reason": "mention-matches-several",
@@ -892,6 +1121,14 @@
       "sollefteagatan"
     ],
     "detail": "\"Sollefteågatan\" on https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm matches kopmansgatan, sodra-torggatan, sollefteagatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "norra-staketgatan",
+      "staketgatan"
+    ],
+    "detail": "\"Staketgatan\" on https://www.nykarlebyvyer.nu/sidor/texter/gatunamn/gtext.htm matches norra-staketgatan, staketgatan"
   },
   {
     "reason": "mention-matches-several",
@@ -995,6 +1232,14 @@
       "radhusboulevarden"
     ],
     "detail": "\"Esplanaden\" on https://www.nykarlebyvyer.nu/sidor/texter/diverse/vandring120528.html matches esplanaden, radhusboulevarden"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "nygards-kafe",
+      "sodra-tullhuset"
+    ],
+    "detail": "\"Södra tullhuset\" on https://www.nykarlebyvyer.nu/sidor/texter/bidrag/pensarla/blommor6.htm matches nygards-kafe, sodra-tullhuset"
   },
   {
     "reason": "mention-matches-several",
@@ -1117,14 +1362,6 @@
       "apoteksgarden"
     ],
     "detail": "\"apoteksgården\" on https://www.nykarlebyvyer.nu/sidor/minnesst/vmalmber.htm matches apoteket, apoteksgarden"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
-      "idrotts-och-ungdomsgarden",
-      "ungdomsgarden"
-    ],
-    "detail": "\"Ungdomsgården\" on https://www.nykarlebyvyer.nu/sidor/lucia/1971lucia.htm matches idrotts-och-ungdomsgarden, ungdomsgarden"
   },
   {
     "reason": "mention-matches-several",
@@ -1260,18 +1497,19 @@
   {
     "reason": "mention-matches-several",
     "ids": [
-      "gustaf-adolfsgatan",
-      "gustav-adolfsgatan"
-    ],
-    "detail": "\"Gustav Adolfsgatan\" on https://www.nykarlebyvyer.nu/sidor/karta/1900ra-2.htm matches gustaf-adolfsgatan, gustav-adolfsgatan"
-  },
-  {
-    "reason": "mention-matches-several",
-    "ids": [
       "esplanaden",
       "lybecksgatan"
     ],
     "detail": "\"Esplanaden\" on https://www.nykarlebyvyer.nu/sidor/karta/1900ra-3.htm matches esplanaden, lybecksgatan"
+  },
+  {
+    "reason": "mention-matches-several",
+    "ids": [
+      "aminne",
+      "gamla-hamn",
+      "gamla-hamnen"
+    ],
+    "detail": "\"Åminne lastageplats\" on https://www.nykarlebyvyer.nu/sidor/karta/gamlaham.htm matches aminne, gamla-hamn, gamla-hamnen"
   },
   {
     "reason": "mention-matches-several",

@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/najaden.htm",
+  "title": "Najaden och Adolf – fartyg byggda på Djupsten",
+  "summary": "På Nykarleby stads skeppsvarv på Djupsten byggdes galeasen Najaden 1836 och fregattskeppet Adolf 1840. Adolf, som ägdes av Adolf Hammarin, var det största fartyget från varvet; Erik Birck återger båda skeppens byggare och mått.",
+  "topics": [
+    "sjöfart",
+    "skeppsbyggnad",
+    "segelfartyg",
+    "handel"
+  ],
+  "people": [
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "P. Katternö",
+      "alternateNames": [],
+      "roles": [
+        "skeppsbyggmästare"
+      ]
+    },
+    {
+      "name": "Eric Berg",
+      "alternateNames": [],
+      "roles": [
+        "snickare"
+      ]
+    },
+    {
+      "name": "Hans Kerr",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "Fredrik Johansson Östensjö",
+      "alternateNames": [],
+      "roles": [
+        "skeppstimmerman"
+      ]
+    },
+    {
+      "name": "Anders Jacobsson Klubb",
+      "alternateNames": [],
+      "roles": [
+        "skeppstimmerman"
+      ]
+    },
+    {
+      "name": "Henric Ericsson Gåta",
+      "alternateNames": [],
+      "roles": [
+        "skeppstimmerman"
+      ]
+    },
+    {
+      "name": "Anders Johansson Pährs",
+      "alternateNames": [],
+      "roles": [
+        "skeppstimmerman"
+      ]
+    },
+    {
+      "name": "Carl August Snellman",
+      "alternateNames": [],
+      "roles": [
+        "skepparborgare"
+      ]
+    },
+    {
+      "name": "Petter Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "skeppsmätare"
+      ]
+    },
+    {
+      "name": "Victor Federley",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal",
+        "skeppsmätare"
+      ]
+    },
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [
+        "Nykarleby stads skeppsvarv på Djupsten"
+      ],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Galeasen Najaden byggs",
+      "date": {
+        "year": 1836,
+        "circa": false
+      },
+      "description": "Galeasen Najaden byggdes av furu på stadens skeppsvarv på Djupsten av skeppsbyggmästaren P. Katternö.",
+      "people": [
+        "P. Katternö",
+        "Matts Lithén",
+        "C. J. Berger"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Fregattskeppet Adolf byggs",
+      "date": {
+        "year": 1840,
+        "circa": false,
+        "text": "våren 1840"
+      },
+      "description": "Fregattskeppet Adolf, det största fartyget från varvet på Djupsten, byggdes åt Adolf Hammarin.",
+      "people": [
+        "Adolf Hammarin"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    },
+    {
+      "title": "Fregattskeppet Adolf går under",
+      "date": {
+        "year": 1843,
+        "circa": false
+      },
+      "description": "Fregattskeppet Adolf, som byggts på Djupsten i Nykarleby, gick under.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "19729f947cb8906267587cbb49a163a194d9fab17a6a3da30035166d17757ac1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,361 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/deladeas.htm",
+  "title": "Delade åsikter om den nya hamnen",
+  "summary": "Den nya hamnen vid Andra sjön på 1860-talet väckte starkt missnöje när kostnaderna och uppgrundningen ökade. Erik Birck skildrar ångbåtstrafiken till den nya bryggan och Zacharias Topelius kritik, som förordade Torsön i stället.",
+  "topics": [
+    "hamn",
+    "ångbåtstrafik",
+    "landhöjning",
+    "sjöfart"
+  ],
+  "people": [
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": []
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "J. H. Broman",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "C. Synnerberg",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "M. E. Sarlin",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Joh. Kaldén",
+      "alternateNames": [
+        "Kaldén"
+      ],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "A. Häggblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "P. A. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "C. Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "befälhavare"
+      ]
+    },
+    {
+      "name": "Karl Nicklin",
+      "alternateNames": [],
+      "roles": [
+        "befälhavare"
+      ]
+    },
+    {
+      "name": "Joh. Lindström",
+      "alternateNames": [],
+      "roles": [
+        "befälhavare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Långöfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Långön",
+      "kind": "island",
+      "alternateNames": [
+        "Långörn"
+      ],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Norra tullen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Skeppsgården",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    },
+    {
+      "name": "Nålön",
+      "kind": "other",
+      "alternateNames": [
+        "Nålörn"
+      ],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.542340705307474,
+        "lng": 22.532501198257712,
+        "match": "name",
+        "gazetteerName": "nålörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [
+        "Torsö redd"
+      ],
+      "uses": [
+        {
+          "use": "uthamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Åminne",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kråkskärssundet",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Kråkskärssund"
+      ]
+    },
+    {
+      "name": "Bonäsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Haga sten",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Saltgrundet",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ångbåtsbryggan färdig",
+      "date": {
+        "year": 1865,
+        "circa": false
+      },
+      "description": "Ångbåtsbryggan vid den nya hamnen vid Andra sjön byggdes färdig 1865.",
+      "people": [],
+      "places": [
+        "Andra sjön"
+      ]
+    },
+    {
+      "title": "Ångaren Österbotten börjar trafikera",
+      "date": {
+        "year": 1866,
+        "circa": false
+      },
+      "description": "Ångaren Österbotten anlöpte sommaren efter bryggbygget den nya hamnen och fortsatte sina turer till 1874.",
+      "people": [],
+      "places": [
+        "Andra sjön"
+      ]
+    },
+    {
+      "title": "Försök med egen ångbåtslinje",
+      "date": {
+        "year": 1870,
+        "circa": false
+      },
+      "description": "Nykarlebyborna försökte starta en egen linje till Stockholm och Lübeck med ångaren Norden, men misslyckades samma år.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Järnväg till hamnen diskuteras",
+      "date": {
+        "year": 1890,
+        "circa": false
+      },
+      "description": "Man diskuterade att dra järnvägen över en bank till Långön, men fullmäktige förkastade förslaget som för dyrt.",
+      "people": [],
+      "places": [
+        "Långön"
+      ]
+    },
+    {
+      "title": "Ny undersökning av Torsö",
+      "date": {
+        "year": 1892,
+        "circa": false,
+        "text": "hösten 1892"
+      },
+      "description": "En undersökning visade gott vattendjup vid Torsö redd, som förblev stadens uthamn så länge sjöfarten fanns kvar.",
+      "people": [],
+      "places": [
+        "Torsön",
+        "Kråkskärssundet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "80ed7242040041690b97b8077df63eba3e6b3768062cc8a6f0c6826ebe51c027",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

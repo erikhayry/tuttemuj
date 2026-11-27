@@ -1,0 +1,368 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/roadesig.htm",
+  "title": "Huru man roade sig",
+  "summary": "Baler, teater, kortspel, utfärder till Alörn och J. A. Lybecks rådmanskalas 1839: så roade sig societeten i Nykarleby på 1820–1860-talen. Mycket bygger på Zachris Topelius dagböcker, som skildrar fester, dansare och grannstadsrivaliteten med Jakobstad.",
+  "topics": [
+    "nöjesliv",
+    "baler",
+    "teater",
+    "societeten",
+    "sällskapsspel"
+  ],
+  "people": [
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "student",
+        "diktare"
+      ]
+    },
+    {
+      "name": "Sophie Topelius",
+      "alternateNames": [
+        "Sophie Toppelius"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Emilie Lindqvist",
+      "alternateNames": [
+        "Emilia Lindqvist"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Gustaf Turdin",
+      "alternateNames": [],
+      "roles": [
+        "patron"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [
+        "Janne Lybeck"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Wennerholm",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "C. W. Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "teaterdirektör"
+      ]
+    },
+    {
+      "name": "Henrik Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Augusta Åberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rosalie Lithén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johanna Frosterus",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Haeggström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "memoarskrivare"
+      ]
+    },
+    {
+      "name": "Jacob Balabrega",
+      "alternateNames": [
+        "Balabrega"
+      ],
+      "birthYear": 1793,
+      "deathYear": 1859,
+      "roles": [
+        "trollkarl"
+      ]
+    },
+    {
+      "name": "Chatarina Sofia Calamnius",
+      "alternateNames": [],
+      "birthYear": 1791,
+      "deathYear": 1868,
+      "roles": []
+    },
+    {
+      "name": "Zacharias Schalin",
+      "alternateNames": [
+        "Z. Schalin"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sällskapsteater",
+          "startYear": 1838
+        }
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Efter Djupsten stadens populäraste utflyktsställe om somrarna.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Populärt utflyktsställe om somrarna.",
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lithénska salongen",
+      "kind": "building",
+      "alternateNames": [
+        "Lithénska salen",
+        "Lithéns övre salong"
+      ],
+      "uses": [
+        {
+          "use": "festsal"
+        },
+        {
+          "use": "teaterlokal"
+        }
+      ]
+    },
+    {
+      "name": "Lithéns lada",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "väster om älven",
+      "uses": [
+        {
+          "use": "teaterlokal",
+          "startYear": 1838
+        }
+      ]
+    },
+    {
+      "name": "Fåfängan",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242424,
+        "lng": 22.527701,
+        "match": "name",
+        "gazetteerName": "fåfängan",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ragnörsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5358546,
+        "lng": 22.5325748,
+        "match": "name",
+        "gazetteerName": "ragnörsforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Turdins gård",
+      "kind": "building",
+      "alternateNames": [
+        "Turdins"
+      ]
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Dansk-svenskt sällskap uppträder",
+      "date": {
+        "year": 1837,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Ett resande dansk-svenskt sällskap gav spektakel i Lithéns övre salong i Nykarleby.",
+      "people": [],
+      "places": [
+        "Lithénska salongen"
+      ]
+    },
+    {
+      "title": "Ångfartyget Norrlands besök",
+      "date": {
+        "year": 1838,
+        "month": 8,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Det första ångfartyget som anlöpte Nykarleby firades med bal på Alörn i hällande regn.",
+      "people": [],
+      "places": [
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Teatertrupp spelar i Nykarleby",
+      "date": {
+        "year": 1838,
+        "month": 12,
+        "circa": false
+      },
+      "description": "Direktör C. W. Westerlunds trupp spelade i Nykarleby tillsammans med stadens ungdomar till slutet av januari 1839.",
+      "people": [
+        "C. W. Westerlund"
+      ],
+      "places": [
+        "Lithéns lada"
+      ]
+    },
+    {
+      "title": "Publik nyårsbal",
+      "date": {
+        "year": 1839,
+        "month": 1,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Omkring 150 personer dansade på balen som Henrik Backman och Topelius ordnade i Lithénska salongen.",
+      "people": [
+        "Henrik Backman",
+        "Zachris Topelius"
+      ],
+      "places": [
+        "Lithénska salongen"
+      ]
+    },
+    {
+      "title": "Lybecks rådmanskalas",
+      "date": {
+        "year": 1839,
+        "month": 1,
+        "circa": false
+      },
+      "description": "J. A. Lybeck invigde sitt nybyggda hus med en stor bal på tjugondag jul som varade till morgonen.",
+      "people": [
+        "J. A. Lybeck",
+        "Zachris Topelius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Lybecks rådmanskalas vill aldrig ta slut: värden släpper ingen hem, Topelius häst har stått insnöad hela natten, och gästerna tågar runt frukostbordet med näsdukar som fanor innan brännvinsbrickan stormas.",
+    "reason": "En sprudlande festscen med dialog, tempo och kända figurer, hämtad ur en ögonvittnesskildring.",
+    "characters": [
+      "J. A. Lybeck",
+      "Zachris Topelius",
+      "Henrik Backman"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "d00ab6bddf155d27ad1b2836a00828c21ece0678723fda9f0528bf52b991e02c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

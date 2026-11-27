@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/spopalen.htm",
+  "title": "Spöpålen",
+  "summary": "Spöpålen stod före branden utanför rådhuset i Nykarleby och flyttades ut när någon dömts till spöstraff. Fr. Edv. Henelius ögonvittnesskildring från 1860-talet visar en blodig exekution inför skolpojkar; här berättas också om avrättningar och brottslighet.",
+  "topics": [
+    "straff",
+    "spöpålen",
+    "brott",
+    "rättsväsen"
+  ],
+  "people": [
+    {
+      "name": "Fr. Edv. Henelius",
+      "alternateNames": [
+        "Frans Edvard Henelius"
+      ],
+      "roles": [
+        "skolpojke",
+        "vittne"
+      ]
+    },
+    {
+      "name": "Grönlund",
+      "alternateNames": [],
+      "roles": [
+        "skomakare",
+        "profoss"
+      ]
+    },
+    {
+      "name": "Tonaback-Jutt",
+      "alternateNames": [
+        "Jutt"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Matts Holma",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "John Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Blåman",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Henelius",
+      "alternateNames": [],
+      "roles": [
+        "hattmakare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Spöpålen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Flyttbar straffpåle, före branden utanför rådhuset."
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Pålen förvarades senare i farstun.",
+      "uses": [
+        {
+          "use": "straffplats"
+        }
+      ],
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sockenmagasinet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "straffplats"
+        }
+      ]
+    },
+    {
+      "name": "Munsala sockens avrättningsplats",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Avrättning av pigan Maria",
+      "date": {
+        "year": 1805,
+        "month": 3,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Pigan Maria, som tjänat hos hattmakare Henelius i Nykarleby, avrättades för barnamord på Munsala sockens avrättningsplats.",
+      "people": [
+        "Henelius",
+        "Johan Blåman"
+      ],
+      "places": [
+        "Munsala sockens avrättningsplats"
+      ]
+    },
+    {
+      "title": "Dödsstraffen ersätts av deportation",
+      "date": {
+        "year": 1829,
+        "circa": false
+      },
+      "description": "Från 1829 deporterades dödsdömda till Sibirien i stället för att avrättas i fredstid.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tonaback-Jutt slår spö",
+      "date": {
+        "year": 1866,
+        "endYear": 1867,
+        "circa": false,
+        "text": "1866 eller 1867"
+      },
+      "description": "Tonaback-Jutt straffades med spöslitning i Nykarleby för en svår stöld.",
+      "people": [
+        "Tonaback-Jutt",
+        "Matts Holma"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En kort, undersätsig fånge lovar kaxigt att inte klaga under spöslitningen. Skolpojkarna trängs för att se, och snart vrålar mannen om nåd medan länsman står med uret och räknar slagen.",
+    "reason": "En detaljrik ögonvittnesskildring med tydlig dramaturgi, men grym.",
+    "characters": [
+      "Fr. Edv. Henelius",
+      "Grönlund"
+    ],
+    "places": [
+      "Spöpålen",
+      "Sockenmagasinet"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "caed940a74dd31d9a0eb0fd909528bc277e14fc73d9f40253008c57c57d29eef",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

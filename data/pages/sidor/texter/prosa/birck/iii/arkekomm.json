@@ -1,0 +1,458 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/arkekomm.htm",
+  "title": "Arkeologiska kommissionen yttrar sig",
+  "summary": "År 1964 inventerade arkeologiska kommissionen Nykarlebys gamla hus och pekade ut 44 gårdar värda att skydda, men många revs snart. Erik Birck berättar om rivningsvågen, kritiken mot stadsplanen 1966 och 1970-talets byggboom.",
+  "topics": [
+    "byggnadsvård",
+    "rivningar",
+    "stadsplan",
+    "bostadsbyggande",
+    "kulturarv"
+  ],
+  "people": [
+    {
+      "name": "Marita Hagner",
+      "alternateNames": [],
+      "roles": [
+        "teknologie licentiat"
+      ]
+    },
+    {
+      "name": "Wikstedt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ernest Eklund",
+      "alternateNames": [
+        "Eklund"
+      ],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Sigvald Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "planeringssekreterare"
+      ]
+    },
+    {
+      "name": "Krister Backlund",
+      "alternateNames": [],
+      "roles": [
+        "kommunalbyggmästare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Döbelns gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Döbelns gränd 3",
+      "geo": {
+        "lat": 63.5221167,
+        "lng": 22.5260132,
+        "match": "name",
+        "gazetteerName": "södra tullhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Döbelns gränd",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220775087621,
+        "lng": 22.525682630490916,
+        "match": "name",
+        "gazetteerName": "döbelns gränd",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Herlers gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Heikelska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Trivialskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Del av rådhuset.",
+      "geo": {
+        "lat": 63.521920603003906,
+        "lng": 22.52700863939408,
+        "match": "name",
+        "gazetteerName": "trivialskolan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Herlers museum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "F.d. norra tullhuset.",
+      "uses": [
+        {
+          "use": "tullhus"
+        },
+        {
+          "use": "museum"
+        }
+      ],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "herlers museum",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": [
+        "De gamlas hem"
+      ],
+      "geo": {
+        "lat": 63.524822180066515,
+        "lng": 22.529184560208723,
+        "match": "name",
+        "gazetteerName": "lybeckska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "V. Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Holmströmska gården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "S:ta Birgitta kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522607735052134,
+        "lng": 22.526510424138955,
+        "match": "name",
+        "gazetteerName": "sankta birgitta kyrkan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sockenstuga"
+        }
+      ],
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariegatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5261522,
+        "lng": 22.5248821,
+        "match": "name",
+        "gazetteerName": "seminariegatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mellangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5256472,
+        "lng": 22.5228374,
+        "match": "name",
+        "gazetteerName": "mellangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Skogsparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5266819425088,
+        "lng": 22.517727743444205,
+        "match": "name",
+        "gazetteerName": "skogsparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jöns Drakes väg",
+      "kind": "street",
+      "alternateNames": [],
+      "address": "på Källbacken",
+      "geo": {
+        "lat": 63.5287676,
+        "lng": 22.5356601,
+        "match": "name",
+        "gazetteerName": "jöns drakes väg",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hagalund",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "pensionärsbostadshus"
+        }
+      ],
+      "geo": {
+        "lat": 63.519185566198,
+        "lng": 22.531305293375013,
+        "match": "name",
+        "gazetteerName": "hagalund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Inventering av gamla hus",
+      "date": {
+        "year": 1964,
+        "circa": false,
+        "text": "våren 1964"
+      },
+      "description": "Arkeologiska kommissionen inventerade den äldre bebyggelsen och ansåg 44 gårdsnummer i Nykarleby värdefulla.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ny stadsplan",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "description": "Stadsplanen från 1966 kritiserades häftigt av utomstående för rivningar och för stora nybyggen.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Livligt byggår",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "description": "År 1973 byggdes radhus, flervåningshus, egnahemshus och flera industribyggnader i Nykarleby.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "7d5528e95711835448c410732fefaa812d66854b1a244c9ea137391cc1838855",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

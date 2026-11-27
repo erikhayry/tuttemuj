@@ -1,0 +1,243 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/turdrose.htm",
+  "title": "Familjerna Turdin och Rosenkampff",
+  "summary": "Släkten Turdin var handelsborgare i Nykarleby från 1692, och Johan Turdin d.y. skapade familjens stora förmögenhet av gårdar, hemman och skepp. Erik Birck berättar om hans givmildhet, bland annat mot den unge Runeberg år 1822.",
+  "topics": [
+    "köpmansfamiljer",
+    "handel",
+    "rederi",
+    "arvskifte",
+    "Runeberg"
+  ],
+  "people": [
+    {
+      "name": "Johan Turdin d.ä.",
+      "alternateNames": [],
+      "birthYear": 1746,
+      "deathYear": 1795,
+      "roles": [
+        "handlande",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Turdin d.y.",
+      "alternateNames": [
+        "Kommerserådet Turdin"
+      ],
+      "birthYear": 1778,
+      "deathYear": 1834,
+      "roles": [
+        "handlande",
+        "rådman",
+        "redare",
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "Anna Häggblad",
+      "alternateNames": [],
+      "birthYear": 1747,
+      "deathYear": 1804,
+      "roles": []
+    },
+    {
+      "name": "Katarina Juthe",
+      "alternateNames": [],
+      "birthYear": 1749,
+      "deathYear": 1786,
+      "roles": []
+    },
+    {
+      "name": "Anna Sofia Turdin",
+      "alternateNames": [
+        "Anna Sofia Backman",
+        "fru Turdin"
+      ],
+      "roles": [
+        "kommerserådinna"
+      ]
+    },
+    {
+      "name": "Catharina Sofia Topelius",
+      "alternateNames": [
+        "Catharina Sofia"
+      ],
+      "deathYear": 1868,
+      "roles": []
+    },
+    {
+      "name": "Fredrik Forsberg",
+      "alternateNames": [],
+      "deathYear": 1784,
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Anna-Caisa Forsberg-Schale",
+      "alternateNames": [
+        "fru Schale"
+      ],
+      "birthYear": 1768,
+      "deathYear": 1833,
+      "roles": []
+    },
+    {
+      "name": "Johan Ludvig Runeberg",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Maria Toppelius",
+      "alternateNames": [],
+      "roles": [
+        "professorska"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gården nr 11",
+      "kind": "building",
+      "alternateNames": [
+        "Turdinska gården"
+      ]
+    },
+    {
+      "name": "Gården nr 9",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 24",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 37",
+      "kind": "building",
+      "alternateNames": [
+        "gård 37 i gamla nykarleby"
+      ]
+    },
+    {
+      "name": "Beckbruket",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "beckbruk"
+        }
+      ]
+    },
+    {
+      "name": "Hans Sigfrids hemman",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Lars Eriksson Lussis hemman",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Pehr Anderssons hemman",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Repslagarbanan",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Runeberg får tyg av Turdins",
+      "date": {
+        "year": 1822,
+        "circa": false,
+        "text": "år 1822 om hösten"
+      },
+      "description": "När J. L. Runeberg på väg till studentexamen besökte Turdins i Nykarleby skänkte de honom tyg till en ny kostym.",
+      "people": [
+        "Johan Ludvig Runeberg",
+        "Johan Turdin d.y."
+      ],
+      "places": []
+    },
+    {
+      "title": "Turdin blir kommerseråd",
+      "date": {
+        "year": 1825,
+        "circa": false
+      },
+      "description": "Köpmannen Johan Turdin hedrades av kejsar Alexander I med titeln kommerseråd.",
+      "people": [
+        "Johan Turdin d.y."
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Turdin d.ä.",
+      "place": "Gården nr 9",
+      "relation": "owned",
+      "startYear": 1779,
+      "endYear": 1784
+    },
+    {
+      "person": "Johan Turdin d.ä.",
+      "place": "Gården nr 11",
+      "relation": "owned",
+      "startYear": 1784
+    },
+    {
+      "person": "Johan Turdin d.y.",
+      "place": "Gården nr 11",
+      "relation": "owned",
+      "startYear": 1796
+    },
+    {
+      "person": "Johan Turdin d.y.",
+      "place": "Gården nr 24",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Turdin d.y.",
+      "place": "Gården nr 37",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "c29116033922f9cbdf35d00ecbaec870c7bfc9a957a9f66f0287e2e1647f34cd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

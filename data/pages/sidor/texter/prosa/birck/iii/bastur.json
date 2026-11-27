@@ -1,0 +1,468 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bastur.htm",
+  "title": "Stadsbilden 1946: Bastur i Nykarleby",
+  "summary": "Nykarleby saknade länge ett ordentligt allmänt badhus, och stadsborna fick lita till privata bastur. Erik Birck följer bastufrågan från Carlbergs badhus 1869 via den kommunala badstugan som brann 1916 till planerna på en ny inrättning 1949.",
+  "topics": [
+    "bastu",
+    "badhus",
+    "hygien",
+    "brandsäkerhet",
+    "kommunalteknik"
+  ],
+  "people": [
+    {
+      "name": "Carl Carlberg",
+      "alternateNames": [
+        "C. Carlberg"
+      ],
+      "roles": [
+        "tullvaktmästare"
+      ]
+    },
+    {
+      "name": "John Nylund",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ]
+    },
+    {
+      "name": "Bastu-Anna",
+      "alternateNames": [],
+      "roles": [
+        "baderska"
+      ]
+    },
+    {
+      "name": "Lovisa Nylund",
+      "alternateNames": [
+        "Krok-Lovis"
+      ],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Frans Oskar Sirén",
+      "alternateNames": [],
+      "roles": [
+        "gårdsägare"
+      ]
+    },
+    {
+      "name": "Elisabeth Backman",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "Woldemar Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Gustaf Birck",
+      "alternateNames": [
+        "Gustaf Birck"
+      ],
+      "roles": [
+        "gårdsägare"
+      ]
+    },
+    {
+      "name": "Vieno Birck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Mårtens",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mouritzen",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "K.J. Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Joh. Åbonde",
+      "alternateNames": [],
+      "roles": [
+        "ordförande"
+      ]
+    },
+    {
+      "name": "A. Lehtinen",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "H. Ekelund",
+      "alternateNames": [],
+      "roles": [
+        "stadsarkitekt"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Carlbergs badhus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Granbergs linda",
+      "uses": [
+        {
+          "use": "badhus",
+          "startYear": 1869,
+          "endYear": 1894
+        }
+      ]
+    },
+    {
+      "name": "Juthbacka kroken",
+      "kind": "other",
+      "alternateNames": [
+        "Kroken"
+      ],
+      "uses": [
+        {
+          "use": "badstuga"
+        }
+      ]
+    },
+    {
+      "name": "Winqvists bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på Frillan",
+      "uses": [
+        {
+          "use": "bastu"
+        }
+      ]
+    },
+    {
+      "name": "Frillan",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariets bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bastu",
+          "startYear": 1878,
+          "endYear": 1916
+        }
+      ]
+    },
+    {
+      "name": "Stadens badhus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Forsvikens linda vid åstranden söder om södra tullen",
+      "uses": [
+        {
+          "use": "badhus",
+          "startYear": 1896,
+          "endYear": 1916
+        }
+      ]
+    },
+    {
+      "name": "Norrtullsstranden",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Bircks bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på älvstranden nedanför Köttkontrollen",
+      "uses": [
+        {
+          "use": "bastu",
+          "startYear": 1931
+        }
+      ]
+    },
+    {
+      "name": "Köttkontrollen",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Thulins garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "garveri"
+        }
+      ]
+    },
+    {
+      "name": "Ahonens bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bastu"
+        }
+      ]
+    },
+    {
+      "name": "Herlers f.d. bryggeri",
+      "kind": "building",
+      "alternateNames": [
+        "Lottabastun"
+      ],
+      "uses": [
+        {
+          "use": "bryggeri"
+        },
+        {
+          "use": "bastu"
+        }
+      ]
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Gamla kvarnen"
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nålön",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Carlbergs badhus får tillstånd",
+      "date": {
+        "year": 1869,
+        "month": 6,
+        "day": 3,
+        "circa": false
+      },
+      "description": "Tullvaktmästare Carl Carlberg fick rätt att bygga ett allmänt badhus med ångbad och dusch på Granbergs linda.",
+      "people": [
+        "Carl Carlberg"
+      ],
+      "places": [
+        "Carlbergs badhus"
+      ]
+    },
+    {
+      "title": "Carlbergs bastu brinner",
+      "date": {
+        "year": 1894,
+        "month": 6,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Carlbergs oförsäkrade badstuga brann ner och byggdes inte upp igen.",
+      "people": [],
+      "places": [
+        "Carlbergs badhus"
+      ]
+    },
+    {
+      "title": "Kommunal badstuga byggs",
+      "date": {
+        "year": 1896,
+        "circa": false
+      },
+      "description": "Staden byggde ett kommunalt badhus vid åstranden söder om södra tullen.",
+      "people": [],
+      "places": [
+        "Stadens badhus"
+      ]
+    },
+    {
+      "title": "Badhuset brinner",
+      "date": {
+        "year": 1916,
+        "month": 2,
+        "day": 13,
+        "circa": false
+      },
+      "description": "Stadens badhus brann ner under ett ryskt bastubesök.",
+      "people": [],
+      "places": [
+        "Stadens badhus"
+      ]
+    },
+    {
+      "title": "Seminariets bastu brinner",
+      "date": {
+        "year": 1916,
+        "month": 4,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Ryska soldater brände ner seminariets bastu, enligt vad man antog med flit.",
+      "people": [],
+      "places": [
+        "Seminariets bastu"
+      ]
+    },
+    {
+      "title": "Bircks badhus öppnar",
+      "date": {
+        "year": 1931,
+        "circa": false,
+        "text": "våren 1931"
+      },
+      "description": "Johan Gustaf Bircks nybyggda badhus kunde öppnas efter dröjsmål med stadens lån.",
+      "people": [
+        "Johan Gustaf Birck"
+      ],
+      "places": [
+        "Bircks bastu"
+      ]
+    },
+    {
+      "title": "Ny bad- och tvättinrättning påbörjas",
+      "date": {
+        "year": 1949,
+        "month": 7,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Arbetet inleddes på en ny bad- och tvättinrättning nära kraftverket.",
+      "people": [],
+      "places": [
+        "Kraftverket"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl Carlberg",
+      "place": "Carlbergs badhus",
+      "relation": "built",
+      "startYear": 1869
+    },
+    {
+      "person": "Carl Carlberg",
+      "place": "Carlbergs badhus",
+      "relation": "owned"
+    },
+    {
+      "person": "Bastu-Anna",
+      "place": "Juthbacka kroken",
+      "relation": "worked"
+    },
+    {
+      "person": "Johan Gustaf Birck",
+      "place": "Bircks bastu",
+      "relation": "built",
+      "startYear": 1929,
+      "endYear": 1931
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bircks bastu",
+        "Köttkontrollen",
+        "Tullstranden",
+        "Thulins garveri",
+        "Ahonens bastu"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bircks bastu"
+      ]
+    }
+  ],
+  "contentHash": "027e5322e6ff2f9c9560c73baf8b59d2e0eb528a9244c463c2f5605fb2e1ce24",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

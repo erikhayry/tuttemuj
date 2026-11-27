@@ -1,0 +1,271 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/stamning.htm",
+  "title": "Stämningar och försvarsåtgärder under Krimkriget",
+  "summary": "Under Krimkriget höll Nykarlebyborna på ryssarna: bönder anmälde sig till kustförsvaret och batterier byggdes vid älvmynningen 1854. Lotsarna Anders Jakobsson och Simon Söderlund undkom en engelsk barkass, vars besättning plundrade på Alörn.",
+  "topics": [
+    "Krimkriget",
+    "kustförsvar",
+    "lotsar",
+    "blockad",
+    "handel"
+  ],
+  "people": [
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "skald",
+        "skribent"
+      ]
+    },
+    {
+      "name": "Collander",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Blank",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Mauritz Nordqvist",
+      "alternateNames": [
+        "Nordqvist"
+      ],
+      "roles": [
+        "länsman"
+      ]
+    },
+    {
+      "name": "Anders Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "lots"
+      ]
+    },
+    {
+      "name": "Simon Söderlund",
+      "alternateNames": [],
+      "roles": [
+        "lotslärling"
+      ]
+    },
+    {
+      "name": "Matts Jungell",
+      "alternateNames": [],
+      "roles": [
+        "lots"
+      ]
+    },
+    {
+      "name": "Anton Djupsjö",
+      "alternateNames": [],
+      "roles": [
+        "lotslärling"
+      ]
+    },
+    {
+      "name": "Petter Jakob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Nils August Bergsten",
+      "alternateNames": [],
+      "roles": [
+        "smed",
+        "vapensmed"
+      ]
+    },
+    {
+      "name": "Etholén",
+      "alternateNames": [],
+      "roles": [
+        "överste"
+      ]
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Leppogubben",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Ett batteri byggdes på norra stranden 1854."
+    },
+    {
+      "name": "Sandudden",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Plats för ett batteri på fastlandet."
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "description": "Plundrades av engelsmännen 1854.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58629777431156,
+        "lng": 22.447330826826224,
+        "match": "name",
+        "gazetteerName": "alörsfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Majniemi",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Åminne",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torsölandet",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gadden",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Laxörn",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Bönderna anmäler sig till kustförsvaret",
+      "date": {
+        "year": 1854,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Vid byastämmor i Nykarleby socken förband sig 217 man att hjälpa militären att försvara kusten.",
+      "people": [
+        "Mauritz Nordqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Engelsk landstigning på Alörn",
+      "date": {
+        "year": 1854,
+        "circa": false
+      },
+      "description": "En engelsk barkass besköt lotsar och gjorde strandhugg på Alörn, där bytet blev två fat västindisk rom.",
+      "people": [
+        "Anders Jakobsson",
+        "Simon Söderlund"
+      ],
+      "places": [
+        "Alörn"
+      ]
+    },
+    {
+      "title": "Slupen Försöket förliser",
+      "date": {
+        "year": 1854,
+        "month": 9,
+        "circa": false
+      },
+      "description": "C.W. Sundströms slup Försöket förolyckades vid Gadden i höststormen.",
+      "people": [],
+      "places": [
+        "Gadden"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Två lotsar har lagt ut nät när engelska krigsfartyg ankrar bredvid. Den gamle drar lugnt upp den fulla fångsten medan lärlingen trasslar med årorna, och sedan går jakten inåt skärgården med en ångbarkass i hälarna.",
+    "reason": "Spänning, humor och dialog i en komplett flykthistoria som slutar med att fienden bara får rom.",
+    "characters": [
+      "Anders Jakobsson",
+      "Simon Söderlund",
+      "Matts Jungell"
+    ],
+    "places": [
+      "Alörn",
+      "Djupsten",
+      "Torsölandet"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "2b18172911f8b5a83bfc96939d274ee753c4ea40064295fed1c6cd2fd52d84fa",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

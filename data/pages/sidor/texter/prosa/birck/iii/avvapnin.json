@@ -1,0 +1,305 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/avvapnin.htm",
+  "title": "Frihetskrigets utbrott i Nykarleby",
+  "summary": "Tidigt den 28 januari 1918 avväpnade Nykarlebys skyddskår de ryska soldaterna i Ringska gården, i Soklot och vid strandbatteriet vid Andra sjön. Allt var över på tre timmar utan blodsutgjutelse; det enda skottet var ett vådaskott.",
+  "topics": [
+    "frihetskriget",
+    "inbördeskriget",
+    "skyddskåren",
+    "avväpningen",
+    "1918"
+  ],
+  "people": [
+    {
+      "name": "Werner Labbart",
+      "alternateNames": [],
+      "roles": [
+        "kontorist",
+        "skyddskårsledare"
+      ]
+    },
+    {
+      "name": "Lauri Tiainen",
+      "alternateNames": [],
+      "roles": [
+        "jägarlöjtnant"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "direktor"
+      ]
+    },
+    {
+      "name": "August Johansson",
+      "alternateNames": [],
+      "roles": [
+        "poliskonstapel"
+      ]
+    },
+    {
+      "name": "Petter Blomqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jakob Nikonen",
+      "alternateNames": [],
+      "roles": [
+        "skyddskårsledare"
+      ]
+    },
+    {
+      "name": "Emil Kjellberg",
+      "alternateNames": [],
+      "roles": [
+        "lärare",
+        "skyddskårsledare"
+      ]
+    },
+    {
+      "name": "Lars Johannes Andersson",
+      "alternateNames": [
+        "L.J. Andersson"
+      ],
+      "roles": [
+        "skyddskårist"
+      ]
+    },
+    {
+      "name": "Oskar Wilkman",
+      "alternateNames": [],
+      "roles": [
+        "skyddskårsledare"
+      ]
+    },
+    {
+      "name": "Aug. Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "skyddskårsledare"
+      ]
+    },
+    {
+      "name": "Werner Blomström",
+      "alternateNames": [],
+      "roles": [
+        "skyddskårist"
+      ]
+    },
+    {
+      "name": "Erik Wiklund",
+      "alternateNames": [],
+      "roles": [
+        "student"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Landtmannabankens direktionsrum",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här gjordes anfallsplanen upp."
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skyddskårens samlingsplats.",
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gråsö batteri",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Åminnegård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Ringska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Ringska kasärnen"
+      ],
+      "uses": [
+        {
+          "use": "kasern"
+        },
+        {
+          "use": "fångläger"
+        }
+      ]
+    },
+    {
+      "name": "Ylönenska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 22 vid Köpmansgatan"
+    },
+    {
+      "name": "Köpmansgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "köpmansgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Strandbatteriet vid Andra sjön",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Order om avväpning",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Werner Labbart kom sent på kvällen med order att ryssarna skulle avväpnas samma natt.",
+      "people": [
+        "Werner Labbart"
+      ],
+      "places": []
+    },
+    {
+      "title": "Avväpningen i Nykarleby",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Skyddskåren avväpnade de ryska soldaterna i Ringska gården, i Soklot och vid strandbatteriet vid Andra sjön utan strid.",
+      "people": [
+        "Werner Labbart",
+        "Lars Johannes Andersson"
+      ],
+      "places": [
+        "Ringska gården",
+        "Strandbatteriet vid Andra sjön",
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Vådaskottet",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Utanför Ylönenska gården gick Werner Blomströms gevär av av misstag och sårade honom i näsan.",
+      "people": [
+        "Werner Blomström"
+      ],
+      "places": [
+        "Ylönenska gården"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En konstapel knackar på fönstret före fem på morgonen: nu är det krig. Sextiofem man med tretton gevär och en berömd lodbössa tågar mot rysskasernen, där en örfil avgör ”slaget i Nykarleby” – och det enda skottet tar en bit av en egen mans näsa.",
+    "reason": "Nattlig dramatik, komiska missöden och fiender som mest verkar lättade.",
+    "characters": [
+      "Werner Labbart",
+      "Gustaf Hedström",
+      "August Johansson",
+      "Lars Johannes Andersson",
+      "Werner Blomström"
+    ],
+    "places": [
+      "Seminariet",
+      "Ringska gården",
+      "Ylönenska gården"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "f660b39acde0de1ddf1d05ad33591cfb45a90480dda3e5dfb871a71b68a37c50",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

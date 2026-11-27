@@ -1,0 +1,176 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/nordqvis.htm",
+  "title": "Befallningsman Nordqvist",
+  "summary": "Länsman Mauritz Nordqvist, nära sju fot lång, kom till Nykarleby 1834 och väckte uppseende med sin storväxta familj. Erik Birck berättar om familjens kaffetörst, danslektionerna och gården söder om rådhustomten, som Nordqvist ropade in 1842.",
+  "topics": [
+    "länsman",
+    "personhistoria",
+    "vardagsliv",
+    "anekdoter"
+  ],
+  "people": [
+    {
+      "name": "Mauritz Nordqvist",
+      "alternateNames": [
+        "Nordqvist"
+      ],
+      "birthYear": 1802,
+      "deathYear": 1890,
+      "roles": [
+        "länsman",
+        "befallningsman"
+      ]
+    },
+    {
+      "name": "Margareta Sofia Långhjelm",
+      "alternateNames": [
+        "fru Nordqvist"
+      ],
+      "birthYear": 1797,
+      "deathYear": 1864,
+      "roles": []
+    },
+    {
+      "name": "Ida Nordqvist",
+      "alternateNames": [
+        "Ida"
+      ],
+      "birthYear": 1834,
+      "roles": []
+    },
+    {
+      "name": "Alfred Nordqvist",
+      "alternateNames": [
+        "Alfred"
+      ],
+      "birthYear": 1836,
+      "roles": []
+    },
+    {
+      "name": "Hilda Olson",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Erik Rechardt",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gård nr 136",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "söder om den nuvarande rådhustomten",
+      "description": "Senare T. Heikels gård nr 15 och 16."
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Nordqvist blir länsman i Nykarleby",
+      "date": {
+        "year": 1834,
+        "month": 12,
+        "circa": false
+      },
+      "description": "Mauritz Nordqvist kom till Nykarleby som länsman.",
+      "people": [
+        "Mauritz Nordqvist"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nordqvist köper gård på auktion",
+      "date": {
+        "year": 1842,
+        "month": 8,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Mauritz Nordqvist ropade in gården nr 136 söder om rådhustomten i Nykarleby på auktion.",
+      "people": [
+        "Mauritz Nordqvist"
+      ],
+      "places": [
+        "Gård nr 136"
+      ]
+    },
+    {
+      "title": "Gården säljs till Rechardt",
+      "date": {
+        "year": 1855,
+        "month": 3,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Före flytten till Keuru sålde Nordqvist sin gård till handlanden Erik Rechardt.",
+      "people": [
+        "Mauritz Nordqvist",
+        "Erik Rechardt"
+      ],
+      "places": [
+        "Gård nr 136"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "När den jättelike länsman Nordqvist syns närma sig blir det brådska i köket att få på kaffepannan. Hemma övar hela hans familj dans, medan tjänsteflickan ska betygsätta föreställningen.",
+    "reason": "Färgstarka personer och flera visuellt roliga scener.",
+    "characters": [
+      "Mauritz Nordqvist",
+      "Margareta Sofia Långhjelm",
+      "Ida Nordqvist",
+      "Alfred Nordqvist"
+    ],
+    "places": [
+      "Smedsbacka"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Mauritz Nordqvist",
+      "place": "Gård nr 136",
+      "relation": "owned",
+      "startYear": 1842,
+      "endYear": 1855
+    },
+    {
+      "person": "Erik Rechardt",
+      "place": "Gård nr 136",
+      "relation": "owned",
+      "startYear": 1855
+    }
+  ],
+  "images": [],
+  "contentHash": "b4eafb1531bb04073fcdaeb11739cf5d62dbbc9d42cdef7472612590a47906b1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

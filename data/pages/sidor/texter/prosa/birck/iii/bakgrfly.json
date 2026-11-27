@@ -1,0 +1,317 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bakgrfly.htm",
+  "title": "Bakgrunden till flyttningen av hamnen",
+  "summary": "På 1860-talet räckte hamnarna vid Åminne, Djupsten och Alörn inte längre för den växande exporten av sågvirke och livsmedel. Handelsmän byggde en väg från Rehmahlsbacken till Bonäsfjärden – första steget i hamnflytten till Västra stranden.",
+  "topics": [
+    "hamn",
+    "trävaruexport",
+    "Keppo såg",
+    "ångbåtstrafik",
+    "vägbygge"
+  ],
+  "people": [
+    {
+      "name": "G. A. Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Otto v. Essen",
+      "alternateNames": [
+        "v. Essen"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Peter Malm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Otto Malm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Peter Malm jun.",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Grundfeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Elias Roos",
+      "alternateNames": [
+        "Roos"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Frans Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "N. F. Nordman",
+      "alternateNames": [],
+      "roles": [
+        "förvaltare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Åminne",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Gamla hamnen med packhus och magasin.",
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.55428336823829,
+        "lng": 22.522567420169104,
+        "match": "name",
+        "gazetteerName": "åminne",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Beckbruket",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "beckbruk"
+        }
+      ]
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58629777431156,
+        "lng": 22.447330826826224,
+        "match": "name",
+        "gazetteerName": "alörsfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupstensfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Keppo såg",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "vid älven omkring 20 km från Nykarleby",
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ]
+    },
+    {
+      "name": "Bonäsfjärden",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthas",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4965492,
+        "lng": 22.523442,
+        "match": "name",
+        "gazetteerName": "juthas",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rehmahlsbacken",
+      "kind": "landmark",
+      "alternateNames": [
+        "Remahlsbacken"
+      ]
+    },
+    {
+      "name": "Westra Strand",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    },
+    {
+      "name": "Munkgrundet",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4945965,
+        "lng": 22.4341026,
+        "match": "name",
+        "gazetteerName": "munkgrundet",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Briggen Toimi byggs",
+      "date": {
+        "year": 1858,
+        "circa": false
+      },
+      "description": "Briggen Toimi byggdes på Bonäs varv för att exportera v. Essens plankor.",
+      "people": [
+        "G. M. Hedström",
+        "Otto v. Essen",
+        "Elias Roos",
+        "Frans Hedström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Väg till Bonäsfjärden",
+      "date": {
+        "year": 1862,
+        "circa": false,
+        "text": "hösten 1862"
+      },
+      "description": "Roos och handlanden G. M. Hedström fick rätt att anlägga en väg från Rehmahlsbacken till Bonäsfjärden för att skeppa ut virke.",
+      "people": [
+        "Elias Roos",
+        "G. M. Hedström"
+      ],
+      "places": [
+        "Rehmahlsbacken",
+        "Bonäsfjärden"
+      ]
+    },
+    {
+      "title": "Keppo såg brinner",
+      "date": {
+        "year": 1869,
+        "month": 9,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Keppo såg vid älven brann ner men byggdes genast upp igen.",
+      "people": [],
+      "places": [
+        "Keppo såg"
+      ]
+    },
+    {
+      "title": "Malm köper sågen",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Efter en process köpte Malm hela Keppo såg av v. Essen.",
+      "people": [],
+      "places": [
+        "Keppo såg"
+      ]
+    },
+    {
+      "title": "Sågen brinner för andra gången",
+      "date": {
+        "year": 1893,
+        "circa": false
+      },
+      "description": "Keppo såg brann ner på nytt och byggdes inte upp mera.",
+      "people": [],
+      "places": [
+        "Keppo såg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "G. A. Lindqvist",
+      "place": "Keppo såg",
+      "relation": "owned",
+      "endYear": 1838
+    },
+    {
+      "person": "Otto v. Essen",
+      "place": "Keppo såg",
+      "relation": "owned",
+      "startYear": 1838,
+      "endYear": 1876
+    }
+  ],
+  "images": [],
+  "contentHash": "e18b74db959c96684f2dbaf3e27a984838dadc16a69e4f7cfdcedf7b629a0a50",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

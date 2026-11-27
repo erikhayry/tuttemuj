@@ -1,0 +1,147 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/allmforh.htm",
+  "title": "Utrikeshandeln 1856–1884: allmänna förhållanden och exporten",
+  "summary": "Efter Krimkriget var Nykarleby en ganska blomstrande sjöfarts- och handelsstad, men nödår, kriser och nya handelsvägar försämrade läget. Erik Birck går igenom exporten av tjära, beck, trävaror, smör och många andra varor.",
+  "topics": [
+    "utrikeshandel",
+    "export",
+    "tjära",
+    "sjöfart",
+    "nödåren"
+  ],
+  "people": [
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bonäs",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.42140101603979,
+        "lng": 22.262697788821946,
+        "match": "name",
+        "gazetteerName": "bonäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Munkgrundet",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.4945965,
+        "lng": 22.4341026,
+        "match": "name",
+        "gazetteerName": "munkgrundet",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sandö",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    },
+    {
+      "name": "Roparnäs udde",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    },
+    {
+      "name": "Oravais",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Haraldsfors såg",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ]
+    },
+    {
+      "name": "Keppo såg",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Tjärexporten når sin topp",
+      "date": {
+        "year": 1863,
+        "circa": false
+      },
+      "description": "Exporten av tjära från Nykarleby nådde sin toppunkt 1863 med över 16 000 tunnor.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tullkammaren dras in",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "description": "Nykarlebys tullkammare, som funnits sedan 1763, drogs in 1922.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "f62a17425c154cbd605ce7935ffbd7fac046196255a6735ee90707e9ae1fba62",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

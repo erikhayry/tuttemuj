@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/ytareal.htm",
+  "title": "Stadens ytareal",
+  "summary": "Enligt 1840-talets stadsplan delades Nykarleby i 36 kvarter med 130 tomter, varav en mindre del i Nystaden. Erik Birck berättar om förbudet mot runda takvedstak och om byggtillstånd före branden, bland annat för magasin och väderkvarn.",
+  "topics": [
+    "stadsplan",
+    "tomter",
+    "byggnadsordning",
+    "kvarnar",
+    "före branden"
+  ],
+  "people": [
+    {
+      "name": "Nils August Bergsten",
+      "alternateNames": [],
+      "roles": [
+        "smedmästare"
+      ]
+    },
+    {
+      "name": "Matts Sandström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Johan Ölund",
+      "alternateNames": [
+        "Ölund"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Catharina Helena Kempe",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästaränka"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla staden",
+      "kind": "district",
+      "alternateNames": [],
+      "address": "öster om älven"
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Östra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra gatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Tomt nr 111",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "vid södra tullen"
+    },
+    {
+      "name": "Gården nr 131",
+      "kind": "building",
+      "alternateNames": [
+        "Benzelstjernas gård",
+        "Rosa Backmans gård",
+        "Browns gård"
+      ],
+      "address": "vid västra älvstranden ovanom bron"
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomtboken fastställs",
+      "date": {
+        "year": 1845,
+        "month": 5,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby fastställde den nya tomtboken med karta för framtida byggen.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Runda takved förbjuds",
+      "date": {
+        "year": 1843,
+        "month": 10,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Från detta datum förbjöds tak av rund takved och torv i Nykarleby på grund av eldfaran.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Bergsten får bygga hus",
+      "date": {
+        "year": 1846,
+        "circa": false
+      },
+      "description": "Smedmästare Nils August Bergsten fick tillstånd att bygga ett nytt boningshus vid Östra gatan.",
+      "people": [
+        "Nils August Bergsten"
+      ],
+      "places": [
+        "Östra gatan"
+      ]
+    },
+    {
+      "title": "Sandströms magasin",
+      "date": {
+        "year": 1848,
+        "circa": false
+      },
+      "description": "Handlande Matts Sandström fick rätt att bygga ett stort magasin på stadens mark nära södra tullen.",
+      "people": [
+        "Matts Sandström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Ölund",
+      "place": "Gården nr 131",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "c7cb608031a6cf4b4ec9337ab9ac67f25ffb74c365ba43b901be6aa7c6ee097a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

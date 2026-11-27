@@ -1,0 +1,171 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/turdgard.htm",
+  "title": "Turdinska gården under kriget",
+  "summary": "Under kriget 1808–1809 fylldes Turdinska gården vid torget i Nykarleby först av svenska och sedan av ryska officerare. Också fältmarskalk Klingspor höll taffel i huset, och döttrarna fick sköta hushållet medan modern flytt till Djupsten.",
+  "topics": [
+    "1808–09 års krig",
+    "inkvartering",
+    "Turdinska gården",
+    "anekdoter"
+  ],
+  "people": [
+    {
+      "name": "Johan Turdin",
+      "alternateNames": [
+        "rådman Turdin"
+      ],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Anna Sofia Turdin",
+      "alternateNames": [
+        "Rådmanskan Turdin"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Greta Christina Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Catharina Sofia Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mauritz Klingspor",
+      "alternateNames": [
+        "Klingspor"
+      ],
+      "roles": [
+        "fältmarskalk",
+        "baron"
+      ]
+    },
+    {
+      "name": "Augusta Turdin",
+      "alternateNames": [
+        "Augusta"
+      ],
+      "birthYear": 1809,
+      "roles": []
+    },
+    {
+      "name": "Rosenkampff",
+      "alternateNames": [],
+      "roles": [
+        "överste"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Turdinska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Gården nr 11",
+        "Forsbergska gården"
+      ],
+      "address": "nr 11, på västra sidan om torget",
+      "description": "Troligen stadens förnämsta gård vid sekelskiftet 1800."
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Militärinkvartering hos Turdins",
+      "date": {
+        "year": 1808,
+        "endYear": 1809,
+        "circa": false
+      },
+      "description": "Under kriget inkvarterades först svenska och sedan ryska officerare i Turdinska gården vid torget.",
+      "people": [],
+      "places": [
+        "Turdinska gården"
+      ]
+    },
+    {
+      "title": "Skålen för Sveaborg",
+      "date": {
+        "year": 1808,
+        "month": 5,
+        "day": 3,
+        "circa": false
+      },
+      "description": "En rysk platsmajor skålade i Turdins salong för att Sveaborg överlämnades, men rådman Turdin kunde inte dricka den skålen.",
+      "people": [
+        "Johan Turdin"
+      ],
+      "places": [
+        "Turdinska gården"
+      ]
+    },
+    {
+      "title": "Augusta Turdin föds",
+      "date": {
+        "year": 1809,
+        "month": 10,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Rådman Turdins dotter Augusta föddes och blev senare gift med överste Rosenkampff.",
+      "people": [
+        "Augusta Turdin",
+        "Johan Turdin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Rådman Turdin sitter som gäst vid ryssarnas bord i sin egen salong när majoren höjer glaset för Sveaborgs fall. Värden ställer tyst ner sitt eget – den skålen kan han inte tömma.",
+    "reason": "En laddad bordsscen där en enda gest säger allt om att leva med en ockupant.",
+    "characters": [
+      "Johan Turdin",
+      "Greta Christina Turdin",
+      "Catharina Sofia Turdin",
+      "Mauritz Klingspor"
+    ],
+    "places": [
+      "Turdinska gården"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Johan Turdin",
+      "place": "Turdinska gården",
+      "relation": "lived",
+      "startYear": 1808,
+      "endYear": 1809
+    }
+  ],
+  "images": [],
+  "contentHash": "757ff27e02838779716384344e2e77f93f619fd457158ff4bee5dbc1b05ae788",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

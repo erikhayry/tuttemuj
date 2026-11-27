@@ -1,0 +1,174 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/musik.htm",
+  "title": "Musik i gamla Nykarleby",
+  "summary": "Före branden spelade vaktmästaren Israel Forstén och halvbröderna Wahlberg i en orkester i Nykarleby, bland annat vid bröllop och fartygsutskjutningar. Texten berättar också om Magnus Wahlbergs harpa och en fiolkonsert i Elementarskolan på 1860-talet.",
+  "topics": [
+    "musik",
+    "orkester",
+    "kulturliv",
+    "bröllop"
+  ],
+  "people": [
+    {
+      "name": "Israel Forstén",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare",
+        "violinist"
+      ]
+    },
+    {
+      "name": "Magnus Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare",
+        "musikant"
+      ]
+    },
+    {
+      "name": "Petter Olof Wahlberg",
+      "alternateNames": [
+        "Pelle Wahlberg"
+      ],
+      "roles": [
+        "hattmakare",
+        "musikant"
+      ]
+    },
+    {
+      "name": "Thilda Lundbohm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sundell",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "Silfvast",
+      "alternateNames": [],
+      "roles": [
+        "kaptenska"
+      ],
+      "description": "Född Wahlberg, färgare Wahlbergs dotter."
+    },
+    {
+      "name": "Emil Sundell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Johan Lindberg",
+      "alternateNames": [],
+      "roles": [
+        "konsertmästare",
+        "violinist"
+      ]
+    },
+    {
+      "name": "Zachris Schalin",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Alörn",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Här fanns Lybecks paviljong.",
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybecks paviljong",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariets trädgårdsmästarbostad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här firades Thilda Lundbohms bröllop."
+    },
+    {
+      "name": "Elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Fiolkonsert i Elementarskolan",
+      "date": {
+        "year": 1863,
+        "endYear": 1864,
+        "circa": false,
+        "text": "1863 eller 1864 på hösten"
+      },
+      "description": "Konsertmästaren Karl Johan Lindberg gav en fiolkonsert i ett klassrum i Elementarskolan i Nykarleby.",
+      "people": [
+        "Karl Johan Lindberg",
+        "Zachris Schalin"
+      ],
+      "places": [
+        "Elementarskolan"
+      ]
+    },
+    {
+      "title": "Utskjutningen av skonaren Zachris Topelius",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "description": "Orkestern spelade på Alörn i Lybecks paviljong när skonaren Zachris Topelius sjösattes.",
+      "people": [],
+      "places": [
+        "Alörn",
+        "Lybecks paviljong"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "När gästerna går hem efter ett stort bröllop ligger musikanten Pelle Wahlberg redlös och sover med armarna om sin basfiol.",
+    "reason": "En tydlig och rolig bild från gamla tiders fester.",
+    "characters": [
+      "Petter Olof Wahlberg",
+      "Thilda Lundbohm"
+    ],
+    "places": [
+      "Seminariets trädgårdsmästarbostad"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "4b73d6892376e13d84f8712ec83af41b5d85f185a385c337eae5a9b0f3302cd0",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

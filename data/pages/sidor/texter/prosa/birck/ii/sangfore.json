@@ -1,0 +1,200 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/sangfore.htm",
+  "title": "Sångföreningen på 1850–1860-talet",
+  "summary": "Rektor Edvard Karsten grundade en blandad sångförening i Nykarleby i slutet av 1850-talet. Texten räknar upp medlemmarna och berättar om gästande sångartolvor, bland dem konserten 1869, då en soaré på Brunnsholmarna slutade i en drunkningsolycka.",
+  "topics": [
+    "körsång",
+    "föreningsliv",
+    "konserter",
+    "drunkning"
+  ],
+  "people": [
+    {
+      "name": "Edvard Karsten",
+      "alternateNames": [],
+      "roles": [
+        "rektor",
+        "körledare"
+      ]
+    },
+    {
+      "name": "Fr. Forsius",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "Fr. E. Fontell",
+      "alternateNames": [],
+      "roles": [
+        "student"
+      ]
+    },
+    {
+      "name": "Karl Krank",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Nils Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Konon Falck",
+      "alternateNames": [],
+      "roles": [
+        "körledare"
+      ]
+    },
+    {
+      "name": "Julius Sandström",
+      "alternateNames": [],
+      "roles": [
+        "sångare"
+      ]
+    },
+    {
+      "name": "Lotta Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hanna Sundström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Emmi Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm Gästrin",
+      "alternateNames": [],
+      "roles": [
+        "student"
+      ]
+    },
+    {
+      "name": "Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grundfeldts stora sal",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Västra Esplanadgatan 14",
+      "uses": [
+        {
+          "use": "konsertsal"
+        }
+      ]
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunnsholmarnas värdshus",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "värdshus"
+        }
+      ],
+      "geo": {
+        "lat": 63.51849194746259,
+        "lng": 22.521803964142805,
+        "match": "name",
+        "gazetteerName": "värdshuset på brunnsholmarna",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Konserter för välgörenhet",
+      "date": {
+        "year": 1867,
+        "circa": false,
+        "text": "våren 1867"
+      },
+      "description": "Sångföreningen i Nykarleby gav två fullsatta konserter för att studenten Wilhelm Gästrin skulle kunna studera i Helsingfors.",
+      "people": [
+        "Wilhelm Gästrin"
+      ],
+      "places": []
+    },
+    {
+      "title": "Pojke drunknar efter sångarsoupé",
+      "date": {
+        "year": 1869,
+        "circa": false
+      },
+      "description": "Efter en konsert i Grundfeldts sal rasade fyra pojkar från berget i ån vid Brunnsholmarnas värdshus; sångarna räddade tre av dem men en drunknade.",
+      "people": [],
+      "places": [
+        "Brunnsholmarnas värdshus",
+        "Grundfeldts stora sal"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Sångartolvan sitter vid soupén på Brunnsholmarna när fyra nyfikna pojkar rasar från berget ner i ån. Sångarna kastar av sig rockarna och simmar efter dem, men bara tre går att rädda.",
+    "reason": "En dramatisk vändning mitt i en festkväll, med räddningsinsats och sorgligt slut.",
+    "characters": [],
+    "places": [
+      "Brunnsholmarnas värdshus"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "0b15f31f64f97f070e9119e8a00991d32a456504fd3ba1193d595fad9e8c078f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,214 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/batbygge.htm",
+  "title": "Nykarleby båtbyggeri",
+  "summary": "Fabrikör Sune Storbjörk startade 1964 Nykarleby Båtvarv i en ny industrihall vid Kovjokivägen. Efter konkursen 1970 tog Oy Nykra över och byggde bland annat segelbåten Sunwind; båtbygget har fortsatt som Botnia Marin.",
+  "topics": [
+    "båtbygge",
+    "industri",
+    "segelbåtar",
+    "Sunwind"
+  ],
+  "people": [
+    {
+      "name": "Sune Storbjörk",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Sven Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "båtbyggmästare"
+      ]
+    },
+    {
+      "name": "Markku Ranta",
+      "alternateNames": [],
+      "roles": [
+        "tekniker"
+      ]
+    },
+    {
+      "name": "Rainer Svenfelt",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Tord Sundén",
+      "alternateNames": [],
+      "roles": [
+        "konstruktör"
+      ]
+    },
+    {
+      "name": "Evald Nordling",
+      "alternateNames": [],
+      "roles": [
+        "delägare",
+        "produktionschef"
+      ]
+    },
+    {
+      "name": "Karl-Gustav Broo",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Bengt Svenfelt",
+      "alternateNames": [],
+      "roles": [
+        "snickare"
+      ]
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Industriområdet vid Kovjokivägen",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "båtvarv",
+          "startYear": 1964
+        }
+      ]
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Fiskars fabriker",
+      "kind": "building",
+      "alternateNames": [
+        "Joupers fabriker"
+      ],
+      "uses": [
+        {
+          "use": "båtvarv",
+          "startYear": 1968
+        }
+      ],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Botnia Marin",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "båtvarv"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Båtvarvet startar",
+      "date": {
+        "year": 1964,
+        "month": 8,
+        "circa": false
+      },
+      "description": "Industrihallen vid Kovjokivägen blev klar för Sune Storbjörks nya båtbyggeri i Nykarleby.",
+      "people": [
+        "Sune Storbjörk"
+      ],
+      "places": [
+        "Industriområdet vid Kovjokivägen"
+      ]
+    },
+    {
+      "title": "Övergång till plastbåtar",
+      "date": {
+        "year": 1968,
+        "circa": false
+      },
+      "description": "Nykarleby Båtvarv övergick helt till plastbåtar och flyttade till Fiskars före detta fabriker.",
+      "people": [],
+      "places": [
+        "Fiskars fabriker"
+      ]
+    },
+    {
+      "title": "Varvet går i konkurs",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "description": "Nykarleby Båtvarv gick i konkurs i den hårdnande konkurrensen.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Oy Nykra tar över",
+      "date": {
+        "year": 1971,
+        "circa": false
+      },
+      "description": "Det nybildade bolaget Oy Nykra tog över båtvarvets anläggningar med Rainer Svenfelt som direktör.",
+      "people": [
+        "Rainer Svenfelt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Sune Storbjörk",
+      "place": "Industriområdet vid Kovjokivägen",
+      "relation": "ran",
+      "startYear": 1964,
+      "endYear": 1970
+    }
+  ],
+  "images": [
+    {
+      "image": 4,
+      "places": [
+        "Botnia Marin"
+      ],
+      "year": 2014
+    }
+  ],
+  "contentHash": "507b625242ca7fac97ebef0f5c4bb109aa65b08599c222d2e6fb5607272f327b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

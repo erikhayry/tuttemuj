@@ -1,0 +1,324 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/dammhave.htm",
+  "title": "Dammen stjälper",
+  "summary": "Våren 1926 klarade Nykarlebys nya kraftverksdamm vid Nybroforsen en våldsam islossning, men den 5 maj rasade en del av den. Erik Birck berättar om ispackningarna, dynamitsprängningarna och stadsbornas spänning.",
+  "topics": [
+    "kraftverk",
+    "dammbygge",
+    "islossning",
+    "vårflod",
+    "elektricitet"
+  ],
+  "people": [
+    {
+      "name": "K.J. Hagfors",
+      "alternateNames": [
+        "Kurre",
+        "Hagfors"
+      ],
+      "roles": [
+        "seminariedirektor",
+        "kåsör"
+      ]
+    },
+    {
+      "name": "Kamis",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Håkan Nyberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Birgitta Nars",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Axel Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Ljuskvarnen"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        },
+        {
+          "use": "kraftverk"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kraftverket",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kraftverk"
+        }
+      ],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Storbron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nålön",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "other",
+      "alternateNames": [
+        "Smedsbackastranden"
+      ],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rajån",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Forsbacka",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51043758248433,
+        "lng": 22.530463770389918,
+        "match": "name",
+        "gazetteerName": "forsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariestranden",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Islossning vid Nybroforsen",
+      "date": {
+        "year": 1926,
+        "month": 4,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Isen packade sig mot de nya dammpelarna vid Nybroforsen och vattnet steg fyra meter över medelnivån innan dynamit frigjorde forsen.",
+      "people": [],
+      "places": [
+        "Nybroforsen"
+      ]
+    },
+    {
+      "title": "Jeppoisen når staden",
+      "date": {
+        "year": 1926,
+        "month": 4,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Kyrkklockorna väckte stadsborna när ismassor hotade bron och dammen, och man sprängde vid Forsby under byggmästare Kamis ledning tills isfördämningen brast på eftermiddagen.",
+      "people": [
+        "Kamis"
+      ],
+      "places": [
+        "Forsby",
+        "Stora bron"
+      ]
+    },
+    {
+      "title": "Dammraset",
+      "date": {
+        "year": 1926,
+        "month": 5,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Den nya kraftverksdammen vid Nybroforsen brast delvis sedan vattnet underminerat grunden, och två betongpelare störtade.",
+      "people": [],
+      "places": [
+        "Nybroforsen",
+        "Seminariestranden"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Kyrkklockorna ringer i gryningen: isdammen uppströms har brustit och hela staden rusar till stranden för att se om bron och den dyra nya dammen ska hålla. Dynamiten tar slut, isen ger vika, jubel – och en vecka senare rasar dammen ändå.",
+    "reason": "Spänning, folkmassor, sprängningar och en bitter vändning.",
+    "characters": [
+      "K.J. Hagfors",
+      "Kamis"
+    ],
+    "places": [
+      "Nybroforsen",
+      "Stora bron",
+      "Forsby"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 3,
+      "places": [
+        "Nybroforsen"
+      ],
+      "year": 1926
+    },
+    {
+      "image": 5,
+      "places": [],
+      "year": 1928
+    },
+    {
+      "image": 6,
+      "places": [],
+      "year": 1928
+    }
+  ],
+  "contentHash": "d7f40d40f7c5e85d7fa4c77418cb60f4ee90a0ce119d23922cd1974cc47d4a59",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

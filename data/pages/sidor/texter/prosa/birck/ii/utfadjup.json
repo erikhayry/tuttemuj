@@ -1,0 +1,144 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/utfadjup.htm",
+  "title": "Utfärder till Djupsten",
+  "summary": "Sommaren 1831 gick kommerserådet Turdins sällskap vilse i tät dimma på väg hem från skärgården och fick övernatta på Djupstens skeppsvarv. Erik Birck berättar också om en vinrik bjudning ombord på ett fartyg som just kommit från Spanien.",
+  "topics": [
+    "utfärder",
+    "skärgård",
+    "Djupsten",
+    "Topelius",
+    "anekdoter"
+  ],
+  "people": [
+    {
+      "name": "Johan Turdin",
+      "alternateNames": [],
+      "roles": [
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "Augusta Turdin",
+      "alternateNames": [
+        "Augusta"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Sofie Topelius",
+      "alternateNames": [
+        "Sofie Schalin"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Blank",
+      "alternateNames": [],
+      "roles": [
+        "informator"
+      ]
+    },
+    {
+      "name": "Gustaf Turdin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Svahn",
+      "alternateNames": [],
+      "roles": [
+        "löjtnant",
+        "magister"
+      ]
+    },
+    {
+      "name": "Henrik Backman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kubban",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Djupsten",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skeppsvarv"
+        }
+      ],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rågårdshällan",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Vilse i dimman",
+      "date": {
+        "year": 1831,
+        "circa": false,
+        "text": "sommaren 1831"
+      },
+      "description": "Turdins sällskap rodde vilse i dimman på väg hem från skärgården och övernattade på Djupstens skeppsvarv.",
+      "people": [
+        "Johan Turdin",
+        "Augusta Turdin",
+        "Sofie Topelius"
+      ],
+      "places": [
+        "Djupsten"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Gubben Turdin styr själv hem i tjock dimma, grälar med roddarna och får dem att ro varv efter varv runt de ankrade fartygen. Barnen kurar under hans pälsskört tills varvet på Djupsten plötsligt tonar fram.",
+    "reason": "En komisk irrfärd med envis kapten, spefulla roddare och barnens blick på det hela.",
+    "characters": [
+      "Johan Turdin",
+      "Sofie Topelius",
+      "Augusta Turdin"
+    ],
+    "places": [
+      "Kubban",
+      "Djupsten"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "6833f6f0ffc9a43db1826e87e7d292efbb033d1772717fc4fc44dc4e8e229f04",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,290 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/brandkar.htm",
+  "title": "Nykarleby frivilliga brandkår",
+  "summary": "Nykarlebys frivilliga brandkår bildades 1882 och blev under lektor Wichmann på 1890-talet en uniformerad skara med hornorkester, parader och eget hus, Asgård. Kåren övade också inför en väntad frihetskamp men upphörde 1899.",
+  "topics": [
+    "brandkår",
+    "Asgård",
+    "ofärdsåren",
+    "föreningsliv",
+    "hornorkester"
+  ],
+  "people": [
+    {
+      "name": "V.K.E. Wichmann",
+      "alternateNames": [
+        "Wichmann"
+      ],
+      "roles": [
+        "lektor",
+        "kårchef",
+        "skald"
+      ]
+    },
+    {
+      "name": "K.F. Spolander",
+      "alternateNames": [],
+      "roles": [
+        "kårchef"
+      ]
+    },
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "E. Ekroth",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hugo Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "Petter Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J.A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "donator"
+      ]
+    },
+    {
+      "name": "S. Sörensen",
+      "alternateNames": [
+        "Sörensen"
+      ],
+      "roles": [
+        "musiker",
+        "kapellmästare"
+      ]
+    },
+    {
+      "name": "J.V. Lillqvist",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    },
+    {
+      "name": "Katarina Lillqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "A. Kankkonen",
+      "alternateNames": [],
+      "roles": [
+        "hotellvärd"
+      ]
+    },
+    {
+      "name": "H. Häggström",
+      "alternateNames": [],
+      "roles": [
+        "postiljon"
+      ]
+    },
+    {
+      "name": "A. Herler",
+      "alternateNames": [],
+      "roles": [
+        "bryggmästare"
+      ]
+    },
+    {
+      "name": "Emil Forsander",
+      "alternateNames": [],
+      "roles": [
+        "skribent"
+      ]
+    },
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "roles": [
+        "kronokassör"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Asgård",
+      "kind": "building",
+      "alternateNames": [
+        "Brandkårshuset"
+      ],
+      "address": "tomt nr 26 vid S. Torggatan",
+      "uses": [
+        {
+          "use": "brandkårshus",
+          "startYear": 1894,
+          "endYear": 1899
+        }
+      ],
+      "nameOrigin": "Wichmann döpte huset till Asgård efter de forna nordiska gudarnas boning.",
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "S. Torggatan",
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "södra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Norra Torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "N. Torggatan",
+        "Bankgatan"
+      ],
+      "geo": {
+        "lat": 63.52270006915547,
+        "lng": 22.530149332227236,
+        "match": "name",
+        "gazetteerName": "norra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadsparken",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Brandkåren bildas",
+      "date": {
+        "year": 1882,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Nykarleby frivilliga brandkår bildades efter ett upprop i ortstidningen.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Asgård byggs",
+      "date": {
+        "year": 1894,
+        "circa": false
+      },
+      "description": "Brandkårshuset Asgård uppfördes vid Södra Torggatan.",
+      "people": [
+        "V.K.E. Wichmann"
+      ],
+      "places": [
+        "Asgård"
+      ]
+    },
+    {
+      "title": "Brandkårerna samlas i staden",
+      "date": {
+        "year": 1895,
+        "circa": false,
+        "text": "pingstdagarna 1895"
+      },
+      "description": "Närmare 3 000 man ur Österbottens svenska brandkårer paraderade genom Nykarleby med fanor och hornmusik.",
+      "people": [
+        "V.K.E. Wichmann"
+      ],
+      "places": []
+    },
+    {
+      "title": "Brandkårshuset säljs",
+      "date": {
+        "year": 1900,
+        "month": 6,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Sedan brandkårens verksamhet upphört såldes huset till postiljon H. Häggström.",
+      "people": [
+        "H. Häggström"
+      ],
+      "places": [
+        "Asgård"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Pingsten 1895 tågar tre tusen brandmän genom lilla Nykarleby med blänkande kaskar och trummor, och i spetsen rider lektorn och skalden Wichmann som en segerrik härförare – medan de ryska myndigheterna börjar undra vad det egentligen övas för.",
+    "reason": "En storslagen paradscen med dold politisk spänning under uniformerna.",
+    "characters": [
+      "V.K.E. Wichmann"
+    ],
+    "places": [
+      "Asgård"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "H. Häggström",
+      "place": "Asgård",
+      "relation": "owned",
+      "startYear": 1900
+    },
+    {
+      "person": "J.V. Lillqvist",
+      "place": "Asgård",
+      "relation": "worked",
+      "startYear": 1894
+    },
+    {
+      "person": "Katarina Lillqvist",
+      "place": "Asgård",
+      "relation": "worked",
+      "startYear": 1894
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1895
+    }
+  ],
+  "contentHash": "ae343192d57f5840ac9e9f760c687cbad5928a1f346d67b4766be4ff6850f4c8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

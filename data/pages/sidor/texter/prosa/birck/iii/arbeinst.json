@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/arbeinst.htm",
+  "title": "Arbetarinstitutet",
+  "summary": "Nykarleby fick sitt arbetarinstitut 1963 som den sista staden i Finland, och det öppnade i seminariefolkskolans lokaler. Kurserna växte snabbt: läsåret 1974–1975 hade institutet över tusen elever.",
+  "topics": [
+    "arbetarinstitut",
+    "vuxenutbildning",
+    "kurser",
+    "skolstad"
+  ],
+  "people": [
+    {
+      "name": "Ernest Eklund",
+      "alternateNames": [],
+      "roles": [
+        "stadsdirektör",
+        "direktionsordförande"
+      ]
+    },
+    {
+      "name": "B. Wistbacka",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "J. Fors",
+      "alternateNames": [],
+      "roles": [
+        "seminarielärare"
+      ]
+    },
+    {
+      "name": "Lennart Winqvist",
+      "alternateNames": [
+        "L. Winqvist"
+      ],
+      "roles": [
+        "överlärare",
+        "rektor"
+      ]
+    },
+    {
+      "name": "Carl-Johan Palm",
+      "alternateNames": [],
+      "roles": [
+        "lektor",
+        "rektor"
+      ]
+    },
+    {
+      "name": "Ole Fagernäs",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "Ronny Sjöblom",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Seminariefolkskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "arbetarinstitut",
+          "startYear": 1963
+        }
+      ]
+    },
+    {
+      "name": "Seminariets övningsskola",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Normen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Munsala",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.45255479999999,
+        "lng": 22.4371037,
+        "match": "name",
+        "gazetteerName": "munsala",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Arbetarinstitutet öppnas",
+      "date": {
+        "year": 1963,
+        "month": 9,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Nykarlebys arbetarinstitut öppnades med en högtidlighet i seminariets övningsskola, med Lennart Winqvist som rektor.",
+      "people": [
+        "Lennart Winqvist",
+        "Ernest Eklund"
+      ],
+      "places": [
+        "Seminariets övningsskola"
+      ]
+    },
+    {
+      "title": "Jeppo ansluts",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "description": "Jeppo kommun inordnades i Nykarlebys arbetarinstitut.",
+      "people": [],
+      "places": [
+        "Jeppo"
+      ]
+    },
+    {
+      "title": "Instituten slås ihop",
+      "date": {
+        "year": 1975,
+        "month": 8,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Nykarleby och Munsala arbetarinstitut skulle slås samman till ett.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Normen"
+      ]
+    }
+  ],
+  "contentHash": "95e9c74d72dd994c3bdd938ac4b86f832e47dcd77b02e4da47c61b4389782134",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

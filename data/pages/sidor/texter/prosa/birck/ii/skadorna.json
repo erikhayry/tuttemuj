@@ -1,0 +1,171 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/skadorna.htm",
+  "title": "Skadorna efter kriget 1808–1809",
+  "summary": "Efter kriget 1808–1809 ersatte tsaren skadorna i Nykarleby: Storbron hade bränts, men inga hus. Erik Birck återger invånarnas ersättningskrav, från hattmakardottern Elisabeth Henelius förstörda sal till köpman Carl Backmans förlorade spannmål.",
+  "topics": [
+    "1808–09 års krig",
+    "skadestånd",
+    "ryska soldater",
+    "inkvartering"
+  ],
+  "people": [
+    {
+      "name": "Elisabeth Henelius",
+      "alternateNames": [],
+      "roles": [
+        "hattmakardotter"
+      ]
+    },
+    {
+      "name": "Carl Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Christina Backman",
+      "alternateNames": [],
+      "roles": [
+        "handelsmansänka"
+      ]
+    },
+    {
+      "name": "Zach. Nordgren",
+      "alternateNames": [],
+      "roles": [
+        "guldsmedsgesäll"
+      ]
+    },
+    {
+      "name": "Johan Wallin",
+      "alternateNames": [],
+      "roles": [
+        "stadsbetjänt"
+      ]
+    },
+    {
+      "name": "Johan Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "borgarson"
+      ]
+    },
+    {
+      "name": "Carl Backman",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Kulneff",
+      "alternateNames": [],
+      "roles": [
+        "överste"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Brändes under kriget 1808–1809.",
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "other",
+      "alternateNames": [],
+      "description": "Här lades en provisorisk spång av stenar över älven.",
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gården nr 25",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 23",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 24",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Gården nr 20",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ryska trupper i Nykarleby",
+      "date": {
+        "year": 1808,
+        "circa": false
+      },
+      "description": "Inkvarterade ryska soldater eldade upp gärdsgårdar och virke och plundrade i mindre skala hos stadsborna i Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Storbron bränns",
+      "date": {
+        "year": 1808,
+        "endYear": 1809,
+        "circa": false
+      },
+      "description": "Storbron i Nykarleby brändes under kriget, och trafiken gick med färja och en stenspång vid Ragnörn.",
+      "people": [],
+      "places": [
+        "Storbron",
+        "Ragnörn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Elisabeth Henelius",
+      "place": "Gården nr 25",
+      "relation": "lived"
+    },
+    {
+      "person": "Carl Lindqvist",
+      "place": "Gården nr 23",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "3b7b29be40132b9e8870597cfc8cbb05f86bb985dc634dfad150ae5c8f819bd5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

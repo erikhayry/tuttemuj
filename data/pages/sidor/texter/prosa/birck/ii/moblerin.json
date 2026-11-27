@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/moblerin.htm",
+  "title": "Möbleringen i Nykarleby i början av 1800-talet",
+  "summary": "I början av 1800-talet stod vita möbler hos Turdins och olika stolar på Kuddnäs. Erik Birck beskriver unge Gustaf Turdins eleganta möbler från Köpenhamn, med en stor imperialsäng och en tavla med speldosa, som delvis hamnade på Kuddnäs.",
+  "topics": [
+    "möbler",
+    "inredning",
+    "borgerskapet",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Turdin",
+      "alternateNames": [
+        "unga Turdin"
+      ],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Turdin",
+      "alternateNames": [],
+      "deathYear": 1834,
+      "roles": [
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "Alexander I",
+      "alternateNames": [],
+      "roles": [
+        "kejsare"
+      ]
+    },
+    {
+      "name": "Rosenkampff",
+      "alternateNames": [],
+      "roles": [
+        "baron"
+      ]
+    },
+    {
+      "name": "F. W. Argelander",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "Alexandra Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zachris Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hit kom en del av de Turdinska möblerna.",
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kommerserådet Turdin dör",
+      "date": {
+        "year": 1834,
+        "circa": false
+      },
+      "description": "Efter kommerserådet Turdins bortgång kom en del av hans moderna möbler till Kuddnäs.",
+      "people": [
+        "Turdin"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Flygel köps till Kuddnäs",
+      "date": {
+        "year": 1837,
+        "circa": false
+      },
+      "description": "Baron Rosenkampff köpte en mahognyflygel av professor Argelander för Kuddnäsfamiljens räkning.",
+      "people": [
+        "Rosenkampff",
+        "F. W. Argelander"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "a123363dcfd1d4e2f9db4a5be12c6a64da3461d037e9bad873f34dc8774fefae",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/stromber.htm",
+  "title": "Familjen Stromberg",
+  "summary": "Postmästaren, baron Johan Alexander Stromberg, bodde omkring 1846 med mor och syster i rådman Hammarins hus i Nykarleby. Erik Birck berättar om den obeslutsamma systern, den grälsjuke baronen och fosterdottern Mina Hedberg.",
+  "topics": [
+    "postmästare",
+    "adel",
+    "personhistoria",
+    "anekdoter"
+  ],
+  "people": [
+    {
+      "name": "Johan Alexander Stromberg",
+      "alternateNames": [
+        "baron Stromberg"
+      ],
+      "birthYear": 1800,
+      "deathYear": 1869,
+      "roles": [
+        "postmästare",
+        "baron"
+      ]
+    },
+    {
+      "name": "Ulrica Sofia Henriette Stromberg",
+      "alternateNames": [
+        "frk Henriette"
+      ],
+      "birthYear": 1804,
+      "deathYear": 1876,
+      "roles": [
+        "stiftsfröken"
+      ]
+    },
+    {
+      "name": "Birgitta Charlotta Stromberg",
+      "alternateNames": [],
+      "birthYear": 1806,
+      "deathYear": 1852,
+      "roles": [
+        "friherrinna"
+      ]
+    },
+    {
+      "name": "Fontell",
+      "alternateNames": [],
+      "roles": [
+        "assessorska"
+      ]
+    },
+    {
+      "name": "Augusta Rosenkampff",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mina Hedberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådman Hammarins hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 22"
+    }
+  ],
+  "events": [
+    {
+      "title": "Stromberg blir postförvaltare",
+      "date": {
+        "year": 1841,
+        "month": 4,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Baron Johan Alexander Stromberg blev postförvaltare i Nykarleby.",
+      "people": [
+        "Johan Alexander Stromberg"
+      ],
+      "places": []
+    },
+    {
+      "title": "Baron Stromberg dör",
+      "date": {
+        "year": 1869,
+        "month": 2,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Baron Stromberg dog ogift i Nykarleby, och ätten dog ut på svärdssidan.",
+      "people": [
+        "Johan Alexander Stromberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Alexander Stromberg",
+      "place": "Rådman Hammarins hus",
+      "relation": "lived",
+      "startYear": 1846,
+      "endYear": 1846
+    },
+    {
+      "person": "Ulrica Sofia Henriette Stromberg",
+      "place": "Rådman Hammarins hus",
+      "relation": "lived",
+      "startYear": 1846,
+      "endYear": 1846
+    },
+    {
+      "person": "Birgitta Charlotta Stromberg",
+      "place": "Rådman Hammarins hus",
+      "relation": "lived",
+      "startYear": 1846,
+      "endYear": 1846
+    }
+  ],
+  "images": [],
+  "contentHash": "dc9f34782cbe126801499ea5b598a57babef927ec61773d8163bb75e989506b2",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

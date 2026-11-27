@@ -1,0 +1,187 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/1879och1.htm",
+  "title": "Fattigvården 1877–1887 och fattigvårdsreglementena",
+  "summary": "På 1880-talet var många i Nykarleby beroende av fattigvård, privata fonder och välgörenhetsföreningar, och underhållet drygades ut genom tiggeri. Erik Birck går också igenom reglementena från 1879 och 1894.",
+  "topics": [
+    "fattigvård",
+    "välgörenhet",
+    "donationsfonder",
+    "reglementen"
+  ],
+  "people": [
+    {
+      "name": "Pauline Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsulinna",
+        "donator"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "donator"
+      ]
+    },
+    {
+      "name": "Lotta Lindqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mika Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "kontorist",
+        "donator"
+      ]
+    },
+    {
+      "name": "Karl Johan Rudman",
+      "alternateNames": [],
+      "roles": [
+        "tändsticksfabrikant"
+      ]
+    },
+    {
+      "name": "Th. Wilander",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "I. Taucher",
+      "alternateNames": [],
+      "roles": [
+        "tillförordnad borgmästare"
+      ]
+    },
+    {
+      "name": "G. A. Helsingius",
+      "alternateNames": [],
+      "roles": [
+        "fattigvårdsinspektör"
+      ]
+    },
+    {
+      "name": "Fr. Olson",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tändsticksfabrik",
+          "endYear": 1886
+        }
+      ]
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Köptes av landsförsamlingen till fattiggård.",
+      "uses": [
+        {
+          "use": "fattiggård"
+        }
+      ],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tändsticksfabriken stängs",
+      "date": {
+        "year": 1886,
+        "circa": false
+      },
+      "description": "När tändsticksfabriken i Nykarleby stängdes blev ett femtiotal personer utan arbete.",
+      "people": [],
+      "places": [
+        "Tändsticksfabriken"
+      ]
+    },
+    {
+      "title": "Grundfeldts donation",
+      "date": {
+        "year": 1890,
+        "month": 9,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Konsulinnan Pauline Grundfeldt donerade 5 000 mark till en fond för stadens fattiga.",
+      "people": [
+        "Pauline Grundfeldt"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nytt fattigvårdsreglemente",
+      "date": {
+        "year": 1894,
+        "month": 2,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Ett nytt fattigvårdsreglemente för Nykarleby antogs slutgiltigt.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Kuddnäs blir fattiggård",
+      "date": {
+        "year": 1899,
+        "month": 12,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Landskommunens stämma beslöt köpa Kuddnäs av stadsfiskal Fr. Olson till fattiggård.",
+      "people": [
+        "Fr. Olson"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Fr. Olson",
+      "place": "Kuddnäs",
+      "relation": "owned",
+      "endYear": 1899
+    }
+  ],
+  "images": [],
+  "contentHash": "9334d37733636724ba9b5141409838c07a9b439fbb64b6c553dfa13dd1b69cd3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,178 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/stadslak.htm",
+  "title": "Stadsläkarna i Nykarleby",
+  "summary": "Erik Birck går igenom Nykarlebys stadsläkare, från fältskären Georg Kjellman och Zachris Topelius d.ä. till Frosterus, Blank och Forsius. Dr Blank dog 1860 på Kuddnäs efter att ha försökt operera en böld i huvudet på sig själv.",
+  "topics": [
+    "läkare",
+    "sjukvård",
+    "personhistoria"
+  ],
+  "people": [
+    {
+      "name": "Georg Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "stadsfältskär"
+      ]
+    },
+    {
+      "name": "Zachris Topelius d.ä.",
+      "alternateNames": [
+        "Zachris Topelius"
+      ],
+      "deathYear": 1831,
+      "roles": [
+        "fältskär",
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Carl Wilhelm Fontell",
+      "alternateNames": [],
+      "deathYear": 1862,
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Abraham Frosterus",
+      "alternateNames": [],
+      "birthYear": 1815,
+      "deathYear": 1869,
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Jakob Fredrik Blank",
+      "alternateNames": [
+        "Blank"
+      ],
+      "birthYear": 1808,
+      "deathYear": 1860,
+      "roles": [
+        "stadsläkare",
+        "informator"
+      ]
+    },
+    {
+      "name": "Lovisa Sjöberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Albert Strengell",
+      "alternateNames": [],
+      "roles": [
+        "provinsialläkare"
+      ]
+    },
+    {
+      "name": "Kristian Fredrik Forsius",
+      "alternateNames": [],
+      "birthYear": 1825,
+      "deathYear": 1905,
+      "roles": [
+        "stadsläkare",
+        "provinsialläkare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Topelius d.ä. tillträder som stadsläkare",
+      "date": {
+        "year": 1811,
+        "month": 10,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Zachris Topelius d.ä. tillträdde den nyinrättade tjänsten som stadsläkare i Nykarleby.",
+      "people": [
+        "Zachris Topelius d.ä."
+      ],
+      "places": []
+    },
+    {
+      "title": "Dr Frosterus blir stadsläkare",
+      "date": {
+        "year": 1835,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Efter flera år utan läkare fick Nykarleby dr Abraham Frosterus som stadsläkare.",
+      "people": [
+        "Abraham Frosterus"
+      ],
+      "places": []
+    },
+    {
+      "title": "Dr Blank dör på Kuddnäs",
+      "date": {
+        "year": 1860,
+        "month": 5,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Stadsläkaren Blank dog på Kuddnäs efter att ha försökt operera sig själv.",
+      "people": [
+        "Jakob Fredrik Blank"
+      ],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Forsius blir ordinarie stadsläkare",
+      "date": {
+        "year": 1861,
+        "month": 8,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Dr Kristian Fredrik Forsius blev stadsläkare i Nykarleby och kvarstod till 1889.",
+      "people": [
+        "Kristian Fredrik Forsius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Jakob Fredrik Blank",
+      "place": "Kuddnäs",
+      "relation": "died",
+      "startYear": 1860,
+      "endYear": 1860
+    }
+  ],
+  "images": [],
+  "contentHash": "c87d29da0a44e16981d0947f83556947b5f3d98760e491fb40f70a88be25511e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

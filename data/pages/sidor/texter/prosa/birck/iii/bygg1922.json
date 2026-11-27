@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/bygg1922.htm",
+  "title": "1922 års byggnadsordning",
+  "summary": "Nykarleby fick en ny byggnadsordning 1922, med regler om avstånd mellan trähus, stenfötter och rumshöjd. Sidan visar också foton av små stugor, bland dem lotsen Bromans stuga vid Källbackgatan.",
+  "topics": [
+    "byggnadsordning",
+    "stadsplanering",
+    "gatuskyltar",
+    "stugor"
+  ],
+  "people": [
+    {
+      "name": "A.W. Stenfors",
+      "alternateNames": [],
+      "roles": [
+        "länsarkitekt"
+      ]
+    },
+    {
+      "name": "Johan Broman",
+      "alternateNames": [],
+      "roles": [
+        "lots",
+        "fyrvaktare"
+      ]
+    },
+    {
+      "name": "Aina Broman",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gunnar Hedberg",
+      "alternateNames": [],
+      "roles": [
+        "lantmäteriingenjör"
+      ]
+    },
+    {
+      "name": "J.L. Birck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare",
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Bromans stuga",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt nr 91 vid Källbackgatan",
+      "description": "Stuga med ett enda rum."
+    },
+    {
+      "name": "Källbackgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Östra Långgatan",
+        "Karleborgsgatan"
+      ],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Vist-Jutts stuga",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "på Smedsbacken"
+    },
+    {
+      "name": "Smedsbacken",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Fullmäktige godkänner byggnadsordningen",
+      "date": {
+        "year": 1921,
+        "month": 6,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Nykarlebys stadsfullmäktige godkände det ändrade förslaget till ny byggnadsordning.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Byggnadsordningen fastställs",
+      "date": {
+        "year": 1922,
+        "month": 4,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Inrikesministeriet godkände Nykarlebys nya byggnadsordning.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Broman",
+      "place": "Bromans stuga",
+      "relation": "lived",
+      "startYear": 1897,
+      "endYear": 1912
+    },
+    {
+      "person": "Aina Broman",
+      "place": "Bromans stuga",
+      "relation": "lived",
+      "startYear": 1897,
+      "endYear": 1912
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bromans stuga",
+        "Källbackgatan"
+      ],
+      "year": 1963
+    },
+    {
+      "image": 2,
+      "places": [
+        "Vist-Jutts stuga",
+        "Smedsbacken"
+      ]
+    }
+  ],
+  "contentHash": "b2b3b09e1481427903e767ecb3d2f95dd5217915233f553908f71e4ba27f7646",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,433 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/ii/slackbar.htm",
+  "title": "Släckningsförsök och bärgning vid stadsbranden",
+  "summary": "Vid stadsbranden i januari 1858 hann sprutorna inte hejda elden, som började i Westlins gård och i stormen brände ned inemot 102 boningshus. Erik Birck återger vittnenas berättelser om bärgningen, flykten över isen och prosten Kullmans öppna hus.",
+  "topics": [
+    "stadsbranden 1858",
+    "brandsläckning",
+    "bärgning",
+    "katastrof"
+  ],
+  "people": [
+    {
+      "name": "A. G. Olson",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "G. G. Gottleben",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "E. A. Waselius",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Henrik Sund",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Johan Fellman",
+      "alternateNames": [],
+      "roles": [
+        "urmakare",
+        "brandmästare"
+      ]
+    },
+    {
+      "name": "Montin",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Alex. von Rechenberg",
+      "alternateNames": [],
+      "roles": [
+        "guvernör",
+        "general"
+      ]
+    },
+    {
+      "name": "Kullman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "prost"
+      ]
+    },
+    {
+      "name": "Anna Susanna Glansk",
+      "alternateNames": [
+        "madam Glansk"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "C. W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Hanna Sundström",
+      "alternateNames": [
+        "Hanna Sarlin"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Blank",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Carl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Pauline Grundfeldt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Catharina Sofia Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådmansänka"
+      ]
+    },
+    {
+      "name": "Petter Olof Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "rådhusvaktmästare"
+      ]
+    },
+    {
+      "name": "Westlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sofia Westlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Westlins gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Här bröt stadsbranden ut."
+    },
+    {
+      "name": "Granholms gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra tullen",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Prostgården",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "nödbostad",
+          "startYear": 1858
+        }
+      ]
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smedsbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kempeska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "gård nr 12 vid torget"
+    },
+    {
+      "name": "Turdinska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 11"
+    },
+    {
+      "name": "Madam Fribergs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 37 vid Storgatan"
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Källbacksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52501299999999,
+        "lng": 22.5386757,
+        "match": "name",
+        "gazetteerName": "källbackgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Storgatan",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Rechardtska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Heikelska gården"
+      ],
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsbyn",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Stadsbranden bryter ut",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Elden bröt ut i Westlins gård på tjugondagskvällen och spred sig i stormen genom Nykarlebys täta trähusbebyggelse.",
+      "people": [],
+      "places": [
+        "Westlins gård"
+      ]
+    },
+    {
+      "title": "Rådhuset brinner",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Rådhuset brann upp med inredning och äldre arkiv; vaktmästare Petter Olof Wahlberg räddade en del av arkivet med livsfara.",
+      "people": [
+        "Petter Olof Wahlberg"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Prostgården tar emot husvilla",
+      "date": {
+        "year": 1858,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Prosten Kullman och hans familj hyste och utspisade husvilla på prostgården efter branden.",
+      "people": [
+        "Kullman"
+      ],
+      "places": [
+        "Prostgården"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Medan staden brinner i stormen klättrar den ensamboende madam Glansk upp på sin vind med ämbar och kvast för att stänka vatten på taket. Runt henne faller glöd, folk halkar på isen och fru Lybeck stannar för att tömma spottlådan innan hon räddar den.",
+    "reason": "Dramatik, mod och komiska detaljer under en och samma natt, berättade av ögonvittnen.",
+    "characters": [
+      "Anna Susanna Glansk",
+      "Catharina Sofia Lybeck",
+      "Petter Olof Wahlberg",
+      "Kullman"
+    ],
+    "places": [
+      "Prostgården",
+      "Kuddnäs",
+      "Rådhuset"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Catharina Sofia Lybeck",
+      "place": "Turdinska gården",
+      "relation": "lived",
+      "endYear": 1858
+    },
+    {
+      "person": "Blank",
+      "place": "Kuddnäs",
+      "relation": "lived",
+      "startYear": 1858
+    },
+    {
+      "person": "Carl Grundfeldt",
+      "place": "Kempeska gården",
+      "relation": "lived",
+      "endYear": 1858
+    }
+  ],
+  "images": [],
+  "contentHash": "d5122c26874b4a1020427b43a8c7a314b4ec17aa207959c6309a89967e311978",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}

@@ -1,0 +1,230 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/betygopr.htm",
+  "title": "Betyg och prestationer",
+  "summary": "I Nykarlebys gamla skolor bedömdes elever som kvicka, begripliga eller tröga, och även familjens villkor antecknades. Erik Birck återger avgångsbetyg från 1840-talet och primusarna i lägre elementarskolan fram till 1876.",
+  "topics": [
+    "skolhistoria",
+    "betyg",
+    "elementarskolan",
+    "lärare",
+    "elever"
+  ],
+  "people": [
+    {
+      "name": "Wilhelm Leonard Forsberg",
+      "alternateNames": [],
+      "birthYear": 1833,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Carl Nyholm",
+      "alternateNames": [],
+      "birthYear": 1837,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "C. A. Cajan",
+      "alternateNames": [],
+      "roles": [
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "F. A. Appelberg",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Johan Jakob Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Johan Willehard Pettersson",
+      "alternateNames": [],
+      "birthYear": 1850,
+      "deathYear": 1922,
+      "roles": [
+        "elev",
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Zacharias Schalin",
+      "alternateNames": [],
+      "birthYear": 1854,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Joel August Heikel",
+      "alternateNames": [],
+      "birthYear": 1851,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Ivar August Heikel",
+      "alternateNames": [],
+      "birthYear": 1861,
+      "roles": [
+        "elev",
+        "professor"
+      ]
+    },
+    {
+      "name": "Magnus Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Johan Fredrik Thurman",
+      "alternateNames": [
+        "Johan Fr. Thurman"
+      ],
+      "deathYear": 1879,
+      "roles": [
+        "rektor"
+      ]
+    },
+    {
+      "name": "Johan Kaldén",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "student"
+      ]
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "birthYear": 1861,
+      "deathYear": 1911,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Karl Mikael Lybeck",
+      "alternateNames": [
+        "Mikael Lybeck"
+      ],
+      "birthYear": 1864,
+      "deathYear": 1925,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Selim Ludvig Eklund",
+      "alternateNames": [],
+      "birthYear": 1862,
+      "deathYear": 1881,
+      "roles": [
+        "elev",
+        "folkskollärare"
+      ]
+    },
+    {
+      "name": "Joel Theodor Holmström",
+      "alternateNames": [],
+      "birthYear": 1863,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [
+        "NyCarleby Elementar Skola"
+      ],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Wasa skolan förläggs till Nykarleby",
+      "date": {
+        "year": 1852,
+        "circa": false
+      },
+      "description": "Wasa högre elementarskola förlades för fyra år till Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ivar Heikel dimitteras som primus",
+      "date": {
+        "year": 1872,
+        "circa": false
+      },
+      "description": "Ivar August Heikel, senare professor, gick ut lägre elementarskolan i Nykarleby som etta.",
+      "people": [
+        "Ivar August Heikel"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johan Fredrik Thurman",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "startYear": 1869,
+      "endYear": 1879
+    },
+    {
+      "person": "Johan Kaldén",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "startYear": 1867
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1894
+    }
+  ],
+  "contentHash": "7da4c237992c9e7df0ad0ce45f37ab78c52746824743b2b086336831e1ff6485",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-27T03:17:45.150Z"
+}
