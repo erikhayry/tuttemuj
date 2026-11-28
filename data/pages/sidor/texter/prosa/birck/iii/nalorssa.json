@@ -1,0 +1,231 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/nalorssa.htm",
+  "title": "Nålörssågen",
+  "summary": "Gustaf Höglund byggde vintern 1919–1920 en ångsåg vid Nålörn i Nykarleby. Efter hans död 1925 gick bolaget i konkurs, och sågbyggnaden brann ned i en anlagd eld 1926.",
+  "topics": [
+    "sågindustri",
+    "Nålörn",
+    "konkurs",
+    "mordbrand",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Höglund",
+      "alternateNames": [],
+      "deathYear": 1925,
+      "roles": [
+        "affärsman",
+        "företagare"
+      ]
+    },
+    {
+      "name": "Oskar Säntti",
+      "alternateNames": [],
+      "roles": [
+        "jordbrukare"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "konstförvant"
+      ]
+    },
+    {
+      "name": "Frej Kling",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nålörssågen",
+      "kind": "building",
+      "alternateNames": [
+        "Nålörns såg",
+        "O.Y. Nykarleby trävaru A.B."
+      ],
+      "uses": [
+        {
+          "use": "ångsåg",
+          "startYear": 1919,
+          "endYear": 1926
+        }
+      ]
+    },
+    {
+      "name": "Nålörn",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.542340705307474,
+        "lng": 22.532501198257712,
+        "match": "name",
+        "gazetteerName": "nålörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nålörsviken",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Formansskogen",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Värnamo kvarn",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Värnamo",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Arrende för en såg",
+      "date": {
+        "year": 1919,
+        "month": 9,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Gustaf Höglund ansökte om att få arrendera mark vid Nålörn för en såg.",
+      "people": [
+        "Gustaf Höglund"
+      ],
+      "places": [
+        "Nålörn"
+      ]
+    },
+    {
+      "title": "Värnamo säljs",
+      "date": {
+        "year": 1926,
+        "month": 2,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Kyrkoförsamlingen köpte Värnamo parcell av Höglunds sterbhus, medan kvarnen gick till Victor Holmström och Joel Nilsson.",
+      "people": [
+        "Victor Holmström",
+        "Joel Nilsson"
+      ],
+      "places": [
+        "Värnamo",
+        "Värnamo kvarn"
+      ]
+    },
+    {
+      "title": "Sågen brinner",
+      "date": {
+        "year": 1926,
+        "month": 11,
+        "day": 25,
+        "circa": false
+      },
+      "description": "Nålörssågens sågbyggnad brann ned till grunden i en eld som visade sig vara anlagd.",
+      "people": [],
+      "places": [
+        "Nålörssågen"
+      ]
+    },
+    {
+      "title": "Mordbrännarna döms",
+      "date": {
+        "year": 1927,
+        "month": 1,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Två män, en tidigare sågarbetare och en arbetsförman, dömdes till tukthus för att ha bränt Nålörssågen.",
+      "people": [],
+      "places": [
+        "Nålörssågen"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En stilla novemberkväll går den övergivna sågen vid Nålörn upp i lågor; en arbetsförman har lejt en före detta sågarbetare att tända på, men vem som egentligen låg bakom får man aldrig veta.",
+    "reason": "En lejd mordbrand, höga försäkringar och en olöst gåta ger en deckarstory.",
+    "characters": [],
+    "places": [
+      "Nålörssågen"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Gustaf Höglund",
+      "place": "Nålörssågen",
+      "relation": "built",
+      "startYear": 1919,
+      "endYear": 1920
+    },
+    {
+      "person": "Gustaf Höglund",
+      "place": "Nålörssågen",
+      "relation": "ran",
+      "endYear": 1925
+    },
+    {
+      "person": "Gustaf Höglund",
+      "place": "Värnamo",
+      "relation": "owned"
+    },
+    {
+      "person": "Oskar Säntti",
+      "place": "Nålörssågen",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nålörssågen",
+        "Nålörn"
+      ]
+    }
+  ],
+  "contentHash": "f633a2b8d2831686a5c2f95e228950b230e08535b0f0ca062c3264b3e9434a4a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

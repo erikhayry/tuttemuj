@@ -60,7 +60,8 @@
   },
   {
     "name": "nykarleby arbetarförenings gård",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["arbetarföreningens hus"]
   },
   {
     "name": "nykarleby sjukhem",
@@ -168,7 +169,8 @@
   },
   {
     "name": "alko",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["alkohuset"]
   },
   {
     "name": "allmänna bryggan vid åminne",
@@ -389,7 +391,8 @@
   },
   {
     "name": "avloppsreningsverket",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["nykarleby reningsverk"]
   },
   {
     "name": "axel herlers gård",
@@ -555,6 +558,7 @@
   {
     "name": "bergfeldtska gården",
     "kind": "building",
+    "alternateNames": ["r ahlqvists gård"],
     "location": { "lat": 63.52078640189076, "lng": 22.530357843479386 }
   },
   {
@@ -1689,7 +1693,9 @@
     "alternateNames": [
       "frill",
       "frillas hemman",
-      "frillas hemmans ägor"
+      "frillas hemmans ägor",
+      "frillområdet",
+      "frillaområdet"
     ],
     "location": { "lat": 63.52744458331194, "lng": 22.535213407320192 }
   },
@@ -2299,7 +2305,8 @@
   },
   {
     "name": "gästgiveriet",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["gästis"]
   },
   {
     "name": "gånge rolfs gård",
@@ -2443,7 +2450,8 @@
     "name": "haralds fors",
     "kind": "waterbody",
     "alternateNames": [
-      "haraldsforsen"
+      "haraldsforsen",
+      "haraldsfors"
     ]
   },
   {
@@ -2602,7 +2610,8 @@
     "name": "holmströms gård",
     "kind": "building",
     "alternateNames": [
-      "holmströms"
+      "holmströms",
+      "aw blomqvists gård"
     ],
     "location": { "lat": 63.52334137631144, "lng": 22.526668366978203 }
   },
@@ -2704,7 +2713,8 @@
   },
   {
     "name": "häggbloms",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["häggbloms gård"]
   },
   {
     "name": "häggbloms butik",
@@ -3328,7 +3338,8 @@
   },
   {
     "name": "karlgrönfors",
-    "kind": "district"
+    "kind": "district",
+    "alternateNames": ["karl grönfors område", "karl grönfors"]
   },
   {
     "name": "karlgrönforsvägen",
@@ -3378,6 +3389,7 @@
   {
     "name": "kisors affär",
     "kind": "building",
+    "alternateNames": ["axel kisors affär"],
     "note": "Axel Kisor's shop; closed 1932."
   },
   {
@@ -3684,7 +3696,8 @@
   },
   {
     "name": "kråkskärssundet",
-    "kind": "waterbody"
+    "kind": "waterbody",
+    "alternateNames": ["kråkskärssund"]
   },
   {
     "name": "kubban",
@@ -3975,6 +3988,7 @@
   {
     "name": "köttkontrollen",
     "kind": "building",
+    "alternateNames": ["köttkontrollstationen"],
     "note": "Meat inspection building by Jakobstadsvägen, built 1937."
   },
   {
@@ -4042,7 +4056,10 @@
     "alternateNames": [
       "hedströms gård",
       "joupers gård",
-      "gård nr 18"
+      "gård nr 18",
+      "gm hedströms gård",
+      "laqvistska huset",
+      "laqvists hus"
     ],
     "note": "Gård nr 18 on Södra Torggatan (Sollefteågatan)."
   },
@@ -4578,7 +4595,8 @@
   },
   {
     "name": "markéns/rudnäs gård",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["markéns gård"]
   },
   {
     "name": "marthagården",
@@ -4597,7 +4615,8 @@
   },
   {
     "name": "matapallbackan",
-    "kind": "landmark"
+    "kind": "landmark",
+    "alternateNames": ["matapallbacken"]
   },
   {
     "name": "matapallberget",
@@ -5154,7 +5173,8 @@
     "kind": "farm",
     "alternateNames": [
       "nygård",
-      "nygårds hns egor"
+      "nygårds hns egor",
+      "nygårds skattehemman"
     ],
     "location": { "lat": 63.5182477084895, "lng": 22.52465889479854 }
   },
@@ -5177,6 +5197,7 @@
   {
     "name": "nykarleby aktiebank",
     "kind": "building",
+    "alternateNames": ["nykarleby aktiebanks gård"],
     "note": "Bank 1898-1914, in the house on Norra Torggatan."
   },
   {
@@ -5424,7 +5445,8 @@
   },
   {
     "name": "nykterhetscaféet",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["nykterhetskaféet"]
   },
   {
     "name": "nylunds/nordlings gård",
@@ -5682,7 +5704,8 @@
   },
   {
     "name": "prevex",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["prevexfabriken", "oy prevex ab", "ab prevex oy"]
   },
   {
     "name": "prevex hall d",
@@ -5775,6 +5798,7 @@
   {
     "name": "r r eklunds barndomshem",
     "kind": "building",
+    "alternateNames": ["rr eklunds barndomshem"],
     "note": "R. R. Eklund's childhood home."
   },
   {
@@ -6216,7 +6240,8 @@
   },
   {
     "name": "sandnäs glasbruk",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["sandnäs glas- och fajansfabrik"]
   },
   {
     "name": "sandqvistska gården",
@@ -6658,6 +6683,7 @@
   {
     "name": "smedsbacka",
     "kind": "farm",
+    "alternateNames": ["smedsbacka gård"],
     "location": {
       "lat": 63.52983378196397,
       "lng": 22.523736715946278
@@ -6811,7 +6837,8 @@
   },
   {
     "name": "souranders gård",
-    "kind": "building"
+    "kind": "building",
+    "alternateNames": ["frostes gård"]
   },
   {
     "name": "sowo ab:s snickeriverkstad",
@@ -7536,7 +7563,8 @@
   },
   {
     "name": "thulins gård",
-    "kind": "farm"
+    "kind": "farm",
+    "alternateNames": ["thulinska gården"]
   },
   {
     "name": "thunbergs gård",
@@ -8689,6 +8717,7 @@
   {
     "name": "monäs sund",
     "kind": "waterbody",
+    "alternateNames": ["monässund"],
     "note": "Strait in Vexala by Sandnäs glasbruk."
   },
   {
@@ -8853,7 +8882,7 @@
   { "name": "gård 1 i gamla nykarleby", "kind": "building", "alternateNames": ["gård 1", "gårdsnr 1"], "note": "Old town lot 1, Nykarleby." },
   { "name": "gård 2–3 i gamla nykarleby", "kind": "building", "alternateNames": ["gård 2–3", "gårdsnr 2 och 3"], "note": "Old town lots 2–3, Nykarleby." },
   { "name": "gård 1–3 i gamla nykarleby", "kind": "building", "alternateNames": ["gård 1–3", "gården 1-3"], "note": "Old town lots 1–3, Nykarleby." },
-  { "name": "lithéns gård", "kind": "building", "alternateNames": ["dyhrs gård", "lithénska gården"], "note": "Merchant house in old Nykarleby." },
+  { "name": "lithéns gård", "kind": "building", "alternateNames": ["dyhrs gård", "lithénska gården", "lithén-dyhrska gården"], "note": "Merchant house in old Nykarleby." },
   { "name": "jungar", "alternateNames": ["jungar by"] },
   { "name": "mickelsbacka", "alternateNames": ["mickelsbacka hemman"] },
   { "name": "alisvajbäcken", "kind": "waterbody" },
@@ -8923,7 +8952,7 @@
   { "name": "jämmerdal", "kind": "other", "alternateNames": ["jämmerdalen"], "note": "Piece of town land." },
   { "name": "kalfholmssundet", "kind": "waterbody", "alternateNames": ["kalfholms sundet"] },
   { "name": "kempeska-aspegrenska gården", "kind": "building" },
-  { "name": "kjellmanska huset", "kind": "building" },
+  { "name": "kjellmanska huset", "kind": "building", "alternateNames": ["kjellmanska gården"] },
   { "name": "klockaråkern", "kind": "other", "note": "Piece of town land." },
   { "name": "klostréms stuga", "kind": "building", "alternateNames": ["kloströms stuga"] },
   { "name": "kråkskärsfjärden", "kind": "waterbody" },
@@ -8945,7 +8974,7 @@
   { "name": "norra vaktstugan", "kind": "building" },
   { "name": "notarieängen", "kind": "other", "note": "Piece of town land." },
   { "name": "nya gravgården", "kind": "landmark", "note": "Cemetery consecrated in 1833." },
-  { "name": "nykarleby sjömanshus", "kind": "building" },
+  { "name": "nykarleby sjömanshus", "kind": "building", "alternateNames": ["sjömanshuset"] },
   { "name": "ollila i soklot", "kind": "farm", "alternateNames": ["jöns gertruds"], "note": "Farm in Soklot." },
   { "name": "rechardtska gården", "kind": "building" },
   { "name": "repslagaregatan", "kind": "street" },
@@ -9023,7 +9052,7 @@
   { "name": "gård 136 i gamla nykarleby", "kind": "building", "alternateNames": ["gård nr 136"], "note": "Old town lot 136, Nykarleby." },
   { "name": "gård 108 vid norra tullgrinden", "kind": "building" },
   { "name": "haga sten", "kind": "landmark", "note": "Rock on the shore south of the steamer jetty." },
-  { "name": "hammarinska huset", "kind": "building", "alternateNames": ["hammarinska gården", "hammarins hus", "rådman hammarins hus"], "note": "House by the old market square." },
+  { "name": "hammarinska huset", "kind": "building", "alternateNames": ["hammarinska gården", "hammarins hus", "rådman hammarins hus", "hammarins gård"], "note": "House by the old market square." },
   { "name": "hans sigfrids hemman", "kind": "farm" },
   { "name": "helsingfors aktiebanks hus", "kind": "building" },
   { "name": "hisstornet", "kind": "building", "alternateNames": ["tjärhissen"], "note": "Tar hoist tower." },
@@ -9095,6 +9124,62 @@
   { "name": "wiks resandehem", "kind": "building" },
   { "name": "winqvists bastu", "kind": "building" },
   { "name": "ylönenska gården", "kind": "building", "note": "Lot 22 by Köpmansgatan." },
-  { "name": "ölund-benzelstjernska huset", "kind": "building" },
-  { "name": "j a lybecks bränneri", "kind": "building" }
+  { "name": "ölund-benzelstjernska huset", "kind": "building", "alternateNames": ["ölundska-benzelstjernska gården"] },
+  { "name": "j a lybecks bränneri", "kind": "building" },
+  { "name": "bondes gård", "kind": "building" },
+  { "name": "borgaregatan 8", "kind": "building" },
+  { "name": "bostads ab topeliusbrinken", "kind": "building", "alternateNames": ["topeliusbrinken"] },
+  { "name": "carlbergs gård", "kind": "building", "note": "Lot 77 by Nybro Boulevarden." },
+  { "name": "daniel juthes gård", "kind": "building" },
+  { "name": "döbelns park", "kind": "landmark" },
+  { "name": "formansskogen", "kind": "district" },
+  { "name": "forsbacka prästgård", "kind": "building" },
+  { "name": "gräftbacken", "kind": "district" },
+  { "name": "gyllenbergs fabriker", "kind": "building", "alternateNames": ["bröder gyllenbergs mekaniska verkstad och gjuteri", "gyllenbergs", "bröder gyllenbergs fabriker"] },
+  { "name": "häggblomska gården", "kind": "building", "alternateNames": ["v esplanadgatan 10", "carlssonska gården"] },
+  { "name": "handelsesplanaden 36", "kind": "building" },
+  { "name": "haraldsby såg", "kind": "building", "note": "Sawmill." },
+  { "name": "j henrikssons gård", "kind": "building" },
+  { "name": "jeppoforsarna", "kind": "waterbody", "note": "Rapids in Jeppo." },
+  { "name": "jg bircks hus", "kind": "building" },
+  { "name": "josef werfvings hus", "kind": "building", "note": "House off the old market square." },
+  { "name": "jöns drakesväg 29", "kind": "building" },
+  { "name": "karlgrönforsbacken", "kind": "landmark" },
+  { "name": "karlons fabrik", "kind": "building", "alternateNames": ["oy karlon ab", "oy abeko ab"] },
+  { "name": "kiitola fabriker", "kind": "building" },
+  { "name": "kovjoki mejeri", "kind": "building", "note": "Dairy in Kovjoki." },
+  { "name": "kovjoki å", "kind": "waterbody" },
+  { "name": "kubbgrund", "kind": "waterbody" },
+  { "name": "kuddnäs gamla begravningsplats", "kind": "landmark" },
+  { "name": "källbacksåsen", "kind": "landmark" },
+  { "name": "lagerbyggnaden vid andra sjön", "kind": "building" },
+  { "name": "andrasjöbryggan", "kind": "landmark" },
+  { "name": "lobbas hus", "kind": "building", "note": "Bankgatan 25 at Mathesiusgatan." },
+  { "name": "löfbergska gården", "kind": "building", "alternateNames": ["nykarleby handelslags gård"] },
+  { "name": "magnus wahlbergs gård", "kind": "building" },
+  { "name": "mamsell glansks stuga", "kind": "building" },
+  { "name": "markby skola", "kind": "building", "note": "School in Markby." },
+  { "name": "mirka", "kind": "building", "alternateNames": ["mirka oy keppo ab"] },
+  { "name": "nybrovaken", "kind": "waterbody" },
+  { "name": "nyko-frys", "kind": "building", "alternateNames": ["nyko frys ab"] },
+  { "name": "nylunds villa", "kind": "building", "note": "Villa at Andra sjön." },
+  { "name": "nålörsviken", "kind": "waterbody" },
+  { "name": "olof brunströms gård", "kind": "building" },
+  { "name": "residensbyggnadens källare", "kind": "building", "note": "Vaulted stone cellar under the seminary gardener's house." },
+  { "name": "residenspromenaden", "kind": "landmark" },
+  { "name": "rings föreningshus", "kind": "building" },
+  { "name": "rundströms gård", "kind": "building" },
+  { "name": "skollindan", "kind": "landmark" },
+  { "name": "soklot sund", "kind": "waterbody" },
+  { "name": "soklot å", "kind": "waterbody" },
+  { "name": "stationsplanen", "kind": "landmark" },
+  { "name": "stennäs träsk", "kind": "waterbody" },
+  { "name": "stora alörsfjärden", "kind": "waterbody" },
+  { "name": "storösund", "kind": "waterbody" },
+  { "name": "svedlins kyto", "kind": "landmark", "alternateNames": ["kyton"] },
+  { "name": "torsö redd", "kind": "waterbody" },
+  { "name": "vexala fiskehamn", "kind": "landmark", "alternateNames": ["fiskehamnen i vexala"] },
+  { "name": "värnamo kvarn", "kind": "building" },
+  { "name": "västra boulevarden", "kind": "street" },
+  { "name": "östra tullen", "kind": "district" }
 ]

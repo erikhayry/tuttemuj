@@ -1,0 +1,185 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/semi1920.htm",
+  "title": "Seminariet under 1920- och 1930-talet",
+  "summary": "Nykarleby seminarium arbetade på 1920- och 1930-talen under direktorerna Hagfors och Fougstedt, med brist på pengar, lärararbetslöshet och färre sökande. Flera förslag om att slå ihop de svenska seminarierna väckte starkt motstånd.",
+  "topics": [
+    "seminariet",
+    "lärarutbildning",
+    "folkskollärare",
+    "skolreform",
+    "1930-talet"
+  ],
+  "people": [
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [
+        "Hagfors"
+      ],
+      "roles": [
+        "seminariedirektor"
+      ]
+    },
+    {
+      "name": "Nils Alarik Fougstedt",
+      "alternateNames": [
+        "Fougstedt"
+      ],
+      "roles": [
+        "lektor",
+        "seminariedirektor"
+      ]
+    },
+    {
+      "name": "Elsa Nyström",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "A. Brommels",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Algot Jansson",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "K. Sjöström",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "V. A. Laxström",
+      "alternateNames": [],
+      "roles": [
+        "föreståndare"
+      ]
+    },
+    {
+      "name": "Mikael Soininen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. A. Franssila",
+      "alternateNames": [],
+      "roles": [
+        "kommittéordförande"
+      ]
+    },
+    {
+      "name": "Kaarlo Saarialho",
+      "alternateNames": [],
+      "roles": [
+        "skolråd"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sammanslagning avstyrks",
+      "date": {
+        "year": 1934,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Vid ett möte i Helsingfors avrådde lärarrådet från att slå ihop de två svenska seminarierna, och även Nykarlebyseminariets direktor Fougstedt motsatte sig planen.",
+      "people": [
+        "Nils Alarik Fougstedt"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Förslag om högskola i Vasa",
+      "date": {
+        "year": 1938,
+        "month": 7,
+        "circa": false
+      },
+      "description": "V. A. Laxström föreslog att de svenska seminarierna skulle slås samman till en pedagogisk högskola i Vasa, vilket väckte bestörtning bland lärarna.",
+      "people": [
+        "V. A. Laxström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lärarna försvarar seminariet",
+      "date": {
+        "year": 1938,
+        "month": 8,
+        "circa": false
+      },
+      "description": "Österbottniska lärare förklarade i en gemensam opinionsyttring att Nykarleby seminarium var omistligt för Österbotten.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Nils Alarik Fougstedt",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "startYear": 1908,
+      "endYear": 1938
+    },
+    {
+      "person": "K. J. Hagfors",
+      "place": "Nykarleby seminarium",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "5b52da325f930ba4024b3db2674de3d2d1fbd1750d3234df59d568f1bfc767b3",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

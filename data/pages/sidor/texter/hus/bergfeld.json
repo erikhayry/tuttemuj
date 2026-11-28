@@ -122,6 +122,24 @@
       ],
       "address": "Topeliusesplanaden 15",
       "description": "Tomt nr 48 vid Esplanadgatan i 14 kvarteret, vid korsningen med Borgaregatan; riven 2005.",
+      "uses": [
+        {
+          "use": "matservering",
+          "startYear": 1930
+        },
+        {
+          "use": "livsmedelsaffär"
+        },
+        {
+          "use": "sportaffär"
+        },
+        {
+          "use": "antikaffär"
+        },
+        {
+          "use": "loppmarknad"
+        }
+      ],
       "geo": {
         "lat": 63.52346979999999,
         "lng": 22.5315985,
@@ -134,7 +152,12 @@
     {
       "name": "Bergfeldts livsmedelsaffär",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "livsmedelsaffär"
+        }
+      ]
     },
     {
       "name": "Torghallen",
@@ -204,7 +227,12 @@
     {
       "name": "Nykterhetscaféet",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ]
     },
     {
       "name": "Topeliusesplanaden",
@@ -375,6 +403,148 @@
       "Bergfeldts livsmedelsaffär"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Robert Ahlqvist",
+      "place": "Bergfeldtska gården",
+      "relation": "owned",
+      "startYear": 1859
+    },
+    {
+      "person": "Skog",
+      "place": "Bergfeldtska gården",
+      "relation": "owned",
+      "startYear": 1907,
+      "endYear": 1907
+    },
+    {
+      "person": "J. Th. Forsberg",
+      "place": "Bergfeldtska gården",
+      "relation": "owned",
+      "endYear": 1925
+    },
+    {
+      "person": "Katarina Sofia Backlund",
+      "place": "Bergfeldtska gården",
+      "relation": "ran",
+      "startYear": 1930
+    },
+    {
+      "person": "Lovisa Nyqvist",
+      "place": "Bergfeldtska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Curt Roos",
+      "place": "Bergfeldtska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Elvi Bergfeldt",
+      "place": "Bergfeldts livsmedelsaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Gustav Bergfeldt",
+      "place": "Bergfeldts livsmedelsaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Christer Mörk",
+      "place": "Bergfeldts livsmedelsaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Febe Mörk",
+      "place": "Bergfeldts livsmedelsaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Mattsson",
+      "place": "Bergfeldtska gården",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bergfeldtska gården",
+        "Topeliusesplanaden",
+        "Borgaregatan"
+      ],
+      "year": 1990
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bergfeldtska gården",
+        "Topeliusesplanaden",
+        "Borgaregatan"
+      ],
+      "year": 1990
+    },
+    {
+      "image": 3,
+      "places": [],
+      "year": 2004
+    },
+    {
+      "image": 4,
+      "places": [
+        "Bergfeldtska gården"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 5,
+      "places": [
+        "Bergfeldtska gården"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 6,
+      "places": [
+        "Bergfeldtska gården"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 7,
+      "places": [
+        "Bergfeldtska gården"
+      ],
+      "year": 2006
+    },
+    {
+      "image": 8,
+      "places": [
+        "Topeliusesplanaden",
+        "Borgaregatan"
+      ],
+      "year": 2006
+    },
+    {
+      "image": 9,
+      "places": [],
+      "year": 2006
+    },
+    {
+      "image": 10,
+      "places": [],
+      "year": 2006
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "dbdc997dba6e8dea2c754700d60e5a645a35834973ac97e976140f7f3e87252a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

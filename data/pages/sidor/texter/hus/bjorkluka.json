@@ -88,7 +88,12 @@
       "name": "Apotekskällaren",
       "kind": "building",
       "alternateNames": [],
-      "description": "I Floraparken; övre delen blev bombskydd under kriget."
+      "description": "I Floraparken; övre delen blev bombskydd under kriget.",
+      "uses": [
+        {
+          "use": "bombskydd"
+        }
+      ]
     },
     {
       "name": "Floraparken",
@@ -211,6 +216,75 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Albert Dyhr",
+      "place": "Sundsténs gård",
+      "relation": "owned",
+      "startYear": 1858
+    },
+    {
+      "person": "K. A. Björklund",
+      "place": "Sundsténs gård",
+      "relation": "owned",
+      "startYear": 1928
+    },
+    {
+      "person": "K. A. Björklund",
+      "place": "Sundsténs gård",
+      "relation": "built"
+    },
+    {
+      "person": "Tyne Andersén",
+      "place": "Sundsténs gård",
+      "relation": "owned",
+      "startYear": 1963
+    },
+    {
+      "person": "Roy Andersén",
+      "place": "Sundsténs gård",
+      "relation": "owned",
+      "startYear": 1963
+    },
+    {
+      "person": "Ulf Sundstén",
+      "place": "Sundsténs gård",
+      "relation": "owned",
+      "startYear": 2001
+    },
+    {
+      "person": "Backman",
+      "place": "Sundsténs gård",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Apotekskällaren",
+        "Floraparken"
+      ],
+      "year": 1933
+    },
+    {
+      "image": 2,
+      "places": [
+        "Sundsténs gård",
+        "Kyrkogatan"
+      ],
+      "year": 2007
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "3ce51e0c89895d71d439d393da4bb24922a40ba9c0232507f45252803b91390b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

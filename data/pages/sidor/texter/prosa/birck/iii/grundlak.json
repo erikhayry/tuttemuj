@@ -1,0 +1,198 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/grundlak.htm",
+  "title": "Grundfeldtska gården blir läkargård",
+  "summary": "Nykarleby stad köpte Grundfeldtska gården av änkan Marita Hellström 1946 efter flera turer om priset. Gården byggdes om till bostäder och mottagningar för stadsläkaren och veterinären.",
+  "topics": [
+    "Grundfeldtska gården",
+    "läkargård",
+    "fastighetsköp",
+    "stadsfullmäktige",
+    "1940-talet"
+  ],
+  "people": [
+    {
+      "name": "Marita Hellström",
+      "alternateNames": [],
+      "roles": [
+        "änka"
+      ]
+    },
+    {
+      "name": "Torkel Hellström",
+      "alternateNames": [],
+      "roles": [
+        "magister"
+      ]
+    },
+    {
+      "name": "K.J. Ahlskog",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Johannes Schalin",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grundfeldtska huset",
+      "kind": "building",
+      "alternateNames": [
+        "Grundfeldtska gården"
+      ],
+      "uses": [
+        {
+          "use": "läkargård",
+          "startYear": 1947
+        }
+      ],
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Topeliusesplanaden",
+      "kind": "street",
+      "alternateNames": [
+        "Rådhusboulevarden"
+      ],
+      "geo": {
+        "lat": 63.523653,
+        "lng": 22.531456,
+        "match": "name",
+        "gazetteerName": "topeliusesplanaden",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [
+        "Nybroboulevarden"
+      ],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Häggbloms gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "samskola"
+        },
+        {
+          "use": "affärshus"
+        }
+      ]
+    },
+    {
+      "name": "Carl Nylunds gård",
+      "kind": "building",
+      "alternateNames": [
+        "Andelsbanken"
+      ]
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gården salubjuds",
+      "date": {
+        "year": 1946,
+        "month": 8,
+        "day": 12,
+        "circa": false
+      },
+      "description": "Änkan Marita Hellström erbjöd Grundfeldtska gården till Nykarleby stad.",
+      "people": [
+        "Marita Hellström"
+      ],
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "title": "Ombyggnaden klar",
+      "date": {
+        "year": 1947,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Grundfeldtska gården hade byggts om av K.J. Ahlskog och inflyttningen till läkar- och veterinärbostäderna skedde.",
+      "people": [
+        "K.J. Ahlskog"
+      ],
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Marita Hellström",
+      "place": "Grundfeldtska huset",
+      "relation": "owned",
+      "endYear": 1946
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Grundfeldtska huset",
+        "Topeliusesplanaden",
+        "Lybecksgatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    }
+  ],
+  "contentHash": "2c7f1d1ff1c55bb62876c25921fe681786c1e48b2d45c6ac8b04cf75a5cd1e21",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

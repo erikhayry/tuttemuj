@@ -178,6 +178,66 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Löfsten",
+      "place": "Backlunds gård",
+      "relation": "owned",
+      "startYear": 1858
+    },
+    {
+      "person": "Hanna Löfsten",
+      "place": "Backlunds gård",
+      "relation": "owned",
+      "endYear": 1935
+    },
+    {
+      "person": "Karl Granlund",
+      "place": "Backlunds gård",
+      "relation": "owned",
+      "startYear": 1935
+    },
+    {
+      "person": "Smeds",
+      "place": "Backlunds gård",
+      "relation": "owned",
+      "endYear": 1966
+    },
+    {
+      "person": "Lars Backlund",
+      "place": "Backlunds gård",
+      "relation": "lived",
+      "startYear": 1962
+    },
+    {
+      "person": "Lars Backlund",
+      "place": "Backlunds gård",
+      "relation": "owned",
+      "startYear": 1966
+    },
+    {
+      "person": "Kenneth Backlund",
+      "place": "Backlunds gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Backlunds gård"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "5c842c12dd2b1d258d30c6c4cf5925e1ce15455e5696db0ca8a198ac6d4c4f67",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

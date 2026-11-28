@@ -1,0 +1,311 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/marknade.htm",
+  "title": "Marknaderna",
+  "summary": "Nykarleby fick 1880 tillbaka sina höst- och vintermarknader, som följdes av fylleri, slagsmål och hästplågeri. Trots försök att avskaffa dem på 1920-talet räddades marknaderna av stadsborna.",
+  "topics": [
+    "marknader",
+    "torghandel",
+    "fylleri",
+    "boskapsmarknad",
+    "ordningsproblem"
+  ],
+  "people": [
+    {
+      "name": "Johannes Bäck",
+      "alternateNames": [],
+      "roles": [
+        "kapellan",
+        "vicepastor"
+      ]
+    },
+    {
+      "name": "J. A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Elias Roos",
+      "alternateNames": [],
+      "roles": [
+        "magistratsledamot"
+      ]
+    },
+    {
+      "name": "Henrik Harald",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "J. Karlsson",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "Isotalon-Antti",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "N. A. Fougstedt",
+      "alternateNames": [],
+      "roles": [
+        "stadsfullmäktigeordförande"
+      ]
+    },
+    {
+      "name": "Paul Skog",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "K. V. Ekmark",
+      "alternateNames": [],
+      "roles": [
+        "bankdirektör"
+      ]
+    },
+    {
+      "name": "Gerda Mattsson",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "marknad"
+        }
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "marknad"
+        }
+      ],
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hästmarknad",
+          "endYear": 1895
+        }
+      ],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Första Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "marknad",
+          "startYear": 1895
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52143194693046,
+        "lng": 22.524165959807195,
+        "match": "name",
+        "gazetteerName": "nykarleby älv",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ansökan om boskapsmarknader",
+      "date": {
+        "year": 1879,
+        "month": 11,
+        "day": 19,
+        "circa": false
+      },
+      "description": "En rådhusstämma i Nykarleby stödde kapellan Johannes Bäcks ansökan om boskapsmarknader i staden.",
+      "people": [
+        "Johannes Bäck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Knivhugg på marknaden",
+      "date": {
+        "year": 1882,
+        "circa": false
+      },
+      "description": "På höstmarknaden fick bonden Henrik Harald från Forsby ett livsfarligt knivhugg i magen men överlevde.",
+      "people": [
+        "Henrik Harald"
+      ],
+      "places": []
+    },
+    {
+      "title": "Isotalon-Antti grips",
+      "date": {
+        "year": 1887,
+        "circa": false
+      },
+      "description": "På höstmarknaden i Nykarleby burades Isotalon-Antti och hans följe in.",
+      "people": [
+        "Isotalon-Antti"
+      ],
+      "places": []
+    },
+    {
+      "title": "Trettio häktade",
+      "date": {
+        "year": 1910,
+        "circa": false
+      },
+      "description": "På höstmarknaden häktades 30 personer för bland annat fylleri, oljud och stölder.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Marknaderna försvaras",
+      "date": {
+        "year": 1926,
+        "month": 10,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Ett allmänt möte lett av Paul Skog ville behålla marknaderna, och stadsfullmäktige ändrade därefter sitt beslut.",
+      "people": [
+        "Paul Skog",
+        "K. V. Ekmark"
+      ],
+      "places": []
+    },
+    {
+      "title": "Marknadstillstånd",
+      "date": {
+        "year": 1927,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Nykarleby fick tillstånd att årligen hålla marknad kring Mikaeli på hösten och i mars.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "På höstmarknaden flödar brännvin ur limonadflaskor, ”spitting” serveras öppet, spåkvinnor lockar och polisen kallar besökarna banditer och slödder, tills stadsborna ändå reser sig till marknadens försvar.",
+    "reason": "Ett myllrande marknadskaos med slagsmål, lönnkrögare och en häktad ökänd bråkmakare.",
+    "characters": [
+      "Isotalon-Antti",
+      "Paul Skog"
+    ],
+    "places": [
+      "Torget",
+      "Rummelbacken"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Torget"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Torget"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Torget"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Torget"
+      ],
+      "year": 1933
+    }
+  ],
+  "contentHash": "7fa513923f280c02426da9e4811bdb426cc55e42038c30cd9560986c0fbbccb5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

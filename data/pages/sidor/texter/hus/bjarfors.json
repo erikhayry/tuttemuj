@@ -118,6 +118,11 @@
       ],
       "address": "Sollefteågatan 18",
       "description": "Vid korsningen med Karleborgsgatan 10.",
+      "uses": [
+        {
+          "use": "gästgiveri"
+        }
+      ],
       "geo": {
         "lat": 63.5214478,
         "lng": 22.5344475,
@@ -132,6 +137,11 @@
       "kind": "building",
       "alternateNames": [],
       "description": "Byggnaderna revs 1918.",
+      "uses": [
+        {
+          "use": "värdshus"
+        }
+      ],
       "geo": {
         "lat": 63.51849194746259,
         "lng": 22.521803964142805,
@@ -145,12 +155,23 @@
       "name": "Fors verkstad",
       "kind": "building",
       "alternateNames": [],
-      "description": "Grundad 1929 som Fors & C:o automobilrep. verkst."
+      "description": "Grundad 1929 som Fors & C:o automobilrep. verkst.",
+      "uses": [
+        {
+          "use": "bilverkstad",
+          "startYear": 1929
+        }
+      ]
     },
     {
       "name": "Häggbloms gästgiveri",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "gästgiveri"
+        }
+      ]
     },
     {
       "name": "Granvägen",
@@ -264,6 +285,104 @@
       "Granvägen"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Otto Valdemar Andersson",
+      "place": "Fors gård",
+      "relation": "built"
+    },
+    {
+      "person": "Otto Valdemar Andersson",
+      "place": "Fors gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Åke Karlsson",
+      "place": "Fors gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Åke Karlsson",
+      "place": "Fors gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Bjarne Fors",
+      "place": "Fors gård",
+      "relation": "owned",
+      "startYear": 1973
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Fors gård",
+        "Sollefteågatan"
+      ],
+      "year": 1973
+    },
+    {
+      "image": 2,
+      "places": [
+        "Fors gård"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Fors verkstad",
+        "Fors gård"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Fors gård",
+        "Rummelbacken"
+      ],
+      "year": 1973
+    },
+    {
+      "image": 5,
+      "places": [
+        "Fors gård"
+      ],
+      "year": 1973
+    },
+    {
+      "image": 6,
+      "places": [
+        "Fors gård",
+        "Häggbloms gästgiveri"
+      ],
+      "year": 1973
+    },
+    {
+      "image": 7,
+      "places": [
+        "Fors gård",
+        "Bankgatan 17"
+      ],
+      "year": 1973
+    },
+    {
+      "image": 8,
+      "places": [
+        "Fors gård"
+      ],
+      "year": 1974
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "0e1741630d4f3caeb6af15057f7712e5268982c11b33be585da12f42985310f1",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

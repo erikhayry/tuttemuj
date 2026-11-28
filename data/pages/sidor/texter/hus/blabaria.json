@@ -272,6 +272,84 @@
       "Karleborgsgatan"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Aina Jakobsson",
+      "place": "Blåbäri-Ainas stuga",
+      "relation": "lived"
+    },
+    {
+      "person": "Aina Jakobsson",
+      "place": "Blåbäri-Ainas stuga",
+      "relation": "owned"
+    },
+    {
+      "person": "Aina Jakobsson",
+      "place": "Juthas",
+      "relation": "born",
+      "startYear": 1883,
+      "endYear": 1883
+    },
+    {
+      "person": "Aina Jakobsson",
+      "place": "Juthas",
+      "relation": "lived",
+      "startYear": 1915,
+      "endYear": 1915
+    },
+    {
+      "person": "Aina Jakobsson",
+      "place": "Norra tull",
+      "relation": "lived",
+      "startYear": 1915
+    },
+    {
+      "person": "Aina Jakobsson",
+      "place": "Högbacka hemman",
+      "relation": "worked"
+    },
+    {
+      "person": "Gösta Fagerholm",
+      "place": "Langraden",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Blåbäri-Ainas stuga",
+        "Karleborgsgatan",
+        "Langraden"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Blåbäri-Ainas stuga",
+        "Karleborgsgatan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [],
+      "year": 1920
+    },
+    {
+      "image": 4,
+      "places": [],
+      "year": 1928
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "f8330a94d91b2061a317cc32028a5c9a08fea8118f1562e7b6508605053ce817",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

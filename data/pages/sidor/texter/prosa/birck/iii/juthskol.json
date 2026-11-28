@@ -1,0 +1,201 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/juthskol.htm",
+  "title": "Juthbacka arbetsskola",
+  "summary": "På Juthbacka verkade 1904–1919 en arbetsskola för rörelsehindrade, grundad av Netta Heikel och senare driven av Marthaföreningen. Eleverna lärde sig bland annat skomakeri, skrädderi och slöjd.",
+  "topics": [
+    "arbetsskola",
+    "Juthbacka",
+    "Marthaföreningen",
+    "yrkesutbildning",
+    "funktionshinder"
+  ],
+  "people": [
+    {
+      "name": "Netta Heikel",
+      "alternateNames": [],
+      "birthYear": 1846,
+      "deathYear": 1940,
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "roles": [
+        "ordförande"
+      ]
+    },
+    {
+      "name": "Selma Spolander",
+      "alternateNames": [],
+      "roles": [
+        "ordförande"
+      ]
+    },
+    {
+      "name": "Hella Widell",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna",
+        "folkskollärarinna"
+      ]
+    },
+    {
+      "name": "Gunborg Himmanen",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Aina Polén",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "W. Andersson",
+      "alternateNames": [],
+      "roles": [
+        "slöjdlärare"
+      ]
+    },
+    {
+      "name": "Brita Lindberg",
+      "alternateNames": [],
+      "roles": [
+        "skräddarlärare"
+      ]
+    },
+    {
+      "name": "Wiljam Pihlainen",
+      "alternateNames": [],
+      "roles": [
+        "skomakarmästare"
+      ]
+    },
+    {
+      "name": "Edit Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "sekreterare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [
+        "Lyttaskolan",
+        "Juthbacka arbetsskola"
+      ],
+      "uses": [
+        {
+          "use": "arbetsskola",
+          "startYear": 1904,
+          "endYear": 1919
+        }
+      ],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skolan flyttar till Juthbacka",
+      "date": {
+        "year": 1904,
+        "circa": false
+      },
+      "description": "Netta Heikels skola för rörelsehindrade barn flyttade från Jakobstad till Juthbacka.",
+      "people": [
+        "Netta Heikel"
+      ],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Marthaföreningen tar över",
+      "date": {
+        "year": 1907,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Marthaföreningen i Nykarleby åtog sig att sköta arbetsskolan på Juthbacka.",
+      "people": [
+        "Maria Castrén"
+      ],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Tjugo elever",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "description": "Arbetsskolan på Juthbacka hade 20 finsktalande elever mellan 9 och 39 år.",
+      "people": [],
+      "places": [
+        "Juthbacka"
+      ]
+    },
+    {
+      "title": "Lyttaskolan läggs ned",
+      "date": {
+        "year": 1919,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Arbetsskolan på Juthbacka lades ned för att fortsätta i Seinäjoki.",
+      "people": [],
+      "places": [
+        "Juthbacka"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Netta Heikel",
+      "place": "Juthbacka",
+      "relation": "ran",
+      "startYear": 1904,
+      "endYear": 1906
+    },
+    {
+      "person": "Hella Widell",
+      "place": "Juthbacka",
+      "relation": "worked"
+    },
+    {
+      "person": "Wiljam Pihlainen",
+      "place": "Juthbacka",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "5f45c2b88e3baa65fd66b86775efd3b16f8af651e91ed2da4645e41e001a8742",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

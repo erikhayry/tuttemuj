@@ -66,6 +66,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnshuset på Brunnsholmarna",
+        "Värdshuset på Brunnsholmarna"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "c80193bc32841214a29cad7afda4808782b2865f6c8d53bf38c0dfc08a472a13",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/lant1917.htm",
+  "title": "Lantdagsvalet 1917",
+  "summary": "Vid lantdagsvalet i oktober 1917 röstade 91,5 procent av de hemmavarande i Nykarleby, och Svenska folkpartiet dominerade. Samtidigt växte matbristen, och jobbare köpte upp mat för överpris.",
+  "topics": [
+    "lantdagsval",
+    "1917",
+    "självständighet",
+    "livsmedelsbrist",
+    "jobbare"
+  ],
+  "people": [
+    {
+      "name": "Svedlin",
+      "alternateNames": [],
+      "roles": [
+        "magister"
+      ]
+    },
+    {
+      "name": "J. Storbjörk",
+      "alternateNames": [],
+      "roles": [
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "J. Inborr",
+      "alternateNames": [],
+      "roles": [
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Markby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Valföredrag på rådhuset",
+      "date": {
+        "year": 1917,
+        "month": 9,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Magister Svedlin höll ett valföredrag i Nykarleby rådhus om ett fritt och oavhängigt Finland.",
+      "people": [
+        "Svedlin"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Lantdagsvalet",
+      "date": {
+        "year": 1917,
+        "month": 10,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Lantdagsvalet hölls med stort deltagande i Nykarleby och byarna, och de borgerliga vann i landet.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Om lördagsmorgnarna stryker ”jobbartanter” omkring på vägarna utanför staden och köper upp böndernas smör och skinkor åt påstådda släktingar söderut, medan uppretade stadsbor kräver att polisen håller ögonen på ”gulaschbaronessorna”.",
+    "reason": "Svartabörsfruarna och de ilskna stadsborna ger en komisk vardagsscen mitt i krisåren.",
+    "characters": [],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "0659e7f62caf60762a10f4c9d090d5454a86a4f641adcef5fe5cd5f1ed504352",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -1,0 +1,378 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebkraftv.htm",
+  "title": "Nykarleby kraftverk – några märkesår",
+  "summary": "Årtalsöversikt över Nykarleby kraftverk från dynamon i stadskvarnen år 1900 till det nya kraftverkets första turbinvarv 2020. Här finns dammraset 1926, domstolstvisterna och senare utbyggnader.",
+  "topics": [
+    "kraftverk",
+    "elektricitet",
+    "Nybroforsen",
+    "dammras",
+    "tidslinje"
+  ],
+  "people": [
+    {
+      "name": "J.W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "K.F. Spolander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Walter Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Anders Nordström",
+      "alternateNames": [],
+      "roles": [
+        "kraftverkschef"
+      ]
+    },
+    {
+      "name": "Max Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "kraftverkschef"
+      ]
+    },
+    {
+      "name": "Tony Eklund",
+      "alternateNames": [],
+      "roles": [
+        "kraftverkschef"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Jan-Erik Frostdahl",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [
+        "Kraftverket"
+      ],
+      "uses": [
+        {
+          "use": "kraftverk",
+          "startYear": 1926
+        }
+      ],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lillbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Lillbrooen"
+      ]
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Vexala fiskehamn",
+      "kind": "landmark",
+      "alternateNames": [
+        "fiskehamnen i Vexala"
+      ]
+    },
+    {
+      "name": "Katternö",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kimo",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Öja",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Dynamo i stadskvarnen",
+      "date": {
+        "year": 1900,
+        "circa": false
+      },
+      "description": "En dynamomaskin togs i bruk i stadskvarnen på verkmästare J.W. Nesslers initiativ och gav ström till några gatulampor.",
+      "people": [
+        "J.W. Nessler"
+      ],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Större turbin",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "description": "En större turbin installerades vid elanläggningen i Nykarleby.",
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Staden löser in anläggningen",
+      "date": {
+        "year": 1918,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Nykarleby stad löste in elanläggningen.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Tillstånd för kraftverk",
+      "date": {
+        "year": 1923,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Walter Engs besvär förkastades och staden fick tillstånd att anlägga ett kraftverk.",
+      "people": [
+        "Walter Eng"
+      ],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Kraftverksbygget börjar",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "description": "Arbetet med det nya kraftverket i Nybroforsen påbörjades under sommaren.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk",
+        "Nybroforsen"
+      ]
+    },
+    {
+      "title": "Dammraset",
+      "date": {
+        "year": 1926,
+        "month": 5,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Under en ovanligt kraftig vårflod stjälpte två dammpelare vid kraftverksbygget, och den 10 maj en tredje.",
+      "people": [],
+      "places": [
+        "Nybroforsen"
+      ]
+    },
+    {
+      "title": "Kraftverket färdigt",
+      "date": {
+        "year": 1927,
+        "month": 2,
+        "circa": false
+      },
+      "description": "Arbetena på Nykarleby kraftverk slutfördes och bygget visade sig ha kostat nästan 4,5 miljoner, mångdubbelt mer än budgeterat.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Kvarnmålet avgörs",
+      "date": {
+        "year": 1929,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Högsta domstolen slog fast att stadskvarnen inte stod på Nygårds hemmans mark.",
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Modernisering",
+      "date": {
+        "year": 1956,
+        "endYear": 1957,
+        "circa": false
+      },
+      "description": "Nykarleby kraftverk moderniserades och byggdes ut till dubbla effekten.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Dammen höjs och Lillbron anläggs",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "description": "Dammen höjdes med 105 cm, en ny stockränna byggdes och gångbron Lillbron anlades.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk",
+        "Lillbron"
+      ]
+    },
+    {
+      "title": "Transformatorstation på Kampen",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "description": "Transformatorstationen på Kampen byggdes.",
+      "people": [],
+      "places": [
+        "Kampen"
+      ]
+    },
+    {
+      "title": "Nytt kraftverk",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "description": "Dammen höjdes och ett nytt kraftverk byggdes i Nykarleby trots omfattande protester.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Affärsverk bildas",
+      "date": {
+        "year": 1993,
+        "circa": false
+      },
+      "description": "Affärsverket Nykarleby kraftverk bildades och el-, vatten- och avloppsverken samordnades.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Ny turbin startar",
+      "date": {
+        "year": 2020,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Turbinen i det nya kraftverket i Nykarleby snurrade för första gången.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Anders Nordström",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked",
+      "startYear": 1953
+    },
+    {
+      "person": "Max Nilsson",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked",
+      "startYear": 1974
+    },
+    {
+      "person": "Tony Eklund",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked",
+      "startYear": 2004
+    }
+  ],
+  "images": [],
+  "contentHash": "2b758ddab16ab6609fee8b49c36b0a1133eec66f5e5eb231fe6aec6e5e528a65",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

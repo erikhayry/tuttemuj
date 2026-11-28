@@ -73,6 +73,27 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Mellangatan 1",
+        "Bergstigen",
+        "Mellangatan"
+      ],
+      "year": 1972
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "6d602bf7ff7d9e6a90eef4b1251c4f4dd703b624e6761328488c50c9602fb427",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

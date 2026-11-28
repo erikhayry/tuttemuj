@@ -184,6 +184,63 @@
       "Asplunds gård"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Mildrid Asplund",
+      "place": "Asplunds gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Lina Sundqvist",
+      "place": "Asplunds gård",
+      "relation": "owned",
+      "startYear": 1925
+    },
+    {
+      "person": "Lina Sundqvist",
+      "place": "Asplunds gård",
+      "relation": "built",
+      "startYear": 1925,
+      "endYear": 1925
+    },
+    {
+      "person": "Gustav Grahn",
+      "place": "Charlottenlund",
+      "relation": "owned"
+    },
+    {
+      "person": "Gustav Grahn",
+      "place": "Grahns villa på Alörn",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Asplunds gård",
+        "Idrottsgatan",
+        "Idrottsgränd"
+      ],
+      "year": 2004
+    },
+    {
+      "image": 2,
+      "places": [
+        "Asplunds gård"
+      ],
+      "year": 2015
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "50f22db8557ab6b3317e6311572ab0fdfd2440b9919e548def51efcb58baa482",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

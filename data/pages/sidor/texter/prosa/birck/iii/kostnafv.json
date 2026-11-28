@@ -1,0 +1,258 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/kostnafv.htm",
+  "title": "Kostnaderna för fattigvården och socialvården",
+  "summary": "Fattigvårdens kostnader i Nykarleby växte kraftigt under krigsåren, och Frihemmet fick 1922 svår kritik för ohyra och oordning. Hemmet moderniserades 1950, ersattes senare av Hagalund och revs 1984.",
+  "topics": [
+    "fattigvård",
+    "socialvård",
+    "Frihemmet",
+    "kostnader",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "Betty Hedström",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Wilhelm Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "ekonom"
+      ]
+    },
+    {
+      "name": "O. Blåfield",
+      "alternateNames": [],
+      "roles": [
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Charlotta Ahlström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Maria Åberg",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Hildur Stenmark",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Joel Nilsson",
+      "alternateNames": [],
+      "roles": [
+        "ordförande i fattigvårdsnämnden",
+        "donator"
+      ]
+    },
+    {
+      "name": "Anton Söderman",
+      "alternateNames": [
+        "A. Söderman"
+      ],
+      "roles": [
+        "ordförande"
+      ]
+    },
+    {
+      "name": "Ester Fougstedt",
+      "alternateNames": [],
+      "roles": [
+        "nämndmedlem"
+      ]
+    },
+    {
+      "name": "Anna Vikström",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "W. Hellund",
+      "alternateNames": [],
+      "roles": [
+        "arbetsledare"
+      ]
+    },
+    {
+      "name": "Anna Sund",
+      "alternateNames": [],
+      "roles": [
+        "föreståndare"
+      ]
+    },
+    {
+      "name": "Veikko Seidel",
+      "alternateNames": [],
+      "roles": [
+        "läkare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": [
+        "Kommunalhemmet"
+      ],
+      "uses": [
+        {
+          "use": "fattiggård",
+          "startYear": 1910,
+          "endYear": 1984
+        },
+        {
+          "use": "jordbruk"
+        }
+      ]
+    },
+    {
+      "name": "Hagalund",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "pensionärscenter"
+        }
+      ],
+      "geo": {
+        "lat": 63.519185566198,
+        "lng": 22.531305293375013,
+        "match": "name",
+        "gazetteerName": "hagalund",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Inspektion av Frihemmet",
+      "date": {
+        "year": 1922,
+        "month": 1,
+        "circa": false
+      },
+      "description": "En inspektion av Nykarlebys Frihem bekräftade klagomålen om vägglöss, stank och oordning.",
+      "people": [
+        "O. Blåfield",
+        "Wilhelm Fagerholm"
+      ],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Ny föreståndarinna",
+      "date": {
+        "year": 1922,
+        "month": 6,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige valde Maria Åberg till föreståndarinna för Frihemmet.",
+      "people": [
+        "Maria Åberg"
+      ],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Frihemmet byggs om",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "description": "Frihemmet moderniserades med bland annat centralvärme och fick flera vårdplatser.",
+      "people": [],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Frihemmet rivs",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "description": "Frihemmet, som ersatts av pensionärscentret Hagalund, revs.",
+      "people": [],
+      "places": [
+        "Frihemmet",
+        "Hagalund"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Till stadens 300-årsjubileum erbjuds de fattiga att få äta resterna efter festmiddagen, men fattigvårdsstyrelsen tackar nej eftersom ingen kan räkna med att något blir över.",
+    "reason": "Den snåla gesten och det torra avslaget ger en bitande komisk scen.",
+    "characters": [],
+    "places": [
+      "Frihemmet"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Betty Hedström",
+      "place": "Frihemmet",
+      "relation": "worked",
+      "endYear": 1922
+    },
+    {
+      "person": "Maria Åberg",
+      "place": "Frihemmet",
+      "relation": "worked",
+      "startYear": 1922,
+      "endYear": 1938
+    },
+    {
+      "person": "Hildur Stenmark",
+      "place": "Frihemmet",
+      "relation": "worked",
+      "startYear": 1924,
+      "endYear": 1925
+    },
+    {
+      "person": "Anna Vikström",
+      "place": "Frihemmet",
+      "relation": "worked",
+      "startYear": 1948
+    },
+    {
+      "person": "Anna Sund",
+      "place": "Frihemmet",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "a1a36fe9634dbdd5aeb1a3fa88d87e72e59e050d35bb4cbb39e707420c4f2b7f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

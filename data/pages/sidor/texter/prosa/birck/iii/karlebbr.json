@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/karlebbr.htm",
+  "title": "Karleborg brinner",
+  "summary": "Ett fotografi visar när Karleborg brann den 8 april 1970, sett från sydost.",
+  "topics": [
+    "brand",
+    "Karleborg",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Erik Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karleborg",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52419927115089,
+        "lng": 22.536381564668112,
+        "match": "name",
+        "gazetteerName": "karleborg",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Karleborg brinner",
+      "date": {
+        "year": 1970,
+        "month": 4,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Karleborg brann den 8 april 1970.",
+      "people": [],
+      "places": [
+        "Karleborg"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Karleborg"
+      ],
+      "year": 1970
+    }
+  ],
+  "contentHash": "37a36512e48d8cacf84abf0999d24f7a82e4ce76c52d52f2fcc7aefc0b8fb3d6",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

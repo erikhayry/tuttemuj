@@ -1,0 +1,209 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/rektklas.htm",
+  "title": "Lägre elementarskolan utökas med en rektorsklass",
+  "summary": "Lägre elementarskolan i Nykarleby fick från hösten 1857 en rektor och en andra lärare för att förbereda elever för högre skolor. Under rektor Edvin Karsten, 1858–1867, vann skolan allt större förtroende.",
+  "topics": [
+    "lägre elementarskolan",
+    "skolor",
+    "undervisning",
+    "finska språket",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Grönqvist",
+      "alternateNames": [],
+      "roles": [
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "Constantin Ervast",
+      "alternateNames": [],
+      "roles": [
+        "student",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Bergenheim",
+      "alternateNames": [],
+      "roles": [
+        "ärkebiskop",
+        "visitator"
+      ]
+    },
+    {
+      "name": "Kullman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "skolinspektor"
+      ]
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Edvin Karsten",
+      "alternateNames": [
+        "Karsten"
+      ],
+      "roles": [
+        "rektor",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Fredrik Chydenius",
+      "alternateNames": [],
+      "roles": [
+        "pastor",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Julius Sandström",
+      "alternateNames": [],
+      "roles": [
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "Emil Fontell",
+      "alternateNames": [],
+      "roles": [
+        "biträdande lärare"
+      ]
+    },
+    {
+      "name": "J. F. Thurman",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "J. Kaldén",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Matilda Sandström",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Rektorsklassen tillstyrks",
+      "date": {
+        "year": 1856,
+        "month": 11,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Domkapitlet tillstyrkte att Nykarlebys lägre elementarskola skulle få en andra lärare med titeln rektor.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Skolan får två lärare",
+      "date": {
+        "year": 1857,
+        "circa": false
+      },
+      "description": "Från hösten 1857 skulle lägre elementarskolan i Nykarleby ha två lärare, av vilka den ene bar titeln rektor.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Karsten blir rektor",
+      "date": {
+        "year": 1858,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Studenten Edvin Karsten utnämndes till ordinarie rektor och lärare vid lägre elementarskolan i Nykarleby.",
+      "people": [
+        "Edvin Karsten"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Rektor Karsten tar avsked",
+      "date": {
+        "year": 1867,
+        "circa": false
+      },
+      "description": "Edvin Karsten lämnade lägre elementarskolan i Nykarleby efter nio års verksamhet, då skolan hade vunnit allmänt anseende.",
+      "people": [
+        "Edvin Karsten"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Edvin Karsten",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "startYear": 1858,
+      "endYear": 1867
+    },
+    {
+      "person": "Constantin Ervast",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "startYear": 1857,
+      "endYear": 1860
+    },
+    {
+      "person": "Fredrik Chydenius",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "startYear": 1858,
+      "endYear": 1859
+    }
+  ],
+  "images": [],
+  "contentHash": "e0f3b40b130750aa2d66d8e38dc0698e80075a7456bbb318457dffed82f3f27f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

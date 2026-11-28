@@ -1,0 +1,302 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/palsdjur.htm",
+  "title": "Pälsdjursnäringen i Nykarleby",
+  "summary": "Minkaveln blev Nykarlebys stora framgångsnäring efter kriget, med pionjärer i Soklot redan på 1930-talet. År 1964 grundades foderbolagen Nyko-Frys och Farm-Frys för att förse traktens många farmer med foder.",
+  "topics": [
+    "pälsdjursnäring",
+    "minkfarmning",
+    "foderkök",
+    "Soklot",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Rafael Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "minkuppfödare"
+      ]
+    },
+    {
+      "name": "Gunnar Willman",
+      "alternateNames": [],
+      "roles": [
+        "minkfarmare"
+      ]
+    },
+    {
+      "name": "Emil Höglund",
+      "alternateNames": [],
+      "roles": [
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "Erik Saarikoski",
+      "alternateNames": [
+        "E. Saarikoski"
+      ],
+      "roles": [
+        "minkfarmare",
+        "ordförande"
+      ]
+    },
+    {
+      "name": "Rudolf Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Erik Sandvik",
+      "alternateNames": [
+        "Karl-Erik Sandvik"
+      ],
+      "roles": [
+        "styrelseordförande"
+      ]
+    },
+    {
+      "name": "Bo Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "John Nyqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Birger Sjöholm",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nyko-Frys",
+      "kind": "building",
+      "alternateNames": [
+        "Nyko Frys Ab"
+      ],
+      "address": "intill landsvägen Nykarleby Jakobstad",
+      "uses": [
+        {
+          "use": "fryseri",
+          "startYear": 1964
+        },
+        {
+          "use": "foderkök"
+        }
+      ]
+    },
+    {
+      "name": "Gräftbacken",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Farm-Frys",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "foderkök",
+          "startYear": 1964
+        },
+        {
+          "use": "minkfarm"
+        }
+      ]
+    },
+    {
+      "name": "Restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": [
+        "restaurang v. Döbeln"
+      ],
+      "uses": [
+        {
+          "use": "restaurang"
+        }
+      ],
+      "geo": {
+        "lat": 63.522418769115106,
+        "lng": 22.531700963103503,
+        "match": "name",
+        "gazetteerName": "restaurang von döbeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Keppo gård",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Jeppo",
+      "uses": [
+        {
+          "use": "minkfarm",
+          "startYear": 1955
+        }
+      ],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "address",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Minkfarm i Soklot",
+      "date": {
+        "year": 1936,
+        "circa": false
+      },
+      "description": "Rafael Sjöholm och hans bror startade en framgångsrik minkfarm i Soklot.",
+      "people": [
+        "Rafael Sjöholm"
+      ],
+      "places": [
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Keppos minkfarm startar",
+      "date": {
+        "year": 1955,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Emil Höglund startade en minkfarm på Keppo gård i Jeppo, som blev en av de största i Finland.",
+      "people": [
+        "Emil Höglund"
+      ],
+      "places": [
+        "Keppo gård"
+      ]
+    },
+    {
+      "title": "Möte om centralfryseri",
+      "date": {
+        "year": 1964,
+        "month": 10,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Ett hundratal minkfarmare samlades i Soklot för att besluta om ett gemensamt fryseri.",
+      "people": [
+        "Erik Saarikoski"
+      ],
+      "places": [
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Nyko-Frys bildas",
+      "date": {
+        "year": 1964,
+        "month": 10,
+        "day": 26,
+        "circa": false
+      },
+      "description": "Bolagsordningen för Nyko Frys Ab godkändes, och fryseriet byggdes norr om Nykarleby stad.",
+      "people": [
+        "Rudolf Sjöholm",
+        "Erik Saarikoski"
+      ],
+      "places": [
+        "Nyko-Frys"
+      ]
+    },
+    {
+      "title": "Farm-Frys stiftas",
+      "date": {
+        "year": 1964,
+        "month": 12,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Foderbolaget Farm-Frys höll stiftande bolagsstämma på restaurang von Döbeln i Nykarleby.",
+      "people": [
+        "Karl Erik Sandvik",
+        "Bo Sjöholm",
+        "John Nyqvist",
+        "Gunnar Willman"
+      ],
+      "places": [
+        "Restaurang von Döbeln",
+        "Farm-Frys"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Rafael Sjöholm",
+      "place": "Soklot",
+      "relation": "ran",
+      "startYear": 1936
+    },
+    {
+      "person": "Emil Höglund",
+      "place": "Keppo gård",
+      "relation": "ran",
+      "startYear": 1955
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1958
+    },
+    {
+      "image": 3,
+      "places": [],
+      "year": 1988
+    },
+    {
+      "image": 4,
+      "places": [
+        "Farm-Frys"
+      ],
+      "year": 1981
+    },
+    {
+      "image": 5,
+      "places": [
+        "Farm-Frys"
+      ],
+      "year": 2000
+    }
+  ],
+  "contentHash": "3bdc488d99f0659dd2a72bebb26f2851d6f5f03a102926daecb974e948953399",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

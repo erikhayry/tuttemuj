@@ -1,0 +1,363 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/semiovni.htm",
+  "title": "Seminariets övningsskola: tillkomst, verksamhet och lärare",
+  "summary": "Seminariets övningsskola, i folkmun Normalskolan, tog 1875 över stadens lägre folkskola och fick 1908 ett eget stenhus vid torget. Artikeln skildrar undervisningen, de stränga lärarna och flickornas intåg 1901.",
+  "topics": [
+    "övningsskolan",
+    "Normalskolan",
+    "skolor",
+    "undervisning",
+    "lärare"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "skolråd"
+      ]
+    },
+    {
+      "name": "Karl Fredrik Spolander",
+      "alternateNames": [
+        "K. F. Spolander"
+      ],
+      "roles": [
+        "lärare",
+        "föreståndare"
+      ]
+    },
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "A. F. Mennander",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Otto Nylund",
+      "alternateNames": [],
+      "roles": [
+        "teckningslärare"
+      ]
+    },
+    {
+      "name": "Isak Thors",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "Anders Holmqvist",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "F. V. Illberg",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "I. E. Koskimies",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "S. Lönnbeck",
+      "alternateNames": [],
+      "roles": [
+        "överinspektör"
+      ]
+    },
+    {
+      "name": "K. W. Helander",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "K. V. Reinius",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Anders Nyby",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Karl Alexander Björklund",
+      "alternateNames": [
+        "Alexander Björklund"
+      ],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Hjalmar Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Otto Georg Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Johannes Åbonde",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Seminariets övningsskola"
+      ],
+      "address": "vid torgets västra sida",
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1908
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "uses": [
+        {
+          "use": "seminarium"
+        },
+        {
+          "use": "övningsskola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smedsbacka gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52983378196397,
+        "lng": 22.523736715946278,
+        "match": "name",
+        "gazetteerName": "smedsbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Övningsskolan grundas",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Nykarleby seminarium tog över stadens lägre folkskola som övningsskola för blivande lärare.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Flickor i Normalskolan",
+      "date": {
+        "year": 1901,
+        "circa": false
+      },
+      "description": "Nio flickor togs in som de första i Nykarlebys normalskola.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Skolhuset byggs",
+      "date": {
+        "year": 1906,
+        "endYear": 1907,
+        "circa": false
+      },
+      "description": "Ett nytt stenhus för övningsskolan uppfördes vid torget enligt ritningar av arkitekt K. V. Reinius.",
+      "people": [
+        "K. V. Reinius"
+      ],
+      "places": [
+        "Normalskolan",
+        "Torget"
+      ]
+    },
+    {
+      "title": "Lektionerna börjar i nya huset",
+      "date": {
+        "year": 1908,
+        "month": 1,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Undervisningen började i Normalskolans nya skolhus, med 145 elever.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Skolan överlåts till staden",
+      "date": {
+        "year": 1970,
+        "month": 7,
+        "day": 23,
+        "circa": false
+      },
+      "description": "När seminariet lades ned överläts övningsskolan med tomter och inventarier gratis till staden för grundskolans lågstadium.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Nyby",
+      "place": "Normalskolan",
+      "relation": "worked",
+      "startYear": 1880,
+      "endYear": 1882
+    },
+    {
+      "person": "Karl Alexander Björklund",
+      "place": "Normalskolan",
+      "relation": "worked",
+      "startYear": 1900,
+      "endYear": 1934
+    },
+    {
+      "person": "Hjalmar Björkvall",
+      "place": "Normalskolan",
+      "relation": "worked",
+      "startYear": 1911,
+      "endYear": 1944
+    },
+    {
+      "person": "Otto Georg Holmberg",
+      "place": "Normalskolan",
+      "relation": "worked",
+      "startYear": 1921,
+      "endYear": 1956
+    },
+    {
+      "person": "Johannes Åbonde",
+      "place": "Normalskolan",
+      "relation": "worked",
+      "startYear": 1935,
+      "endYear": 1950
+    },
+    {
+      "person": "Karl Fredrik Spolander",
+      "place": "Normalskolan",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Normalskolan"
+      ]
+    }
+  ],
+  "contentHash": "54f77fe18a743054dc36cd1e17aa148be8103d8d7f4215c00aae4d0084ffe327",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -237,7 +237,12 @@
       "name": "Kärrfors kraftanläggning",
       "kind": "building",
       "alternateNames": [],
-      "description": "I Forsby; levererade ström till byar i Munsala."
+      "description": "I Forsby; levererade ström till byar i Munsala.",
+      "uses": [
+        {
+          "use": "kraftverk"
+        }
+      ]
     },
     {
       "name": "Herlers mälteri",
@@ -254,7 +259,12 @@
       "name": "Korsåkers kvarn",
       "kind": "building",
       "alternateNames": [],
-      "description": "Mjölkvarn på Korsåkern söder om staden vid älven, tillhörig J. W. Nessler."
+      "description": "Mjölkvarn på Korsåkern söder om staden vid älven, tillhörig J. W. Nessler.",
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
     },
     {
       "name": "Kovjoki station",
@@ -423,6 +433,11 @@
         "Uno Grillen"
       ],
       "address": "Mellangatan",
+      "uses": [
+        {
+          "use": "grill"
+        }
+      ],
       "geo": {
         "lat": 63.5256472,
         "lng": 22.5228374,
@@ -436,7 +451,12 @@
       "name": "Nykarleby pälsningscentral",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid Frillmossvägen."
+      "description": "Vid Frillmossvägen.",
+      "uses": [
+        {
+          "use": "industrihall"
+        }
+      ]
     },
     {
       "name": "Frontmannahuset på Munsalavägen 26",
@@ -451,6 +471,14 @@
         "Sportjohan"
       ],
       "address": "Topeliusesplanaden",
+      "uses": [
+        {
+          "use": "sportaffär"
+        },
+        {
+          "use": "maskinaffär"
+        }
+      ],
       "geo": {
         "lat": 63.523653,
         "lng": 22.531456,
@@ -1066,6 +1094,94 @@
       "Soklot"
     ]
   },
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Granlund",
+      "place": "Skomakaren Granlunds gård",
+      "relation": "owned"
+    },
+    {
+      "person": "J. W. Nessler",
+      "place": "Korsåkers kvarn",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Andersson Vik",
+      "place": "Viks gård i Soklot",
+      "relation": "owned"
+    },
+    {
+      "person": "Jakob Nordling",
+      "place": "Jakob Nordlings stuga på Alön",
+      "relation": "lived"
+    },
+    {
+      "person": "K. J. Nordman",
+      "place": "Nordmans villa på Markusholmen",
+      "relation": "owned"
+    },
+    {
+      "person": "Sofia Andersson",
+      "place": "Nordmans villa på Markusholmen",
+      "relation": "owned"
+    },
+    {
+      "person": "Hagman",
+      "place": "Hagmans bastu",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Ehrström",
+      "place": "Sport och maskin Johan",
+      "relation": "owned"
+    },
+    {
+      "person": "Sven-Erik Sundsten",
+      "place": "Frontmannahuset på Munsalavägen 26",
+      "relation": "died",
+      "startYear": 2023,
+      "endYear": 2023
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby pälsningscentral"
+      ],
+      "year": 2012
+    },
+    {
+      "image": 2,
+      "places": [
+        "Frontmannahuset på Munsalavägen 26"
+      ],
+      "year": 2023
+    },
+    {
+      "image": 3,
+      "places": [
+        "Sport och maskin Johan"
+      ],
+      "year": 2023
+    },
+    {
+      "image": 4,
+      "places": [
+        "Sport och maskin Johan"
+      ],
+      "year": 2023
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "c1a4dc98675c65bd869331e19ef5d2a111dab303a31584c4ddff5e8c3a4e35a3",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

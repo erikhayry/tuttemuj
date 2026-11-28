@@ -101,6 +101,46 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kyrkan"
+      ],
+      "year": 2013
+    },
+    {
+      "image": 2,
+      "places": [
+        "Residensgatan"
+      ],
+      "year": 2013
+    },
+    {
+      "image": 3,
+      "places": [
+        "Kyrkogatan"
+      ],
+      "year": 2013
+    },
+    {
+      "image": 4,
+      "places": [
+        "Residensgatan"
+      ],
+      "year": 2013
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "d54d611ad3aebbfd5d1822c2e6b2ce3bffc0aebdb6b6e95d0b90f48e7d0a9e2f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -33,6 +33,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnshuset på Brunnsholmarna",
+        "Brunnsholmens danshus"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "9ee608c251ae854917ca063a7073b5d4fd5bc1eb1ad44cf307e21a2aa1766124",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -73,6 +73,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bergers port",
+        "Bankgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "f685d610c0f25af51981744adb08f70497f25ff049b7fcc18a2c3bad0e7a9053",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

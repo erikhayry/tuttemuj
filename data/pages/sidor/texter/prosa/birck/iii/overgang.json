@@ -1,0 +1,157 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/overgang.htm",
+  "title": "Övergången till lägre elementarskola. Pedagogiens eftermäle",
+  "summary": "Nykarleby pedagogi blev 1842 en lägre elementarskola med Carl August Cajan som lärare. Vid inspektionen 1843 och årsexamen 1844 fick undervisningen hård kritik, då många elever ansågs håglösa och skolan saknade materiel.",
+  "topics": [
+    "skolor",
+    "Lägre elementarskolan",
+    "skolreform",
+    "examen",
+    "1840-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl August Cajan",
+      "alternateNames": [
+        "C. A. Cajan"
+      ],
+      "roles": [
+        "pedagog",
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "J. A. Nordgren",
+      "alternateNames": [],
+      "roles": [
+        "pastorsadjunkt",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Eric Gabriel Melartin",
+      "alternateNames": [],
+      "roles": [
+        "ärkebiskop"
+      ]
+    },
+    {
+      "name": "Eric Elfgren",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "C. Fr. Stenbäck",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "skolinspektor"
+      ]
+    },
+    {
+      "name": "A. Hammarin",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "C. J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby pedagogi"
+      ],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1842
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Första examen i den nya skolan",
+      "date": {
+        "year": 1842,
+        "month": 6,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Den första årsexamen i Nykarleby lägre elementarskola hölls sommaren 1842.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Ärkebiskopen inspekterar",
+      "date": {
+        "year": 1843,
+        "month": 3,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Ärkebiskop Eric Gabriel Melartin inspekterade skolan i Nykarleby och var inte nöjd med elevernas framsteg.",
+      "people": [
+        "Eric Gabriel Melartin",
+        "Eric Elfgren"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Sträng årsexamen",
+      "date": {
+        "year": 1844,
+        "month": 6,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Kyrkoherde C. Fr. Stenbäck riktade hård kritik mot kunskaperna vid skolans årsexamen i Nykarleby.",
+      "people": [
+        "C. Fr. Stenbäck",
+        "Carl August Cajan"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl August Cajan",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "startYear": 1842
+    }
+  ],
+  "images": [],
+  "contentHash": "5ea2edb21d0a88a83ba864d83f0bcfb347b990c4e63411e50aae71862a9adc97",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -85,6 +85,32 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Mirjam Tuominen",
+      "place": "Mirjam Tuominens hem",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Borgaregatan",
+        "Topeliusesplanaden"
+      ],
+      "year": 2003
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "4921c34757b232a91f8e6a9af27426c6140935fbde42c76c4c69b9f3294dfeb8",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -97,6 +97,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Blomströmska gården",
+        "Gustav Adolfsgatan",
+        "Sollefteågatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "cf045cbce3f2dce12b739095376a2ba007fc91a298af7135b5041c104ff1c9d3",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

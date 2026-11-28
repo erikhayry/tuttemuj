@@ -135,6 +135,24 @@
       ],
       "address": "tomt nr 19 vid S. Torggatan",
       "description": "Sollefteågatan 9 vid korsningen med Topeliusesplanaden, mot torget; byggd i början av 1860-talet, riven 1978.",
+      "uses": [
+        {
+          "use": "köttaffär"
+        },
+        {
+          "use": "andelsbank",
+          "startYear": 1958
+        },
+        {
+          "use": "elaffär"
+        },
+        {
+          "use": "bönelokal"
+        },
+        {
+          "use": "tygaffär"
+        }
+      ],
       "geo": {
         "lat": 63.52166921690244,
         "lng": 22.529908755695946,
@@ -167,12 +185,23 @@
     {
       "name": "Esso",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bensinstation"
+        }
+      ]
     },
     {
       "name": "Andelsbanken",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bank",
+          "startYear": 1979
+        }
+      ]
     },
     {
       "name": "Torghallen",
@@ -201,6 +230,11 @@
       "name": "Grönhuset",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "elaffär"
+        }
+      ],
       "geo": {
         "lat": 63.52289328655638,
         "lng": 22.531447179848815,
@@ -424,6 +458,178 @@
       "Torget"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl Nylund",
+      "place": "Nylundska gården",
+      "relation": "built"
+    },
+    {
+      "person": "Carl Nylund",
+      "place": "Nylundska gården",
+      "relation": "owned",
+      "endYear": 1906
+    },
+    {
+      "person": "J. P. Holmström",
+      "place": "Nylundska gården",
+      "relation": "owned",
+      "startYear": 1906,
+      "endYear": 1911
+    },
+    {
+      "person": "J. P. Holmström",
+      "place": "Nylundska gården",
+      "relation": "ran",
+      "endYear": 1911
+    },
+    {
+      "person": "Joel Nordling",
+      "place": "Nylundska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Joel Nordling",
+      "place": "Nylundska gården",
+      "relation": "ran"
+    },
+    {
+      "person": "Ragnar Nordström",
+      "place": "Nylundska gården",
+      "relation": "worked"
+    },
+    {
+      "person": "Ragnar Nordström",
+      "place": "Nylundska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Brita Nordström",
+      "place": "Nylundska gården",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nylundska gården",
+        "Sollefteågatan"
+      ],
+      "year": 1970
+    },
+    {
+      "image": 2,
+      "places": [
+        "Nylundska gården"
+      ],
+      "year": 1946
+    },
+    {
+      "image": 3,
+      "places": [
+        "Nylundska gården",
+        "Torget"
+      ],
+      "year": 1975
+    },
+    {
+      "image": 4,
+      "places": [
+        "Nylundska gården",
+        "Torget"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 5,
+      "places": [
+        "Nylundska gården"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 6,
+      "places": [
+        "Nylundska gården"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 7,
+      "places": [
+        "Nylundska gården"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 8,
+      "places": [
+        "Nylundska gården",
+        "Västra Esplanadgatan"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 9,
+      "places": [
+        "Nylundska gården",
+        "Västra Esplanadgatan"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 10,
+      "places": [
+        "Nylundska gården",
+        "Västra Esplanadgatan"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 11,
+      "places": [
+        "Västra Esplanadgatan",
+        "Normen"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 12,
+      "places": [
+        "Nylundska gården",
+        "Västra Esplanadgatan",
+        "Sollefteågatan"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 13,
+      "places": [
+        "Nylundska gården",
+        "Sollefteågatan",
+        "Lövhyddan",
+        "Rådhuset"
+      ],
+      "year": 1978
+    },
+    {
+      "image": 14,
+      "places": [
+        "Nylundska gården"
+      ],
+      "year": 1978
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "e45967d6269d2228f4aa47f6c012bcc53cd91fd43607a82c1f5de8a9198957d2",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

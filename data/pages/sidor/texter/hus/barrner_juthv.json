@@ -218,6 +218,106 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Sven Barrner",
+      "place": "Ohls hemman",
+      "relation": "owned",
+      "startYear": 1933
+    },
+    {
+      "person": "Paul Sandelin",
+      "place": "Barrners gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Helga Barrner",
+      "place": "Barrners gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Helmi Barrner",
+      "place": "Barrners gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Sigrid Barrner",
+      "place": "Barrners gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Ruth Barrner",
+      "place": "Barrners gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Rakel Karp",
+      "place": "Barrners gård",
+      "relation": "owned",
+      "endYear": 1973
+    },
+    {
+      "person": "Rakel Karp",
+      "place": "Kovjoki skola",
+      "relation": "worked"
+    },
+    {
+      "person": "Börje Nygård",
+      "place": "Barrners gård",
+      "relation": "owned",
+      "startYear": 1973
+    },
+    {
+      "person": "Gudrun Nygård",
+      "place": "Barrners gård",
+      "relation": "owned",
+      "startYear": 1973
+    },
+    {
+      "person": "Carl-Johan Nygård",
+      "place": "Barrners gård",
+      "relation": "owned",
+      "startYear": 1983
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Barrners gård",
+        "Juthasvägen",
+        "Holmbergs gård"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Barrners gård"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Barrners gård"
+      ]
+    },
+    {
+      "image": 7,
+      "places": [
+        "Barrners gård",
+        "Juthasvägen"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "2398ac3f06207cf298d41a277a62c9b6d0e959eed6e517d19f44018f718f7bff",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

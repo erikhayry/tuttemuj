@@ -118,6 +118,27 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Apotekets brunnshus",
+        "Kyrkogatan",
+        "Borgaregatan"
+      ],
+      "year": 2003
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "3b89e528c49f2a4038507e3a45f7c8cf378290993922ce30333cd3cdc1745445",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

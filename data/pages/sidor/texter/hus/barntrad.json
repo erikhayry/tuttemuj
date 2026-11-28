@@ -70,7 +70,13 @@
       "name": "Barnträdgården",
       "kind": "building",
       "alternateNames": [],
-      "description": "Barack vid korsningen Mathesiusgatan–Karleborgsgatan 1966–1995, sedan flyttad till NURK vid Kovjokivägen."
+      "description": "Barack vid korsningen Mathesiusgatan–Karleborgsgatan 1966–1995, sedan flyttad till NURK vid Kovjokivägen.",
+      "uses": [
+        {
+          "use": "barnträdgård",
+          "startYear": 1966
+        }
+      ]
     },
     {
       "name": "Mathesiusgatan",
@@ -120,19 +126,35 @@
     {
       "name": "Gamla stationshuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "barnträdgård"
+        }
+      ]
     },
     {
       "name": "Björks gård",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid korsningen Gustav Adolfsgatan–Sollefteågatan."
+      "description": "Vid korsningen Gustav Adolfsgatan–Sollefteågatan.",
+      "uses": [
+        {
+          "use": "barnträdgård"
+        }
+      ]
     },
     {
       "name": "Daghemmet Guldvinge",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid Hökvägen, klart 2022."
+      "description": "Vid Hökvägen, klart 2022.",
+      "uses": [
+        {
+          "use": "daghem",
+          "startYear": 2022
+        }
+      ]
     },
     {
       "name": "Hökvägen",
@@ -225,6 +247,48 @@
       "NURK"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Anna-Lisa Solvin",
+      "place": "Barnträdgården",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Barnträdgården",
+        "Mathesiusgatan",
+        "Karleborgsgatan"
+      ],
+      "year": 1995
+    },
+    {
+      "image": 2,
+      "places": [
+        "Barnträdgården",
+        "NURK"
+      ],
+      "year": 2009
+    },
+    {
+      "image": 3,
+      "places": [
+        "Barnträdgården"
+      ],
+      "year": 1995
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "d212b1b95f6cd99e3847f5ad62b5c4fb29be51a2ae948493a459cafa6fd69480",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

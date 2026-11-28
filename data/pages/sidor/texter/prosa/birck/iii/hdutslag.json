@@ -1,0 +1,265 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hdutslag.htm",
+  "title": "Högsta domstolens utslag 1929 och stadskvarnens öden",
+  "summary": "Högsta domstolen fastslog 1929 att Nykarlebys stadskvarn inte stod på Nygårds hemmans mark. Kvarnrörelsen flyttade till Kampen, och den över 300 år gamla kvarnen revs 1984.",
+  "topics": [
+    "stadskvarnen",
+    "rättstvist",
+    "kvarn",
+    "kraftverket",
+    "andra världskriget"
+  ],
+  "people": [
+    {
+      "name": "E. Hägglöf",
+      "alternateNames": [],
+      "roles": [
+        "arrendator"
+      ]
+    },
+    {
+      "name": "Anders Nyman",
+      "alternateNames": [],
+      "roles": [
+        "bonde",
+        "arrendator"
+      ]
+    },
+    {
+      "name": "Wiktor Heselius",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Erik Fors",
+      "alternateNames": [],
+      "roles": [
+        "mekaniker"
+      ]
+    },
+    {
+      "name": "Joh. W. Mouritzen",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör",
+        "teknisk ledare"
+      ]
+    },
+    {
+      "name": "Elna Andersson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Eng",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Grahn",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygårds hemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kvarnen på Kampen",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby Kvarn"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kraftverk"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Högsta domstolen avgör",
+      "date": {
+        "year": 1929,
+        "month": 4,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Högsta domstolen fastslog i målet mellan Nygårds hemman och Nykarleby stad att stadskvarnen inte stod på hemmanets mark.",
+      "people": [],
+      "places": [
+        "Stadskvarnen",
+        "Nygårds hemman"
+      ]
+    },
+    {
+      "title": "Ny arrendator",
+      "date": {
+        "year": 1939,
+        "month": 7,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Bonden Anders Nyman från Monäs började arrendera stadskvarnen.",
+      "people": [
+        "Anders Nyman"
+      ],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Kvarnrörelsen säljs",
+      "date": {
+        "year": 1945,
+        "month": 4,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Anders Nyman sålde arrenderätten till stadskvarnen och tomten på Kampen till mjölnaren Wiktor Heselius.",
+      "people": [
+        "Anders Nyman",
+        "Wiktor Heselius"
+      ],
+      "places": [
+        "Stadskvarnen",
+        "Kampen"
+      ]
+    },
+    {
+      "title": "Eltre köper kvarnen",
+      "date": {
+        "year": 1986,
+        "circa": false
+      },
+      "description": "Elfirman Eltre köpte och renoverade den tidigare kvarnen på Kampen.",
+      "people": [],
+      "places": [
+        "Kvarnen på Kampen"
+      ]
+    },
+    {
+      "title": "Stadskvarnen rivs",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "description": "Nykarleby stad rev resterna av den gamla stadskvarnen, som annars skulle ha dränkts när vattennivån reglerades.",
+      "people": [],
+      "places": [
+        "Stadskvarnen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Nyman",
+      "place": "Stadskvarnen",
+      "relation": "ran",
+      "startYear": 1939,
+      "endYear": 1945
+    },
+    {
+      "person": "Wiktor Heselius",
+      "place": "Kvarnen på Kampen",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kvarnen på Kampen"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 2,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1942
+    }
+  ],
+  "contentHash": "890aedcf22a476f8cd5b8312d9e04ed4814259681ba86926532dc4063757da24",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

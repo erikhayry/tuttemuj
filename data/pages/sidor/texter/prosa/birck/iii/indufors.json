@@ -1,0 +1,160 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/indufors.htm",
+  "title": "Industrialiseringsförsök efter kriget",
+  "summary": "Efter andra världskriget startade flera byggföretag i Nykarleby. Bröderna Westerlunds såg och snickeri från 1948 tillverkade minkhus och byggnadssnickerier och byggde 1966 ett större snickeri vid Kovjokivägen.",
+  "topics": [
+    "industri",
+    "snickeri",
+    "byggbransch",
+    "minknäring",
+    "efterkrigstiden"
+  ],
+  "people": [
+    {
+      "name": "Gösta Edvard Björkholm",
+      "alternateNames": [],
+      "roles": [
+        "byggföretagare"
+      ]
+    },
+    {
+      "name": "Gunnar Edvin Norrback",
+      "alternateNames": [],
+      "roles": [
+        "byggföretagare"
+      ]
+    },
+    {
+      "name": "Tor Johnson",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Erik Herman Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Stig Alfons Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Gösta Granlund",
+      "alternateNames": [],
+      "roles": [
+        "burtillverkare"
+      ]
+    },
+    {
+      "name": "Armas Mäenpää",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Westerlunds snickeri",
+      "kind": "building",
+      "alternateNames": [
+        "Bröderna Westerlunds Såg- och Snickeri",
+        "Nykarleby Såg & Snickeri"
+      ],
+      "address": "vid Kovjokivägen strax bortom järnvägskorsningen",
+      "uses": [
+        {
+          "use": "snickeri",
+          "startYear": 1966
+        }
+      ]
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [
+        "Järnvägsgatan"
+      ],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Byggnadsbyrå grundas",
+      "date": {
+        "year": 1947,
+        "month": 10,
+        "circa": false
+      },
+      "description": "Nykarleby Byggnadsbyrå, Björkholm och Norrback, registrerades.",
+      "people": [
+        "Gösta Edvard Björkholm",
+        "Gunnar Edvin Norrback"
+      ],
+      "places": []
+    },
+    {
+      "title": "Westerlunds såg och snickeri",
+      "date": {
+        "year": 1948,
+        "month": 10,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Bröderna Westerlunds Såg- och Snickeri registrerades med Erik och Stig Westerlund som ägare.",
+      "people": [
+        "Erik Herman Westerlund",
+        "Stig Alfons Westerlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nytt snickeri byggs",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "description": "Westerlund byggde ett större snickeri vid Kovjokivägen i Nykarleby, på stadens planerade industriområde.",
+      "people": [
+        "Erik Herman Westerlund"
+      ],
+      "places": [
+        "Westerlunds snickeri",
+        "Kovjokivägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Erik Herman Westerlund",
+      "place": "Westerlunds snickeri",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "adbbcf904c0a7720df35be4f75b73a85eec5321d4b06ca0b5227c1f0161105fa",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

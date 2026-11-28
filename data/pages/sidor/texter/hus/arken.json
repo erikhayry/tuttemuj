@@ -67,7 +67,15 @@
       "name": "Arken",
       "kind": "building",
       "alternateNames": [],
-      "description": "Uppdragen båt med påbyggt akterhus, använd som sommarstuga."
+      "description": "Uppdragen båt med påbyggt akterhus, använd som sommarstuga.",
+      "uses": [
+        {
+          "use": "båt"
+        },
+        {
+          "use": "sommarstuga"
+        }
+      ]
     },
     {
       "name": "Aspskär",
@@ -172,6 +180,61 @@
       "Hummelskär"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Alfons Eklund",
+      "place": "Arken",
+      "relation": "owned"
+    },
+    {
+      "person": "Birger Backlund",
+      "place": "Arken",
+      "relation": "owned"
+    },
+    {
+      "person": "Birger Backlund",
+      "place": "Arken",
+      "relation": "lived"
+    },
+    {
+      "person": "Erik Wik",
+      "place": "Arken",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Arken"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Arken",
+        "Hummelskär"
+      ],
+      "year": 1956
+    },
+    {
+      "image": 3,
+      "places": [
+        "Arken",
+        "Granskär"
+      ],
+      "year": 2015
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "7baeaee1e8b23facbf42a69c03c9f3a746dcfbbd95d33dc19e5d8cb7f71d9294",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

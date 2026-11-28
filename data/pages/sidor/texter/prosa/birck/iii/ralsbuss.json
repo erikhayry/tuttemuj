@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ralsbuss.html",
+  "title": "Rälsbuss vid Kovjoki station ca 1976",
+  "summary": "Ett foto av rälsbuss 11556 vid Kovjoki station omkring 1976, taget av Reino Kalliomäki.",
+  "topics": [
+    "rälsbuss",
+    "järnväg",
+    "järnvägsstation",
+    "fotografi"
+  ],
+  "people": [
+    {
+      "name": "Reino Kalliomäki",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kovjoki järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "Kovjoki station"
+      ],
+      "uses": [
+        {
+          "use": "järnvägsstation"
+        }
+      ],
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Kovjoki järnvägsstation"
+      ]
+    }
+  ],
+  "contentHash": "dcaeb296e146de0f61b64c2e094b7774d2aac8afc87b12326e0324665e0749e8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

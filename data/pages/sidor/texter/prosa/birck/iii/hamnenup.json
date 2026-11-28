@@ -1,0 +1,232 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hamnenup.htm",
+  "title": "Hamnen avvecklas",
+  "summary": "Sjöfarten på Nykarleby hamn vid Andra sjön var livlig från 1880 till första världskriget men dog nästan ut efter andra världskriget. Trafiken upphörde 1966, och fartygsbryggan förföll och revs.",
+  "topics": [
+    "sjöfart",
+    "hamnen",
+    "Andra sjön",
+    "avveckling",
+    "tull"
+  ],
+  "people": [
+    {
+      "name": "Reino Kalliomäki",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby hamn",
+      "kind": "landmark",
+      "alternateNames": [
+        "Hamnen vid Andra sjön"
+      ],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Åndra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torsöfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "uthamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stora Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "redd"
+        }
+      ]
+    },
+    {
+      "name": "Kråkskärssund",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "redd"
+        }
+      ]
+    },
+    {
+      "name": "Soklothällan",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "lotsstation"
+        }
+      ],
+      "geo": {
+        "lat": 63.641935178752654,
+        "lng": 22.417153909643126,
+        "match": "name",
+        "gazetteerName": "soklothällan",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ångbåtsbryggan",
+      "kind": "landmark",
+      "alternateNames": [
+        "Fartygsbryggan"
+      ]
+    },
+    {
+      "name": "Kantlax",
+      "kind": "village",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "oljehamn"
+        }
+      ]
+    },
+    {
+      "name": "Monässund",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Storösund",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Järnväg till Kovjoki",
+      "date": {
+        "year": 1949,
+        "circa": false
+      },
+      "description": "Nykarleby fick bredspårig järnvägsförbindelse med Kovjoki, vilket väckte hopp om ett uppsving för hamnen.",
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Trafiken upphör",
+      "date": {
+        "year": 1966,
+        "circa": false
+      },
+      "description": "Fartygstrafiken på Nykarleby hamn upphörde helt.",
+      "people": [],
+      "places": [
+        "Nykarleby hamn"
+      ]
+    },
+    {
+      "title": "Sista hamninkomsterna",
+      "date": {
+        "year": 1970,
+        "circa": false
+      },
+      "description": "Nykarleby stad uppbar inkomster från hamnen för sista gången.",
+      "people": [],
+      "places": [
+        "Nykarleby hamn"
+      ]
+    },
+    {
+      "title": "Utträde ur Hamnförbundet",
+      "date": {
+        "year": 1973,
+        "month": 1,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Nykarleby stad lämnade Finlands Hamnförbund eftersom ingen båttrafik längre förekom på hamnen.",
+      "people": [],
+      "places": [
+        "Nykarleby hamn"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Torsöfjärden"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Andra sjön"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Ångbåtsbryggan"
+      ]
+    }
+  ],
+  "contentHash": "d3ff3c2da8cac704a95b11aa30a410f8af3fbf4b35446c838f52e2668eb09793",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -1,0 +1,134 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/senasmab.htm",
+  "title": "Senare småbarnsskolor",
+  "summary": "I Nykarleby fanns flera privata småbarnsskolor, med fröken Ida Sundströms barnskola 1884–1906 som en av de viktigaste. Många av skolorna fick små understöd av stadens brännvinsmedel.",
+  "topics": [
+    "småbarnsskolor",
+    "privatskolor",
+    "undervisning",
+    "1880-talet"
+  ],
+  "people": [
+    {
+      "name": "Ida Sundström",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Anni Backman",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Aina Polén",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Berta Svanström",
+      "alternateNames": [],
+      "roles": [
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Karin Söderström",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Sigrid Barck",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Sundströmska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Holmströms gård",
+        "Sandqvists"
+      ],
+      "address": "vid nuvarande Kyrkogatan 2",
+      "uses": [
+        {
+          "use": "småbarnsskola",
+          "startYear": 1884,
+          "endYear": 1906
+        }
+      ],
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ida Sundströms barnskola",
+      "date": {
+        "year": 1884,
+        "endYear": 1906,
+        "circa": false
+      },
+      "description": "Fröken Ida Sundström drev en förberedande barnskola i Sundströmska gården vid nuvarande Kyrkogatan 2.",
+      "people": [
+        "Ida Sundström"
+      ],
+      "places": [
+        "Sundströmska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Ida Sundström",
+      "place": "Sundströmska gården",
+      "relation": "ran",
+      "startYear": 1884,
+      "endYear": 1906
+    }
+  ],
+  "images": [],
+  "contentHash": "f73f4963db110e13019c27a106aa7dfc5992841c85f94640a7a9a3f90182504f",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/poppius.htm",
+  "title": "Kaptenskan Poppius skola",
+  "summary": "Änkan Christina Charlotta Poppius höll privatskola i Nykarleby i minst ett decennium, ända till stadsbranden. Eleverna minns hennes lorgnett, katten på frukostbordet och lektionerna i franska, geografi och god ton.",
+  "topics": [
+    "skolor",
+    "privatskola",
+    "undervisning",
+    "skolminnen",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Christina Charlotta Poppius",
+      "alternateNames": [
+        "Kaptenskan Poppius"
+      ],
+      "roles": [
+        "änkefru",
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Lotten Poppius",
+      "alternateNames": [
+        "Lotten"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Henrik Poppius",
+      "alternateNames": [],
+      "deathYear": 1833,
+      "roles": [
+        "kapten",
+        "translator"
+      ]
+    },
+    {
+      "name": "Rosa Backman",
+      "alternateNames": [
+        "Rosa B."
+      ],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Louise Kerrman",
+      "alternateNames": [],
+      "roles": [
+        "mamsell"
+      ]
+    },
+    {
+      "name": "Olof Brunström",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Betty Barck",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Augusta Wahlström",
+      "alternateNames": [],
+      "roles": [
+        "elev",
+        "frielev"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lithén-Dyhrska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Poppius hyrde den lilla byggningen på gården.",
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ]
+    },
+    {
+      "name": "Hammarins gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Storgatan",
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    },
+    {
+      "name": "Olof Brunströms gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "gård nr 66 och 67"
+    },
+    {
+      "name": "Storgatan",
+      "kind": "street",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Poppius flyttar till Nykarleby",
+      "date": {
+        "year": 1848,
+        "circa": false
+      },
+      "description": "Änkefru Christina Charlotta Poppius flyttade från Kristinestad till Nykarleby, där hon sedan höll skola.",
+      "people": [
+        "Christina Charlotta Poppius"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Skolbarnen byter bokmärken mot russin medan de väntar på lärarinnan, som sedan blöter smörgåsar i mjölkmuggen och matar katten på bordet. Varje gång hon nyser flyger pojkarnas bänk i golvet.",
+    "reason": "Tydliga, roliga scener ur skolvardagen med färgstarka figurer.",
+    "characters": [
+      "Christina Charlotta Poppius",
+      "Lotten Poppius",
+      "Rosa Backman"
+    ],
+    "places": [
+      "Hammarins gård"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Christina Charlotta Poppius",
+      "place": "Lithén-Dyhrska gården",
+      "relation": "lived",
+      "startYear": 1849,
+      "endYear": 1850
+    },
+    {
+      "person": "Christina Charlotta Poppius",
+      "place": "Hammarins gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Olof Brunström",
+      "place": "Olof Brunströms gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "ca30a266fd93e1ab465bf01b9ef123107e9c39f7eb856a1e85584c78faa43aed",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/sjalvsta.htm",
+  "title": "Finland självständigt",
+  "summary": "I januari 1918 nådde beskedet om erkänd självständighet Nykarleby, och den ryska texten försvann från gatskyltarna. Delar av gränsbevakningen lämnade rådhuset, och militärhästar såldes på torget.",
+  "topics": [
+    "självständighet",
+    "gatskyltar",
+    "ryska garnisonen",
+    "1918"
+  ],
+  "people": [
+    {
+      "name": "Carl Fredrik Öhrling",
+      "alternateNames": [],
+      "roles": [
+        "skyltmålare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "militärförläggning",
+          "endYear": 1918
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby hamn",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Norra Torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "Bankgatan"
+      ],
+      "geo": {
+        "lat": 63.52270006915547,
+        "lng": 22.530149332227236,
+        "match": "name",
+        "gazetteerName": "norra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan 4",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid korsningen med Kyrkogatan"
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Självständigheten erkänns",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Österbottniska Posten publicerade nyheten att Finlands självständighet erkänts från rysk sida.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Gränsbevakare lämnar rådhuset",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Den del av den ryska gränsbevakningen som varit förlagd i rådhuset lämnade Nykarleby i mitten av januari.",
+      "people": [],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Militärhästar säljs",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 26,
+        "circa": false
+      },
+      "description": "En del av den ryska militärens hästar såldes på torget i Nykarleby.",
+      "people": [],
+      "places": [
+        "Torget"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Lars Pensar",
+      "place": "Bankgatan 4",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Norra Torggatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Norra Torggatan"
+      ]
+    }
+  ],
+  "contentHash": "dd63c777bf0d407be101cc2781803e01085c989ee4b9a1ee69c3a377ee1d4f12",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

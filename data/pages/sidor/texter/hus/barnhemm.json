@@ -38,13 +38,23 @@
     {
       "name": "Barnhemmet",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "barnhem"
+        }
+      ]
     },
     {
       "name": "Nesslers tryckeri",
       "kind": "building",
       "alternateNames": [],
-      "description": "Tryckte Österbottniska Posten; fönster mot Bangatan."
+      "description": "Tryckte Österbottniska Posten; fönster mot Bangatan.",
+      "uses": [
+        {
+          "use": "tryckeri"
+        }
+      ]
     },
     {
       "name": "Mejeriet",
@@ -106,6 +116,32 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Barnhemmet",
+        "Nesslers tryckeri",
+        "Mejeriet"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Barnhemmet"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "5adb75d5da325ba48354e31e8a7d395f966017c2f85d7ca04502b0b7e6311130",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

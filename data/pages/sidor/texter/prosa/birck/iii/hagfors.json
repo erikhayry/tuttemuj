@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hagfors.htm",
+  "title": "K. J. Hagfors 1860–1939",
+  "summary": "K. J. Hagfors var direktor för Nykarleby seminarium 1917–1930 och verkade där i 40 år. Han var en krävande lärare som höjde svenskundervisningen och seminariets anseende.",
+  "topics": [
+    "seminariet",
+    "direktor",
+    "modersmål",
+    "lärare"
+  ],
+  "people": [
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [],
+      "birthYear": 1860,
+      "deathYear": 1939,
+      "roles": [
+        "direktor",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Wichmann",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hagfors blir direktor",
+      "date": {
+        "year": 1917,
+        "month": 5,
+        "day": 2,
+        "circa": false
+      },
+      "description": "K. J. Hagfors utnämndes till direktor för Nykarleby seminarium trots motstånd från skolöverstyrelsen och pressen.",
+      "people": [
+        "K. J. Hagfors"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "K. J. Hagfors",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "endYear": 1930
+    }
+  ],
+  "images": [],
+  "contentHash": "ef133791e0611bba06cb4e0fdc6699db123cb973db922c2f55b7769812bce23a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -1,0 +1,151 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hantvskol.htm",
+  "title": "Hantverksskolan",
+  "summary": "Hantverksskolan i Nykarleby startade hösten 1891 i folkskolans lokal för unga lärlingar. Få elever, krigsårens inkvartering och nya krav ledde till att skolan upphörde efter 1920.",
+  "topics": [
+    "hantverksskolan",
+    "yrkesutbildning",
+    "lärlingar",
+    "skola"
+  ],
+  "people": [
+    {
+      "name": "Hj. Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Alex. Björklund",
+      "alternateNames": [
+        "Alex Björklund"
+      ],
+      "roles": [
+        "lärare",
+        "föreståndare"
+      ]
+    },
+    {
+      "name": "Gustaf Finnström",
+      "alternateNames": [],
+      "birthYear": 1882,
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Anders Liljekvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna Lisa Blöth",
+      "alternateNames": [],
+      "roles": [
+        "uppgiftslämnare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Folkskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby stadsfolkskola"
+      ],
+      "uses": [
+        {
+          "use": "hantverksskola"
+        }
+      ]
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hantverksskola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jöns Drakesväg 29",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Jöns Drakesväg 29"
+    }
+  ],
+  "events": [
+    {
+      "title": "Hantverksskolan startar",
+      "date": {
+        "year": 1891,
+        "circa": false
+      },
+      "description": "Hantverksskolan i Nykarleby började sin verksamhet på hösten i folkskolans lokal.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lokalen tas av rysk militär",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "description": "Hantverksskolans lokal togs i anspråk för inkvartering av rysk militär, och skolan hänvisades till Pensars gård.",
+      "people": [],
+      "places": [
+        "Pensars gård"
+      ]
+    },
+    {
+      "title": "Indragningen avvisas",
+      "date": {
+        "year": 1920,
+        "month": 3,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige i Nykarleby beslöt att inte dra in hantverksskolan.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Skolan stängs",
+      "date": {
+        "year": 1920,
+        "month": 10,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige beslöt att hantverksskolan inte skulle hållas i gång under året, och den återupptogs aldrig.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "465e3d21dbb6693528b0ddc4486688b320b085e76157b7771d93613c506f7dd2",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

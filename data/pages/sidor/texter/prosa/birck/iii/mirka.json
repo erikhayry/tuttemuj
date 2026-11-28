@@ -1,0 +1,126 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/mirka.htm",
+  "title": "Mirka Oy Keppo Ab",
+  "summary": "Slippapperstillverkaren Mirka flyttade 1962 från Helsingfors till Kiitola fabriker i Jeppo. Efter en fusion med Oy Keppo Ab 1973 fick företaget en ny industrihall och växte snabbt.",
+  "topics": [
+    "industri",
+    "Mirka",
+    "slippapper",
+    "Jeppo",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Henry Lindgård",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Emil Höglund",
+      "alternateNames": [],
+      "roles": [
+        "bergsråd",
+        "delägare"
+      ]
+    },
+    {
+      "name": "Stefan Gustavsson",
+      "alternateNames": [],
+      "roles": [
+        "representant"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Mirka",
+      "kind": "building",
+      "alternateNames": [
+        "Mirka Oy Keppo Ab"
+      ],
+      "uses": [
+        {
+          "use": "slippappersfabrik",
+          "startYear": 1962
+        }
+      ]
+    },
+    {
+      "name": "Kiitola fabriker",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sandpappersfabrik",
+          "startYear": 1962
+        }
+      ]
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Mirka flyttar till Jeppo",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "description": "Företaget Mirka, grundat 1943 i Helsingfors, flyttade till Kiitola fabriker i Jeppo.",
+      "people": [
+        "Emil Höglund"
+      ],
+      "places": [
+        "Kiitola fabriker",
+        "Jeppo"
+      ]
+    },
+    {
+      "title": "Fusion och ny industrihall",
+      "date": {
+        "year": 1973,
+        "circa": false
+      },
+      "description": "Mirka gick samman med Oy Keppo Ab och tog en ny industrihall i Jeppo i bruk.",
+      "people": [],
+      "places": [
+        "Mirka",
+        "Jeppo"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Henry Lindgård",
+      "place": "Mirka",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "ea5c649b78545dcf569d493a4c66010697674ce9411158ac315da4586ebdf3d1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

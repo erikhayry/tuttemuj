@@ -82,6 +82,34 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Apotekskällaren",
+        "Apoteksbacken",
+        "Kyrkogatan",
+        "Borgaregatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Apotekskällaren",
+        "Apoteksbacken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "02a3ae6620cd95146318cbdd5810e6920dc310d8ac35077bb14acf9970e6afe3",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

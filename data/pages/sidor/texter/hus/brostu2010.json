@@ -79,6 +79,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Reklampelaren vid Brostugan",
+        "Brostugan"
+      ],
+      "year": 2004
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "892cdb22becf4cefb706c61c3de4270060441137ab31e9bfc1732cda16d4b533",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

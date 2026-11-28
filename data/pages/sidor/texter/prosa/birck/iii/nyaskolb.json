@@ -1,0 +1,114 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/nyaskolb.htm",
+  "title": "Den nya skolbyggnaden 1852–1856",
+  "summary": "Det nya skolhuset för Lägre elementarskolan i Nykarleby stod färdigt sommaren 1852. Under det orientaliska kriget blev skolsalen kyrka för ortodoxa soldater, och eleverna fick undervisning hemma hos läraren Wilhelm Grönqvist.",
+  "topics": [
+    "skolor",
+    "Lägre elementarskolan",
+    "byggande",
+    "orientaliska kriget",
+    "1850-talet"
+  ],
+  "people": [
+    {
+      "name": "Wilhelm Grönqvist",
+      "alternateNames": [
+        "Grönqvist"
+      ],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Christopher Kullman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "skolinspektor"
+      ]
+    },
+    {
+      "name": "Anders Forsman",
+      "alternateNames": [],
+      "roles": [
+        "timmerman"
+      ]
+    },
+    {
+      "name": "Bergenheim",
+      "alternateNames": [],
+      "roles": [
+        "ärkebiskop"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "oreglerade tomten nr 16 i VIII kvarteret i I stadsdelen",
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1852
+        },
+        {
+          "use": "kyrka"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Skolhuset står färdigt",
+      "date": {
+        "year": 1852,
+        "circa": false
+      },
+      "description": "Det nya skolhuset för Lägre elementarskolan i Nykarleby blev färdigt sommaren 1852.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Skolan flyttar till lärarens hem",
+      "date": {
+        "year": 1855,
+        "month": 12,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Skolan inhystes hos lärare Wilhelm Grönqvist sedan skolsalen upplåtits till kyrka för grekisk-ortodox militär.",
+      "people": [
+        "Wilhelm Grönqvist"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Wilhelm Grönqvist",
+      "place": "Lägre elementarskolan",
+      "relation": "worked",
+      "endYear": 1857
+    }
+  ],
+  "images": [],
+  "contentHash": "8997cd8f60f46de11f68980f0113e127509635b27702235bff94aceb96d44368",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

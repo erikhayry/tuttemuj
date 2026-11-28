@@ -1,0 +1,152 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/nykfrbk.htm",
+  "title": "Nykarleby ”frivilliga brandkår” bildas",
+  "summary": "Hösten 1917 bildades i Nykarleby en frivillig ”brandkår” för att skydda egendom mot våld och oroligheter. Den blev snart känd som skyddskåren och valde gymnastiklektorn Niilo Böök till ledare.",
+  "topics": [
+    "skyddskåren",
+    "1917",
+    "brandkår",
+    "första världskriget",
+    "scouter"
+  ],
+  "people": [
+    {
+      "name": "A. Hildén",
+      "alternateNames": [
+        "Hildén"
+      ],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "W. Fagerholm",
+      "alternateNames": [],
+      "roles": [
+        "handelsföreståndare"
+      ]
+    },
+    {
+      "name": "A. Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "garvarmästare"
+      ]
+    },
+    {
+      "name": "Karl Andersson",
+      "alternateNames": [],
+      "roles": [
+        "lärarkandidat"
+      ]
+    },
+    {
+      "name": "Hugo Casén",
+      "alternateNames": [],
+      "roles": [
+        "kassör"
+      ]
+    },
+    {
+      "name": "Rudolf Dahlgren",
+      "alternateNames": [],
+      "roles": [
+        "seminarist"
+      ]
+    },
+    {
+      "name": "Niilo Böök",
+      "alternateNames": [],
+      "roles": [
+        "gymnastiklektor"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykterhetskaféet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Upprop för en brandkår",
+      "date": {
+        "year": 1917,
+        "month": 9,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Ett upprop i ortstidningen efterlyste en frivillig brand- eller skyddskår för att skydda privat egendom i Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Brandkåren får medlemmar",
+      "date": {
+        "year": 1917,
+        "month": 9,
+        "day": 26,
+        "circa": false
+      },
+      "description": "Ett trettiotal stadsbor anslöt sig till den frivilliga brandkåren, och doktor Hildén blev ordförande.",
+      "people": [
+        "A. Hildén",
+        "Karl Andersson",
+        "Hugo Casén"
+      ],
+      "places": []
+    },
+    {
+      "title": "Skyddskårsmöte",
+      "date": {
+        "year": 1917,
+        "month": 10,
+        "day": 21,
+        "circa": false
+      },
+      "description": "Beteckningen skyddskår användes första gången offentligt när kåren kallades till möte i Nykarleby.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "e44deeacad88bab824d12df4a97c82020e95378ca147cf55aee0e87b28b23bd1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -1,0 +1,144 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/lagreele.htm",
+  "title": "Lägre elementarskolans läro- och kursplaner",
+  "summary": "På 1840-talet undervisade lärare Cajan i Nykarlebys lägre elementarskola med hjälp av äldre elever som monitörer. Skolhuset från 1730-talet dömdes ut vid en visitation 1845, och fattigdom höll många borta.",
+  "topics": [
+    "lägre elementarskolan",
+    "undervisning",
+    "läroplan",
+    "1840-talet",
+    "skola"
+  ],
+  "people": [
+    {
+      "name": "Cajan",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Melartin",
+      "alternateNames": [],
+      "roles": [
+        "ärkebiskop"
+      ]
+    },
+    {
+      "name": "Johan Adam Edman",
+      "alternateNames": [
+        "J. A. Edman"
+      ],
+      "roles": [
+        "domprost",
+        "visitator"
+      ]
+    },
+    {
+      "name": "J. Haeggström",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "F. A. Appelberg",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "W. Grönqvist",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "K. E. Karsten",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Magnus Kjellman",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Johan Kaldén",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Visitation dömer ut skolhuset",
+      "date": {
+        "year": 1845,
+        "month": 6,
+        "day": 13,
+        "circa": false
+      },
+      "description": "Domprost Johan Adam Edman visiterade lägre elementarskolan i Nykarleby, berömde lärare Cajan men fann skolhuset trångt och förfallet.",
+      "people": [
+        "Johan Adam Edman",
+        "Cajan"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Bara fyra elever",
+      "date": {
+        "year": 1848,
+        "circa": false
+      },
+      "description": "Avgången från skolan var så stor att endast fyra elever återstod under vårterminen.",
+      "people": [],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Cajan",
+      "place": "Lägre elementarskolan",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "a030847b0f1734c9d4447e66c9cb334bc8e7058238f6c69f4226038dbfe203ac",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

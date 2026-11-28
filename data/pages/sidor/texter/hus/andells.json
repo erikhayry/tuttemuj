@@ -260,6 +260,104 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Joh. Nilsson Nyman",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 1860
+    },
+    {
+      "person": "Simon Lillqvist",
+      "place": "Andells gård",
+      "relation": "built",
+      "startYear": 1861,
+      "endYear": 1861
+    },
+    {
+      "person": "Anders Skrivars",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 1863
+    },
+    {
+      "person": "Johan Björkman",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 1896,
+      "endYear": 1896
+    },
+    {
+      "person": "Anders Andell",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 1896
+    },
+    {
+      "person": "Anders Andell",
+      "place": "Andells gård",
+      "relation": "built"
+    },
+    {
+      "person": "Rainer Willman",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 1989
+    },
+    {
+      "person": "Saga Willman",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 1989
+    },
+    {
+      "person": "Henrik Brunell",
+      "place": "Andells gård",
+      "relation": "owned",
+      "endYear": 2010
+    },
+    {
+      "person": "Sandra Neuman",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 2010
+    },
+    {
+      "person": "Daniel Neuman",
+      "place": "Andells gård",
+      "relation": "owned",
+      "startYear": 2010
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Andells gård",
+        "Källbackgatan"
+      ],
+      "year": 1952
+    },
+    {
+      "image": 2,
+      "places": [
+        "Karleborgsgatan",
+        "Källbackgatan",
+        "Andells gård",
+        "Widmans",
+        "Melchers"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "d6c348b04bd67bc4f49e73a621e00a2a3efa17f8de8097886dbb82fb2f10f6e0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

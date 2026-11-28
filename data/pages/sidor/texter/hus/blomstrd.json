@@ -47,6 +47,11 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Bangatan 3",
+      "uses": [
+        {
+          "use": "bageri"
+        }
+      ],
       "geo": {
         "lat": 63.52083339999999,
         "lng": 22.5282273,
@@ -61,6 +66,11 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Topeliusesplanaden 10",
+      "uses": [
+        {
+          "use": "bageri"
+        }
+      ],
       "geo": {
         "lat": 63.5229453,
         "lng": 22.5305088,
@@ -73,7 +83,12 @@
     {
       "name": "Granbergs café",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ]
     },
     {
       "name": "Köpmansgatan",
@@ -93,6 +108,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Blomströmska gården"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:29.177Z"
+    }
+  ],
   "contentHash": "6f3d34df005c7547086237912c1e5b99977a8fb559a2702d053400684292197c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

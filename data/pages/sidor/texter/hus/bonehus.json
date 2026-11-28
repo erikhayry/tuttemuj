@@ -70,6 +70,16 @@
       ],
       "address": "Gustav Adolfsgatan 5",
       "description": "Vid korsningen med Bangatan; tomt nr 9.",
+      "uses": [
+        {
+          "use": "bönehus"
+        },
+        {
+          "use": "församlingshem",
+          "startYear": 1960,
+          "endYear": 1970
+        }
+      ],
       "geo": {
         "lat": 63.5206438,
         "lng": 22.5323761,
@@ -220,6 +230,50 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Isak Jansson",
+      "place": "Bönehuset",
+      "relation": "built",
+      "startYear": 1892,
+      "endYear": 1892
+    },
+    {
+      "person": "Klas Henrik Ekroos",
+      "place": "Bönehuset",
+      "relation": "built",
+      "startYear": 1892,
+      "endYear": 1892
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bönehuset",
+        "Gustav Adolfsgatan",
+        "Bangatan",
+        "KAP-PAS"
+      ],
+      "year": 1953
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bönehuset"
+      ],
+      "year": 1913
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "67da994f0d30d3fbf3cf5bb0bbed30bb5640720dd125549491a509c8c1c085a7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

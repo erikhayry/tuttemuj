@@ -1,0 +1,290 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/semi1900.htm",
+  "title": "Seminariet under 1900-talet: ofärdsåren och första världskriget",
+  "summary": "Under ofärdsåren trakasserade myndigheterna lärare vid Nykarleby seminarium, särskilt historielektorn V.K.E. Wichmann. Under första världskriget inkvarterades militär i övningsskolan, och 1918 blev husen fångläger.",
+  "topics": [
+    "seminariet",
+    "ofärdsåren",
+    "första världskriget",
+    "lärarutbildning",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "Zachris Schalin",
+      "alternateNames": [
+        "Schalin"
+      ],
+      "roles": [
+        "seminariedirektor"
+      ]
+    },
+    {
+      "name": "K. J. Hagfors",
+      "alternateNames": [
+        "Hagfors"
+      ],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [
+        "Wichmann",
+        "Gånge Rolf"
+      ],
+      "roles": [
+        "lektor",
+        "seminariedirektor",
+        "lantdagsman"
+      ]
+    },
+    {
+      "name": "K. E. Weckström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Conrad Wilhelm Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Fritz Olson",
+      "alternateNames": [],
+      "roles": [
+        "länsman"
+      ]
+    },
+    {
+      "name": "A. Thillot",
+      "alternateNames": [],
+      "roles": [
+        "överinspektor"
+      ]
+    },
+    {
+      "name": "Joh. Qvist",
+      "alternateNames": [],
+      "roles": [
+        "fil.mag."
+      ]
+    },
+    {
+      "name": "Erik Berg",
+      "alternateNames": [],
+      "roles": [
+        "greve",
+        "tjänsteman"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "seminariedirektor"
+      ]
+    },
+    {
+      "name": "Albert Brommels",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Otto Nylund",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Niilo Böök",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "uses": [
+        {
+          "use": "seminarium"
+        },
+        {
+          "use": "fångläger",
+          "startYear": 1918,
+          "endYear": 1918
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Övningsskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        },
+        {
+          "use": "militärförläggning",
+          "startYear": 1916,
+          "endYear": 1917
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Seminariets bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "invid åstranden",
+      "uses": [
+        {
+          "use": "bastu"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Inspektion av seminariet",
+      "date": {
+        "year": 1903,
+        "month": 12,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Överinspektor A. Thillot granskade historie- och svenskundervisningen vid Nykarleby seminarium, och tsarens porträtt försvann ur festsalen.",
+      "people": [
+        "A. Thillot"
+      ],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Seminariets bastu brinner",
+      "date": {
+        "year": 1916,
+        "month": 4,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Seminariets bastu, som även ryssarna använde, brann ned.",
+      "people": [],
+      "places": [
+        "Seminariets bastu"
+      ]
+    },
+    {
+      "title": "Skyddskåren tar över",
+      "date": {
+        "year": 1918,
+        "month": 1,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Vid frihetskrigets utbrott tog skyddskårens stab över övningsskolan, seminariets läsår avbröts och seminaristerna gick med i skyddskåren.",
+      "people": [],
+      "places": [
+        "Övningsskolan",
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Seminariet blir fångläger",
+      "date": {
+        "year": 1918,
+        "month": 2,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Seminariebyggnaderna användes från februari till juni 1918 som fångläger för omkring 1500 ryska fångar.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "När en rysk inspektör kommer till seminariet 1903 försvinner tsarens porträtt ur festsalen och hittas senare i svinstian. Inte en enda elev dyker upp vid det olagliga värnpliktsuppbådet.",
+    "reason": "Tydligt motstånd med en minnesvärd, humoristisk scen.",
+    "characters": [
+      "V. K. E. Wichmann",
+      "A. Thillot"
+    ],
+    "places": [
+      "Nykarleby seminarium"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Zachris Schalin",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "endYear": 1904
+    },
+    {
+      "person": "V. K. E. Wichmann",
+      "place": "Nykarleby seminarium",
+      "relation": "worked",
+      "endYear": 1916
+    },
+    {
+      "person": "Otto Nylund",
+      "place": "Nykarleby seminarium",
+      "relation": "worked"
+    },
+    {
+      "person": "Niilo Böök",
+      "place": "Nykarleby seminarium",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Seminariets bastu"
+      ],
+      "year": 1928
+    }
+  ],
+  "contentHash": "4f442cc17c59e7f79160946678dd4675ce10607b2f5bc6a55734b5428c49cecf",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -225,6 +225,11 @@
         "Direktorsbostaden"
       ],
       "description": "Internatet Knarken fanns på bottenvåningen.",
+      "uses": [
+        {
+          "use": "internat"
+        }
+      ],
       "geo": {
         "lat": 63.526066698514065,
         "lng": 22.52407032468966,
@@ -238,13 +243,26 @@
       "name": "Knarken",
       "kind": "building",
       "alternateNames": [],
-      "description": "Seminaristinternatet under direktorsbostaden; i början av 1900-talet dog nästan alla invånare vissa år i tuberkulos."
+      "description": "Seminaristinternatet under direktorsbostaden; i början av 1900-talet dog nästan alla invånare vissa år i tuberkulos.",
+      "uses": [
+        {
+          "use": "internat"
+        }
+      ]
     },
     {
       "name": "Älvbranten",
       "kind": "building",
       "alternateNames": [],
       "description": "Internat och kosthåll för seminaristerna, åtminstone 1965–71.",
+      "uses": [
+        {
+          "use": "internat"
+        },
+        {
+          "use": "matsal"
+        }
+      ],
       "geo": {
         "lat": 63.52010876583659,
         "lng": 22.521809223128855,
@@ -260,6 +278,11 @@
       "alternateNames": [],
       "address": "Seminariegatan 11",
       "description": "Maria Bomans hus med bespisning för seminaristerna.",
+      "uses": [
+        {
+          "use": "matservering"
+        }
+      ],
       "geo": {
         "lat": 63.52474589999999,
         "lng": 22.524375,
@@ -272,12 +295,22 @@
     {
       "name": "Trädgårdsmästarbostaden",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "matsal"
+        }
+      ]
     },
     {
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "matställe"
+        }
+      ],
       "geo": {
         "lat": 63.522469,
         "lng": 22.5233788,
@@ -312,6 +345,11 @@
       "alternateNames": [],
       "address": "Bankgatan 8",
       "description": "HAB-bankens bostadsdel, numera Wargendahls; rum uthyrda till seminarister.",
+      "uses": [
+        {
+          "use": "bank"
+        }
+      ],
       "geo": {
         "lat": 63.5227979,
         "lng": 22.5301319,
@@ -500,7 +538,15 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Sollefteågatan 13",
-      "description": "Haglunds bageri med vindsrum; senare Dambergs damfrisering och TB service."
+      "description": "Haglunds bageri med vindsrum; senare Dambergs damfrisering och TB service.",
+      "uses": [
+        {
+          "use": "bageri"
+        },
+        {
+          "use": "damfrisering"
+        }
+      ]
     },
     {
       "name": "Sollefteågatan 21",
@@ -637,6 +683,88 @@
       "Kommungården"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Maria Boman",
+      "place": "Burkebo",
+      "relation": "ran"
+    },
+    {
+      "person": "Sten Boman",
+      "place": "Burkebo",
+      "relation": "lived"
+    },
+    {
+      "person": "Hans von Schantz",
+      "place": "Residenshuset",
+      "relation": "lived"
+    },
+    {
+      "person": "Monica Haga",
+      "place": "Älvbranten",
+      "relation": "lived",
+      "startYear": 1965,
+      "endYear": 1971
+    },
+    {
+      "person": "Eva Sundstén",
+      "place": "Älvbranten",
+      "relation": "lived"
+    },
+    {
+      "person": "Edit Blomqvist",
+      "place": "Bankgatan 8",
+      "relation": "lived"
+    },
+    {
+      "person": "Reinhold Blomqvist",
+      "place": "Bankgatan 8",
+      "relation": "lived"
+    },
+    {
+      "person": "Elna Lövgren",
+      "place": "Bankgatan 30",
+      "relation": "lived"
+    },
+    {
+      "person": "Frans Wikberg",
+      "place": "Bankgatan 31",
+      "relation": "lived"
+    },
+    {
+      "person": "Maria Wikberg",
+      "place": "Bankgatan 31",
+      "relation": "lived"
+    },
+    {
+      "person": "Ture Nygård",
+      "place": "Kommungården",
+      "relation": "lived"
+    },
+    {
+      "person": "Rut Nygård",
+      "place": "Kommungården",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Rummelbacken"
+      ],
+      "year": 1945
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:29.177Z"
+    }
+  ],
   "contentHash": "6a6c142316300d90ac524bcf4529ff623fc9f5dec29e107530cacdcce613687c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

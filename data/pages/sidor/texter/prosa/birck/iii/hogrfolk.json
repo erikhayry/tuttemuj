@@ -1,0 +1,256 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hogrfolk.htm",
+  "title": "Folkskolan upprättas",
+  "summary": "På 1870-talet beslöt Nykarleby att inrätta en folkskola med en gemensam lägre avdelning och en högre för flickor. Doktor Forsius drev på saken, och den lägre avdelningen slogs 1875 ihop med normalskolan.",
+  "topics": [
+    "folkskolan",
+    "flickskola",
+    "skolväsende",
+    "normalskolan",
+    "1870-talet"
+  ],
+  "people": [
+    {
+      "name": "Kristian Fredrik Forsius",
+      "alternateNames": [
+        "K. F. Forsius"
+      ],
+      "roles": [
+        "provinsialläkare",
+        "stadsläkare"
+      ]
+    },
+    {
+      "name": "Uno Cygnaeus",
+      "alternateNames": [],
+      "roles": [
+        "överinspektör"
+      ]
+    },
+    {
+      "name": "Theodor Wilander",
+      "alternateNames": [
+        "Th. Wilander"
+      ],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Olivia Forsius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "P. Aug. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Josef Lindskog",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "C. Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "Oskar Lindbohm",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Rob. Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "K. E. Stenbäck",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "F. Conradi",
+      "alternateNames": [],
+      "roles": [
+        "direktor",
+        "skolinspektor"
+      ]
+    },
+    {
+      "name": "F. W. Sundwall",
+      "alternateNames": [],
+      "roles": [
+        "seminarielektor"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Folkskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby stadsfolkskola"
+      ],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "övningsskola",
+          "startYear": 1875
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Folkskoldirektion tillsätts",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "description": "En folkskoldirektion med doktor Forsius som ordförande tillsattes i Nykarleby.",
+      "people": [
+        "Kristian Fredrik Forsius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Kyrkostämma om folkskolan",
+      "date": {
+        "year": 1874,
+        "month": 3,
+        "day": 15,
+        "circa": false
+      },
+      "description": "En kyrkostämma i Nykarleby kyrkas sakristia behandlade reglementet för stadens folkskola.",
+      "people": [],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Statsbidrag beviljas",
+      "date": {
+        "year": 1874,
+        "month": 9,
+        "day": 17,
+        "circa": false
+      },
+      "description": "Senaten beviljade ett årligt bidrag på 1 000 mark till folkskoleväsendet i Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Lägre avdelningen till seminariet",
+      "date": {
+        "year": 1875,
+        "month": 2,
+        "day": 6,
+        "circa": false
+      },
+      "description": "Rådhusstämman godkände att seminariet skulle sköta undervisningen för folkskolans lägre avdelning.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "71fd1cb692611e055a90357933b930d41aa1a49ce9cc8d3b0278d4c3dcfffd0d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

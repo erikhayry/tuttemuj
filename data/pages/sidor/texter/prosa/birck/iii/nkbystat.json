@@ -1,0 +1,49 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/nkbystat.html",
+  "title": "Nykarleby station i början på 1900-talet",
+  "summary": "Ett foto av Nykarleby järnvägsstation i början av 1900-talet.",
+  "topics": [
+    "järnvägsstation",
+    "järnväg",
+    "fotografi"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Nykarleby järnvägsstation",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby station"
+      ],
+      "uses": [
+        {
+          "use": "järnvägsstation"
+        }
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby järnvägsstation"
+      ]
+    }
+  ],
+  "contentHash": "9586a1dd8ca7908d3a3afe140bffa8bf382a5f3611e74c8c6ea4975ca536fe1a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

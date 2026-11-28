@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/inkva1917.htm",
+  "title": "Inkvarteringen 1917 och kostnaderna",
+  "summary": "År 1917 växte den ryska inkvarteringen Nykarleby över huvudet, och rådhuset blev kasern. Kostnaderna för 1915–1918 steg till över 93 000 mark, nära stadens hela budget.",
+  "topics": [
+    "första världskriget",
+    "ryska militären",
+    "inkvartering",
+    "rådhuset",
+    "stadsekonomi"
+  ],
+  "people": [
+    {
+      "name": "K.J. Pensar",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "K.J. Hagfors",
+      "alternateNames": [],
+      "roles": [
+        "direktor"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kasern",
+          "startYear": 1917,
+          "endYear": 1918
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kasern",
+          "endYear": 1917
+        },
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stationshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Normalskolan utryms",
+      "date": {
+        "year": 1917,
+        "month": 8,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Den ryska militären lämnade Normalskolan i Nykarleby, och undervisningen kunde börja efter städning i början av oktober.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Ryssarna på rådhuset",
+      "date": {
+        "year": 1917,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Ryska trupper tog Rådhuset till kasern fram till befrielsen i januari 1918, medan stadens myndigheter hyrde rum hos K.J. Pensar.",
+      "people": [
+        "K.J. Pensar"
+      ],
+      "places": [
+        "Rådhuset",
+        "Pensars gård"
+      ]
+    },
+    {
+      "title": "Klagomål till guvernören",
+      "date": {
+        "year": 1917,
+        "month": 9,
+        "day": 13,
+        "circa": false
+      },
+      "description": "Magistraten i Nykarleby klagade över de ryska truppernas förstörelse av egendom och möttes av avvisande svar.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Ersättning söks",
+      "date": {
+        "year": 1928,
+        "month": 1,
+        "day": 16,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige i Nykarleby beslöt söka ersättning för skadorna efter den ryska inkvarteringen.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "f92a583b052bddb287cf85870d2d3baf6cb219c570733a3bcd1aa001573c0314",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -242,6 +242,11 @@
       "name": "Brostugan",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ],
       "geo": {
         "lat": 63.522469,
         "lng": 22.5233788,
@@ -283,7 +288,12 @@
       "name": "Källaren under gården med den höga stenfoten",
       "kind": "building",
       "alternateNames": [],
-      "description": "Ca 20 m² med över två meter tjocka gråstensmurar, troligen från före branden."
+      "description": "Ca 20 m² med över två meter tjocka gråstensmurar, troligen från före branden.",
+      "uses": [
+        {
+          "use": "potatiskällare"
+        }
+      ]
     },
     {
       "name": "Källådern i Nystaden",
@@ -459,6 +469,197 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anna Lisa Synnerström",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "endYear": 1812
+    },
+    {
+      "person": "Jakob Wilhelm Ahlqvist",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "startYear": 1812
+    },
+    {
+      "person": "Kjellman",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "startYear": 1838
+    },
+    {
+      "person": "Jakob Öhlund",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned"
+    },
+    {
+      "person": "Regina Öhlund",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "endYear": 1867
+    },
+    {
+      "person": "Augusta Wilhelmina von Bentzelstjerna",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "endYear": 1892
+    },
+    {
+      "person": "Rosa Backman",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "startYear": 1892,
+      "endYear": 1923
+    },
+    {
+      "person": "Lotte Dyhr",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "startYear": 1923,
+      "endYear": 1933
+    },
+    {
+      "person": "Joel Brown",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "endYear": 1951
+    },
+    {
+      "person": "Joel Brown",
+      "place": "Gården med den höga stenfoten",
+      "relation": "lived",
+      "startYear": 1938,
+      "endYear": 1954
+    },
+    {
+      "person": "Ingmar Jouper",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "startYear": 1951,
+      "endYear": 1962
+    },
+    {
+      "person": "Ruben Lillqvist",
+      "place": "Gården med den höga stenfoten",
+      "relation": "owned",
+      "startYear": 1962
+    },
+    {
+      "person": "Maryann Backström",
+      "place": "Gården med den höga stenfoten",
+      "relation": "lived"
+    },
+    {
+      "person": "Clas Göran Backström",
+      "place": "Gården med den höga stenfoten",
+      "relation": "lived"
+    },
+    {
+      "person": "Belinda",
+      "place": "Salins stuga",
+      "relation": "owned"
+    },
+    {
+      "person": "Kåre",
+      "place": "Salins stuga",
+      "relation": "owned"
+    },
+    {
+      "person": "Berit Mattbäck",
+      "place": "Bläckhornet",
+      "relation": "owned"
+    },
+    {
+      "person": "Ture Nordlund",
+      "place": "Lektor Holmqvists gård",
+      "relation": "owned",
+      "startYear": 1966
+    },
+    {
+      "person": "Mårten Mattbäck",
+      "place": "Lektor Holmqvists gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Kajsa Mattbäck",
+      "place": "Lektor Holmqvists gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Ruben Lillqvist",
+      "place": "Yrjäs i forsby",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gården med den höga stenfoten",
+        "Brostugan",
+        "Storbron"
+      ],
+      "year": 1936
+    },
+    {
+      "image": 2,
+      "places": [
+        "Gården med den höga stenfoten"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Gården med den höga stenfoten"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Lektor Holmqvists gård"
+      ],
+      "year": 2004
+    },
+    {
+      "image": 5,
+      "places": [
+        "Gården med den höga stenfoten"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 6,
+      "places": [
+        "Gården med den höga stenfoten",
+        "Källaren under gården med den höga stenfoten"
+      ],
+      "year": 2006
+    },
+    {
+      "image": 7,
+      "places": [
+        "Källådern i Nystaden",
+        "Gården med den höga stenfoten"
+      ]
+    },
+    {
+      "image": 8,
+      "places": [
+        "Gården med den höga stenfoten",
+        "Brostugubacken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "e8196b899180ae49bffa0b87acbe34f823f50fe3faacdcea487a1680c3a569c6",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

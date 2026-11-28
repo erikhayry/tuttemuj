@@ -37,6 +37,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnsholmarna"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "ceec03731d57c590a5a5567df2b83671591a6c1ce690a3db109f2594eebf02f7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

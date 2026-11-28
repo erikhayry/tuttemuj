@@ -1,0 +1,332 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebrivgru.htm",
+  "title": "Rivningen av det Grundfeldtska huset",
+  "summary": "Grundfeldtska huset från 1860-talet i hörnet av V. Esplanadgatan och Lybecksgatan revs i mars 1961. Trots förslag om museum och bibliotek sålde staden tomten, och ett hyreshus i fyra våningar byggdes 1961–62.",
+  "topics": [
+    "rivning",
+    "stadsplanering",
+    "byggnadsarv",
+    "hyreshus",
+    "Aravahus"
+  ],
+  "people": [
+    {
+      "name": "Josef Herler",
+      "alternateNames": [],
+      "roles": [
+        "bokhandlare",
+        "museiman"
+      ]
+    },
+    {
+      "name": "Mauritz Nylund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "G. Löf",
+      "alternateNames": [],
+      "roles": [
+        "byggherre"
+      ]
+    },
+    {
+      "name": "Kaj Englund",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Sigfrid Bertlin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sven Almqvist",
+      "alternateNames": [],
+      "roles": [
+        "överläkare"
+      ]
+    },
+    {
+      "name": "Mauritz Siegfrids",
+      "alternateNames": [],
+      "roles": [
+        "målarmästare"
+      ]
+    },
+    {
+      "name": "Carl Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "polismästare"
+      ]
+    },
+    {
+      "name": "Väinö Kivinen",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Valdemar Enlund",
+      "alternateNames": [],
+      "roles": [
+        "bilskollärare"
+      ]
+    },
+    {
+      "name": "John Fors",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Grundfeldtska huset",
+      "kind": "building",
+      "alternateNames": [
+        "Grundfeldtska gården"
+      ],
+      "address": "tomt nr 65 i hörnet av V. Esplanadgatan och Lybecksgatan",
+      "uses": [
+        {
+          "use": "tjänstebostad",
+          "startYear": 1946
+        },
+        {
+          "use": "skolkök"
+        },
+        {
+          "use": "lager"
+        }
+      ],
+      "geo": {
+        "lat": 63.5245713,
+        "lng": 22.5321666,
+        "match": "name",
+        "gazetteerName": "grundfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bostads Ab Lybecksgatan 5",
+      "kind": "building",
+      "alternateNames": [
+        "Lybecksgatan 7"
+      ],
+      "address": "Lybecksgatan 5",
+      "description": "Hyreshus i fyra våningar byggt 1961–62 på Grundfeldtska husets tomt. Gatunumret är numera 7.",
+      "uses": [
+        {
+          "use": "bostadshus",
+          "startYear": 1962
+        },
+        {
+          "use": "bibliotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.52476779999999,
+        "lng": 22.5305087,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [
+        "V. Esplanadgatan"
+      ],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lybecksgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5242987,
+        "lng": 22.536147,
+        "match": "name",
+        "gazetteerName": "lybecksgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sollefteågatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Sollefteågatan 3",
+      "uses": [
+        {
+          "use": "bostadshus"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220274,
+        "lng": 22.5268653,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "De gamlas hem",
+      "kind": "building",
+      "alternateNames": [
+        "Florahemmet"
+      ],
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden tar huset som tjänstebostad",
+      "date": {
+        "year": 1946,
+        "circa": false
+      },
+      "description": "Staden började använda Grundfeldtska huset som bostad för stadsläkaren och veterinären.",
+      "people": [],
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "title": "Beslut om försäljning",
+      "date": {
+        "year": 1959,
+        "month": 2,
+        "day": 27,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige beslöt att sälja Grundfeldtska huset och tomt nr 65 till en byggnadsfirma.",
+      "people": [],
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "title": "Grundfeldtska huset rivs",
+      "date": {
+        "year": 1961,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Grundfeldtska huset, ett av stadens förnämsta byggnadsminnen, revs.",
+      "people": [],
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "title": "Nytt hyreshus byggs",
+      "date": {
+        "year": 1961,
+        "endYear": 1962,
+        "circa": false
+      },
+      "description": "Byggnadsfirman Löf & Nylund uppförde ett Aravahus i fyra våningar med 19 bostäder och en affärslokal på tomten.",
+      "people": [
+        "Mauritz Nylund",
+        "G. Löf",
+        "Kaj Englund"
+      ],
+      "places": [
+        "Bostads Ab Lybecksgatan 5"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Stadsbor och museiföreningen vill rädda Grundfeldtska huset till museum och bibliotek, men de styrande säljer det och 1961 rivs taket för att ge plats åt ett betonghus.",
+    "reason": "En tydlig kamp mellan bevarande och förnyelse med en gammal bokhandlare som inte kan förstå beslutet.",
+    "characters": [
+      "Josef Herler"
+    ],
+    "places": [
+      "Grundfeldtska huset"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Sigfrid Bertlin",
+      "place": "Bostads Ab Lybecksgatan 5",
+      "relation": "lived"
+    },
+    {
+      "person": "Carl Kronqvist",
+      "place": "Bostads Ab Lybecksgatan 5",
+      "relation": "lived"
+    },
+    {
+      "person": "Väinö Kivinen",
+      "place": "Bostads Ab Lybecksgatan 5",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Grundfeldtska huset"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Bostads Ab Lybecksgatan 5"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Bostads Ab Lybecksgatan 5"
+      ]
+    }
+  ],
+  "contentHash": "5c5223be99a41450913878e78c2645c9b8dc526545d6afa2cdf30e360a336d66",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

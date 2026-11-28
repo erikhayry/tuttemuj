@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/guvernan.htm",
+  "title": "Guvernanterna Emma Nyberg och Kitty Åberg",
+  "summary": "På 1850-talet anställde några familjer i Nykarleby guvernanterna Emma Nyberg och Kitty Åberg för sina döttrar. ”Tant Kitty” undervisade i hemmen och blev mycket omtyckt.",
+  "topics": [
+    "guvernanter",
+    "flickors undervisning",
+    "privatundervisning",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Emma Sofia Nyberg",
+      "alternateNames": [
+        "Emma Nyberg"
+      ],
+      "roles": [
+        "guvernant"
+      ]
+    },
+    {
+      "name": "Kitty Åberg",
+      "alternateNames": [
+        "Tant Kitty"
+      ],
+      "roles": [
+        "guvernant"
+      ]
+    },
+    {
+      "name": "Julius Krohn",
+      "alternateNames": [],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "Hanna Sundström",
+      "alternateNames": [
+        "Hanna Sarlin"
+      ],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Mia Sundström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Rosa Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Sandra Falck",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Mimmi Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Tilda Wahlström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Augusta Wahlström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Z. Schalin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rechardtska byggningen",
+      "kind": "building",
+      "alternateNames": [
+        "Heikelska gården",
+        "Kivinen"
+      ],
+      "address": "tomt nr 136",
+      "uses": [
+        {
+          "use": "bostad"
+        },
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52168176762176,
+        "lng": 22.525897480773796,
+        "match": "name",
+        "gazetteerName": "heikelska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kitty Åbergs undervisning upphör",
+      "date": {
+        "year": 1860,
+        "circa": false
+      },
+      "description": "Efter två års undervisning reste guvernanten Kitty Åberg utomlands och eleverna i Nykarleby skingrades.",
+      "people": [
+        "Kitty Åberg"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Emma Sofia Nyberg",
+      "place": "Rechardtska byggningen",
+      "relation": "lived"
+    },
+    {
+      "person": "Kitty Åberg",
+      "place": "Rechardtska byggningen",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "8ca35bd32f7652fa21addd9b2b3e53508d8894931faff623eabec01051fca268",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

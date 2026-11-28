@@ -80,6 +80,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bergstigen",
+        "Seminariegatan"
+      ],
+      "year": 1973
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "6ef0411d279de9ba171ece3a4638204d451635ca07cc00b158480fdd8152c3eb",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

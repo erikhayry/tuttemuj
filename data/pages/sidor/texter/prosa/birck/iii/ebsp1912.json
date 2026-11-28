@@ -1,0 +1,198 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebsp1912.htm",
+  "title": "Stadsplanen av år 1912",
+  "summary": "Nykarlebys nya stadsplan, som tsaren stadfäste 1912, utvidgade den trångbodda staden mot norr och öster. Th. Heikel ritade förslaget, gatorna fick nya namn och skyltarna målades på tre språk.",
+  "topics": [
+    "stadsplan",
+    "gatunamn",
+    "utbyggnad",
+    "gatuskyltar",
+    "1912"
+  ],
+  "people": [
+    {
+      "name": "Th. Heikel",
+      "alternateNames": [],
+      "roles": [
+        "kommissionslantmätare"
+      ]
+    },
+    {
+      "name": "Spolander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hagfors",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Öhrling",
+      "alternateNames": [],
+      "roles": [
+        "målarmästare",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gamla staden",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminarieområdet",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52644342970428,
+        "lng": 22.52616251450928,
+        "match": "name",
+        "gazetteerName": "seminarieområdet",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sjukhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52275674593732,
+        "lng": 22.53856439306395,
+        "match": "name",
+        "gazetteerName": "sjukhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stationsplanen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Reserverad som plats för allmänna promenader.",
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Förslag till utvidgning",
+      "date": {
+        "year": 1907,
+        "circa": false
+      },
+      "description": "Kommissionslantmätare Th. Heikel gjorde upp en plankarta över Nykarleby med utvidgning åt öster och nordost.",
+      "people": [
+        "Th. Heikel"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nya gatunamn godkänns",
+      "date": {
+        "year": 1911,
+        "month": 1,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige godkände Hedströms, Spolanders och Hagfors förslag till nya gatunamn med anknytning till stadens historia och näringar.",
+      "people": [
+        "Hedström",
+        "Spolander",
+        "Hagfors"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsplanen stadfästs",
+      "date": {
+        "year": 1912,
+        "month": 6,
+        "day": 20,
+        "circa": false,
+        "text": "7/20 juni 1912"
+      },
+      "description": "Tsaren stadfäste Nykarlebys nya stadsplan med nya tomter norr och öster om staden.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Trespråkiga gatuskyltar",
+      "date": {
+        "year": 1912,
+        "month": 12,
+        "circa": false
+      },
+      "description": "Målarmästare Öhrling målade och satte upp nya gatuskyltar med ryska, finska och svenska namn i Nykarleby.",
+      "people": [
+        "Öhrling"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "4e110214c6c7c22c8d307569c368920610b9ad17ec8b40e6e2aaa1e6f41ba0b8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

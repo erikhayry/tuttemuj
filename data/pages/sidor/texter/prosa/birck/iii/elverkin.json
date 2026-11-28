@@ -1,0 +1,560 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/elverkin.htm",
+  "title": "Elverket inlöses och Nybroforsen byggs ut",
+  "summary": "Nykarleby stad löste in J.W. Nesslers elverk 1918 och beslöt efter långa tvister att bygga kraftverk i Nybroforsen. Arbetet började 1925, men hårt berg och tvister om kvarnen drev upp skulderna.",
+  "topics": [
+    "kraftverk",
+    "Nybroforsen",
+    "elverk",
+    "stadskvarnen",
+    "skulder",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "J.W. Nessler",
+      "alternateNames": [
+        "Nessler"
+      ],
+      "deathYear": 1910,
+      "roles": [
+        "kantor",
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "Paul Nessler",
+      "alternateNames": [
+        "P. Nessler"
+      ],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "K.F. Spolander",
+      "alternateNames": [
+        "Spolander"
+      ],
+      "roles": [
+        "bankdirektör",
+        "stadsfullmäktiges ordförande"
+      ]
+    },
+    {
+      "name": "H. Österlund",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [
+        "V. Holmström"
+      ],
+      "roles": [
+        "handlande",
+        "kassör"
+      ]
+    },
+    {
+      "name": "Johan Forsbacka",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Johan Johansson",
+      "alternateNames": [],
+      "roles": [
+        "mjölnare"
+      ]
+    },
+    {
+      "name": "Olli Martikainen",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Walter Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Wold. Backman",
+      "alternateNames": [
+        "Backman"
+      ],
+      "roles": [
+        "professor"
+      ]
+    },
+    {
+      "name": "A. Kisor",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K. Aug. Björklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "A. Sandsund",
+      "alternateNames": [
+        "Sandsund"
+      ],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "K.J. Hagfors",
+      "alternateNames": [
+        "Kurre"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Einar Sund",
+      "alternateNames": [],
+      "roles": [
+        "byggnadsarbetare"
+      ]
+    },
+    {
+      "name": "Torsten Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "byggnadsarbetare"
+      ]
+    },
+    {
+      "name": "Wilhelm Marklund",
+      "alternateNames": [],
+      "roles": [
+        "byggnadsarbetare"
+      ]
+    },
+    {
+      "name": "Toivo Wilhelm Wuorisalo",
+      "alternateNames": [],
+      "deathYear": 1926,
+      "roles": [
+        "byggnadsarbetare"
+      ]
+    },
+    {
+      "name": "Carl Castrén",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ]
+    },
+    {
+      "name": "Gustaf Grahn",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Stenfors",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Berger",
+      "alternateNames": [],
+      "roles": [
+        "lantmäteriingenjör"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nybroforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263351,
+        "lng": 22.5294738,
+        "match": "name",
+        "gazetteerName": "nybroforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [
+        "Kraftverket",
+        "Nykarleby Kraftcentral"
+      ],
+      "uses": [
+        {
+          "use": "kraftverk"
+        }
+      ],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [
+        "Bergkvarnen",
+        "Korsåkers kvarn"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        },
+        {
+          "use": "elverk",
+          "endYear": 1918
+        },
+        {
+          "use": "filhuggeri"
+        },
+        {
+          "use": "spikfabrik"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygårds skattehemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "description": "Hemman nr 12 i Kyrkoby.",
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "name",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Karby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Sundby",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Folkhögskolans bastu",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bastu"
+        }
+      ]
+    },
+    {
+      "name": "Stadsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.518901957916576,
+        "lng": 22.52209451221638,
+        "match": "name",
+        "gazetteerName": "nykarleby stadsfors",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Haraldsforsen",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny turbin i kvarnen",
+      "date": {
+        "year": 1908,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Kantor Nessler installerade en större amerikansk turbin i stadskvarnen.",
+      "people": [
+        "J.W. Nessler"
+      ],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Nesslers död",
+      "date": {
+        "year": 1910,
+        "month": 4,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Kantor J.W. Nessler, som ordnat stadens första elbelysning, avled.",
+      "people": [
+        "J.W. Nessler"
+      ],
+      "places": []
+    },
+    {
+      "title": "Elverket inlöses",
+      "date": {
+        "year": 1918,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Nykarleby stad löste in elverket och kvarnmaskinerna för 56 000 mark.",
+      "people": [
+        "K.F. Spolander",
+        "Paul Nessler"
+      ],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Korsåkers kvarn säljs",
+      "date": {
+        "year": 1918,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Nesslers sterbhus sålde Korsåkers kvarn till Johan Forsbacka och Johan Johansson.",
+      "people": [
+        "Johan Forsbacka",
+        "Johan Johansson"
+      ],
+      "places": [
+        "Stadskvarnen"
+      ]
+    },
+    {
+      "title": "Vattenrättstillstånd",
+      "date": {
+        "year": 1923,
+        "month": 11,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Högsta förvaltningsdomstolen avslog Walter Engs besvär och staden fick rätt att bygga vattenverk i Nybroforsen.",
+      "people": [
+        "Walter Eng"
+      ],
+      "places": [
+        "Nybroforsen"
+      ]
+    },
+    {
+      "title": "Kraftverksbygget börjar",
+      "date": {
+        "year": 1925,
+        "circa": false
+      },
+      "description": "Arbetena på kraftverket i Nybroforsen började på sommaren med vallar, ställningar och sprängskott.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk",
+        "Nybroforsen"
+      ]
+    },
+    {
+      "title": "Häradsrätten och hovrätten",
+      "date": {
+        "year": 1928,
+        "month": 9,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Wasa hovrätt höll med häradsrätten om att stadskvarnen inte stod på Nygårds hemmans mark.",
+      "people": [],
+      "places": [
+        "Stadskvarnen",
+        "Nygårds skattehemman"
+      ]
+    },
+    {
+      "title": "Ström till byarna",
+      "date": {
+        "year": 1926,
+        "circa": false
+      },
+      "description": "De första elledningarna drogs i Soklot, och det nya kraftverket började leverera ström i september.",
+      "people": [],
+      "places": [
+        "Soklot",
+        "Nykarleby kraftverk"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Stadsborna väntar på att det nya kraftverkets ljus ska tändas, men berget är hårt, arbetarna röker i moln och kostnaderna stiger medan skribenten Kurre hånar de elektriska solarna.",
+    "reason": "Byggdramat med dån, trånga fångdammar och en spydig kommentator ger bildrika scener.",
+    "characters": [
+      "K.F. Spolander",
+      "K.J. Hagfors",
+      "Wold. Backman"
+    ],
+    "places": [
+      "Nybroforsen",
+      "Nykarleby kraftverk"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "J.W. Nessler",
+      "place": "Stadskvarnen",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nybroforsen"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [],
+      "year": 1925
+    },
+    {
+      "image": 3,
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1925
+    },
+    {
+      "image": 6,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1925
+    },
+    {
+      "image": 8,
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "image": 9,
+      "places": [
+        "Folkhögskolans bastu"
+      ]
+    },
+    {
+      "image": 10,
+      "places": [
+        "Soklot"
+      ],
+      "year": 1926
+    }
+  ],
+  "contentHash": "e41b36219312cb4580bb0e050e6533ba81d18facb4a46787fdd14bd221615c94",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

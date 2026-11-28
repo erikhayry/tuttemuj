@@ -1,0 +1,222 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/nykpedag.htm",
+  "title": "Nykarleby pedagogi efter 1809",
+  "summary": "Nykarleby pedagogi undervisade pojkar och flickor tills den 1842 blev en lägre elementarskola. År 1832 utbröt ett tumult när en storväxt elev trotsade lärare Jacob Holm, följt av upplopp bland stadsborna.",
+  "topics": [
+    "skolor",
+    "pedagogien",
+    "undervisning",
+    "skoltumult",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Jacob Holm",
+      "alternateNames": [
+        "J. Holm"
+      ],
+      "roles": [
+        "pedagog",
+        "pastor"
+      ]
+    },
+    {
+      "name": "Matts Boman d.y.",
+      "alternateNames": [
+        "Matts Boman"
+      ],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Fredrik Calamnius",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Nils Mathesius",
+      "alternateNames": [],
+      "roles": [
+        "pedagog",
+        "filosofie magister"
+      ]
+    },
+    {
+      "name": "N. F. Kurtén",
+      "alternateNames": [
+        "Nils F. Kurtén"
+      ],
+      "roles": [
+        "pedagog",
+        "pastor"
+      ]
+    },
+    {
+      "name": "Johan A. Nordgren",
+      "alternateNames": [],
+      "roles": [
+        "pedagog"
+      ]
+    },
+    {
+      "name": "E. J. Chydenius",
+      "alternateNames": [
+        "Erik Johan Chydenius"
+      ],
+      "roles": [
+        "pedagog"
+      ]
+    },
+    {
+      "name": "Carl August Cajan",
+      "alternateNames": [
+        "C. A. Cajan"
+      ],
+      "roles": [
+        "pedagog",
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "J. N. Snellman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde",
+        "skolinspektor"
+      ]
+    },
+    {
+      "name": "Jakob Vilhelm Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "sockneadjunkt"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby pedagogi",
+      "kind": "building",
+      "alternateNames": [
+        "Pedagogien"
+      ],
+      "address": "ett rum i gamla trivialskolans lokal i nuvarande rådhuset",
+      "uses": [
+        {
+          "use": "skola",
+          "endYear": 1842
+        }
+      ]
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ölundska-Benzelstjernska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid stora åbron"
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [
+        "stora åbron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skoltumultet",
+      "date": {
+        "year": 1832,
+        "circa": false
+      },
+      "description": "Eleverna vid Nykarleby pedagogi gjorde uppror mot lärare Jacob Holm, och stadsbor stormade därefter skolhuset.",
+      "people": [
+        "Jacob Holm",
+        "Matts Boman d.y.",
+        "Fredrik Calamnius"
+      ],
+      "places": [
+        "Nykarleby pedagogi"
+      ]
+    },
+    {
+      "title": "Pedagogien ombildas",
+      "date": {
+        "year": 1842,
+        "circa": false
+      },
+      "description": "Nykarleby pedagogi ombildades till en lägre elementarskola.",
+      "people": [],
+      "places": [
+        "Nykarleby pedagogi"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Skolveden försvinner mystiskt och pojkarna bommar igen dörren för lärarfamiljen. När magistern svarar med ris säger en stor lantpojke ”lägg dig själv dit”, klassen tågar ut och borgmästaren måste ingripa.",
+    "reason": "En tydlig skolkonflikt med repliker, uppror och en färgstark lärare.",
+    "characters": [
+      "Jacob Holm",
+      "Matts Boman d.y.",
+      "Fredrik Calamnius"
+    ],
+    "places": [
+      "Nykarleby pedagogi"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Jacob Holm",
+      "place": "Nykarleby pedagogi",
+      "relation": "worked"
+    },
+    {
+      "person": "Jakob Vilhelm Ahlqvist",
+      "place": "Ölundska-Benzelstjernska gården",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "200509470a5896d3735137776b265d8525d547879eca65037e891111f87fa89e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -36,7 +36,17 @@
       "name": "Bircks bastu",
       "kind": "building",
       "alternateNames": [],
-      "description": "Röd bastu med brutet tak på älvstranden nedanför Jakobstadsvägen 6."
+      "description": "Röd bastu med brutet tak på älvstranden nedanför Jakobstadsvägen 6.",
+      "uses": [
+        {
+          "use": "bastu",
+          "startYear": 1930
+        },
+        {
+          "use": "badhus",
+          "startYear": 1931
+        }
+      ]
     },
     {
       "name": "Tullstranden",
@@ -106,6 +116,26 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bircks bastu",
+        "Tullstranden"
+      ],
+      "year": 1935
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "60a79c0c9e1d809deaad6ecdde349889ba865c46ae8be8c8a03ad8fc3e5a4503",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

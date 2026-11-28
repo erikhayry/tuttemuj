@@ -1,0 +1,245 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/gyllenbe.htm",
+  "title": "Gyllenbergs fabriker",
+  "summary": "Arno Gyllenbergs såg och elverk vid Kärrfors i Forsby växte efter kriget till en verkstad som tillverkade blocksågar och lantbruksmaskiner. Sönerna tog över 1947, men företaget gick i konkurs 1957.",
+  "topics": [
+    "industri",
+    "metallindustri",
+    "gjuteri",
+    "konkurs",
+    "1950-talet"
+  ],
+  "people": [
+    {
+      "name": "Arno Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör",
+        "företagare"
+      ]
+    },
+    {
+      "name": "Rolf Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "direktor"
+      ]
+    },
+    {
+      "name": "Åke Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "teknisk ledare"
+      ]
+    },
+    {
+      "name": "Viktor Kvist",
+      "alternateNames": [],
+      "roles": [
+        "svarvare"
+      ]
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "uppgiftslämnare"
+      ]
+    },
+    {
+      "name": "Georg Tarvos",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gyllenbergs fabriker",
+      "kind": "building",
+      "alternateNames": [
+        "Bröder Gyllenbergs mekaniska verkstad och gjuteri",
+        "Gyllenbergs"
+      ],
+      "uses": [
+        {
+          "use": "gjuteri",
+          "startYear": 1947,
+          "endYear": 1957
+        },
+        {
+          "use": "verkstad",
+          "startYear": 1947,
+          "endYear": 1957
+        }
+      ]
+    },
+    {
+      "name": "Kärrfors",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg"
+        },
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Handelsesplanaden 36",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Handelsesplanaden 36",
+      "uses": [
+        {
+          "use": "snickeri"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Sågen brinner",
+      "date": {
+        "year": 1928,
+        "circa": false
+      },
+      "description": "Arno Gyllenbergs såg- och elverk vid Kärrfors i Forsby brann.",
+      "people": [
+        "Arno Gyllenberg"
+      ],
+      "places": [
+        "Kärrfors",
+        "Forsby"
+      ]
+    },
+    {
+      "title": "Sönerna tar över",
+      "date": {
+        "year": 1947,
+        "circa": false
+      },
+      "description": "Rolf och Åke Gyllenberg övertog företaget under namnet Bröder Gyllenbergs mekaniska verkstad och gjuteri.",
+      "people": [
+        "Rolf Gyllenberg",
+        "Åke Gyllenberg"
+      ],
+      "places": [
+        "Gyllenbergs fabriker"
+      ]
+    },
+    {
+      "title": "Gyllenbergs i konkurs",
+      "date": {
+        "year": 1957,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Bröder Gyllenbergs företag i Forsby försattes i konkurs, vilket gav märkbar arbetslöshet i trakten.",
+      "people": [],
+      "places": [
+        "Gyllenbergs fabriker",
+        "Forsby"
+      ]
+    },
+    {
+      "title": "Jouper köper fabriken",
+      "date": {
+        "year": 1961,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Joupers fabriker köpte Gyllenbergs tidigare fabriksanläggning vid Kärrfors.",
+      "people": [],
+      "places": [
+        "Gyllenbergs fabriker",
+        "Kärrfors"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Arno Gyllenberg",
+      "place": "Kärrfors",
+      "relation": "ran"
+    },
+    {
+      "person": "Rolf Gyllenberg",
+      "place": "Gyllenbergs fabriker",
+      "relation": "ran",
+      "startYear": 1947
+    },
+    {
+      "person": "Åke Gyllenberg",
+      "place": "Gyllenbergs fabriker",
+      "relation": "ran",
+      "startYear": 1947
+    },
+    {
+      "person": "Viktor Kvist",
+      "place": "Gyllenbergs fabriker",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gyllenbergs fabriker"
+      ],
+      "year": 2003
+    },
+    {
+      "image": 2,
+      "places": [
+        "Gyllenbergs fabriker"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Gyllenbergs fabriker"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Gyllenbergs fabriker"
+      ]
+    }
+  ],
+  "contentHash": "1633aff0423d850cc40ab1aa352c145e4abbfcd2a20c1a37e935b05038dda3dd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

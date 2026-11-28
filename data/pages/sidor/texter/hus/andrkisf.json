@@ -86,6 +86,12 @@
       "kind": "building",
       "alternateNames": [
         "Sjökiosken"
+      ],
+      "uses": [
+        {
+          "use": "kiosk",
+          "startYear": 1993
+        }
       ]
     },
     {
@@ -95,6 +101,16 @@
         "Hamnmagasinet"
       ],
       "description": "Hamnmagasinet vid Andrasjön, renoverat 1998 och sedan pub och restaurang.",
+      "uses": [
+        {
+          "use": "pub",
+          "startYear": 1998
+        },
+        {
+          "use": "restaurang",
+          "startYear": 1998
+        }
+      ],
       "geo": {
         "lat": 63.518896720912444,
         "lng": 22.462341587638846,
@@ -107,7 +123,13 @@
     {
       "name": "SS Ägirs seglarstuga",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kiosk",
+          "startYear": 1996
+        }
+      ]
     },
     {
       "name": "Andrasjön",
@@ -229,6 +251,117 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Markus Junell",
+      "place": "Andrasjökiosken",
+      "relation": "ran",
+      "startYear": 1993,
+      "endYear": 1995
+    },
+    {
+      "person": "Kim Finne",
+      "place": "Andrasjökiosken",
+      "relation": "ran",
+      "startYear": 1993,
+      "endYear": 1995
+    },
+    {
+      "person": "Steven Frostdahl",
+      "place": "Andrasjökiosken",
+      "relation": "ran",
+      "startYear": 1995
+    },
+    {
+      "person": "Steven Frostdahl",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 1998
+    },
+    {
+      "person": "Daniel Eng",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2005,
+      "endYear": 2005
+    },
+    {
+      "person": "Anna Sundstén",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2006,
+      "endYear": 2006
+    },
+    {
+      "person": "Kim Siekkinen",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2007,
+      "endYear": 2007
+    },
+    {
+      "person": "Ralph Ström",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2008
+    },
+    {
+      "person": "Michelle Björkholm",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2014,
+      "endYear": 2014
+    },
+    {
+      "person": "Sonja Sjöblom",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2018,
+      "endYear": 2018
+    },
+    {
+      "person": "Jenny Sjöblom",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2018,
+      "endYear": 2018
+    },
+    {
+      "person": "Joel Lindvall",
+      "place": "Tullmagasinet",
+      "relation": "ran",
+      "startYear": 2019,
+      "endYear": 2019
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Andrasjökiosken"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Andrasjökiosken"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [],
+      "year": 2007
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "f956ed91ccb1200d1c4485b86627b4b7541b9163aa2f5b614460709adabbb092",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

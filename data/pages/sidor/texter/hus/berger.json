@@ -230,13 +230,24 @@
       "name": "Sandnäs glasbruk",
       "kind": "building",
       "alternateNames": [],
-      "description": "I Vexala, startat 1847."
+      "description": "I Vexala, startat 1847.",
+      "uses": [
+        {
+          "use": "glasbruk",
+          "startYear": 1847
+        }
+      ]
     },
     {
       "name": "Bankgatan 6",
       "kind": "building",
       "alternateNames": [],
       "address": "Bankgatan 6",
+      "uses": [
+        {
+          "use": "tjänstebostad"
+        }
+      ],
       "geo": {
         "lat": 63.5228929,
         "lng": 22.5293227,
@@ -435,6 +446,191 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Helena Lindblom",
+      "place": "Klockarbacken",
+      "relation": "owned",
+      "startYear": 1764
+    },
+    {
+      "person": "Johan Lindblom",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1771,
+      "endYear": 1804
+    },
+    {
+      "person": "Johan Saarman",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1804
+    },
+    {
+      "person": "Mats Österblad",
+      "place": "Bergerska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Michael Falck",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1848,
+      "endYear": 1851
+    },
+    {
+      "person": "Johan Petter Ehnqvist",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1851
+    },
+    {
+      "person": "Johan Petter Ehnqvist",
+      "place": "Bergerska gården",
+      "relation": "built"
+    },
+    {
+      "person": "Johan Petter Ehnqvist",
+      "place": "Sandnäs glasbruk",
+      "relation": "ran",
+      "startYear": 1847
+    },
+    {
+      "person": "Mats Sandström",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "endYear": 1870
+    },
+    {
+      "person": "Johanna Sundström",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1870,
+      "endYear": 1872
+    },
+    {
+      "person": "Theodor Wilander",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1872,
+      "endYear": 1892
+    },
+    {
+      "person": "Emil Sundell",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1892
+    },
+    {
+      "person": "Gustaf Hedström",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1897,
+      "endYear": 1904
+    },
+    {
+      "person": "Wilhelm Heurlin",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1904,
+      "endYear": 1930
+    },
+    {
+      "person": "Olga Heurlin",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1904,
+      "endYear": 1933
+    },
+    {
+      "person": "Sven Adolf Berger",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 1939
+    },
+    {
+      "person": "Sven Adolf Berger",
+      "place": "Bergerska gården",
+      "relation": "lived",
+      "endYear": 1944
+    },
+    {
+      "person": "Sven Adolf Berger",
+      "place": "Bankgatan 6",
+      "relation": "lived",
+      "startYear": 1944
+    },
+    {
+      "person": "Johannes Åbonde",
+      "place": "Bergerska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Tomas Wargh",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 2009,
+      "endYear": 2022
+    },
+    {
+      "person": "Anna-Lena Wargh",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 2009,
+      "endYear": 2022
+    },
+    {
+      "person": "Tomas Wargh",
+      "place": "Jeansborg",
+      "relation": "owned",
+      "startYear": 2022
+    },
+    {
+      "person": "Anna-Lena Wargh",
+      "place": "Jeansborg",
+      "relation": "owned",
+      "startYear": 2022
+    },
+    {
+      "person": "Tommy Linqvist",
+      "place": "Bergerska gården",
+      "relation": "owned",
+      "startYear": 2022
+    },
+    {
+      "person": "Tommy Linqvist",
+      "place": "Bergerska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Jenna Linqvist",
+      "place": "Bergerska gården",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bergerska gården"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bergerska gården"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "6d8726fde32cac702fb474b2610e1797bb638f3cb3c494a384515a1da7c85d73",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

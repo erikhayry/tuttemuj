@@ -1,0 +1,311 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hallratt.htm",
+  "title": "Hallrätten upphävs",
+  "summary": "Hallrätten, där magistraten dömde i mål om hantverkare och fabriker, upphörde 1861 men åberopades i Nykarleby ännu 1876. Texten listar också stadens verkstäder 1856 och J. W. Nesslers filhuggeri.",
+  "topics": [
+    "hallrätten",
+    "hantverk",
+    "industri",
+    "magistraten",
+    "filhuggeri"
+  ],
+  "people": [
+    {
+      "name": "Johan Monsin",
+      "alternateNames": [],
+      "roles": [
+        "garvargesäll"
+      ]
+    },
+    {
+      "name": "Jakob Eng",
+      "alternateNames": [
+        "J. Eng"
+      ],
+      "roles": [
+        "garvarfabrikant"
+      ]
+    },
+    {
+      "name": "Richtman",
+      "alternateNames": [],
+      "roles": [
+        "gesäll"
+      ]
+    },
+    {
+      "name": "Stefanus Salonen",
+      "alternateNames": [],
+      "roles": [
+        "garveriarbetare"
+      ]
+    },
+    {
+      "name": "C. A. Knape",
+      "alternateNames": [],
+      "roles": [
+        "bagare"
+      ]
+    },
+    {
+      "name": "A. Holmström",
+      "alternateNames": [],
+      "roles": [
+        "blockmakare"
+      ]
+    },
+    {
+      "name": "J. W. Forsberg",
+      "alternateNames": [
+        "J. W.Forsberg"
+      ],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "M. Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "P. O. Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "hattmakare"
+      ]
+    },
+    {
+      "name": "G. H. Löfgren",
+      "alternateNames": [],
+      "roles": [
+        "kakel- och krukmakare"
+      ]
+    },
+    {
+      "name": "J. Friborg",
+      "alternateNames": [],
+      "roles": [
+        "kopparslagare"
+      ]
+    },
+    {
+      "name": "J. W. Gummerus",
+      "alternateNames": [],
+      "roles": [
+        "målare"
+      ]
+    },
+    {
+      "name": "H. H. Garbén",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "A. J. Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "C. F. Brännholm",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "J. Fellman",
+      "alternateNames": [],
+      "roles": [
+        "urmakare"
+      ]
+    },
+    {
+      "name": "P. K. A. Lindskog",
+      "alternateNames": [],
+      "roles": [
+        "tobaksspinnare"
+      ]
+    },
+    {
+      "name": "E. Rechardt",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "O. v. Essen",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "klockare",
+        "företagare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårds läderfabrik",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "läderfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Nygård",
+      "kind": "farm",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tobaksspinneri"
+        }
+      ],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkoby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52242678353371,
+        "lng": 22.529290896854878,
+        "match": "name",
+        "gazetteerName": "kyrkoby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Sandnäs glas- och fajansfabrik",
+      "kind": "building",
+      "alternateNames": [
+        "Sandnäs"
+      ],
+      "uses": [
+        {
+          "use": "glasfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Keppo",
+      "kind": "village",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "oljeslageri"
+        }
+      ],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Hallrätten upphör",
+      "date": {
+        "year": 1861,
+        "circa": false
+      },
+      "description": "Hallrättsinstitutionen, som hantverkare och fabriker i Nykarleby lytt under, upphörde officiellt.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Privilegium på filhuggeri",
+      "date": {
+        "year": 1875,
+        "month": 12,
+        "day": 13,
+        "circa": false
+      },
+      "description": "Klockaren J. W. Nessler i Nykarleby fick privilegium på ett filhuggeri som han drev till 1910.",
+      "people": [
+        "J. W. Nessler"
+      ],
+      "places": []
+    },
+    {
+      "title": "Sista hallrättsmålet",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Garvargesällen Johan Monsin stämde fabrikanten Jakob Eng inför magistraten som hallrätt, och saken slutade i förlikning.",
+      "people": [
+        "Johan Monsin",
+        "Jakob Eng"
+      ],
+      "places": [
+        "Nygårds läderfabrik"
+      ]
+    },
+    {
+      "title": "Spikfabrik startas",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "description": "J. W. Nessler startade en spikfabrik som var i gång till hans död.",
+      "people": [
+        "J. W. Nessler"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Jakob Eng",
+      "place": "Nygårds läderfabrik",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Monsin",
+      "place": "Nygårds läderfabrik",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "d6b3c701d98913bc50383911b0c046fe71327bafbce1bf36c31ceeeab269fc0b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

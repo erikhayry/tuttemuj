@@ -1,0 +1,378 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ebstorgg.htm",
+  "title": "Södra Torggatan vid sekelskiftet",
+  "summary": "Gårdarna vid Södra Torggatan, dagens Sollefteågatan, och deras ägare från 1860-talet. De gamla husen revs kring 1959–60 för ett trevånings affärshus och en bensinstation med barservering.",
+  "topics": [
+    "Södra Torggatan",
+    "gårdsägare",
+    "rivningar",
+    "torget",
+    "handelsgårdar"
+  ],
+  "people": [
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "rådman",
+        "konsul"
+      ]
+    },
+    {
+      "name": "G.M. Hedström",
+      "alternateNames": [
+        "G.M. Hedströms"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C. Hj. Laquist",
+      "alternateNames": [
+        "Hj. Laqvist",
+        "C. Hj. Laquists"
+      ],
+      "roles": [
+        "bryggmästare"
+      ]
+    },
+    {
+      "name": "John Jouper",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Alma Jouper",
+      "alternateNames": [
+        "Alma"
+      ],
+      "roles": []
+    },
+    {
+      "name": "R.R. Eklund",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "L.L. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten",
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Rickard Kisor",
+      "alternateNames": [
+        "Richard Kisor"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Rosina Axelson",
+      "alternateNames": [],
+      "roles": [
+        "sjökaptensänka"
+      ]
+    },
+    {
+      "name": "G. Löf",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "M. Nylund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "P. Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "A.M. Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J.W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "H. Halme",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "V. Kavander",
+      "alternateNames": [],
+      "roles": [
+        "bagare"
+      ]
+    },
+    {
+      "name": "S. Sundqvist",
+      "alternateNames": [],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Södra Torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "S. Torggatan",
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "södra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Carl Nylunds gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "nr 19 vid S. Torggatan",
+      "description": "Gård med handelsbod och trappa."
+    },
+    {
+      "name": "G.M. Hedströms gård",
+      "kind": "building",
+      "alternateNames": [
+        "Laqvistska huset"
+      ],
+      "address": "gård nr 18",
+      "uses": [
+        {
+          "use": "barservering"
+        },
+        {
+          "use": "bensinstation"
+        }
+      ]
+    },
+    {
+      "name": "L.L. Lybecks gård",
+      "kind": "building",
+      "alternateNames": [
+        "Kisors gård"
+      ],
+      "address": "tomt nr 17"
+    },
+    {
+      "name": "Sollefteågatan 3",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Sollefteågatan 3",
+      "description": "Kombinerat bostads- och affärshus i tre våningar, byggt 1960.",
+      "uses": [
+        {
+          "use": "bostadshus",
+          "startYear": 1960
+        },
+        {
+          "use": "affärshus",
+          "startYear": 1960
+        }
+      ],
+      "geo": {
+        "lat": 63.5220274,
+        "lng": 22.5268653,
+        "match": "address",
+        "gazetteerName": "sollefteågatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "R.R. Eklunds barndomshem",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tomt 18 bebyggs",
+      "date": {
+        "year": 1860,
+        "circa": false
+      },
+      "description": "Handlande G.M. Hedström ägde och bebyggde tomt nr 18 vid Södra Torggatan.",
+      "people": [
+        "G.M. Hedström"
+      ],
+      "places": [
+        "G.M. Hedströms gård"
+      ]
+    },
+    {
+      "title": "Gården säljs till Kisor",
+      "date": {
+        "year": 1890,
+        "circa": false
+      },
+      "description": "Lybecks gård på tomt nr 17 vid torget såldes till handlande Axel Kisor.",
+      "people": [
+        "Axel Kisor"
+      ],
+      "places": [
+        "L.L. Lybecks gård"
+      ]
+    },
+    {
+      "title": "Hedströmska gården rivs",
+      "date": {
+        "year": 1959,
+        "circa": false
+      },
+      "description": "Huset på tomt nr 18 och skalden R.R. Eklunds barndomshem revs och ett envåningshus med barservering och Esso-station byggdes.",
+      "people": [],
+      "places": [
+        "G.M. Hedströms gård",
+        "R.R. Eklunds barndomshem"
+      ]
+    },
+    {
+      "title": "Nytt hus vid Sollefteågatan 3",
+      "date": {
+        "year": 1960,
+        "circa": false
+      },
+      "description": "Det gamla köpmanshuset revs från april 1960, och i början av december kunde man flytta in i det nya trevåningshuset vid Sollefteågatan 3.",
+      "people": [
+        "G. Löf",
+        "M. Nylund"
+      ],
+      "places": [
+        "Sollefteågatan 3",
+        "L.L. Lybecks gård"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "G.M. Hedström",
+      "place": "G.M. Hedströms gård",
+      "relation": "owned",
+      "startYear": 1860,
+      "endYear": 1878
+    },
+    {
+      "person": "Axel Kisor",
+      "place": "L.L. Lybecks gård",
+      "relation": "owned",
+      "startYear": 1890,
+      "endYear": 1914
+    },
+    {
+      "person": "G.M. Hedström",
+      "place": "G.M. Hedströms gård",
+      "relation": "built"
+    },
+    {
+      "person": "J.W. Nessler",
+      "place": "G.M. Hedströms gård",
+      "relation": "owned",
+      "startYear": 1902
+    },
+    {
+      "person": "H. Halme",
+      "place": "G.M. Hedströms gård",
+      "relation": "owned",
+      "startYear": 1909,
+      "endYear": 1912
+    },
+    {
+      "person": "C. Hj. Laquist",
+      "place": "G.M. Hedströms gård",
+      "relation": "owned",
+      "startYear": 1920
+    },
+    {
+      "person": "John Jouper",
+      "place": "G.M. Hedströms gård",
+      "relation": "owned",
+      "startYear": 1942
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Södra Torggatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "L.L. Lybecks gård"
+      ]
+    }
+  ],
+  "contentHash": "a383eee7a7a087d7d68f31a44013cca17ae2baedfe2c88ad788c21c3fc7e689c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

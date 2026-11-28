@@ -130,6 +130,15 @@
       ],
       "address": "Bankgatan 14",
       "description": "Vid korsningen med Gustav Adolfsgatan 15.",
+      "uses": [
+        {
+          "use": "cykelaffär"
+        },
+        {
+          "use": "resandehem",
+          "startYear": 1926
+        }
+      ],
       "geo": {
         "lat": 63.5224679,
         "lng": 22.533274,
@@ -316,6 +325,123 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Löfholm",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1860,
+      "endYear": 1863
+    },
+    {
+      "person": "Greta Helena Bogdanoff",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1863,
+      "endYear": 1872
+    },
+    {
+      "person": "Gustav Nyman",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1873
+    },
+    {
+      "person": "Axel Backlund",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1908
+    },
+    {
+      "person": "John Hermansson",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1919,
+      "endYear": 1925
+    },
+    {
+      "person": "John Rajander",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1925,
+      "endYear": 1926
+    },
+    {
+      "person": "Sofia Rajander",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1925,
+      "endYear": 1926
+    },
+    {
+      "person": "John Rajander",
+      "place": "Bogdanoffs gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Sofia Rajander",
+      "place": "Bogdanoffs gård",
+      "relation": "ran",
+      "startYear": 1926
+    },
+    {
+      "person": "Erik Johan Harjulin",
+      "place": "Bogdanoffs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Jenny Maria Svanbäck",
+      "place": "Bogdanoffs gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Karl Svanbäck",
+      "place": "Bogdanoffs gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Kent Lundqvist",
+      "place": "Bogdanoffs gård",
+      "relation": "owned",
+      "startYear": 1982
+    },
+    {
+      "person": "Sören Lillkung",
+      "place": "Bogdanoffs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Majvor Lillkung",
+      "place": "Bogdanoffs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Majvor Lillkung",
+      "place": "Bogdanoffs gård",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bogdanoffs gård",
+        "Bankgatan",
+        "Gustav Adolfsgatan",
+        "Gunnar Willmans gård"
+      ],
+      "year": 1973
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "a0621171c698b1a567a73bf76c0789a83b0f68d04988b8660a30765241a13388",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

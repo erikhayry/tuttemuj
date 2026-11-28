@@ -1,0 +1,592 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/elvnyled.htm",
+  "title": "Elverket under ny ledning – kraftverket utbyggs",
+  "summary": "Under ingenjör Anders Nordström från 1953 växte Nykarleby kraftverk kraftigt, och energikrisen 1974 gav sedan stora underskott. Planerna på ett nytt kraftverk i centrum väckte hård kritik.",
+  "topics": [
+    "kraftverket",
+    "elverket",
+    "dammbygge",
+    "energikrisen",
+    "vattenreglering",
+    "Lillbron"
+  ],
+  "people": [
+    {
+      "name": "Anders Nordström",
+      "alternateNames": [
+        "Nordström"
+      ],
+      "roles": [
+        "ingenjör",
+        "kraftverkschef",
+        "stadsdirektör"
+      ]
+    },
+    {
+      "name": "Max Nilsson",
+      "alternateNames": [
+        "Nilsson"
+      ],
+      "roles": [
+        "ingenjör",
+        "elverkschef"
+      ]
+    },
+    {
+      "name": "Tony Eklund",
+      "alternateNames": [],
+      "roles": [
+        "elverkschef"
+      ]
+    },
+    {
+      "name": "Nils Liljeström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Camilla Heikius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Verner Sundell",
+      "alternateNames": [],
+      "roles": [
+        "maskinvakt"
+      ]
+    },
+    {
+      "name": "Reguel Lindén",
+      "alternateNames": [
+        "Reguel"
+      ],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Peter Bergström",
+      "alternateNames": [],
+      "roles": [
+        "konstnär"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Holger Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kraftverk",
+      "kind": "building",
+      "alternateNames": [
+        "Kraftverket",
+        "vattenkraftverket"
+      ],
+      "uses": [
+        {
+          "use": "kraftverk"
+        }
+      ],
+      "geo": {
+        "lat": 63.5253938,
+        "lng": 22.528767,
+        "match": "name",
+        "gazetteerName": "kraftverket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lillbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Lilla bron"
+      ]
+    },
+    {
+      "name": "Stora bron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Storbron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Topeliusparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5251781,
+        "lng": 22.5308346,
+        "match": "name",
+        "gazetteerName": "topeliusparken",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariets sportplan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Kampen",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Vattentornet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "vattentorn",
+          "startYear": 1964
+        }
+      ],
+      "geo": {
+        "lat": 63.524336,
+        "lng": 22.5377093,
+        "match": "name",
+        "gazetteerName": "vattentornet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sandön",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Katternö",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kimo bruk",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Jeppoforsarna",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Silvast, Grötas, Jungar, Mietala, Gunnars och Tollikka."
+    }
+  ],
+  "events": [
+    {
+      "title": "Nordström leder kraftverket",
+      "date": {
+        "year": 1953,
+        "circa": false
+      },
+      "description": "Ingenjör Anders Nordström anställdes som ansvarig ledare för Nykarleby kraftverk.",
+      "people": [
+        "Anders Nordström"
+      ],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Kraftverket byggs ut",
+      "date": {
+        "year": 1956,
+        "endYear": 1957,
+        "circa": false
+      },
+      "description": "Vattenkraftverket i Nykarleby moderniserades och effekten fördubblades.",
+      "people": [
+        "Anders Nordström"
+      ],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Dammen höjs",
+      "date": {
+        "year": 1962,
+        "circa": false
+      },
+      "description": "Kraftverksdammen höjdes med 105 cm, och en ny stockränna och en gångbro byggdes.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk",
+        "Lillbron"
+      ]
+    },
+    {
+      "title": "Anslutning till riksnätet",
+      "date": {
+        "year": 1963,
+        "month": 12,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Nykarleby kraftverk kopplades till Katternö transformatorstation, som var ansluten till riksnätet.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk",
+        "Katternö"
+      ]
+    },
+    {
+      "title": "Vattentornet tas i bruk",
+      "date": {
+        "year": 1964,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Vattentornet med plats för 600 kubikmeter vatten avsynades och sattes i drift.",
+      "people": [],
+      "places": [
+        "Vattentornet"
+      ]
+    },
+    {
+      "title": "Ny station på Kampen",
+      "date": {
+        "year": 1973,
+        "month": 9,
+        "circa": false
+      },
+      "description": "En ny 110 kV-transformatorstation på Kampen kopplades in och tryggade elförsörjningen.",
+      "people": [],
+      "places": [
+        "Kampen"
+      ]
+    },
+    {
+      "title": "Nordström går i pension",
+      "date": {
+        "year": 1974,
+        "month": 7,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Anders Nordström gick i pension efter 21 år som chef för tekniska verken och efterträddes av Max Nilsson.",
+      "people": [
+        "Anders Nordström",
+        "Max Nilsson"
+      ],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Jeppoforsarna avslås",
+      "date": {
+        "year": 1975,
+        "month": 7,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige avslog Jeppo Krafts erbjudande att sälja forsarna i Jeppo till Nykarleby.",
+      "people": [],
+      "places": [
+        "Jeppoforsarna"
+      ]
+    },
+    {
+      "title": "Nytt kraftverk byggs",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "description": "Det nya kraftverket i centrum byggdes trots hård kritik från bland annat miljövårdare och Museiverket.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "title": "Kraftverkets 80-årsjubileum",
+      "date": {
+        "year": 2006,
+        "month": 8,
+        "circa": false
+      },
+      "description": "Generatorhallen i Nykarleby kraftverk blomsterpryddes till 80-årsjubileet.",
+      "people": [],
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Kraftverksgubbarna balanserar på dammpelarna i vårflodens islossning för att styra isflaken, med minimalt skydd, medan stadsborna klättrar över avspärrade grindar till Lillbron.",
+    "reason": "Fotona och minnena ger dramatiska, farliga scener vid forsen.",
+    "characters": [
+      "Nils Liljeström"
+    ],
+    "places": [
+      "Nykarleby kraftverk",
+      "Lillbron"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Nordström",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked",
+      "startYear": 1953,
+      "endYear": 1974
+    },
+    {
+      "person": "Max Nilsson",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked",
+      "startYear": 1974,
+      "endYear": 2004
+    },
+    {
+      "person": "Tony Eklund",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked",
+      "startYear": 2004
+    },
+    {
+      "person": "Verner Sundell",
+      "place": "Nykarleby kraftverk",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1956
+    },
+    {
+      "image": 2,
+      "places": [
+        "Nykarleby kraftverk",
+        "Seminariets sportplan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1962
+    },
+    {
+      "image": 4,
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Lillbron"
+      ],
+      "year": 1981
+    },
+    {
+      "image": 7,
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "image": 9,
+      "places": [
+        "Lillbron"
+      ]
+    },
+    {
+      "image": 10,
+      "places": [
+        "Nykarleby kraftverk"
+      ]
+    },
+    {
+      "image": 11,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 2006
+    },
+    {
+      "image": 12,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1961
+    },
+    {
+      "image": 13,
+      "places": [
+        "Nykarleby kraftverk",
+        "Topeliusparken"
+      ],
+      "year": 1972
+    },
+    {
+      "image": 14,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1983
+    },
+    {
+      "image": 15,
+      "places": [],
+      "year": 1983
+    },
+    {
+      "image": 16,
+      "places": [
+        "Nykarleby kraftverk"
+      ],
+      "year": 1984
+    },
+    {
+      "image": 17,
+      "places": [
+        "Nykarleby kraftverk",
+        "Kuddnäs"
+      ],
+      "year": 2006
+    }
+  ],
+  "contentHash": "b514966452732d5624248ca6d31a01f0708427956647b0e184364800f0f2ff72",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

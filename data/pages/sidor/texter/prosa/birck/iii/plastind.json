@@ -1,0 +1,250 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/plastind.htm",
+  "title": "Plastindustrin",
+  "summary": "Plastföretaget Prevex flyttade till Nykarleby efter att fabriken i Jeppo brunnit i december 1956. Det växte till stadens största arbetsplats med plaströr, styroxprodukter och mängder av andra föremål.",
+  "topics": [
+    "plastindustri",
+    "Prevex",
+    "industri",
+    "fabrik",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "Sven J. Nyman",
+      "alternateNames": [
+        "Sven Nyman",
+        "S.J. Nyman"
+      ],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Per Erik Holmqvist",
+      "alternateNames": [
+        "P.E. Holmqvist"
+      ],
+      "roles": [
+        "styrelseordförande",
+        "direktör"
+      ]
+    },
+    {
+      "name": "Verner Nyström",
+      "alternateNames": [
+        "V. Nyström"
+      ],
+      "roles": [
+        "arbetsledare"
+      ]
+    },
+    {
+      "name": "Maj-Lis Övergaard",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ö. Övergaard",
+      "alternateNames": [],
+      "roles": [
+        "tekniker",
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "G. Lillvik",
+      "alternateNames": [],
+      "roles": [
+        "verkmästare"
+      ]
+    },
+    {
+      "name": "K. Sundqvist",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Rafael Strandén",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Alf Nikonen",
+      "alternateNames": [],
+      "roles": [
+        "samlare"
+      ]
+    },
+    {
+      "name": "Clas-Göran Backsström",
+      "alternateNames": [],
+      "roles": [
+        "formsprutare"
+      ]
+    },
+    {
+      "name": "Conny Eklund",
+      "alternateNames": [],
+      "roles": [
+        "säljchef"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Prevexfabriken",
+      "kind": "building",
+      "alternateNames": [
+        "Ab Prevex Oy",
+        "OY Prevex AB"
+      ],
+      "uses": [
+        {
+          "use": "plastfabrik",
+          "startYear": 1957
+        }
+      ]
+    },
+    {
+      "name": "Övergaards snickeri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "snickeri",
+          "endYear": 1957
+        },
+        {
+          "use": "plastfabrik",
+          "startYear": 1957
+        }
+      ]
+    },
+    {
+      "name": "Frill",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52744458331194,
+        "lng": 22.535213407320192,
+        "match": "name",
+        "gazetteerName": "frillan",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fabriken brinner i Jeppo",
+      "date": {
+        "year": 1956,
+        "month": 12,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Prevex fabrik i Jeppo brann ned, och företaget flyttades därefter till Nykarleby.",
+      "people": [],
+      "places": [
+        "Prevexfabriken"
+      ]
+    },
+    {
+      "title": "Utbyggnad i Frill",
+      "date": {
+        "year": 1969,
+        "circa": false
+      },
+      "description": "Prevex planerade en stor utbyggnad på industritomten i Frill och kunde utöka personalen till drygt 80.",
+      "people": [],
+      "places": [
+        "Prevexfabriken",
+        "Frill"
+      ]
+    },
+    {
+      "title": "Ny fabrikshall",
+      "date": {
+        "year": 1974,
+        "circa": false
+      },
+      "description": "Prevex nya fabrikshall öster om Jakobstadsvägen i Nykarleby blev färdig.",
+      "people": [],
+      "places": [
+        "Prevexfabriken",
+        "Jakobstadsvägen"
+      ]
+    },
+    {
+      "title": "KWH flyttar produktionen",
+      "date": {
+        "year": 2009,
+        "month": 6,
+        "day": 22,
+        "circa": false
+      },
+      "description": "KWH Plast meddelade att förpackningstillverkningen i Nykarleby skulle flyttas till Jakobstad och att Prevex tar över utrymmena.",
+      "people": [],
+      "places": [
+        "Prevexfabriken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Sven J. Nyman",
+      "place": "Prevexfabriken",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Prevexfabriken",
+        "Övergaards snickeri"
+      ]
+    },
+    {
+      "image": 32,
+      "places": [],
+      "year": 1976
+    }
+  ],
+  "contentHash": "0c2ac471c2c591c23a0718fb85deec42603eaf77fd44d9039a8cb827fd2135fc",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

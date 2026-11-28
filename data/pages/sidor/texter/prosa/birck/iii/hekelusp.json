@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/hekelusp.htm",
+  "title": "Hilding Ekelunds förslag till stadsplanereglering",
+  "summary": "Stadsplanearkitekten Hilding Ekelund fick efter kriget planera en utvidgning av Nykarleby kring den väntade järnvägen öster om staden. Förslaget 1949 bevarade den gamla staden men femdubblade ytan.",
+  "topics": [
+    "stadsplanering",
+    "järnvägen",
+    "stadsplan",
+    "efterkrigstiden"
+  ],
+  "people": [
+    {
+      "name": "Hilding Ekelund",
+      "alternateNames": [],
+      "roles": [
+        "stadsplanearkitekt"
+      ]
+    },
+    {
+      "name": "Niilo Heino",
+      "alternateNames": [],
+      "roles": [
+        "diplomingenjör",
+        "tomtmätare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Östra tullen",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Värnamo",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51745045615829,
+        "lng": 22.514660378336742,
+        "match": "name",
+        "gazetteerName": "värnamogården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ekelund får uppdraget",
+      "date": {
+        "year": 1946,
+        "month": 7,
+        "circa": false
+      },
+      "description": "Stadsstyrelsen fick i uppdrag att ordna stadsplaneringen söder och öster om Nykarleby, och arbetet gick till Hilding Ekelund.",
+      "people": [
+        "Hilding Ekelund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Stadsplanemätningar",
+      "date": {
+        "year": 1948,
+        "circa": false
+      },
+      "description": "Diplomingenjör Niilo Heino utförde mätningarna för Nykarlebys nya stadsplan, klara på hösten.",
+      "people": [
+        "Niilo Heino"
+      ],
+      "places": []
+    },
+    {
+      "title": "Utvidgad stadsplan läggs fram",
+      "date": {
+        "year": 1949,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Hilding Ekelunds förslag till utvidgad stadsplan visades för stadsfullmäktige i Nykarleby.",
+      "people": [
+        "Hilding Ekelund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Ny stadskarta",
+      "date": {
+        "year": 1950,
+        "circa": false
+      },
+      "description": "En ny karta över Nykarleby stad och dess omgivning blev färdig.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "65f318977c029b7905354b7391c555a184a0ef0b2642b6742457820a3a7f78cb",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

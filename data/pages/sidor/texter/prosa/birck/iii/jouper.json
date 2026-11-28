@@ -1,0 +1,402 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/jouper.htm",
+  "title": "Jouperfabriken",
+  "summary": "K.J. Jouper och sonen John tog 1922 över ett filhuggeri och byggde upp en fabrik för bilfjädrar och lastbilstippar söder om Nykarleby. Fiskarskoncernen köpte företaget 1964 och avvecklade det 1967.",
+  "topics": [
+    "industri",
+    "bilfjädrar",
+    "lastbilstippar",
+    "Fiskars",
+    "nedläggning"
+  ],
+  "people": [
+    {
+      "name": "K.J. Jouper",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ]
+    },
+    {
+      "name": "John Jouper",
+      "alternateNames": [],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Ernst Jouper",
+      "alternateNames": [],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Ingmar Jouper",
+      "alternateNames": [],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Gabriel Jouper",
+      "alternateNames": [],
+      "roles": [
+        "företagare"
+      ]
+    },
+    {
+      "name": "Bjarne Lundqvist",
+      "alternateNames": [],
+      "roles": [
+        "försäljningschef",
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Lennart Schauman",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Fjalar Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "bergsråd",
+        "koncernchef"
+      ]
+    },
+    {
+      "name": "Nils Höglund",
+      "alternateNames": [],
+      "roles": [
+        "disponent"
+      ]
+    },
+    {
+      "name": "Karl Kronkvist",
+      "alternateNames": [],
+      "roles": [
+        "mekaniker",
+        "företagare"
+      ]
+    },
+    {
+      "name": "Håkan Storskog",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Runar Lund",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Rafael Sjöblom",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Joupers fabrik",
+      "kind": "building",
+      "alternateNames": [
+        "Jouperfabriken",
+        "John Joupers Fjäderfabrik",
+        "Ab Jouper Oy",
+        "Oy Jouper Ab"
+      ],
+      "address": "strax söder om staden vid Korsåkern",
+      "uses": [
+        {
+          "use": "fabrik",
+          "startYear": 1922,
+          "endYear": 1967
+        }
+      ],
+      "geo": {
+        "lat": 63.51762782406637,
+        "lng": 22.522706368305755,
+        "match": "name",
+        "gazetteerName": "jouperfabriken",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Korsåkern",
+      "kind": "district",
+      "alternateNames": []
+    },
+    {
+      "name": "Saarela",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Joupersgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "nameOrigin": "Gatan på Nygård har fått sitt namn efter Jouperfabriken som låg där.",
+      "geo": {
+        "lat": 63.517699,
+        "lng": 22.5263233,
+        "match": "name",
+        "gazetteerName": "joupersgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gyllenbergs fabriker",
+      "kind": "building",
+      "alternateNames": [
+        "Bröder Gyllenbergs fabriker"
+      ],
+      "uses": [
+        {
+          "use": "verkstad"
+        },
+        {
+          "use": "elementfabrik",
+          "startYear": 1968
+        }
+      ]
+    },
+    {
+      "name": "Kärrfors",
+      "kind": "district",
+      "alternateNames": [
+        "Kärrforsen"
+      ]
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki mejeri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "mejeri",
+          "startYear": 1894,
+          "endYear": 1962
+        },
+        {
+          "use": "fjäderfabrik",
+          "startYear": 1963
+        }
+      ]
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Jouper tar över filhuggeriet",
+      "date": {
+        "year": 1922,
+        "circa": false
+      },
+      "description": "K.J. Jouper och sonen John övertog J.W. Nesslers tidigare filhuggeriverkstad, som utvecklades till Jouperfabriken.",
+      "people": [
+        "K.J. Jouper",
+        "John Jouper"
+      ],
+      "places": [
+        "Joupers fabrik"
+      ]
+    },
+    {
+      "title": "Fordringsägarna tar över",
+      "date": {
+        "year": 1960,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Fordringsägarna Telko och Kontio övertog driften av Ab Jouper Oy, och bröderna Jouper lämnade ledningen.",
+      "people": [],
+      "places": [
+        "Joupers fabrik"
+      ]
+    },
+    {
+      "title": "Gyllenbergs fabriker köps",
+      "date": {
+        "year": 1961,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Oy Jouper Ab köpte Bröder Gyllenbergs tidigare fabriker vid Kärrforsen.",
+      "people": [],
+      "places": [
+        "Gyllenbergs fabriker",
+        "Kärrfors"
+      ]
+    },
+    {
+      "title": "Kovjoki Resår startar",
+      "date": {
+        "year": 1963,
+        "circa": false
+      },
+      "description": "Mekanikern Karl Kronkvist började tillverka resårfjädrar i det tidigare mejeriet i Kovjoki.",
+      "people": [
+        "Karl Kronkvist"
+      ],
+      "places": [
+        "Kovjoki mejeri",
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Fiskars köper Jouper",
+      "date": {
+        "year": 1964,
+        "month": 2,
+        "circa": false
+      },
+      "description": "Fiskarskoncernen övertog det konkurshotade Jouperföretaget i Nykarleby.",
+      "people": [],
+      "places": [
+        "Joupers fabrik"
+      ]
+    },
+    {
+      "title": "Jouperfabriken läggs ned",
+      "date": {
+        "year": 1967,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Fiskarskoncernen började avveckla Jouperfabriken i Nykarleby, och maskinerna fördes söderut.",
+      "people": [],
+      "places": [
+        "Joupers fabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "John Jouper",
+      "place": "Joupers fabrik",
+      "relation": "ran",
+      "startYear": 1922
+    },
+    {
+      "person": "Ernst Jouper",
+      "place": "Joupers fabrik",
+      "relation": "ran"
+    },
+    {
+      "person": "Nils Höglund",
+      "place": "Joupers fabrik",
+      "relation": "worked",
+      "startYear": 1964
+    },
+    {
+      "person": "Karl Kronkvist",
+      "place": "Kovjoki mejeri",
+      "relation": "ran",
+      "startYear": 1963
+    },
+    {
+      "person": "Karl Kronkvist",
+      "place": "Joupers fabrik",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 4,
+      "places": [
+        "Joupers fabrik",
+        "Saarela"
+      ],
+      "year": 1952
+    },
+    {
+      "image": 5,
+      "places": [
+        "Joupers fabrik"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Joupers fabrik"
+      ],
+      "year": 1993
+    },
+    {
+      "image": 7,
+      "places": [
+        "Joupers fabrik"
+      ]
+    }
+  ],
+  "contentHash": "e8d4315002b0213dceea44044c36b3aa2f51b4dec75845b626d5438bf4c5c78b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

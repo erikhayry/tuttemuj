@@ -100,6 +100,11 @@
       "alternateNames": [],
       "address": "Bangatan 3",
       "description": "Gården n:o 2 i hörnet av Östra Esplanad- och Bangatan.",
+      "uses": [
+        {
+          "use": "förläggning"
+        }
+      ],
       "geo": {
         "lat": 63.52083339999999,
         "lng": 22.5282273,
@@ -112,13 +117,24 @@
     {
       "name": "Backmans bageri",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bageri",
+          "startYear": 1956
+        }
+      ]
     },
     {
       "name": "Sandbergs bageri",
       "kind": "building",
       "alternateNames": [],
-      "description": "Vid Kvarnvägen."
+      "description": "Vid Kvarnvägen.",
+      "uses": [
+        {
+          "use": "bageri"
+        }
+      ]
     },
     {
       "name": "Juthbackabron",
@@ -240,6 +256,71 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Gästrin",
+      "place": "Rolf Backmans gård",
+      "relation": "owned",
+      "startYear": 1860
+    },
+    {
+      "person": "Gösta Lundell",
+      "place": "Rolf Backmans gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Gösta Lundell",
+      "place": "Konsul Nylunds gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Albert Backman",
+      "place": "Rolf Backmans gård",
+      "relation": "owned",
+      "startYear": 1933
+    },
+    {
+      "person": "Rolf Backman",
+      "place": "Rolf Backmans gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Rolf Backman",
+      "place": "Rolf Backmans gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Gösta Sandberg",
+      "place": "Backmans bageri",
+      "relation": "owned",
+      "startYear": 1975
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Rolf Backmans gård"
+      ],
+      "year": 1986
+    },
+    {
+      "image": 2,
+      "places": [
+        "Rolf Backmans gård",
+        "Sport- och Maskin-Johan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "f1131f70d78d4e53f7ac5b67afa867c8997c273aeb0dc39ffa17a31c72dfedf0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -109,6 +109,11 @@
       "kind": "building",
       "alternateNames": [
         "Forsbergs kiosk"
+      ],
+      "uses": [
+        {
+          "use": "kiosk"
+        }
       ]
     },
     {
@@ -121,7 +126,13 @@
       "name": "Forsbergs nya kiosk",
       "kind": "building",
       "alternateNames": [],
-      "description": "I hörnet av Östra esplanadgatan och Bankgatan, uppförd 1928."
+      "description": "I hörnet av Östra esplanadgatan och Bankgatan, uppförd 1928.",
+      "uses": [
+        {
+          "use": "kiosk",
+          "startYear": 1928
+        }
+      ]
     },
     {
       "name": "Forsbergs bageri",
@@ -133,7 +144,15 @@
       "name": "Eklunds hus",
       "kind": "building",
       "alternateNames": [],
-      "description": "Mellan Bergfeldts och Stadshotellet vid Esplanaden; senare Markkulas cykelaffär."
+      "description": "Mellan Bergfeldts och Stadshotellet vid Esplanaden; senare Markkulas cykelaffär.",
+      "uses": [
+        {
+          "use": "godisbutik"
+        },
+        {
+          "use": "cykelaffär"
+        }
+      ]
     },
     {
       "name": "Stadshotellet",
@@ -144,7 +163,12 @@
       "name": "Lappmössan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Kiosk, nu inbyggd i ett uthus på en villatomt."
+      "description": "Kiosk, nu inbyggd i ett uthus på en villatomt.",
+      "uses": [
+        {
+          "use": "kiosk"
+        }
+      ]
     },
     {
       "name": "Runda kiosken",
@@ -260,6 +284,46 @@
       "Torget"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Arne Aaltonen",
+      "place": "Aaltonens kiosk",
+      "relation": "ran"
+    },
+    {
+      "person": "Arne Aaltonen",
+      "place": "Eklunds hus",
+      "relation": "ran"
+    },
+    {
+      "person": "Gurli Sund",
+      "place": "Runda kiosken",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 1950
+    },
+    {
+      "image": 3,
+      "places": [
+        "Wiks hotell"
+      ],
+      "year": 1954
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "da16794c8690e6a891151e663107aa0c0fd28a1edcadc6697711c6109def2490",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

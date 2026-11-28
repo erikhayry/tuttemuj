@@ -29,6 +29,12 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Topeliusesplanaden 15",
+      "uses": [
+        {
+          "use": "bostadshus",
+          "startYear": 2007
+        }
+      ],
       "geo": {
         "lat": 63.52346979999999,
         "lng": 22.5315985,
@@ -121,6 +127,105 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15",
+        "Topeliusesplanaden"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 3,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 4,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15",
+        "Topeliusesplanaden"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 5,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15",
+        "Topeliusesplanaden"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 6,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 7,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 8,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 9,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 10,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 11,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2006
+    },
+    {
+      "image": 12,
+      "places": [
+        "Bostads Ab Topeliusesplanaden 15"
+      ],
+      "year": 2006
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "296d751049645c2c8b1351a5321bf026b014e7ee1039dc206a23a19860cecfa6",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

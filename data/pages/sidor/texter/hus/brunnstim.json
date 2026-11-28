@@ -79,6 +79,28 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brunnstimran vid Kyrkogatan",
+        "Kyrkogatan",
+        "Bankgatan",
+        "Stadsbrunnen"
+      ],
+      "year": 2003
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "3dcd69d9ca05da1c90676820ecb115e3d6af0fce358a2b0e04bf17c592a535c0",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

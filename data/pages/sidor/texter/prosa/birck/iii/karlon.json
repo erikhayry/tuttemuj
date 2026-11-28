@@ -1,0 +1,180 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/karlon.htm",
+  "title": "Oy Karlon Ab",
+  "summary": "Hugo Nars grundade 1961 plastföretaget Oy Karlon Ab i Nykarleby, som tillverkade bland annat pärmar, familjearkiv och presenningar. Företaget lades ned 1972 och lokalerna togs över av regnklädestillverkaren Abeko.",
+  "topics": [
+    "plastindustri",
+    "industri",
+    "Karlon",
+    "Abeko",
+    "1960-talet"
+  ],
+  "people": [
+    {
+      "name": "Hugo Nars",
+      "alternateNames": [],
+      "roles": [
+        "direktör",
+        "grundare"
+      ]
+    },
+    {
+      "name": "Vappu Nars",
+      "alternateNames": [],
+      "roles": [
+        "styrelseledamot"
+      ]
+    },
+    {
+      "name": "Rolf Nars",
+      "alternateNames": [],
+      "roles": [
+        "styrelseledamot"
+      ]
+    },
+    {
+      "name": "Göran Vestsäter",
+      "alternateNames": [],
+      "roles": [
+        "direktör"
+      ]
+    },
+    {
+      "name": "Alfred Sandell",
+      "alternateNames": [],
+      "roles": [
+        "platschef"
+      ]
+    },
+    {
+      "name": "Greta Kortesniemi",
+      "alternateNames": [],
+      "roles": [
+        "arbetsledare"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Karlons fabrik",
+      "kind": "building",
+      "alternateNames": [
+        "Oy Karlon Ab",
+        "Oy Abeko Ab"
+      ],
+      "address": "i kvarteret 809 mellan Åminnevägen och Jakobstadsvägen",
+      "uses": [
+        {
+          "use": "plastfabrik",
+          "startYear": 1961,
+          "endYear": 1972
+        },
+        {
+          "use": "klädfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Åminnevägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5580228,
+        "lng": 22.5428763,
+        "match": "name",
+        "gazetteerName": "åminnevägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Jakobstadsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5661983,
+        "lng": 22.5711643,
+        "match": "name",
+        "gazetteerName": "jakobstadsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Karlon grundas",
+      "date": {
+        "year": 1961,
+        "circa": false
+      },
+      "description": "Hugo Nars från Jakobstad grundade plastföretaget Oy Karlon Ab i Nykarleby.",
+      "people": [
+        "Hugo Nars"
+      ],
+      "places": [
+        "Karlons fabrik"
+      ]
+    },
+    {
+      "title": "TIR-presenningar",
+      "date": {
+        "year": 1964,
+        "circa": false
+      },
+      "description": "Karlon började tillverka presenningar för containrar i utrikestrafik i samarbete med Kone och Nars.",
+      "people": [
+        "Hugo Nars"
+      ],
+      "places": [
+        "Karlons fabrik"
+      ]
+    },
+    {
+      "title": "Karlon läggs ned",
+      "date": {
+        "year": 1972,
+        "circa": false
+      },
+      "description": "Karlon lades ned, och fabriksbyggnaderna köptes av svenska Abeko, som tillverkade regn- och skyddskläder.",
+      "people": [],
+      "places": [
+        "Karlons fabrik"
+      ]
+    },
+    {
+      "title": "Abekofabriken stängs",
+      "date": {
+        "year": 2007,
+        "circa": false
+      },
+      "description": "Abekos fabrik i Nykarleby lades ned på våren och bland annat en möbelaffär flyttade in.",
+      "people": [],
+      "places": [
+        "Karlons fabrik"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Hugo Nars",
+      "place": "Karlons fabrik",
+      "relation": "ran",
+      "startYear": 1961
+    }
+  ],
+  "images": [],
+  "contentHash": "9398fc0a9a5b15ae33f4cbc031b949e02bc9de4ccd8d08b08ee623365e099d51",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

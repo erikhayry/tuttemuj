@@ -66,6 +66,27 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Apotekets uthus",
+        "Lärkträdet vid apoteket",
+        "Apotekets brunnshus"
+      ],
+      "year": 2001
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "7804fbf0660c765d53f1e149009703c3f7fc4dee0877e40a9fcb673a2c922b5f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

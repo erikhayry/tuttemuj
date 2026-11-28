@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/sjunkske.htm",
+  "title": "”Ett sjunkande skepp”",
+  "summary": "På 1880-talet minskade antalet sökande till Nykarleby seminarium så kraftigt att det hotades av indragning. Efter nedskärningar 1898 räddades skolan genom att elevantalet åter steg.",
+  "topics": [
+    "seminariet",
+    "lärarutbildning",
+    "indragningshot",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "Uno Cygnaeus",
+      "alternateNames": [
+        "Cygnaeus"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Y. S. Yrjö-Koskinen",
+      "alternateNames": [],
+      "roles": [
+        "senator"
+      ]
+    },
+    {
+      "name": "W. Floman",
+      "alternateNames": [],
+      "roles": [
+        "överinspektör"
+      ]
+    },
+    {
+      "name": "Strömberg",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Wichmann",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Kollegiet hörs",
+      "date": {
+        "year": 1898,
+        "month": 3,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Lärarkollegiet vid Nykarleby seminarium gick med på vissa besparingar men motsatte sig att lektorstjänster skulle dras in.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    },
+    {
+      "title": "Senaten skär ned anslagen",
+      "date": {
+        "year": 1898,
+        "month": 5,
+        "day": 15,
+        "circa": false
+      },
+      "description": "Senaten minskade seminariets anslag för kosthåll, ved, ljus och stipendier.",
+      "people": [],
+      "places": [
+        "Nykarleby seminarium"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby seminarium"
+      ],
+      "year": 1897
+    }
+  ],
+  "contentHash": "8ae9ab17b55708a4c170859db66265e9d83e7e9f92267b11e358ece8a9930690",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

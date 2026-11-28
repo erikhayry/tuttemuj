@@ -1,0 +1,317 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/fattigga.htm",
+  "title": "Fattiggården byggs",
+  "summary": "Nykarlebys fattiggård, kallad frihemmet, byggdes 1909 efter en donation av rådman J.A. Lybeck. Arkitekt Knut Wasastjerna ritade huset för 20 personer, och huset revs omkring 75 år senare.",
+  "topics": [
+    "fattigvård",
+    "frihemmet",
+    "donation",
+    "byggnader",
+    "1900-talet"
+  ],
+  "people": [
+    {
+      "name": "J.A. Lybeck",
+      "alternateNames": [],
+      "deathYear": 1895,
+      "roles": [
+        "rådman",
+        "donator"
+      ]
+    },
+    {
+      "name": "Emilia Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "fröken"
+      ]
+    },
+    {
+      "name": "John Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "A. Kisor",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "K.F. Spolander",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Knut Wasastjerna",
+      "alternateNames": [],
+      "roles": [
+        "arkitekt"
+      ]
+    },
+    {
+      "name": "Helsingius",
+      "alternateNames": [
+        "G. A. Helsingius"
+      ],
+      "roles": [
+        "fattigvårdsinspektör"
+      ]
+    },
+    {
+      "name": "K.A. Skrabb",
+      "alternateNames": [],
+      "roles": [
+        "byggmästare"
+      ]
+    },
+    {
+      "name": "Axel Herler",
+      "alternateNames": [],
+      "roles": [
+        "järnhandlare"
+      ]
+    },
+    {
+      "name": "C.J. v. Essen",
+      "alternateNames": [
+        "C.J. v Essen"
+      ],
+      "roles": [
+        "patron"
+      ]
+    },
+    {
+      "name": "K.J. Hagfors",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "A.W. Stenfors",
+      "alternateNames": [],
+      "roles": [
+        "länsarkitekt"
+      ]
+    },
+    {
+      "name": "Henrik Bertlin",
+      "alternateNames": [
+        "Böttler"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Frihemmet",
+      "kind": "building",
+      "alternateNames": [
+        "Nykarleby stads frihem",
+        "Fattiggården"
+      ],
+      "uses": [
+        {
+          "use": "fattiggård",
+          "startYear": 1909
+        }
+      ],
+      "nameOrigin": "Namnet frihemmet föreslogs av lektor Hagfors så att huset inte skulle förväxlas med landskommunens fattiggård på Kuddnäs."
+    },
+    {
+      "name": "Karl Grönfors område",
+      "kind": "landmark",
+      "alternateNames": [
+        "Karl Grönfors"
+      ],
+      "description": "Åker- och ängsmark under Nygårds skattehemman som donerades till staden."
+    },
+    {
+      "name": "Nygårds skattehemman",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs fattiggård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "fattiggård"
+        }
+      ]
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Långören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5372586,
+        "lng": 22.4354097,
+        "match": "name",
+        "gazetteerName": "långörn",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Lybecks donation",
+      "date": {
+        "year": 1898,
+        "month": 1,
+        "day": 21,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige mottog rådman J.A. Lybecks arvingars gåva av pengar och mark för en fattiggård.",
+      "people": [
+        "J.A. Lybeck",
+        "Emilia Lybeck"
+      ],
+      "places": [
+        "Karl Grönfors område"
+      ]
+    },
+    {
+      "title": "Tomten köps",
+      "date": {
+        "year": 1909,
+        "month": 3,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige beslöt köpa den tomt Emilia Lybeck erbjudit och genast börja bygga fattiggården.",
+      "people": [
+        "Emilia Lybeck"
+      ],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Frihemmet färdigt",
+      "date": {
+        "year": 1909,
+        "month": 11,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Fattiggården, byggd av K.A. Skrabb, var färdig för avsyning.",
+      "people": [
+        "K.A. Skrabb",
+        "Knut Wasastjerna"
+      ],
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "title": "Frihemmet rivs",
+      "date": {
+        "year": 1984,
+        "circa": false
+      },
+      "description": "Frihemmet i Nykarleby revs, trots att åtminstone Henrik Bertlin protesterade.",
+      "people": [
+        "Henrik Bertlin"
+      ],
+      "places": [
+        "Frihemmet"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "K.A. Skrabb",
+      "place": "Frihemmet",
+      "relation": "built",
+      "startYear": 1909,
+      "endYear": 1909
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Frihemmet"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Frihemmet"
+      ],
+      "year": 1983
+    }
+  ],
+  "contentHash": "e752cca6a85192c7dbc6ae6225be04280fae7cf8dccb9c0570680fbe4ffe123a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

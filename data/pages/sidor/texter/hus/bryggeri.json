@@ -42,6 +42,17 @@
       "kind": "building",
       "alternateNames": [],
       "description": "Äldsta delen byggd 1864; senare garveri.",
+      "uses": [
+        {
+          "use": "bryggeri"
+        },
+        {
+          "use": "tellblocktillverkning"
+        },
+        {
+          "use": "garveri"
+        }
+      ],
       "geo": {
         "lat": 63.52100957579514,
         "lng": 22.525061657401842,
@@ -161,6 +172,28 @@
       "Bryggeriet"
     ]
   },
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bryggeriet",
+        "Sockenstugan",
+        "Mejeriet",
+        "Herlerska gården"
+      ],
+      "year": 1959
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "1afee11b45136b941c3f6ce7b3712335e32ee77b0d0ca564be3ab0f8e703759f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

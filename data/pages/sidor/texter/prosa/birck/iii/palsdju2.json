@@ -1,0 +1,512 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/palsdju2.htm",
+  "title": "Pälsdjursnäringen i Nykarleby, fortsättning",
+  "summary": "Mink- och rävfarmningen gjorde Nykarleby till ett centrum för pälsdjursavel på 1960- och 1970-talen, med stora foderkök och farmområden vid Nålörn och Frillmossen. Näringen gav pengar och arbete men också lukt, förorenad älv och känslighet för prisfall.",
+  "topics": [
+    "pälsdjursnäring",
+    "minkfarmning",
+    "miljö",
+    "vattenförsörjning",
+    "1970-talet"
+  ],
+  "people": [
+    {
+      "name": "Birger Sjöholm",
+      "alternateNames": [],
+      "deathYear": 1963,
+      "roles": [
+        "minkuppfödare"
+      ]
+    },
+    {
+      "name": "Bo Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "farmare",
+        "styrelseordförande"
+      ]
+    },
+    {
+      "name": "Lars Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "farmare",
+        "platschef"
+      ]
+    },
+    {
+      "name": "Ulf Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "farmare"
+      ]
+    },
+    {
+      "name": "Matts Riska",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Dage Fagernäs",
+      "alternateNames": [],
+      "roles": [
+        "disponent"
+      ]
+    },
+    {
+      "name": "Gunnar Mäenpää",
+      "alternateNames": [],
+      "roles": [
+        "styrelseordförande"
+      ]
+    },
+    {
+      "name": "Rainer Carlstedt",
+      "alternateNames": [],
+      "roles": [
+        "farmare"
+      ]
+    },
+    {
+      "name": "Gunnar Byman",
+      "alternateNames": [],
+      "roles": [
+        "farmare"
+      ]
+    },
+    {
+      "name": "Ralf Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "verkställande direktör",
+        "diplomekonom"
+      ]
+    },
+    {
+      "name": "Emil Höglund",
+      "alternateNames": [],
+      "deathYear": 1973,
+      "roles": [
+        "bergsråd"
+      ]
+    },
+    {
+      "name": "Leif Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "fotograf"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nålörn",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "pälsfarm"
+        },
+        {
+          "use": "pälsningscentral",
+          "startYear": 1972
+        }
+      ],
+      "geo": {
+        "lat": 63.542340705307474,
+        "lng": 22.532501198257712,
+        "match": "name",
+        "gazetteerName": "nålörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Frillmossen",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "pälsfarm",
+          "startYear": 1966
+        }
+      ]
+    },
+    {
+      "name": "Matapallmossen",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "pälsfarm"
+        }
+      ]
+    },
+    {
+      "name": "Lippjärv",
+      "kind": "district",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "pälsfarm"
+        }
+      ],
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Birger Sjöholms minkfarm",
+      "kind": "farm",
+      "alternateNames": [],
+      "address": "Soklot",
+      "uses": [
+        {
+          "use": "minkfarm",
+          "startYear": 1935
+        }
+      ],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "address",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby reningsverk",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Ragnörn",
+      "uses": [
+        {
+          "use": "reningsverk",
+          "startYear": 1974
+        }
+      ]
+    },
+    {
+      "name": "Ragnörn",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.51797704112232,
+        "lng": 22.52131347383679,
+        "match": "name",
+        "gazetteerName": "ragnörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Idrotts- och ungdomsgården",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52068762498356,
+        "lng": 22.514781434637346,
+        "match": "name",
+        "gazetteerName": "idrotts- och ungdomsgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby älv",
+      "kind": "waterbody",
+      "alternateNames": [
+        "älven"
+      ],
+      "geo": {
+        "lat": 63.52143194693046,
+        "lng": 22.524165959807195,
+        "match": "name",
+        "gazetteerName": "nykarleby älv",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörsfjärden",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58629777431156,
+        "lng": 22.447330826826224,
+        "match": "name",
+        "gazetteerName": "alörsfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjokivägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52817249999999,
+        "lng": 22.6088869,
+        "match": "name",
+        "gazetteerName": "kovjokivägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Frillmossavägen",
+      "kind": "street",
+      "alternateNames": [
+        "Frillmossvägen"
+      ],
+      "geo": {
+        "lat": 63.5291159,
+        "lng": 22.5510306,
+        "match": "name",
+        "gazetteerName": "frillmossavägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Västra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52218544975374,
+        "lng": 22.530324736737978,
+        "match": "name",
+        "gazetteerName": "västra esplanadgatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kantlax",
+      "kind": "village",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Birger Sjöholm börjar med mink",
+      "date": {
+        "year": 1935,
+        "circa": false
+      },
+      "description": "Birger Sjöholm i Soklot började föda upp mink med två honor och en hane, och farmen växte till en av de största.",
+      "people": [
+        "Birger Sjöholm"
+      ],
+      "places": [
+        "Birger Sjöholms minkfarm",
+        "Soklot"
+      ]
+    },
+    {
+      "title": "Frillmossen reserveras för farmer",
+      "date": {
+        "year": 1966,
+        "month": 10,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Nykarleby stad reserverade hela sitt område på Frillmossen för pälsdjursavel.",
+      "people": [],
+      "places": [
+        "Frillmossen"
+      ]
+    },
+    {
+      "title": "Pälsningscentral vid Nålörn",
+      "date": {
+        "year": 1972,
+        "circa": false
+      },
+      "description": "Farm-Frys byggde en pälsningscentral på farmområdet vid Nålörn.",
+      "people": [],
+      "places": [
+        "Nålörn"
+      ]
+    },
+    {
+      "title": "Förorenat dricksvatten",
+      "date": {
+        "year": 1974,
+        "month": 10,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Man upptäckte att dricksvattnet i Nykarleby, taget ur älven, innehöll farligt mycket bakterier efter att flera insjuknat.",
+      "people": [],
+      "places": [
+        "Nykarleby älv"
+      ]
+    },
+    {
+      "title": "Reningsverket tas över",
+      "date": {
+        "year": 1974,
+        "month": 11,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Det nya reningsverket vid Ragnörn slutgranskades och överlämnades till Nykarleby stad.",
+      "people": [],
+      "places": [
+        "Nykarleby reningsverk",
+        "Ragnörn"
+      ]
+    },
+    {
+      "title": "Stor skinnutställning",
+      "date": {
+        "year": 1975,
+        "month": 2,
+        "day": 7,
+        "circa": false
+      },
+      "description": "Landets dittills största riksutställning av mink- och rävskinn hölls i idrotts- och ungdomsgården i Nykarleby.",
+      "people": [],
+      "places": [
+        "Idrotts- och ungdomsgården"
+      ]
+    },
+    {
+      "title": "Vatten från Kovjoki",
+      "date": {
+        "year": 1976,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Nykarleby centrum anslöts till grundvattentäkten i Kovjoki.",
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Gemensam pälsningscentral",
+      "date": {
+        "year": 1978,
+        "circa": false
+      },
+      "description": "Farmarna i Nykarlebynejden centraliserade avpälsningen till Nykarleby pälsningscentral.",
+      "people": [
+        "Ralf Häggblom"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Birger Sjöholm",
+      "place": "Birger Sjöholms minkfarm",
+      "relation": "ran",
+      "startYear": 1935,
+      "endYear": 1963
+    }
+  ],
+  "images": [
+    {
+      "image": 2,
+      "places": [
+        "Nålörn"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Birger Sjöholms minkfarm",
+        "Soklot"
+      ],
+      "year": 1945
+    },
+    {
+      "image": 4,
+      "places": [],
+      "year": 1986
+    },
+    {
+      "image": 5,
+      "places": [],
+      "year": 1979
+    },
+    {
+      "image": 6,
+      "places": [
+        "Frillmossen",
+        "Kovjokivägen",
+        "Frillmossavägen"
+      ],
+      "year": 1990
+    },
+    {
+      "image": 7,
+      "places": [
+        "Idrotts- och ungdomsgården"
+      ],
+      "year": 1985
+    }
+  ],
+  "contentHash": "f78eae962750e8e3e9597c5fa7d6461872f3d086ae06d88a92be72746667cc87",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

@@ -54,6 +54,24 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Brostugan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "d7e69b060c98b103fb9a88d467ccfbdd9e5410af7d54639ca951ad9e66b8e216",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

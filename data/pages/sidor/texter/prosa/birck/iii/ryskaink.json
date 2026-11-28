@@ -1,0 +1,375 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/ryskaink.htm",
+  "title": "Den ryska inkvarteringen",
+  "summary": "Under första världskriget inkvarterades över tusen ryska soldater i lilla Nykarleby, bland annat i Normalskolan. Först togs de väl emot, med hornmusik och förlovningar, men trångboddhet, kostnader och stank väckte snart ovilja.",
+  "topics": [
+    "första världskriget",
+    "ryska garnisonen",
+    "inkvartering",
+    "Normalskolan",
+    "1915–1918"
+  ],
+  "people": [
+    {
+      "name": "Aug. Björklund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aug. Casén",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Hj. Björkvall",
+      "alternateNames": [],
+      "roles": [
+        "överlärare"
+      ]
+    },
+    {
+      "name": "K.J. Pensar",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "Stanisl. Brahotsky",
+      "alternateNames": [],
+      "roles": [
+        "kornett"
+      ]
+    },
+    {
+      "name": "Seliwerstoff",
+      "alternateNames": [],
+      "roles": [
+        "fänrik"
+      ]
+    },
+    {
+      "name": "Fomin",
+      "alternateNames": [],
+      "roles": [
+        "artillerilöjtnant",
+        "kommendant"
+      ]
+    },
+    {
+      "name": "Rtscheuloff",
+      "alternateNames": [],
+      "roles": [
+        "ryttmästare",
+        "kommendant"
+      ]
+    },
+    {
+      "name": "Razin",
+      "alternateNames": [],
+      "roles": [
+        "löjtnant",
+        "kommendant"
+      ]
+    },
+    {
+      "name": "Vinjarsky",
+      "alternateNames": [],
+      "roles": [
+        "kornett",
+        "kommendant"
+      ]
+    },
+    {
+      "name": "Österlund",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    },
+    {
+      "name": "A.W. Blomqvist",
+      "alternateNames": [],
+      "roles": [
+        "gårdsägare"
+      ]
+    },
+    {
+      "name": "Öhrling",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Normalskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "militärförläggning",
+          "startYear": 1916
+        }
+      ],
+      "geo": {
+        "lat": 63.52274980000001,
+        "lng": 22.528589,
+        "match": "name",
+        "gazetteerName": "normen",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid torget",
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1916
+        },
+        {
+          "use": "rådhus",
+          "startYear": 1916
+        }
+      ],
+      "geo": {
+        "lat": 63.52300251896424,
+        "lng": 22.528289334287365,
+        "match": "name",
+        "gazetteerName": "pensars gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Missionshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [
+        "seminariet"
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kampen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "övningsfält",
+          "startYear": 1917
+        }
+      ],
+      "geo": {
+        "lat": 63.5313258,
+        "lng": 22.5384526,
+        "match": "name",
+        "gazetteerName": "kampen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrktornet"
+      ],
+      "uses": [
+        {
+          "use": "utkikspunkt"
+        }
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "A.W. Blomqvists gård",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "gård nr 43",
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nylunds villa",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "vid Andra sjön",
+      "uses": [
+        {
+          "use": "kasern"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Första ryska truppen anländer",
+      "date": {
+        "year": 1915,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Den första ryska truppavdelningen, ett litet gränsbevakningskommando, kom till Nykarleby.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Normalskolan tas för inkvartering",
+      "date": {
+        "year": 1916,
+        "month": 5,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Senaten gav magistraten rätt att använda Normalskolan för inkvartering av rysk militär.",
+      "people": [],
+      "places": [
+        "Normalskolan"
+      ]
+    },
+    {
+      "title": "Övningsplats på Kampen",
+      "date": {
+        "year": 1917,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Militären fick Kampen som plats för löpgrav och övning i handgranatskastning.",
+      "people": [],
+      "places": [
+        "Kampen"
+      ]
+    },
+    {
+      "title": "Ersättning för skador",
+      "date": {
+        "year": 1922,
+        "month": 6,
+        "circa": false
+      },
+      "description": "Stadsfullmäktige beviljade familjen Nylund ersättning för skador som rysk militär orsakat i deras villa vid Andra sjön.",
+      "people": [],
+      "places": [
+        "Nylunds villa",
+        "Andra sjön"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Över tusen ryska soldater trängs i en stad med knappt tusen invånare. Hornorkestern spelar från skolans balkong och flickorna förlovar sig, men toaletterna stoppas igen och stanken sprider sig kring kyrkan.",
+    "reason": "Krocken mellan småstadsidyll och en jättegarnison ger både humor och allvar.",
+    "characters": [
+      "Öhrling"
+    ],
+    "places": [
+      "Normalskolan",
+      "Torget",
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "58730af2a9c3cb33407b8ac1abbc2fefea48c5a04e70c23cd0e5ad29ee7f55e5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

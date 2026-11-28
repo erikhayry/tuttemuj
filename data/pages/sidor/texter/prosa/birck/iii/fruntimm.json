@@ -1,0 +1,371 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/fruntimm.htm",
+  "title": "Fruntimmersskolan i Nykarleby",
+  "summary": "Lektor Gustaf Hedström grundade 1874 en privat fruntimmersskola i Nykarleby, som verkade i 35 år. Skolan tog också emot pojkar och flyttade mellan flera gårdar i staden.",
+  "topics": [
+    "fruntimmersskolan",
+    "flickskola",
+    "samskola",
+    "utbildning",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [
+        "Hedström"
+      ],
+      "roles": [
+        "lektor",
+        "föreståndare"
+      ]
+    },
+    {
+      "name": "Betty Carlsson",
+      "alternateNames": [
+        "Betty Carlson",
+        "Betty Hagfors"
+      ],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Aina Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Anna Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna",
+        "föreståndarinna"
+      ]
+    },
+    {
+      "name": "Petrell",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Hanna Castrén",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Ester Backman",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Maria Castrén",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "R. Ahlqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Matts Löfholm",
+      "alternateNames": [],
+      "roles": [
+        "arbetskarl"
+      ]
+    },
+    {
+      "name": "J.A. Norrlund",
+      "alternateNames": [
+        "J. A. Norrlund"
+      ],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "J. Henriksson",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Alfred Herler",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Paul Hedström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Einar Hedström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Torsten Söderström",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Paul Nessler",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Mikael Heikel",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Karl Grundfeldt",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Erik Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Fruntimmersskolan",
+      "kind": "other",
+      "alternateNames": [
+        "Privata flickskolan",
+        "Privata svenska samskolan i Nykarleby",
+        "Nykarleby samskola"
+      ],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1874,
+          "endYear": 1909
+        }
+      ],
+      "geo": {
+        "lat": 63.5236294,
+        "lng": 22.5307873,
+        "match": "name",
+        "gazetteerName": "nykarleby samskola",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "R. Ahlqvists gård",
+      "kind": "building",
+      "alternateNames": [
+        "Bergfeldts"
+      ],
+      "address": "Östra Esplanadgatan 13 (tomt nr 48)",
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1874
+        }
+      ],
+      "geo": {
+        "lat": 63.52078640189076,
+        "lng": 22.530357843479386,
+        "match": "name",
+        "gazetteerName": "bergfeldtska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Frostes gård",
+      "kind": "building",
+      "alternateNames": [
+        "Matts Löfholms gård",
+        "Sourander"
+      ],
+      "address": "Östra Esplanadgatan (tomt nr 66)",
+      "uses": [
+        {
+          "use": "skola",
+          "endYear": 1891
+        }
+      ]
+    },
+    {
+      "name": "Sundströmska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Holmströms gård",
+        "Sandqvist"
+      ],
+      "address": "tomt nr 43, Kyrkogatan 2",
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52334137631144,
+        "lng": 22.526668366978203,
+        "match": "name",
+        "gazetteerName": "holmströms gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "J. Henrikssons gård",
+      "kind": "building",
+      "alternateNames": [
+        "Frälsningsarmén"
+      ],
+      "address": "tomt nr 80 vid Östra Esplanadgatan",
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1904
+        }
+      ]
+    },
+    {
+      "name": "Rådhusgården",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhusgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Fruntimmersskolan öppnar",
+      "date": {
+        "year": 1874,
+        "circa": false
+      },
+      "description": "Gustaf Hedström fick i gång en privat fruntimmersskola i Nykarleby som på hösten hade 33 flickor.",
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "R. Ahlqvists gård",
+        "Fruntimmersskolan"
+      ]
+    },
+    {
+      "title": "Första gossarna",
+      "date": {
+        "year": 1881,
+        "circa": false
+      },
+      "description": "Fruntimmersskolan började ta emot gossar.",
+      "people": [],
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    },
+    {
+      "title": "Staden tar över",
+      "date": {
+        "year": 1896,
+        "month": 7,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Nykarleby stad övertog den privata fruntimmersskolan av Hedström.",
+      "people": [
+        "Gustaf Hedström"
+      ],
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    },
+    {
+      "title": "25-årsjubileum",
+      "date": {
+        "year": 1899,
+        "month": 5,
+        "day": 31,
+        "circa": false
+      },
+      "description": "Flickskolan firade 25 år och Hedström fick ett guldur av tacksamma elever, överräckt av Anna Henriksson.",
+      "people": [
+        "Gustaf Hedström",
+        "Anna Henriksson",
+        "Petrell"
+      ],
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    },
+    {
+      "title": "Skolan upphör",
+      "date": {
+        "year": 1908,
+        "endYear": 1909,
+        "circa": false
+      },
+      "description": "Fruntimmersskolans verksamhet upphörde efter 35 år.",
+      "people": [],
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Fruntimmersskolan"
+      ]
+    }
+  ],
+  "contentHash": "d37afca8804cc18a54e3803811b71145d8d338d5b331726b2f5477611719b569",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T10:50:19.159Z"
+}

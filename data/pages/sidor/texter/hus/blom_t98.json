@@ -95,6 +95,12 @@
       "kind": "building",
       "alternateNames": [
         "Backlunds skola"
+      ],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1859
+        }
       ]
     },
     {
@@ -102,6 +108,13 @@
       "kind": "building",
       "alternateNames": [
         "Gård nr 101"
+      ],
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1860,
+          "endYear": 1871
+        }
       ]
     },
     {
@@ -196,6 +209,71 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Fredrik Flén",
+      "place": "Gården 98",
+      "relation": "owned",
+      "startYear": 1858
+    },
+    {
+      "person": "Anna Gyllenberg",
+      "place": "Gården 98",
+      "relation": "owned",
+      "startYear": 1920,
+      "endYear": 1920
+    },
+    {
+      "person": "Matts Willman",
+      "place": "Gården 98",
+      "relation": "owned",
+      "endYear": 1928
+    },
+    {
+      "person": "Blondina Rönnholm",
+      "place": "Gården 98",
+      "relation": "owned"
+    },
+    {
+      "person": "Karl Blom",
+      "place": "Gården 98",
+      "relation": "owned"
+    },
+    {
+      "person": "Marta Blom",
+      "place": "Gården 98",
+      "relation": "owned"
+    },
+    {
+      "person": "Caisa Brunberg",
+      "place": "Gyllenbergska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Maria Brunberg",
+      "place": "Gård nr 53",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gården 98",
+        "Grev Tottgatan"
+      ],
+      "year": 2025
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T10:58:22.127Z"
+    }
+  ],
   "contentHash": "5e0801401f919b1b7234b1868d06257a504ab14d5dce965d1de6b9a3533e2f45",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",
