@@ -1,0 +1,155 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/taltk350f.html",
+  "title": "Brev till Elvi Haglund om Granlundska hemmet",
+  "summary": "I ett brev till Elvi Haglund 1970 minns J. L. Birck barndomens dagar i det Granlundska hemmet i Nykarleby: lekarna, en skärgårdsfärd till Lodören och en lampa som krossades under en begravningsbjudning hos grannen.",
+  "topics": [
+    "barndomsminnen",
+    "skärgården",
+    "grannliv",
+    "lyktändare"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Elvi Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Granlund",
+      "alternateNames": [
+        "moster Granlund",
+        "farbror Granlund"
+      ],
+      "roles": [
+        "lyktändare"
+      ]
+    },
+    {
+      "name": "Helge",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Arne",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Zaida",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lillqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Helmi Hellstrand",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Granlundska hemmet",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rankas backan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Lodören",
+      "kind": "island",
+      "alternateNames": [
+        "Lodör"
+      ]
+    },
+    {
+      "name": "Alören",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58255571909249,
+        "lng": 22.428276413635153,
+        "match": "name",
+        "gazetteerName": "alören",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Granskär",
+      "kind": "island",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Brev till Elvi Haglund",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 31,
+        "circa": false
+      },
+      "description": "J. L. Birck skickade sitt jubileumstal till Elvi Haglund i Nykarleby med minnen från hennes barndomshem.",
+      "people": [
+        "J. L. Birck",
+        "Elvi Haglund"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Medan de vuxna sitter på begravning i granngården dansar fyra barn i stugan, och pojken svänger Elvi så högt att hennes huvud slår i taklampan. Glaset krossas, men moster Granlund begär aldrig ersättning.",
+    "reason": "En komisk och rörande barndomsepisod med tydlig dramaturgi, omgiven av skärgårdsäventyr.",
+    "characters": [
+      "J. L. Birck",
+      "Elvi Haglund",
+      "Arne",
+      "Granlund"
+    ],
+    "places": [
+      "Granlundska hemmet",
+      "Lodören"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Elvi Haglund",
+      "place": "Granlundska hemmet",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "6b5e749e06317371a164142fe9d9c07876472e5de8a97235f8a82ece80fceb4e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

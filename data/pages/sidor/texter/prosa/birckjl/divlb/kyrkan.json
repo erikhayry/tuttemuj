@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/kyrkan.htm",
+  "title": "Min barndomskyrka, min ungdoms tempelgård",
+  "summary": "J. L. Birck mindes 1958, vid Nykarleby kyrkas 250-årsfest, julottorna i barndomens kyrka, skriftskolan i sockenstugan och nattvarden midsommaren 1902. Kyrkan vid älven blev för honom en bild av hela barndomen.",
+  "topics": [
+    "kyrkan",
+    "julotta",
+    "konfirmation",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Gästrin",
+      "alternateNames": [],
+      "roles": [
+        "organist"
+      ]
+    },
+    {
+      "name": "Nessler",
+      "alternateNames": [],
+      "roles": [
+        "kantor"
+      ]
+    },
+    {
+      "name": "Karl Viktor Petrell",
+      "alternateNames": [],
+      "roles": [
+        "herde",
+        "skriftskollärare"
+      ]
+    },
+    {
+      "name": "Werner Bengs",
+      "alternateNames": [],
+      "roles": [
+        "präst",
+        "skriftskollärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kyrka"
+        }
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skriftskola"
+        }
+      ],
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ragnörsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5358546,
+        "lng": 22.5325748,
+        "match": "name",
+        "gazetteerName": "ragnörsforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Midsommardagens nattvard",
+      "date": {
+        "year": 1902,
+        "circa": false,
+        "text": "Midsommardagen 1902"
+      },
+      "description": "Den unge J. L. Birck fick en stark andlig upplevelse vid altarrunden i Nykarleby kyrka på midsommardagen.",
+      "people": [
+        "J. L. Birck",
+        "Werner Bengs"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Kyrkans 250-årsminne",
+      "date": {
+        "year": 1958,
+        "month": 11,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Nykarleby församling firade kyrkans 250-årsminne med en församlingsfest där J. L. Birck framförde en hälsning.",
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Tre femåringar smyger in i Nykarleby kyrka en sommarsöndag och kommenterar högljutt allt de ser, tills kyrkvärdens blick får dem att stelna. Julottans klockor, lanternor och dimmande ljus väntar några månader bort.",
+    "reason": "En rolig barndomsscen och stämningsfulla julbilder går utmärkt att teckna.",
+    "characters": [
+      "J. L. Birck"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "sockenstugan"
+      ]
+    }
+  ],
+  "contentHash": "973a2b680be6507a157479e01ad668414ce7d2dba6d9707c53b54122c3d87cda",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

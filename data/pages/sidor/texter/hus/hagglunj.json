@@ -140,6 +140,42 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Erik Forsman",
+      "place": "Joel Hägglunds gård",
+      "relation": "owned",
+      "startYear": 1858
+    },
+    {
+      "person": "Karolina Sundberg",
+      "place": "Joel Hägglunds gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Joel Hägglund",
+      "place": "Joel Hägglunds gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Joel Hägglunds gård",
+        "Lybecksgatan"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "6e1fcc63ec357665a9cbe53004a2fefba2def215c8eba7dc76b98a9cea90a3e1",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

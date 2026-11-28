@@ -144,6 +144,11 @@
         "Tomt 42"
       ],
       "address": "Bankgatan 4",
+      "uses": [
+        {
+          "use": "bankkontor"
+        }
+      ],
       "geo": {
         "lat": 63.5229781,
         "lng": 22.5281705,
@@ -160,6 +165,15 @@
         "Tomt 20"
       ],
       "address": "Topeliusesplanaden 5",
+      "uses": [
+        {
+          "use": "hotell"
+        },
+        {
+          "use": "butik",
+          "startYear": 1917
+        }
+      ],
       "geo": {
         "lat": 63.52146810000001,
         "lng": 22.5306678,
@@ -244,6 +258,12 @@
         "Tomt 39"
       ],
       "address": "Topeliusesplanaden 11",
+      "uses": [
+        {
+          "use": "bankkontor",
+          "startYear": 1917
+        }
+      ],
       "geo": {
         "lat": 63.5227604,
         "lng": 22.531258,
@@ -521,7 +541,15 @@
       "alternateNames": [
         "Tomt 26"
       ],
-      "address": "Gustav Adolfsgatan 14"
+      "address": "Gustav Adolfsgatan 14",
+      "uses": [
+        {
+          "use": "brandkårshus"
+        },
+        {
+          "use": "missionshus"
+        }
+      ]
     },
     {
       "name": "Gustav Adolfsgatan 34",
@@ -783,7 +811,12 @@
       "alternateNames": [
         "Tomt 95"
       ],
-      "address": "Topeliusesplanaden 27"
+      "address": "Topeliusesplanaden 27",
+      "uses": [
+        {
+          "use": "barnbördshus"
+        }
+      ]
     },
     {
       "name": "Gustav Adolfsgatan 41",
@@ -820,6 +853,12 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Karleborgsgatan 1",
+      "uses": [
+        {
+          "use": "föreningslokal",
+          "startYear": 1918
+        }
+      ],
       "geo": {
         "lat": 63.5198641,
         "lng": 22.5342084,
@@ -973,7 +1012,12 @@
       "alternateNames": [
         "Tomt 24V"
       ],
-      "address": "Sollefteågatan 16"
+      "address": "Sollefteågatan 16",
+      "uses": [
+        {
+          "use": "bilverkstad"
+        }
+      ]
     },
     {
       "name": "Gustav Adolfsgatan 3",
@@ -3617,6 +3661,58 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "S. Myntti",
+      "place": "Bangatan 11",
+      "relation": "owned",
+      "startYear": 1894,
+      "endYear": 1896
+    },
+    {
+      "person": "S. Myntti",
+      "place": "Karleborgsgatan 5",
+      "relation": "owned",
+      "endYear": 1907
+    },
+    {
+      "person": "Axel Backlund",
+      "place": "Kyrkogatan 7",
+      "relation": "owned",
+      "startYear": 1920
+    },
+    {
+      "person": "Axel Backlund",
+      "place": "Topeliusesplanaden 13",
+      "relation": "owned",
+      "startYear": 1922,
+      "endYear": 1925
+    },
+    {
+      "person": "Joel Nilsson",
+      "place": "Grev Tottgatan 14",
+      "relation": "owned",
+      "endYear": 1941
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Topeliusesplanaden"
+      ],
+      "year": 2017
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "f3b4c2a3f24d70b6bea97b9af2b006e0957c92f7bfe730509e8ce11f8264d3c6",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

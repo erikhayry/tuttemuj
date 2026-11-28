@@ -1,0 +1,210 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/bodfrok1.htm",
+  "title": "Bodfrökens brev från 1880-talets Nykarleby I",
+  "summary": "Bodbiträdet Mia vid torget i Nykarleby skriver 1883 till en väninna om krocket, bastu, uppvaktare och en utfärd till Lippjärv. J. L. Birck återger breven, som visar småstadens nöjen och klasskillnader ur en ung bodfrökens synvinkel.",
+  "topics": [
+    "brev",
+    "1880-talet",
+    "småstadsliv",
+    "bodbiträde",
+    "första maj"
+  ],
+  "people": [
+    {
+      "name": "Mia",
+      "alternateNames": [],
+      "roles": [
+        "bodbiträde"
+      ]
+    },
+    {
+      "name": "Hilda",
+      "alternateNames": [],
+      "roles": [
+        "bodbiträde"
+      ]
+    },
+    {
+      "name": "Loa",
+      "alternateNames": [],
+      "roles": [
+        "affärsinnehavare"
+      ]
+    },
+    {
+      "name": "Viva",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Rosa Rank",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Mia Ahlqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Vivi Appelberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "Johan Ludvig Birck"
+      ],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "stora bron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "stora bron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Lippjärv",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5281064,
+        "lng": 22.6058524,
+        "match": "name",
+        "gazetteerName": "lippjärv",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nyvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5680681,
+        "lng": 22.569299,
+        "match": "name",
+        "gazetteerName": "nyvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kroken",
+      "kind": "landmark",
+      "alternateNames": [
+        "juthbackakroken"
+      ],
+      "description": "Landsvägskrok nära Juthbacka."
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Haga",
+      "kind": "district",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Utfärd till Lippjärv",
+      "date": {
+        "year": 1883,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Mia och några unga vänner spatserade från Nykarleby till Lippjärv för att äta filfrukost, dansa och leka.",
+      "people": [
+        "Mia",
+        "Hilda",
+        "Loa",
+        "Rosa Rank",
+        "Mia Ahlqvist"
+      ],
+      "places": [
+        "Lippjärv"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Bodfröken Mia vandrar hem från filfrukosten i Lippjärv i regn, med lånade dukar om axlarna och hatten knuten i näsduken, medan svartsjuka blickar flyger i vänskaran. Samtidigt ser hon herrskapet gå på utfärd och undrar om hon räknas som ingenting för att hon är fattig.",
+    "reason": "Kvicka brev med flirt, skvaller och klasskänslor ger levande scener.",
+    "characters": [
+      "Mia",
+      "Hilda",
+      "Loa"
+    ],
+    "places": [
+      "Lippjärv",
+      "torget"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Mia",
+      "place": "torget",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "9f340f2c34b31507f6828f788df2e19da48e91286cf447ac3249eb1e4928728a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

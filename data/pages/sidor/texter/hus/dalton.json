@@ -125,6 +125,24 @@
         "Daltons"
       ],
       "address": "Sollefteågatan 1",
+      "uses": [
+        {
+          "use": "tullhus"
+        },
+        {
+          "use": "jeansaffär",
+          "startYear": 1978
+        },
+        {
+          "use": "tandklinik"
+        },
+        {
+          "use": "mjölkbutik"
+        },
+        {
+          "use": "matservering"
+        }
+      ],
       "geo": {
         "lat": 63.5221001,
         "lng": 22.5262244,
@@ -143,7 +161,15 @@
       "name": "Liljeqvistska huset",
       "kind": "building",
       "alternateNames": [],
-      "description": "Hörnet av Esplanaden och Bankgatan."
+      "description": "Hörnet av Esplanaden och Bankgatan.",
+      "uses": [
+        {
+          "use": "bostad"
+        },
+        {
+          "use": "affär"
+        }
+      ]
     },
     {
       "name": "Rajåkern",
@@ -269,6 +295,111 @@
       "Dalton jeans shop"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Brylle Nylund",
+      "place": "Södra tullhuset",
+      "relation": "ran",
+      "startYear": 1978,
+      "endYear": 1984
+    },
+    {
+      "person": "Maija-Liisa Nyqvist",
+      "place": "Dalton jeans shop",
+      "relation": "ran",
+      "startYear": 1984,
+      "endYear": 1986
+    },
+    {
+      "person": "Maria Lassus",
+      "place": "Dalton jeans shop",
+      "relation": "ran",
+      "startYear": 1986
+    },
+    {
+      "person": "Håkan Kivinen",
+      "place": "Södra tullhuset",
+      "relation": "owned"
+    },
+    {
+      "person": "Håkan Kivinen",
+      "place": "Södra tullhuset",
+      "relation": "worked"
+    },
+    {
+      "person": "Lauri Kujala",
+      "place": "Södra tullhuset",
+      "relation": "owned"
+    },
+    {
+      "person": "Rut Kujala",
+      "place": "Södra tullhuset",
+      "relation": "owned"
+    },
+    {
+      "person": "Mauritz Siegfrids",
+      "place": "Södra tullhuset",
+      "relation": "lived",
+      "startYear": 1918,
+      "endYear": 1921
+    },
+    {
+      "person": "Alexandra Siegfrids",
+      "place": "Södra tullhuset",
+      "relation": "ran"
+    },
+    {
+      "person": "Alexandra Siegfrids",
+      "place": "Liljeqvistska huset",
+      "relation": "lived"
+    },
+    {
+      "person": "Wilhelm Siegfrids",
+      "place": "Liljeqvistska huset",
+      "relation": "ran"
+    },
+    {
+      "person": "Betty Nygård",
+      "place": "Södra tullhuset",
+      "relation": "ran"
+    },
+    {
+      "person": "Lasse Wiklund",
+      "place": "Rajåkern",
+      "relation": "built"
+    },
+    {
+      "person": "Lasse Wiklund",
+      "place": "Rajåkern",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Dalton jeans shop",
+        "Södra tullhuset",
+        "Sollefteågatan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Dalton jeans shop"
+      ],
+      "year": 1986
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "b8724e999091677171c87fc962f4e20e965ff5133b833df49f3bdab303bb5ca2",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,120 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/markn1jb.htm",
+  "title": "Min barndoms marknader I",
+  "summary": "Två gånger om året fylldes 1890-talets lilla Nykarleby av marknadsfolk, hästar och positiv. J. L. Birck skildrar trängseln vid apoteket, ”guttagummorna” med brödkorgar på torget, ryska frukthandlare, guldsmeder och flickor med ankarstockar i famnen.",
+  "topics": [
+    "marknad",
+    "torghandel",
+    "1890-talet",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "Johan Ludvig Birck"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Hällströms Anna",
+      "alternateNames": [],
+      "roles": [
+        "torgförsäljare"
+      ]
+    },
+    {
+      "name": "Lill-Fina",
+      "alternateNames": [],
+      "roles": [
+        "torgförsäljare"
+      ]
+    },
+    {
+      "name": "Brödfia",
+      "alternateNames": [],
+      "roles": [
+        "torgförsäljare"
+      ]
+    },
+    {
+      "name": "Markéns Mommo",
+      "alternateNames": [],
+      "roles": [
+        "torgförsäljare"
+      ]
+    },
+    {
+      "name": "Wickström",
+      "alternateNames": [],
+      "roles": [
+        "kopparslagare"
+      ]
+    },
+    {
+      "name": "Herpeus' Anna",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "marknad"
+        }
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "apoteket",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "apotek"
+        }
+      ],
+      "geo": {
+        "lat": 63.5241233,
+        "lng": 22.5285013,
+        "match": "name",
+        "gazetteerName": "apoteket",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En marsmarknad svämmar torget över av hästar, positiv och doften av apoteksdroppar. Härmäflickor i regnbågsfärgade kjolar marscherar stolt fram och tillbaka med famnen full av bröd från sina kavaljerer, tills fållarna rasslar av is.",
+    "reason": "Färgstark folkvimmelmiljö med tydliga bilder, även om handlingen är tunn.",
+    "characters": [
+      "J. L. Birck"
+    ],
+    "places": [
+      "torget",
+      "apoteket"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "933c6562b6a17c382de80ac1624b9beb7ee9d05915a068fbb696c195007854e5",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

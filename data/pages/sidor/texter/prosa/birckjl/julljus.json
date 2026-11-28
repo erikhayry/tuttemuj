@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/julljus.htm",
+  "title": "Julljus – livsljus: barndomsminne från Nykarleby",
+  "summary": "J. L. Birck minns barndomens jul i Nykarleby med torrfiskdoft i handelsbodarna, lyktstänger, stjärngossar och julottan i kyrkan. Bland de levande ljusen fruktar en liten pojke att hans trötta mors livsljus håller på att brinna ut.",
+  "topics": [
+    "jul",
+    "barndomsminnen",
+    "julotta",
+    "stjärngossar",
+    "julmat"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "gosskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    },
+    {
+      "name": "flickskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Under julottan i den iskalla kyrkan minns en pojke sagan om livsljusen och ser ett kort, flämtande ljus som han tror är mors. Han ber förtvivlat att kyrkväktaren ska komma med nya, långa ljus innan det slocknar.",
+    "reason": "En stark inre scen där ljus, saga och barnets rädsla går att berätta helt i bilder.",
+    "characters": [
+      "J. L. Birck"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby kyrka"
+      ],
+      "year": 1980
+    }
+  ],
+  "contentHash": "285dcb9beb440e553025990e14993216980e43260acd9823138b809811a84df0",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

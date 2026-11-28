@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/bjorkstg/nystrom/verksinl.htm",
+  "title": "Kristliga Folkhögskolans verksamhet inleds",
+  "summary": "Johannes Nyström utformade läroplanen för Kristliga Folkhögskolan i Nykarleby, där religionen stod i centrum. Skolan började den 2 november med 37 elever medan bygget ännu pågick, och den invigdes i december 1920.",
+  "topics": [
+    "folkhögskola",
+    "kristendom",
+    "läroplan",
+    "invigning",
+    "1920-talet"
+  ],
+  "people": [
+    {
+      "name": "Johannes Nyström",
+      "alternateNames": [],
+      "roles": [
+        "folkhögskoleföreståndare"
+      ]
+    },
+    {
+      "name": "Anders Sandbacka",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anders Skeppar",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Elvira Nordström",
+      "alternateNames": [],
+      "roles": [
+        "handarbetslärarinna"
+      ]
+    },
+    {
+      "name": "Maria Skeppar",
+      "alternateNames": [],
+      "roles": [
+        "husmor"
+      ]
+    },
+    {
+      "name": "Gustaf Johansson",
+      "alternateNames": [],
+      "roles": [
+        "ärkebiskop"
+      ]
+    },
+    {
+      "name": "Gustav Björkstrand",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kristliga Folkhögskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "folkhögskola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5275083,
+        "lng": 22.5269437,
+        "match": "name",
+        "gazetteerName": "kristliga folkhögskolan i nykarleby",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Folkhögskolan invigs",
+      "date": {
+        "year": 1920,
+        "month": 12,
+        "day": 5,
+        "circa": false
+      },
+      "description": "Anders Sandbacka invigde Kristliga Folkhögskolan i Nykarleby inför en fullsatt publik.",
+      "people": [
+        "Anders Sandbacka",
+        "Johannes Nyström"
+      ],
+      "places": [
+        "Kristliga Folkhögskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Johannes Nyström",
+      "place": "Kristliga Folkhögskolan",
+      "relation": "worked"
+    },
+    {
+      "person": "Anders Skeppar",
+      "place": "Kristliga Folkhögskolan",
+      "relation": "worked"
+    },
+    {
+      "person": "Elvira Nordström",
+      "place": "Kristliga Folkhögskolan",
+      "relation": "worked"
+    },
+    {
+      "person": "Maria Skeppar",
+      "place": "Kristliga Folkhögskolan",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "1b1826e0ed223f888a956ac622c8b0b30d7208d3de8be66597b0df17a3a2186c",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

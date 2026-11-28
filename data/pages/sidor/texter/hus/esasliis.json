@@ -106,14 +106,31 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Lybecksgatan 21",
-      "description": "Byggd i början av 1860-talet av två f.d. sjömän; riven i maj 1948."
+      "description": "Byggd i början av 1860-talet av två f.d. sjömän; riven i maj 1948.",
+      "uses": [
+        {
+          "use": "bostad",
+          "startYear": 1897,
+          "endYear": 1948
+        },
+        {
+          "use": "botarmottagning"
+        }
+      ],
+      "nameOrigin": "Stugan är uppkallad efter Liisa Markkula, kallad Esas Liisa, som bodde där och behandlade folks krämpor."
     },
     {
       "name": "Fagerholms hus",
       "kind": "building",
       "alternateNames": [],
       "address": "Lybecksgatan 21",
-      "description": "Byggt 1948."
+      "description": "Byggt 1948.",
+      "uses": [
+        {
+          "use": "bostad",
+          "startYear": 1948
+        }
+      ]
     },
     {
       "name": "Lybecksgatan",
@@ -219,6 +236,69 @@
       "Esas Liisas stuga"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Liisa Markkula",
+      "place": "Esas Liisas stuga",
+      "relation": "lived",
+      "startYear": 1897,
+      "endYear": 1935
+    },
+    {
+      "person": "Esaias Markkula",
+      "place": "Esas Liisas stuga",
+      "relation": "lived",
+      "startYear": 1897,
+      "endYear": 1936
+    },
+    {
+      "person": "Liisa Markkula",
+      "place": "Esas Liisas stuga",
+      "relation": "worked"
+    },
+    {
+      "person": "Johan Emil Fagerholm",
+      "place": "Esas Liisas stuga",
+      "relation": "owned"
+    },
+    {
+      "person": "Johan Emil Fagerholm",
+      "place": "Esas Liisas stuga",
+      "relation": "lived",
+      "startYear": 1937
+    },
+    {
+      "person": "Gösta Fagerholm",
+      "place": "Esas Liisas stuga",
+      "relation": "lived",
+      "startYear": 1937
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Esas Liisas stuga",
+        "Lybecksgatan"
+      ],
+      "year": 1938
+    },
+    {
+      "image": 2,
+      "places": [
+        "Fagerholms hus"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "ec014752610fc73ef96a56d895dd93965c1bc40ccbae00fa43fa5925370b0262",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

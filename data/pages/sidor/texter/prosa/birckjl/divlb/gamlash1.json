@@ -1,0 +1,178 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/gamlash1.htm",
+  "title": "De gamlas hem på Bangatan",
+  "summary": "Inspektor Frans Gestrin testamenterade 1925 sin gård vid Bangatan 3 till föreningen De Gamlas Hem i Nykarleby. Gården såldes senare, och 1933 öppnade hemmet i Lybeckska gården på Lybecksgatan.",
+  "topics": [
+    "åldringsvård",
+    "De Gamlas Hem",
+    "donation",
+    "föreningar"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Frans Gestrin",
+      "alternateNames": [],
+      "birthYear": 1844,
+      "deathYear": 1925,
+      "roles": [
+        "jordbruksinspektor",
+        "donator"
+      ]
+    },
+    {
+      "name": "Anders Gestrin",
+      "alternateNames": [],
+      "roles": [
+        "organist"
+      ]
+    },
+    {
+      "name": "Ida Tanskanen",
+      "alternateNames": [],
+      "roles": [
+        "diakonissa"
+      ]
+    },
+    {
+      "name": "Carl Castrén",
+      "alternateNames": [],
+      "roles": [
+        "affärsman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Gestrinska gården",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bangatan 3",
+      "uses": [
+        {
+          "use": "bostadshus",
+          "startYear": 1927
+        }
+      ],
+      "geo": {
+        "lat": 63.52083339999999,
+        "lng": 22.5282273,
+        "match": "address",
+        "gazetteerName": "bangatan 3",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lybeckska gården",
+      "kind": "building",
+      "alternateNames": [
+        "gården nr 63"
+      ],
+      "address": "Lybecksgatan 1",
+      "description": "Gård nr 63 i II stadsdelen.",
+      "uses": [
+        {
+          "use": "ålderdomshem",
+          "startYear": 1933
+        }
+      ],
+      "geo": {
+        "lat": 63.5249153,
+        "lng": 22.5291085,
+        "match": "address",
+        "gazetteerName": "lybecksgatan 1",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Gestrins testamente",
+      "date": {
+        "year": 1925,
+        "month": 2,
+        "day": 22,
+        "circa": false
+      },
+      "description": "Frans Gestrin testamenterade sin gård och tomt vid Bangatan 3 till föreningen De Gamlas Hem i Nykarleby.",
+      "people": [
+        "Frans Gestrin"
+      ],
+      "places": [
+        "Gestrinska gården"
+      ]
+    },
+    {
+      "title": "Gestrinska gården renoveras",
+      "date": {
+        "year": 1927,
+        "circa": false
+      },
+      "description": "Gestrinska gården renoverades och hyrdes ut som två bostäder åt medlemmar i föreningen De Gamlas Hem.",
+      "people": [],
+      "places": [
+        "Gestrinska gården"
+      ]
+    },
+    {
+      "title": "De Gamlas Hem öppnar",
+      "date": {
+        "year": 1933,
+        "month": 9,
+        "day": 15,
+        "circa": false
+      },
+      "description": "De Gamlas Hem öppnades i Lybeckska gården på Lybecksgatan 1 i Nykarleby.",
+      "people": [],
+      "places": [
+        "Lybeckska gården"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Frans Gestrin",
+      "place": "Gestrinska gården",
+      "relation": "owned",
+      "endYear": 1925
+    },
+    {
+      "person": "Anders Gestrin",
+      "place": "Gestrinska gården",
+      "relation": "owned"
+    },
+    {
+      "person": "Carl Castrén",
+      "place": "Lybeckska gården",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "05afa54ef492385fb54a4d555fac243fb2b25bb66a3926072b3d970e3bc7e6e4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

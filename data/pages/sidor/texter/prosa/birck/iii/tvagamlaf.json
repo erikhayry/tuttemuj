@@ -1,0 +1,272 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/tvagamlaf.htm",
+  "title": "Två gamla farleder upptas på nytt",
+  "summary": "Den nya hamnen vid Andra sjön krävde genare farleder, och på 1870-talet pejlade fiskare och sjömätare två leder förbi Aspskär. Sidan berättar också om sjömärket och kummelresterna på Tornskär, som skäret har namn efter.",
+  "topics": [
+    "farleder",
+    "hamnen",
+    "skärgård",
+    "sjömärken",
+    "lotsar"
+  ],
+  "people": [
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "C. J. Ahlström",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Maximoff",
+      "alternateNames": [],
+      "roles": [
+        "kapten",
+        "chef för sjömätningsexpeditionen"
+      ]
+    },
+    {
+      "name": "Gustaf Viktor Fredenberg",
+      "alternateNames": [],
+      "roles": [
+        "tulluppsyningsman"
+      ]
+    },
+    {
+      "name": "Matts Gustafsson Henriksnäs",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Bonäsfjärden"
+      ],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Aspskär",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.58957194719679,
+        "lng": 22.37897508331219,
+        "match": "name",
+        "gazetteerName": "aspskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Aspskärssund",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Tornskär",
+      "kind": "island",
+      "alternateNames": [
+        "Torngrund",
+        "Karsgrund",
+        "Kasgrund"
+      ],
+      "uses": [
+        {
+          "use": "sjömärke"
+        }
+      ],
+      "nameOrigin": "Skärets namn går tillbaka på det gamla sjömärket, en kase eller båk och senare ett kummel, som redan på 1600-talet visade var farleden till staden började.",
+      "geo": {
+        "lat": 63.59797996305235,
+        "lng": 22.334004107983414,
+        "match": "name",
+        "gazetteerName": "tornskär",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kubbans lotsplats",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "lotsplats"
+        }
+      ]
+    },
+    {
+      "name": "Torsö fjärd",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Torsöfjärden"
+      ],
+      "geo": {
+        "lat": 63.5953832,
+        "lng": 22.4123875,
+        "match": "name",
+        "gazetteerName": "torsöfjärden",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Torsön",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.6093081,
+        "lng": 22.3860427,
+        "match": "name",
+        "gazetteerName": "torsön",
+        "gazetteerKind": "island",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Hummelskär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Soklothällan",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.641935178752654,
+        "lng": 22.417153909643126,
+        "match": "name",
+        "gazetteerName": "soklothällan",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Djupsten",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5677881,
+        "lng": 22.4825295,
+        "match": "name",
+        "gazetteerName": "djupsten",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ny farled pejlas",
+      "date": {
+        "year": 1874,
+        "circa": false
+      },
+      "description": "Fiskarna Matts Boman och C. J. Ahlström undersökte en ny farled genom Aspskärssund till Torsö fjärd.",
+      "people": [
+        "Matts Boman",
+        "C. J. Ahlström"
+      ],
+      "places": [
+        "Aspskärssund",
+        "Torsö fjärd"
+      ]
+    },
+    {
+      "title": "Senaten godkänner två farleder",
+      "date": {
+        "year": 1877,
+        "month": 6,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Senaten tillät att två nya farleder förbi Aspskär prickades ut och togs i allmänt bruk.",
+      "people": [
+        "Maximoff"
+      ],
+      "places": [
+        "Aspskär"
+      ]
+    },
+    {
+      "title": "Sjömärke på Tornskär",
+      "date": {
+        "year": 1885,
+        "circa": false
+      },
+      "description": "Bonden Matts Gustafsson Henriksnäs från Vexala fick entreprenaden att uppföra ett sjömärke på Tornskär.",
+      "people": [
+        "Matts Gustafsson Henriksnäs"
+      ],
+      "places": [
+        "Tornskär"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Andra sjön"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Tornskär"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 3,
+      "places": [
+        "Tornskär"
+      ],
+      "year": 2005
+    }
+  ],
+  "contentHash": "7360f6c34af390ecc34ae2473ae6d526ea5de6c09d0ae1e9702e1c3da9f8f60b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

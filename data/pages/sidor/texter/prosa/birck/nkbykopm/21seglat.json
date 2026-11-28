@@ -1,0 +1,254 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/21seglat.htm",
+  "title": "En nykarlebyköpman: seglationen på Umeå",
+  "summary": "Under Krimkriget 1854 seglade slupen Nahebe med Nykarlebytjära till Umeå och hem med salt och järn. Köpmannen Collander dog i mars 1855, och hans fiskestuga på Alörn såldes till Emilie Topelius.",
+  "topics": [
+    "handel",
+    "Umeå",
+    "Krimkriget",
+    "sjöfart",
+    "1850-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Josef Collander",
+        "Collander"
+      ],
+      "deathYear": 1855,
+      "roles": [
+        "köpman",
+        "rådman"
+      ]
+    },
+    {
+      "name": "Johan Östman",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Olof Forssell",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gustaf Adolf Montgomery",
+      "alternateNames": [],
+      "roles": [
+        "landshövding"
+      ]
+    },
+    {
+      "name": "Lundström",
+      "alternateNames": [],
+      "roles": [
+        "revisor"
+      ]
+    },
+    {
+      "name": "C.W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "C.W. Fontell",
+      "alternateNames": [],
+      "roles": [
+        "doktor"
+      ]
+    },
+    {
+      "name": "Gustaf Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Matts Juth",
+      "alternateNames": [],
+      "roles": [
+        "dräng"
+      ]
+    },
+    {
+      "name": "A.A. Lewon",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "Emilie Topelius",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nålörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.542340705307474,
+        "lng": 22.532501198257712,
+        "match": "name",
+        "gazetteerName": "nålörn",
+        "gazetteerKind": "other",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alörn",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5748625,
+        "lng": 22.4329816,
+        "match": "name",
+        "gazetteerName": "alörn",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Majniemi",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Fiskestuga på södra udden av Alörn.",
+      "uses": [
+        {
+          "use": "fiskestuga"
+        }
+      ],
+      "geo": {
+        "lat": 63.5733301,
+        "lng": 22.4538428,
+        "match": "name",
+        "gazetteerName": "majniemi",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "gården nr 17",
+      "kind": "building",
+      "alternateNames": [
+        "gård 17 i gamla nykarleby"
+      ],
+      "description": "Collanders gård i staden."
+    },
+    {
+      "name": "beckbruket",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "beckbruk"
+        }
+      ]
+    },
+    {
+      "name": "Nykarleby yttre redd",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Nahebe återvänder från Umeå",
+      "date": {
+        "year": 1854,
+        "month": 11,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Kapten Johan Östman kom tillbaka till Nykarleby yttre redd med salt och järn från Umeå.",
+      "people": [
+        "Johan Östman"
+      ],
+      "places": [
+        "Nykarleby yttre redd"
+      ]
+    },
+    {
+      "title": "Rådman Collander avlider",
+      "date": {
+        "year": 1855,
+        "month": 3,
+        "day": 17,
+        "circa": false
+      },
+      "description": "Rådman Carl Josef Collander, en av Nykarlebys driftigaste affärsmän, avled.",
+      "people": [
+        "Carl Josef Collander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Fiskestugan säljs till Emilie Topelius",
+      "date": {
+        "year": 1855,
+        "circa": false,
+        "text": "våren 1855"
+      },
+      "description": "Collanders änka sålde fiskestugan Majniemi på Alörn till fru Emilie Topelius.",
+      "people": [
+        "Emilie Topelius"
+      ],
+      "places": [
+        "Majniemi",
+        "Alörn"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Mitt under blockaden seglar kapten Östman med tjära till Umeå, där den hederliga farbror Forssell visar sig vilja fylla pungen. Hemma tynar köpman Collander bort men gör affärer in i det sista.",
+    "reason": "Krigstida seglatser, en slug handelspartner och köpmannens sista dagar ger en avrundad berättelse.",
+    "characters": [
+      "Carl Josef Collander",
+      "Johan Östman",
+      "Olof Forssell"
+    ],
+    "places": [
+      "Nykarleby yttre redd"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl Josef Collander",
+      "place": "gården nr 17",
+      "relation": "owned",
+      "endYear": 1855
+    },
+    {
+      "person": "Carl Josef Collander",
+      "place": "Majniemi",
+      "relation": "owned"
+    },
+    {
+      "person": "Carl Josef Collander",
+      "place": "beckbruket",
+      "relation": "owned",
+      "endYear": 1855
+    },
+    {
+      "person": "Emilie Topelius",
+      "place": "Majniemi",
+      "relation": "owned",
+      "startYear": 1855
+    }
+  ],
+  "images": [],
+  "contentHash": "9efe88d6d687036aa325f9c3321a5c2277c89a772bf4654e4d87d8f4d1d20bc8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

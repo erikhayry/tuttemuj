@@ -87,6 +87,11 @@
         "Sveas hus"
       ],
       "address": "Karleborgsgatan 15",
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ],
       "geo": {
         "lat": 63.5241189,
         "lng": 22.5363106,
@@ -180,6 +185,95 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "W. Forsberg",
+      "place": "Systrarna Forsells gård",
+      "relation": "owned",
+      "startYear": 1861
+    },
+    {
+      "person": "August Wilhelm Forsell",
+      "place": "Systrarna Forsells gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Svea Forsell",
+      "place": "Systrarna Forsells gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Elsa Cecilia Forsell",
+      "place": "Systrarna Forsells gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Anna Lovisa Forsell",
+      "place": "Systrarna Forsells gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Elsa Cecilia Forsell",
+      "place": "Telefoncentralen",
+      "relation": "worked"
+    },
+    {
+      "person": "Tom Fagerudd",
+      "place": "Systrarna Forsells gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Maria Fagerudd",
+      "place": "Systrarna Forsells gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Systrarna Forsells gård",
+        "Karleborgsgatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Systrarna Forsells gård"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Systrarna Forsells gård",
+        "Karleborgsgatan"
+      ],
+      "year": 1998
+    },
+    {
+      "image": 4,
+      "places": [
+        "Systrarna Forsells gård"
+      ],
+      "year": 1995
+    },
+    {
+      "image": 5,
+      "places": [
+        "Systrarna Forsells gård"
+      ],
+      "year": 2015
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "44525b9d2b45f65cb07029a3bcad0899a060e1da051011d0b19e66dce51977a3",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

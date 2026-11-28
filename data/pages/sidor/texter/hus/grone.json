@@ -67,12 +67,22 @@
       "name": "Joel Nilssons gård",
       "kind": "building",
       "alternateNames": [],
-      "address": "Grev Tottgatan 14"
+      "address": "Grev Tottgatan 14",
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ]
     },
     {
       "name": "Gamla stationshuset",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "plåtverkstad"
+        }
+      ]
     }
   ],
   "events": [
@@ -93,6 +103,47 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Smeds",
+      "place": "Joel Nilssons gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Emil Grön",
+      "place": "Joel Nilssons gård",
+      "relation": "owned",
+      "startYear": 1967
+    },
+    {
+      "person": "Helga Grön",
+      "place": "Joel Nilssons gård",
+      "relation": "owned",
+      "startYear": 1967
+    },
+    {
+      "person": "Emil Grön",
+      "place": "Gamla stationshuset",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Joel Nilssons gård"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "e8462465e621d2e8472444e722286c45e1ab074e929c09489e6581801ceaefe4",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

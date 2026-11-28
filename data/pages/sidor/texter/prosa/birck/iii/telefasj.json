@@ -1,0 +1,150 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/telefasj.htm",
+  "title": "Den första telefonledningen",
+  "summary": "Nykarlebys första telefonlinje byggdes 1883 mellan staden och ångbåtshamnen vid Andra sjön. När en ångare kom in ringde hamnvakten, och en flagga med båtens begynnelsebokstav hissades i klockstapeln.",
+  "topics": [
+    "telefon",
+    "telegraf",
+    "hamnen",
+    "ångbåtar",
+    "kommunikationer"
+  ],
+  "people": [
+    {
+      "name": "G. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    },
+    {
+      "name": "A.M. Gyllenberg",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "J.W. Nessler",
+      "alternateNames": [],
+      "roles": [
+        "klockare"
+      ]
+    },
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "hamnkapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andrasjöskogen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Hamnvaktstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "telefonstation",
+          "endYear": 1923
+        }
+      ]
+    },
+    {
+      "name": "Före detta järnvägsstationen",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "telegrafkontor",
+          "startYear": 1923
+        }
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första telefonledningen",
+      "date": {
+        "year": 1883,
+        "circa": false
+      },
+      "description": "Ett nybildat telefonbolag drog Nykarlebys första telefonledning mellan staden och ångbåtshamnen vid Andra sjön.",
+      "people": [
+        "G. Hedström",
+        "A.M. Gyllenberg",
+        "J.W. Nessler"
+      ],
+      "places": [
+        "Andra sjön",
+        "Andrasjöskogen"
+      ]
+    },
+    {
+      "title": "Telegrafen flyttar till järnvägsstationen",
+      "date": {
+        "year": 1923,
+        "circa": false
+      },
+      "description": "Staden upplät den före detta järnvägsstationen som telegrafkontor så att telegrafstationen inte skulle dras in.",
+      "people": [],
+      "places": [
+        "Före detta järnvägsstationen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "f6b485bc94feb8ba8013f4b73d711d098e34c20701596628c40e87b9fa12ec86",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

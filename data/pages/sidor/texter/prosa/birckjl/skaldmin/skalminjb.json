@@ -1,0 +1,318 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/skaldmin/skalminjb.htm",
+  "title": "Nykarleby i sina skalders minnen",
+  "summary": "J. L. Birck visar hur Topelius, bröderna Lybeck, Gånge Rolf, Knape, Rundt, Eklund och Sund har diktat om Nykarleby. I föredraget från 1966 återkommer älven, forsarna, Storbron, esplanaden och den stilla småstadsidyllen.",
+  "topics": [
+    "poesi",
+    "författare",
+    "älven",
+    "Nykarleby i litteraturen",
+    "nejonögon"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Mikael Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Paul Werner Lybeck",
+      "alternateNames": [
+        "Werner Lybeck"
+      ],
+      "roles": [
+        "vicehäradshövding",
+        "författare"
+      ]
+    },
+    {
+      "name": "Viktor Karl Emil Wichmann",
+      "alternateNames": [
+        "Gånge Rolf",
+        "V. K. E. Wichmann"
+      ],
+      "roles": [
+        "lektor",
+        "skald"
+      ]
+    },
+    {
+      "name": "Illberg",
+      "alternateNames": [],
+      "roles": [
+        "musiklektor"
+      ]
+    },
+    {
+      "name": "Ernst Viktor Knape",
+      "alternateNames": [],
+      "roles": [
+        "läkare",
+        "diktare"
+      ]
+    },
+    {
+      "name": "Joel Rundt",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Ragnar Eklund",
+      "alternateNames": [],
+      "roles": [
+        "diktare"
+      ]
+    },
+    {
+      "name": "Viktor Sund",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Gerda Wrede",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Sebastian Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Matts Boman",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuddnäs",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "krog"
+        }
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "De Gamlas Hem",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Werner Lybecks föräldragård vid älven, samlingsplats för torsdagssällskapet.",
+      "geo": {
+        "lat": 63.5250366,
+        "lng": 22.5294727,
+        "match": "name",
+        "gazetteerName": "de gamlas hem",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbrobacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Stadsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "nejonögonfiske"
+        }
+      ],
+      "geo": {
+        "lat": 63.518901957916576,
+        "lng": 22.52209451221638,
+        "match": "name",
+        "gazetteerName": "nykarleby stadsfors",
+        "gazetteerKind": "waterbody",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Flickhällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simställe"
+        }
+      ]
+    },
+    {
+      "name": "Pojkhällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simställe"
+        }
+      ]
+    },
+    {
+      "name": "Tullstranden",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simställe"
+        }
+      ],
+      "geo": {
+        "lat": 63.5278562,
+        "lng": 22.5319114,
+        "match": "name",
+        "gazetteerName": "tullstranden",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Alisvaj",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simställe"
+        }
+      ]
+    },
+    {
+      "name": "Åminne gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Juthbacka",
+      "kind": "farm",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5157,
+        "lng": 22.5246,
+        "match": "name",
+        "gazetteerName": "juthbacka",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skärgårdsgossens visa har premiär",
+      "date": {
+        "year": 1897,
+        "circa": false
+      },
+      "description": "Wichmanns Skärgårdsgossens visa, tonsatt av musiklektor Illberg, sjöngs första gången på en examensdag i Nykarleby.",
+      "people": [
+        "Viktor Karl Emil Wichmann",
+        "Illberg",
+        "J. L. Birck"
+      ],
+      "places": []
+    },
+    {
+      "title": "Viktor Sunds hyllning",
+      "date": {
+        "year": 1946,
+        "month": 8,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Viktor Sunds verskåseri om Nykarleby lästes av Gerda Wrede när en modersmålslärarkurs avslutades i staden.",
+      "people": [
+        "Viktor Sund",
+        "Gerda Wrede"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Paul Werner Lybeck",
+      "place": "De Gamlas Hem",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "9e4638357483cbee4ca5c71c6803bcf6c62bc1765fce92e6be03c07ab10f63dd",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

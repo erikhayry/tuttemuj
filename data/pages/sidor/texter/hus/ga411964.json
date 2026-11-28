@@ -64,6 +64,42 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Paasila",
+      "place": "Paasilas gård",
+      "relation": "built"
+    },
+    {
+      "person": "Thure Granqvist",
+      "place": "Paasilas gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Bo Kronqvist",
+      "place": "Paasilas gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gustav Adolfsgatan 41",
+        "Paasilas gård"
+      ],
+      "year": 1964
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "ff6e82d7e44c1474a13845da80ef3bca1d28f21b77ce612a81584e6dbffda4d3",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

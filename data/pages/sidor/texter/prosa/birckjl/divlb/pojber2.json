@@ -1,0 +1,300 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/pojber2.htm",
+  "title": "En pojkes upplevelser II: skolpojke, lärpojke, gesäll och soldat 1870–1884",
+  "summary": "Johan Gustaf från Alahärmä blev 1875 skomakarlärling hos mäster Thulin i Nykarleby, vandrade sedan som arbetssökande gesäll och gjorde värnplikt i Vasa. År 1885 antogs han till poliskonstapel i Nykarleby.",
+  "topics": [
+    "skomakare",
+    "lärlingsliv",
+    "gesällvandring",
+    "värnplikt",
+    "1870-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Gustaf",
+      "alternateNames": [],
+      "birthYear": 1859,
+      "roles": [
+        "skomakarlärling",
+        "skomakargesäll",
+        "soldat",
+        "poliskonstapel"
+      ]
+    },
+    {
+      "name": "Anna Greta Eriksdotter Piper",
+      "alternateNames": [],
+      "birthYear": 1834,
+      "roles": []
+    },
+    {
+      "name": "Simas Jutt",
+      "alternateNames": [
+        "Simon"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Salin",
+      "alternateNames": [],
+      "roles": [
+        "bokbindare"
+      ]
+    },
+    {
+      "name": "Löfgren",
+      "alternateNames": [],
+      "roles": [
+        "krukmakare"
+      ]
+    },
+    {
+      "name": "Wilhelm Andersson",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Anders Johan Thulin",
+      "alternateNames": [],
+      "roles": [
+        "skomakarmästare",
+        "hantverksålderman"
+      ]
+    },
+    {
+      "name": "Henrikzell",
+      "alternateNames": [],
+      "roles": [
+        "arbetsförman"
+      ]
+    },
+    {
+      "name": "Isberg",
+      "alternateNames": [],
+      "roles": [
+        "arbetsledare"
+      ]
+    },
+    {
+      "name": "Caldén",
+      "alternateNames": [],
+      "roles": [
+        "magister"
+      ]
+    },
+    {
+      "name": "Mårten Holmberg",
+      "alternateNames": [],
+      "roles": [
+        "lärarkandidat"
+      ]
+    },
+    {
+      "name": "Charlotta Elisabet",
+      "alternateNames": [],
+      "roles": [
+        "hembiträde"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Högbacka gård",
+      "kind": "farm",
+      "alternateNames": []
+    },
+    {
+      "name": "Löfgrens krukmakeri",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Krukmakeri nära nuvarande sjukhuset i Nykarleby.",
+      "uses": [
+        {
+          "use": "krukmakeri"
+        }
+      ]
+    },
+    {
+      "name": "sjukhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sjukhus"
+        }
+      ],
+      "geo": {
+        "lat": 63.52275674593732,
+        "lng": 22.53856439306395,
+        "match": "name",
+        "gazetteerName": "sjukhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Thulins hus",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Skomakarmästare Thulins gård med garveri, skomakarverkstad och butik.",
+      "uses": [
+        {
+          "use": "skomakarverkstad"
+        },
+        {
+          "use": "garveri"
+        }
+      ]
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Johan Gustaf rymmer till Nykarleby",
+      "date": {
+        "year": 1874,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Den unge Johan Gustaf lämnade sin arbetsplats i Alahärmä och gick till Nykarleby, där han fick arbete hos bokbindare Salin.",
+      "people": [
+        "Johan Gustaf",
+        "Salin"
+      ],
+      "places": [
+        "Högbacka gård"
+      ]
+    },
+    {
+      "title": "Hos krukmakare Löfgren",
+      "date": {
+        "year": 1875,
+        "month": 3,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Johan Gustaf började arbeta hos krukmakare Löfgren i Nykarleby.",
+      "people": [
+        "Johan Gustaf",
+        "Löfgren"
+      ],
+      "places": [
+        "Löfgrens krukmakeri"
+      ]
+    },
+    {
+      "title": "Skomakarlärling hos Thulin",
+      "date": {
+        "year": 1875,
+        "month": 8,
+        "circa": false
+      },
+      "description": "Johan Gustaf blev lärling på fyra år hos skomakarmästare Anders Johan Thulin i Nykarleby.",
+      "people": [
+        "Johan Gustaf",
+        "Anders Johan Thulin"
+      ],
+      "places": [
+        "Thulins hus"
+      ]
+    },
+    {
+      "title": "Gesällen ger sig av",
+      "date": {
+        "year": 1880,
+        "circa": false
+      },
+      "description": "Den nyblivne skomakargesällen Johan Gustaf lämnade hemmet och vandrade till fots och med båt via Vasa och Åbo till Helsingfors i jakt på arbete.",
+      "people": [
+        "Johan Gustaf"
+      ],
+      "places": []
+    },
+    {
+      "title": "Poliskonstapel i Nykarleby",
+      "date": {
+        "year": 1885,
+        "month": 3,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Johan Gustaf antogs till poliskonstapel i Nykarleby med 400 marks årslön.",
+      "people": [
+        "Johan Gustaf"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Hetlevrade Johan Gustaf kastar gräftan, packar sina saker och vandrar ut i världen med två mark på fickan. Han tröskar, tegelslår och sover under bar himmel innan han till slut finner kärleken i Vasa och en fast tjänst i Nykarleby.",
+    "reason": "En lång vandring med humor, gräl och möten ger många fristående scener.",
+    "characters": [
+      "Johan Gustaf",
+      "Anders Johan Thulin",
+      "Henrikzell",
+      "Charlotta Elisabet"
+    ],
+    "places": [
+      "Thulins hus"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Johan Gustaf",
+      "place": "Löfgrens krukmakeri",
+      "relation": "worked",
+      "startYear": 1875,
+      "endYear": 1875
+    },
+    {
+      "person": "Löfgren",
+      "place": "Löfgrens krukmakeri",
+      "relation": "ran"
+    },
+    {
+      "person": "Johan Gustaf",
+      "place": "Thulins hus",
+      "relation": "lived",
+      "startYear": 1875
+    },
+    {
+      "person": "Johan Gustaf",
+      "place": "Thulins hus",
+      "relation": "worked",
+      "startYear": 1875
+    },
+    {
+      "person": "Anders Johan Thulin",
+      "place": "Thulins hus",
+      "relation": "ran"
+    }
+  ],
+  "images": [],
+  "contentHash": "be40acafc81ac85dd5ebcd7a90256836d280af22e90be55685f5463a676a3d3a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

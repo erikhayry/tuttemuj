@@ -1,0 +1,375 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/nygardb.htm",
+  "title": "Min barndoms Nygård I",
+  "summary": "J. L. Birck vandrar i minnet genom gränderna på Nygård utanför Nykarleby på 1890-talet. Där fanns Mattas-Annas stuga och klockarens smedja, glasmästare Öhmans gård med tidningsbudet Lill-Anna, kyrkväktare Eriksson och garvare Lindström.",
+  "topics": [
+    "Nygård",
+    "barndomsminnen",
+    "hantverkare",
+    "gårdar",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Paul Svanström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Berndt Svanström",
+      "alternateNames": [],
+      "roles": [
+        "telegrafist",
+        "telegrafrevisor"
+      ]
+    },
+    {
+      "name": "Anders Markén",
+      "alternateNames": [],
+      "roles": [
+        "bagare"
+      ]
+    },
+    {
+      "name": "Mattas-Anna",
+      "alternateNames": [],
+      "roles": [
+        "smedsänka",
+        "smedsdräng"
+      ]
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [
+        "kantor Nessler"
+      ],
+      "roles": [
+        "kantor",
+        "företagare"
+      ]
+    },
+    {
+      "name": "Nylund",
+      "alternateNames": [],
+      "roles": [
+        "smed"
+      ]
+    },
+    {
+      "name": "tant Öhman",
+      "alternateNames": [],
+      "roles": [
+        "glasmästare"
+      ]
+    },
+    {
+      "name": "Isak Öhman",
+      "alternateNames": [],
+      "roles": [
+        "glasmästare"
+      ]
+    },
+    {
+      "name": "Lill-Anna",
+      "alternateNames": [],
+      "roles": [
+        "tidningsbud"
+      ]
+    },
+    {
+      "name": "Eriksson",
+      "alternateNames": [],
+      "roles": [
+        "kyrkväktare",
+        "auktionsförrättare"
+      ]
+    },
+    {
+      "name": "Fanny Eriksson",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Lindström",
+      "alternateNames": [],
+      "roles": [
+        "garvare"
+      ]
+    },
+    {
+      "name": "Emeli Kronqvist",
+      "alternateNames": [],
+      "roles": [
+        "sömmerska"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jeansborg",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kyrkoherdeboställe"
+        }
+      ],
+      "geo": {
+        "lat": 63.5179146,
+        "lng": 22.5329914,
+        "match": "name",
+        "gazetteerName": "jeansborg",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Prostas-hagan",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Nygårdståget",
+      "kind": "street",
+      "alternateNames": [
+        "Nygårds-tåget"
+      ]
+    },
+    {
+      "name": "Nygårdsvägen",
+      "kind": "street",
+      "alternateNames": [
+        "gamla Nygårds-vägen"
+      ],
+      "geo": {
+        "lat": 63.5194967,
+        "lng": 22.5270853,
+        "match": "name",
+        "gazetteerName": "nygårdsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Mattas-Annas stuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "klockargården",
+      "kind": "building",
+      "alternateNames": [
+        "Klockareländet"
+      ],
+      "description": "Klockarens tjänstebostad."
+    },
+    {
+      "name": "Klockars smidja",
+      "kind": "building",
+      "alternateNames": [
+        "Klockars smidjon"
+      ],
+      "description": "Kantor Nesslers smedja på klockargårdens tomt.",
+      "uses": [
+        {
+          "use": "smedja"
+        }
+      ]
+    },
+    {
+      "name": "Nesslers gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Senare Nykarleby Andelshandels gård.",
+      "uses": [
+        {
+          "use": "tryckeri"
+        },
+        {
+          "use": "filhuggeri"
+        }
+      ]
+    },
+    {
+      "name": "Rummelbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.526907,
+        "lng": 22.52727,
+        "match": "name",
+        "gazetteerName": "rummelbacken",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Öhmans gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "glasmästeri"
+        }
+      ]
+    },
+    {
+      "name": "kyrkväktare Erikssons gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Lindströms hörngård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Engs garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "garveri"
+        }
+      ]
+    },
+    {
+      "name": "Emeli Kronqvists gård",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Dvärgvuxna Lill-Anna spanar efter morgonens första skorstensrök för att veta var tidningen ska levereras först och var det vankas kaffe. Hon kikar under grytlocket och oroar sig på gamla dar för vem som ska gå när hon slutar gå.",
+    "reason": "Nygårds originella invånare ger en rad varma och tydliga figurporträtt.",
+    "characters": [
+      "Lill-Anna",
+      "tant Öhman",
+      "Mattas-Anna"
+    ],
+    "places": [
+      "Nygård",
+      "Öhmans gård"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Paul Svanström",
+      "place": "Nygård",
+      "relation": "lived"
+    },
+    {
+      "person": "Anders Markén",
+      "place": "Nygårdståget",
+      "relation": "lived"
+    },
+    {
+      "person": "Mattas-Anna",
+      "place": "Klockars smidja",
+      "relation": "worked"
+    },
+    {
+      "person": "J. W. Nessler",
+      "place": "Klockars smidja",
+      "relation": "ran"
+    },
+    {
+      "person": "J. W. Nessler",
+      "place": "Nesslers gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Nylund",
+      "place": "Klockars smidja",
+      "relation": "worked"
+    },
+    {
+      "person": "Nylund",
+      "place": "Rummelbacken",
+      "relation": "lived"
+    },
+    {
+      "person": "tant Öhman",
+      "place": "Öhmans gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Lill-Anna",
+      "place": "Öhmans gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Lindström",
+      "place": "Lindströms hörngård",
+      "relation": "lived"
+    },
+    {
+      "person": "Lindström",
+      "place": "Engs garveri",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nygård"
+      ],
+      "year": 1947
+    },
+    {
+      "image": 2,
+      "places": [
+        "Emeli Kronqvists gård",
+        "Nygård"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Nygård"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Öhmans gård",
+        "Nygård"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "kyrkväktare Erikssons gård",
+        "Nygård"
+      ]
+    }
+  ],
+  "contentHash": "3640db2aaa29d5024e8cec59e622cd57107cdd71a32292bce4a520a291ff6d00",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

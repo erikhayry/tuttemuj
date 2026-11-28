@@ -1,0 +1,240 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/wheinkby.htm",
+  "title": "Wasa högre elementarskola i Nykarleby 1852–1856",
+  "summary": "Efter Vasa brand 1852 flyttade Wasa högre elementarskola till Nykarleby i fyra år och inrymdes i nuvarande rådhuset. Läraren Edvin Avellan klagade på läxförhör och prygel, och i hans hyresrum i Nystaden rann regnet in genom taket.",
+  "topics": [
+    "skola",
+    "Vasa brand",
+    "lärare",
+    "inackordering",
+    "1850-talet"
+  ],
+  "people": [
+    {
+      "name": "Esaias Wegelius",
+      "alternateNames": [],
+      "birthYear": 1804,
+      "deathYear": 1875,
+      "roles": [
+        "rektor"
+      ]
+    },
+    {
+      "name": "Edvin Avellan",
+      "alternateNames": [],
+      "birthYear": 1830,
+      "deathYear": 1912,
+      "roles": [
+        "t.f. andre kollega"
+      ]
+    },
+    {
+      "name": "Ludvig Björkman",
+      "alternateNames": [],
+      "birthYear": 1818,
+      "deathYear": 1876,
+      "roles": [
+        "konrektor"
+      ]
+    },
+    {
+      "name": "Mathias Albert Laurén",
+      "alternateNames": [],
+      "birthYear": 1816,
+      "roles": [
+        "kollega"
+      ]
+    },
+    {
+      "name": "Gustaf Lönnmark",
+      "alternateNames": [],
+      "birthYear": 1813,
+      "deathYear": 1866,
+      "roles": [
+        "kollega"
+      ]
+    },
+    {
+      "name": "Gabriel Wilhelm Passelberg",
+      "alternateNames": [],
+      "birthYear": 1825,
+      "deathYear": 1866,
+      "roles": [
+        "rysk språklärare"
+      ]
+    },
+    {
+      "name": "Lars Stenbäck",
+      "alternateNames": [],
+      "roles": [
+        "gymnasierektor"
+      ]
+    },
+    {
+      "name": "Enqvist",
+      "alternateNames": [],
+      "roles": [
+        "vaccinatör"
+      ]
+    },
+    {
+      "name": "Krook",
+      "alternateNames": [],
+      "roles": [
+        "löjtnant"
+      ]
+    },
+    {
+      "name": "Benjamin Frosterus",
+      "alternateNames": [],
+      "roles": [
+        "skolinspektor"
+      ]
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Topelius"
+      ],
+      "roles": [
+        "redaktör"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Det då nybyggda skolhuset.",
+      "uses": [
+        {
+          "use": "skola",
+          "startYear": 1852,
+          "endYear": 1856
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gästgivargården",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "gästgiveri"
+        }
+      ]
+    },
+    {
+      "name": "Enqvists hus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "tomt 128 i Nystaden"
+    },
+    {
+      "name": "Nystaden",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5223479,
+        "lng": 22.5198902,
+        "match": "name",
+        "gazetteerName": "nystaden",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Skolan öppnar i Nykarleby",
+      "date": {
+        "year": 1852,
+        "month": 10,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Wasa högre elementarskola, hemlös efter Vasa brand, öppnades i Nykarleby av rektor Lars Stenbäck.",
+      "people": [
+        "Lars Stenbäck",
+        "Esaias Wegelius"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Avellan får taket läckande",
+      "date": {
+        "year": 1852,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Läraren Edvin Avellan vaknade i sitt hyresrum i Nystaden av att regnvatten rann längs taket och väggarna.",
+      "people": [
+        "Edvin Avellan"
+      ],
+      "places": [
+        "Enqvists hus"
+      ]
+    },
+    {
+      "title": "Skolan återvänder till Vasa",
+      "date": {
+        "year": 1856,
+        "month": 10,
+        "circa": false
+      },
+      "description": "Wasa högre elementarskola flyttade tillbaka till Vasa efter fyra år i Nykarleby.",
+      "people": [
+        "Benjamin Frosterus"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den unge läraren Avellan vaknar i Nykarleby med en biflod längs taket och ett vattenfall över sina papper, medan han på dagarna rasar mot prygeln och pluggandet i skolan.",
+    "reason": "Brev med konkreta, komiska scener och en upprorisk huvudperson.",
+    "characters": [
+      "Edvin Avellan",
+      "Ludvig Björkman"
+    ],
+    "places": [
+      "Enqvists hus",
+      "Rådhuset"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Edvin Avellan",
+      "place": "Enqvists hus",
+      "relation": "lived",
+      "startYear": 1852
+    },
+    {
+      "person": "Edvin Avellan",
+      "place": "Rådhuset",
+      "relation": "worked"
+    },
+    {
+      "person": "Enqvist",
+      "place": "Enqvists hus",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "3891751deb5bc2c5c77aed9838b42eadac1fbbe08accab7aba55de3fe4bac5b8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -86,6 +86,24 @@
       ],
       "address": "Topeliusesplanaden 17",
       "description": "Vid korsningen med Borgaregatan; byggt 1962.",
+      "uses": [
+        {
+          "use": "bostadshus"
+        },
+        {
+          "use": "alkoholbutik",
+          "endYear": 2005
+        },
+        {
+          "use": "glassbar"
+        },
+        {
+          "use": "frisersalong"
+        },
+        {
+          "use": "ateljé"
+        }
+      ],
       "geo": {
         "lat": 63.5238156,
         "lng": 22.5317698,
@@ -103,17 +121,38 @@
     {
       "name": "Alko",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "alkoholbutik",
+          "endYear": 2005
+        }
+      ]
     },
     {
       "name": "Sundholms Gulf-servicestation",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "servicestation"
+        },
+        {
+          "use": "bilverkstad",
+          "endYear": 1985
+        }
+      ]
     },
     {
       "name": "Ostro-Center",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "alkoholbutik",
+          "startYear": 2005
+        }
+      ]
     },
     {
       "name": "Brännan",
@@ -216,6 +255,88 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Sven Sundholm",
+      "place": "Glassbaren, Gulf och Alko",
+      "relation": "owned"
+    },
+    {
+      "person": "Sven Sundholm",
+      "place": "Sundholms Gulf-servicestation",
+      "relation": "ran"
+    },
+    {
+      "person": "Margurite Lindholm",
+      "place": "Glassbaren, Gulf och Alko",
+      "relation": "ran"
+    },
+    {
+      "person": "Julia Lindholm",
+      "place": "Glassbaren, Gulf och Alko",
+      "relation": "ran",
+      "startYear": 2023
+    },
+    {
+      "person": "Nils Österlund",
+      "place": "Alko",
+      "relation": "worked"
+    },
+    {
+      "person": "Annikki Riissanen",
+      "place": "Alko",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Glassbaren, Gulf och Alko",
+        "Glassbaren",
+        "Alko",
+        "Borgaregatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Glassbaren, Gulf och Alko",
+        "Glassbaren",
+        "Alko",
+        "Borgaregatan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Glassbaren, Gulf och Alko",
+        "Sundholms Gulf-servicestation"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 4,
+      "places": [
+        "Alko"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Alko"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "d5c03a98448c5dc806435bc0dc59d111a6a12ab4d6d700a4cf411e9e81600fcd",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

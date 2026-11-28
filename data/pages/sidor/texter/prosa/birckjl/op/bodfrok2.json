@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/bodfrok2.htm",
+  "title": "Bodfrökens brev från 1880-talets Nykarleby II",
+  "summary": "Bodfröken Mia berättar 1883–1884 om första maj, åkturer till Andra sjön och livet bakom disken i Nykarleby. I väntan på ångbåten Vega vid hotell Marielund går schäsen sönder och sällskapet skakar hem genom gyttjan.",
+  "topics": [
+    "brev",
+    "1880-talet",
+    "ångbåtstrafik",
+    "småstadsliv",
+    "bodbiträde"
+  ],
+  "people": [
+    {
+      "name": "Mia",
+      "alternateNames": [],
+      "roles": [
+        "bodbiträde"
+      ]
+    },
+    {
+      "name": "Hilda",
+      "alternateNames": [],
+      "roles": [
+        "bodbiträde"
+      ]
+    },
+    {
+      "name": "Loa",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Alfred",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Axel",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Gideon",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Anna v. Schantz",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "Johan Ludvig Birck"
+      ],
+      "roles": [
+        "författare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "description": "Platsen för ångbåtsbryggan och ångbåtshamnen.",
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Marielund",
+      "kind": "building",
+      "alternateNames": [
+        "Hotell Marielund"
+      ],
+      "uses": [
+        {
+          "use": "hotell"
+        }
+      ]
+    },
+    {
+      "name": "Necken",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tändsticksfabrik"
+        }
+      ]
+    },
+    {
+      "name": "Soklot",
+      "kind": "village",
+      "alternateNames": [
+        "Socklot"
+      ],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "soklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första maj vid Andra sjön",
+      "date": {
+        "year": 1883,
+        "month": 5,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Mia åkte med häst och kärra till Andra sjön, där sällskapet promenerade på ångbåtsbryggan och besökte Marielund.",
+      "people": [
+        "Mia",
+        "Alfred"
+      ],
+      "places": [
+        "Andra sjön",
+        "Marielund"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En höstkväll väntar Mia förgäves på ångbåten Vega vid det dragiga hotellet Marielund. På hemvägen brakar hon ner i en trasig låda på flakkärran, och mittför tändsticksfabriken håller hela sällskapet på att få ett gyttjebad.",
+    "reason": "En komisk hemfärd med tydlig dramaturgi och en pratsam berättarröst.",
+    "characters": [
+      "Mia",
+      "Alfred"
+    ],
+    "places": [
+      "Marielund",
+      "Andra sjön",
+      "tändsticksfabriken"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Marielund"
+      ],
+      "year": 1996
+    }
+  ],
+  "contentHash": "fd26004e5a611e6c892dc26e7fc4a61cfbcbf6e16021a0bee1db00ccf060e734",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

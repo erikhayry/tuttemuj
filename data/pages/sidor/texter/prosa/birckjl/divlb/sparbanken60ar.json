@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/sparbanken60ar.html",
+  "title": "Hälsning till Nykarleby Sparbank på 60-årsdagen",
+  "summary": "J. L. Birck minns hur han som liten pojke satte in sina slantar på Nykarleby Sparbank, som hade bord och kassaskåp i rådhuset. Hälsningen till 60-årsdagen 1934 slår ett slag för skolbarnens sparande.",
+  "topics": [
+    "sparbanken",
+    "skolsparande",
+    "rådhuset",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Lillqvist",
+      "alternateNames": [],
+      "roles": [
+        "vaktmästare"
+      ]
+    },
+    {
+      "name": "Matilda Nessler",
+      "alternateNames": [],
+      "roles": [
+        "klockarfru"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "sparbank"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "gamla begravningsplatsen",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222949,
+        "lng": 22.5316629,
+        "match": "name",
+        "gazetteerName": "gamla begravningsplatsen",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Sparbankens 60-årsdag",
+      "date": {
+        "year": 1934,
+        "month": 10,
+        "day": 24,
+        "circa": false
+      },
+      "description": "Nykarleby Sparbank fyllde 60 år och J. L. Birck skrev en hälsning med minnen från banken i rådhuset.",
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": [
+        "rådhuset"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "En blyg pojke stiger in genom rådhusdörren med bankbok och några mark, till klockarfruns vänliga hand och de strama herrarna vid bordet. Slantarna har han tjänat som orgelpumpare, med spökhistorier i huvudet och mörka kyrkogården på vägen hem.",
+    "reason": "Barnets perspektiv på den högtidliga banken och den nattliga hemfärden ger fina bilder.",
+    "characters": [
+      "J. L. Birck",
+      "Matilda Nessler",
+      "Lillqvist"
+    ],
+    "places": [
+      "rådhuset",
+      "gamla begravningsplatsen"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Lillqvist",
+      "place": "rådhuset",
+      "relation": "worked"
+    },
+    {
+      "person": "Matilda Nessler",
+      "place": "rådhuset",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "56df7bda8d9b6de9d67b2b14dd41802f69e9e2d659e7b745f97faff9dbd39e6b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -66,6 +66,25 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gustav Adolfsgatan",
+        "Fiskaregränd"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "9e6f1ac0bd80a495573e04c910a19e400aa808f19763e45ab21fa9ff3f5aca95",
   "extractionVersion": 1,
   "model": "claude-haiku-5-5",

@@ -60,7 +60,15 @@
       "name": "Flöjtanstugon",
       "kind": "building",
       "alternateNames": [],
-      "description": "Arbetarstuga vid Nålörn; flyttad till Andrasjön 1986 och nu bastu."
+      "description": "Arbetarstuga vid Nålörn; flyttad till Andrasjön 1986 och nu bastu.",
+      "uses": [
+        {
+          "use": "raststuga"
+        },
+        {
+          "use": "bastu"
+        }
+      ]
     },
     {
       "name": "Nålörn",
@@ -131,6 +139,47 @@
       "Nålörn"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Peter Herler",
+      "place": "Flöjtanstugon",
+      "relation": "built"
+    },
+    {
+      "person": "Börje Broman",
+      "place": "Flöjtanstugon",
+      "relation": "owned"
+    },
+    {
+      "person": "Anna-Maria von Schantz",
+      "place": "Flöjtanstugon",
+      "relation": "owned"
+    },
+    {
+      "person": "Filip von Schantz",
+      "place": "Flöjtanstugon",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Flöjtanstugon",
+        "Nålörn"
+      ],
+      "year": 1986
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "9ea1894d1399a58207cc99331c669838cf12828a258cf3f3311abe0670fc253b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

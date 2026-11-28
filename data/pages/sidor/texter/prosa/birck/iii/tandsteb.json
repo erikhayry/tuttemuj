@@ -1,0 +1,249 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/tandsteb.htm",
+  "title": "Nykarleby Tändsticksfabriksbolag",
+  "summary": "Verkmästare Carl Johan Rundman anlade 1872 en tändsticksfabrik vid vägen till den nya hamnen i Nykarleby, en tid stadens största arbetsplats. Fabriken bytte ägare flera gånger och upphörde i konkursen 1906 under Aina Davidsson.",
+  "topics": [
+    "industri",
+    "tändsticksfabrik",
+    "företag",
+    "hantverk"
+  ],
+  "people": [
+    {
+      "name": "Carl Johan Rundman",
+      "alternateNames": [],
+      "birthYear": 1830,
+      "roles": [
+        "verkmästare",
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Alfred Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Isak Svedlin",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Carl Nylund",
+      "alternateNames": [],
+      "roles": [
+        "konsul",
+        "disponent"
+      ]
+    },
+    {
+      "name": "S.A. Liljeqvist",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Erik Edvard Davidsson",
+      "alternateNames": [],
+      "deathYear": 1905,
+      "roles": [
+        "mekaniker"
+      ]
+    },
+    {
+      "name": "Aina Davidsson",
+      "alternateNames": [],
+      "roles": [
+        "fabriksinnehavare"
+      ]
+    },
+    {
+      "name": "Johan Gustafsson",
+      "alternateNames": [],
+      "roles": [
+        "arbetare"
+      ]
+    },
+    {
+      "name": "Håkan Holmberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "gamla Andrasjövägen, strax till höger före entrén till Skogsvallen",
+      "uses": [
+        {
+          "use": "tändsticksfabrik",
+          "startYear": 1872,
+          "endYear": 1906
+        }
+      ]
+    },
+    {
+      "name": "Före detta tändsticksfabriken",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "korsningen Juthasvägen-Idrottsgatan",
+      "description": "Den flyttade och ombyggda fabriksbyggnaden."
+    },
+    {
+      "name": "Skogsvallen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Andrasjövägen",
+      "kind": "street",
+      "alternateNames": [
+        "Idrottsgatan"
+      ],
+      "geo": {
+        "lat": 63.5219692,
+        "lng": 22.4894431,
+        "match": "name",
+        "gazetteerName": "andrasjövägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Juthasvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5058416,
+        "lng": 22.5287879,
+        "match": "name",
+        "gazetteerName": "juthasvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Tändsticksfabriken grundas",
+      "date": {
+        "year": 1872,
+        "circa": false
+      },
+      "description": "Carl Johan Rundman anlade en tändsticksfabrik i Nykarleby vid vägen till den nya hamnen.",
+      "people": [
+        "Carl Johan Rundman"
+      ],
+      "places": [
+        "Tändsticksfabriken"
+      ]
+    },
+    {
+      "title": "Häggblom tar över",
+      "date": {
+        "year": 1876,
+        "circa": false
+      },
+      "description": "Handlanden Alfred Häggblom tog över tändsticksfabriken i Nykarleby.",
+      "people": [
+        "Alfred Häggblom"
+      ],
+      "places": [
+        "Tändsticksfabriken"
+      ]
+    },
+    {
+      "title": "Davidsson köper andelar",
+      "date": {
+        "year": 1896,
+        "month": 2,
+        "circa": false
+      },
+      "description": "Mekanikern Erik Edvard Davidsson köpte andelarna i tändsticksfabriken efter en konkurs.",
+      "people": [
+        "Erik Edvard Davidsson"
+      ],
+      "places": [
+        "Tändsticksfabriken"
+      ]
+    },
+    {
+      "title": "Tändsticksfabriken går i konkurs",
+      "date": {
+        "year": 1906,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Tändsticksfabriken gick i konkurs med Aina Davidsson som innehavare och upphörde; maskinerna fördes till Lappo.",
+      "people": [
+        "Aina Davidsson"
+      ],
+      "places": [
+        "Tändsticksfabriken"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Carl Johan Rundman",
+      "place": "Tändsticksfabriken",
+      "relation": "built",
+      "startYear": 1872,
+      "endYear": 1872
+    },
+    {
+      "person": "Alfred Häggblom",
+      "place": "Tändsticksfabriken",
+      "relation": "ran",
+      "startYear": 1876
+    },
+    {
+      "person": "Aina Davidsson",
+      "place": "Tändsticksfabriken",
+      "relation": "ran",
+      "endYear": 1906
+    },
+    {
+      "person": "Håkan Holmberg",
+      "place": "Före detta tändsticksfabriken",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Tändsticksfabriken",
+        "Andrasjövägen",
+        "Skogsvallen"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Före detta tändsticksfabriken"
+      ],
+      "year": 2002
+    }
+  ],
+  "contentHash": "41184c844628870e8513ef3582fd1d859a5d619464db2c2b16cd8e2480d3dbad",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -107,6 +107,23 @@
       ],
       "address": "Borgaregatan 10",
       "description": "Vid korsningen med Gustav Adolfsgatan; riven kring 1990.",
+      "uses": [
+        {
+          "use": "köttaffär"
+        },
+        {
+          "use": "alkoholbutik",
+          "startYear": 1937
+        },
+        {
+          "use": "klassrum",
+          "startYear": 1968,
+          "endYear": 1969
+        },
+        {
+          "use": "bostad"
+        }
+      ],
       "geo": {
         "lat": 63.5236019,
         "lng": 22.5330942,
@@ -129,12 +146,24 @@
     {
       "name": "Kisors gård",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "alkoholbutik",
+          "startYear": 1932,
+          "endYear": 1937
+        }
+      ]
     },
     {
       "name": "Holmströms lekstuga",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "lekstuga"
+        }
+      ]
     },
     {
       "name": "Bankgatan 2",
@@ -282,6 +311,100 @@
       "Gleisners"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Karl Hammarlund",
+      "place": "Gleisners",
+      "relation": "owned",
+      "startYear": 1860
+    },
+    {
+      "person": "Hugo Gleisner",
+      "place": "Gleisners köttaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Göran Gleisner",
+      "place": "Gleisners köttaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Göran Gleisner",
+      "place": "Gleisners",
+      "relation": "lived"
+    },
+    {
+      "person": "Harriet Gleisner",
+      "place": "Gleisners",
+      "relation": "lived"
+    },
+    {
+      "person": "Göran Gleisner",
+      "place": "Bankgatan 2",
+      "relation": "lived"
+    },
+    {
+      "person": "Harriet Gleisner",
+      "place": "Bankgatan 2",
+      "relation": "lived"
+    },
+    {
+      "person": "Göran Gleisner",
+      "place": "Mathesiusgatan 3",
+      "relation": "lived"
+    },
+    {
+      "person": "Harriet Gleisner",
+      "place": "Mathesiusgatan 3",
+      "relation": "lived"
+    },
+    {
+      "person": "Johannes Syynimaa",
+      "place": "Holmströms lekstuga",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gleisners",
+        "Borgaregatan",
+        "Gustav Adolfsgatan"
+      ],
+      "year": 1988
+    },
+    {
+      "image": 2,
+      "places": [
+        "Borgaregatan",
+        "Gustav Adolfsgatan"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 3,
+      "places": [
+        "Holmströms lekstuga"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Holmströms lekstuga",
+        "Bangatan 25"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "63508851e77e7d077d195c43414271b8e403fa043506ff451ea7c3a5f460599c",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

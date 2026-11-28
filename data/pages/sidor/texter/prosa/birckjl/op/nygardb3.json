@@ -1,0 +1,323 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/nygardb3.htm",
+  "title": "Min barndoms Nygård III: bryggeriet, Brunnsholmarna och stadskvarnen",
+  "summary": "Maltdoft, tunnbindaren Skrivars och stadens gamla mjölkvarn fyller J. L. Bircks minnen från Nygård. Han berättar om patron Josef Herlers katolska begravning, gångbron till värdshuset på Brunnsholmen och kvarnspökena.",
+  "topics": [
+    "Nygård",
+    "bryggeri",
+    "kvarn",
+    "Brunnsholmarna",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Josef Herler",
+      "alternateNames": [
+        "gamle patron"
+      ],
+      "roles": [
+        "patron"
+      ]
+    },
+    {
+      "name": "Alfred",
+      "alternateNames": [],
+      "roles": [
+        "patron"
+      ]
+    },
+    {
+      "name": "Skrivars",
+      "alternateNames": [],
+      "roles": [
+        "snickare",
+        "tunnbindare"
+      ]
+    },
+    {
+      "name": "V. K. E. Wichmann",
+      "alternateNames": [
+        "Gånge Rolf"
+      ],
+      "roles": [
+        "brandkårschef"
+      ]
+    },
+    {
+      "name": "Mjölnars-Mari",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Viktor Petrell",
+      "alternateNames": [],
+      "roles": [
+        "skriftelärare"
+      ]
+    },
+    {
+      "name": "Werner Bengs",
+      "alternateNames": [],
+      "roles": [
+        "skriftelärare"
+      ]
+    },
+    {
+      "name": "Håkan Nyberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Yngve Still",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Herlerska bryggeriet",
+      "kind": "building",
+      "alternateNames": [
+        "bryggeriet"
+      ],
+      "uses": [
+        {
+          "use": "bryggeri"
+        },
+        {
+          "use": "limonadfabrik"
+        }
+      ],
+      "geo": {
+        "lat": 63.52100957579514,
+        "lng": 22.525061657401842,
+        "match": "name",
+        "gazetteerName": "bryggeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Skrivars verkstad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Tidigare brunnshus på stranden ovanför surbrunnen, mittemot sockenstugan.",
+      "uses": [
+        {
+          "use": "brunnshus"
+        },
+        {
+          "use": "tunnbinderi"
+        }
+      ]
+    },
+    {
+      "name": "surbrunnen",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [
+        "Brunnsholmen"
+      ],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brunnsholmens sommarvärdshus",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "värdshus"
+        },
+        {
+          "use": "kägelbana"
+        }
+      ],
+      "geo": {
+        "lat": 63.51849194746259,
+        "lng": 22.521803964142805,
+        "match": "name",
+        "gazetteerName": "värdshuset på brunnsholmarna",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "stadskvarnen",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Gråstensbyggnad nedanför Engs garveri, enligt sägen tidigare brännvinsbränneri.",
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Engs garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "garveri"
+        }
+      ]
+    },
+    {
+      "name": "sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Stod på hälleberget invid Nygårdsvägen.",
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nygårdsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5194967,
+        "lng": 22.5270853,
+        "match": "name",
+        "gazetteerName": "nygårdsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "tingshuset",
+      "kind": "building",
+      "alternateNames": []
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En drömsk pojke hämtar sådmjöl i den dunkla kvarnen, där gubbar skroderar i kvarnkammaren och Mjölnars-Maris spökhistorier börjar leva. Sedan väntar den långa, svettiga backen upp förbi bryggeriet, där spökskräcken dunstar bort.",
+    "reason": "Kvarnens mystik mot bryggeriets och brandkårens liv ger omväxlande scener.",
+    "characters": [
+      "J. L. Birck",
+      "Mjölnars-Mari",
+      "Skrivars"
+    ],
+    "places": [
+      "stadskvarnen",
+      "Herlerska bryggeriet"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Skrivars",
+      "place": "Skrivars verkstad",
+      "relation": "worked"
+    },
+    {
+      "person": "Skrivars",
+      "place": "Herlerska bryggeriet",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Herlerska bryggeriet",
+        "stadskvarnen"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Herlerska bryggeriet"
+      ],
+      "year": 1952
+    },
+    {
+      "image": 3,
+      "places": [
+        "Herlerska bryggeriet"
+      ],
+      "year": 1970
+    },
+    {
+      "image": 4,
+      "places": [
+        "tingshuset",
+        "Herlerska bryggeriet",
+        "stadskvarnen"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Herlerska bryggeriet",
+        "stadskvarnen"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Herlerska bryggeriet",
+        "stadskvarnen"
+      ],
+      "year": 1938
+    },
+    {
+      "image": 7,
+      "places": [
+        "Herlerska bryggeriet",
+        "stadskvarnen"
+      ],
+      "year": 1938
+    }
+  ],
+  "contentHash": "60658f348f4aaa17d932ca87de2a6c1664a55883bebb7cb4dbbcc10fb9acb5da",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

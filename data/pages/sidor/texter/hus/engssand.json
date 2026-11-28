@@ -26,7 +26,12 @@
     {
       "name": "Bröderna Engs tellblockfabrik",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "gjuteri"
+        }
+      ]
     },
     {
       "name": "Döbelns gränd",
@@ -78,6 +83,40 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bröderna Engs tellblockfabrik",
+        "Döbelns gränd"
+      ],
+      "year": 1997
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bröderna Engs tellblockfabrik"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 3,
+      "places": [
+        "Bröderna Engs tellblockfabrik"
+      ],
+      "year": 2005
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "5f769627fbe0ec682c6355ce868f17926e3075a21ae8365b85355b8c64d517fd",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

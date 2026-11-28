@@ -149,6 +149,11 @@
       "alternateNames": [],
       "address": "Gustav Adolfsgatan 39",
       "description": "Vid korsningen med Grev Tottgatan; tidigare nummer 27.",
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ],
       "geo": {
         "lat": 63.5263082,
         "lng": 22.5350963,
@@ -162,6 +167,11 @@
       "name": "Lövhyddan",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "livsmedelsaffär"
+        }
+      ],
       "geo": {
         "lat": 63.52188617564486,
         "lng": 22.52766972629034,
@@ -191,7 +201,15 @@
       "name": "Lövings snickeri",
       "kind": "building",
       "alternateNames": [],
-      "description": "Tillverkade bland annat likkistor."
+      "description": "Tillverkade bland annat likkistor.",
+      "uses": [
+        {
+          "use": "snickeri"
+        },
+        {
+          "use": "likkistverkstad"
+        }
+      ]
     },
     {
       "name": "Villa Vestanlid",
@@ -301,6 +319,113 @@
       "Källbacken"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Sjölund",
+      "place": "Haglunds gård",
+      "relation": "owned",
+      "endYear": 1941
+    },
+    {
+      "person": "Åke Ekman",
+      "place": "Haglunds gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Börje Haglund",
+      "place": "Haglunds gård",
+      "relation": "owned",
+      "endYear": 1974
+    },
+    {
+      "person": "Regina Haglund",
+      "place": "Haglunds gård",
+      "relation": "owned",
+      "endYear": 1974
+    },
+    {
+      "person": "Börje Haglund",
+      "place": "Lövhyddan",
+      "relation": "ran"
+    },
+    {
+      "person": "Regina Haglund",
+      "place": "Lövhyddan",
+      "relation": "ran"
+    },
+    {
+      "person": "Bjarne Ågholm",
+      "place": "Haglunds gård",
+      "relation": "owned",
+      "startYear": 1974
+    },
+    {
+      "person": "Ulla Ågholm",
+      "place": "Haglunds gård",
+      "relation": "owned",
+      "startYear": 1974
+    },
+    {
+      "person": "Sigrid Sandvik",
+      "place": "Sigrid Sandviks gård",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Haglunds gård",
+        "Grev Tottgatan"
+      ],
+      "year": 1969
+    },
+    {
+      "image": 2,
+      "places": [
+        "Sigrid Sandviks gård"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Haglunds gård",
+        "Grev Tottgatan"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Haglunds gård",
+        "Sigrid Sandviks gård"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Haglunds gård",
+        "Salemförsamlingens gård",
+        "Saarikoskis gård",
+        "Fiskaregränd"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Saarikoskis gård",
+        "Lövings snickeri"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "6b5819967a83d68e2deebd6e8c66bbaa4d6b7afbb7a118a7dfa691a3897fd688",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

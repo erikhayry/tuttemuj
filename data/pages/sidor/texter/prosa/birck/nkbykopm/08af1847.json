@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/08af1847.htm",
+  "title": "En nykarlebyköpman: 1847 års affärer",
+  "summary": "År 1847 rådde brist på både tjära och fraktfartyg i Nykarleby, och Collander drev upp priserna mot kunderna i Pillau, Danzig och Stockholm. Skutorna Hoppet, Annette och Juno förde ut lasterna.",
+  "topics": [
+    "handel",
+    "tjära",
+    "export",
+    "sjöfart",
+    "1840-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "Carl G. Bäck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Benj. Schmidt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Dahlstedt",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "konkurrent"
+      ]
+    },
+    {
+      "name": "Mats Mickelsson",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Eric Englund",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby yttre redd",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Kimo bruk",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "järnbruk"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Galeasen Annette till Danzig",
+      "date": {
+        "year": 1847,
+        "month": 6,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Galeasen Annette från Korpo avgick med Collanders tjära och beck till Danzig.",
+      "people": [
+        "Mats Mickelsson",
+        "Carl Josef Collander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Juno lastar tjära",
+      "date": {
+        "year": 1847,
+        "month": 8,
+        "day": 14,
+        "circa": false
+      },
+      "description": "Skonerten Juno lastade i Nykarleby 1 000 tunnor tjära för Finnboda Beckbruksbolag i Stockholm.",
+      "people": [
+        "Eric Englund"
+      ],
+      "places": [
+        "Nykarleby yttre redd"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "38104b0549e57b0485bb74d593c3569b9864e920a3455decfeff152f88ee6f52",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

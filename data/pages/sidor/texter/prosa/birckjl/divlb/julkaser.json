@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/julkaser.htm",
+  "title": "Jul- och hembygdskåseri",
+  "summary": "J. L. Birck berättade 1956 om rådhuset i Nykarleby, som tjänat som trivialskola, flickskola, bibliotek, domsal, teater och biograf. Han minns också julfester, nyårsbaler, julstjärnor och pojkarna vid seminariets pumporgel.",
+  "topics": [
+    "jul",
+    "rådhuset",
+    "skolhistoria",
+    "nöjesliv",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Zacharias Topelius",
+      "alternateNames": [
+        "Z. Topelius",
+        "Zachris Topelius",
+        "ZT"
+      ],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Ragnar Eklund",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Gertrud Wichmann",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Edvard Persson",
+      "alternateNames": [],
+      "roles": [
+        "artist"
+      ]
+    },
+    {
+      "name": "Karl Gerhard",
+      "alternateNames": [],
+      "roles": [
+        "artist"
+      ]
+    },
+    {
+      "name": "Gånge Rolf",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby rådhus",
+      "kind": "building",
+      "alternateNames": [
+        "rådhuset"
+      ],
+      "description": "Gammalt skolhus som efter branden 1858 blev stadens rådhus.",
+      "uses": [
+        {
+          "use": "trivialskola",
+          "startYear": 1641
+        },
+        {
+          "use": "rådhus",
+          "startYear": 1858
+        },
+        {
+          "use": "bibliotek"
+        },
+        {
+          "use": "telefoncentral"
+        },
+        {
+          "use": "teater"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smaldöraboden",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Hembageri med smal butiksdörr i den gamla rektorsbostaden.",
+      "uses": [
+        {
+          "use": "bageri"
+        }
+      ],
+      "nameOrigin": "Landsborna gav bageriet namnet efter den smala butiksdörren mot gatan."
+    },
+    {
+      "name": "Brandkårshuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "telefoncentral"
+        }
+      ],
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Seminariet",
+      "kind": "building",
+      "alternateNames": [
+        "seminariets stora sal"
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "seminariet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Pensars gård",
+      "kind": "building",
+      "alternateNames": [
+        "Nylunds"
+      ],
+      "address": "Bankgatan 4",
+      "description": "Här hölls en nyårsbal i gästgiveriets stora sal.",
+      "uses": [
+        {
+          "use": "gästgiveri"
+        }
+      ],
+      "geo": {
+        "lat": 63.5229781,
+        "lng": 22.5281705,
+        "match": "address",
+        "gazetteerName": "bankgatan 4",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Södra torggatan",
+      "kind": "street",
+      "alternateNames": [
+        "Sollefteågatan"
+      ],
+      "geo": {
+        "lat": 63.521850546282025,
+        "lng": 22.53077032844419,
+        "match": "name",
+        "gazetteerName": "södra torggatan",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Trivialskolan invigs",
+      "date": {
+        "year": 1641,
+        "circa": false
+      },
+      "description": "Trivialskolan, Österbottens främsta lärdomsskola, invigdes i huset som senare blev Nykarleby rådhus.",
+      "people": [],
+      "places": [
+        "Nykarleby rådhus"
+      ]
+    },
+    {
+      "title": "Trivialskolan flyttar till Vasa",
+      "date": {
+        "year": 1684,
+        "circa": false
+      },
+      "description": "Trivialskolan flyttades från Nykarleby till Vasa.",
+      "people": [],
+      "places": [
+        "Nykarleby rådhus"
+      ]
+    },
+    {
+      "title": "Stadsbranden",
+      "date": {
+        "year": 1858,
+        "circa": false,
+        "text": "Knutsdagen 1858"
+      },
+      "description": "Efter den ödeläggande branden i Nykarleby på Knutsdagen 1858 blev skolhusets flygel rådhus.",
+      "people": [],
+      "places": [
+        "Nykarleby rådhus"
+      ]
+    },
+    {
+      "title": "Första biografföreställningen",
+      "date": {
+        "year": 1908,
+        "circa": false
+      },
+      "description": "Två Nykarlebysöner hemkomna från Amerika visade stadens första film i rådhussalen.",
+      "people": [],
+      "places": [
+        "Nykarleby rådhus"
+      ]
+    },
+    {
+      "title": "Julgranen kommer",
+      "date": {
+        "year": 1838,
+        "circa": false,
+        "text": "julen 1838"
+      },
+      "description": "Julgran och julträ kom enligt Topelius dagböcker i bruk i Nykarleby första gången julen 1838.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Nyårsdans hos Turdins",
+      "date": {
+        "year": 1836,
+        "month": 1,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Den unge Zacharias Topelius dansade på en nyårsbjudning hos Turdins i Nykarleby till klockan sex på morgonen.",
+      "people": [
+        "Zacharias Topelius"
+      ],
+      "places": []
+    },
+    {
+      "title": "Julkåseri på Röda Korsets soaré",
+      "date": {
+        "year": 1956,
+        "month": 1,
+        "day": 8,
+        "circa": false
+      },
+      "description": "J. L. Birck höll ett jul- och hembygdskåseri på Röda Korsets soaré i Nykarleby rådhus.",
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": [
+        "Nykarleby rådhus"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Pojken Edgar pumpar luft till seminariets orgel för tio penni i timmen och drömmer om Fanny, lakritsbiten och blicken under dansövningen. Runt honom lever det gamla skolhuset upp med julfester, baler och julstjärnor.",
+    "reason": "En ung förälskelse och ett hus fullt av scener ger både hjärta och miljöer att rita.",
+    "characters": [
+      "Ragnar Eklund",
+      "J. L. Birck"
+    ],
+    "places": [
+      "Nykarleby rådhus",
+      "Seminariet"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "a9052f46877fcee390cefc4581d43b64a66fbc1b58df4b74d85ace2730328986",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

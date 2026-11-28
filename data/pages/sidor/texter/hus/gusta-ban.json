@@ -87,6 +87,11 @@
       "name": "Hanséns café",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "kafé"
+        }
+      ],
       "geo": {
         "lat": 63.522137983947204,
         "lng": 22.534487562964966,
@@ -109,6 +114,12 @@
       "alternateNames": [
         "Bönehuset"
       ],
+      "uses": [
+        {
+          "use": "församlingshem",
+          "endYear": 1971
+        }
+      ],
       "geo": {
         "lat": 63.520578859366424,
         "lng": 22.53289007604204,
@@ -121,7 +132,18 @@
     {
       "name": "Emil Fors järnaffär",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "järnaffär"
+        },
+        {
+          "use": "glasmästeri"
+        },
+        {
+          "use": "bostad"
+        }
+      ]
     },
     {
       "name": "Blomströmska gården",
@@ -231,6 +253,52 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Rafael Sjöblom",
+      "place": "Gustav Adolfsgatan 4",
+      "relation": "owned",
+      "startYear": 2004,
+      "endYear": 2004
+    },
+    {
+      "person": "Emil Fors",
+      "place": "Emil Fors järnaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Rolf Renvall",
+      "place": "Nygårds hemman",
+      "relation": "built"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gustav Adolfsgatan 4",
+        "Bangatan",
+        "Hanséns café",
+        "KAP-PAS"
+      ],
+      "year": 1974
+    },
+    {
+      "image": 2,
+      "places": [
+        "Församlingshemmet"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "af90025570823953c41979ed5df58ae19af9bd368adb378415ae7aa74a1072f3",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

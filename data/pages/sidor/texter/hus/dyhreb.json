@@ -161,6 +161,15 @@
       ],
       "address": "Kyrkogatan 8",
       "description": "Kyrkogatan nr 10, tidigare 8.",
+      "uses": [
+        {
+          "use": "bostad"
+        },
+        {
+          "use": "tandläkarmottagning",
+          "endYear": 2009
+        }
+      ],
       "geo": {
         "lat": 63.52313299999999,
         "lng": 22.5275323,
@@ -175,7 +184,8 @@
       "kind": "building",
       "alternateNames": [
         "Backmans hus"
-      ]
+      ],
+      "nameOrigin": "Huset kallades Backmans hus efter Rosa Backman, lektor Backmans änka, som bosatte sig där."
     },
     {
       "name": "Bergerska gården",
@@ -306,6 +316,146 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Albert Dyhr",
+      "place": "Dyhrska gården",
+      "relation": "owned",
+      "startYear": 1858
+    },
+    {
+      "person": "Anders Gustav Olson",
+      "place": "Dyhrska gården",
+      "relation": "owned",
+      "endYear": 1871
+    },
+    {
+      "person": "Alexander Dyhr",
+      "place": "Dyhrska gården",
+      "relation": "owned",
+      "startYear": 1871
+    },
+    {
+      "person": "K. A. Björklund",
+      "place": "Sundsténs gård",
+      "relation": "built"
+    },
+    {
+      "person": "Ulf Sundstén",
+      "place": "Sundsténs gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Rosa Backman",
+      "place": "Gården med den höga stenfoten",
+      "relation": "lived"
+    },
+    {
+      "person": "Hildegard Jessberg",
+      "place": "Gården med den höga stenfoten",
+      "relation": "lived"
+    },
+    {
+      "person": "Lotte Dyhr",
+      "place": "Gården med den höga stenfoten",
+      "relation": "lived"
+    },
+    {
+      "person": "Olga Heurlin",
+      "place": "Bergerska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Daniel Heurlin",
+      "place": "Bergerska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Anna Hildegard Dyhr",
+      "place": "Dyhrska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Rosa Katarina Dyhr",
+      "place": "Dyhrska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Anna Wahlberg",
+      "place": "Dyhrska gården",
+      "relation": "owned",
+      "startYear": 1973
+    },
+    {
+      "person": "Anna Wahlberg",
+      "place": "Dyhrska gården",
+      "relation": "lived",
+      "startYear": 1987,
+      "endYear": 1996
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Dyhrska gården"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Dyhrska gården"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Dyhrska gården",
+        "Kyrkogatan"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [],
+      "year": 1947
+    },
+    {
+      "image": 8,
+      "places": [
+        "Dyhrska gården"
+      ]
+    },
+    {
+      "image": 9,
+      "places": [
+        "Dyhrska gården"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 10,
+      "places": [
+        "Sundsténs gård",
+        "Dyhrska gården"
+      ]
+    },
+    {
+      "image": 11,
+      "places": [
+        "Dyhrska gården"
+      ],
+      "year": 2008
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "f7dcf76d7fc84ae0542482da2db7f59b5d5decc6615746ac792780e2f0c50048",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

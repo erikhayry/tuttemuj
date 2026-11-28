@@ -1,0 +1,77 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/14affare.htm",
+  "title": "En nykarlebyköpman: affären med J.P. Wall i Stockholm",
+  "summary": "År 1851 skeppade Collander och C.W. Sundström utsädesråg från Nykarleby till Stockholm på skonerten Maria. Resultatet var så magert att Collander misstänkte att kommissionären J.P. Wall lurat honom, och samarbetet upphörde.",
+  "topics": [
+    "handel",
+    "råg",
+    "tvister",
+    "Stockholm",
+    "1850-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "J.P. Wall",
+      "alternateNames": [],
+      "roles": [
+        "kommissionär"
+      ]
+    },
+    {
+      "name": "C.W. Sundström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Petter Bergh",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Skonerten Maria lastad med råg",
+      "date": {
+        "year": 1851,
+        "month": 6,
+        "day": 21,
+        "circa": false
+      },
+      "description": "Skonerten Maria låg segelklar i Nykarleby med utsädesråg som Collander och Sundström skickade till Stockholm.",
+      "people": [
+        "Carl Josef Collander",
+        "C.W. Sundström"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Köpman Collander skickar sin finaste råg till Stockholm, men får en märkligt mager redovisning. Han börjar misstänka att kommissionären sålt rågen som sin egen, och sedan dyker det upp en påse oanvändbara mynt.",
+    "reason": "Misstanken om bedrägeri och den udda myntpåsen ger en tydlig konflikt.",
+    "characters": [
+      "Carl Josef Collander",
+      "J.P. Wall"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "6e859d43c292c686eb33b734a9673179fe119d4383121e5a174d21f3a53ed059",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

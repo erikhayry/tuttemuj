@@ -132,13 +132,23 @@
         "Tomt 95",
         "Agnes Johanssons gård"
       ],
-      "description": "Vid esplanadens norra ände; riven för ett femvåningshus."
+      "description": "Vid esplanadens norra ände; riven för ett femvåningshus.",
+      "uses": [
+        {
+          "use": "barnbördshus"
+        }
+      ]
     },
     {
       "name": "Matts Bomans bod",
       "kind": "building",
       "alternateNames": [],
-      "description": "Av stock, uppförd 1756; stod kvar till 1950-talet."
+      "description": "Av stock, uppförd 1756; stod kvar till 1950-talet.",
+      "uses": [
+        {
+          "use": "bod"
+        }
+      ]
     },
     {
       "name": "Topeliusesplanaden",
@@ -338,6 +348,107 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Joh. Fellman",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1858
+    },
+    {
+      "person": "Karolina Fellman",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1870,
+      "endYear": 1878
+    },
+    {
+      "person": "F. W. Illberg",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1878,
+      "endYear": 1897
+    },
+    {
+      "person": "J. F. Grenman",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1897,
+      "endYear": 1906
+    },
+    {
+      "person": "E. V. Knape",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1906,
+      "endYear": 1909
+    },
+    {
+      "person": "G. Ahlström",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1909,
+      "endYear": 1916
+    },
+    {
+      "person": "Fanny Lundberg",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1916,
+      "endYear": 1921
+    },
+    {
+      "person": "Aline Skog",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1921,
+      "endYear": 1952
+    },
+    {
+      "person": "Emil Heino",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1921,
+      "endYear": 1952
+    },
+    {
+      "person": "Agnes Johansson",
+      "place": "Fellmans gård",
+      "relation": "owned",
+      "startYear": 1952
+    },
+    {
+      "person": "Matts Boman",
+      "place": "Matts Bomans bod",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Topeliusesplanaden",
+        "Fellmans gård",
+        "Topeliusparken"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Fellmans gård"
+      ],
+      "year": 1957
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "252c7ad28e7963f96f7760e93de0d1a1c6fe66afe8b26414048f548d5461b17f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

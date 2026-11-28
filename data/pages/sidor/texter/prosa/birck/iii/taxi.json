@@ -1,0 +1,239 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/taxi.htm",
+  "title": "Taxi",
+  "summary": "Nykarlebys första hyrbilsstation öppnade i mitten av 1920-talet i hörnet av Bankgatan och Östra Esplanadgatan. Sidan berättar om birsbilarna och deras ägare och visar foton, bland annat av Ahlströms taxi i diket.",
+  "topics": [
+    "taxi",
+    "trafik",
+    "bilar",
+    "kommunikationer"
+  ],
+  "people": [
+    {
+      "name": "R. Häggman",
+      "alternateNames": [],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "G. Fjällström",
+      "alternateNames": [],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Einar Sund",
+      "alternateNames": [],
+      "roles": [
+        "chaufför"
+      ]
+    },
+    {
+      "name": "Ivar Granö",
+      "alternateNames": [],
+      "roles": [
+        "taxiförare"
+      ]
+    },
+    {
+      "name": "Nils Bonäs",
+      "alternateNames": [],
+      "roles": [
+        "taxiförare"
+      ]
+    },
+    {
+      "name": "Samuel Arvid Stoor-Ehrola",
+      "alternateNames": [],
+      "birthYear": 1897,
+      "deathYear": 1954,
+      "roles": []
+    },
+    {
+      "name": "Alarik Vilhelm Engberg",
+      "alternateNames": [],
+      "birthYear": 1883,
+      "deathYear": 1954,
+      "roles": []
+    },
+    {
+      "name": "Lars Pensar",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Första hyrbilsstationen",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "hörnet av Bankgatan och Östra Esplanadgatan",
+      "uses": [
+        {
+          "use": "taxistation"
+        }
+      ]
+    },
+    {
+      "name": "Hyrbilsstationen vid Västra Esplanaden",
+      "kind": "other",
+      "alternateNames": [],
+      "address": "hörnet av Västra Esplanaden och Borgaregatan",
+      "uses": [
+        {
+          "use": "taxistation",
+          "startYear": 1947
+        }
+      ]
+    },
+    {
+      "name": "Forsbergs kiosk",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kiosk"
+        }
+      ]
+    },
+    {
+      "name": "Slottes skoaffär",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skoaffär"
+        }
+      ]
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Östra Esplanadgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52383125976564,
+        "lng": 22.531867828384666,
+        "match": "name",
+        "gazetteerName": "östra esplanaden",
+        "gazetteerKind": "street",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Västra Esplanaden",
+      "kind": "street",
+      "alternateNames": []
+    },
+    {
+      "name": "Borgaregatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5232479,
+        "lng": 22.5356973,
+        "match": "name",
+        "gazetteerName": "borgaregatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Socklotvägen",
+      "kind": "street",
+      "alternateNames": [
+        "Soklotvägen"
+      ],
+      "geo": {
+        "lat": 63.5855463,
+        "lng": 22.5401866,
+        "match": "name",
+        "gazetteerName": "socklotvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Första hyrbilsstationen",
+      "date": {
+        "year": 1920,
+        "endYear": 1929,
+        "circa": true,
+        "text": "mitten på 1920-talet"
+      },
+      "description": "Den första hyrbilsstationen i Nykarleby öppnade i hörnet av Bankgatan och Östra Esplanadgatan.",
+      "people": [],
+      "places": [
+        "Första hyrbilsstationen"
+      ]
+    },
+    {
+      "title": "Bilkollision på Soklotvägen",
+      "date": {
+        "year": 1935,
+        "circa": false
+      },
+      "description": "En lastbil och en hyrbil krockade på Soklotvägen så att hyrbilen hamnade upp och ned i diket, men passagerarna klarade sig med förskräckelsen.",
+      "people": [],
+      "places": [
+        "Socklotvägen"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "R. Häggman",
+      "place": "Hyrbilsstationen vid Västra Esplanaden",
+      "relation": "ran",
+      "startYear": 1947
+    },
+    {
+      "person": "G. Fjällström",
+      "place": "Hyrbilsstationen vid Västra Esplanaden",
+      "relation": "ran",
+      "startYear": 1947
+    },
+    {
+      "person": "Einar Sund",
+      "place": "Hyrbilsstationen vid Västra Esplanaden",
+      "relation": "ran",
+      "startYear": 1947
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Forsbergs kiosk"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Borgaregatan"
+      ]
+    }
+  ],
+  "contentHash": "8b4bce2f8d62d83a6f727bd2bbe283645dbf939f6bab62298336d48cc2b1f10d",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -92,6 +92,15 @@
       "kind": "building",
       "alternateNames": [],
       "description": "Underjordisk källare nedanför kyrkan vid Cederska backen; byggd 1847, skyddsrum under kriget, dränkt vid dammhöjningen 1984.",
+      "uses": [
+        {
+          "use": "källare",
+          "startYear": 1847
+        },
+        {
+          "use": "skyddsrum"
+        }
+      ],
       "geo": {
         "lat": 63.52279354021227,
         "lng": 22.525871754292172,
@@ -243,6 +252,60 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Matts Sandström",
+      "place": "Gråstenskällaren",
+      "relation": "built"
+    },
+    {
+      "person": "C. J. Collander",
+      "place": "Gråstenskällaren",
+      "relation": "built"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gråstenskällaren",
+        "Badhusstigen",
+        "Storbron",
+        "Klappbryggan"
+      ],
+      "year": 1972
+    },
+    {
+      "image": 2,
+      "places": [
+        "Holmströms magasin",
+        "Sundströms magasin",
+        "Gråstenskällaren"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Gråstenskällaren",
+        "Kyrkan"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Gråstenskällaren"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "484b5b8c902f5efdfd4429f7e457836901281d85fdff9be87e5c90307625d68f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

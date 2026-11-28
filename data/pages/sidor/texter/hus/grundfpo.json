@@ -144,6 +144,39 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Grundfeldtska gårdens norra port",
+        "Grundfeldtska gården",
+        "Topeliusparken"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Grundfeldtska gårdens östra port",
+        "Grundfeldtska gården"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "d894ea28e60ed811edd98f3da7196eb9b5de5ab5a0f14a397ab57136944777f6",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

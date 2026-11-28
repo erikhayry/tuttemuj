@@ -1,0 +1,204 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/eo/erikoli3.htm",
+  "title": "Erik Olin och hans byskola, del 3",
+  "summary": "J. L. Birck skildrar skolmästaren Erik Olins skoltal, nykterhetsförbund i Storsocklot 1877 och diktböcker med egna och elevernas verser. Sommaren 1894 fick Zachris Topelius läsa visboken och skrev några ord om den.",
+  "topics": [
+    "byskola",
+    "folkdiktning",
+    "skoltal",
+    "nykterhet",
+    "uppfostran"
+  ],
+  "people": [
+    {
+      "name": "Erik Olin",
+      "alternateNames": [
+        "E. Olin"
+      ],
+      "roles": [
+        "byskollärare",
+        "diktare"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Nikola",
+      "alternateNames": [],
+      "roles": [
+        "kyrkosexman"
+      ]
+    },
+    {
+      "name": "Sanna Backlund",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Wilhelm Frilund",
+      "alternateNames": [],
+      "roles": [
+        "elev",
+        "banmästare"
+      ]
+    },
+    {
+      "name": "Jakob Ohlsson",
+      "alternateNames": [],
+      "roles": [
+        "fiskare"
+      ]
+    },
+    {
+      "name": "Johan Frost",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jakob Karlsson Frost",
+      "alternateNames": [],
+      "deathYear": 1886,
+      "roles": []
+    },
+    {
+      "name": "Johan Rudström",
+      "alternateNames": [],
+      "roles": [
+        "dräng"
+      ]
+    },
+    {
+      "name": "Zachris Topelius",
+      "alternateNames": [
+        "Z. Topelius"
+      ],
+      "roles": [
+        "skald"
+      ]
+    },
+    {
+      "name": "Z. Schalin",
+      "alternateNames": [],
+      "roles": [
+        "seminariedirektor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Storsocklot",
+      "kind": "village",
+      "alternateNames": [
+        "Storsoklot"
+      ]
+    },
+    {
+      "name": "Storträsket",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Gertruds",
+      "kind": "farm",
+      "alternateNames": [
+        "gertruds i socklot"
+      ]
+    },
+    {
+      "name": "Storgrundet",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Mässkär",
+      "kind": "island",
+      "alternateNames": []
+    },
+    {
+      "name": "Markby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Förbund mot dryckenskap",
+      "date": {
+        "year": 1877,
+        "month": 9,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Byskolmästaren Erik Olin ville i Storsocklot få byborna att förbinda sig mot danshus, brännvin och objudna bröllopsgäster.",
+      "people": [
+        "Erik Olin"
+      ],
+      "places": [
+        "Storsocklot"
+      ]
+    },
+    {
+      "title": "Fiskarflottan i storm",
+      "date": {
+        "year": 1875,
+        "circa": false
+      },
+      "description": "Fiskaren Jakob Ohlsson från Socklot berättade på vers om en storm som skingrade elva båtar och drev tre av dem till Mässkär.",
+      "people": [
+        "Jakob Ohlsson"
+      ],
+      "places": [
+        "Mässkär"
+      ]
+    },
+    {
+      "title": "Topelius läser visboken",
+      "date": {
+        "year": 1894,
+        "month": 7,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Zachris Topelius återsände i Nykarleby Erik Olins handskrivna visbok med ett omdöme om dess tro och innerlighet.",
+      "people": [
+        "Zachris Topelius",
+        "Erik Olin"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En aprildag stannar unge Erik hölasset mitt på Storträsket, ger hästen en tapp hö och skriver en vårdikt i snön med käppen. Årtionden senare håller själve Topelius hans visbok i handen.",
+    "reason": "Från en dikt i snön till den stora skaldens omdöme går en fin berättelsebåge.",
+    "characters": [
+      "Erik Olin",
+      "Zachris Topelius"
+    ],
+    "places": [
+      "Storträsket"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "804966cfeb9ef9c2249e6562c7b1cd441476d07ca9db0a923f83949ec0084b21",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

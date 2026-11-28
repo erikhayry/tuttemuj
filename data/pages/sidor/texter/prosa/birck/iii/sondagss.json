@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/sondagss.htm",
+  "title": "Söndagsskolan för tjänsteflickor",
+  "summary": "Sånglärarinnan Mathilda Sandström öppnade 1870 en söndagsskola för tjänsteflickor i Nykarleby. Skolan öppnades på nytt 1875 med 70 elever, och lektor Viktor Heikel och några kvinnor i staden undervisade gratis.",
+  "topics": [
+    "skola",
+    "tjänsteflickor",
+    "söndagsskola",
+    "kvinnor",
+    "1870-talet"
+  ],
+  "people": [
+    {
+      "name": "Mathilda Sandström",
+      "alternateNames": [],
+      "roles": [
+        "sånglärarinna"
+      ]
+    },
+    {
+      "name": "Kaldén",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Frans Gustaf Peterson",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Viktor Heikel",
+      "alternateNames": [],
+      "roles": [
+        "lektor"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "söndagsskola",
+          "startYear": 1870
+        }
+      ]
+    },
+    {
+      "name": "Lägre folkskolan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "söndagsskola",
+          "startYear": 1875
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Söndagsskola för tjänsteflickor öppnar",
+      "date": {
+        "year": 1870,
+        "month": 3,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Sånglärarinnan Mathilda Sandström öppnade en söndagsskola för tjänsteflickor i lägre elementarskolans lokal i Nykarleby.",
+      "people": [
+        "Mathilda Sandström"
+      ],
+      "places": [
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Skolan öppnas på nytt",
+      "date": {
+        "year": 1875,
+        "month": 3,
+        "circa": false
+      },
+      "description": "Söndagsskolan för tjänsteflickor öppnades igen i lägre folkskolans lokal i Nykarleby med 70 elever.",
+      "people": [
+        "Viktor Heikel"
+      ],
+      "places": [
+        "Lägre folkskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "7d92785a0202e762e8be422ace735aca0ed78f361ede9be548645258f25f2c83",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

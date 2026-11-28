@@ -1,0 +1,167 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/taltk350.htm",
+  "title": "Tal till kvinnan vid Nykarleby stads 350-årsjubileum",
+  "summary": "J. L. Birck hyllade vid stadens 350-årsmiddag 1970 Nykarlebys kvinnor genom tiderna. Han mindes moster Granlund, klockarfrun Matilda Nessler, sina första lärarinnor och bykgummorna vid älvens vakar.",
+  "topics": [
+    "kvinnohistoria",
+    "jubileum",
+    "barndomsminnen",
+    "föreningar"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "Johan Ludvig Birck"
+      ],
+      "roles": [
+        "talare"
+      ]
+    },
+    {
+      "name": "Granlund",
+      "alternateNames": [
+        "moster Granlund"
+      ],
+      "roles": [
+        "skomakarhustru"
+      ]
+    },
+    {
+      "name": "Matilda Nessler",
+      "alternateNames": [],
+      "roles": [
+        "klockarfru",
+        "sparbankskamrer"
+      ]
+    },
+    {
+      "name": "Hilda Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "formanshustru"
+      ]
+    },
+    {
+      "name": "Majson Castrén",
+      "alternateNames": [],
+      "roles": [
+        "organist",
+        "musiklektor"
+      ]
+    },
+    {
+      "name": "Katarina Jakobsson",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Lydia Sundström",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Josefine Berg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Ester Fougstedt",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "restaurang von Döbeln",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "restaurang"
+        }
+      ],
+      "geo": {
+        "lat": 63.522418769115106,
+        "lng": 22.531700963103503,
+        "match": "name",
+        "gazetteerName": "restaurang von döbeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "församlingshemmet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "församlingshem"
+        }
+      ],
+      "geo": {
+        "lat": 63.520578859366424,
+        "lng": 22.53289007604204,
+        "match": "name",
+        "gazetteerName": "församlingshemmet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Jubileumsmiddagen",
+      "date": {
+        "year": 1970,
+        "month": 8,
+        "day": 23,
+        "circa": false
+      },
+      "description": "J. L. Birck höll ett tal till kvinnan vid Nykarleby stads 350-årsmiddag på restaurang von Döbeln.",
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": [
+        "restaurang von Döbeln"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Moster Granlund steker nejonögon och berättar om stadsbranden för ett kök fullt av ungar, medan farbror Granlund tyst binder kassar i sin vrå. Ute på isen sköljer bykgummorna tvätt med bara händer och tidningar under koftan.",
+    "reason": "Levande porträtt av vardagens kvinnor ger varma och dramatiska småscener.",
+    "characters": [
+      "Granlund",
+      "Matilda Nessler",
+      "J. L. Birck"
+    ],
+    "places": [
+      "Källbacken"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "b8e1c4761de1ad20095d8f458b714db050aa6ee79cd8e9c34f58ff92e3c1b851",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

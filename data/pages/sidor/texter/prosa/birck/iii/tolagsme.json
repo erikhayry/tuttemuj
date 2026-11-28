@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/tolagsme.htm",
+  "title": "Tolagsmedlen, hamnavgifterna och handelsgenanten",
+  "summary": "Under 1800-talet finansierade Nykarleby en stor del av sina utgifter med tolag, en avgift på tullbara varor som staden fick uppbära från 1827. Erik Birck går också igenom hamnavgifterna och handelsgenanten, som avskaffades 1879 efter en bitter strid.",
+  "topics": [
+    "tolag",
+    "hamnen",
+    "handel",
+    "tull",
+    "beskattning"
+  ],
+  "people": [],
+  "places": [
+    {
+      "name": "Sjötullkammaren",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tullkammare"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden får tullkammare",
+      "date": {
+        "year": 1827,
+        "month": 6,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Genom ett kejserligt brev fick Nykarleby egen tullkammare och rätt att uppbära tolag på tullbara varor.",
+      "people": [],
+      "places": [
+        "Sjötullkammaren"
+      ]
+    },
+    {
+      "title": "Tolagen regleras",
+      "date": {
+        "year": 1873,
+        "circa": false
+      },
+      "description": "Tolagen ändrades så att den i Nykarleby utgick med 3 procent av varans tullsats.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Hamnordning för nya hamnen",
+      "date": {
+        "year": 1876,
+        "month": 12,
+        "day": 12,
+        "circa": false
+      },
+      "description": "Senaten godkände hamnordning och taxor för Nykarlebys nya hamn.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Handelsgenanten avskaffas",
+      "date": {
+        "year": 1879,
+        "month": 5,
+        "day": 26,
+        "circa": false
+      },
+      "description": "Guvernörens utslag avskaffade officiellt handelsgenanten i Nykarleby efter en bitter kommunalpolitisk strid.",
+      "people": [],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "913e31bbb6a5eb905b4c544245feadbd1790591ae647143f7711679254723253",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

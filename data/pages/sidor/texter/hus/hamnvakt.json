@@ -183,6 +183,26 @@
       ],
       "address": "Andrasjövägen",
       "description": "Strax före korsningen med Bonäsvägen; byggd 1870–71, stationsbyggnad 1899–1916, såld 1999.",
+      "uses": [
+        {
+          "use": "vaktstuga"
+        },
+        {
+          "use": "stationsbyggnad",
+          "startYear": 1899,
+          "endYear": 1916
+        },
+        {
+          "use": "militärförläggning"
+        },
+        {
+          "use": "kiosk"
+        },
+        {
+          "use": "villa",
+          "startYear": 1999
+        }
+      ],
       "geo": {
         "lat": 63.5219692,
         "lng": 22.4894431,
@@ -259,7 +279,12 @@
     {
       "name": "Simhuset vid Andrasjön",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simhus"
+        }
+      ]
     },
     {
       "name": "Stora magasinet vid Andrasjön",
@@ -443,6 +468,110 @@
       "Andrasjön"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Granlund",
+      "place": "Hamnvaktsstugan",
+      "relation": "worked",
+      "startYear": 1913
+    },
+    {
+      "person": "Maria Petterson",
+      "place": "Andrasjön",
+      "relation": "worked",
+      "startYear": 1920,
+      "endYear": 1943
+    },
+    {
+      "person": "Hjalmar Sund",
+      "place": "Andrasjön",
+      "relation": "worked",
+      "startYear": 1926
+    },
+    {
+      "person": "Ossian Östman",
+      "place": "Hamnvaktsstugan",
+      "relation": "worked",
+      "startYear": 1949,
+      "endYear": 1963
+    },
+    {
+      "person": "Mauritz Söderlund",
+      "place": "Hamnvaktsstugan",
+      "relation": "worked",
+      "startYear": 1959
+    },
+    {
+      "person": "Mauritz Söderlund",
+      "place": "Hamnvaktsstugan",
+      "relation": "lived"
+    },
+    {
+      "person": "Tekla Söderlund",
+      "place": "Hamnvaktsstugan",
+      "relation": "ran"
+    },
+    {
+      "person": "Lars Östman",
+      "place": "Hamnvaktsstugan",
+      "relation": "born",
+      "startYear": 1949,
+      "endYear": 1949
+    },
+    {
+      "person": "Nils-Olof Östman",
+      "place": "Hamnvaktsstugan",
+      "relation": "ran",
+      "startYear": 1963,
+      "endYear": 1964
+    },
+    {
+      "person": "Annalisa Östman",
+      "place": "Hamnvaktsstugan",
+      "relation": "ran",
+      "startYear": 1963,
+      "endYear": 1964
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hamnvaktsstugan",
+        "Andrasjövägen",
+        "Bonäsvägen",
+        "Villa Nybo"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 2,
+      "places": [
+        "Hamnvaktsstugan"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Stora magasinet vid Andrasjön"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 5,
+      "places": [],
+      "year": 2020
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "8edbf80c91a01cdc5fbf0c5c3bbeedcf1afc81879e62f70ad973b71c727c8577",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

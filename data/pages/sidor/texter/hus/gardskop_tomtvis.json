@@ -13,6 +13,23 @@
   "places": [],
   "events": [],
   "comicCandidate": null,
+  "pageType": "list",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 2017
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "1bd0c5ddf3ce720dc7b298ef284f0a945061d1509293500c28adf52e875469ea",
   "extractionVersion": 1,
   "model": "claude-haiku-5-5",

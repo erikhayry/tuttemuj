@@ -1,0 +1,232 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/snickajb.htm",
+  "title": "Snickeriarbetare",
+  "summary": "J. L. Birck arbetade 1902 som ung i August Gustafssons och Johan Holmqvists snickerier i Nykarleby. På morgonvandringen till Källbacken lyste brasan i sjöman Bromans lilla stuga, där vinterkvällarna förgylldes av Fänrik Ståls sägner.",
+  "topics": [
+    "snickeri",
+    "hantverk",
+    "Källbacken",
+    "ungdomsminnen",
+    "1900-talets början"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "snickeriarbetare",
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Holmqvist",
+      "alternateNames": [
+        "John Holmqvist",
+        "Liima-Janne"
+      ],
+      "roles": [
+        "snickarmästare"
+      ]
+    },
+    {
+      "name": "August Gustafsson",
+      "alternateNames": [],
+      "roles": [
+        "snickarmästare"
+      ]
+    },
+    {
+      "name": "Broman",
+      "alternateNames": [],
+      "roles": [
+        "sjöman"
+      ]
+    },
+    {
+      "name": "Kajsa",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Aina",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Gustafssons snickeriverkstad",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "snickeri"
+        }
+      ]
+    },
+    {
+      "name": "Holmqvists snickeriverkstad",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Låg på Källbacken bortom Harapotten.",
+      "uses": [
+        {
+          "use": "snickeri"
+        }
+      ]
+    },
+    {
+      "name": "Källbacken",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52508289999999,
+        "lng": 22.5386329,
+        "match": "name",
+        "gazetteerName": "källbacken",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Harapotten",
+      "kind": "other",
+      "alternateNames": []
+    },
+    {
+      "name": "Gustav Adolfsgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5234563,
+        "lng": 22.5335698,
+        "match": "name",
+        "gazetteerName": "gustav adolfsgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bromans stuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "huset på Bloms tomt",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Grev Tottgatan 8",
+      "uses": [
+        {
+          "use": "likkistsnickeri"
+        }
+      ]
+    },
+    {
+      "name": "Langraden",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Birck börjar hos Gustafsson",
+      "date": {
+        "year": 1902,
+        "month": 9,
+        "day": 1,
+        "circa": false
+      },
+      "description": "J. L. Birck började arbeta på August Gustafssons snickeriverkstad i Nykarleby för 7 mark i veckan.",
+      "people": [
+        "J. L. Birck",
+        "August Gustafsson"
+      ],
+      "places": [
+        "Gustafssons snickeriverkstad"
+      ]
+    },
+    {
+      "title": "Birck börjar hos Holmqvist",
+      "date": {
+        "year": 1902,
+        "month": 12,
+        "day": 1,
+        "circa": false
+      },
+      "description": "J. L. Birck fortsatte sin snickarbana i Johan Holmqvists verkstad på Källbacken.",
+      "people": [
+        "J. L. Birck",
+        "Johan Holmqvist"
+      ],
+      "places": [
+        "Holmqvists snickeriverkstad",
+        "Källbacken"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "I vintermörkret går den unge snickaren genom den sovande staden mot Bromans flammande brasa. Om dagen drar den väldige sjömannen sin vedkälke till skogen, om kvällen läser han Fänrik Stål för dottern så att stugan tycks växa.",
+    "reason": "En stämningsfull och varm vardagsskildring med en minnesvärd figur.",
+    "characters": [
+      "J. L. Birck",
+      "Broman",
+      "Aina",
+      "Kajsa"
+    ],
+    "places": [
+      "Källbacken",
+      "Bromans stuga"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "J. L. Birck",
+      "place": "Gustafssons snickeriverkstad",
+      "relation": "worked",
+      "startYear": 1902,
+      "endYear": 1902
+    },
+    {
+      "person": "J. L. Birck",
+      "place": "Holmqvists snickeriverkstad",
+      "relation": "worked",
+      "startYear": 1902
+    },
+    {
+      "person": "J. L. Birck",
+      "place": "Gustav Adolfsgatan",
+      "relation": "lived"
+    },
+    {
+      "person": "August Gustafsson",
+      "place": "Gustafssons snickeriverkstad",
+      "relation": "ran"
+    },
+    {
+      "person": "Johan Holmqvist",
+      "place": "Holmqvists snickeriverkstad",
+      "relation": "owned"
+    },
+    {
+      "person": "Broman",
+      "place": "Bromans stuga",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "huset på Bloms tomt"
+      ],
+      "year": 2003
+    }
+  ],
+  "contentHash": "c12860419540b8c8e33de548d31e94fe8bff9089bc10c48e34af36fa1c4bffea",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

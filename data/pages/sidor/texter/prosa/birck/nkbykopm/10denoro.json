@@ -1,0 +1,124 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/10denoro.htm",
+  "title": "En nykarlebyköpman: den oroliga våren 1848",
+  "summary": "Ryktet om revolutionen nådde Nykarleby våren 1848 och fick Collander att dröja med sina tjärlaster. Banken och köparen i Pillau blev misstänksamma mot växlarna, men i juni seglade skonerten Hoppet och affärerna kom igång igen.",
+  "topics": [
+    "handel",
+    "februarirevolutionen",
+    "tjära",
+    "sjöfart",
+    "1848"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "Joh. Adolf Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "kompanjon"
+      ]
+    },
+    {
+      "name": "Olof Brunström",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Otto Brunström",
+      "alternateNames": [],
+      "roles": [
+        "styrman",
+        "skeppare"
+      ]
+    },
+    {
+      "name": "Dahlstedt",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Benj. Schmidt",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J.O. Strömsten",
+      "alternateNames": [],
+      "roles": [
+        "sjökapten",
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Norra Kvarken",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Revolutionsryktet når staden",
+      "date": {
+        "year": 1848,
+        "month": 4,
+        "day": 10,
+        "circa": false
+      },
+      "description": "Köpmannen Collander skrev att allt var lugnt i Nykarleby trots ryktet om oroligheter i Europa.",
+      "people": [
+        "Carl Josef Collander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Otto Brunström blir skeppare",
+      "date": {
+        "year": 1848,
+        "circa": false
+      },
+      "description": "Styrmannen Otto Brunström avlade skepparexamen i Vasa och tog efter sin far över skeppet Emelie.",
+      "people": [
+        "Otto Brunström",
+        "Olof Brunström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Hoppet klarerar ut",
+      "date": {
+        "year": 1848,
+        "month": 6,
+        "day": 19,
+        "circa": false
+      },
+      "description": "Skonerten Hoppet under kapten Dahlstedt klarerade ut med tjära och beck till Collanders kund i Pillau.",
+      "people": [
+        "Dahlstedt",
+        "Benj. Schmidt"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "adeafebcef963a696d1a52c5a847dbce604a154b49cf45f15cdb55df74405efa",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

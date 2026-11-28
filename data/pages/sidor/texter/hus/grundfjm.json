@@ -66,6 +66,11 @@
         "Grundfältska gården"
       ],
       "description": "Hörngården Västra Esplanadgatan–Lybecksgatan söder om Topeliusparken; ca 325 m² med 14 eldstäder och en stor sal; riven i mars 1961.",
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ],
       "geo": {
         "lat": 63.5245713,
         "lng": 22.5321666,
@@ -121,7 +126,12 @@
       "name": "Gårdshuset vid Lybecksgatan",
       "kind": "building",
       "alternateNames": [],
-      "description": "Hade en scoutlokal i källaren."
+      "description": "Hade en scoutlokal i källaren.",
+      "uses": [
+        {
+          "use": "scoutlokal"
+        }
+      ]
     }
   ],
   "events": [
@@ -141,6 +151,171 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusparken",
+        "Topeliusesplanaden",
+        "Lybecksgatan"
+      ],
+      "year": 1936
+    },
+    {
+      "image": 2,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusesplanaden",
+        "Lybecksgatan"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusparken"
+      ]
+    },
+    {
+      "image": 5,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 6,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 7,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusesplanaden"
+      ]
+    },
+    {
+      "image": 8,
+      "places": [
+        "Gårdshuset vid Lybecksgatan",
+        "Lybecksgatan"
+      ]
+    },
+    {
+      "image": 9,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 10,
+      "places": [
+        "Grundfeldtska gården",
+        "Lybecksgatan"
+      ]
+    },
+    {
+      "image": 11,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusesplanaden"
+      ]
+    },
+    {
+      "image": 12,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusesplanaden"
+      ]
+    },
+    {
+      "image": 13,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 14,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 15,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 16,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 17,
+      "places": [
+        "Grundfeldtska gården",
+        "Lybecksgatan"
+      ]
+    },
+    {
+      "image": 18,
+      "places": [
+        "Grundfeldtska gården",
+        "Lybecksgatan"
+      ]
+    },
+    {
+      "image": 19,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 20,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 21,
+      "places": [
+        "Grundfeldtska gården",
+        "Topeliusesplanaden"
+      ]
+    },
+    {
+      "image": 22,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    },
+    {
+      "image": 23,
+      "places": [
+        "Grundfeldtska gården"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:49:06.160Z"
+    }
+  ],
   "contentHash": "b2ae279e7d5ce225cd2672074e99dc3cc61fce297a8172e8883b39e7983ae364",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

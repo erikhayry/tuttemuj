@@ -1,0 +1,150 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/tullforv.htm",
+  "title": "Tullförvaltare vid Nykarleby tullkammare 1804–1922",
+  "summary": "En förteckning över tullförvaltarna och deras vikarier vid Nykarleby tullkammare 1804–1922, från tullinspektor Abraham Holm till Juho Richard Boehm, med tjänsteår kompletterade ur en finsk matrikel.",
+  "topics": [
+    "tull",
+    "tullförvaltare",
+    "ämbetsmän",
+    "matrikel"
+  ],
+  "people": [
+    {
+      "name": "Abraham Holm",
+      "alternateNames": [],
+      "roles": [
+        "tullinspektor"
+      ]
+    },
+    {
+      "name": "Jonas Johan Giers",
+      "alternateNames": [],
+      "deathYear": 1818,
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Petrus Engström",
+      "alternateNames": [
+        "Pehr Engström"
+      ],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Pehr Lundmark",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Petter Jacob Falck",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Oskar Lindbohm",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Albert Öberg",
+      "alternateNames": [
+        "Oskar Albert Eligius Öberg"
+      ],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Adolf Stråhlman",
+      "alternateNames": [],
+      "deathYear": 1897,
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "M. Efer Castrén",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Ludvig Nilsdorff",
+      "alternateNames": [
+        "L. Nilsdorff"
+      ],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "Juho Richard Boehm",
+      "alternateNames": [],
+      "roles": [
+        "överuppsyningsman vid tullverket"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby tullkammare",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tullkammare",
+          "startYear": 1804,
+          "endYear": 1922
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": null,
+  "pageType": "list",
+  "relations": [
+    {
+      "person": "Abraham Holm",
+      "place": "Nykarleby tullkammare",
+      "relation": "worked",
+      "startYear": 1804,
+      "endYear": 1812
+    },
+    {
+      "person": "Oskar Lindbohm",
+      "place": "Nykarleby tullkammare",
+      "relation": "worked",
+      "startYear": 1867,
+      "endYear": 1887
+    },
+    {
+      "person": "Albert Öberg",
+      "place": "Nykarleby tullkammare",
+      "relation": "worked",
+      "startYear": 1887,
+      "endYear": 1892
+    },
+    {
+      "person": "Ludvig Nilsdorff",
+      "place": "Nykarleby tullkammare",
+      "relation": "worked",
+      "startYear": 1907,
+      "endYear": 1918
+    }
+  ],
+  "images": [],
+  "contentHash": "a406795bc6082d941d81430d3da062711e5e6e7b6e5772a0ae4dd5516fd2ed2b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

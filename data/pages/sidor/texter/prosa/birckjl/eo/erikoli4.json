@@ -1,0 +1,199 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/eo/erikoli4.htm",
+  "title": "Erik Olin och hans byskola, del 4",
+  "summary": "Skolmästaren Erik Olin brevväxlade med forna elever ute i världen och förde sorgetavlor över dem som dött. Han slutade sin ambulerande skola 1892, fick en hedersgåva ur Topelius fond och avled 1897.",
+  "topics": [
+    "byskola",
+    "brev",
+    "elever",
+    "emigration",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Erik Olin",
+      "alternateNames": [
+        "Olin"
+      ],
+      "deathYear": 1897,
+      "roles": [
+        "byskollärare"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Jakob Smeds",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jenny Axeljana Lindvall",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    },
+    {
+      "name": "Lovisa Ahlnäs",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Matts Nylund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Johan Gästrin",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Z. Topelius",
+      "alternateNames": [],
+      "roles": [
+        "statsråd",
+        "skald"
+      ]
+    },
+    {
+      "name": "Mina Ahlberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Henrik Wik",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Östensö",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Markby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Olin slutar sin skola",
+      "date": {
+        "year": 1892,
+        "month": 7,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Sjukdom tvingade Erik Olin att lägga ner sin ambulerande byskola efter drygt 32 år, med sista kursen i Östensö.",
+      "people": [
+        "Erik Olin"
+      ],
+      "places": [
+        "Östensö"
+      ]
+    },
+    {
+      "title": "Topelius stiftar en fond",
+      "date": {
+        "year": 1895,
+        "month": 1,
+        "circa": false
+      },
+      "description": "Z. Topelius stiftade 14-januarifonden och bestämde att en av de två första minnesgåvorna skulle gå till Erik Olin i Socklot.",
+      "people": [
+        "Z. Topelius",
+        "Erik Olin"
+      ],
+      "places": [
+        "Socklot"
+      ]
+    },
+    {
+      "title": "Erik Olin avlider",
+      "date": {
+        "year": 1897,
+        "month": 5,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Byskolläraren Erik Olin avled och jordfästes under stor anslutning i Nykarleby kyrka.",
+      "people": [
+        "Erik Olin"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Den gamle, halvblinde Läraren trevar sig fram genom Socklot och skriver brev till elever i Ryssland och Amerika medan handen darrar. Till sist kommer en hedersgåva från Topelius som tack för ett livsverk.",
+    "reason": "Livsaftonen och det sena erkännandet ger en rörande avslutning.",
+    "characters": [
+      "Erik Olin",
+      "Z. Topelius"
+    ],
+    "places": [
+      "Socklot"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Erik Olin",
+      "place": "Socklot",
+      "relation": "lived"
+    }
+  ],
+  "images": [],
+  "contentHash": "25f4b4ffdc0dd01d826ee6b0f0ef12bce34ff2c2872a1e546c258222e09ebd9a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

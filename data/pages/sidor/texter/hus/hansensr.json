@@ -41,12 +41,22 @@
       "name": "Telefoncentralen",
       "kind": "building",
       "alternateNames": [],
-      "description": "Jakobstadsnejdens telefon Ab:s central."
+      "description": "Jakobstadsnejdens telefon Ab:s central.",
+      "uses": [
+        {
+          "use": "telefoncentral"
+        }
+      ]
     },
     {
       "name": "Liljedahls affärshus",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "telefoncentral"
+        }
+      ],
       "geo": {
         "lat": 63.522441186534955,
         "lng": 22.531521938766957,
@@ -72,6 +82,36 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hanséns café"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Hanséns café"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Hanséns café"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "3733b0130dad7af37d983f1f576705198eeb5cb08417d4fbb76480b7a93e3fa7",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

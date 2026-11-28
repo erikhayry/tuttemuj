@@ -114,6 +114,12 @@
       "alternateNames": [],
       "address": "Fabriksgatan",
       "description": "Byggt på Nykobe-tomten; eldning inleddes 2009.",
+      "uses": [
+        {
+          "use": "värmeverk",
+          "startYear": 2009
+        }
+      ],
       "geo": {
         "lat": 63.5270731,
         "lng": 22.5457636,
@@ -140,7 +146,13 @@
       "name": "Nykobes betongstation",
       "kind": "building",
       "alternateNames": [],
-      "description": "Byggd 1982 på tomten."
+      "description": "Byggd 1982 på tomten.",
+      "uses": [
+        {
+          "use": "betongstation",
+          "startYear": 1982
+        }
+      ]
     },
     {
       "name": "Kraftverket",
@@ -443,6 +455,218 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Tony Eklund",
+      "place": "Kraftverket",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [],
+      "year": 2024
+    },
+    {
+      "image": 3,
+      "places": [
+        "Juthbacka"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 4,
+      "places": [
+        "Juthbacka"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 5,
+      "places": [
+        "Juthbacka"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 6,
+      "places": [
+        "Fjärrvärmeverket"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 7,
+      "places": [
+        "Fjärrvärmeverket"
+      ],
+      "year": 2010
+    },
+    {
+      "image": 8,
+      "places": [
+        "Fjärrvärmeverket"
+      ],
+      "year": 2009
+    },
+    {
+      "image": 9,
+      "places": [
+        "Fjärrvärmeverket"
+      ],
+      "year": 2009
+    },
+    {
+      "image": 10,
+      "places": [
+        "Fjärrvärmeverket"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 11,
+      "places": [
+        "Borgaregatan",
+        "Karleborgsgatan"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 12,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 13,
+      "places": [
+        "Topeliusesplanaden",
+        "Borgaregatan"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 14,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 15,
+      "places": [
+        "Ämbetshuset"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 16,
+      "places": [
+        "Tvättinrättningen"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 17,
+      "places": [
+        "Topeliusesplanaden"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 18,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 21,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 22,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 23,
+      "places": [
+        "Ragnörn"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 24,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 25,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 26,
+      "places": [],
+      "year": 2008
+    },
+    {
+      "image": 27,
+      "places": [
+        "Nybrobacken",
+        "Topeliusparken"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 28,
+      "places": [],
+      "year": 2007
+    },
+    {
+      "image": 29,
+      "places": [
+        "Tvättinrättningen"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 30,
+      "places": [
+        "Stjärnhallen"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 31,
+      "places": [],
+      "year": 2007
+    },
+    {
+      "image": 32,
+      "places": [],
+      "year": 2007
+    },
+    {
+      "image": 33,
+      "places": [
+        "Topeliusgymnasiet"
+      ],
+      "year": 2007
+    },
+    {
+      "image": 34,
+      "places": [],
+      "year": 2007
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "662a1b4fd92040cd87c762486e70c066129df110fd3b8ffc63fa9132618ff449",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,254 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/lokeldjb.htm",
+  "title": "Lokomotiveldare på Nykarleby järnväg",
+  "summary": "J. L. Birck blev i juni 1901, ännu inte femton år, lokomotiveldare på Nykarleby järnväg. Tjärad ved från Storbrons gamla brolock slaggade igen lokets roster, och utan lediga dagar sade han upp sig i augusti 1902.",
+  "topics": [
+    "järnväg",
+    "Nykarlebybässen",
+    "ungdomsminnen",
+    "arbete",
+    "emigration"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "Johan Ludvig Birck"
+      ],
+      "roles": [
+        "lokeldare",
+        "författare"
+      ]
+    },
+    {
+      "name": "Emil Sundell",
+      "alternateNames": [],
+      "roles": [
+        "målarmästare"
+      ]
+    },
+    {
+      "name": "K. F. Spolander",
+      "alternateNames": [],
+      "roles": [
+        "trafikchef",
+        "överlärare"
+      ]
+    },
+    {
+      "name": "K. Karjala",
+      "alternateNames": [],
+      "roles": [
+        "lokförare"
+      ]
+    },
+    {
+      "name": "Viktor Jansson",
+      "alternateNames": [],
+      "roles": [
+        "lokeldare"
+      ]
+    },
+    {
+      "name": "Gustaf Bärs",
+      "alternateNames": [],
+      "roles": [
+        "banvakt"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby station",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "järnvägsstation"
+        }
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "lokomotivstallet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "lokstall"
+        }
+      ]
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tapethandel"
+        }
+      ],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [
+        "Stora bron"
+      ],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Smedslundsbacken",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Karlgrönfors",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Birck blir lokeldare",
+      "date": {
+        "year": 1901,
+        "month": 6,
+        "day": 2,
+        "circa": false
+      },
+      "description": "J. L. Birck började som lokomotiveldare på Nykarleby järnväg för 35 mark i månaden.",
+      "people": [
+        "J. L. Birck",
+        "K. F. Spolander",
+        "K. Karjala"
+      ],
+      "places": [
+        "lokomotivstallet"
+      ]
+    },
+    {
+      "title": "Brolocksveden slaggar igen loket",
+      "date": {
+        "year": 1901,
+        "circa": false
+      },
+      "description": "Ved från Storbrons rivna, tjärade brolock slaggade igen lokets roster så att tåget i Nykarleby nästan stannade, tills vikarien Viktor Jansson fann felet.",
+      "people": [
+        "Viktor Jansson",
+        "J. L. Birck"
+      ],
+      "places": [
+        "Storbron",
+        "lokomotivstallet"
+      ]
+    },
+    {
+      "title": "Tjänsten slutar",
+      "date": {
+        "year": 1902,
+        "month": 8,
+        "day": 30,
+        "circa": false
+      },
+      "description": "J. L. Birck slutade som eldare vid Nykarleby järnväg för att få ledighet och tid med kamrater.",
+      "people": [
+        "J. L. Birck"
+      ],
+      "places": [
+        "lokomotivstallet"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Fjortonåringen Birck sätts utan att bli tillfrågad att elda ett lok vars förare inte förstår hans språk. När tjärad brolocksved slaggar igen pannan kryper tåget i backarna, passagerarna får skjuta på och eldaren får skulden.",
+    "reason": "En tydlig konflikt med komik, en oväntad räddare och ett frigörande slut.",
+    "characters": [
+      "J. L. Birck",
+      "K. Karjala",
+      "Viktor Jansson",
+      "K. F. Spolander"
+    ],
+    "places": [
+      "lokomotivstallet",
+      "Nykarleby station"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "J. L. Birck",
+      "place": "lokomotivstallet",
+      "relation": "worked",
+      "startYear": 1901,
+      "endYear": 1902
+    },
+    {
+      "person": "J. L. Birck",
+      "place": "Brostugan",
+      "relation": "worked",
+      "startYear": 1901,
+      "endYear": 1901
+    },
+    {
+      "person": "Emil Sundell",
+      "place": "Brostugan",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nykarleby station"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Nykarleby station",
+        "Bangatan"
+      ]
+    }
+  ],
+  "contentHash": "6048dc23bb8c427e4deaa52e1fc36c86c17c9aaa36186c5351c0db773081c500",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

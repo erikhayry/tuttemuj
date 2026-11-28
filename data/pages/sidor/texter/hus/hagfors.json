@@ -152,6 +152,25 @@
       ],
       "address": "Topeliusesplanaden 13",
       "description": "Brann i mars 1971.",
+      "uses": [
+        {
+          "use": "bostad",
+          "startYear": 1896,
+          "endYear": 1916
+        },
+        {
+          "use": "diverseaffär"
+        },
+        {
+          "use": "möbellager"
+        },
+        {
+          "use": "skomakarverkstad"
+        },
+        {
+          "use": "leksaksaffär"
+        }
+      ],
       "geo": {
         "lat": 63.52311510000001,
         "lng": 22.5314284,
@@ -164,13 +183,23 @@
     {
       "name": "Ritas stuvbitar",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tygaffär"
+        }
+      ]
     },
     {
       "name": "CYK-RA",
       "kind": "building",
       "alternateNames": [
         "Sport S. Markkula"
+      ],
+      "uses": [
+        {
+          "use": "sportaffär"
+        }
       ]
     },
     {
@@ -281,6 +310,122 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Robert Ahlqvist",
+      "place": "Hagfors gård",
+      "relation": "owned",
+      "startYear": 1859
+    },
+    {
+      "person": "R. Polén",
+      "place": "Hagfors gård",
+      "relation": "owned",
+      "startYear": 1886
+    },
+    {
+      "person": "J. P. Holmström",
+      "place": "Hagfors gård",
+      "relation": "owned",
+      "startYear": 1896,
+      "endYear": 1896
+    },
+    {
+      "person": "K. J. Hagfors",
+      "place": "Hagfors gård",
+      "relation": "owned",
+      "startYear": 1896
+    },
+    {
+      "person": "K. J. Hagfors",
+      "place": "Hagfors gård",
+      "relation": "lived",
+      "startYear": 1896,
+      "endYear": 1916
+    },
+    {
+      "person": "Maria Sandvik",
+      "place": "Hagfors gård",
+      "relation": "worked"
+    },
+    {
+      "person": "Edvard Hägglund",
+      "place": "Hagfors gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Alfons Marklund",
+      "place": "Hagfors gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Gerda Eklund",
+      "place": "Hagfors gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Kurt Udd",
+      "place": "Hagfors gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Sven Markkula",
+      "place": "CYK-RA",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hagfors gård"
+      ],
+      "year": 1901
+    },
+    {
+      "image": 2,
+      "places": [
+        "Hagfors gård",
+        "Ritas stuvbitar",
+        "CYK-RA"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Hagfors gård"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Hagfors gård"
+      ],
+      "year": 1964
+    },
+    {
+      "image": 5,
+      "places": [],
+      "year": 1955
+    },
+    {
+      "image": 6,
+      "places": [
+        "CYK-RA",
+        "Wiks hotell"
+      ],
+      "year": 1961
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "81024ee23fc5ec8ab3cb0ac9d21cb4e67f6494c05228fff8a5d8cb931e69aead",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

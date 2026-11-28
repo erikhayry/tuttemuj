@@ -1,0 +1,180 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/02ha1845.htm",
+  "title": "En nykarlebyköpman: handeln under 1845",
+  "summary": "År 1845 sålde köpmannen Collander beck och tjära från Nykarleby till kunder i Pillau, Danzig, Memel, Altona och England. Brevboken visar bristen på fraktfartyg, bråk om skeppet Juno och höga frakter som åt upp förtjänsten.",
+  "topics": [
+    "handel",
+    "tjära",
+    "beck",
+    "export",
+    "rederi",
+    "1840-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "J.M. Shipton",
+      "alternateNames": [],
+      "roles": [
+        "konsul"
+      ]
+    },
+    {
+      "name": "H. Borgström",
+      "alternateNames": [
+        "Borgström"
+      ],
+      "roles": [
+        "mäklare"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Adolf Hammarin",
+      "alternateNames": [
+        "Ad. Hammarin"
+      ],
+      "roles": [
+        "redare"
+      ]
+    },
+    {
+      "name": "J.A. Lybeck",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "N.H. Åkervall",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "C.M. Boström",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Matts Lithén",
+      "alternateNames": [
+        "M. Lithén"
+      ],
+      "roles": [
+        "handlande"
+      ]
+    },
+    {
+      "name": "Joh. Dahlstedt",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "N.P. Sjöholm",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "J. Kjällman",
+      "alternateNames": [],
+      "roles": [
+        "skeppare"
+      ]
+    },
+    {
+      "name": "G. Lithén",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby inre hamn",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "hamn"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Iduna säljs",
+      "date": {
+        "year": 1845,
+        "month": 4,
+        "circa": false
+      },
+      "description": "Briggen Iduna, som tidigare tillhört rådman Isak Lindqvist i Nykarleby, överlämnades till kapten N.H. Åkervall från Kristinestad.",
+      "people": [
+        "N.H. Åkervall",
+        "Isak Lindqvist"
+      ],
+      "places": [
+        "Nykarleby inre hamn"
+      ]
+    },
+    {
+      "title": "Dom i Lithéns konkurs",
+      "date": {
+        "year": 1845,
+        "month": 3,
+        "day": 29,
+        "circa": false
+      },
+      "description": "Dom föll i handlanden Matts Lithéns konkursmål, där tillgångarna realiserats dåligt.",
+      "people": [
+        "Matts Lithén",
+        "Carl Josef Collander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Tjärlaster lastas för export",
+      "date": {
+        "year": 1845,
+        "month": 7,
+        "day": 3,
+        "circa": false
+      },
+      "description": "Collander lastade i Nykarleby galeasen Örn med tjära och beck för firman Bencke & Co i Danzig till en mycket hög frakt.",
+      "people": [
+        "Carl Josef Collander",
+        "N.P. Sjöholm"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "9fb51b706eb451a8feb5e4ceb96205ad44cd848d2c17cabf71586c33e5f50471",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

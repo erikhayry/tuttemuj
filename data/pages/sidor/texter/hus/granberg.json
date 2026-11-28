@@ -112,6 +112,26 @@
       ],
       "address": "Gustav Adolfsgatan 12",
       "description": "Vid korsningen med Sollefteågatan.",
+      "uses": [
+        {
+          "use": "bageri",
+          "startYear": 1913
+        },
+        {
+          "use": "konditori",
+          "startYear": 1916
+        },
+        {
+          "use": "kafé",
+          "startYear": 1916
+        },
+        {
+          "use": "butik"
+        },
+        {
+          "use": "frisersalong"
+        }
+      ],
       "geo": {
         "lat": 63.52142790000001,
         "lng": 22.5323524,
@@ -129,18 +149,33 @@
     {
       "name": "Björkvalls",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "frisersalong"
+        }
+      ]
     },
     {
       "name": "Stadsbastun",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "frisersalong"
+        }
+      ]
     },
     {
       "name": "Södra tullhuset",
       "kind": "building",
       "alternateNames": [
         "Döbeln-huset"
+      ],
+      "uses": [
+        {
+          "use": "frisersalong"
+        }
       ],
       "geo": {
         "lat": 63.5221167,
@@ -155,6 +190,11 @@
       "name": "Lövhyddan",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "frisersalong"
+        }
+      ],
       "geo": {
         "lat": 63.52188617564486,
         "lng": 22.52766972629034,
@@ -250,6 +290,83 @@
       "Granbergs gård"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Karl Arvid Uno Granberg",
+      "place": "Granbergs gård",
+      "relation": "owned",
+      "startYear": 1910
+    },
+    {
+      "person": "Karl Arvid Uno Granberg",
+      "place": "Granbergs gård",
+      "relation": "built",
+      "startYear": 1913,
+      "endYear": 1913
+    },
+    {
+      "person": "Karl Arvid Uno Granberg",
+      "place": "Granbergs gård",
+      "relation": "ran",
+      "startYear": 1916
+    },
+    {
+      "person": "Saga Österlund",
+      "place": "Granbergs gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Marita Rönn",
+      "place": "Granbergs gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Inga Damberg",
+      "place": "Granbergs gård",
+      "relation": "ran"
+    },
+    {
+      "person": "Saga Österlund",
+      "place": "Björkvalls",
+      "relation": "worked"
+    },
+    {
+      "person": "Saga Österlund",
+      "place": "Stadsbastun",
+      "relation": "worked"
+    },
+    {
+      "person": "Saga Österlund",
+      "place": "Södra tullhuset",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Granbergs gård",
+        "Sollefteågatan"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Granbergs gård",
+        "Sollefteågatan"
+      ],
+      "year": 1960
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "573a756a98f54bd8cb52d10db3906e0bf527520f366448f749119657bbd41d52",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

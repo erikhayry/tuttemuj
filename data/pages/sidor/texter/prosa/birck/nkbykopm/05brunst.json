@@ -1,0 +1,94 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/05brunst.htm",
+  "title": "En nykarlebyköpman: kapten Brunströms besvärligheter",
+  "summary": "Kapten Olof Brunström seglade skeppet Emelie mellan Livorno, London och Kronstadt 1846–47 och fick från Collander i Nykarleby detaljerade order, förebråelser och en rejäl straffpredikan. Hösten 1847 kom skeppet hem och vinterlåg i staden.",
+  "topics": [
+    "sjöfart",
+    "skeppare",
+    "rederi",
+    "handel",
+    "1840-talet"
+  ],
+  "people": [
+    {
+      "name": "Olof Brunström",
+      "alternateNames": [
+        "Brunström"
+      ],
+      "birthYear": 1785,
+      "deathYear": 1857,
+      "roles": [
+        "sjökapten"
+      ]
+    },
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman",
+        "redare"
+      ]
+    },
+    {
+      "name": "J.A. Lybeck",
+      "alternateNames": [],
+      "roles": [
+        "kompanjon"
+      ]
+    },
+    {
+      "name": "J.P. Schäffer",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [],
+  "events": [
+    {
+      "title": "Emelie når Falmouth",
+      "date": {
+        "year": 1846,
+        "month": 4,
+        "day": 1,
+        "circa": false
+      },
+      "description": "Skeppet Emelie under kapten Brunström anlände till Falmouth från Livorno med vete på väg till London.",
+      "people": [
+        "Olof Brunström"
+      ],
+      "places": []
+    },
+    {
+      "title": "Emelie kommer hem",
+      "date": {
+        "year": 1847,
+        "circa": false
+      },
+      "description": "Skeppet Emelie kom hösten 1847 hem till Nykarleby och låg där över vintern.",
+      "people": [
+        "Olof Brunström",
+        "Carl Josef Collander"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Kapten Brunström ber att få extra frakt för några plankor och får i svar en straffpredikan från redaren Collander om att all lycka kommer från Gud och inte från skepparen.",
+    "reason": "Förhållandet mellan den pedantiske redaren och den slitna kaptenen är laddat och komiskt.",
+    "characters": [
+      "Olof Brunström",
+      "Carl Josef Collander"
+    ],
+    "places": []
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "80c67fc0e30b7b332437627a13f1b07373052c7a7f78e71748702ec086310e54",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -42,6 +42,16 @@
       "name": "Liljedahls affärshus",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "restaurang",
+          "startYear": 1960
+        },
+        {
+          "use": "hotell",
+          "startYear": 1960
+        }
+      ],
       "geo": {
         "lat": 63.522441186534955,
         "lng": 22.531521938766957,
@@ -80,7 +90,16 @@
     {
       "name": "Pihlainens skoaffär",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skoaffär",
+          "endYear": 1966
+        },
+        {
+          "use": "hotell"
+        }
+      ]
     },
     {
       "name": "Wiks hotell",
@@ -129,6 +148,28 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bankgatan",
+        "Liljedahls affärshus",
+        "Hotell Eden",
+        "Pihlainens skoaffär",
+        "Runda kiosken"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "dfe9e2e292e69e560fa9711b4c7a1fd7523cde64e7d0962bfabeb035b8a5a5fa",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

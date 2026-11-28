@@ -1,0 +1,284 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/telefsta.htm",
+  "title": "Staden får telefon",
+  "summary": "Sommaren 1891 byggdes telefonnätet i Nykarleby med 15 abonnenter och en central i rådhuset, där Hanna Wenman var föreståndare till 1920. Automatcentralen i Liljedahls affärshus vid Bankgatan kopplades in i juni 1959.",
+  "topics": [
+    "telefon",
+    "kommunikationer",
+    "företag",
+    "teknik"
+  ],
+  "people": [
+    {
+      "name": "Hanna Wenman",
+      "alternateNames": [],
+      "roles": [
+        "centralföreståndarinna",
+        "sömmerska"
+      ]
+    },
+    {
+      "name": "August Söderberg",
+      "alternateNames": [],
+      "roles": [
+        "stationsinspektor"
+      ]
+    },
+    {
+      "name": "Albert Öberg",
+      "alternateNames": [],
+      "roles": [
+        "tullförvaltare"
+      ]
+    },
+    {
+      "name": "K.E. Wichmann",
+      "alternateNames": [],
+      "roles": [
+        "lektor",
+        "stadsfullmäktiges sekreterare"
+      ]
+    },
+    {
+      "name": "F. Olson",
+      "alternateNames": [],
+      "roles": [
+        "stadsfiskal"
+      ]
+    },
+    {
+      "name": "Victor Holmström",
+      "alternateNames": [],
+      "roles": [
+        "handlande",
+        "verkställande direktör"
+      ]
+    },
+    {
+      "name": "Axel Kisor",
+      "alternateNames": [],
+      "roles": [
+        "styrelsemedlem"
+      ]
+    },
+    {
+      "name": "Joel E. Nordling",
+      "alternateNames": [],
+      "roles": [
+        "styrelsemedlem"
+      ]
+    },
+    {
+      "name": "Herbert Michelson",
+      "alternateNames": [],
+      "roles": [
+        "ingenjör"
+      ]
+    },
+    {
+      "name": "Hilding Wiklund",
+      "alternateNames": [],
+      "roles": [
+        "centralskötare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "telefoncentral",
+          "startYear": 1891
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Liljedahls affärshus",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Bankgatan",
+      "uses": [
+        {
+          "use": "telefoncentral",
+          "startYear": 1959
+        }
+      ],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "address",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Gästgiveriet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "gästgiveri"
+        }
+      ]
+    },
+    {
+      "name": "Kuddnäs",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5303,
+        "lng": 22.5337,
+        "match": "name",
+        "gazetteerName": "kuddnäs",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bankgatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5222074,
+        "lng": 22.5351597,
+        "match": "name",
+        "gazetteerName": "bankgatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki station",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "järnvägsstation"
+        }
+      ],
+      "geo": {
+        "lat": 63.5240598,
+        "lng": 22.6970429,
+        "match": "name",
+        "gazetteerName": "kovjoki station",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Ledning från Kovjoki station",
+      "date": {
+        "year": 1890,
+        "month": 11,
+        "circa": false
+      },
+      "description": "En telefonlinje byggdes från Kovjoki station till gästgiveriet i Nykarleby på initiativ av stationsinspektor August Söderberg.",
+      "people": [
+        "August Söderberg"
+      ],
+      "places": [
+        "Kovjoki station",
+        "Gästgiveriet"
+      ]
+    },
+    {
+      "title": "Telefonnätet byggs",
+      "date": {
+        "year": 1891,
+        "month": 6,
+        "circa": false
+      },
+      "description": "Telefonnätet i Nykarleby stod färdigt sommaren 1891 med central i rådhuset och till en början 15 abonnenter.",
+      "people": [
+        "Hanna Wenman"
+      ],
+      "places": [
+        "Rådhuset"
+      ]
+    },
+    {
+      "title": "Långsamtal från Kuddnäs",
+      "date": {
+        "year": 1891,
+        "month": 11,
+        "day": 8,
+        "circa": false
+      },
+      "description": "Ett uppmärksammat telefonsamtal fördes mellan Kuddnäs och kommunalrådet v. Schantz gård i Kauhajoki.",
+      "people": [],
+      "places": [
+        "Kuddnäs"
+      ]
+    },
+    {
+      "title": "Automatcentralen kopplas in",
+      "date": {
+        "year": 1959,
+        "month": 6,
+        "day": 30,
+        "circa": false
+      },
+      "description": "Automatisk telefoncentral togs i bruk i källaren till Liljedahls affärshus vid Bankgatan natten till den 30 juni.",
+      "people": [
+        "Herbert Michelson",
+        "Hilding Wiklund"
+      ],
+      "places": [
+        "Liljedahls affärshus"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Hanna Wenman",
+      "place": "Rådhuset",
+      "relation": "worked",
+      "startYear": 1891,
+      "endYear": 1920
+    },
+    {
+      "person": "Hilding Wiklund",
+      "place": "Liljedahls affärshus",
+      "relation": "worked"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": []
+    }
+  ],
+  "contentHash": "04241c8e252f5f11c4942640c1ff38bfa30cf3e9bf5f60ebd262ec3a1385c127",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -26,6 +26,14 @@
       "alternateNames": [
         "Kyrkbrunnen"
       ],
+      "uses": [
+        {
+          "use": "brunn"
+        },
+        {
+          "use": "anslagstavla"
+        }
+      ],
       "geo": {
         "lat": 63.52286476510718,
         "lng": 22.52744791504833,
@@ -79,6 +87,27 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Stadsbrunnen",
+        "Klockstapeln",
+        "Kyrkogatan"
+      ],
+      "year": 1957
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "6eb045cc49e2aa4ee77ec3e420bac17fc2932d72fd93a68f95b4c62b87979a4a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

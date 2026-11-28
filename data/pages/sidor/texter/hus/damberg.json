@@ -59,7 +59,15 @@
       "alternateNames": [
         "Harapåttin"
       ],
-      "address": "Karleborgsgatan 32"
+      "address": "Karleborgsgatan 32",
+      "uses": [
+        {
+          "use": "bostad"
+        },
+        {
+          "use": "kennel"
+        }
+      ]
     },
     {
       "name": "Langraden",
@@ -69,7 +77,12 @@
     {
       "name": "Granbergs gård",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "frisersalong"
+        }
+      ]
     },
     {
       "name": "Tomt 85",
@@ -108,6 +121,58 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Wilhelm Damberg",
+      "place": "Dambergs",
+      "relation": "lived"
+    },
+    {
+      "person": "Ragnar Damberg",
+      "place": "Dambergs",
+      "relation": "built"
+    },
+    {
+      "person": "Inga Damberg",
+      "place": "Dambergs",
+      "relation": "built"
+    },
+    {
+      "person": "Patrik Isaksson",
+      "place": "Dambergs",
+      "relation": "owned"
+    },
+    {
+      "person": "Inga Damberg",
+      "place": "Granbergs gård",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Dambergs",
+        "Langraden"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Dambergs",
+        "Tomt 85"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "5ad3ad11b02ea8916a01e5a330574f89cf3b9f93a6c076bc717985d15f43a38d",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

@@ -1,0 +1,229 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/stfojajb.htm",
+  "title": "Stadens första järnväg",
+  "summary": "Nykarleby fick i slutet av 1890-talet en smalspårig järnväg till Kovjoki och hamnen vid Andra sjön. J. L. Birck minns bygget, sin första ”resa” längs rälsen i en tjärtunna, snöstormen på Tattarmossen och banans slut 1917.",
+  "topics": [
+    "järnväg",
+    "Nykarlebybanan",
+    "Kovjoki",
+    "hamnbanan",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Paul Svanström",
+      "alternateNames": [],
+      "roles": [
+        "järnvägsman"
+      ]
+    },
+    {
+      "name": "Lennart Hägglund",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby station",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "järnvägsstation"
+        }
+      ],
+      "geo": {
+        "lat": 63.5264,
+        "lng": 22.5446,
+        "match": "name",
+        "gazetteerName": "nykarleby järnvägsstation",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Andra sjön",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Bangatan",
+      "kind": "street",
+      "alternateNames": [],
+      "nameOrigin": "Gatan bytte namn när järnvägen till hamnen lades längs den.",
+      "geo": {
+        "lat": 63.5196402,
+        "lng": 22.5392551,
+        "match": "name",
+        "gazetteerName": "bangatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Herkepeus potten",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "rådhusgården",
+      "kind": "other",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhusgården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "kyrkogården",
+      "kind": "landmark",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Brostugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522469,
+        "lng": 22.5233788,
+        "match": "name",
+        "gazetteerName": "brostugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Smaldöraboden",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Tattarmossen",
+      "kind": "other",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Banlinjen huggs upp",
+      "date": {
+        "year": 1898,
+        "circa": false
+      },
+      "description": "På vårvintern höggs banlinjen upp i skogen mellan Kovjoki och Nykarleby för den nya järnvägen.",
+      "people": [],
+      "places": [
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Persontrafiken börjar",
+      "date": {
+        "year": 1899,
+        "month": 7,
+        "day": 3,
+        "circa": false
+      },
+      "description": "En passagerarvagn började följa arbetstågen mellan Nykarleby och Kovjoki två gånger om dagen.",
+      "people": [],
+      "places": [
+        "Nykarleby station",
+        "Kovjoki"
+      ]
+    },
+    {
+      "title": "Tåget fastnar i snön",
+      "date": {
+        "year": 1902,
+        "month": 3,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Långfredagens tåg från Nykarleby fastnade efter en snöstorm i drivorna på Tattarmossen.",
+      "people": [],
+      "places": [
+        "Tattarmossen"
+      ]
+    },
+    {
+      "title": "Järnvägen läggs ner",
+      "date": {
+        "year": 1917,
+        "circa": false
+      },
+      "description": "Hösten 1917 såldes materielen och Nykarlebys smalspåriga järnväg revs upp.",
+      "people": [
+        "Lennart Hägglund"
+      ],
+      "places": [
+        "Nykarleby station"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Innan tågen börjat gå upptäcker Birck och Paul att en tom tjärtunna passar precis mellan skenorna. De springer efter den hela vägen till Kovjoki, men på hemvägen sjunker munterheten i takt med att skorna blir förstörda.",
+    "reason": "Ett fartfyllt pojkäventyr med tydlig början, höjdpunkt och efterräkning.",
+    "characters": [
+      "J. L. Birck",
+      "Paul Svanström"
+    ],
+    "places": [
+      "Kovjoki",
+      "Nykarleby station"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "a6713cf63e6042fc26b9a3c2735e2d28d1b4cad31e8b460704a058455d2397ea",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

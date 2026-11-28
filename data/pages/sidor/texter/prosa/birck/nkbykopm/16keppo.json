@@ -1,0 +1,136 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/16keppo.htm",
+  "title": "En nykarlebyköpman: Keppo såg och affären Sieveking",
+  "summary": "Åren 1852–53 köpte Nykarlebyköpmannen Collander plankor och bräder från Keppo vattensåg, två mil sydost om staden, för att sälja dem till Sieveking i London. Affären blev invecklad av tvister om kvalitet, pris och frakt.",
+  "topics": [
+    "handel",
+    "trävaror",
+    "sågverk",
+    "export",
+    "1850-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "Otto von Essen",
+      "alternateNames": [
+        "Essen"
+      ],
+      "roles": [
+        "disponent"
+      ]
+    },
+    {
+      "name": "Peter Malm",
+      "alternateNames": [],
+      "roles": [
+        "kommerseråd"
+      ]
+    },
+    {
+      "name": "E. Sieveking",
+      "alternateNames": [
+        "Sieveking"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Degener",
+      "alternateNames": [],
+      "roles": [
+        "mäklare"
+      ]
+    },
+    {
+      "name": "C.J. Berger",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Albert Dyhr",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "J.W. Snellman",
+      "alternateNames": [],
+      "roles": [
+        "grosshandlare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppos Vatten Sågverk",
+      "kind": "building",
+      "alternateNames": [
+        "Keppo såg",
+        "Keppo"
+      ],
+      "description": "Vattensåg två mil sydost om Nykarleby.",
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Plankkontrakt med Sieveking",
+      "date": {
+        "year": 1852,
+        "month": 12,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Ett kontrakt gjordes upp om att leverera plankor och battens från Keppo såg via Nykarleby till Sieveking i London.",
+      "people": [
+        "Carl Josef Collander",
+        "E. Sieveking"
+      ],
+      "places": [
+        "Keppos Vatten Sågverk"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Otto von Essen",
+      "place": "Keppos Vatten Sågverk",
+      "relation": "owned"
+    },
+    {
+      "person": "Peter Malm",
+      "place": "Keppos Vatten Sågverk",
+      "relation": "owned"
+    }
+  ],
+  "images": [],
+  "contentHash": "2810761692b8ea60c65e6443d110106d78aac46b63beb7038a4e92979f60d061",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

@@ -1,0 +1,377 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/nygardb4.htm",
+  "title": "Min barndoms Nygård IV: Rajåkern",
+  "summary": "J. L. Birck går gård för gård längs Nygårdsvägen ut till Rajåkern, prästgårdens stora åker vid älven. Han minns smeden Isak Sundberg, skomakare Skogs trånga verkstad, simställena Pojkhällan och Flickhällan och kyrkklockorna en söndagsmorgon.",
+  "topics": [
+    "Nygård",
+    "Rajåkern",
+    "hantverkare",
+    "simställen",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Isak Sundberg",
+      "alternateNames": [],
+      "roles": [
+        "smed",
+        "jägare"
+      ]
+    },
+    {
+      "name": "Hilma Viljanen",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wahlberg",
+      "alternateNames": [],
+      "roles": [
+        "färgare"
+      ]
+    },
+    {
+      "name": "Tvättar-Anna",
+      "alternateNames": [
+        "Kullmans Anna"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Lena Gunell",
+      "alternateNames": [],
+      "roles": [
+        "flasksköljerska"
+      ]
+    },
+    {
+      "name": "Anders Skog",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    },
+    {
+      "name": "Maria Kalenius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Karl Kalenius",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "J. W. Nessler",
+      "alternateNames": [
+        "kantor Nessler"
+      ],
+      "roles": [
+        "kantor"
+      ]
+    },
+    {
+      "name": "Kalle Kortesniemi",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Pelle Österlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Saga Österlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Wilhelm Johansson",
+      "alternateNames": [],
+      "roles": [
+        "prost"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygårdsvägen",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5194967,
+        "lng": 22.5270853,
+        "match": "name",
+        "gazetteerName": "nygårdsvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Sockenstugoberget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.521384222901204,
+        "lng": 22.52662328781764,
+        "match": "name",
+        "gazetteerName": "sockenstuguberget",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Herkepeus-potten",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "sockenmagasinet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "magasin"
+        }
+      ]
+    },
+    {
+      "name": "Mickelbacks-Jakobs gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Isak Sundbergs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "smedja"
+        }
+      ]
+    },
+    {
+      "name": "Hilma Viljanens gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Wahlbergska färgeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "färgeri"
+        }
+      ]
+    },
+    {
+      "name": "ullkarderiet",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Renoverades senare till bostadshus.",
+      "uses": [
+        {
+          "use": "ullkarderi"
+        },
+        {
+          "use": "bostadshus"
+        }
+      ]
+    },
+    {
+      "name": "Kortesniemis hyrda gård",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Rajåkersvägen",
+      "kind": "street",
+      "alternateNames": [
+        "Rajåkerssvägen"
+      ],
+      "geo": {
+        "lat": 63.5149339,
+        "lng": 22.5313058,
+        "match": "name",
+        "gazetteerName": "rajåkersvägen",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Lena Gunells stuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "skomakare Skogs gård",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skomakarverkstad"
+        }
+      ]
+    },
+    {
+      "name": "Stor-Lovisas stuga",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Korsåkers kvarn",
+      "kind": "building",
+      "alternateNames": [
+        "Klockarskvänen"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ]
+    },
+    {
+      "name": "Rajåkern",
+      "kind": "landmark",
+      "alternateNames": [],
+      "description": "Kyrkoherdebolet Jeansborgs stora åker utmed älven.",
+      "geo": {
+        "lat": 63.51610819236524,
+        "lng": 22.535090149581507,
+        "match": "name",
+        "gazetteerName": "rajåkern",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Pojkhällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simställe"
+        }
+      ]
+    },
+    {
+      "name": "Flickhällan",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "simställe"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Pojkarna dyker och simmar vid Pojkhällan sommaren lång och hjälper varandra, men en gång dyker Birck ensam och dras ner av strömmen så att han nätt och jämnt kravlar sig i land.",
+    "reason": "Sommaridyll med plötslig fara och en lyrisk återkomst som vuxen ger en tydlig båge.",
+    "characters": [
+      "J. L. Birck",
+      "Isak Sundberg"
+    ],
+    "places": [
+      "Pojkhällan",
+      "Rajåkern"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Isak Sundberg",
+      "place": "Isak Sundbergs gård",
+      "relation": "owned"
+    },
+    {
+      "person": "Isak Sundberg",
+      "place": "Isak Sundbergs gård",
+      "relation": "worked"
+    },
+    {
+      "person": "Wahlberg",
+      "place": "Wahlbergska färgeriet",
+      "relation": "lived"
+    },
+    {
+      "person": "Wahlberg",
+      "place": "Wahlbergska färgeriet",
+      "relation": "worked"
+    },
+    {
+      "person": "Anders Skog",
+      "place": "skomakare Skogs gård",
+      "relation": "worked"
+    },
+    {
+      "person": "Maria Kalenius",
+      "place": "Stor-Lovisas stuga",
+      "relation": "lived"
+    },
+    {
+      "person": "Karl Kalenius",
+      "place": "Stor-Lovisas stuga",
+      "relation": "lived"
+    },
+    {
+      "person": "J. W. Nessler",
+      "place": "Korsåkers kvarn",
+      "relation": "built"
+    },
+    {
+      "person": "J. W. Nessler",
+      "place": "Korsåkers kvarn",
+      "relation": "owned"
+    },
+    {
+      "person": "Kalle Kortesniemi",
+      "place": "Kortesniemis hyrda gård",
+      "relation": "lived"
+    },
+    {
+      "person": "Pelle Österlund",
+      "place": "ullkarderiet",
+      "relation": "owned"
+    },
+    {
+      "person": "Saga Österlund",
+      "place": "ullkarderiet",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Nygårdsvägen"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Rajåkersvägen"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "ullkarderiet"
+      ]
+    }
+  ],
+  "contentHash": "cd3cf92fe738311836cba38511bee013d127befdc4af800fb07022239fcd6007",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

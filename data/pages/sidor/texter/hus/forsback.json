@@ -31,6 +31,11 @@
         "Forsbacka kaplansbol",
         "Forsbacka hemman"
       ],
+      "uses": [
+        {
+          "use": "kaplansbol"
+        }
+      ],
       "geo": {
         "lat": 63.51043758248433,
         "lng": 22.530463770389918,
@@ -43,7 +48,12 @@
     {
       "name": "Lillollas kaplansbol",
       "kind": "farm",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "kaplansbol"
+        }
+      ]
     }
   ],
   "events": [
@@ -83,6 +93,25 @@
       "Forsbacka"
     ]
   },
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Forsbacka"
+      ],
+      "year": 2004
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "b9b23976e2e0b9f086063330b42de2539753313a9c5524d5645958e8c723427b",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

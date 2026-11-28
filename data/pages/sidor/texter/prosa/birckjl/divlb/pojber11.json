@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/divlb/pojber11.htm",
+  "title": "En pojkes upplevelser I: under hungeråren på 1860-talet",
+  "summary": "J. L. Birck berättar hur pojken Johan Gustaf vandrade genom Finland under hungeråren på 1860-talet, först med familjen och sedan ensam. Åttaåringen tiggde sig fram och kom bland annat till Nykarleby, där han blev sjuk.",
+  "topics": [
+    "hungeråren",
+    "nödår",
+    "fattigdom",
+    "barndom",
+    "1860-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Johan Gustaf",
+      "alternateNames": [],
+      "roles": [
+        "torparson"
+      ]
+    },
+    {
+      "name": "Johannes",
+      "alternateNames": [],
+      "roles": [
+        "timmerman",
+        "småbrukare"
+      ]
+    },
+    {
+      "name": "Johan Carlsson Kurf",
+      "alternateNames": [],
+      "birthYear": 1764,
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Nylund",
+      "alternateNames": [],
+      "roles": [
+        "handelsman"
+      ]
+    },
+    {
+      "name": "G. M. Hedström",
+      "alternateNames": [],
+      "roles": [
+        "handlande"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nylunds gård",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Handelsman Nylunds gård, där den sjuke pojken låg under bar himmel.",
+      "geo": {
+        "lat": 63.52166921690244,
+        "lng": 22.529908755695946,
+        "match": "name",
+        "gazetteerName": "nylunds/nordlings gård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Forsby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.49979843502178,
+        "lng": 22.54475819706958,
+        "match": "name",
+        "gazetteerName": "forsby",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Jeppo",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4079847,
+        "lng": 22.6471336,
+        "match": "name",
+        "gazetteerName": "jeppo",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kallträsk",
+      "kind": "waterbody",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Familjen vandrar till Jyväskylä",
+      "date": {
+        "year": 1867,
+        "month": 11,
+        "circa": false
+      },
+      "description": "Under missväxtåren kom den knappt åttaårige Johan Gustaf till fots till Jyväskylä med sina föräldrar som sökte arbete.",
+      "people": [
+        "Johan Gustaf",
+        "Johannes"
+      ],
+      "places": []
+    },
+    {
+      "title": "Pojken blir sjuk i Nykarleby",
+      "date": {
+        "year": 1868,
+        "month": 8,
+        "circa": false
+      },
+      "description": "Den ensamt vandrande Johan Gustaf insjuknade i Nykarleby och låg ute på handelsman Nylunds gård innan han kom med ett lass hemåt.",
+      "people": [
+        "Johan Gustaf",
+        "Nylund"
+      ],
+      "places": [
+        "Nylunds gård"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Åttaårige Johan Gustaf rymmer från fattiggården efter att ha slagit sönder en kälke och vandrar ensam i månader genom hungerårens Finland. Förbi frusna tiggare, arrest och bensoppa utan ben letar han sig hem till sin mor.",
+    "reason": "Ett barns överlevnadsfärd med många dramatiska scener och en återförening.",
+    "characters": [
+      "Johan Gustaf",
+      "Johannes"
+    ],
+    "places": [
+      "Nylunds gård"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "15a9b19cfa569920afb20e1323423fe659f6ec8da26367fe3233e696802eb9a9",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

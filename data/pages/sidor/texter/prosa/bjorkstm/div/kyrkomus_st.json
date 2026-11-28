@@ -1,0 +1,272 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/bjorkstm/div/kyrkomus_st.html",
+  "title": "Kyrkomusiker i Nykarleby församling under den svenska tiden",
+  "summary": "Nils Jönsson Ferling kom 1652 till Nykarleby och blev församlingens första organist. Mats Björkstrand berättar också om den druckne organisten Werander, om Falander som blev borgmästare, och om Lückman och klockaren Rönnblad på 1700-talet.",
+  "topics": [
+    "kyrkomusik",
+    "organister",
+    "klockare",
+    "1600-talet",
+    "1700-talet"
+  ],
+  "people": [
+    {
+      "name": "Mats Björkstrand",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Nils Klockare",
+      "alternateNames": [],
+      "roles": [
+        "bonde"
+      ]
+    },
+    {
+      "name": "Nils Jönsson Ferling",
+      "alternateNames": [
+        "Ferling"
+      ],
+      "deathYear": 1693,
+      "roles": [
+        "organist",
+        "rådman",
+        "stadsnotarie"
+      ]
+    },
+    {
+      "name": "Kristina Brahe",
+      "alternateNames": [],
+      "roles": [
+        "donator"
+      ]
+    },
+    {
+      "name": "Christian Werander",
+      "alternateNames": [],
+      "roles": [
+        "organist"
+      ]
+    },
+    {
+      "name": "Anna Grelsdotter Ryss",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Isaac Falander",
+      "alternateNames": [],
+      "deathYear": 1715,
+      "roles": [
+        "organist",
+        "stadsskrivare",
+        "rådman",
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Johan Forsman",
+      "alternateNames": [],
+      "roles": [
+        "kyrkoherde"
+      ]
+    },
+    {
+      "name": "Johan Christoph Lückman",
+      "alternateNames": [],
+      "deathYear": 1798,
+      "roles": [
+        "organist",
+        "oboist"
+      ]
+    },
+    {
+      "name": "Hans Rönnblad",
+      "alternateNames": [],
+      "birthYear": 1735,
+      "deathYear": 1790,
+      "roles": [
+        "klockare"
+      ]
+    },
+    {
+      "name": "Lisa Turdin",
+      "alternateNames": [],
+      "birthYear": 1743,
+      "roles": []
+    },
+    {
+      "name": "Johan Nyström",
+      "alternateNames": [],
+      "roles": [
+        "arbetare"
+      ]
+    },
+    {
+      "name": "Matts Lingonblad",
+      "alternateNames": [],
+      "roles": [
+        "skomakare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Klockars",
+      "kind": "farm",
+      "alternateNames": [
+        "klockars i kyrkoby"
+      ],
+      "description": "Hemman i Nykarleby landskommuns kyrkoby.",
+      "nameOrigin": "Hemmanets namn kan komma av bonden Nils Klockare, den äldste kände ägaren."
+    },
+    {
+      "name": "gård nr 57",
+      "kind": "building",
+      "alternateNames": [
+        "gård 57 i gamla nykarleby"
+      ]
+    },
+    {
+      "name": "gård nr 100",
+      "kind": "building",
+      "alternateNames": [
+        "gård 100 i gamla nykarleby"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Första organisten kommer",
+      "date": {
+        "year": 1652,
+        "circa": false
+      },
+      "description": "Nils Jönsson Ferling kom till Nykarleby och blev församlingens första organist.",
+      "people": [
+        "Nils Jönsson Ferling",
+        "Kristina Brahe"
+      ],
+      "places": [
+        "Nykarleby kyrka"
+      ]
+    },
+    {
+      "title": "Flykten undan ryssarna",
+      "date": {
+        "year": 1714,
+        "circa": false
+      },
+      "description": "Borgmästaren Isaac Falander, tidigare organist, flydde med större delen av Nykarlebys invånare undan ryssarna.",
+      "people": [
+        "Isaac Falander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Lückman väljs till organist",
+      "date": {
+        "year": 1768,
+        "month": 12,
+        "day": 18,
+        "circa": false
+      },
+      "description": "Den tyskättade oboisten Johan Christoph Lückman valdes till organist i Nykarleby församling.",
+      "people": [
+        "Johan Christoph Lückman"
+      ],
+      "places": []
+    },
+    {
+      "title": "Rönnblad köper gård",
+      "date": {
+        "year": 1777,
+        "month": 5,
+        "day": 28,
+        "circa": false
+      },
+      "description": "Klockaren Hans Rönnblad köpte gård nr 100 i Nykarleby av arbetaren Johan Nyström.",
+      "people": [
+        "Hans Rönnblad",
+        "Johan Nyström"
+      ],
+      "places": [
+        "gård nr 100"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En söndag är organisten Christian Werander så full att han inte kan spela, och prästerna måste hindra honom från att fördärva församlingens sång. Han nekar, vittnen lämnas in och böterna följer, medan äktenskapet hemma slutar i domstol.",
+    "reason": "Skandalen i kyrkan är en konkret konflikt med komisk och tragisk sida.",
+    "characters": [
+      "Christian Werander",
+      "Anna Grelsdotter Ryss"
+    ],
+    "places": [
+      "Nykarleby kyrka"
+    ]
+  },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Nils Klockare",
+      "place": "Klockars",
+      "relation": "owned"
+    },
+    {
+      "person": "Nils Jönsson Ferling",
+      "place": "Nykarleby kyrka",
+      "relation": "worked",
+      "startYear": 1652
+    },
+    {
+      "person": "Hans Rönnblad",
+      "place": "gård nr 57",
+      "relation": "lived"
+    },
+    {
+      "person": "Hans Rönnblad",
+      "place": "gård nr 100",
+      "relation": "lived"
+    },
+    {
+      "person": "Hans Rönnblad",
+      "place": "gård nr 100",
+      "relation": "owned",
+      "startYear": 1777
+    },
+    {
+      "person": "Johan Nyström",
+      "place": "gård nr 100",
+      "relation": "owned",
+      "endYear": 1777
+    },
+    {
+      "person": "Matts Lingonblad",
+      "place": "gård nr 100",
+      "relation": "owned",
+      "startYear": 1813
+    }
+  ],
+  "images": [],
+  "contentHash": "0077819bbdbe52798e7a58f104a42532b375908fdef54a4beff2d346f6096a2b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

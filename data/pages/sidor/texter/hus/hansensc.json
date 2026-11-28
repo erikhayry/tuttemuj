@@ -64,6 +64,16 @@
       "alternateNames": [],
       "address": "Gustav Adolfsgatan 8",
       "description": "Kafé 1938–1977 med matservering i övre våningen; rivet 1980-talet för telefoncentralen.",
+      "uses": [
+        {
+          "use": "kafé",
+          "startYear": 1938,
+          "endYear": 1977
+        },
+        {
+          "use": "matservering"
+        }
+      ],
       "geo": {
         "lat": 63.5209018,
         "lng": 22.5320923,
@@ -138,6 +148,37 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Otto Hansén",
+      "place": "Hanséns café",
+      "relation": "ran",
+      "startYear": 1938
+    },
+    {
+      "person": "Gunhild Hansén",
+      "place": "Hanséns café",
+      "relation": "ran",
+      "endYear": 1977
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hanséns café"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "b76d4ab824ca55390da26934fb1357d1a5f1255501c750151252e710d194e71f",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

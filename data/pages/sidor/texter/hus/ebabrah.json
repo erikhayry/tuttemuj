@@ -47,7 +47,13 @@
       "name": "Bostads Ab Ebba Brahe",
       "kind": "building",
       "alternateNames": [],
-      "description": "Tredje Älvbrantshuset."
+      "description": "Tredje Älvbrantshuset.",
+      "uses": [
+        {
+          "use": "bostadshus"
+        }
+      ],
+      "nameOrigin": "Huset är uppkallat efter grevinnan Ebba Brahe, som på 1600-talet hade en ruddamm på platsen."
     },
     {
       "name": "Älvbranten",
@@ -84,6 +90,44 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Ebba Brahe",
+      "place": "Ebba Brahes ruddamm",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Bostads Ab Ebba Brahe"
+      ],
+      "year": 2005
+    },
+    {
+      "image": 2,
+      "places": [
+        "Bostads Ab Ebba Brahe"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "Bostads Ab Ebba Brahe"
+      ],
+      "year": 2024
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "37ee0f872afad62349654b8146b6b076246a9d5bc7a9271a72798768aaecc11a",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

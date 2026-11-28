@@ -1,0 +1,223 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/somistjb.htm",
+  "title": "Sommar i barndomsstaden I",
+  "summary": "J. L. Birck skildrar barndomens somrar i Nykarleby med blommande syrener, bygget av brandkårshuset och lördagshandeln på torget. Tyska hornmusikanter, positivspelare och direktör Bieglas karusell satte färg på den stilla staden.",
+  "topics": [
+    "sommar",
+    "torghandel",
+    "musik",
+    "karusell",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Scartasso",
+      "alternateNames": [],
+      "roles": [
+        "positivspelare"
+      ]
+    },
+    {
+      "name": "Sörensen",
+      "alternateNames": [],
+      "roles": [
+        "kapellmästare"
+      ]
+    },
+    {
+      "name": "Bieglas",
+      "alternateNames": [],
+      "roles": [
+        "karuselldirektör"
+      ]
+    },
+    {
+      "name": "Heinz",
+      "alternateNames": [],
+      "roles": [
+        "dräng"
+      ]
+    },
+    {
+      "name": "Bertha",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Stadsparken",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "konsertplats"
+        }
+      ]
+    },
+    {
+      "name": "Herkepaeuspotten",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "prostgården",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "brandkårshuset",
+      "kind": "building",
+      "alternateNames": [
+        "Missionshuset"
+      ],
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gustav Adolfsgatan 5",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Gustav Adolfsgatan 5",
+      "uses": [
+        {
+          "use": "bostadshus"
+        }
+      ],
+      "geo": {
+        "lat": 63.5206438,
+        "lng": 22.5323761,
+        "match": "address",
+        "gazetteerName": "gustav adolfsgatan 5",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "torghandel"
+        }
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "sockenstugan",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52121940637777,
+        "lng": 22.52634999385902,
+        "match": "name",
+        "gazetteerName": "sockenstugan",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Haralds såg",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ]
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden får en hornseptett",
+      "date": {
+        "year": 1886,
+        "circa": false
+      },
+      "description": "Nykarleby fick en egen hornseptett, som först stöddes av stadskassan och senare drevs av frivilliga brandkåren.",
+      "people": [],
+      "places": [
+        "Stadsparken"
+      ]
+    },
+    {
+      "title": "Menageri på torget",
+      "date": {
+        "year": 1910,
+        "circa": true,
+        "text": "Omkring år 1910"
+      },
+      "description": "Ett menageri var uppställt i sydöstra hörnet av torget i Nykarleby.",
+      "people": [],
+      "places": [
+        "torget"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Sjuårige Birck balanserar på en hal golvbjälke vid brandkårshusbygget, faller ner i källargrunden och slår upp huvudet. När skolan börjar skrattar kamraterna åt hans gyllengult lysande hjässa.",
+    "reason": "Olyckan, positivmusiken och karusellsällskapet ger korta men målande scener.",
+    "characters": [
+      "J. L. Birck",
+      "Bieglas",
+      "Heinz",
+      "Bertha"
+    ],
+    "places": [
+      "brandkårshuset",
+      "torget"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 2,
+      "places": [
+        "torget"
+      ],
+      "year": 1910
+    }
+  ],
+  "contentHash": "24a16e027fcd4d1f0598fc3aa3deb35323e33c094481537db52124d53f33498e",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

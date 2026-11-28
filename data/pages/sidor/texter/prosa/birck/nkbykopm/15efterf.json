@@ -1,0 +1,148 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/nkbykopm/15efterf.htm",
+  "title": "En nykarlebyköpman: trävaror och handeln på Lybeck",
+  "summary": "Åren 1851–52 skeppade Nykarlebyköpmannen Collander tjära och beck till Hull och Lybeck. Efterfrågan på trävaror ökade, men Keppo såg nära staden hade i ett par år lidit brist på stock.",
+  "topics": [
+    "handel",
+    "tjära",
+    "trävaror",
+    "sjöfart",
+    "1850-talet"
+  ],
+  "people": [
+    {
+      "name": "Carl Josef Collander",
+      "alternateNames": [
+        "Collander"
+      ],
+      "roles": [
+        "köpman"
+      ]
+    },
+    {
+      "name": "Robert Widgren",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "W.L. Behncke",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Matts Brunberg",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Nils Malmberg",
+      "alternateNames": [],
+      "roles": [
+        "apotekare"
+      ]
+    },
+    {
+      "name": "C.P. Löfberg",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Jöns Olof Berg",
+      "alternateNames": [],
+      "roles": [
+        "handelsombudsman"
+      ]
+    },
+    {
+      "name": "Johan Axelqvist",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "Dahlstedt",
+      "alternateNames": [],
+      "roles": [
+        "kapten"
+      ]
+    },
+    {
+      "name": "C.W. Sundström",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Matts Sandström",
+      "alternateNames": [
+        "Sandström"
+      ],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Keppo",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "såg"
+        }
+      ],
+      "geo": {
+        "lat": 63.3736529,
+        "lng": 22.6816164,
+        "match": "name",
+        "gazetteerName": "keppo",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Maria seglar till Hull",
+      "date": {
+        "year": 1851,
+        "month": 8,
+        "day": 4,
+        "circa": false
+      },
+      "description": "Skonerten Maria gick från Nykarleby till Hull med tjära och björkvirke som skulle säljas för köpmannen Collander.",
+      "people": [
+        "Carl Josef Collander"
+      ],
+      "places": []
+    },
+    {
+      "title": "Wänskapen seglar till Lybeck",
+      "date": {
+        "year": 1851,
+        "month": 9,
+        "day": 9,
+        "circa": false
+      },
+      "description": "Nykarlebyskonerten Wänskapen under kapten Matts Brunberg förde Collanders beck och tjära till Lybeck.",
+      "people": [
+        "Matts Brunberg",
+        "Carl Josef Collander"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "c8e005910091ea4880e74fad8dfebc60cdacf3fa6d261f06bb38b05c05b94f2b",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

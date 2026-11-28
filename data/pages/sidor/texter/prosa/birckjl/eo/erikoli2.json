@@ -1,0 +1,181 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/eo/erikoli2.htm",
+  "title": "Erik Olin och hans byskola, del 2",
+  "summary": "Erik Olins ambulerande skola i byarna kring Nykarleby höll till i bondstugor, från psalm klockan nio till kvällen. J. L. Birck beskriver ämnena, söndagssamlingarna, sångutfärderna och disciplinen, där riset kunde dränkas i en vak.",
+  "topics": [
+    "byskola",
+    "undervisning",
+    "disciplin",
+    "sång",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Erik Olin",
+      "alternateNames": [
+        "Olin"
+      ],
+      "roles": [
+        "byskollärare"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Zachris Schalin",
+      "alternateNames": [
+        "Z. Schalin"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Susanna Pettersson",
+      "alternateNames": [],
+      "birthYear": 1853,
+      "roles": []
+    },
+    {
+      "name": "J. Ahlnäs",
+      "alternateNames": [],
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "Mikander",
+      "alternateNames": [],
+      "roles": [
+        "pastor",
+        "magister"
+      ]
+    },
+    {
+      "name": "Heikel",
+      "alternateNames": [],
+      "roles": [
+        "pastor"
+      ]
+    },
+    {
+      "name": "J. J. Westerlund",
+      "alternateNames": [],
+      "roles": [
+        "studerande",
+        "prost"
+      ]
+    },
+    {
+      "name": "Johanna Blomström",
+      "alternateNames": [
+        "Olas Johanna"
+      ],
+      "roles": []
+    },
+    {
+      "name": "Henrik Wik",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Socklot",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5756575,
+        "lng": 22.5491757,
+        "match": "name",
+        "gazetteerName": "socklot",
+        "gazetteerKind": "village",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Markby",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.4605731,
+        "lng": 22.8216389,
+        "match": "name",
+        "gazetteerName": "markby",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Kovjoki",
+      "kind": "village",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.54094130000001,
+        "lng": 22.696428,
+        "match": "name",
+        "gazetteerName": "kovjoki",
+        "gazetteerKind": "village",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nabba",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Degernäs",
+      "kind": "village",
+      "alternateNames": []
+    },
+    {
+      "name": "Viken",
+      "kind": "waterbody",
+      "alternateNames": [
+        "viken i socklot"
+      ],
+      "description": "Vatten i Socklot där skolans straffredskap dränktes."
+    }
+  ],
+  "events": [
+    {
+      "title": "Bidrag till skolans läroböcker",
+      "date": {
+        "year": 1869,
+        "month": 10,
+        "day": 11,
+        "circa": false
+      },
+      "description": "Erik Olin startade i Socklot en insamling för att köpa naturlära och räkneböcker åt byskolan.",
+      "people": [
+        "Erik Olin"
+      ],
+      "places": [
+        "Socklot"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Den närsynte skolmästaren tycks ha ögon i nacken och straffar syndarna med knogar, linjal och karbas. På lördagen tågar han med alla de bestraffade till Viken och slungar ris och kvast i vaken, så att skammen försvinner för gott.",
+    "reason": "Skolvardagen är full av konkreta, humoristiska och rörande scener med en stark symbolhandling.",
+    "characters": [
+      "Erik Olin"
+    ],
+    "places": [
+      "Viken",
+      "Socklot"
+    ]
+  },
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "04e8d336d26d6a916d85608e8d851568b8aec806f2fdbddf4cb6d5fff90df952",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

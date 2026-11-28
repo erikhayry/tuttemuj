@@ -1,0 +1,212 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/somis2jb.htm",
+  "title": "Sommar i barndomsstaden II",
+  "summary": "Kapellsöndagens vilda kärrfärder, brandkårens sprutövningar på torget och den stora brandkårsfesten hörde till sommaren i J. L. Bircks Nykarleby. Inspirerade av festerna startade pojkarna en egen brandkår med spikar plockade ur handelsgårdarnas tomlådor.",
+  "topics": [
+    "brandkåren",
+    "kapellsöndag",
+    "sommar",
+    "barnlekar",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "V. K. E. Wichman",
+      "alternateNames": [
+        "V. K. E. Wichmann"
+      ],
+      "roles": [
+        "seminarielektor",
+        "skald"
+      ]
+    },
+    {
+      "name": "Anders Granlund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Paul Svanström",
+      "alternateNames": [],
+      "roles": [
+        "trumslagare"
+      ]
+    },
+    {
+      "name": "Sigurd Forsberg",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Joel Lillqvist",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Jukka Kleemola",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "torget",
+      "kind": "landmark",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "brandövningsplats"
+        }
+      ],
+      "geo": {
+        "lat": 63.522438,
+        "lng": 22.528594,
+        "match": "name",
+        "gazetteerName": "torget",
+        "gazetteerKind": "district",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "spruthuset",
+      "kind": "building",
+      "alternateNames": [
+        "poliskammaren"
+      ],
+      "uses": [
+        {
+          "use": "spruthus"
+        }
+      ],
+      "geo": {
+        "lat": 63.52279294332854,
+        "lng": 22.52734212032026,
+        "match": "name",
+        "gazetteerName": "spruthuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "klockstapeln",
+      "kind": "building",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5228438,
+        "lng": 22.527364,
+        "match": "name",
+        "gazetteerName": "klockstapeln",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Asgård",
+      "kind": "building",
+      "alternateNames": [
+        "brandkårshuset"
+      ],
+      "uses": [
+        {
+          "use": "brandkårshus",
+          "startYear": 1893
+        }
+      ],
+      "geo": {
+        "lat": 63.52168882172475,
+        "lng": 22.532311417528305,
+        "match": "name",
+        "gazetteerName": "brandkårshuset asgård",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "bryggeriet",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
+      ],
+      "geo": {
+        "lat": 63.52100957579514,
+        "lng": 22.525061657401842,
+        "match": "name",
+        "gazetteerName": "bryggeriet",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Andrasjön",
+      "kind": "waterbody",
+      "alternateNames": [
+        "Andra sjön"
+      ],
+      "geo": {
+        "lat": 63.5202693,
+        "lng": 22.4689706,
+        "match": "name",
+        "gazetteerName": "andra sjön",
+        "gazetteerKind": "district",
+        "source": "nkby-2018"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Brandkårshuset Asgård byggs",
+      "date": {
+        "year": 1893,
+        "circa": false
+      },
+      "description": "Frivilliga brandkåren i Nykarleby byggde brandkårshuset Asgård, som sedan måste säljas kring sekelskiftet.",
+      "people": [
+        "V. K. E. Wichman"
+      ],
+      "places": [
+        "Asgård"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "Pojkarna bygger ett eget brandkårshus av bakar, knycker spikar ur tomlådor och marscherar till trumslag på en plåthink. Till brandkårsfesten får de bara fjolårets blå biljetter och körs ut av en ridande befälsperson, tills en farbror räddar dem vid bakporten.",
+    "reason": "Påhittiga barnlekar och en tydlig orättvisa med lyckligt slut passar serieformen.",
+    "characters": [
+      "J. L. Birck",
+      "Paul Svanström",
+      "Sigurd Forsberg",
+      "Anders Granlund",
+      "Jukka Kleemola"
+    ],
+    "places": [
+      "torget",
+      "Asgård"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "bryggeriet"
+      ],
+      "year": 1932
+    }
+  ],
+  "contentHash": "c41279db1f2f0f2e6b950164ec36709f6589e4f7b8aa3596ec235fcab3ab1ca8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

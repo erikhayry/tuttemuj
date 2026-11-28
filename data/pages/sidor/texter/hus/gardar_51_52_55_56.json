@@ -206,6 +206,103 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Anders Nyman",
+      "place": "Borgaregatan 13",
+      "relation": "owned",
+      "startYear": 1890,
+      "endYear": 1910
+    },
+    {
+      "person": "Henrik Björklund",
+      "place": "Borgaregatan 13",
+      "relation": "owned",
+      "startYear": 1920
+    },
+    {
+      "person": "Gustaf Öhman",
+      "place": "Borgaregatan 15",
+      "relation": "owned",
+      "startYear": 1870
+    },
+    {
+      "person": "Anders Liljeqvist",
+      "place": "Borgaregatan 15",
+      "relation": "owned",
+      "startYear": 1900,
+      "endYear": 1914
+    }
+  ],
+  "images": [
+    {
+      "image": 2,
+      "places": [
+        "Karleborgsgatan",
+        "Borgaregatan"
+      ],
+      "year": 1902
+    },
+    {
+      "image": 3,
+      "places": [
+        "Borgaregatan",
+        "Karleborgsgatan"
+      ]
+    },
+    {
+      "image": 4,
+      "places": [
+        "Borgaregatan 13"
+      ],
+      "year": 2019
+    },
+    {
+      "image": 5,
+      "places": [],
+      "year": 2019
+    },
+    {
+      "image": 6,
+      "places": [],
+      "year": 2019
+    },
+    {
+      "image": 7,
+      "places": [
+        "Borgaregatan 16"
+      ],
+      "year": 2019
+    },
+    {
+      "image": 8,
+      "places": [
+        "Borgaregatan 16"
+      ],
+      "year": 2019
+    },
+    {
+      "image": 9,
+      "places": [],
+      "year": 2019
+    },
+    {
+      "image": 10,
+      "places": [
+        "Borgaregatan 14"
+      ],
+      "year": 2019
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "6a8ba5c474c2414e2fe5b27060c281b78df9497fa8857627fcd57be136ff774a",
   "extractionVersion": 1,
   "model": "claude-haiku-5-5",

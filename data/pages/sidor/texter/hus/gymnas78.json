@@ -27,6 +27,14 @@
       "kind": "building",
       "alternateNames": [
         "Gymnasiet"
+      ],
+      "uses": [
+        {
+          "use": "seminarium"
+        },
+        {
+          "use": "gymnasium"
+        }
       ]
     }
   ],
@@ -58,6 +66,25 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Seminariets huvudbyggnad"
+      ],
+      "year": 1978
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "6aa82829008e47e9edae3a2707e876a888e9dd4bbc7b2de05a20bea25deefea8",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

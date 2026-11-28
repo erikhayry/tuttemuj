@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/tulluppb.htm",
+  "title": "Tulluppbörden 1856–1922 och tullkammarens indragning",
+  "summary": "Nykarlebys tullkammare drogs in 1922 och staden överfördes till Jakobstads tulldistrikt. Sidan redogör för tulluppbördens toppar och svackor, visar tullkammarens gamla skylt och berättar om en konjaksflaska med tullsigill funnen vid Seminariegatan 16.",
+  "topics": [
+    "tull",
+    "handel",
+    "sjöfart",
+    "fynd"
+  ],
+  "people": [
+    {
+      "name": "Stig Haglund",
+      "alternateNames": [],
+      "roles": []
+    },
+    {
+      "name": "Axel Schauman",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "Nykarleby tullkammare",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "tullkammare",
+          "endYear": 1922
+        }
+      ]
+    },
+    {
+      "name": "Herlers museum",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "museum"
+        }
+      ],
+      "geo": {
+        "lat": 63.5272847,
+        "lng": 22.5333886,
+        "match": "name",
+        "gazetteerName": "herlers museum",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Gamla stationshuset",
+      "kind": "building",
+      "alternateNames": []
+    },
+    {
+      "name": "Seminariegatan 16",
+      "kind": "building",
+      "alternateNames": [],
+      "address": "Seminariegatan 16",
+      "geo": {
+        "lat": 63.52411970000001,
+        "lng": 22.5236337,
+        "match": "address",
+        "gazetteerName": "seminariegatan 16",
+        "gazetteerKind": "address",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Högbacka",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5329078,
+        "lng": 22.5301899,
+        "match": "name",
+        "gazetteerName": "högbacka hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Staden får egen tullkammare",
+      "date": {
+        "year": 1827,
+        "month": 6,
+        "day": 20,
+        "circa": false
+      },
+      "description": "Nykarleby fick rätt att uppbära tolag och därmed en egen tullkammare.",
+      "people": [],
+      "places": [
+        "Nykarleby tullkammare"
+      ]
+    },
+    {
+      "title": "Tullkammaren dras in",
+      "date": {
+        "year": 1922,
+        "month": 2,
+        "day": 17,
+        "circa": false
+      },
+      "description": "Tullkammaren i Nykarleby drogs in och staden fördes till Jakobstads tulldistrikt.",
+      "people": [],
+      "places": [
+        "Nykarleby tullkammare"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Herlers museum",
+        "Nykarleby tullkammare"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Seminariegatan 16"
+      ]
+    }
+  ],
+  "contentHash": "8eabfe362cb6aa066ca695283d8204a840246f30e74042ea70d4f0e29e219e3a",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

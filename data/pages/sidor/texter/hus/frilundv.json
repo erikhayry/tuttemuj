@@ -64,6 +64,11 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Gustav Adolfsgatan 2",
+      "uses": [
+        {
+          "use": "bostad"
+        }
+      ],
       "geo": {
         "lat": 63.52004090000001,
         "lng": 22.5316655,
@@ -180,6 +185,70 @@
       "Frilunds"
     ]
   },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Anna-Lovisa Frilund",
+      "place": "Frilunds",
+      "relation": "owned",
+      "startYear": 1925
+    },
+    {
+      "person": "Valdemar Frilund",
+      "place": "Frilunds",
+      "relation": "owned"
+    },
+    {
+      "person": "Alma Frilund",
+      "place": "Frilunds",
+      "relation": "owned",
+      "endYear": 1982
+    },
+    {
+      "person": "Laaksoharju",
+      "place": "Frilunds",
+      "relation": "owned",
+      "startYear": 1985
+    },
+    {
+      "person": "Johan Frilund",
+      "place": "Frilunds",
+      "relation": "lived"
+    },
+    {
+      "person": "Henrik Frilund Ryss",
+      "place": "Monå",
+      "relation": "lived"
+    },
+    {
+      "person": "Anna-Lovisa Frilund",
+      "place": "Monå",
+      "relation": "lived"
+    },
+    {
+      "person": "Anna-Lovisa Frilund",
+      "place": "Knock",
+      "relation": "owned",
+      "endYear": 1925
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Frilunds"
+      ],
+      "year": 1970
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "a03cbc7dff427e7b57e84da44d41f0c90f5acd0b179d64a4ceb83e0c6927083d",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

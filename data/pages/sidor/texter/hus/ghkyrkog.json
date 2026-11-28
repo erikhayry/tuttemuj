@@ -41,6 +41,11 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Kyrkogatan 11",
+      "uses": [
+        {
+          "use": "ålderdomshem"
+        }
+      ],
       "geo": {
         "lat": 63.5245433,
         "lng": 22.528622,
@@ -110,6 +115,28 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "De gamlas hem",
+        "Kyrkogatan",
+        "Lybecksgatan",
+        "Apotekets uthus"
+      ],
+      "year": 1972
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "e266b2fc16f053f5ae9fa167ab9d3b2c83dab30b824b7b2ae4978d107888b5c8",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

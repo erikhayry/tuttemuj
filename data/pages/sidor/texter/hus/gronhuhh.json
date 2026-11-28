@@ -64,17 +64,32 @@
     {
       "name": "Torggrillen",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "grillkiosk"
+        }
+      ]
     },
     {
       "name": "Gleisners livsmedelsaffär",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "livsmedelsaffär"
+        }
+      ]
     },
     {
       "name": "Bokhandeln",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "bokhandel"
+        }
+      ]
     },
     {
       "name": "Normen",
@@ -105,6 +120,35 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [
+    {
+      "person": "Göran Gleisner",
+      "place": "Gleisners livsmedelsaffär",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "HAB",
+        "Grönhuset",
+        "Runda kiosken",
+        "Torggrillen",
+        "Gleisners livsmedelsaffär",
+        "Bokhandeln"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "7f6ecc699a4642a8f414696024efd7049affd82011e8677d1efa3487cce90124",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

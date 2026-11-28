@@ -1,0 +1,151 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/haggstrom.html",
+  "title": "Älvens barn: minnesruna över Oskar Häggström",
+  "summary": "J. L. Birck hedrar 1962 sin klasskamrat läraren Oskar Häggström med minnen från barndomen vid älven i Nykarleby. Älven bjöd barnen på vårflod, klingis, metspön och simstränder, med kyrkan och skolan på var sin sida om Storbron.",
+  "topics": [
+    "älven",
+    "barndomsminnen",
+    "minnesruna",
+    "lärare"
+  ],
+  "people": [
+    {
+      "name": "Oskar Häggström",
+      "alternateNames": [],
+      "birthYear": 1886,
+      "deathYear": 1962,
+      "roles": [
+        "lärare"
+      ]
+    },
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Häggström",
+      "alternateNames": [],
+      "roles": [
+        "postiljon"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "älven",
+      "kind": "waterbody",
+      "alternateNames": []
+    },
+    {
+      "name": "Storbron",
+      "kind": "landmark",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.522451,
+        "lng": 22.524766,
+        "match": "name",
+        "gazetteerName": "storbron",
+        "gazetteerKind": "landmark",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Ragnörsforsen",
+      "kind": "waterbody",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5358546,
+        "lng": 22.5325748,
+        "match": "name",
+        "gazetteerName": "ragnörsforsen",
+        "gazetteerKind": "waterbody",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Brunnsholmarna",
+      "kind": "island",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5181215,
+        "lng": 22.5215525,
+        "match": "name",
+        "gazetteerName": "brunnsholmarna",
+        "gazetteerKind": "island",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Nykarleby kyrka",
+      "kind": "building",
+      "alternateNames": [
+        "kyrkan"
+      ],
+      "geo": {
+        "lat": 63.5225543,
+        "lng": 22.5261296,
+        "match": "name",
+        "gazetteerName": "kyrkan",
+        "gazetteerKind": "building",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "Nykarleby seminarium",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "seminarium"
+        }
+      ],
+      "geo": {
+        "lat": 63.5263663,
+        "lng": 22.5260457,
+        "match": "name",
+        "gazetteerName": "nykarleby seminarium",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Barbenta småpojkar utmanar älven: de balanserar på isblock i vårfloden, susar fram över brakande klingis och sitter timtals på en strandhäll med metspöt.",
+    "reason": "Älven genom årstiderna ger starka, visuella barndomsbilder.",
+    "characters": [
+      "J. L. Birck",
+      "Oskar Häggström"
+    ],
+    "places": [
+      "älven",
+      "Storbron"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "älven"
+      ],
+      "year": 2011
+    },
+    {
+      "image": 2,
+      "places": [
+        "Nykarleby kyrka"
+      ],
+      "year": 2010
+    }
+  ],
+  "contentHash": "da92440417a193033dabdcf649449fef523aaa3d5dda96310a52c92db86f97f1",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

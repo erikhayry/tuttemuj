@@ -1,0 +1,229 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/nygardb2.htm",
+  "title": "Min barndoms Nygård II: Engs och Herlers",
+  "summary": "Engs och Herlers var storgårdarna på Nygård i J. L. Bircks barndom, med garveri på älvbranten och bryggeri. Som pojke köpte han mjölk i fru Herlers lilla röda mjölkkammare och dricka ur Herlerska bryggeriets iskalla ölkällare.",
+  "topics": [
+    "Nygård",
+    "garveri",
+    "bryggeri",
+    "mjölk",
+    "barndomsminnen"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Janne Eng",
+      "alternateNames": [],
+      "roles": [
+        "fabrikör"
+      ]
+    },
+    {
+      "name": "Lina Herler",
+      "alternateNames": [
+        "fru Herler",
+        "Lina Silfverberg"
+      ],
+      "roles": [
+        "gårdsvärdinna"
+      ]
+    },
+    {
+      "name": "Isak",
+      "alternateNames": [
+        "Bryggar-Isak"
+      ],
+      "roles": [
+        "bryggardräng"
+      ]
+    },
+    {
+      "name": "Isak Björkman",
+      "alternateNames": [],
+      "roles": [
+        "bryggardräng"
+      ]
+    },
+    {
+      "name": "Anna Bredarholm",
+      "alternateNames": [
+        "Tant Anna"
+      ],
+      "roles": [
+        "hälsosyster"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Nygård",
+      "kind": "district",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.5182477084895,
+        "lng": 22.52465889479854,
+        "match": "name",
+        "gazetteerName": "nygårds hemman",
+        "gazetteerKind": "farm",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Engs gård",
+      "kind": "building",
+      "alternateNames": [
+        "Engs mangård"
+      ],
+      "description": "Stor mangård på den höga älvstranden, med läderbutik i södra ändan."
+    },
+    {
+      "name": "Engs garveri",
+      "kind": "building",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "garveri"
+        }
+      ]
+    },
+    {
+      "name": "Herlerska gården",
+      "kind": "building",
+      "alternateNames": [
+        "Herlers gård"
+      ],
+      "geo": {
+        "lat": 63.52093372972557,
+        "lng": 22.525638386685962,
+        "match": "name",
+        "gazetteerName": "herlerska gården",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Herlerska bryggeriet",
+      "kind": "building",
+      "alternateNames": [
+        "Nygårds bryggeri",
+        "ölbryggeriet"
+      ],
+      "uses": [
+        {
+          "use": "bryggeri"
+        }
+      ]
+    },
+    {
+      "name": "Ebba Brahes vattenkvarn",
+      "kind": "building",
+      "alternateNames": [
+        "stadskvarnen"
+      ],
+      "uses": [
+        {
+          "use": "kvarn"
+        }
+      ],
+      "geo": {
+        "lat": 63.5209475,
+        "lng": 22.5250358,
+        "match": "name",
+        "gazetteerName": "stadskvarnen",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Herlers gård säljs",
+      "date": {
+        "year": 2020,
+        "circa": false
+      },
+      "description": "Herlers gård på Nygård i Nykarleby såldes efter att länge ha varit i samma släkts ägo.",
+      "people": [],
+      "places": [
+        "Herlerska gården"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "En pojke med mjölkhink går från Engs kök genom porten i det röda planket till Herlers. Under tystnad tar den värdiga fru Herler ner nyckeln, skummar grädden i mjölkkammaren och fyller hinken utan ett onödigt ord.",
+    "reason": "Den ordlösa ritualen och de farliga barkkaren och kvarndammen ger stämningsfulla bilder.",
+    "characters": [
+      "J. L. Birck",
+      "Lina Herler",
+      "Janne Eng"
+    ],
+    "places": [
+      "Engs gård",
+      "Herlerska gården"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Janne Eng",
+      "place": "Engs garveri",
+      "relation": "worked"
+    },
+    {
+      "person": "Lina Herler",
+      "place": "Herlerska gården",
+      "relation": "lived"
+    },
+    {
+      "person": "Isak",
+      "place": "Herlerska bryggeriet",
+      "relation": "worked"
+    },
+    {
+      "person": "Isak Björkman",
+      "place": "Herlerska bryggeriet",
+      "relation": "worked"
+    },
+    {
+      "person": "Anna Bredarholm",
+      "place": "Engs gård",
+      "relation": "lived"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Engs gård"
+      ]
+    },
+    {
+      "image": 2,
+      "places": [
+        "Herlerska bryggeriet",
+        "Ebba Brahes vattenkvarn",
+        "Engs garveri",
+        "Engs gård"
+      ],
+      "year": 1896
+    },
+    {
+      "image": 4,
+      "places": [
+        "Herlerska bryggeriet",
+        "Herlerska gården"
+      ]
+    }
+  ],
+  "contentHash": "3874a7b0a598b605075288030f6b8051fbdcb9a5ed8c6e3959d8c22c01562df8",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

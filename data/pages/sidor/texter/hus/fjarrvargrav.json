@@ -91,6 +91,49 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Gamla begravningsplatsen",
+        "Finströms",
+        "Liljedahls affärshus",
+        "Polisgaraget"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 2,
+      "places": [
+        "Gamla begravningsplatsen"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 3,
+      "places": [
+        "Gamla begravningsplatsen"
+      ],
+      "year": 2008
+    },
+    {
+      "image": 4,
+      "places": [
+        "Gamla begravningsplatsen"
+      ],
+      "year": 2008
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "d513238cbdc18e49dc532d68764a356707675438b7218c7c2e37fe57c25dbe96",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

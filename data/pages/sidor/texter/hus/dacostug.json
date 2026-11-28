@@ -48,13 +48,36 @@
       "kind": "building",
       "alternateNames": [],
       "address": "Västra Esplanadgatan 13",
-      "description": "Nu gäststuga på Juthbacka camping."
+      "description": "Nu gäststuga på Juthbacka camping.",
+      "uses": [
+        {
+          "use": "byggkontor",
+          "startYear": 1981,
+          "endYear": 1983
+        },
+        {
+          "use": "gäststuga"
+        }
+      ]
     },
     {
       "name": "Topeliusesplanaden 13",
       "kind": "building",
       "alternateNames": [],
       "address": "Topeliusesplanaden 13",
+      "uses": [
+        {
+          "use": "byggkontor",
+          "startYear": 1981,
+          "endYear": 1983
+        },
+        {
+          "use": "kiosk"
+        },
+        {
+          "use": "bostadshus"
+        }
+      ],
       "geo": {
         "lat": 63.52311510000001,
         "lng": 22.5314284,
@@ -201,6 +224,52 @@
     }
   ],
   "comicCandidate": null,
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Harald Dahlfors",
+      "place": "DACO byggkonsults stockstuga",
+      "relation": "ran"
+    },
+    {
+      "person": "Svante Isomaa",
+      "place": "DACO byggkonsults stockstuga",
+      "relation": "owned"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "DACO byggkonsults stockstuga",
+        "Topeliusesplanaden 13"
+      ]
+    },
+    {
+      "image": 3,
+      "places": [
+        "DACO byggkonsults stockstuga",
+        "Juthbacka"
+      ],
+      "year": 2006
+    },
+    {
+      "image": 4,
+      "places": [
+        "DACO byggkonsults stockstuga",
+        "Storbron",
+        "Döbelns hus"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "499e693d7744fc5f5ad2f1b1219da3ab6c4f1ed1ff1f492acd40aed63ae191fb",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

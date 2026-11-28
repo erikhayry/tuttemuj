@@ -99,6 +99,12 @@
         "Gröna huset"
       ],
       "description": "Affärs- och bostadshus nordost om torget, byggt 1967 av Arne Jungerstam.",
+      "uses": [
+        {
+          "use": "bibliotek",
+          "endYear": 1981
+        }
+      ],
       "geo": {
         "lat": 63.52289328655638,
         "lng": 22.531447179848815,
@@ -139,13 +145,19 @@
     {
       "name": "Brända tomten",
       "kind": "other",
-      "alternateNames": []
+      "alternateNames": [],
+      "nameOrigin": "Platsen fick namnet sedan det vita huset som stod där hade brunnit våren 1971."
     },
     {
       "name": "Runda kiosken",
       "kind": "building",
       "alternateNames": [
         "Rundkiosken"
+      ],
+      "uses": [
+        {
+          "use": "kiosk"
+        }
       ]
     },
     {
@@ -169,19 +181,40 @@
     {
       "name": "Pihlainens skoaffär",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "skoaffär"
+        }
+      ]
     },
     {
       "name": "Modeaffären",
       "kind": "building",
       "alternateNames": [
         "Siréns beklädnadsaffär"
+      ],
+      "uses": [
+        {
+          "use": "beklädnadsaffär"
+        }
       ]
     },
     {
       "name": "Källargrillen",
       "kind": "building",
-      "alternateNames": []
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "grill"
+        },
+        {
+          "use": "kafé"
+        },
+        {
+          "use": "matservering"
+        }
+      ]
     },
     {
       "name": "Liljedahls affärshus",
@@ -226,6 +259,12 @@
       "name": "Ämbetshuset",
       "kind": "building",
       "alternateNames": [],
+      "uses": [
+        {
+          "use": "bibliotek",
+          "startYear": 1981
+        }
+      ],
       "geo": {
         "lat": 63.5221649,
         "lng": 22.5310114,
@@ -352,6 +391,77 @@
       "Kraftverket"
     ]
   },
+  "pageType": "article",
+  "relations": [
+    {
+      "person": "Arne Jungerstam",
+      "place": "Grönhuset",
+      "relation": "built",
+      "endYear": 1967
+    },
+    {
+      "person": "Gurli Sund",
+      "place": "Runda kiosken",
+      "relation": "ran"
+    },
+    {
+      "person": "Armas Pihlainen",
+      "place": "Pihlainens skoaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Meri Virtanen",
+      "place": "Pihlainens skoaffär",
+      "relation": "ran"
+    },
+    {
+      "person": "Hjördis Nordling",
+      "place": "Modeaffären",
+      "relation": "ran"
+    },
+    {
+      "person": "Carita Nygren",
+      "place": "Källargrillen",
+      "relation": "ran"
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Torget",
+        "Grönhuset",
+        "Topeliusesplanaden",
+        "Runda kiosken",
+        "HAB:s trappa",
+        "Sparbanken",
+        "Pihlainens skoaffär"
+      ],
+      "year": 1967
+    },
+    {
+      "image": 2,
+      "places": [
+        "Grönhuset",
+        "Modeaffären"
+      ],
+      "year": 1975
+    },
+    {
+      "image": 3,
+      "places": [
+        "Källargrillen"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "84512f77f370565c83e2982994d665fbedf7b4f3351b92a2e07ac58e7062b6c5",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",

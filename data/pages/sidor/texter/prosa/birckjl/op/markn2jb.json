@@ -1,0 +1,111 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/markn2jb.htm",
+  "title": "Min barndoms marknader II",
+  "summary": "På en marknad i 1890-talets Nykarleby försökte den ryktbare slagskämpen Isotalon-Antti från Härma befria sin son och brorson ur stadens arrest. J. L. Bircks far, polisen J. G. B., kröp in i cellen och hjälpte till att övermanna dem.",
+  "topics": [
+    "marknad",
+    "arrest",
+    "polis",
+    "slagskämpar",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [
+        "Johan Ludvig Birck"
+      ],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "J. G. B.",
+      "alternateNames": [],
+      "roles": [
+        "polis"
+      ]
+    },
+    {
+      "name": "Isotalon-Antti",
+      "alternateNames": [
+        "Storgård-Ant",
+        "I-A"
+      ],
+      "birthYear": 1831,
+      "deathYear": 1911,
+      "roles": [
+        "slagskämpe"
+      ]
+    },
+    {
+      "name": "Aminoff",
+      "alternateNames": [],
+      "roles": [
+        "fiskal"
+      ]
+    },
+    {
+      "name": "Strömmer",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "stadens arrest",
+      "kind": "building",
+      "alternateNames": [
+        "häktet"
+      ],
+      "uses": [
+        {
+          "use": "häkte"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Isotalon-Antti i arresten",
+      "date": {
+        "year": 1890,
+        "endYear": 1899,
+        "circa": false,
+        "text": "på en marknad på 1890-talet"
+      },
+      "description": "Slagskämpen Isotalon-Antti öppnade arrestrummen i Nykarleby för att befria sina släktingar men blev själv inlåst och belagd med järn.",
+      "people": [
+        "Isotalon-Antti",
+        "J. G. B.",
+        "Aminoff"
+      ],
+      "places": [
+        "stadens arrest"
+      ]
+    }
+  ],
+  "comicCandidate": {
+    "potential": "high",
+    "pitch": "I gryningen kliver den väldige Isotalon-Antti in i vaktrummet, slår upp alla cellerna och ropar ut fångarna inför tio skräckslagna vakter. Snart sitter han själv i cellen och håller emot ett brandkäx, tills polisen J. G. B. kryper in under vakternas armar.",
+    "reason": "Dramatisk kraftmätning med komik, en lugn hjälte och en oväntat mild dom.",
+    "characters": [
+      "Isotalon-Antti",
+      "J. G. B.",
+      "Aminoff",
+      "Strömmer"
+    ],
+    "places": [
+      "stadens arrest"
+    ]
+  },
+  "pageType": "story",
+  "relations": [],
+  "images": [],
+  "contentHash": "33f5d4008d38522132c226fe4289fdc55c3554c6ec66a4e73e0470c8f300d0e2",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

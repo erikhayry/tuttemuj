@@ -1,0 +1,202 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birck/iii/sondagsh.htm",
+  "title": "Söndagsskolan, hantverksskolans föregångare",
+  "summary": "Söndagsskolan för hantverkslärlingar i Nykarleby började i september 1842 med pastorsadjunkt Johan Anton Nordgren som lärare. Erik Birck följer skolan fram till 1890, då en hantverksskola tog vid, och berättar om svaga elevtal och ständiga lärarbyten.",
+  "topics": [
+    "skola",
+    "hantverk",
+    "söndagsskola",
+    "1800-talet"
+  ],
+  "people": [
+    {
+      "name": "Johan Anton Nordgren",
+      "alternateNames": [],
+      "roles": [
+        "pastorsadjunkt",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Isak Lindqvist",
+      "alternateNames": [],
+      "roles": [
+        "rådman"
+      ]
+    },
+    {
+      "name": "Gabriel Häggblom",
+      "alternateNames": [],
+      "roles": [
+        "adjunkt",
+        "t.f. lärare"
+      ]
+    },
+    {
+      "name": "Johan Kaldén",
+      "alternateNames": [],
+      "roles": [
+        "elementarlärare"
+      ]
+    },
+    {
+      "name": "Säfvendahl",
+      "alternateNames": [],
+      "roles": [
+        "biträdande elementarlärare"
+      ]
+    },
+    {
+      "name": "Th. Wilander",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare",
+        "ordförande i söndagsskoldirektionen"
+      ]
+    },
+    {
+      "name": "Isak Koskinen",
+      "alternateNames": [],
+      "roles": [
+        "garvarlärling"
+      ],
+      "description": "Elev från Lappo, över 25 år vid inskrivningen."
+    },
+    {
+      "name": "E. H. Bäckman",
+      "alternateNames": [],
+      "roles": [
+        "seminarist",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Hugo Ruotzi",
+      "alternateNames": [],
+      "roles": [
+        "seminarist",
+        "lärare"
+      ]
+    },
+    {
+      "name": "Werner Strömmer",
+      "alternateNames": [],
+      "roles": [
+        "borgmästare"
+      ]
+    },
+    {
+      "name": "Johan Gustaf Birck",
+      "alternateNames": [],
+      "roles": [
+        "elev"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Söndagsskolan",
+      "kind": "other",
+      "alternateNames": [],
+      "uses": [
+        {
+          "use": "söndagsskola",
+          "startYear": 1842,
+          "endYear": 1890
+        }
+      ]
+    },
+    {
+      "name": "Lägre elementarskolan",
+      "kind": "building",
+      "alternateNames": [
+        "Pedagogin"
+      ],
+      "uses": [
+        {
+          "use": "skola"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Förordning om söndagsskolor",
+      "date": {
+        "year": 1842,
+        "month": 1,
+        "day": 19,
+        "circa": false
+      },
+      "description": "En förordning föreskrev att söndagsskolor för hantverkslärlingar och gesäller skulle inrättas i Finlands städer.",
+      "people": [],
+      "places": []
+    },
+    {
+      "title": "Söndagsskolan börjar",
+      "date": {
+        "year": 1842,
+        "month": 9,
+        "circa": false
+      },
+      "description": "Undervisningen i Nykarlebys söndagsskola vidtog med pastorsadjunkt Johan Anton Nordgren som lärare.",
+      "people": [
+        "Johan Anton Nordgren"
+      ],
+      "places": [
+        "Söndagsskolan"
+      ]
+    },
+    {
+      "title": "Ärkebiskopens visitation",
+      "date": {
+        "year": 1843,
+        "month": 3,
+        "day": 2,
+        "circa": false
+      },
+      "description": "Ärkebiskop Melartin konstaterade vid en visitation att söndagsskolan i Nykarleby inrättats och hade 20–30 elever.",
+      "people": [],
+      "places": [
+        "Söndagsskolan",
+        "Lägre elementarskolan"
+      ]
+    },
+    {
+      "title": "Kaldén avskedas och återfår tjänsten",
+      "date": {
+        "year": 1868,
+        "month": 5,
+        "circa": false
+      },
+      "description": "Läraren Johan Kaldén skildes från sin tjänst vid söndagsskolan men protesterade och fick den tillbaka.",
+      "people": [
+        "Johan Kaldén",
+        "Säfvendahl"
+      ],
+      "places": [
+        "Söndagsskolan"
+      ]
+    },
+    {
+      "title": "Söndagsskolan upphör",
+      "date": {
+        "year": 1890,
+        "circa": false
+      },
+      "description": "Söndagsskolan i Nykarleby verkade till och med vårterminen 1890, varefter en lägre hantverksskola kom igång på hösten.",
+      "people": [],
+      "places": [
+        "Söndagsskolan"
+      ]
+    }
+  ],
+  "comicCandidate": null,
+  "pageType": "article",
+  "relations": [],
+  "images": [],
+  "contentHash": "4d0e3b13631b534fd442a1da57e11dfaf49099f49664c1c741f549adfac46b48",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

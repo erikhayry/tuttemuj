@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.nykarlebyvyer.nu/sidor/texter/prosa/birckjl/op/stadsbib.htm",
+  "title": "Minnen från stadsbiblioteket i Nykarleby",
+  "summary": "På 1890-talet rymdes Nykarlebys folkbibliotek i ett brunmålat skåp i rådhusets folkskolrum. J. L. Birck minns hur läshungriga barn på lördagarna väntade på den fåordiga bibliotekarien Charlotte Lindqvist och slukade äventyrsböcker.",
+  "topics": [
+    "bibliotek",
+    "läsning",
+    "barnböcker",
+    "1890-talet"
+  ],
+  "people": [
+    {
+      "name": "J. L. Birck",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Charlotte Lindqvist",
+      "alternateNames": [
+        "Charlotta Lindqvist"
+      ],
+      "roles": [
+        "bibliotekarie"
+      ]
+    },
+    {
+      "name": "Maria Sofia Backlund",
+      "alternateNames": [],
+      "roles": [
+        "skepparänka",
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "Alma Backlund",
+      "alternateNames": [],
+      "roles": [
+        "lärarinna"
+      ]
+    },
+    {
+      "name": "J. J. Huldén",
+      "alternateNames": [],
+      "roles": [
+        "författare"
+      ]
+    },
+    {
+      "name": "Sigurd Forsberg",
+      "alternateNames": [],
+      "roles": []
+    }
+  ],
+  "places": [
+    {
+      "name": "rådhuset",
+      "kind": "building",
+      "alternateNames": [],
+      "description": "Folkskolrummet blev senare lokal för stadskansliet.",
+      "uses": [
+        {
+          "use": "bibliotek"
+        },
+        {
+          "use": "folkskola"
+        }
+      ],
+      "geo": {
+        "lat": 63.5220214,
+        "lng": 22.5268777,
+        "match": "name",
+        "gazetteerName": "rådhuset",
+        "gazetteerKind": "building",
+        "source": "manual"
+      }
+    },
+    {
+      "name": "Kyrkogatan",
+      "kind": "street",
+      "alternateNames": [],
+      "geo": {
+        "lat": 63.52292689999999,
+        "lng": 22.5276398,
+        "match": "name",
+        "gazetteerName": "kyrkogatan",
+        "gazetteerKind": "street",
+        "source": "nkby-2018"
+      }
+    },
+    {
+      "name": "rådman Lybecks port",
+      "kind": "landmark",
+      "alternateNames": []
+    }
+  ],
+  "events": [
+    {
+      "title": "Småbarns Fattigskolan startar",
+      "date": {
+        "year": 1860,
+        "circa": false
+      },
+      "description": "I Småbarns Fattigskolan i Nykarleby undervisade skepparänkan Maria Sofia Backlund och dottern Alma, som också höll ett lånebibliotek.",
+      "people": [
+        "Maria Sofia Backlund",
+        "Alma Backlund"
+      ],
+      "places": []
+    },
+    {
+      "title": "Bibliotekskatalogen",
+      "date": {
+        "year": 1865,
+        "endYear": 1903,
+        "circa": false
+      },
+      "description": "Charlotte Lindqvist förde katalogen över folkbibliotekets böcker i Nykarleby.",
+      "people": [
+        "Charlotte Lindqvist"
+      ],
+      "places": []
+    }
+  ],
+  "comicCandidate": {
+    "potential": "medium",
+    "pitch": "Varje lördag spanar barnskaran längs Kyrkogatan efter den buttra fröken Lindqvist, som långsamt och värdigt närmar sig bokskåpet. Sedan kämpar pojkarna om att få äventyrsböckerna i rätt ordning och hälsar varandra på latin.",
+    "reason": "Den stränga bibliotekarien och de otåliga bokslukarna ger en humoristisk scen.",
+    "characters": [
+      "J. L. Birck",
+      "Charlotte Lindqvist",
+      "Sigurd Forsberg"
+    ],
+    "places": [
+      "rådhuset",
+      "Kyrkogatan"
+    ]
+  },
+  "pageType": "story",
+  "relations": [
+    {
+      "person": "Charlotte Lindqvist",
+      "place": "rådhuset",
+      "relation": "worked"
+    }
+  ],
+  "images": [],
+  "contentHash": "64323f2b731ab97cfa6fdf68d9bcfaccbb97af8ca4de83fb5fc20e7c4ca105a4",
+  "extractionVersion": 2,
+  "model": "claude-sonnet-5-5",
+  "extractedAt": "2026-11-28T14:38:46.994Z"
+}

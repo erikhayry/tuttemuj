@@ -34,6 +34,24 @@
   ],
   "events": [],
   "comicCandidate": null,
+  "pageType": "photo",
+  "relations": [],
+  "images": [
+    {
+      "image": 1,
+      "places": [
+        "Hanséns café"
+      ]
+    }
+  ],
+  "enrichments": [
+    {
+      "skill": "enrich-pages",
+      "version": 1,
+      "model": "claude-sonnet-5-5",
+      "enrichedAt": "2026-11-28T14:48:55.597Z"
+    }
+  ],
   "contentHash": "3155abb24f1d064e03c894eb9113564279c93dd39de606005db20f3ca87e544d",
   "extractionVersion": 1,
   "model": "claude-opus-5-5",
