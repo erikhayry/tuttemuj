@@ -10,3 +10,7 @@ supabase/.temp/
 
 # Foldkit examples cloned for agents to read (see issue #60)
 examples/
+
+# Playwright output
+/apps/api/test-results/
+/apps/api/playwright-report/
