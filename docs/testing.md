@@ -69,7 +69,11 @@ The crawler, extraction and loader are tested the same way: run the command on a
 
 ## Test data
 
-Tests never touch production. They run against a local Supabase (`supabase start`, needs Docker) seeded from a small fixture of real derived data: the places, pages and events around Torget, Storbron, Brostugan and Andrasjön. The same fixture serves feature and property tests, so results are stable.
+Tests never touch production. `pnpm test:db` starts the local Supabase (`supabase start`, needs Docker), resets it to the migrations, and loads the fixture from `data/`. It refuses any database that is not on localhost, and writes the local URL and key to `.env.test` for the API tests.
+
+The fixture (`apps/loader/src/fixture.ts`) is the places within 100 m of Torget, Storbron and Brostugan, with the pages, events, uses, relations and image facts that belong to them: about 50 places and 900 pages. Andrasjön is not in it yet, because it has no coordinates (#40).
+
+Then run the API tests with `pnpm --filter @tuttemuj/api test:api`.
 
 ## Existing unit tests
 
