@@ -7,7 +7,8 @@
     "typecheck": "tsc -p .",
     "sync": "tsx --env-file-if-exists=../../.env src/cli/sync.ts",
     "embed": "tsx --env-file-if-exists=../../.env src/cli/embed.ts",
-    "search:try": "tsx --env-file-if-exists=../../.env src/cli/search.ts"
+    "search:try": "tsx --env-file-if-exists=../../.env src/cli/search.ts",
+    "test:db": "tsx src/cli/test-db.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.2",

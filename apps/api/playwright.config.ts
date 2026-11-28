@@ -1,8 +1,8 @@
 import { defineConfig } from "@playwright/test";
 
-// Playwright Test runs the API tests (docs/testing.md). It starts the v1 server itself, so one
-// command runs everything. The server needs SUPABASE_URL and SUPABASE_SECRET_KEY, read from the
-// root .env, and in CI from a local Supabase seeded with the test fixture (#63).
+// Playwright Test runs the API tests (docs/testing.md). It starts the v1 server itself. The server
+// needs SUPABASE_URL and SUPABASE_SECRET_KEY: `pnpm test:db` writes the local test database's values
+// to `.env.test`, which is read first. In CI they come from the environment instead.
 const PORT = Number(process.env.PORT ?? 8787);
 
 export default defineConfig({
@@ -16,7 +16,8 @@ export default defineConfig({
   },
   webServer: {
     // Run node directly, not through pnpm, so that stopping the server also stops the process.
-    command: "node --env-file-if-exists=../../.env --import tsx src/v1/server.ts",
+    command:
+      "node --env-file-if-exists=../../.env.test --env-file-if-exists=../../.env --import tsx src/v1/server.ts",
     // Playwright waits for this URL to answer before it runs a test. `/health` answers 204.
     url: `http://localhost:${PORT}/health`,
     reuseExistingServer: !process.env.CI,
